@@ -30,6 +30,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import sys
 import time
 import urllib.error
@@ -140,9 +141,15 @@ def main() -> int:
         print(f"\n[dry-run] {len(items)} message(s) valid; would post in the order above.")
         return 0
 
-    webhook = os.environ.get(args.webhook_env, "").strip()
-    if not webhook.startswith("https://"):
-        print(f"[config] environment variable {args.webhook_env} is unset or not an https URL; NOTHING SENT (exit 3)", file=sys.stderr)
+    raw = os.environ.get(args.webhook_env, "")
+    # tolerate stray quotes, whitespace, CR/LF or punctuation pasted around the value
+    webhook = raw.strip().strip("\"'`<>").strip()
+    webhook = re.sub(r"[^A-Za-z0-9_\-]+$", "", webhook)
+    m = re.match(r"^https://(?:ptb\.|canary\.)?discord(?:app)?\.com/api/webhooks/\d+/[A-Za-z0-9_\-]+$", webhook)
+    if not m:
+        shape = re.sub(r"[0-9]", "9", re.sub(r"[A-Za-z]", "x", raw.strip()))[:60]
+        print(f"[config] environment variable {args.webhook_env} is unset or not a Discord webhook URL "
+              f"(expected https://discord.com/api/webhooks/<id>/<token>; got length {len(raw)}, masked shape '{shape}'); NOTHING SENT (exit 3)", file=sys.stderr)
         return 3
 
     sent = 0
