@@ -55,13 +55,13 @@ def parse_section(body):
     for ch in chunks[1:]:
         title, _, rest = ch.partition("\n")
         # trailing footer material lives after the last item: "### Announced only", "Near-misses:", "Verification:"
-        m = re.search(r"^(### Announced only.*|Near-misses\b.*|Verification:.*)$", rest, flags=re.M | re.S)
+        m = re.search(r"^(### Previously reported.*|### Announced only.*|Near-misses\b.*|Verification:.*)$", rest, flags=re.M | re.S)
         if m:
             trailing += m.group(0) + "\n"
             rest = rest[: m.start()]
         items.append((title.strip(), rest.strip()))
     # footer lines may also sit in the head (empty section)
-    m = re.search(r"^(### Announced only.*|Near-misses\b.*|Verification:.*)$", head, flags=re.M | re.S)
+    m = re.search(r"^(### Previously reported.*|### Announced only.*|Near-misses\b.*|Verification:.*)$", head, flags=re.M | re.S)
     if m and not items:
         trailing += m.group(0) + "\n"
     return window, items, trailing
@@ -144,9 +144,9 @@ else:
     header += ["**Part A — Papers.** No Part A in this digest.", ""]
 if winB:
     header += ["**Part B — Research → Product.** " + winB.replace("Window: ", ""), ""]
-header += [f"Items follow as one message each: {len(itemsA)} papers (A01–A{len(itemsA):02d}), "
-           f"{len(newB)} new products (B01–B{len(newB):02d})"
-           + (f", {len(prevB)} previously reported" if prevB else "") + ", then a footer with announced-only items and near-misses."]
+header += [f"Items follow as one message each: {len(itemsA)} new papers (A01–A{len(itemsA):02d}), "
+           f"{len(newB)} new products (B01–B{len(newB):02d}); previously reported papers and products are collapsed into list messages, "
+           "then a footer with announced-only items and near-misses."]
 files["00-header.md"] = "\n".join(header)
 
 for i, (t, b) in enumerate(itemsA, 1):
@@ -162,6 +162,14 @@ if prevB:
         lines.append(f"- {t} · {comp.group(1) if comp else ''} · {rel.group(1) if rel else ''} · {src.group(1) if src else ''}")
     for j, ch in enumerate(chunk_lines(lines)):
         files[f"30{chr(97+j)}-B-previously-reported.md"] = ch
+
+# Part A previously reported papers → their own collapsed message(s), removed from the footer
+mprev = re.search(r"^### Previously reported papers[^\n]*\n((?:- .*\n?)+)", trailA, flags=re.M)
+if mprev:
+    lines = ["**Previously reported papers (still in the 30-day window)**"] + [l for l in mprev.group(1).split("\n") if l.strip()]
+    for j, ch in enumerate(chunk_lines(lines)):
+        files[f"15{chr(97+j)}-A-previously-reported.md"] = ch
+    trailA = trailA[:mprev.start()] + trailA[mprev.end():]
 
 footer_lines = ["**Announced only, near-misses and verification**"]
 for tr in (trailA, trailB):

@@ -18,6 +18,13 @@ digest and dedup state back here.
 | `scripts/build_messages.py` | Splits `digest.md` into per-item Discord messages, each ≤2000 characters |
 | `scripts/send_local.ps1` / `scripts/test_discord.ps1` | Send a messages folder / a test message from this PC (asks for the webhook URL, hidden) |
 | `state/product_seen.json` | Products already reported (keyed by primary-source URL); updated by each run |
+| `state/papers_seen.json` | Every arXiv id already checked (qualified / near-miss / screened-out); the screener skips these, so daily runs only verify new papers |
+| `scripts/update_papers_seen.py` | Merges a day's results into `papers_seen.json` |
+
+Cost model: the first run verified a full 30-day backlog. Daily runs are incremental (only new arXiv ids),
+Part B does a full company sweep on Mondays and a light newsroom check on other days, verification
+sub-agents run on Sonnet and write straight to disk, and papers without an arXiv HTML version are
+listed as unverifiable rather than parsed from PDF.
 | `digests/YYYY-MM-DD/digest.md` | Full digest for that day |
 | `digests/YYYY-MM-DD/messages/*.md` | The exact messages that were posted, in order |
 | `ROUTINE_PROMPT.md` | The prompt the cloud routine runs. Edit here, then update the routine |

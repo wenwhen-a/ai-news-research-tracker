@@ -7,7 +7,7 @@ for tracked company names. Writes the same list with "screen_source" and
 "company_matches" filled in, plus "hits" = candidates with any match.
 This is a LEAD FILTER only; every hit must still be verified by reading the paper.
 """
-import html, json, re, sys, threading, time, urllib.request, urllib.error
+import html, json, os, re, sys, threading, time, urllib.request, urllib.error
 from concurrent.futures import ThreadPoolExecutor
 
 SRC = sys.argv[1] if len(sys.argv) > 1 else "site_candidates.json"
@@ -66,6 +66,13 @@ def screen(c):
 
 data = json.load(open(SRC, encoding="utf-8"))
 cands = sorted(data["candidates"], key=lambda c: c["submitted"], reverse=True)
+# incremental mode: skip ids already checked in an earlier run (state/papers_seen.json)
+SEEN_PATH = os.path.join("state", "papers_seen.json")
+if os.path.exists(SEEN_PATH):
+    seen = json.load(open(SEEN_PATH, encoding="utf-8"))
+    before = len(cands)
+    cands = [c for c in cands if c["id"] not in seen]
+    print(f"skipping {before - len(cands)} ids already in {SEEN_PATH}", file=sys.stderr, flush=True)
 print(f"screening {len(cands)} candidates with {WORKERS} workers", file=sys.stderr, flush=True)
 with ThreadPoolExecutor(max_workers=WORKERS) as ex:
     results = list(ex.map(screen, cands))

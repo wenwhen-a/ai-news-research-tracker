@@ -4,7 +4,7 @@ Usage: python scripts/assemble_digest.py digests/YYYY-MM-DD TODAY CUTOFF_A RETRI
 Reads digests/<date>/partA_raw_*.md (each "## " section is one paper; "# Near-misses" sections
 are collected) and digests/<date>/partB.md, writes digests/<date>/digest.md.
 """
-import glob, os, re, sys
+import glob, json, os, re, sys
 
 d = sys.argv[1]
 today = sys.argv[2]
@@ -39,11 +39,24 @@ ordered = sorted(papers.values(), key=lambda p: (p[0], p[1]), reverse=True)
 flagged = sum(1 for p in ordered if "FLAG" in p[2])
 open_rel = sum(1 for p in ordered if re.search(r"\*\*Open release:\*\* (?!none)", p[2]))
 
+# previously reported papers still inside the window (from state/papers_seen.json), one line each
+prev = []
+seen_path = os.path.join("state", "papers_seen.json")
+if os.path.exists(seen_path):
+    seen = json.load(open(seen_path, encoding="utf-8"))
+    for aid, e in seen.items():
+        if e.get("status") == "qualified" and aid not in papers and e.get("submitted", "") >= cutoff \
+                and e.get("first_seen", "") < today:
+            prev.append((e.get("submitted", ""), f"- {e.get('title', aid)} · {e.get('affiliation', '')} · {e.get('submitted', '')} · {e.get('url', 'https://arxiv.org/abs/' + aid)}"))
+prev = [l for _, l in sorted(prev, reverse=True)]
+
 out = [f"# Part A — Papers",
        f"Window: last 30 days ({cutoff} to {today}). Categories: cs.GR, cs.CV, cs.LG, cs.AI, cs.RO. "
-       f"Retrieval: {retrieval}. Qualifying papers: {len(ordered)} ({flagged} flagged).", ""]
+       f"Retrieval: {retrieval}. Qualifying papers: {len(ordered) + len(prev)} ({len(ordered)} new, {len(prev)} previously reported, {flagged} flagged).", ""]
 for date, title, rest in ordered:
     out += ["---", f"## {title}", rest, ""]
+if prev:
+    out += ["### Previously reported papers (still in window)"] + prev + [""]
 out += ["Near-misses (on-topic candidates excluded, with reason):"] + [f"- {n}" for n in near] if near else ["Near-misses: none recorded."]
 out += [
         f"Verification: every listed paper was checked twice against arXiv (v1 date and title on the abstract page; "
