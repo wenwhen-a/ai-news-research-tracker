@@ -1,4 +1,10 @@
-*_candidates.json
-__pycache__/
 *.pyc
+*_candidates.json
 .discord_webhook
+__pycache__/
+scan.log
+scan.out
+site_candidates.json
+screened.json
+verify_*.md
+batch*_hits.json

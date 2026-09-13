@@ -1,0 +1,897 @@
+screening 895 candidates with 3 workers
+[1] 2609.11553 html 
+[2] 2609.11922 html 
+[3] 2609.11548 html 
+[4] 2609.09597 html 
+[5] 2609.11499 html 
+[6] 2609.11445 html 
+[7] 2609.00610 html 
+[8] 2608.26200 abs HIT Google
+[9] 2608.30237 html 
+[10] 2608.12564 html HIT Amazon
+[11] 2609.11129 html 
+[12] 2609.11638 html 
+[13] 2609.08333 html 
+[14] 2609.11079 html 
+[15] 2609.05927 html 
+[16] 2609.11223 html 
+[17] 2609.11434 html 
+[18] 2609.06017 html 
+[19] 2609.11430 html 
+[20] 2609.11472 html 
+[21] 2609.11894 html 
+[22] 2608.29705 html 
+[23] 2508.07769 html 
+[24] 2609.10457 abs HIT Google
+[25] 2609.11439 html 
+[26] 2609.11357 html 
+[27] 2609.11225 abs HIT Google
+[28] 2609.10187 html 
+[29] 2609.11382 html 
+[30] 2603.02856 html 
+[31] 2609.11722 html 
+[32] 2603.26934 html HIT Meta,Tencent
+[33] 2609.11281 html 
+[34] 2609.11240 html 
+[35] 2608.22070 html HIT borderline
+[36] 2609.11487 html 
+[37] 2609.11299 html 
+[38] 2609.11471 html 
+[39] 2608.25397 html 
+[40] 2609.10954 html 
+[41] 2609.10540 html 
+[42] 2609.10506 html HIT NVIDIA
+[43] 2609.09941 html 
+[44] 2609.10464 html 
+[45] 2609.09776 html 
+[46] 2609.08796 html 
+[47] 2609.09757 html 
+[48] 2609.06820 html 
+[49] 2609.10531 html 
+[50] 2609.10694 html 
+[51] 2609.10376 html 
+[52] 2609.10095 html 
+[53] 2609.10307 html 
+[54] 2609.09828 html 
+[55] 2609.09890 html 
+[56] 2609.07298 html HIT borderline
+[57] 2606.24138 html 
+[58] 2609.10918 html 
+[59] 2609.10317 html HIT Alibaba
+[60] 2609.10982 html 
+[61] 2609.10509 html 
+[62] 2609.09821 html 
+[63] 2609.11041 html HIT Meta
+[64] 2609.10385 html 
+[65] 2609.09738 html 
+[66] 2609.09705 html 
+[67] 2609.04444 html 
+[68] 2609.00539 abs HIT Google
+[69] 2607.18116 html 
+[70] 2609.10484 html 
+[71] 2609.10977 html 
+[72] 2609.10803 html 
+[73] 2609.00907 html 
+[74] 2609.09710 html 
+[75] 2609.05442 html 
+[76] 2608.27346 html 
+[77] 2609.09627 html 
+[78] 2609.09528 html 
+[79] 2609.09418 html 
+[80] 2609.09250 html 
+[81] 2609.09155 html 
+[82] 2609.08855 html 
+[83] 2609.08342 html 
+[84] 2609.08250 html 
+[85] 2609.08230 html 
+[86] 2607.26694 html HIT Tencent,Kuaishou
+[87] 2609.08841 html 
+[88] 2609.08449 html HIT Adobe
+[89] 2609.09513 html 
+[90] 2609.08253 html HIT Adobe
+[91] 2605.12957 html 
+[92] 2609.09606 html 
+[93] 2609.08730 html 
+[94] 2609.08332 html 
+[95] 2609.09020 html 
+[96] 2609.09491 html 
+[97] 2609.09394 html HIT Google
+[98] 2609.08493 html 
+[99] 2608.16806 html 
+[100] 2609.09507 html 
+[101] 2609.08848 html 
+[102] 2605.30488 html HIT borderline
+[103] 2604.14141 html 
+[104] 2609.09158 html 
+[105] 2609.08365 html 
+[106] 2608.16222 html 
+[107] 2606.01900 html HIT Google,Adobe,borderline
+[108] 2609.08920 html 
+[109] 2609.09368 html HIT Microsoft
+[110] 2609.08300 html HIT Kuaishou
+[111] 2609.08981 html HIT Qualcomm
+[112] 2609.08926 html 
+[113] 2609.08254 html HIT borderline
+[114] 2609.08209 html HIT NVIDIA
+[115] 2609.03666 html HIT Google,Meta,Apple
+[116] 2609.09366 html 
+[117] 2609.09354 html 
+[118] 2609.09089 html 
+[119] 2609.09061 html 
+[120] 2609.08916 html 
+[121] 2609.08662 html 
+[122] 2609.08457 html 
+[123] 2608.24406 html 
+[124] 2608.17685 html 
+[125] 2609.09059 html 
+[126] 2609.08677 html 
+[127] 2609.08162 html 
+[128] 2609.07874 html 
+[129] 2609.07719 html 
+[130] 2609.07611 html HIT NVIDIA
+[131] 2609.07532 html 
+[132] 2609.07470 abs HIT Google
+[133] 2609.07328 html HIT borderline
+[134] 2609.07299 html 
+[135] 2609.07126 html 
+[136] 2609.07051 html HIT Google
+[137] 2608.23863 html 
+[138] 2609.04911 html 
+[139] 2608.15156 abs HIT Google
+[140] 2609.07818 html 
+[141] 2608.01397 abs HIT Google
+[142] 2609.07647 html 
+[143] 2609.07137 html HIT Tencent
+[144] 2609.05416 html HIT borderline
+[145] 2606.04108 html HIT Tencent,borderline
+[146] 2609.07085 html 
+[147] 2609.07557 html 
+[148] 2609.07346 html 
+[149] 2609.07274 html 
+[150] 2609.07734 html 
+[151] 2609.07231 html 
+[152] 2605.25909 html 
+[153] 2504.14373 html HIT ByteDance
+[154] 2605.05155 html 
+[155] 2609.07174 html 
+[156] 2609.07414 html 
+[157] 2609.08032 html HIT Epic
+[158] 2603.20187 html 
+[159] 2609.08117 html 
+[160] 2609.07933 html 
+[161] 2609.02134 html 
+[162] 2609.07159 html 
+[163] 2609.07547 html 
+[164] 2608.04487 abs HIT Google
+[165] 2609.07780 html 
+[166] 2609.09232 html 
+[167] 2609.08205 html 
+[168] 2609.07588 html 
+[169] 2609.07510 html 
+[170] 2609.07442 html 
+[171] 2609.07088 html 
+[172] 2609.07002 html 
+[173] 2609.06837 html 
+[174] 2609.06823 html HIT Google
+[175] 2609.06647 html 
+[176] 2609.04264 html 
+[177] 2608.21114 html 
+[178] 2609.06436 html HIT Tencent
+[179] 2609.06385 html 
+[180] 2609.06874 html 
+[181] 2609.06948 html HIT borderline
+[182] 2609.06888 html HIT Meta
+[183] 2605.11696 html 
+[184] 2609.06517 html 
+[185] 2609.06965 html 
+[186] 2609.06630 html 
+[187] 2609.06876 abs HIT Google
+[188] 2609.02112 html 
+[189] 2609.09210 html 
+[190] 2609.06302 html 
+[191] 2609.06207 html HIT ByteDance
+[192] 2609.06009 html 
+[193] 2608.16829 html HIT borderline
+[194] 2511.09057 html 
+[195] 2609.06157 html 
+[196] 2609.05925 html 
+[197] 2609.05888 html 
+[198] 2609.06099 html HIT borderline
+[199] 2608.17832 html HIT Google,Microsoft
+[200] 2609.06261 html 
+[201] 2608.28933 html HIT Google
+[202] 2607.23491 html 
+[203] 2606.09606 html 
+[204] 2605.10239 html 
+[205] 2609.05918 html 
+[206] 2609.06195 html 
+[207] 2609.06020 html 
+[208] 2609.06274 abs HIT Google
+[209] 2609.06209 html 
+[210] 2609.06087 html 
+[211] 2609.06031 html 
+[212] 2609.05834 html 
+[213] 2609.01956 html 
+[214] 2609.04894 html 
+[215] 2608.27367 html 
+[216] 2609.04851 html 
+[217] 2609.04034 html 
+[218] 2606.28215 html 
+[219] 2609.05594 html 
+[220] 2609.04942 html HIT borderline
+[221] 2609.05583 html 
+[222] 2609.05255 html 
+[223] 2609.05127 html HIT Adobe
+[224] 2609.05382 html 
+[225] 2609.02847 html HIT borderline
+[226] 2608.02006 html 
+[227] 2609.05738 html HIT Microsoft
+[228] 2609.05210 html 
+[229] 2609.04718 html 
+[230] 2608.23206 html HIT Google
+[231] 2609.05415 html 
+[232] 2609.05742 html 
+[233] 2609.04759 html 
+[234] 2609.05404 html 
+[235] 2609.05855 html 
+[236] 2609.05038 html 
+[237] 2609.04984 html 
+[238] 2609.05007 html 
+[239] 2609.04903 html 
+[240] 2609.05170 html 
+[241] 2609.05853 html 
+[242] 2609.04996 html 
+[243] 2609.04888 html 
+[244] 2609.04919 abs HIT Google
+[245] 2608.26435 html 
+[246] 2407.09013 abs HIT Google
+[247] 2609.05095 html HIT Amazon
+[248] 2609.05552 html 
+[249] 2609.04364 html 
+[250] 2606.28514 html 
+[251] 2609.03952 html HIT Tencent
+[252] 2609.04193 html 
+[253] 2609.03927 html 
+[254] 2609.03834 html 
+[255] 2609.03891 abs HIT Google
+[256] 2609.03774 abs HIT Google
+[257] 2609.03697 html HIT Meta
+[258] 2609.03681 html 
+[259] 2609.03602 html HIT NVIDIA
+[260] 2609.03565 html 
+[261] 2609.03572 html 
+[262] 2609.03557 html HIT NVIDIA
+[263] 2608.27345 html HIT Google,ByteDance,Alibaba,Kuaishou,borderline
+[264] 2608.13456 html 
+[265] 2609.03931 abs HIT Google
+[266] 2609.04602 html 
+[267] 2609.03764 html 
+[268] 2609.04381 html 
+[269] 2609.03657 html HIT borderline
+[270] 2609.03897 html 
+[271] 2609.03613 html HIT borderline
+[272] 2609.03534 html 
+[273] 2609.03447 html 
+[274] 2609.03639 html 
+[275] 2609.03349 html 
+[276] 2601.05250 html 
+[277] 2609.04201 html HIT NVIDIA
+[278] 2609.04174 html 
+[279] 2609.03756 abs HIT Google
+[280] 2603.21304 html 
+[281] 2609.03497 html 
+[282] 2604.21918 abs HIT Google
+[283] 2602.07106 html HIT Tencent
+[284] 2603.07604 html 
+[285] 2609.04199 html 
+[286] 2609.03659 html 
+[287] 2609.04590 abs HIT Google
+[288] 2608.10720 html 
+[289] 2609.03644 abs HIT Google,borderline
+[290] 2609.03463 html 
+[291] 2609.04589 html 
+[292] 2609.03743 html 
+[293] 2609.03434 html 
+[294] 2609.03294 html 
+[295] 2609.03225 html 
+[296] 2609.03153 html HIT Adobe
+[297] 2609.03067 html 
+[298] 2609.02886 html HIT NVIDIA,borderline
+[299] 2609.02885 html 
+[300] 2609.02811 html HIT NVIDIA
+[301] 2609.02797 html 
+[302] 2609.02542 html 
+[303] 2609.02688 html 
+[304] 2609.02531 html 
+[305] 2609.02339 abs HIT Google
+[306] 2609.02864 html 
+[307] 2607.00382 html HIT Amazon,Tencent
+[308] 2608.08696 html 
+[309] 2607.14415 html 
+[310] 2609.03341 html HIT Google
+[311] 2609.03304 html 
+[312] 2609.03334 abs HIT Google
+[313] 2609.02543 html 
+[314] 2609.02352 html 
+[315] 2609.02747 html 
+[316] 2609.02184 html 
+[317] 2609.02717 html 
+[318] 2609.02077 html 
+[319] 2512.16767 html HIT Tencent
+[320] 2609.00901 html HIT borderline
+[321] 2603.23617 html 
+[322] 2609.02306 html 
+[323] 2606.16600 html 
+[324] 2605.26236 html 
+[325] 2609.03233 html 
+[326] 2609.02675 abs HIT Google
+[327] 2609.02474 html 
+[328] 2609.02243 html 
+[329] 2609.01091 html 
+[330] 2609.03295 html 
+[331] 2609.03191 html 
+[332] 2609.02173 html 
+[333] 2609.02801 html 
+[334] 2609.02066 html 
+[335] 2609.00031 html 
+[336] 2608.23586 html 
+[337] 2609.03169 html 
+[338] 2609.02046 html HIT ByteDance
+[339] 2609.01861 html HIT Amazon
+[340] 2609.01560 html HIT Tencent,borderline
+[341] 2609.01067 html HIT ByteDance
+[342] 2609.00776 html HIT borderline
+[343] 2609.01215 html HIT Apple,ByteDance
+[344] 2608.29242 html 
+[345] 2608.24101 html 
+[346] 2608.22642 html 
+[347] 2608.16859 html HIT Tencent,Kuaishou,borderline
+[348] 2609.01481 html HIT borderline
+[349] 2609.01740 abs HIT Google
+[350] 2609.01823 html 
+[351] 2609.01808 abs HIT Google
+[352] 2609.01703 abs HIT Google
+[353] 2609.01698 html HIT borderline
+[354] 2609.01516 html 
+[355] 2609.00994 html 
+[356] 2608.29048 html 
+[357] 2609.01306 html 
+[358] 2609.01921 html 
+[359] 2609.01172 html 
+[360] 2609.00923 html 
+[361] 2609.00732 html HIT miHoYo
+[362] 2609.01276 html 
+[363] 2606.31981 html HIT Meta
+[364] 2609.01840 html 
+[365] 2609.00995 html 
+[366] 2609.01330 html HIT Alibaba
+[367] 2609.00919 html 
+[368] 2609.00800 html 
+[369] 2609.00752 html 
+[370] 2609.01981 html 
+[371] 2609.01996 html 
+[372] 2609.01469 abs HIT Google
+[373] 2609.01128 html 
+[374] 2609.00455 html 
+[375] 2609.00188 html HIT NVIDIA
+[376] 2609.00161 html 
+[377] 2609.00106 html 
+[378] 2608.30897 abs HIT Google
+[379] 2608.30692 html HIT Roblox
+[380] 2608.30530 html 
+[381] 2608.22067 html 
+[382] 2607.23602 html 
+[383] 2608.30854 html 
+[384] 2609.00447 html 
+[385] 2606.20563 html 
+[386] 2608.30307 html 
+[387] 2511.03001 html 
+[388] 2608.30451 html 
+[389] 2608.30870 html 
+[390] 2608.31159 abs HIT Google
+[391] 2608.30342 html 
+[392] 2608.31023 html HIT NVIDIA
+[393] 2608.30423 html 
+[394] 2605.26616 html 
+[395] 2607.01777 html HIT borderline
+[396] 2608.28288 abs HIT Google
+[397] 2608.30951 html 
+[398] 2609.00648 html 
+[399] 2608.31033 html HIT Ubisoft
+[400] 2609.00369 html 
+[401] 2609.00564 abs HIT Google
+[402] 2609.00563 abs HIT Google
+[403] 2609.00262 html 
+[404] 2609.00228 html HIT Apple
+[405] 2608.31113 html HIT Roblox
+[406] 2608.31035 html 
+[407] 2608.30773 html 
+[408] 2609.00642 html 
+[409] 2609.00048 html HIT Alibaba,borderline
+[410] 2608.30067 html 
+[411] 2608.29998 html 
+[412] 2608.31136 html 
+[413] 2608.29937 html 
+[414] 2608.29904 html HIT NVIDIA,ByteDance
+[415] 2608.29910 html 
+[416] 2608.29772 html HIT borderline
+[417] 2608.29563 html 
+[418] 2608.18734 html 
+[419] 2608.30054 html 
+[420] 2607.15542 html 
+[421] 2608.30184 html 
+[422] 2504.03610 html 
+[423] 2608.29680 html 
+[424] 2608.03423 html 
+[425] 2608.29905 html 
+[426] 2606.17446 html 
+[427] 2608.29925 html HIT Kuaishou
+[428] 2603.19305 html HIT ByteDance,borderline
+[429] 2608.29928 html 
+[430] 2606.17511 html 
+[431] 2608.29927 html 
+[432] 2608.29689 html 
+[433] 2608.29587 html 
+[434] 2608.29585 html 
+[435] 2608.29551 html 
+[436] 2608.29434 html 
+[437] 2601.15281 html HIT Tencent
+[438] 2608.18560 html 
+[439] 2608.05879 html 
+[440] 2608.29137 html 
+[441] 2608.29538 html HIT Adobe
+[442] 2608.29184 html 
+[443] 2608.29346 html 
+[444] 2608.29106 html 
+[445] 2608.20687 html 
+[446] 2608.29177 html 
+[447] 2608.29519 html 
+[448] 2608.24109 html HIT Alibaba
+[449] 2608.29269 html 
+[450] 2608.29391 html 
+[451] 2608.29336 html 
+[452] 2606.24232 html HIT Meta
+[453] 2608.29356 html 
+[454] 2608.29161 html 
+[455] 2608.29100 html 
+[456] 2608.29029 html 
+[457] 2608.23316 html 
+[458] 2608.28995 html 
+[459] 2608.28718 html 
+[460] 2608.28541 html 
+[461] 2608.28491 html 
+[462] 2608.28065 html HIT ByteDance
+[463] 2608.28216 html 
+[464] 2608.27996 html 
+[465] 2608.27073 html HIT Alibaba
+[466] 2608.24044 html 
+[467] 2608.28080 html 
+[468] 2608.28762 html 
+[469] 2608.28895 html 
+[470] 2608.28272 html HIT borderline
+[471] 2608.28240 html 
+[472] 2608.29003 html 
+[473] 2608.28570 html 
+[474] 2608.28763 html 
+[475] 2608.28891 html 
+[476] 2608.28838 html 
+[477] 2608.28817 html 
+[478] 2608.28343 abs HIT Google
+[479] 2608.28033 html 
+[480] 2608.28020 html 
+[481] 2608.25632 html 
+[482] 2608.20740 html 
+[483] 2608.28331 html HIT borderline
+[484] 2608.28219 html 
+[485] 2608.28102 abs HIT Google
+[486] 2609.05506 html HIT Alibaba
+[487] 2609.04250 html HIT ByteDance
+[488] 2608.28213 html 
+[489] 2608.24334 html 
+[490] 2606.29686 html 
+[491] 2608.28830 html 
+[492] 2608.28101 html 
+[493] 2608.28868 html 
+[494] 2608.28006 html 
+[495] 2608.27930 html 
+[496] 2608.08322 html 
+[497] 2607.23485 html 
+[498] 2608.27508 html 
+[499] 2608.28458 html 
+[500] 2608.27406 html 
+[501] 2608.27328 html HIT Alibaba
+[502] 2608.26788 html HIT Google
+[503] 2608.25479 html HIT Tencent
+[504] 2608.24199 abs HIT Google,Meta,NVIDIA
+[505] 2608.22294 html 
+[506] 2608.27033 html 
+[507] 2608.27672 html 
+[508] 2608.22187 html HIT Meta
+[509] 2608.28702 html 
+[510] 2608.27735 html 
+[511] 2608.26951 html 
+[512] 2608.26948 html 
+[513] 2608.26656 html HIT ByteDance
+[514] 2608.27301 abs HIT Google
+[515] 2608.26868 html 
+[516] 2608.27529 html HIT NVIDIA,Alibaba
+[517] 2608.26947 html HIT Google
+[518] 2608.27039 html 
+[519] 2608.27037 html 
+[520] 2608.27670 html 
+[521] 2608.27168 html 
+[522] 2608.27123 html 
+[523] 2609.02931 html 
+[524] 2608.27721 html 
+[525] 2608.27597 abs HIT Google
+[526] 2608.27577 html 
+[527] 2608.27557 html 
+[528] 2608.27551 html 
+[529] 2608.27304 abs HIT Google
+[530] 2608.26938 html 
+[531] 2608.27546 html 
+[532] 2608.26621 html 
+[533] 2608.26853 html 
+[534] 2608.26891 html 
+[535] 2603.21695 html 
+[536] 2604.14598 html 
+[537] 2604.14586 html 
+[538] 2608.26239 html 
+[539] 2608.26214 html HIT NetEase
+[540] 2608.25956 html 
+[541] 2608.25927 abs HIT Google,borderline
+[542] 2608.25728 html 
+[543] 2608.25666 html 
+[544] 2608.25659 html 
+[545] 2608.25572 html HIT ByteDance
+[546] 2608.25518 html 
+[547] 2608.16287 html HIT Unity
+[548] 2608.12476 abs 
+[549] 2607.26924 html 
+[550] 2608.26238 html 
+[551] 2608.26383 html HIT Meta
+[552] 2509.23841 html HIT borderline
+[553] 2608.25401 html 
+[554] 2608.10712 html HIT borderline
+[555] 2608.25483 html 
+[556] 2608.25472 html 
+[557] 2608.25461 html HIT NVIDIA
+[558] 2602.15355 html 
+[559] 2608.28693 html 
+[560] 2608.25664 html 
+[561] 2604.13427 html HIT ByteDance
+[562] 2608.15763 html HIT NVIDIA,Alibaba
+[563] 2608.25734 html HIT Meta
+[564] 2608.25909 abs HIT Google
+[565] 2608.26382 html HIT ByteDance
+[566] 2608.26066 html 
+[567] 2608.26566 abs HIT Google
+[568] 2608.26405 html 
+[569] 2608.26279 html 
+[570] 2608.22912 html 
+[571] 2608.25017 html 
+[572] 2608.24885 html 
+[573] 2608.24855 html 
+[574] 2608.24680 html 
+[575] 2608.24534 html 
+[576] 2608.23720 html 
+[577] 2608.23486 html 
+[578] 2608.23383 html 
+[579] 2608.09696 html 
+[580] 2608.01381 html 
+[581] 2608.19567 abs HIT Google
+[582] 2608.24049 html 
+[583] 2608.22888 html 
+[584] 2603.12144 html HIT Alibaba
+[585] 2608.24572 html HIT Meta
+[586] 2604.10415 html 
+[587] 2608.25144 html HIT Apple
+[588] 2608.24266 html 
+[589] 2608.25181 html 
+[590] 2608.25049 html 
+[591] 2608.24409 html 
+[592] 2608.24260 abs HIT Google
+[593] 2608.09037 html 
+[594] 2608.23790 abs HIT Google
+[595] 2608.23706 html 
+[596] 2608.23565 html HIT Alibaba
+[597] 2608.23526 html 
+[598] 2608.23452 html 
+[599] 2608.23248 html 
+[600] 2608.23189 html 
+[601] 2608.23070 html 
+[602] 2608.17959 html 
+[603] 2608.23943 html HIT Apple
+[604] 2608.23930 html HIT borderline
+[605] 2606.21596 html 
+[606] 2608.22906 html HIT borderline
+[607] 2608.23549 html 
+[608] 2608.23410 html HIT Meta
+[609] 2608.23136 html 
+[610] 2512.12703 html 
+[611] 2608.23279 html 
+[612] 2608.23258 html 
+[613] 2608.22983 html 
+[614] 2603.08590 html HIT ByteDance
+[615] 2608.23345 html 
+[616] 2604.15052 html HIT Intel
+[617] 2608.23133 html 
+[618] 2608.23821 abs HIT Google
+[619] 2608.23743 html 
+[620] 2608.23718 html 
+[621] 2608.23444 html 
+[622] 2608.23355 html 
+[623] 2608.23079 abs HIT Google
+[624] 2608.22969 html 
+[625] 2608.04888 html 
+[626] 2608.26190 html 
+[627] 2608.22764 html 
+[628] 2608.22421 html 
+[629] 2608.22750 html 
+[630] 2608.22358 html 
+[631] 2608.20735 html 
+[632] 2608.22278 html 
+[633] 2608.18234 html 
+[634] 2608.08600 html 
+[635] 2608.22729 html HIT ByteDance
+[636] 2602.18422 html HIT NVIDIA,borderline
+[637] 2606.01027 html 
+[638] 2608.22740 html 
+[639] 2608.22773 html 
+[640] 2608.22344 html 
+[641] 2608.22757 html HIT Alibaba
+[642] 2608.22465 html 
+[643] 2608.22449 html 
+[644] 2608.22341 html 
+[645] 2608.09735 html HIT Meta
+[646] 2607.00160 html HIT borderline
+[647] 2608.22403 html 
+[648] 2608.22655 html 
+[649] 2608.13312 html 
+[650] 2608.22197 html 
+[651] 2608.07265 html 
+[652] 2608.21833 html HIT Tencent
+[653] 2608.22102 html 
+[654] 2608.21849 html 
+[655] 2608.21828 html HIT borderline
+[656] 2608.22054 html 
+[657] 2608.22029 html 
+[658] 2607.10744 html 
+[659] 2608.28663 html 
+[660] 2608.24931 abs HIT Google
+[661] 2608.21582 html 
+[662] 2608.22052 abs HIT Google
+[663] 2608.21075 html HIT Meta
+[664] 2608.20936 html 
+[665] 2608.20891 abs HIT Google
+[666] 2608.07107 html HIT borderline
+[667] 2604.01479 html 
+[668] 2608.20759 html 
+[669] 2608.21685 html 
+[670] 2607.20813 html 
+[671] 2608.21008 html 
+[672] 2606.23489 html 
+[673] 2608.20748 html 
+[674] 2608.20775 html 
+[675] 2608.21697 html 
+[676] 2607.12158 html 
+[677] 2608.21093 html 
+[678] 2608.20802 html 
+[679] 2608.21718 html 
+[680] 2608.20765 html 
+[681] 2608.21742 abs HIT Google
+[682] 2608.21628 html 
+[683] 2608.20787 html 
+[684] 2608.09619 html 
+[685] 2608.05517 html 
+[686] 2608.20709 html 
+[687] 2608.20126 html 
+[688] 2608.20111 html 
+[689] 2608.20065 html 
+[690] 2608.19804 abs HIT Google
+[691] 2608.19709 html 
+[692] 2608.19661 html 
+[693] 2608.19779 html 
+[694] 2608.19085 html 
+[695] 2605.14398 html 
+[696] 2608.20448 html HIT Roblox
+[697] 2608.19756 html 
+[698] 2608.20720 html 
+[699] 2608.20602 html HIT Apple,Adobe
+[700] 2608.20335 html HIT Alibaba
+[701] 2608.20000 html 
+[702] 2608.18388 abs HIT Google
+[703] 2608.20534 html HIT NVIDIA
+[704] 2608.20284 html 
+[705] 2608.19900 html 
+[706] 2608.20699 html 
+[707] 2608.20087 html HIT borderline
+[708] 2608.20312 html 
+[709] 2608.20144 html 
+[710] 2608.20038 html 
+[711] 2608.20653 abs HIT Google,Meta
+[712] 2608.20127 html 
+[713] 2608.19977 html HIT ByteDance
+[714] 2608.19915 html 
+[715] 2607.17097 html 
+[716] 2608.20615 html 
+[717] 2608.20551 html 
+[718] 2608.20296 html 
+[719] 2608.20195 html 
+[720] 2608.19647 html 
+[721] 2608.20008 html 
+[722] 2608.05366 html 
+[723] 2608.04720 abs HIT Google
+[724] 2608.18302 html 
+[725] 2608.19040 html HIT Microsoft,Sony
+[726] 2505.11821 html HIT borderline
+[727] 2608.20430 html 
+[728] 2608.19492 html 
+[729] 2608.18746 html 
+[730] 2608.18669 html 
+[731] 2608.12854 html 
+[732] 2608.18647 html 
+[733] 2608.19066 html 
+[734] 2608.19556 html 
+[735] 2608.18593 html 
+[736] 2604.22700 html 
+[737] 2608.18840 html 
+[738] 2608.15265 html HIT Tencent,ByteDance
+[739] 2607.22830 html HIT Adobe
+[740] 2605.18010 html 
+[741] 2603.22531 html HIT Google
+[742] 2608.19055 html HIT borderline
+[743] 2608.07267 html 
+[744] 2608.19527 html HIT Sony
+[745] 2605.05962 html 
+[746] 2608.18957 abs HIT Google
+[747] 2607.12329 html 
+[748] 2608.19514 html HIT ByteDance
+[749] 2510.01192 abs HIT Google
+[750] 2608.19510 html 
+[751] 2608.19506 html 
+[752] 2608.19424 html 
+[753] 2608.18898 abs HIT Google
+[754] 2608.15659 html 
+[755] 2608.18633 html 
+[756] 2608.18541 html 
+[757] 2608.18484 html HIT NVIDIA
+[758] 2608.21439 html HIT Tencent,borderline
+[759] 2608.18077 html HIT NVIDIA
+[760] 2608.17769 html 
+[761] 2608.17956 html 
+[762] 2608.17739 html 
+[763] 2608.17542 html HIT ByteDance
+[764] 2608.17496 html 
+[765] 2608.13546 html 
+[766] 2608.17988 html HIT Alibaba
+[767] 2608.18184 html HIT Alibaba
+[768] 2604.16299 html 
+[769] 2603.22782 html HIT Tencent
+[770] 2605.30338 html 
+[771] 2608.18413 html 
+[772] 2608.17682 html 
+[773] 2608.17535 html 
+[774] 2608.17447 html 
+[775] 2608.18285 html 
+[776] 2608.17420 html HIT borderline
+[777] 2606.01590 html HIT NVIDIA,borderline
+[778] 2608.17969 html 
+[779] 2608.18028 html 
+[780] 2608.17389 html 
+[781] 2608.17564 html 
+[782] 2608.17799 abs HIT Google
+[783] 2607.07459 html HIT Tencent,borderline
+[784] 2603.21064 html 
+[785] 2608.18215 html HIT Adobe
+[786] 2603.26747 html 
+[787] 2608.17487 html 
+[788] 2608.17717 html 
+[789] 2604.17013 html HIT borderline
+[790] 2608.17707 html 
+[791] 2608.13586 abs HIT Google
+[792] 2608.17812 html 
+[793] 2608.18411 abs HIT Google
+[794] 2608.18246 html 
+[795] 2608.17930 html HIT NVIDIA
+[796] 2607.23687 html 
+[797] 2608.17815 html HIT borderline
+[798] 2608.17674 html 
+[799] 2608.17390 html 
+[800] 2608.17947 html 
+[801] 2608.17754 html 
+[802] 2608.17163 html 
+[803] 2608.17095 html 
+[804] 2608.16885 html 
+[805] 2608.16651 html 
+[806] 2608.16354 html 
+[807] 2608.16234 html 
+[808] 2608.16196 html 
+[809] 2608.21438 html 
+[810] 2608.17298 html HIT NVIDIA
+[811] 2608.16103 html 
+[812] 2608.10938 html 
+[813] 2608.16324 html 
+[814] 2608.17314 html 
+[815] 2608.16863 html HIT borderline
+[816] 2606.20531 html 
+[817] 2608.16725 html 
+[818] 2604.01322 html 
+[819] 2608.16143 html 
+[820] 2603.26763 html HIT Microsoft
+[821] 2608.17046 html 
+[822] 2608.16191 html 
+[823] 2608.17249 html 
+[824] 2608.16845 html 
+[825] 2608.16789 html 
+[826] 2608.16677 html 
+[827] 2608.16276 html 
+[828] 2608.16126 html 
+[829] 2608.16955 html 
+[830] 2608.15869 html HIT Apple
+[831] 2608.15654 abs HIT Google
+[832] 2608.21424 html HIT Adobe
+[833] 2608.15749 html HIT NetEase
+[834] 2608.16008 html 
+[835] 2608.16042 html 
+[836] 2608.15785 html 
+[837] 2608.15651 html 
+[838] 2608.15881 html 
+[839] 2608.15818 html 
+[840] 2608.15984 html 
+[841] 2608.15815 html 
+[842] 2608.15560 html 
+[843] 2608.13602 html HIT NVIDIA
+[844] 2511.10076 html HIT Alibaba
+[845] 2412.16563 html HIT Alibaba
+[846] 2504.09209 html HIT Alibaba
+[847] 2608.21429 html 
+[848] 2608.15309 html 
+[849] 2608.15679 abs HIT Google
+[850] 2608.15043 html HIT Tencent
+[851] 2607.26712 html 
+[852] 2608.00576 html 
+[853] 2606.08670 html 
+[854] 2608.11216 html HIT ByteDance,EA
+[855] 2510.15042 html HIT Microsoft
+[856] 2608.05896 html 
+[857] 2608.15024 html 
+[858] 2608.15260 html 
+[859] 2608.15251 html 
+[860] 2608.10162 html 
+[861] 2608.15296 html 
+[862] 2608.15110 html 
+[863] 2405.10546 html 
+[864] 2608.15240 html 
+[865] 2608.15150 html 
+[866] 2608.14952 html 
+[867] 2603.27151 html 
+[868] 2608.14804 html 
+[869] 2608.14530 html 
+[870] 2608.14490 html 
+[871] 2608.14481 html 
+[872] 2608.14125 html HIT ByteDance
+[873] 2608.14022 html HIT Tencent,borderline
+[874] 2608.13552 html HIT Google,Alibaba,Kuaishou,borderline
+[875] 2607.27924 html 
+[876] 2608.14783 html 
+[877] 2608.14758 html HIT ByteDance
+[878] 2608.14986 html 
+[879] 2608.14902 html 
+[880] 2608.14136 html 
+[881] 2608.14138 html HIT borderline
+[882] 2607.02075 html HIT Kuaishou
+[883] 2608.12442 html HIT Adobe
+[884] 2606.31109 html HIT borderline
+[885] 2608.14754 html 
+[886] 2607.00033 html HIT NVIDIA
+[887] 2501.18898 html 
+[888] 2608.14965 html 
+[889] 2608.14207 html 
+[890] 2608.14871 html 
+[891] 2608.14357 html 
+[892] 2608.14510 html 
+[893] 2608.14279 abs HIT Google
+[894] 2608.14100 html 
+[895] 2607.27609 html 
+== screen done: 241 hits of 895 ==
