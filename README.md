@@ -12,6 +12,11 @@ digest and dedup state back here.
 |---|---|
 | `.claude/skills/research-paper-tracker/` | The tracker skill (spec, arXiv + GitHub helper scripts, source lists) |
 | `scripts/send_discord.py` | Posts a folder of `*.md` messages to a Discord webhook; refuses to send if any file is over 2000 chars |
+| `scripts/arxiv_site_scan.py` | Website fallback for Part A discovery when the arXiv API is rate-limited (exact-phrase searches on arxiv.org) |
+| `scripts/arxiv_affil_screen.py` | Fetches each candidate's arxiv.org/html page and flags tracked company names near the author block (leads only) |
+| `scripts/assemble_digest.py` | Sorts verified paper blocks newest first and writes `digest.md` with Part B appended |
+| `scripts/build_messages.py` | Splits `digest.md` into per-item Discord messages, each ≤2000 characters |
+| `scripts/send_local.ps1` / `scripts/test_discord.ps1` | Send a messages folder / a test message from this PC (asks for the webhook URL, hidden) |
 | `state/product_seen.json` | Products already reported (keyed by primary-source URL); updated by each run |
 | `digests/YYYY-MM-DD/digest.md` | Full digest for that day |
 | `digests/YYYY-MM-DD/messages/*.md` | The exact messages that were posted, in order |

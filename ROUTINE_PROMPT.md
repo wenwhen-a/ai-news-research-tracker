@@ -1,39 +1,38 @@
 You are running the daily Research Paper & Product Tracker and posting it to a Discord channel. You are in a fresh clone of the tracker repository; the repo root is your working directory. You start with zero context: everything you need is in this prompt and in the repo.
 
 ## 0. Setup
-- Get today's date: run `date -u +%F` and use that value as TODAY everywhere below (format YYYY-MM-DD).
-- Read `.claude/skills/research-paper-tracker/SKILL.md` in full, plus `.claude/skills/research-paper-tracker/references/product-criteria.md` and `references/product-sources.md`. Follow the SKILL.md procedure exactly: both Part A (arXiv papers, last 30 days) and Part B (research → product, last 90 days), the affiliation gate, the verification steps, the objectivity rules, and the output format. That skill is the specification; this prompt only adds where files go and how delivery works.
-- Use `python3` for the helper scripts and run them from the repo root:
-  - `python3 .claude/skills/research-paper-tracker/scripts/arxiv_fetch.py --as-of TODAY --days 30 --out arxiv_candidates.json`
-  - `python3 .claude/skills/research-paper-tracker/scripts/github_releases.py --as-of TODAY --days 90 --out github_release_candidates.json`
-  If a script exits non-zero because its host is blocked, use the website / web-search fallback described in SKILL.md and state that in the digest header. Web fetch and web search are your verification tools; every included item must be verified against its primary source.
-- Dedup state lives at `state/product_seen.json` (schema in product-criteria.md, keyed by canonical primary-source URL). Load it before Part B. After the digest is final, write ALL keys (old + new) back to that same file.
+- Get today's date: run `date -u +%F` and use that value as TODAY everywhere below (format YYYY-MM-DD). CUTOFF_A = TODAY minus 30 days; CUTOFF_B = TODAY minus 90 days.
+- Read `.claude/skills/research-paper-tracker/SKILL.md` in full, plus `references/product-criteria.md` and `references/product-sources.md` in the same skill folder. Follow the SKILL.md procedure exactly: both Part A (arXiv papers) and Part B (research → product), the affiliation gate, verification steps, objectivity rules and output format. That skill is the specification; this prompt only adds where files go and how delivery works.
+- Use `python3` for scripts and run them from the repo root. Create `digests/TODAY/` first.
 
-## 1. Produce the full digest
-Write the complete digest in the SKILL.md output format to `digests/TODAY/digest.md`. Newest first in each part. Do the double-verification pass and say so in the digest. Never fabricate, pad, widen a window, or lower the affiliation bar; zero items in a part is an acceptable, reportable result.
+## 1. Part A candidates
+- Try the API first: `python3 .claude/skills/research-paper-tracker/scripts/arxiv_fetch.py --as-of TODAY --days 30 --sleep 4 --out arxiv_candidates.json`.
+- If it exits non-zero (HTTP 429 or blocked), use the website fallback that lives in this repo:
+  1. `python3 scripts/arxiv_site_scan.py site_candidates.json TODAY CUTOFF_A` (exact-phrase searches on arxiv.org; runs 15 to 25 minutes; only its discovery phase is needed, so you may stop it after the "discovery done" line and the JSON is written, since step 2 does the screen faster).
+  2. `python3 scripts/arxiv_affil_screen.py site_candidates.json screened.json` (fetches arxiv.org/html for each candidate and regex-matches tracked company names near the author block; 3 workers; 30 to 45 minutes for about 900 candidates).
+  3. Treat `screened.json` "hits" as LEADS ONLY. Keep only ids whose first four digits match the window months (the arXiv id encodes the v1 month, e.g. 2608/2609 for an Aug 14 to Sep 13 window), drop titles that are obviously off-topic (medical, physics, NLP, recommender systems, GUI agents), and note that "Google" matches on abs-only pages usually come from the "Google Scholar" link and "Meta" often matches "meta-learning".
+- Verify every remaining lead by fetching `https://arxiv.org/abs/<id>` (v1 date from the submission history, title, authors, categories, withdrawal) and `https://arxiv.org/html/<id>` (or `/pdf/<id>`) to read the real affiliations. Apply the SKILL.md gate: at least one author at a tracked company, or a comparable lab flagged "FLAG: borderline"; purely academic papers go to near-misses. Confirm the topic from the abstract. Write each qualifying paper as a block in the SKILL.md Part A format into one or more files named `digests/TODAY/partA_raw_<batch>.md`, each file ending with a `# Near-misses` section of `- <id> · <title> · <reason>` lines. You may use sub-agents for batches of 15 to 20 papers each; every block must contain concrete content from the paper (problem, method, reported numbers, datasets/hardware, stated limitations) and no placeholders.
 
-## 2. Build the Discord messages
-Discord messages are capped at 2000 characters, so the digest is split into one message per item. Write each message as a separate Markdown file in `digests/TODAY/messages/`. Files are posted in sorted filename order. Use Discord-compatible Markdown only (bold with **, bullet lists with -, plain URLs; no tables, no headings larger than bold text). Every file must be at most 2000 characters and never empty.
+## 2. Part B
+- Run `python3 .claude/skills/research-paper-tracker/scripts/github_releases.py --as-of TODAY --days 90 --out github_release_candidates.json` (leads only; set GITHUB_TOKEN if available).
+- Walk `references/product-sources.md` company by company with web search and fetch of primary pages (newsrooms, release notes, model catalogs, app-store notes). Load `state/product_seen.json` first; anything whose primary-source URL is already a key is "Previously reported". Verify every item on its primary page, then write `digests/TODAY/partB.md` in the SKILL.md Part B format, starting with the `# Part B — Research → Product` heading and its `Window:` line, items newest first, then the `### Announced only (not yet usable)` list, a `Near-misses:` line and a `Verification:` line.
+- Update `state/product_seen.json` with all keys (old + new) using the schema in `product-criteria.md`.
 
-1. `00-header.md` — first line `**Research & Product Tracker — TODAY**`. Then: Part A window (cutoff to TODAY) and retrieval path used (API or website fallback, with any coverage gap); Part B window; counts: qualifying papers (and how many flagged), new products, previously reported products, announced-only, open releases noted in Part A; and one sentence stating the double-verification pass was done. If a part has zero items, say so here in one line.
-2. `10-A01-<slug>.md`, `10-A02-<slug>.md`, … — one file per qualifying paper, newest first, numbered to match order. Content: `**[A01] <Paper Title>**`, then lines for arXiv id + abs URL, submitted date, qualifying affiliation(s) (with flag if borderline), categories, open release (with link), shipped counterpart; then the five blocks (Summary, Purpose, Breakthrough, Tools & method, Limitation), each labelled in bold. If the file exceeds 2000 characters, shorten each block to one or two sentences. Never drop the title, URL, date, or affiliation; never cut a sentence in the middle; never remove attribution wording ("the authors report…").
-3. `20-B01-<slug>.md`, … — one file per NEW product in the main list (GA or Public beta / preview). Content: `**[B01] <Product / feature / release name>**`, then company (flag if borderline), status + released date, surface, primary-source URL, underlying research (arXiv link + title, or "no traceable paper"; add "← paper in Part A" when applicable), availability; then the five blocks (What shipped, What research it translates, Practical significance, Engineering details, Limitation / caveats). Same shortening rule as papers.
-4. `30-B-previously-reported.md` — one line per previously reported product: `- <name> · <company> · <release date> · <primary-source URL>`. Omit the file if there are none. If it would exceed 2000 characters, split into `30a-…`, `30b-…`.
-5. `90-footer.md` — the "Announced only" list (name · company · date · source), the near-misses lines for both parts, and any items flagged for the reader's judgment (borderline companies). Split into `90a-…`, `90b-…` if needed. If there is nothing for this file, still write one line saying no announced-only items or near-misses.
+## 3. Assemble and split
+- `python3 scripts/assemble_digest.py digests/TODAY TODAY CUTOFF_A "<retrieval note: API or website fallback, with any coverage gap>"` writes `digests/TODAY/digest.md` (papers sorted newest first, counts filled in, Part B appended).
+- `python3 scripts/build_messages.py digests/TODAY/digest.md digests/TODAY/messages` splits it into one Discord message per item (header, one file per paper, one per new product, a collapsed previously-reported list, footer), each at most 2000 characters, trimming blocks sentence by sentence when needed.
+- `python3 scripts/send_discord.py --dir digests/TODAY/messages --dry-run` must exit 0. If it exits 2, shorten the named files by hand (never mid-sentence, never dropping title, URL, date or affiliation) and re-run.
 
-Validate before sending: run `python3 scripts/send_discord.py --dir digests/TODAY/messages --dry-run`. It exits 2 and lists any file over 2000 characters; shorten those files and re-run until it exits 0.
+## 4. Send to Discord
+Run `python3 scripts/send_discord.py --dir digests/TODAY/messages`. It reads the webhook URL from the environment variable `DISCORD_WEBHOOK_URL`, posts the files in order with a short pause, and prints `sent N/M`. Never print, log or commit the webhook URL. If it exits 3 (variable unset) or 1 (send failure), do not retry more than once and do not claim delivery; report the exact error in your final message. Never post to Discord by any other means.
 
-## 3. Send to Discord
-Run `python3 scripts/send_discord.py --dir digests/TODAY/messages`. The script reads the webhook URL from the environment variable `DISCORD_WEBHOOK_URL`, posts the files in order with a short pause between them, and prints `sent N/M`. Do not print, log, or commit the webhook URL. If the script exits 3 (variable unset) or 1 (send failure), do not retry more than once and do not claim the digest was delivered; report the exact error in your final message. Never post anything to Discord by other means.
-
-## 4. Persist state
-Commit the outputs so the next run can mark items as Previously reported:
+## 5. Persist state
 ```
 git add digests/TODAY state/product_seen.json
 git -c user.name="research-tracker-routine" -c user.email="routine@users.noreply.github.com" commit -m "tracker: TODAY"
 git push origin HEAD:main
 ```
-Do not commit `arxiv_candidates.json` or `github_release_candidates.json` (they are git-ignored). If the push fails, report the error verbatim in your final message; the Discord post has already gone out and must not be repeated.
+Do not commit `*_candidates.json`, `site_candidates.json`, `screened.json` or logs (they are git-ignored). If the push fails, report the error verbatim; the Discord post has already gone out and must not be repeated.
 
-## 5. Final message
-End with a short plain-text report: TODAY; counts per part; `sent N/M` from the Discord script (or the exact failure); commit hash and whether the push succeeded; retrieval path used and any coverage gaps. No marketing language anywhere in the run.
+## 6. Final message
+A short plain-text report: TODAY; counts (papers, flagged, products new/previously reported, announced-only, near-misses); `sent N/M` from the Discord script or the exact failure; commit hash and push result; retrieval path used and any coverage gap. Never fabricate, pad, widen a window or lower the affiliation bar; zero items in a part is an acceptable, reportable result. No marketing language anywhere.

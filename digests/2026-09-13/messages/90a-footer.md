@@ -1,0 +1,22 @@
+**Announced only, near-misses and verification**
+Near-misses (on-topic candidates excluded, with reason):
+- 2609.00901 · HELIOS: From midnight to noon, continuous outdoor urban scene relighting (Huawei Paris) · off-topic on reading (2D image-to-image relighting of driving images, no 3D component)
+- 2609.10457 · MotionCanvas: Learning Implicit Motion Planning from Composable Kinematic Cues (Tencent) · withdrawn by the authors on 2026-09-10 pending internal review
+- 2608.23206 · Learning Spherical Occupancy Profiles for Multi-View 3D Reconstruction and Generation · academic-only
+- 2609.03931 · Sparse auto-regressive modeling for scene generation from multi-view images · academic-only (NAVER LABS Europe, CMU)
+- 2609.03334 · Laplacian Frequency Hierarchies for Efficient 3D Gaussian Splatting Training · academic-only (HIT Shenzhen, XGRIDS)
+- 2609.01740 · ZipTok3D · academic-only
+- 2609.06948 · PRG-Fusion · academic-only
+- 2609.06436 · PLSR · academic-only
+- 2609.00732 · Inverse Rig Optimization from Line Drawings · academic-only (University of Tokyo)
+- 2609.01698 · VirSqueezer · academic-only
+- 2609.02675 · Projective Affine Body Dynamics for Multibody Systems · affiliation unverifiable (no HTML; 22.9 MB PDF)
+- 2609.03666 · WebXR and Commercial Game Engines for the Metaverse · academic-only
+- 2609.01215 · REFACTOR-VLA · off-topic (robot manipulation)
+- 2608.12564 · Scaling Automatic Research Agents via World Models · out of window (v1 2026-08-12)
+- 2608.01397 · SG-WAM · out of window (v1 2026-08-02)
+- 2609.07051 · TrojanWorld · academic-only (SJTU, NTU)
+- 2609.06207 · PhysWeep · academic-only (Hamad Bin Khalifa University)
+- 2609.02811 · Do Better Imagined Rollouts Mean Better Robot Control? · academic-only (Georgia Tech, Emory)
+- 2609.02046 · Modeling What Changes: Sparse, Residual World Models · academic-only
+- 2609.03774 · Rethinking World Models for Safety-Critical Embodied Systems · academic-only (KAIST)

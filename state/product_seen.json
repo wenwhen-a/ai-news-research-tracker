@@ -1,1 +1,86 @@
-{}
+{
+ "https://www.nvidia.com/en-us/geforce/news/nba-2k27-dlss-5-3d-guided-neural-rendering-geforce-game-ready-driver/": {
+  "name": "NVIDIA DLSS 5 with 3D-Guided Neural Rendering (in NBA 2K27)",
+  "company": "NVIDIA",
+  "tier": "GA",
+  "first_seen": "2026-09-13",
+  "release_date": "2026-09-03"
+ },
+ "https://www.nvidia.com/en-us/geforce/news/gamescom-2026-dlss-4-5-ray-reconstruction-release-announcements-trailers/": {
+  "name": "NVIDIA DLSS 4.5 Ray Reconstruction, 2nd-generation transformer model (early access)",
+  "company": "NVIDIA",
+  "tier": "Public beta/preview (NVIDIA App early access)",
+  "first_seen": "2026-09-13",
+  "release_date": "2026-08-25"
+ },
+ "https://help.autodesk.com/cloudhelp/2027/ENU/3dsMax-WhatsNew/files/GUID-D11D1F34-C9FF-4981-AAE3-5A969986FCF4.html": {
+  "name": "Autodesk 3ds Max 2027.2 — native 3D Gaussian Splat support",
+  "company": "Autodesk",
+  "tier": "GA",
+  "first_seen": "2026-09-13",
+  "release_date": "2026-07-22"
+ },
+ "https://blog.adobe.com/en/publish/2026/07/21/adobe-substance-3d-unveils-new-innovations-deliver-faster-workflows-openpbr-everywhere-digital-twins-scale": {
+  "name": "Adobe Substance 3D Painter 12.1, Designer 16 and Sampler update (OpenPBR)",
+  "company": "Adobe",
+  "tier": "GA",
+  "first_seen": "2026-09-13",
+  "release_date": "2026-07-21"
+ },
+ "https://dev.epicgames.com/documentation/fortnite/41-20-fortnite-ecosystem-updates-and-release-notes-in-fortnite": {
+  "name": "Fortnite / UEFN v41.20 — Control Rig for Sidekicks, in-world UMG widgets, LLM-powered NPCs",
+  "company": "Epic Games",
+  "tier": "GA",
+  "first_seen": "2026-09-13",
+  "release_date": "2026-07-16"
+ },
+ "https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox": {
+  "name": "Roblox Build — mobile AI creation tab (public alpha, New Zealand)",
+  "company": "Roblox",
+  "tier": "Public beta/preview (public alpha)",
+  "first_seen": "2026-09-13",
+  "release_date": "2026-07-28"
+ },
+ "https://blog.playstation.com/2026/06/24/upgraded-pssr-comes-to-doom-the-dark-ages-on-ps5-pro/": {
+  "name": "Upgraded PSSR in Doom: The Dark Ages on PS5 Pro (Free Update 4)",
+  "company": "Sony Interactive Entertainment (platform feature; post authored by id Software's Billy Khan on the PlayStation Blog)",
+  "tier": "GA",
+  "first_seen": "2026-09-13",
+  "release_date": "2026-07-07"
+ },
+ "https://h.163.com/news/official/20260612/37231_1304115.html": {
+  "name": "《逆水寒：新世界》 (Justice Online: New World) character rendering upgrade",
+  "company": "NetEase",
+  "tier": "GA",
+  "first_seen": "2026-09-13",
+  "release_date": "2026-06-26"
+ },
+ "https://gpuopen.com/learn/amd-fsr-sdk-2-3-blog/": {
+  "name": "AMD FSR SDK 2.3 — FSR Upscaling 4.1.1 on RDNA 3",
+  "company": "AMD",
+  "tier": "GA",
+  "first_seen": "2026-09-13",
+  "release_date": "2026-06-24"
+ },
+ "https://forums.unrealengine.com/t/unreal-engine-5-8-released/2729274": {
+  "name": "Unreal Engine 5.8 (MetaHuman Animator markerless capture, MetaHuman Collections, Mesh Terrain, MegaLights, MCP plugin)",
+  "company": "Epic Games",
+  "tier": "GA",
+  "first_seen": "2026-09-13",
+  "release_date": "2026-06-17"
+ },
+ "https://www.happyoyster.cn": {
+  "name": "HappyOyster 1.0 (快乐生蚝 1.0) — real-time interactive world model",
+  "company": "Alibaba (ATH Innovation Business Group)",
+  "tier": "Public beta/preview",
+  "first_seen": "2026-09-13",
+  "release_date": "2026-06-17"
+ },
+ "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins/": {
+  "name": "NVIDIA ACE Game Agent SDK (beta) and ACE plugins for Unreal Engine 5",
+  "company": "NVIDIA",
+  "tier": "GA (UE5 plugins) / Public beta (Game Agent SDK)",
+  "first_seen": "2026-09-13",
+  "release_date": "2026-06-16"
+ }
+}

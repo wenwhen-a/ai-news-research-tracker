@@ -1,0 +1,18 @@
+- 2608.15156 · Low-Rank Dynamics-Effective Latent Carriers · academic-only (Fudan)
+- 2608.16859 · HarnessEval-W · affiliation unverifiable (no institutions listed for 43 authors)
+- 2608.29925 · Dior: Drawing the Light of Image via Material-Decoupled Illumination Representation (Kuaishou KlingAI) · off-topic on reading (2D single-image relighting, no 3D component); code and demo released at https://github.com/little-misfit/DiOR-Light
+- 2608.09735 · HandSplatter · out of window (v1 2026-08-10)
+- 2608.12442 · MV2 driving dataset · out of window (v1 2026-08-12)
+- 2608.10712 · Compact Feed-Forward 3D Gaussians via Saliency-Guided Primitive Merging · out of window (v1 2026-08-11)
+- 2608.18388 · Depth Anything V4 · withdrawn (v2, "Major errors in research")
+- 2608.17298 · 3D Gaussian Accelerated Ray Tracing · academic-only (University of Canterbury)
+- 2608.27301 · Comparative Evaluation of 3D Reconstruction Methods for Laboratory Objects · affiliation unverifiable; user study, not a method
+- 2608.31159 · BRF-GS · academic-only (CAS); remote sensing
+- 2608.31023 · SMG: Semantic Motion Graph for Monocular Dynamic Gaussian Splatting · academic-only (Cornell)
+- 2608.28288 · GeoFF3D · academic-only; UAV mapping
+- 2608.29538 · As-Rigid-As-Possible Deformation of Gaussian Radiance Fields · academic-only (Zhejiang University, University of Utah)
+- 2608.28102 · What Will This Copper Look Like Later? · academic-only
+- 2608.26383 · Cross-Platform Benchmark of Neural 3D Reconstruction for Autonomous Laboratory Robots · academic/government lab (Argonne)
+- 2608.19567 · Block3D · academic-only
+- 2608.19527 · Does Listening Matter? Backchanneling and Nodding in AI Clone (Sony CSL) · off-topic on reading (HCI user study of a conversational voice clone; no animation or graphics method)
+- 2609.04250 · Motion-Omni: End-to-End Joint Speech and Full-Body Motion for Spoken Dialogue · affiliation "LIGHTSPEED" could not be confirmed as a tracked company from the paper (see GameWAM flag)
