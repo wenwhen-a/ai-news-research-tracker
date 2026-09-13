@@ -4,10 +4,15 @@
 .discord_webhook
 __pycache__/
 batch*_hits.json
+candidates.json
+candidates_24h.json
+filtered.json
+filtered_24h.json
 scan.log
 scan.out
 screen.log
 screen.out
 screened.json
+sim_*
 site_candidates.json
 verify_*.md

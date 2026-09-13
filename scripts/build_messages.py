@@ -122,8 +122,8 @@ def chunk_lines(lines, first_line=None):
     return chunks
 
 os.makedirs(OUT, exist_ok=True)
-for old in os.listdir(OUT):  # clear stale messages (rmtree can fail on synced folders)
-    if old.lower().endswith(".md"):
+for old in os.listdir(OUT):  # clear stale research messages only (news files are managed by build_news_messages.py)
+    if old.lower().endswith(".md") and not old.startswith(("10-news", "20-news", "30-news", "35-news")) and old != "00-header.md":
         os.remove(os.path.join(OUT, old))
 
 files = {}
@@ -138,6 +138,9 @@ date = re.search(r"to (\d{4}-\d{2}-\d{2})\)", winA or winB)
 date = date.group(1) if date else "today"
 
 header = [f"**Research & Product Tracker — {date}**", ""]
+# a combined daily banner is written only when the news builder has not already written one
+if not os.path.exists(os.path.join(OUT, "00-header.md")):
+    files["00-header.md"] = f"**每日简报 — {date}**\n今日无新闻部分；以下为研究与产品追踪（Research & Product Tracker）。"
 if winA:
     header += ["**Part A — Papers.** " + winA.replace("Window: ", ""), ""]
 else:
@@ -147,12 +150,12 @@ if winB:
 header += [f"Items follow as one message each: {len(itemsA)} new papers (A01–A{len(itemsA):02d}), "
            f"{len(newB)} new products (B01–B{len(newB):02d}); previously reported papers and products are collapsed into list messages, "
            "then a footer with announced-only items and near-misses."]
-files["00-header.md"] = "\n".join(header)
+files["50-research-header.md"] = "\n".join(header)
 
 for i, (t, b) in enumerate(itemsA, 1):
-    files[f"10-A{i:02d}-{slug(t)}.md"] = condense(t, b, f"[A{i:02d}]")
+    files[f"60-A{i:02d}-{slug(t)}.md"] = condense(t, b, f"[A{i:02d}]")
 for i, (t, b) in enumerate(newB, 1):
-    files[f"20-B{i:02d}-{slug(t)}.md"] = condense(t, b, f"[B{i:02d}]")
+    files[f"70-B{i:02d}-{slug(t)}.md"] = condense(t, b, f"[B{i:02d}]")
 if prevB:
     lines = ["**Previously reported products (unchanged since an earlier digest)**"]
     for t, b in prevB:
@@ -161,14 +164,14 @@ if prevB:
         rel = re.search(r"\*\*Released:\*\* (\d{4}-\d{2}-\d{2})", b)
         lines.append(f"- {t} · {comp.group(1) if comp else ''} · {rel.group(1) if rel else ''} · {src.group(1) if src else ''}")
     for j, ch in enumerate(chunk_lines(lines)):
-        files[f"30{chr(97+j)}-B-previously-reported.md"] = ch
+        files[f"75{chr(97+j)}-B-previously-reported.md"] = ch
 
 # Part A previously reported papers → their own collapsed message(s), removed from the footer
 mprev = re.search(r"^### Previously reported papers[^\n]*\n((?:- .*\n?)+)", trailA, flags=re.M)
 if mprev:
     lines = ["**Previously reported papers (still in the 30-day window)**"] + [l for l in mprev.group(1).split("\n") if l.strip()]
     for j, ch in enumerate(chunk_lines(lines)):
-        files[f"15{chr(97+j)}-A-previously-reported.md"] = ch
+        files[f"65{chr(97+j)}-A-previously-reported.md"] = ch
     trailA = trailA[:mprev.start()] + trailA[mprev.end():]
 
 footer_lines = ["**Announced only, near-misses and verification**"]

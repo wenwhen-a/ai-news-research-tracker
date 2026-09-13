@@ -1,6 +1,6 @@
 # AI News and Research Paper — daily tracker → Discord
 
-A Claude Code cloud routine clones this repo every morning, runs the
+A Claude Code cloud routine clones this repo every morning, produces the Simplified-Chinese games + AI news digest, runs the
 `research-paper-tracker` skill (Part A: arXiv papers from tracked industry
 labs, last 30 days; Part B: research that shipped as a product, last 90
 days), posts one Discord message per item through a webhook, and pushes the
@@ -10,6 +10,10 @@ digest and dedup state back here.
 
 | Path | Purpose |
 |---|---|
+| `.claude/skills/game-ai-news-digest/` | The news skill (Simplified-Chinese games + AI digest: 5 in-depth, 20 brief, 10 flash items) |
+| `scripts/dedup_and_filter.py` | The news skill's helper (recency window, dedup, repeat check against `state/news_previous_items.json`) |
+| `scripts/build_news_messages.py` | Splits `news.md` into Discord messages: one per in-depth item, brief and flash items grouped with links |
+| `state/news_previous_items.json` | News items already posted, so the flash section stays fresh |
 | `.claude/skills/research-paper-tracker/` | The tracker skill (spec, arXiv + GitHub helper scripts, source lists) |
 | `scripts/send_discord.py` | Posts a folder of `*.md` messages to a Discord webhook; refuses to send if any file is over 2000 chars |
 | `scripts/arxiv_site_scan.py` | Website fallback for Part A discovery when the arXiv API is rate-limited (exact-phrase searches on arxiv.org) |
@@ -21,19 +25,21 @@ digest and dedup state back here.
 | `state/papers_seen.json` | Every arXiv id already checked (qualified / near-miss / screened-out); the screener skips these, so daily runs only verify new papers |
 | `scripts/update_papers_seen.py` | Merges a day's results into `papers_seen.json` |
 
+| `digests/YYYY-MM-DD/news.md` | Full news digest for that day (Simplified Chinese) |
+| `digests/YYYY-MM-DD/digest.md` | Full research digest for that day |
+| `digests/YYYY-MM-DD/messages/*.md` | The exact messages that were posted, in order (news first, then research) |
+| `ROUTINE_PROMPT.md` | The prompt the cloud routine runs. Edit here, then update the routine |
+
 Cost model: the first run verified a full 30-day backlog. Daily runs are incremental (only new arXiv ids),
 Part B does a full company sweep on Mondays and a light newsroom check on other days, verification
 sub-agents run on Sonnet and write straight to disk, and papers without an arXiv HTML version are
-listed as unverifiable rather than parsed from PDF.
-| `digests/YYYY-MM-DD/digest.md` | Full digest for that day |
-| `digests/YYYY-MM-DD/messages/*.md` | The exact messages that were posted, in order |
-| `ROUTINE_PROMPT.md` | The prompt the cloud routine runs. Edit here, then update the routine |
+listed as unverifiable rather than parsed from PDF. The news digest is produced fresh every day.
 
 ## Schedule
 
 Routine `daily-research-tracker-discord`, cron `0 15 * * *` UTC
 (8:00 AM Pacific Daylight Time, 7:00 AM Pacific Standard Time), model
-`claude-opus-5`. Manage it at https://claude.ai/code/routines.
+`claude-sonnet-5`. Manage it at https://claude.ai/code/routines.
 
 ## One-time setup (done by the repo owner)
 
