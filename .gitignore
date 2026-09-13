@@ -1,0 +1,4 @@
+*_candidates.json
+__pycache__/
+*.pyc
+.discord_webhook
