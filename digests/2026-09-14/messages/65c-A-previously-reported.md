@@ -1,0 +1,9 @@
+- Building Pretraining Data for World Models: An Unreal Engine-Based Pipeline for Action-Conditioned Video Generation · JD (Joy Future Academy) — Haoyu Wang, Songchun Zhang, Haoyang Huang, Nan Duan; FLAG: borderline (JD.com) · 2026-09-03 · https://arxiv.org/abs/2609.03557
+- VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement · Adobe Research — Jason Kuen, Jiuxiang Gu · 2026-09-02 · https://arxiv.org/abs/2609.03153
+- SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models · NVIDIA — Wei Huang, Yuchao Gu, Yukang Chen; Microsoft Research Asia — Tianyu He · 2026-09-02 · https://arxiv.org/abs/2609.02886
+- RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation · Xiaomi EV — Xiaolei Lang, Zehao Huang, Naiyan Wang; FLAG: borderline · 2026-09-02 · https://arxiv.org/abs/2609.02847
+- H3-World: Turning Language Understanding into World Control · Tencent — Danze Chen, Zeqing Wang, Yeying Jin (also National University of Singapore) · 2026-09-01 · https://arxiv.org/abs/2609.01560
+- ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training · JD (Joy Future Academy, collective byline) — FLAG: borderline (JD.com) · 2026-08-31 · https://arxiv.org/abs/2609.00188
+- FaceSnap: Real-Time Personalized Lightstage Facial Performance Capture · Ubisoft (La Forge) — Emeline Got, Luiz Gustavo Hafemann, Alexandre Messier, Brandon Dearlove, Abdallah Dib · 2026-08-31 · https://arxiv.org/abs/2608.31033
+- Can Video World Models Track Unobserved World States? · Roblox — Yicong Hong, Xun Huang (co-authors at Seoul National University) · 2026-08-31 · https://arxiv.org/abs/2608.30692
+- CAER: Causal Action Effect Reweighting for World Model Training · Manifold AI — Xin Zhang, Haisheng Su, Wei Wu; FLAG: borderline (company tier unclear) · 2026-08-31 · https://arxiv.org/abs/2608.30897

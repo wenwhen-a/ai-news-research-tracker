@@ -1,0 +1,9 @@
+- 4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation · Google DeepMind — Shuyang Sun (co-authors at NTU, Oxford, Princeton) · 2026-08-27 · https://arxiv.org/abs/2608.26947
+- InteractGesture: Progressive Chunk Guidance for Continuous Streaming Co-Speech Gesture Control · Meta — Ajinkya Deogade, Paul Streli, Wenjing Zhang, Joanna Materzynska, Vittorio Ferrari, Jie Shen · 2026-08-26 · https://arxiv.org/abs/2608.25734
+- GLOSS: Geometric Local Self-Similarity Learning for Faithful Reference-Guided Texture Fill · NVIDIA — Anita Hu, James Lucas, Masha Shugrina · 2026-08-26 · https://arxiv.org/abs/2608.25461
+- 4DStreamCtrl: Interactive Video Generation with Online 4D Control · Tencent Hunyuan — Shiqian Li (also Peking University), Zhiguang Liu, Yu Tang, Jiarong Ou, Rui Chen · 2026-08-26 · https://arxiv.org/abs/2608.25479
+- SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image · Huawei — corresponding author Di Xu and co-authors (with Northwestern Polytechnical University); FLAG: borderline · 2026-08-25 · https://arxiv.org/abs/2608.23930
+- NVIDIA Cosmos-H-Dreams: Real-Time Generative Physics Simulation for Surgical Robotics · NVIDIA — Javier Gamazo Tejero, Lukas Zbinden, Keyur Sheth, Raghavendra K M, Nadim Daher, Mahdi Azizian, Sean D. Huver (co-authors at CMR Surgical) · 2026-08-25 · https://arxiv.org/abs/2608.24199
+- Luce: Relightable Gaussians for 3D Asset Generation · Apple — all authors · 2026-08-25 · https://arxiv.org/abs/2608.23943
+- GameWAM: A World Action Model for Video Games · LIGHTSPEED — Zhanqiu Zhang (the paper's affiliation footnote reads only "LIGHTSPEED"; not identified in the paper as Tencent's Lightspeed Studios); FLAG: borderline · 2026-08-25 · https://arxiv.org/abs/2608.26200
+- ExMesh++: From Multi-View Images to Relightable UV-PBR Mesh Assets via Topology-Adaptive Reconstruction and Decomposition · Alibaba Group (Amap) — Wenjie Chang · 2026-08-25 · https://arxiv.org/abs/2608.24109

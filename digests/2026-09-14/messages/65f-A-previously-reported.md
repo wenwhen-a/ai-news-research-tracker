@@ -1,0 +1,9 @@
+- ReWorld: An Interactive World Model with Long-Horizon Memory · Alibaba (ATH) — Zhifei Chen (also HKUST(GZ)), Guibao Shen, Wei Wang, Tianyi Gui, Lianghua Huang · 2026-08-24 · https://arxiv.org/abs/2608.23565
+- Photorealistic Novel View Synthesis of Human Faces using Next-Scale Transformers · Meta (Reality Labs) — Fei Jiang, Zhongshi Jiang, Zohar Barzelay, Emanuel Garbin, Amin Jourabloo, Liuhao Ge (Federico Stella, EPFL, as a Meta Reality Labs intern) · 2026-08-24 · https://arxiv.org/abs/2608.23410
+- Object-Uni: A Unified Model for Object-Centric Spatial Understanding and Controllable Generation · Ant Group — Weiming Dong (corresponding author); FLAG: borderline · 2026-08-24 · https://arxiv.org/abs/2608.22757
+- AquaFlow: A Monocular Gaussian Splatting SLAM for Underwater Streaming Reconstruction · Shanghai AI Laboratory — Yingxiang Xu, Kerui Ren, Wenqi Guo, Tao Lu, Mulin Yu; FLAG: borderline · 2026-08-24 · https://arxiv.org/abs/2608.22906
+- Towards Alias-Free 4D Gaussian Representations with Motion-Aware Filtering · Samsung R&D Institute India, Bangalore — Ankit Dhiman, Lokesh R Boregowda; FLAG: borderline · 2026-08-22 · https://arxiv.org/abs/2608.21828
+- GameXpert-Bench: How Far Are Coding Agents from Expert Game Development? · Tencent — Yuxuan Xie, Jieling He, Zhongyuan Liu (Lightspeed Studios); Zeno Zeng (Hunyuan Team) · 2026-08-22 · https://arxiv.org/abs/2608.21833
+- Sparse Light Field Sampling Improves Casual 3D and 4D Reconstruction · Adobe — Ruiming Cao · 2026-08-20 · https://arxiv.org/abs/2608.20602
+- MultiCube: Compositional 3D Generation With Part-Level Semantic and Spatial Control · Roblox — Ava Pun, Kangle Deng, Yiheng Zhu, Maneesh Agrawala, Tinghui Zhou · 2026-08-20 · https://arxiv.org/abs/2608.20448
+- 4DAnyone: Create Anyone in 4D from a Casual Monocular Video · Ant Group — Zehong Shen; FLAG: borderline · 2026-08-20 · https://arxiv.org/abs/2608.20335

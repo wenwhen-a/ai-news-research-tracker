@@ -1,0 +1,8 @@
+- Learning 3D Editing without Paired Supervision via Generative Prior Distillation · VAST — Zehuan Huang; FLAG: borderline · 2026-09-04 · https://arxiv.org/abs/2609.04942
+- GradRig: Differentiable Weights for Skinned Gaussian Splat Deformation · Adobe — Nina Vesseron (also ENSAE-CREST), Élie Michel · 2026-09-04 · https://arxiv.org/abs/2609.05127
+- WorldReward: Reward Modeling for Camera-Conditioned World Models · Tencent Hunyuan — Zehan Wang, Junshu Tang, Zhimin Li, Tianyu Pang · 2026-09-03 · https://arxiv.org/abs/2609.03952
+- TileGS: Tile-Local Depth Binning for Gaussian Splatting Rasterization · Nokia Technologies — Lauri Ilola, Hamed Rezazadegan Tavakoli; FLAG: borderline · 2026-09-03 · https://arxiv.org/abs/2609.03613
+- Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction · NVIDIA — Cheng Sun, Fu-En Yang, Min-Hung Chen (Chin-Yang Lin dual-affiliated NVIDIA / NYCU) · 2026-09-03 · https://arxiv.org/abs/2609.04201
+- SV-WAM: An Efficient Surround-View World-Action Model for End-to-End Autonomous Driving · Chongqing Changan Technology Co., Ltd. — Junjian Wang, Zhiqiang Deng, Jianbin Gao, Yifeng Pan, Kangwei Liu, Fan Ren, Ji Tao; FLAG: borderline (automaker R&D, comparable to Toyota Research / Wayve) · 2026-09-03 · https://arxiv.org/abs/2609.03602
+- Rethinking 3D Noise: Learning 3D-Aware Video Priors via Optimization-Free Morphological Perturbations · Huawei Heisenberg Research Center — Onat Şahin, Mohammad Altillawi, Carlos Carbone, Ziyuan Liu; FLAG: borderline · 2026-09-03 · https://arxiv.org/abs/2609.03657
+- PointGT: Simultaneous Geometry and Texture Editing for Point-Based Representations · Google DeepMind — Pratul P. Srinivasan · 2026-09-03 · https://arxiv.org/abs/2609.03341

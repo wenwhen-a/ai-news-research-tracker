@@ -1,0 +1,9 @@
+- Generalized Audio-Driven Synthesis of Precise Drummer Motion · Disney Research|Studios — Álvaro G. Iñesta, Mattia Ryffel, Robert W. Sumner, Martin Guay; FLAG: borderline (not on the tracked list) · 2026-08-19 · https://arxiv.org/abs/2608.19055
+- WorldMind: Decoupled Game World Model for State-Aware NPC Behavior · Tencent — all authors (with National University of Singapore; work done during Tencent research internships) · 2026-08-18 · https://arxiv.org/abs/2608.21439
+- SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering · Great Wall Motor Company Limited — Hua Chen, Xuyang Dai; FLAG: borderline · 2026-08-18 · https://arxiv.org/abs/2608.17420
+- LumiTokens: 3D Relighting via Token-Space Lighting Transformation · Adobe Research — Matheus Gadelha · 2026-08-18 · https://arxiv.org/abs/2608.18215
+- Love Handles: Decimation for Deformation Handles with Compact Support and Low Memory Footprints · NVIDIA — David IW Levin (also University of Toronto) · 2026-08-18 · https://arxiv.org/abs/2608.17930
+- Hydra-0: Action Flow for Generalist World Modeling and Control · NVIDIA — Hongyu Li, Bowen Wen, Xinghao Zhu, Yixuan Wang, Yilun Du, Stan Birchfield, Soha Pouya, Chenran Li, Yan Chang · 2026-08-18 · https://arxiv.org/abs/2608.18077
+- GenRec: Knowing Where to Reconstruct and Where to Generate · Google — Federico Tombari, Daniel Barath; Microsoft — Marc Pollefeys · 2026-08-18 · https://arxiv.org/abs/2608.17832
+- GS-Voxel: Fitting-Free Structured Latents for Large-Scale 3DGS Generation · Alibaba (Amap) — Ming Qian, Zijian Wang, Minchao Sun, Jincheng Xiong, Hang Zhang, Mu Xu · 2026-08-18 · https://arxiv.org/abs/2608.17988
+- SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis · Nokia Technologies — Hamed Rezazadegan Tavakoli; FLAG: borderline · 2026-08-17 · https://arxiv.org/abs/2608.16863

@@ -1,0 +1,9 @@
+- Roblox Build — mobile AI creation tab (public alpha, New Zealand) · Roblox · Public beta/preview · Released 2026-07-28 · https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox
+- Autodesk 3ds Max 2027.2 — native 3D Gaussian Splat support · Autodesk (borderline) · GA · Released 2026-07-22 · https://help.autodesk.com/cloudhelp/2027/ENU/3dsMax-WhatsNew/files/GUID-D11D1F34-C9FF-4981-AAE3-5A969986FCF4.html
+- Adobe Substance 3D Painter 12.1, Designer 16 and Sampler update (OpenPBR) · Adobe · GA · Released 2026-07-21 · https://blog.adobe.com/en/publish/2026/07/21/adobe-substance-3d-unveils-new-innovations-deliver-faster-workflows-openpbr-everywhere-digital-twins-scale
+- Fortnite / UEFN v41.20 — Control Rig for Sidekicks, in-world UMG widgets, LLM-powered NPCs · Epic Games · GA · Released 2026-07-16 · https://dev.epicgames.com/documentation/fortnite/41-20-fortnite-ecosystem-updates-and-release-notes-in-fortnite
+- Upgraded PSSR in Doom: The Dark Ages on PS5 Pro (Free Update 4) · Sony Interactive Entertainment · GA · Released 2026-07-07 · https://blog.playstation.com/2026/06/24/upgraded-pssr-comes-to-doom-the-dark-ages-on-ps5-pro/
+- 《逆水寒：新世界》 (Justice Online: New World) character rendering upgrade · NetEase · GA · Released 2026-06-26 · https://h.163.com/news/official/20260612/37231_1304115.html
+- AMD FSR SDK 2.3 — FSR Upscaling 4.1.1 on RDNA 3 · AMD (borderline) · GA · Released 2026-06-24 · https://gpuopen.com/learn/amd-fsr-sdk-2-3-blog/
+- Unreal Engine 5.8 (MetaHuman Animator markerless capture, MetaHuman Collections, Mesh Terrain, MegaLights, MCP plugin) · Epic Games · GA · Released 2026-06-17 · https://forums.unrealengine.com/t/unreal-engine-5-8-released/2729274
+- HappyOyster 1.0 (快乐生蚝 1.0) — real-time interactive world model · Alibaba (ATH Innovation Business Group) · Public beta/preview · Released 2026-06-17 · https://www.happyoyster.cn

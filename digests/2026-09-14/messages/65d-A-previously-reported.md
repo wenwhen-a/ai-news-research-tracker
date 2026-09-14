@@ -1,0 +1,9 @@
+- BLARM: Animating 3D Objects from Video via Blending Latent Rigid Motion Primitives · Roblox — Yizhak Ben-Shabat, Hsueh-Ti Derek Liu, Haomiao Jiang, Snehasish Mukherjee, Kyle Spence, Mark Stauber, Yunze Zeng (Pradyumn Goyal as a Roblox intern) · 2026-08-31 · https://arxiv.org/abs/2608.31113
+- ECHO: Dyadic 3D Facial Motion Generation with Asymmetric Deterministic Articulation and Stochastic Reaction · Alibaba Group — Hongyun Yu, Zhiwen Chen, Chengfei Lv · 2026-08-29 · https://arxiv.org/abs/2609.05506
+- Non-Uniform Quantisation for 3DGS Compression · Nokia — Patrice Rondao Alface; FLAG: borderline · 2026-08-28 · https://arxiv.org/abs/2608.28272
+- NBS: No Bias Stereo · Intrinsic (Google) — Vage Taamazyan, Zhuowen Shen, Stefan Hinterstoisser, Alberto Dall'Olio, Agastya Kalra, Aarrushi Shandilya, Kartik Venkataraman (affiliation printed as "Intrinsic (Google)") · 2026-08-28 · https://arxiv.org/abs/2608.28933
+- SpatialCrafter: Single Image World Modeling with Generative 3D Proxies · Alibaba Group (Tongyi Lab) — Lingteng Qiu, Zilong Dong · 2026-08-27 · https://arxiv.org/abs/2608.27073
+- Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction · Alibaba Group (AMAP CV Lab) — all authors · 2026-08-27 · https://arxiv.org/abs/2608.27529
+- R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models · Alibaba Group (DreamX Team) — Rui Chen, Geng Li, Jifan Li, Qishuai Wen, Jing Tang, Xiangxiang Chu · 2026-08-27 · https://arxiv.org/abs/2608.27328
+- PAWBench: How Far Are We from Probabilistically Aligned World Modeling? · Alibaba (Tongyi Lab) — Yihao Liu · 2026-08-27 · https://arxiv.org/abs/2608.27345
+- CoGeo-GS: Concept-Driven and Geometry-Aware Multi-Object Removal in 3D Scenes · ByteDance (PICO) — Xianliang Huang, Yuewen Ma · 2026-08-27 · https://arxiv.org/abs/2608.26656

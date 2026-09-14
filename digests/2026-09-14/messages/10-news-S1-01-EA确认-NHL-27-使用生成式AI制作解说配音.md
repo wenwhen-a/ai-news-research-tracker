@@ -1,0 +1,14 @@
+**[新闻 1] EA确认《NHL 27》使用生成式AI制作解说配音**
+- **日期：** 2026-09-10
+- **来源链接：** https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator （另见：https://www.pcgamer.com/software/ai/electronic-arts-admits-to-using-ai-voices-in-nhl-27-this-process-allows-us-to-bring-more-variety-to-the-game/）
+- **核心事实（发生了什么）：**
+  - 体育解说员John Buccigross在Chirpin' Zebras播客中透露，EA曾播放他本人声音的AI生成版本供其试听，用于《NHL 27》游戏。
+  - EA正式确认在《NHL 27》中使用生成式AI技术，基于解说员Buccigross与Darren Pang此前完成的50多场录音内容进行扩展生成。
+  - EA表示该技术的使用已获得两位解说员的“充分同意与积极配合”。
+  - Buccigross指出AI生成内容有时会出现人类不会犯的错误，例如把冰球馆的“座位（seats）”说成“椅子（chairs）”。
+- **背景与起因（为什么会发生）：**
+  - 该事件发生在2025年SAG-AFTRA互动媒体协议（2025年7月批准，结束了长达11个月的游戏配音演员罢工）生效之后，该协议要求任何AI数字复制/声音使用均需获得表演者同意并披露，并为实时AI生成表演设定最低薪酬倍数。
+  - EA表示此举意在为广播解说带来更多变化、更快响应联盟与阵容变化，并能更快纳入玩家反馈，而无需解说员重新进行整棚录音。
+- **结果与进展（已经产生了什么结果）：**
+  - Buccigross对减少工作量持积极态度（“如果这意味着工作量减少但薪酬不变，我愿意接受”），同时也指出AI解说仍存在需要人工审核的质量/准确性问题。
+  - 该事件被视为AAA体育游戏采纳“经同意”生成式配音流程的最明确案例之一，反映出行业正从完全回避AI或未经演员同意使用AI，转向基于同意的AI配音路径。

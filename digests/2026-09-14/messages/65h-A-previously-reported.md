@@ -1,0 +1,5 @@
+- SCALE: State-Calibrated Latent Embeddings for JEPA Planning in the Right Geometry · Unity Technologies — Yan Zheng, Tian Wang, Florian Dubost, Alejandro Mottini, Junze Liu, Arvind Srinivasan, Kai Zhong, Kun Qian, Sharon Gao, Qingjun Cui (Jiaming Hu as a Unity intern, Boston University) · 2026-08-17 · https://arxiv.org/abs/2608.16287
+- CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated? · Odyssey — all authors; FLAG: borderline (world-model startup, not on the tracked list) · 2026-08-17 · https://arxiv.org/abs/2608.16829
+- ES3D: Embedding Semantics into 3D Space for Component-Aware Editing · NetEase Fuxi AI Lab — Wenting Zheng, Yingfeng Chen · 2026-08-16 · https://arxiv.org/abs/2608.15749
+- VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End? · Tencent (TEG AIPD) — Jingwen Ye, Zhongkai Wu, Yang Sun, Yiqin Zhu, Xingyi Li, Weidong Zhang · 2026-08-15 · https://arxiv.org/abs/2608.15265
+- SCOPE: Score-Isolated Agentic Optimization for Video World Models · Tencent — Qingbin Liu · 2026-08-15 · https://arxiv.org/abs/2608.15043

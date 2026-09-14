@@ -1,0 +1,9 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **Netflix与暴雪合作开发《暗黑破坏神》动画剧集**（2026-09-14）— Netflix与暴雪确认将联合打造一部设定于《暗黑破坏神》世界观的动画剧集，消息随BlizzCon 2026同步公布，具体剧情细节尚未披露。 https://www.pocketgamer.biz/hot-five-lego-digital-play-acquires-offroad-games-unity-launches-claude-code-plugin-and-pokemon-go-is-top-grossing-mobile-game-of-early-september/
+- **《Culdcept Begins》出货量突破10万套**（2026-09-14）— 发行商Neo宣布Nintendo Switch 2/Switch平台《Culdcept Begins》出货量已突破10万套，游戏同步推出全球Steam版本并扩充周边产品线；据Famitsu报道。 https://www.famitsu.com/
+- **Xbox CEO Asha Sharma在Physint合作达成后到访小岛工作室**（2026-09-14）— 继Xbox宣布将在PlayStation退出后接手发行Hideo Kojima新作《Physint》之后，Xbox CEO Asha Sharma亲自到访小岛秀夫工作室，并在工作室墙上留言"共赴发明与冒险之旅"。 https://www.purexbox.com/news/2026/09/to-invention-and-adventure-together-xbox-boss-visits-kojima-productions-to-mark-new-era
+- **《怪物猎人Now》三年内移动端营收突破3.369亿美元**（2026-09-14）— Niantic与Capcom的位置服务手游《怪物猎人Now》自2023年9月上线以来，移动端预估营收已达3.369亿美元，其中约60%在首年产生；数据援引PocketGamer.biz估算。 https://www.pocketgamer.biz/monster-hunter-now-makes-3369m-in-three-years-on-mobile/
+- **VR工作室Polyarc（《Moss》开发商）宣布关闭**（2026-09-14）— 西雅图VR开发商Polyarc宣布运营近12年后停止运营，影响约30名员工；该工作室此前已于2026年3月因一款未公布项目失去资金支持而裁减约三分之二员工。 https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down
+- **员工共有制工作室KO_OP确认裁员13人**（2026-09-14）— 员工共有制工作室KO_OP宣布裁减13个岗位，原因是在资金紧张的游戏行业融资环境下未能为新项目筹得资金，工作室表示该决定是通过民主方式作出，以确保工作室存续。 https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs
+- **暴雪于BlizzCon 2026正式公布《暗黑破坏神V》**（2026-09-13）— 暴雪在BlizzCon 2026开幕式上公布《暗黑破坏神V》，故事设定于"圣休雅蕊"（Sanctuary）在暗黑破坏神落败后的后启示录世界，目标发售时间为2029年春季。 https://news.blizzard.com/en-us/article/24301453/everything-announced-at-blizzcon-2026-opening-ceremony
+- **《魔兽世界：Forever》公布，主打怀旧初代体验**（2026-09-13）— 暴雪在BlizzCon 2026公布《魔兽世界：Forever》，作为继"现代版"与"怀旧服"之后的第三条WoW体验线，将在初代艾泽拉斯基础上新增区域、地下城与"天翼"（Skyborne）种族，定于2026年11月4日上线。 https://www.pcgamer.com/gaming-industry/news/live/blizzcon-2026-opening-ceremony-live-coverage-whats-next-for-warcraft-overwatch-diablo-and-starcraft/

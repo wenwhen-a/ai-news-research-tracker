@@ -1,0 +1,5 @@
+- **暴雪公布《星际争霸》宇宙全新开放世界射击游戏**（2026-09-13）— 暴雪在BlizzCon 2026上公布一款设定于《星际争霸》宇宙的全新原创开放世界射击游戏，目标发售时间为2030年春季。 https://www.gamesradar.com/news/live/blizzcon-2026-everything-announced/
+- **万代南梦宫推出系列首款THE IDOLM@STER SideM主机游戏**（2026-09-13）— 万代南梦宫与D3 Publisher公布THE IDOLM@STER SideM系列首款主机平台作品，为登陆Nintendo Switch 2/Switch的偶像经营冒险游戏，包含面向49名偶像的全新剧情，于"SideM 11th Stage"live活动上公布；据Famitsu报道。 https://www.famitsu.com/article/202609/87571
+- **Overflow公布《Summer Days》重制版，定档12月发售**（2026-09-13）— 视觉小说厂商Overflow公布《School Days》衍生作《Summer Days》重制版，将于2026年12月18日发售，恰逢该作20周年。 https://automaton-media.com/articles/newsjp/20260913-467161/
+- **粉丝制作的《最后生还者2》PC多人模组在索尼发函后取消**（2026-09-13）— 开发者Speclizer宣布关闭自今年1月起开发、原定9月发布的《最后生还者第二部》粉丝多人模组项目，原因是收到代表索尼互动娱乐发出的终止函。 https://www.videogameschronicle.com/news/last-of-us-part-2-multiplayer-mod-canceled-by-sony/
+- **Devolver Digital股东批准从伦敦AIM市场退市**（2026-09-13）— 独立发行商Devolver Digital股东批准取消其在伦敦AIM市场的上市地位，将于2026年9月16日生效；据InvestGame报道（单一信源、快讯级别），其股价已从1.57英镑的IPO发行价跌至约0.16英镑。 https://investgame.net/news/

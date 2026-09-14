@@ -1,0 +1,9 @@
+**Announced only, near-misses and verification**
+Near-misses (on-topic candidates excluded, with reason):
+- 2609.13072 (MAxBench: A Multinomial Concept Recovery Benchmark) · Meta-affiliated author match from the affiliation screen, but off-topic: an LLM interpretability/concept-steering benchmark, not 3D, world models, character animation, or game engines.
+- 2606.28237 (Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors, Alibaba) · On-topic (character animation) but v1 was submitted 2026-06-26, outside the current 30-day window (2026-08-15 to 2026-09-14); only a v2 revision (2026-09-09) falls inside it, so it does not qualify as a new paper in this window.
+- 2606.29655 (Geometric Reliability of Neural Population Codes, Google-matched) · v1 submitted 2026-06-28, outside the 30-day window (only a v2 revision on 2026-09-07 is recent); also off-topic (computational neuroscience), and the "Google" affiliation match is very likely a false positive from a Google Scholar link on the abstract-only page rather than a genuine industry co-author.
+Verification: every listed paper was checked twice against arXiv (v1 date and title on the abstract page; affiliations read from the paper's HTML or PDF author block; topic confirmed from the abstract) before inclusion. 0 papers list an open release (weights, code or demo).
+**Previously reported (still in window)
+- NVIDIA DLSS 5 with 3D-Guided Neural Rendering (in NBA 2K27) · NVIDIA · GA · Released 2026-09-03 · https://www.nvidia.com/en-us/geforce/news/nba-2k27-dlss-5-3d-guided-neural-rendering-geforce-game-ready-driver/
+- NVIDIA DLSS 4.5 Ray Reconstruction, 2nd-generation transformer model (early access) · NVIDIA · Public beta/preview · Released 2026-08-25 · https://www.nvidia.com/en-us/geforce/news/gamescom-2026-dlss-4-5-ray-reconstruction-release-announcements-trailers/

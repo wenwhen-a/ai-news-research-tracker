@@ -658,7 +658,7 @@
  "2608.27406": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-08-27",
+  "submitted": "2026-09-10",
   "title": "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators"
  },
  "2608.27367": {
@@ -1088,7 +1088,7 @@
  "2608.18234": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-08-23",
+  "submitted": "2026-09-11",
   "title": "GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction"
  },
  "2608.18077": {
@@ -3544,7 +3544,7 @@
  "2604.13427": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-08-26",
+  "submitted": "2026-09-10",
   "title": "A Unified Conditional Flow for Motion Generation, Editing, and Intra-Structural Retargeting"
  },
  "2603.26747": {
@@ -4178,7 +4178,7 @@
  "2609.08981": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-08",
+  "submitted": "2026-09-10",
   "title": "Transformers as In-Context Samplers: From Closed-Form Diffusion to Estimation-Free Sampling"
  },
  "2609.08926": {
@@ -4572,7 +4572,7 @@
  "2607.23687": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-08-18",
+  "submitted": "2026-09-11",
   "title": "GNM Head: A Generative aNthropometric Model of the human head"
  },
  "2607.18116": {
@@ -4788,7 +4788,7 @@
  "2609.05853": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-04",
+  "submitted": "2026-09-11",
   "title": "On the classification of small cyclotomic integers"
  },
  "2609.05170": {
@@ -5504,5 +5504,229 @@
   "first_seen": "2026-09-13",
   "submitted": "2026-08-20",
   "title": "Reinforcing Multi-Turn Reasoning in LLM Agents via Fine-Grained Reward Structure and Credit Assignment"
+ },
+ "2609.12874": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "VideoTok4D: A 4D-Aware Video Tokenizer for Compact World Representation"
+ },
+ "2609.12441": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "IMPLY: Physically Anchored Consistency for World-Model Rollouts"
+ },
+ "2609.12422": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "Hierarchical Belief Modeling for Zero-Shot Opponent Adaptation in Partially Observable Multi-Agent Navigation"
+ },
+ "2609.12347": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-10",
+  "title": "DWMP: Leveraging Dual World Models for Humanoid Obstacle Traversal"
+ },
+ "2609.12278": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-10",
+  "title": "Amortized Low-Rank Adaptation for Model-Based Reinforcement Learning"
+ },
+ "2609.12103": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-10",
+  "title": "RodForesight: A World Model Enhanced Diffusion Policy for Slender and Material Agnostic Rod Insertion"
+ },
+ "2609.12090": {
+  "status": "qualified",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-10",
+  "title": "Does Video Memory Use What It Retrieves? A Causal Audit of Memory Specificity",
+  "affiliation": "Adobe Research — Akshit Bhalla, Darshan Prasad (Aditi Tiwari: work done during an internship at Adobe Research; primary university affiliation University of Illinois Urbana-Champaign)",
+  "url": "https://arxiv.org/abs/2609.12090"
+ },
+ "2609.12036": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-10",
+  "title": "Pelican-Sim 1.0: A General World Model Simulator for Embodied Intelligence"
+ },
+ "2609.13146": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "SNAP3D: Physically Grounded 3D Parts for Assembly from a Single Image"
+ },
+ "2609.12898": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "UniPart: Towards Zero-shot Language-Grounded 3D Part Segmentation for Embodied Interaction"
+ },
+ "2609.12682": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "NOVA-GS: Noise-Aware View-Consistent Gaussian Splatting for Low-Light Novel View Synthesis"
+ },
+ "2609.12395": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-10",
+  "title": "Is Gaussian Splatting Becoming Neural Again? A Taxonomy and Controlled Study of Learned Parameterization"
+ },
+ "2609.12343": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-10",
+  "title": "VS-Splat: Voxel-Selective feed-forward Gaussian Splatting for end-to-end 3D object reconstruction from sparse-views"
+ },
+ "2609.12856": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "Chiral Valence-Bond Solid and Chiral Triplons"
+ },
+ "2609.12342": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-10",
+  "title": "UniMo: Unifying Human and Animal Motion Generation"
+ },
+ "2604.27491": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "Uni-HOI:A Unified framework for Learning the Joint distribution of Text and Human-Object Interaction"
+ },
+ "2609.12443": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "Through-Wall Detection using Software-Defined Radio based on adaptive Principal Component Analysis"
+ },
+ "2603.12064": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "Dense Dynamic Scene Reconstruction and Camera Pose Estimation from Multi-View Videos"
+ },
+ "2609.12850": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "MGAvatar: Mesh-Bound Gaussians for Head Avatar Geometry and Appearance Modeling"
+ },
+ "2609.13072": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "MAxBench: A Multinomial Concept Recovery Benchmark"
+ },
+ "2609.12586": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "Reproducing and Evaluating the Generalizability of Subliminal Learning in Open-Weight Models"
+ },
+ "2609.12258": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-10",
+  "title": "Pneumatic neurons for soft robots enable inflate-and-fire networks for rhythmic motion"
+ },
+ "2608.10276": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "Fine-Tuning Large Language Models for Codebook-Guided Coding of Students' Mathematics Metaphor Responses"
+ },
+ "2607.11853": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-08-24",
+  "title": "An obstruction to lifting schemes to spectral schemes"
+ },
+ "2606.29655": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-07",
+  "title": "Geometric Reliability of Neural Population Codes: Sampling Calibration and Within-Session Nonstationarity"
+ },
+ "2606.28237": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-09",
+  "title": "Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors"
+ },
+ "2609.13107": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "Spectro-polarimetry of HAbitable Planet Earth (SHAPE) on Chandrayaan-3: Instrument characteristics, calibration and onboard performance"
+ },
+ "2609.13041": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "High-redshift supermassive black hole population from core-collapse in self-interacting dark matter halos"
+ },
+ "2609.12895": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "Affine $\\mathfrak{sl}_2$ at admissible levels and quantum $\\mathfrak{sl}_{2|1}$"
+ },
+ "2609.12867": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "Probing Inflationary Origins of Primordial Black Holes with LIGO--Virgo--KAGRA O1--O4a data"
+ },
+ "2609.12865": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "Partition of unity a posteriori error estimators for the linear elasticity eigenvalue problem"
+ },
+ "2609.12854": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "Descent, Seminormalization, and Conductors of Sparse Profile Images"
+ },
+ "2609.12635": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "Minimal Flavoured DFSZ Axion Models: Predictive Yukawa Textures and Flavour Constraints"
+ },
+ "2609.12505": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-11",
+  "title": "LettuceVisSim: A Simulator That Generates Lettuce Image Time-series for Vision-Based Reinforcement Learning"
+ },
+ "2609.12358": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-10",
+  "title": "Enhanced chiral response of hybrid photonic structures empowered by Mie resonances"
+ },
+ "2609.12398": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-10",
+  "title": "Niching Agents in The Core"
+ },
+ "2609.12220": {
+  "status": "screened-out",
+  "first_seen": "2026-09-14",
+  "submitted": "2026-09-10",
+  "title": "On the Fragility of Worst-Case Nash Equilibria in Atomic Congestion Games"
  }
 }
