@@ -45,9 +45,14 @@ for path in sorted(glob.glob(os.path.join(d, "partA_raw_*.md"))):
         m = re.search(r"\*\*arXiv:\*\* (\S+) · (\S+)", rest)
         s = re.search(r"\*\*Submitted:\*\* (\d{4}-\d{2}-\d{2})", rest)
         a = re.search(r"\*\*Qualifying affiliation\(s\):\*\* ([^\n]+)", rest)
+        sm = re.search(r"\*\*Summary[^*]*\*\*\s*([^\n]+)", rest)
+        summary = None
+        if sm:
+            # first sentence only (one-line description for the compact "previously reported" list)
+            summary = re.split(r"(?<=[.!?])\s+(?=[A-Z\"“(0-9])", sm.group(1).strip())[0][:300]
         if m:
             put(m.group(1), "qualified", submitted=s.group(1) if s else None, title=title.strip(),
-                affiliation=a.group(1).strip() if a else None, url=m.group(2))
+                affiliation=a.group(1).strip() if a else None, url=m.group(2), summary=summary)
     for l in nm.split("\n"):
         m = re.match(r"- (\d{4}\.\d{4,5})(?:v\d+)? · ([^·]+?) ·", l.strip())
         if m:

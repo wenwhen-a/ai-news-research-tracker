@@ -15,9 +15,49 @@ Condensing rule per item: try full text; if over the limit, cut every block to 2
 then shorten the author list to "First Author et al."; never cut mid-sentence. Never drops the title,
 arXiv/primary URL, date or affiliation lines.
 """
-import os, re, sys, shutil
+import json, os, re, sys, shutil
 
 LIMIT = 2000
+EMBED_FIELDS = 25       # Discord: max fields per embed
+EMBED_CHARS = 5500      # keep under Discord's 6000-char total per message
+
+
+def companies_of(affil):
+    """'NVIDIA — A, B; Microsoft — C; FLAG: borderline' -> 'NVIDIA; Microsoft (flag)'."""
+    names, flag = [], False
+    for part in re.split(r";\s*", affil or ""):
+        part = part.strip()
+        if not part:
+            continue
+        if part.upper().startswith("FLAG"):
+            flag = True
+            continue
+        name = re.split(r"\s+—\s+|\s+-\s+", part, 1)[0].strip()
+        name = re.sub(r"\s*\(.*?\)\s*$", "", name)
+        if name and name not in names:
+            names.append(name)
+    return "; ".join(names) + (" (flag)" if flag else "")
+
+
+def embed_files(prefix, title, rows):
+    """rows = [(name, value)] -> {filename: json payload} split by field count and char budget. No links."""
+    out, batch, used, j = {}, [], len(title), 0
+    def flush():
+        nonlocal batch, used, j
+        if batch:
+            out[f"{prefix}{chr(97 + j)}-previously-reported.json"] = json.dumps(
+                {"embeds": [{"title": title, "fields": [{"name": n, "value": v, "inline": False} for n, v in batch]}]},
+                ensure_ascii=False)
+            j += 1
+        batch, used = [], len(title)
+    for name, value in rows:
+        name = (name or "untitled")[:250]
+        value = (value or "—")[:1000]
+        if len(batch) >= EMBED_FIELDS or used + len(name) + len(value) > EMBED_CHARS:
+            flush()
+        batch.append((name, value)); used += len(name) + len(value)
+    flush()
+    return out
 SRC = sys.argv[1]
 OUT = sys.argv[2]
 
@@ -123,8 +163,14 @@ def chunk_lines(lines, first_line=None):
 
 os.makedirs(OUT, exist_ok=True)
 for old in os.listdir(OUT):  # clear stale research messages only (news files are managed by build_news_messages.py)
-    if old.lower().endswith(".md") and not old.startswith(("10-news", "20-news", "30-news", "35-news")) and old != "00-header.md":
+    if old.lower().endswith((".md", ".json")) and not old.startswith(("10-news", "20-news", "30-news", "35-news")) and old != "00-header.md":
         os.remove(os.path.join(OUT, old))
+
+product_state = {}
+try:
+    product_state = json.load(open(os.path.join("state", "product_seen.json"), encoding="utf-8"))
+except Exception:
+    pass
 
 files = {}
 winA, itemsA, trailA = parse_section(sections["A"][1]) if "A" in sections else ("", [], "")
@@ -137,19 +183,25 @@ prevB = [(t, b) for t, b in itemsB if "Previously reported" in b]
 date = re.search(r"to (\d{4}-\d{2}-\d{2})\)", winA or winB)
 date = date.group(1) if date else "today"
 
+def short_window(w):
+    # keep "last N days (from to). ... Qualifying ...: counts" but drop the long retrieval sentence
+    w = w.replace("Window: ", "")
+    w = re.sub(r"\s*Retrieval:.*?(?=Qualifying|$)", " ", w).strip()
+    return re.sub(r"\s{2,}", " ", w)
+
 header = [f"**Research & Product Tracker — {date}**", ""]
 # a combined daily banner is written only when the news builder has not already written one
 if not os.path.exists(os.path.join(OUT, "00-header.md")):
     files["00-header.md"] = f"**每日简报 — {date}**\n今日无新闻部分；以下为研究与产品追踪（Research & Product Tracker）。"
 if winA:
-    header += ["**Part A — Papers.** " + winA.replace("Window: ", ""), ""]
+    header += ["**Part A — Papers.** " + short_window(winA), ""]
 else:
     header += ["**Part A — Papers.** No Part A in this digest.", ""]
 if winB:
-    header += ["**Part B — Research → Product.** " + winB.replace("Window: ", ""), ""]
-header += [f"Items follow as one message each: {len(itemsA)} new papers (A01–A{len(itemsA):02d}), "
-           f"{len(newB)} new products (B01–B{len(newB):02d}); previously reported papers and products are collapsed into list messages, "
-           "then a footer with announced-only items and near-misses."]
+    header += ["**Part B — Research → Product.** " + short_window(winB), ""]
+header += [f"One message per new item: {len(itemsA)} new papers (A01–A{len(itemsA):02d}), "
+           f"{len(newB)} new products (B01–B{len(newB):02d}). Previously reported items follow as compact cards "
+           "(title · companies · one line); near-miss details are kept in the repository digest."]
 files["50-research-header.md"] = "\n".join(header)
 
 for i, (t, b) in enumerate(itemsA, 1):
@@ -157,30 +209,82 @@ for i, (t, b) in enumerate(itemsA, 1):
 for i, (t, b) in enumerate(newB, 1):
     files[f"70-B{i:02d}-{slug(t)}.md"] = condense(t, b, f"[B{i:02d}]")
 if prevB:
-    lines = ["**Previously reported products (unchanged since an earlier digest)**"]
+    rows = []
     for t, b in prevB:
         src = re.search(r"\*\*Primary source:\*\* (\S+)", b)
         comp = re.search(r"\*\*Company:\*\* ([^\n]+)", b)
-        rel = re.search(r"\*\*Released:\*\* (\d{4}-\d{2}-\d{2})", b)
-        lines.append(f"- {t} · {comp.group(1) if comp else ''} · {rel.group(1) if rel else ''} · {src.group(1) if src else ''}")
-    for j, ch in enumerate(chunk_lines(lines)):
-        files[f"75{chr(97+j)}-B-previously-reported.md"] = ch
+        comp = re.sub(r"\s*—\s*FLAG.*$", " (flag)", comp.group(1).strip()) if comp else ""
+        summ = ""
+        if src and src.group(1) in product_state:
+            summ = product_state[src.group(1)].get("summary", "")
+        if not summ:
+            ws = re.search(r"\*\*What shipped[^*]*\*\*\s*([^\n]+)", b)
+            summ = ws.group(1).strip() if ws else ""
+        rows.append((t, f"{comp} — {summ}".strip(" —")))
+    files.update(embed_files("75", "Previously reported products (still in the 90-day window)", rows))
 
-# Part A previously reported papers → their own collapsed message(s), removed from the footer
+# Part B may also list previously reported products as a "### Previously reported" block of
+# "- name · company · tier · Released date · url" lines (the routine's compact form)
+mprevB = re.search(r"^### Previously reported[^\n]*\n((?:- .*\n?)+)", trailB, flags=re.M)
+if mprevB:
+    rows = []
+    for l in mprevB.group(1).split("\n"):
+        if not l.strip():
+            continue
+        parts = [p.strip() for p in l[2:].split(" · ")]
+        name = parts[0]
+        comp = parts[1] if len(parts) > 1 else ""
+        url = next((p for p in parts if p.startswith("http")), "")
+        summ = product_state.get(url, {}).get("summary", "") if url else ""
+        rows.append((name, f"{comp} — {summ}".strip(" —")))
+    files.update(embed_files("75", "Previously reported products (still in the 90-day window)", rows))
+    trailB = trailB[:mprevB.start()] + trailB[mprevB.end():]
+
+# Part A previously reported papers → compact embed cards (title · companies · one line), no links
 mprev = re.search(r"^### Previously reported papers[^\n]*\n((?:- .*\n?)+)", trailA, flags=re.M)
 if mprev:
-    lines = ["**Previously reported papers (still in the 30-day window)**"] + [l for l in mprev.group(1).split("\n") if l.strip()]
-    for j, ch in enumerate(chunk_lines(lines)):
-        files[f"65{chr(97+j)}-A-previously-reported.md"] = ch
+    rows = []
+    for l in mprev.group(1).split("\n"):
+        if not l.strip():
+            continue
+        parts = l[2:].split(" · ")
+        # digest line: title · affiliation · date · summary · url  (summary may itself contain " · ")
+        if len(parts) >= 5:
+            title, affil, summary = parts[0], parts[1], " · ".join(parts[3:-1])
+        elif len(parts) == 4:
+            title, affil, summary = parts[0], parts[1], ""
+        else:
+            title, affil, summary = parts[0], "", ""
+        rows.append((title, f"{companies_of(affil)} — {summary}".strip(" —")))
+    files.update(embed_files("65", "Previously reported papers (still in the 30-day window)", rows))
     trailA = trailA[:mprev.start()] + trailA[mprev.end():]
 
-footer_lines = ["**Announced only, near-misses and verification**"]
-for tr in (trailA, trailB):
-    for l in tr.strip("\n").split("\n"):
-        if l.strip():
-            footer_lines.append(l.replace("### ", "**").replace("Announced only (not yet usable)", "Announced only (not yet usable)**") if l.startswith("### ") else l)
-for j, ch in enumerate(chunk_lines(footer_lines)):
-    files[f"90{chr(97+j)}-footer.md"] = ch
+# Footer: announced-only items only, plus a one-line count of near-misses (details stay in the repo digest)
+footer_lines = []
+near_counts = []
+for label, tr in (("papers", trailA), ("products", trailB)):
+    lines = [l for l in tr.strip("\n").split("\n") if l.strip()]
+    ann = False
+    for l in lines:
+        if l.startswith("### Announced only"):
+            ann = True
+            footer_lines.append("**Announced only (not yet usable)**")
+            continue
+        if l.startswith(("Near-misses", "Verification:")) or l.startswith("### "):
+            ann = False
+        if ann and l.startswith("- "):
+            footer_lines.append(l)
+    if label == "papers":
+        n_near = len([l for l in lines if l.startswith("- ") and not any(l == f for f in footer_lines)])
+        if n_near:
+            near_counts.append(f"{n_near} paper near-misses")
+    elif any(l.startswith("Near-misses") for l in lines):
+        near_counts.append("product near-misses")
+if near_counts:
+    footer_lines.append("Excluded on review: " + " and ".join(near_counts) + " — details in the repository digest, not posted here.")
+if footer_lines:
+    for j, ch in enumerate(chunk_lines(footer_lines)):
+        files[f"90{chr(97+j)}-footer.md"] = ch
 
 for name, content in files.items():
     with open(os.path.join(OUT, name), "w", encoding="utf-8") as fh:

@@ -47,7 +47,8 @@
   "submitted": "2026-09-09",
   "title": "DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation",
   "affiliation": "NVIDIA — Moritz Reuss (also Intuitive Robots Lab, KIT)",
-  "url": "https://arxiv.org/abs/2609.10506"
+  "url": "https://arxiv.org/abs/2609.10506",
+  "summary": "A dual-view latent world model for robot manipulation that fuses side-view and wrist-camera observations through cross-view attention and extends latent planning to a full 7-DoF end-effector action space."
  },
  "2609.10464": {
   "status": "screened-out",
@@ -307,7 +308,8 @@
   "submitted": "2026-09-03",
   "title": "WorldReward: Reward Modeling for Camera-Conditioned World Models",
   "affiliation": "Tencent Hunyuan — Zehan Wang, Junshu Tang, Zhimin Li, Tianyu Pang",
-  "url": "https://arxiv.org/abs/2609.03952"
+  "url": "https://arxiv.org/abs/2609.03952",
+  "summary": "WorldReward is a VLM-based pairwise reward model for camera-conditioned world models that splits videos into action-aligned chunks, scores each with structured visual evidence, and aggregates separate action-consistency and visual-quality scores."
  },
  "2609.03927": {
   "status": "screened-out",
@@ -351,7 +353,8 @@
   "submitted": "2026-09-03",
   "title": "SV-WAM: An Efficient Surround-View World-Action Model for End-to-End Autonomous Driving",
   "affiliation": "Chongqing Changan Technology Co., Ltd. — Junjian Wang, Zhiqiang Deng, Jianbin Gao, Yifeng Pan, Kangwei Liu, Fan Ren, Ji Tao; FLAG: borderline (automaker R&D, comparable to Toyota Research / Wayve)",
-  "url": "https://arxiv.org/abs/2609.03602"
+  "url": "https://arxiv.org/abs/2609.03602",
+  "summary": "SV-WAM is a surround-view world-action model for end-to-end driving that keeps six-camera context through an action-centred causal mask, co-trains with future-video prediction, and drops the video branch at inference."
  },
  "2609.03572": {
   "status": "screened-out",
@@ -371,7 +374,8 @@
   "submitted": "2026-09-03",
   "title": "Building Pretraining Data for World Models: An Unreal Engine-Based Pipeline for Action-Conditioned Video Generation",
   "affiliation": "JD (Joy Future Academy) — Haoyu Wang, Songchun Zhang, Haoyang Huang, Nan Duan; FLAG: borderline (JD.com)",
-  "url": "https://arxiv.org/abs/2609.03557"
+  "url": "https://arxiv.org/abs/2609.03557",
+  "summary": "A production pipeline on Unreal Engine that generates synthetic, action-conditioned, multi-view video for training interactive world models, combining physics simulation of character trajectories with offline cinematic rendering."
  },
  "2609.03294": {
   "status": "screened-out",
@@ -391,7 +395,8 @@
   "submitted": "2026-09-02",
   "title": "VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement",
   "affiliation": "Adobe Research — Jason Kuen, Jiuxiang Gu",
-  "url": "https://arxiv.org/abs/2609.03153"
+  "url": "https://arxiv.org/abs/2609.03153",
+  "summary": "VeriPhy is an agentic physical-verification system that checks generated video against a natural-language prompt: a text-only planner compiles the prompt into typed physical obligations and a statically validated execution plan before any frame is observed."
  },
  "2609.03067": {
   "status": "screened-out",
@@ -405,7 +410,8 @@
   "submitted": "2026-09-02",
   "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
   "affiliation": "NVIDIA — Wei Huang, Yuchao Gu, Yukang Chen; Microsoft Research Asia — Tianyu He",
-  "url": "https://arxiv.org/abs/2609.02886"
+  "url": "https://arxiv.org/abs/2609.02886",
+  "summary": "SolarWM is an open foundation for interactive video world models: a reconfigurable data engine (1.43M clips from 10 datasets, about 25.85 TB) plus a backbone-native adaptation framework instantiated as four 5B to 33B models built on Wan2.2, LTX-2.5 and MiniMax-H3."
  },
  "2609.02885": {
   "status": "screened-out",
@@ -467,7 +473,8 @@
   "submitted": "2026-09-01",
   "title": "H3-World: Turning Language Understanding into World Control",
   "affiliation": "Tencent — Danze Chen, Zeqing Wang, Yeying Jin (also National University of Singapore)",
-  "url": "https://arxiv.org/abs/2609.01560"
+  "url": "https://arxiv.org/abs/2609.01560",
+  "summary": "H3-World turns the MiniMax-H3 video generator into an interactive world model by using natural language as the control interface for character and camera actions, aligning instructions to video latent intervals with temporal attention routing."
  },
  "2609.01215": {
   "status": "near-miss",
@@ -505,7 +512,8 @@
   "submitted": "2026-08-31",
   "title": "ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training",
   "affiliation": "JD (Joy Future Academy, collective byline) — FLAG: borderline (JD.com)",
-  "url": "https://arxiv.org/abs/2609.00188"
+  "url": "https://arxiv.org/abs/2609.00188",
+  "summary": "ZimaBlue trains World Action Models through a three-stage curriculum: causal video pretraining on egocentric video without action labels, multi-embodiment video-action mid-training with a unified action representation, then target-robot post-training with a Slow-Fast dual-system architecture."
  },
  "2609.00161": {
   "status": "screened-out",
@@ -531,7 +539,8 @@
   "submitted": "2026-08-31",
   "title": "CAER: Causal Action Effect Reweighting for World Model Training",
   "affiliation": "Manifold AI — Xin Zhang, Haisheng Su, Wei Wu; FLAG: borderline (company tier unclear)",
-  "url": "https://arxiv.org/abs/2608.30897"
+  "url": "https://arxiv.org/abs/2608.30897",
+  "summary": "CAER reweights the training loss of action-conditioned video world models toward action-responsive tokens, since a uniform space-time MSE lets static background dominate gradients while sparse interaction dynamics stay under-optimised."
  },
  "2608.30692": {
   "status": "qualified",
@@ -539,7 +548,8 @@
   "submitted": "2026-08-31",
   "title": "Can Video World Models Track Unobserved World States?",
   "affiliation": "Roblox — Yicong Hong, Xun Huang (co-authors at Seoul National University)",
-  "url": "https://arxiv.org/abs/2608.30692"
+  "url": "https://arxiv.org/abs/2608.30692",
+  "summary": "Studies whether video world models maintain a hidden, unobserved world state rather than only producing plausible frames, using an action-conditioned \"Shell Game\" task, a visual analogue of S5 permutation-group state tracking that decouples rendering from tracking the underlying state."
  },
  "2608.30530": {
   "status": "screened-out",
@@ -658,7 +668,7 @@
  "2608.27406": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-10",
+  "submitted": "2026-08-27",
   "title": "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators"
  },
  "2608.27367": {
@@ -673,7 +683,8 @@
   "submitted": "2026-08-27",
   "title": "PAWBench: How Far Are We from Probabilistically Aligned World Modeling?",
   "affiliation": "Alibaba (Tongyi Lab) — Yihao Liu",
-  "url": "https://arxiv.org/abs/2608.27345"
+  "url": "https://arxiv.org/abs/2608.27345",
+  "summary": "PAWBench tests whether video generators behave as probabilistically aligned world models: whether repeated rollouts from identical initial conditions and actions recover the correct distribution over futures rather than one plausible video."
  },
  "2608.27328": {
   "status": "qualified",
@@ -681,7 +692,8 @@
   "submitted": "2026-08-27",
   "title": "R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models",
   "affiliation": "Alibaba Group (DreamX Team) — Rui Chen, Geng Li, Jifan Li, Qishuai Wen, Jing Tang, Xiangxiang Chu",
-  "url": "https://arxiv.org/abs/2608.27328"
+  "url": "https://arxiv.org/abs/2608.27328",
+  "summary": "R2M-Bench tests whether video world models genuinely remember previously seen scenes rather than merely changing little, by comparing a revisit pair against two same-rollout controls (a gap-matched non-revisit pair and a short-range pair)."
  },
  "2608.27073": {
   "status": "qualified",
@@ -689,7 +701,8 @@
   "submitted": "2026-08-27",
   "title": "SpatialCrafter: Single Image World Modeling with Generative 3D Proxies",
   "affiliation": "Alibaba Group (Tongyi Lab) — Lingteng Qiu, Zilong Dong",
-  "url": "https://arxiv.org/abs/2608.27073"
+  "url": "https://arxiv.org/abs/2608.27073",
+  "summary": "SpatialCrafter turns one image into an explorable 3D scene by generating a global 3D proxy and refining its appearance with a video diffusion model, to reduce hallucination and drift compared with video-diffusion-only methods; the authors also build a 115K-scene dataset with geometric annotations."
  },
  "2608.26788": {
   "status": "screened-out",
@@ -715,7 +728,8 @@
   "submitted": "2026-08-25",
   "title": "GameWAM: A World Action Model for Video Games",
   "affiliation": "LIGHTSPEED — Zhanqiu Zhang (the paper's affiliation footnote reads only \"LIGHTSPEED\"; not identified in the paper as Tencent's Lightspeed Studios); FLAG: borderline",
-  "url": "https://arxiv.org/abs/2608.26200"
+  "url": "https://arxiv.org/abs/2608.26200",
+  "summary": "GameWAM is presented as the first World Action Model for native closed-loop video-game play and GUI control, jointly generating future observations and executable keyboard-mouse action trajectories through parallel visual and action generative processes with block-causal conditioning and flow matchi"
  },
  "2608.26190": {
   "status": "screened-out",
@@ -771,7 +785,8 @@
   "submitted": "2026-08-26",
   "title": "4DStreamCtrl: Interactive Video Generation with Online 4D Control",
   "affiliation": "Tencent Hunyuan — Shiqian Li (also Peking University), Zhiguang Liu, Yu Tang, Jiarong Ou, Rui Chen",
-  "url": "https://arxiv.org/abs/2608.25479"
+  "url": "https://arxiv.org/abs/2608.25479",
+  "summary": "A unified 3D point-track representation for joint camera and object control, depth editing and motion transfer in streaming video generation, integrated into a pretrained diffusion model through a \"Geometric Motion Head.\""
  },
  "2608.25017": {
   "status": "screened-out",
@@ -809,7 +824,8 @@
   "submitted": "2026-08-25",
   "title": "NVIDIA Cosmos-H-Dreams: Real-Time Generative Physics Simulation for Surgical Robotics",
   "affiliation": "NVIDIA — Javier Gamazo Tejero, Lukas Zbinden, Keyur Sheth, Raghavendra K M, Nadim Daher, Mahdi Azizian, Sean D. Huver (co-authors at CMR Surgical)",
-  "url": "https://arxiv.org/abs/2608.24199"
+  "url": "https://arxiv.org/abs/2608.24199",
+  "summary": "A real-time surgical world-model system combining an action-conditioned generative model, a teacher-to-student distillation recipe and a deployment stack on the NVIDIA FlashDreams streaming-inference library, built on Cosmos-H-Surgical-Simulator fine-tuned on the Open-H-Embodiment corpus."
  },
  "2608.24101": {
   "status": "screened-out",
@@ -853,7 +869,8 @@
   "submitted": "2026-08-24",
   "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
   "affiliation": "Alibaba (ATH) — Zhifei Chen (also HKUST(GZ)), Guibao Shen, Wei Wang, Tianyi Gui, Lianghua Huang",
-  "url": "https://arxiv.org/abs/2608.23565"
+  "url": "https://arxiv.org/abs/2608.23565",
+  "summary": "ReWorld separates short-horizon control from long-horizon memory during training and bounds both at inference: most attention heads use short windows while a few global heads attend over full history, with a fixed 12-chunk pose-indexed landmark cache to regenerate starting views in minute-long seque"
  },
  "2608.23526": {
   "status": "screened-out",
@@ -963,7 +980,8 @@
   "submitted": "2026-08-18",
   "title": "WorldMind: Decoupled Game World Model for State-Aware NPC Behavior",
   "affiliation": "Tencent — all authors (with National University of Singapore; work done during Tencent research internships)",
-  "url": "https://arxiv.org/abs/2608.21439"
+  "url": "https://arxiv.org/abs/2608.21439",
+  "summary": "WorldMind is described as the first decoupled framework for state-aware NPC behaviour in game world models, separating interactive world modelling into Understanding, Decision, Control and Generation layers."
  },
  "2608.21114": {
   "status": "screened-out",
@@ -1088,7 +1106,7 @@
  "2608.18234": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-11",
+  "submitted": "2026-08-23",
   "title": "GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction"
  },
  "2608.18077": {
@@ -1097,7 +1115,8 @@
   "submitted": "2026-08-18",
   "title": "Hydra-0: Action Flow for Generalist World Modeling and Control",
   "affiliation": "NVIDIA — Hongyu Li, Bowen Wen, Xinghao Zhu, Yixuan Wang, Yilun Du, Stan Birchfield, Soha Pouya, Chenran Li, Yan Chang",
-  "url": "https://arxiv.org/abs/2608.18077"
+  "url": "https://arxiv.org/abs/2608.18077",
+  "summary": "Hydra-0 is a generalist world model that represents robot actions as \"action flow,\" pixel motion, as a unified interface across robots, tasks and environments, so action consequences are learned once and reused across embodiments."
  },
  "2608.17959": {
   "status": "screened-out",
@@ -1171,7 +1190,8 @@
   "submitted": "2026-08-17",
   "title": "CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?",
   "affiliation": "Odyssey — all authors; FLAG: borderline (world-model startup, not on the tracked list)",
-  "url": "https://arxiv.org/abs/2608.16829"
+  "url": "https://arxiv.org/abs/2608.16829",
+  "summary": "CaliBench tests whether video world models reproduce the correct statistical distribution of physical outcomes, evaluating six image-to-video models on nine scenes with analytically known outcome distributions (Galton boards, dice, roulette, cards and others)."
  },
  "2608.16651": {
   "status": "screened-out",
@@ -1191,7 +1211,8 @@
   "submitted": "2026-08-17",
   "title": "SCALE: State-Calibrated Latent Embeddings for JEPA Planning in the Right Geometry",
   "affiliation": "Unity Technologies — Yan Zheng, Tian Wang, Florian Dubost, Alejandro Mottini, Junze Liu, Arvind Srinivasan, Kai Zhong, Kun Qian, Sharon Gao, Qingjun Cui (Jiaming Hu as a Unity intern, Boston University)",
-  "url": "https://arxiv.org/abs/2608.16287"
+  "url": "https://arxiv.org/abs/2608.16287",
+  "summary": "Compares two ways to obtain non-collapsed representations in JEPA world models used for planning, inheriting a pretrained feature space (DINO-WM) versus end-to-end training with anti-collapse regularisation (LeWM), and adds SCALE, a training-time regulariser that aligns latent distances with distanc"
  },
  "2608.16234": {
   "status": "screened-out",
@@ -1223,7 +1244,8 @@
   "submitted": "2026-08-15",
   "title": "SCOPE: Score-Isolated Agentic Optimization for Video World Models",
   "affiliation": "Tencent — Qingbin Liu",
-  "url": "https://arxiv.org/abs/2608.15043"
+  "url": "https://arxiv.org/abs/2608.15043",
+  "summary": "SCOPE is a framework for auditable inference-time adaptation of frozen video world models used as planning simulators, representing prompts, samplers, verifiers and selectors as a typed state updated only through bounded evidence-supported changes before freezing for held-out evaluation."
  },
  "2608.14952": {
   "status": "screened-out",
@@ -1267,7 +1289,8 @@
   "submitted": "2026-08-14",
   "title": "ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models",
   "affiliation": "Tencent PCG — Lingshuai Lin, Qingbin Liu, Jiang Bian",
-  "url": "https://arxiv.org/abs/2608.14022"
+  "url": "https://arxiv.org/abs/2608.14022",
+  "summary": "ForgeWM converts bidirectional action-conditioned video generators into few-step (1, 2 or 4 step) causal world models for low-latency game-native control through four-stage progressive training, with an optional post-hoc \"replay\" refinement pass."
  },
  "2608.13552": {
   "status": "near-miss",
@@ -1491,7 +1514,8 @@
   "submitted": "2026-08-22",
   "title": "GameXpert-Bench: How Far Are Coding Agents from Expert Game Development?",
   "affiliation": "Tencent — Yuxuan Xie, Jieling He, Zhongyuan Liu (Lightspeed Studios); Zeno Zeng (Hunyuan Team)",
-  "url": "https://arxiv.org/abs/2608.21833"
+  "url": "https://arxiv.org/abs/2608.21833",
+  "summary": "GameXpert-Bench evaluates LLM coding agents on end-to-end game development in three stages: generating a game from a request (97 tasks, 11 genres), diagnosing and fixing injected bugs (100 human-verified tasks) and iterative multi-turn improvement (17 chains), tested by live game interaction and beh"
  },
  "2608.00576": {
   "status": "screened-out",
@@ -1535,7 +1559,8 @@
   "submitted": "2026-09-08",
   "title": "GSComplete: Gaussian Splat Completion with 2D Diffusion Priors",
   "affiliation": "Adobe — Paul Guerrero (Adobe Research, United Kingdom)",
-  "url": "https://arxiv.org/abs/2609.08449"
+  "url": "https://arxiv.org/abs/2609.08449",
+  "summary": "GSComplete completes partial 3D Gaussian-splat objects and scenes by adding new Gaussians in missing regions, guided by 2D diffusion priors through score distillation sampling (SDS) and a text prompt."
  },
  "2609.08333": {
   "status": "screened-out",
@@ -1561,7 +1586,8 @@
   "submitted": "2026-09-07",
   "title": "Flow3D-OPD: Multi-Teacher On-Policy Distillation for 3D Geometry Generation with Flow-Matching Diffusion Transformer",
   "affiliation": "Tencent (Tencent Hunyuan3D) — Zhiwei Ning, Zhen Zhou, Puhua Jiang, Xintong Han, Chunchao Guo",
-  "url": "https://arxiv.org/abs/2609.07137"
+  "url": "https://arxiv.org/abs/2609.07137",
+  "summary": "A two-stage post-training framework for image-to-3D flow-matching diffusion transformers that applies multi-teacher on-policy distillation to improve mesh geometry quality after pretraining."
  },
  "2609.06436": {
   "status": "near-miss",
@@ -1587,7 +1613,8 @@
   "submitted": "2026-09-04",
   "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
   "affiliation": "Alaya Lab (Shanda Group) — Muyao Niu and ten co-authors; FLAG: borderline (an \"AI x Gaming\" industry lab under Shanda Group, not on the core list)",
-  "url": "https://arxiv.org/abs/2609.05416"
+  "url": "https://arxiv.org/abs/2609.05416",
+  "summary": "WorldSculpt generates compositional 3D scenes made of hundreds of individually separable object meshes from posed multi-view video, by extending the single-object generative prior Pixal3D with a multi-view conditioning pathway."
  },
  "2609.03931": {
   "status": "near-miss",
@@ -1619,7 +1646,8 @@
   "submitted": "2026-08-25",
   "title": "Luce: Relightable Gaussians for 3D Asset Generation",
   "affiliation": "Apple — all authors",
-  "url": "https://arxiv.org/abs/2608.23943"
+  "url": "https://arxiv.org/abs/2608.23943",
+  "summary": "Luce introduces a PBR Gaussian representation that unifies geometry with albedo, metallic-roughness and tangent-space normals in voxelised Gaussian clouds, compresses it with a VAE into a diffusible latent, and generates assets from a single image with a rectified-flow transformer."
  },
  "2608.23930": {
   "status": "qualified",
@@ -1627,7 +1655,8 @@
   "submitted": "2026-08-25",
   "title": "SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image",
   "affiliation": "Huawei — corresponding author Di Xu and co-authors (with Northwestern Polytechnical University); FLAG: borderline",
-  "url": "https://arxiv.org/abs/2608.23930"
+  "url": "https://arxiv.org/abs/2608.23930",
+  "summary": "SceneReGen reconstructs a full 3D scene from one image by treating generated object assets as reconstruction primitives, with \"selective pose factorization\" that encodes observed orientation in the generated meshes while estimating translation and scale from scene evidence."
  },
  "2608.22740": {
   "status": "screened-out",
@@ -1641,7 +1670,8 @@
   "submitted": "2026-08-20",
   "title": "MultiCube: Compositional 3D Generation With Part-Level Semantic and Spatial Control",
   "affiliation": "Roblox — Ava Pun, Kangle Deng, Yiheng Zhu, Maneesh Agrawala, Tinghui Zhou",
-  "url": "https://arxiv.org/abs/2608.20448"
+  "url": "https://arxiv.org/abs/2608.20448",
+  "summary": "MultiCube generates 3D objects composed of semantically meaningful parts, with explicit control over part semantics (a schema) and spatial layout (bounding boxes) from a text prompt."
  },
  "2608.19756": {
   "status": "screened-out",
@@ -1667,7 +1697,8 @@
   "submitted": "2026-08-18",
   "title": "GS-Voxel: Fitting-Free Structured Latents for Large-Scale 3DGS Generation",
   "affiliation": "Alibaba (Amap) — Ming Qian, Zijian Wang, Minchao Sun, Jincheng Xiong, Hang Zhang, Mu Xu",
-  "url": "https://arxiv.org/abs/2608.17988"
+  "url": "https://arxiv.org/abs/2608.17988",
+  "summary": "GS-Voxel converts pre-optimised large-scale aerial 3DGS reconstructions into structured sparse-voxel latents without per-scene refitting, then generates new aerial 3DGS scenes from those latents."
  },
  "2608.15749": {
   "status": "qualified",
@@ -1675,7 +1706,8 @@
   "submitted": "2026-08-16",
   "title": "ES3D: Embedding Semantics into 3D Space for Component-Aware Editing",
   "affiliation": "NetEase Fuxi AI Lab — Wenting Zheng, Yingfeng Chen",
-  "url": "https://arxiv.org/abs/2608.15749"
+  "url": "https://arxiv.org/abs/2608.15749",
+  "summary": "ES3D embeds semantics directly into 3D space to enable component-aware retrieval and editing of a 3D asset, conditioned on one or more local reference images and an optional text query."
  },
  "2608.14783": {
   "status": "screened-out",
@@ -1827,7 +1859,8 @@
   "submitted": "2026-09-04",
   "title": "Learning 3D Editing without Paired Supervision via Generative Prior Distillation",
   "affiliation": "VAST — Zehuan Huang; FLAG: borderline",
-  "url": "https://arxiv.org/abs/2609.04942"
+  "url": "https://arxiv.org/abs/2609.04942",
+  "summary": "PriorEdit3D is a feed-forward instruction-guided 3D editing framework built on the UniLat3D geometry-appearance latent that learns without paired 3D before/after data, distilling visual priors from 2D image-editing models and semantic priors from vision-language models, with a 3D-aware distribution-"
  },
  "2609.03764": {
   "status": "screened-out",
@@ -1991,7 +2024,8 @@
   "submitted": "2026-09-04",
   "title": "GradRig: Differentiable Weights for Skinned Gaussian Splat Deformation",
   "affiliation": "Adobe — Nina Vesseron (also ENSAE-CREST), Élie Michel",
-  "url": "https://arxiv.org/abs/2609.05127"
+  "url": "https://arxiv.org/abs/2609.05127",
+  "summary": "GradRig deforms 3D Gaussian splats with skinning by using spatial gradients of skinning weights, since splats lack mesh connectivity and rigid per-splat transforms open holes when shapes stretch; an optional adaptive resampling splits problematic splats."
  },
  "2609.04602": {
   "status": "screened-out",
@@ -2017,7 +2051,8 @@
   "submitted": "2026-09-03",
   "title": "Rethinking 3D Noise: Learning 3D-Aware Video Priors via Optimization-Free Morphological Perturbations",
   "affiliation": "Huawei Heisenberg Research Center — Onat Şahin, Mohammad Altillawi, Carlos Carbone, Ziyuan Liu; FLAG: borderline",
-  "url": "https://arxiv.org/abs/2609.03657"
+  "url": "https://arxiv.org/abs/2609.03657",
+  "summary": "Proposes \"3D Morphological Perturbations,\" an optimisation-free regulariser that perturbs each Gaussian's scale, rotation and pruning in 3DGS scenes to create view-consistent corrupted training data, used to inject 3D-aware priors into video diffusion models."
  },
  "2609.03613": {
   "status": "qualified",
@@ -2025,7 +2060,8 @@
   "submitted": "2026-09-03",
   "title": "TileGS: Tile-Local Depth Binning for Gaussian Splatting Rasterization",
   "affiliation": "Nokia Technologies — Lauri Ilola, Hamed Rezazadegan Tavakoli; FLAG: borderline",
-  "url": "https://arxiv.org/abs/2609.03613"
+  "url": "https://arxiv.org/abs/2609.03613",
+  "summary": "TileGS reorganises 3DGS rasterisation into tile-local depth bins rasterised front to back, with selective repair where coarse ordering is insufficient, replacing long globally sorted tile ranges."
  },
  "2609.03534": {
   "status": "screened-out",
@@ -2045,7 +2081,8 @@
   "submitted": "2026-09-03",
   "title": "PointGT: Simultaneous Geometry and Texture Editing for Point-Based Representations",
   "affiliation": "Google DeepMind — Pratul P. Srinivasan",
-  "url": "https://arxiv.org/abs/2609.03341"
+  "url": "https://arxiv.org/abs/2609.03341",
+  "summary": "PointGT is a point-based 3D representation that supports simultaneous editing of geometry and appearance: it extends PAPR with a learned UV mapping from 3D points to a 2D texture atlas, so textures are edited in 2D while non-rigid geometry edits displace points."
  },
  "2609.03334": {
   "status": "near-miss",
@@ -2161,7 +2198,8 @@
   "submitted": "2026-08-28",
   "title": "Non-Uniform Quantisation for 3DGS Compression",
   "affiliation": "Nokia — Patrice Rondao Alface; FLAG: borderline",
-  "url": "https://arxiv.org/abs/2608.28272"
+  "url": "https://arxiv.org/abs/2608.28272",
+  "summary": "An importance-weighted, non-uniform quantisation scheme for 3D Gaussian Splatting compression with weighted merging to remove post-voxelisation redundancy, designed for the standard point-cloud codecs V-PCC and G-PCC."
  },
  "2608.28240": {
   "status": "screened-out",
@@ -2193,7 +2231,8 @@
   "submitted": "2026-08-27",
   "title": "CoGeo-GS: Concept-Driven and Geometry-Aware Multi-Object Removal in 3D Scenes",
   "affiliation": "ByteDance (PICO) — Xianliang Huang, Yuewen Ma",
-  "url": "https://arxiv.org/abs/2608.26656"
+  "url": "https://arxiv.org/abs/2608.26656",
+  "summary": "A framework for removing several objects from a 3D Gaussian Splatting scene in one optimisation stage, using concept-aware semantic tagging of Gaussians and a depth-guided completion pipeline that combines monocular depth priors with diffusion-based refinement."
  },
  "2608.26383": {
   "status": "near-miss",
@@ -2213,7 +2252,8 @@
   "submitted": "2026-08-24",
   "title": "AquaFlow: A Monocular Gaussian Splatting SLAM for Underwater Streaming Reconstruction",
   "affiliation": "Shanghai AI Laboratory — Yingxiang Xu, Kerui Ren, Wenqi Guo, Tao Lu, Mulin Yu; FLAG: borderline",
-  "url": "https://arxiv.org/abs/2608.22906"
+  "url": "https://arxiv.org/abs/2608.22906",
+  "summary": "A monocular 3DGS SLAM system for underwater streaming reconstruction that pairs a subsea-finetuned 3D vision foundation model with a hybrid representation of distance-aware neural Gaussians and a physics-inspired light attenuation and scattering model."
  },
  "2608.22773": {
   "status": "screened-out",
@@ -2245,7 +2285,8 @@
   "submitted": "2026-08-22",
   "title": "Towards Alias-Free 4D Gaussian Representations with Motion-Aware Filtering",
   "affiliation": "Samsung R&D Institute India, Bangalore — Ankit Dhiman, Lokesh R Boregowda; FLAG: borderline",
-  "url": "https://arxiv.org/abs/2608.21828"
+  "url": "https://arxiv.org/abs/2608.21828",
+  "summary": "Addresses aliasing in 4D Gaussian Splatting of dynamic scenes with a motion-aware 3D smoothing filter whose strength adapts to local motion instead of a static filter."
  },
  "2608.21685": {
   "status": "screened-out",
@@ -2295,7 +2336,8 @@
   "submitted": "2026-08-18",
   "title": "SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering",
   "affiliation": "Great Wall Motor Company Limited — Hua Chen, Xuyang Dai; FLAG: borderline",
-  "url": "https://arxiv.org/abs/2608.17420"
+  "url": "https://arxiv.org/abs/2608.17420",
+  "summary": "A two-stage controllable video-diffusion framework that repairs blur, temporal inconsistency and foreground/background misalignment in neural-rendered driving scenes viewed from novel trajectories or with inserted objects."
  },
  "2608.17298": {
   "status": "near-miss",
@@ -2501,7 +2543,8 @@
   "submitted": "2026-08-20",
   "title": "Sparse Light Field Sampling Improves Casual 3D and 4D Reconstruction",
   "affiliation": "Adobe — Ruiming Cao",
-  "url": "https://arxiv.org/abs/2608.20602"
+  "url": "https://arxiv.org/abs/2608.20602",
+  "summary": "Studies why novel-view-synthesis pipelines use monocular input even though consumer devices carry several synchronised cameras, analysing sensor-limited and exposure-limited multi-camera capture for 3D and 4D reconstruction."
  },
  "2608.20335": {
   "status": "qualified",
@@ -2509,7 +2552,8 @@
   "submitted": "2026-08-20",
   "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
   "affiliation": "Ant Group — Zehong Shen; FLAG: borderline",
-  "url": "https://arxiv.org/abs/2608.20335"
+  "url": "https://arxiv.org/abs/2608.20335",
+  "summary": "Reconstructs 4D humans from uncalibrated casual monocular video by generating multi-view-consistent videos and lifting them into 4D Gaussian Splatting."
  },
  "2608.20000": {
   "status": "screened-out",
@@ -2589,7 +2633,8 @@
   "submitted": "2026-09-05",
   "title": "PASTEL: Panoramic Alignment for Monocular 4D Scene Reconstruction",
   "affiliation": "Huawei (Central Media Technology Institute) — Yi Wei, Bo Bai, Wenyang Zhou; FLAG: borderline",
-  "url": "https://arxiv.org/abs/2609.06099"
+  "url": "https://arxiv.org/abs/2609.06099",
+  "summary": "PASTEL reconstructs 4D scenes from casually captured monocular video by reconstructing visible regions and generatively completing regions outside the camera's view."
  },
  "2609.05382": {
   "status": "screened-out",
@@ -2609,7 +2654,8 @@
   "submitted": "2026-09-02",
   "title": "RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation",
   "affiliation": "Xiaomi EV — Xiaolei Lang, Zehao Huang, Naiyan Wang; FLAG: borderline",
-  "url": "https://arxiv.org/abs/2609.02847"
+  "url": "https://arxiv.org/abs/2609.02847",
+  "summary": "RoGe fuses implicit 3D reconstruction and video-diffusion generation end to end for novel view synthesis: from a few posed images and a camera trajectory it produces a temporally coherent fly-through video without an explicit 3D intermediate."
  },
  "2608.30423": {
   "status": "screened-out",
@@ -2629,7 +2675,8 @@
   "submitted": "2026-08-24",
   "title": "Photorealistic Novel View Synthesis of Human Faces using Next-Scale Transformers",
   "affiliation": "Meta (Reality Labs) — Fei Jiang, Zhongshi Jiang, Zohar Barzelay, Emanuel Garbin, Amin Jourabloo, Liuhao Ge (Federico Stella, EPFL, as a Meta Reality Labs intern)",
-  "url": "https://arxiv.org/abs/2608.23410"
+  "url": "https://arxiv.org/abs/2608.23410",
+  "summary": "Adapts next-scale autoregressive transformers to synthesise multi-view-consistent novel views of human faces at 512x512 from synthetic training data, coupled with a pixel-aligned 3D Gaussian lifting model for face reconstruction."
  },
  "2608.22757": {
   "status": "qualified",
@@ -2637,7 +2684,8 @@
   "submitted": "2026-08-24",
   "title": "Object-Uni: A Unified Model for Object-Centric Spatial Understanding and Controllable Generation",
   "affiliation": "Ant Group — Weiming Dong (corresponding author); FLAG: borderline",
-  "url": "https://arxiv.org/abs/2608.22757"
+  "url": "https://arxiv.org/abs/2608.22757",
+  "summary": "Object-Uni unifies object pose perception, spatial reasoning, pose-conditioned generation and object-centric novel-view synthesis by treating object pose as an explicit geometric variable, with a viewpoint-based orientation abstraction so multimodal LLMs can reason about 3D orientation in natural la"
  },
  "2608.22054": {
   "status": "screened-out",
@@ -2669,7 +2717,8 @@
   "submitted": "2026-08-18",
   "title": "GenRec: Knowing Where to Reconstruct and Where to Generate",
   "affiliation": "Google — Federico Tombari, Daniel Barath; Microsoft — Marc Pollefeys",
-  "url": "https://arxiv.org/abs/2608.17832"
+  "url": "https://arxiv.org/abs/2608.17832",
+  "summary": "GenRec is a multi-view flow-matching model for generative novel view synthesis that separates \"reconstruction\" of pixels visible in source views from \"generation\" of disoccluded pixels, using an observation mask and a monocular depth estimator to guide a backbone that jointly denoises RGB and scene-"
  },
  "2608.17314": {
   "status": "screened-out",
@@ -2683,7 +2732,8 @@
   "submitted": "2026-08-17",
   "title": "SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis",
   "affiliation": "Nokia Technologies — Hamed Rezazadegan Tavakoli; FLAG: borderline",
-  "url": "https://arxiv.org/abs/2608.16863"
+  "url": "https://arxiv.org/abs/2608.16863",
+  "summary": "SplatGuide reuses one feed-forward 3DGS reconstruction for three roles in pose-free novel view synthesis: pixel-aligned geometric conditioning, occlusion-aware reference-view selection, and feature-level diffusion guidance."
  },
  "2608.12442": {
   "status": "near-miss",
@@ -2733,7 +2783,8 @@
   "submitted": "2026-09-04",
   "title": "RenderFormer-V2: Neural Rendering with Heterogeneous Scene Primitives",
   "affiliation": "Microsoft Research — Yue Dong",
-  "url": "https://arxiv.org/abs/2609.05738"
+  "url": "https://arxiv.org/abs/2609.05738",
+  "summary": "RenderFormer-V2 is a transformer that renders images from heterogeneous scene primitives (triangles with textures or displacement, voxels, triangular lights, environment maps), handling caustics, volumetric scattering, environment lighting and out-of-distribution materials \"without per-scene trainin"
  },
  "2609.03349": {
   "status": "screened-out",
@@ -2825,7 +2876,8 @@
   "submitted": "2026-09-08",
   "title": "OmniPoint: Universal Monocular Metric Pointcloud from Any Camera",
   "affiliation": "Google DeepMind — Botao Ye (intern), Ming-Hsuan Yang, Abhijit Kundu",
-  "url": "https://arxiv.org/abs/2609.09394"
+  "url": "https://arxiv.org/abs/2609.09394",
+  "summary": "OmniPoint predicts metric 3D point clouds from a single image for pinhole, fisheye or panoramic cameras, using a representation that decouples projection geometry from scene structure."
  },
  "2609.08493": {
   "status": "screened-out",
@@ -2863,7 +2915,8 @@
   "submitted": "2026-09-03",
   "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
   "affiliation": "NVIDIA — Cheng Sun, Fu-En Yang, Min-Hung Chen (Chin-Yang Lin dual-affiliated NVIDIA / NYCU)",
-  "url": "https://arxiv.org/abs/2609.04201"
+  "url": "https://arxiv.org/abs/2609.04201",
+  "summary": "Scal3R reformulates online 3D reconstruction as multi-reference relative pose querying: lightweight learnable tokens (about 1% of parameters) are injected into a frozen CUT3R or STream3R backbone via asymmetric attention to query poses relative to several past keyframes, with an online pose-graph op"
  },
  "2609.04174": {
   "status": "screened-out",
@@ -2919,7 +2972,8 @@
   "submitted": "2026-08-28",
   "title": "NBS: No Bias Stereo",
   "affiliation": "Intrinsic (Google) — Vage Taamazyan, Zhuowen Shen, Stefan Hinterstoisser, Alberto Dall'Olio, Agastya Kalra, Aarrushi Shandilya, Kartik Venkataraman (affiliation printed as \"Intrinsic (Google)\")",
-  "url": "https://arxiv.org/abs/2608.28933"
+  "url": "https://arxiv.org/abs/2608.28933",
+  "summary": "NBS is a stereo-matching model built as a plain Vision Transformer with no stereo-specific architectural bias (no cost volumes or geometry modules), trained on large-scale synthetic data, framed by the authors as a 3D reconstruction task."
  },
  "2608.28891": {
   "status": "screened-out",
@@ -2969,7 +3023,8 @@
   "submitted": "2026-08-27",
   "title": "Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction",
   "affiliation": "Alibaba Group (AMAP CV Lab) — all authors",
-  "url": "https://arxiv.org/abs/2608.27529"
+  "url": "https://arxiv.org/abs/2608.27529",
+  "summary": "ABot-Recon is a streaming 3D reconstruction method that keeps only a 12-frame local temporal window, predicts point maps in the current camera frame plus adjacent-frame relative poses, and recovers global geometry and trajectory by sequential composition."
  },
  "2608.25632": {
   "status": "screened-out",
@@ -3145,7 +3200,8 @@
   "submitted": "2026-08-27",
   "title": "4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation",
   "affiliation": "Google DeepMind — Shuyang Sun (co-authors at NTU, Oxford, Princeton)",
-  "url": "https://arxiv.org/abs/2608.26947"
+  "url": "https://arxiv.org/abs/2608.26947",
+  "summary": "4DSynth converts a text description, a blueprint mask or a single photograph into an editable 4D environment with explicit geometry, animated actors, collision-free trajectories and physics-ready state for embodied agents."
  },
  "2608.20775": {
   "status": "screened-out",
@@ -3171,7 +3227,8 @@
   "submitted": "2026-08-26",
   "title": "GLOSS: Geometric Local Self-Similarity Learning for Faithful Reference-Guided Texture Fill",
   "affiliation": "NVIDIA — Anita Hu, James Lucas, Masha Shugrina",
-  "url": "https://arxiv.org/abs/2608.25461"
+  "url": "https://arxiv.org/abs/2608.25461",
+  "summary": "A shape-specific local texture generation model trained on single-view renderings of one object that exploits geometry-texture self-similarity to perform reference-guided texture inpainting on a mesh without large 3D texture datasets."
  },
  "2608.19900": {
   "status": "screened-out",
@@ -3191,7 +3248,8 @@
   "submitted": "2026-08-25",
   "title": "ExMesh++: From Multi-View Images to Relightable UV-PBR Mesh Assets via Topology-Adaptive Reconstruction and Decomposition",
   "affiliation": "Alibaba Group (Amap) — Wenjie Chang",
-  "url": "https://arxiv.org/abs/2608.24109"
+  "url": "https://arxiv.org/abs/2608.24109",
+  "summary": "A staged multi-view reconstruction pipeline that yields editable, relightable UV-PBR mesh assets: geometry and topology are refined with consistent UV updates, then PBR maps and environment lighting are optimised on the fixed mesh with one-bounce indirect illumination."
  },
  "2609.05415": {
   "status": "screened-out",
@@ -3217,7 +3275,8 @@
   "submitted": "2026-08-15",
   "title": "VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?",
   "affiliation": "Tencent (TEG AIPD) — Jingwen Ye, Zhongkai Wu, Yang Sun, Yiqin Zhu, Xingyi Li, Weidong Zhang",
-  "url": "https://arxiv.org/abs/2608.15265"
+  "url": "https://arxiv.org/abs/2608.15265",
+  "summary": "A framework and benchmark testing whether multimodal agents can infer user intent, plan scene layout, invoke 3D tools and reflect on feedback to build 3D open worlds end to end, with VWE-BENCH covering 2,616 3D assets, 323 annotated worlds and 6,828 queries."
  },
  "2607.07459": {
   "status": "screened-out",
@@ -3279,7 +3338,8 @@
   "submitted": "2026-08-18",
   "title": "LumiTokens: 3D Relighting via Token-Space Lighting Transformation",
   "affiliation": "Adobe Research — Matheus Gadelha",
-  "url": "https://arxiv.org/abs/2608.18215"
+  "url": "https://arxiv.org/abs/2608.18215",
+  "summary": "Performs 3D relighting as a direct transformation in a learned token space, without explicit material decomposition or physically based re-rendering."
  },
  "2607.22830": {
   "status": "screened-out",
@@ -3383,7 +3443,8 @@
   "submitted": "2026-08-19",
   "title": "Generalized Audio-Driven Synthesis of Precise Drummer Motion",
   "affiliation": "Disney Research|Studios — Álvaro G. Iñesta, Mattia Ryffel, Robert W. Sumner, Martin Guay; FLAG: borderline (not on the tracked list)",
-  "url": "https://arxiv.org/abs/2608.19055"
+  "url": "https://arxiv.org/abs/2608.19055",
+  "summary": "A diffusion framework that synthesises drumming motion from audio with a dual-objective loss separating body-movement accuracy from stick-tip precision, plus two new metrics, Impact Point Deviation and Percussive Alignment Score; the paper won the Best Paper Award at SCA 2026."
  },
  "2512.12703": {
   "status": "screened-out",
@@ -3415,7 +3476,8 @@
   "submitted": "2026-09-09",
   "title": "Decoupled Self-Forcing Distillation for Streaming Talking Head Generation",
   "affiliation": "Ant Group — Rui Bu (others: Shanghai Jiao Tong University); FLAG: borderline",
-  "url": "https://arxiv.org/abs/2609.10317"
+  "url": "https://arxiv.org/abs/2609.10317",
+  "summary": "A streaming talking-head generator that fuses audio in a low-dimensional, identity-disentangled motion space rather than at the pixel level; a small causal autoregressive transformer produces motion latents that a pretrained diffusion renderer turns into video."
  },
  "2609.09158": {
   "status": "screened-out",
@@ -3435,7 +3497,8 @@
   "submitted": "2026-09-07",
   "title": "Flexible Motion Generation from Language and Style References",
   "affiliation": "Epic Games — Zhan Zhang, Joseph Teran, Daniel Holden (the first three authors' contributions were made during Epic Games internships)",
-  "url": "https://arxiv.org/abs/2609.08032"
+  "url": "https://arxiv.org/abs/2609.08032",
+  "summary": "FlexMoGen generates human motion conditioned jointly on a text prompt (content) and a style-reference motion clip (timing, limb articulation, dynamics), learning a variational style encoder without style labels."
  },
  "2609.05742": {
   "status": "screened-out",
@@ -3449,7 +3512,8 @@
   "submitted": "2026-08-29",
   "title": "ECHO: Dyadic 3D Facial Motion Generation with Asymmetric Deterministic Articulation and Stochastic Reaction",
   "affiliation": "Alibaba Group — Hongyun Yu, Zhiwen Chen, Chengfei Lv",
-  "url": "https://arxiv.org/abs/2609.05506"
+  "url": "https://arxiv.org/abs/2609.05506",
+  "summary": "ECHO generates 3D facial motion for both roles in a two-person conversation from audio alone, treating the speaker's mouth motion as deterministic and the listener's reaction as stochastic, decomposing motion into a stable anchor trajectory plus a stochastic residual with \"Motion Memory\" regularisat"
  },
  "2609.04250": {
   "status": "near-miss",
@@ -3544,7 +3608,7 @@
  "2604.13427": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-10",
+  "submitted": "2026-08-26",
   "title": "A Unified Conditional Flow for Motion Generation, Editing, and Intra-Structural Retargeting"
  },
  "2603.26747": {
@@ -4063,7 +4127,8 @@
   "submitted": "2026-08-31",
   "title": "FaceSnap: Real-Time Personalized Lightstage Facial Performance Capture",
   "affiliation": "Ubisoft (La Forge) — Emeline Got, Luiz Gustavo Hafemann, Alexandre Messier, Brandon Dearlove, Abdallah Dib",
-  "url": "https://arxiv.org/abs/2608.31033"
+  "url": "https://arxiv.org/abs/2608.31033",
+  "summary": "A two-stage framework that amortises expensive lightstage multi-camera sessions into a reusable personalised model, then tracks facial performance in real time from a single camera at 83 fps, with a personalised residual upscaler recovering subject-specific detail."
  },
  "2608.20038": {
   "status": "screened-out",
@@ -4107,7 +4172,8 @@
   "submitted": "2026-08-26",
   "title": "InteractGesture: Progressive Chunk Guidance for Continuous Streaming Co-Speech Gesture Control",
   "affiliation": "Meta — Ajinkya Deogade, Paul Streli, Wenjing Zhang, Joanna Materzynska, Vittorio Ferrari, Jie Shen",
-  "url": "https://arxiv.org/abs/2608.25734"
+  "url": "https://arxiv.org/abs/2608.25734",
+  "summary": "Adds inference-time per-joint spatial control to pretrained co-speech gesture generators through a diffusion sampler and differentiable decoder, with \"Progressive Chunk Guidance\" that keeps editable staggered chunk latents so constraints propagate across streaming chunk boundaries."
  },
  "2605.26236": {
   "status": "screened-out",
@@ -4178,7 +4244,7 @@
  "2609.08981": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-10",
+  "submitted": "2026-09-08",
   "title": "Transformers as In-Context Samplers: From Closed-Form Diffusion to Estimation-Free Sampling"
  },
  "2609.08926": {
@@ -4367,7 +4433,8 @@
   "submitted": "2026-08-31",
   "title": "BLARM: Animating 3D Objects from Video via Blending Latent Rigid Motion Primitives",
   "affiliation": "Roblox — Yizhak Ben-Shabat, Hsueh-Ti Derek Liu, Haomiao Jiang, Snehasish Mukherjee, Kyle Spence, Mark Stauber, Yunze Zeng (Pradyumn Goyal as a Roblox intern)",
-  "url": "https://arxiv.org/abs/2608.31113"
+  "url": "https://arxiv.org/abs/2608.31113",
+  "summary": "A feed-forward method that animates a static 3D mesh from monocular video, predicting a temporally coherent animated mesh without skeletons, cages or manual rigs, by representing motion as a compact set of learned time-varying rigid primitives blended with time-invariant per-vertex skinning weights."
  },
  "2608.31035": {
   "status": "screened-out",
@@ -4543,7 +4610,8 @@
   "submitted": "2026-08-18",
   "title": "Love Handles: Decimation for Deformation Handles with Compact Support and Low Memory Footprints",
   "affiliation": "NVIDIA — David IW Levin (also University of Toronto)",
-  "url": "https://arxiv.org/abs/2608.17930"
+  "url": "https://arxiv.org/abs/2608.17930",
+  "summary": "A decimation-based algorithm that computes sparse, compactly supported deformation handles for reduced-order elastodynamic simulation on arbitrary volumetric meshes."
  },
  "2608.17046": {
   "status": "screened-out",
@@ -4572,7 +4640,7 @@
  "2607.23687": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-11",
+  "submitted": "2026-08-18",
   "title": "GNM Head: A Generative aNthropometric Model of the human head"
  },
  "2607.18116": {
@@ -4788,7 +4856,7 @@
  "2609.05853": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-11",
+  "submitted": "2026-09-04",
   "title": "On the classification of small cyclotomic integers"
  },
  "2609.05170": {
@@ -5547,7 +5615,8 @@
   "submitted": "2026-09-10",
   "title": "Does Video Memory Use What It Retrieves? A Causal Audit of Memory Specificity",
   "affiliation": "Adobe Research — Akshit Bhalla, Darshan Prasad (Aditi Tiwari: work done during an internship at Adobe Research; primary university affiliation University of Illinois Urbana-Champaign)",
-  "url": "https://arxiv.org/abs/2609.12090"
+  "url": "https://arxiv.org/abs/2609.12090",
+  "summary": "The paper introduces \"read-time memory substitution,\" a causal-audit method that swaps out the memory content a video model retrieves at inference time while leaving the rest of its computation unchanged, in order to separate whether a model's memory helps at all from whether the specific retrieved "
  },
  "2609.12036": {
   "status": "screened-out",

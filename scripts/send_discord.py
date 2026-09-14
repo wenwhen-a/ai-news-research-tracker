@@ -42,7 +42,8 @@ USER_AGENT = "research-tracker-discord/1.0 (+stdlib urllib)"
 
 
 def load_messages(path_dir: str | None, path_file: str | None) -> list[tuple[str, str]]:
-    """Return [(label, content), ...] in posting order."""
+    """Return [(label, content), ...] in posting order. *.md = plain text message; *.json = raw webhook
+    payload (used for embeds)."""
     items: list[tuple[str, str]] = []
     if path_file:
         with open(path_file, "r", encoding="utf-8") as fh:
@@ -50,28 +51,83 @@ def load_messages(path_dir: str | None, path_file: str | None) -> list[tuple[str
         return items
     if not path_dir or not os.path.isdir(path_dir):
         raise SystemExit(f"[config] messages directory not found: {path_dir!r} (exit 3)")
-    names = sorted(n for n in os.listdir(path_dir) if n.lower().endswith(".md"))
+    names = sorted(n for n in os.listdir(path_dir) if n.lower().endswith((".md", ".json")))
     for name in names:
         with open(os.path.join(path_dir, name), "r", encoding="utf-8") as fh:
             items.append((name, fh.read()))
     return items
 
 
-def preflight(items: list[tuple[str, str]]) -> list[tuple[str, int]]:
-    """Return list of (label, length) for messages that are empty or too long."""
-    bad: list[tuple[str, int]] = []
+def embed_problem(content: str) -> str | None:
+    """Validate a raw webhook JSON payload against Discord embed limits. Returns a reason or None."""
+    try:
+        payload = json.loads(content)
+    except json.JSONDecodeError as e:
+        return f"invalid JSON ({e})"
+    embeds = payload.get("embeds") or []
+    if not isinstance(payload, dict) or (not embeds and not payload.get("content")):
+        return "no embeds and no content"
+    if len(embeds) > 10:
+        return f"{len(embeds)} embeds (max 10)"
+    total = len(payload.get("content") or "")
+    if total > DISCORD_LIMIT:
+        return f"content {total} chars (max {DISCORD_LIMIT})"
+    total = 0
+    for i, e in enumerate(embeds):
+        fields = e.get("fields") or []
+        if len(fields) > 25:
+            return f"embed {i}: {len(fields)} fields (max 25)"
+        for k, lim in (("title", 256), ("description", 4096)):
+            v = e.get(k) or ""
+            if len(v) > lim:
+                return f"embed {i}: {k} {len(v)} chars (max {lim})"
+            total += len(v)
+        for j, f in enumerate(fields):
+            name, value = f.get("name") or "", f.get("value") or ""
+            if not name or not value:
+                return f"embed {i} field {j}: empty name or value"
+            if len(name) > 256 or len(value) > 1024:
+                return f"embed {i} field {j}: name {len(name)}/256, value {len(value)}/1024"
+            total += len(name) + len(value)
+        total += len((e.get("footer") or {}).get("text") or "")
+    if total > 6000:
+        return f"embeds total {total} chars (max 6000)"
+    return None
+
+
+def preflight(items: list[tuple[str, str]]) -> list[tuple[str, str]]:
+    """Return list of (label, reason) for messages that violate Discord limits."""
+    bad: list[tuple[str, str]] = []
     for label, content in items:
+        if label.lower().endswith(".json"):
+            reason = embed_problem(content)
+            if reason:
+                bad.append((label, reason))
+            continue
         n = len(content.rstrip("\n"))
         if n == 0 or n > DISCORD_LIMIT:
-            bad.append((label, n))
+            bad.append((label, f"{n} chars"))
     return bad
 
 
-def post_one(webhook: str, content: str, max_tries: int = 5) -> None:
+def describe(label: str, content: str) -> str:
+    if label.lower().endswith(".json"):
+        try:
+            embeds = json.loads(content).get("embeds") or []
+            return f"embed, {sum(len(e.get('fields') or []) for e in embeds)} rows"
+        except Exception:
+            return "embed (invalid)"
+    return f"{len(content.rstrip(chr(10)))} chars"
+
+
+def post_one(webhook: str, content: str, max_tries: int = 5, raw_json: bool = False) -> None:
     url = webhook + ("&" if "?" in webhook else "?") + "wait=true"
-    body = json.dumps(
-        {"content": content.rstrip("\n"), "allowed_mentions": {"parse": []}}
-    ).encode("utf-8")
+    if raw_json:
+        payload = json.loads(content)
+        payload.setdefault("allowed_mentions", {"parse": []})
+    else:
+        payload = {"content": content.rstrip("\n"), "allowed_mentions": {"parse": []}}
+    body = json.dumps(payload).encode("utf-8")
     for attempt in range(1, max_tries + 1):
         req = urllib.request.Request(
             url,
@@ -130,11 +186,11 @@ def main() -> int:
 
     bad = preflight(items)
     for label, content in items:
-        print(f"  {label}: {len(content.rstrip(chr(10)))} chars")
+        print(f"  {label}: {describe(label, content)}")
     if bad:
-        print(f"\n[preflight] {len(bad)} message(s) empty or over {DISCORD_LIMIT} chars; NOTHING SENT:", file=sys.stderr)
-        for label, n in bad:
-            print(f"  - {label}: {n} chars", file=sys.stderr)
+        print(f"\n[preflight] {len(bad)} message(s) violate Discord limits (text over {DISCORD_LIMIT} chars, or embed limits); NOTHING SENT:", file=sys.stderr)
+        for label, reason in bad:
+            print(f"  - {label}: {reason}", file=sys.stderr)
         return 2
 
     if args.dry_run:
@@ -155,7 +211,7 @@ def main() -> int:
     sent = 0
     for i, (label, content) in enumerate(items, 1):
         try:
-            post_one(webhook, content)
+            post_one(webhook, content, raw_json=label.lower().endswith(".json"))
         except RuntimeError as e:
             print(f"\n[send] failed on message {i}/{len(items)} ({label}): {e}", file=sys.stderr)
             print(f"[send] sent {sent}/{len(items)} before the failure (exit 1)", file=sys.stderr)

@@ -47,7 +47,7 @@ if os.path.exists(seen_path):
     for aid, e in seen.items():
         if e.get("status") == "qualified" and aid not in papers and e.get("submitted", "") >= cutoff \
                 and e.get("first_seen", "") < today:
-            prev.append((e.get("submitted", ""), f"- {e.get('title', aid)} · {e.get('affiliation', '')} · {e.get('submitted', '')} · {e.get('url', 'https://arxiv.org/abs/' + aid)}"))
+            prev.append((e.get("submitted", ""), f"- {e.get('title', aid)} · {e.get('affiliation', '')} · {e.get('submitted', '')} · {e.get('summary', '')} · {e.get('url', 'https://arxiv.org/abs/' + aid)}"))
 prev = [l for _, l in sorted(prev, reverse=True)]
 
 out = [f"# Part A — Papers",

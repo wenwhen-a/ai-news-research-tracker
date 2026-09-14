@@ -4,84 +4,96 @@
   "company": "NVIDIA",
   "tier": "GA",
   "first_seen": "2026-09-13",
-  "release_date": "2026-09-03"
+  "release_date": "2026-09-03",
+  "summary": "NVIDIA states \"DLSS 5 is available now in the newly-released NBA 2K27\" and that DLSS 5 introduces \"3D-Guided Neural Rendering, infusing games with lifelike lighting and materials using advanced artist-guided AI models.\" It ships alongside Game Ready Driver 616.64."
  },
  "https://www.nvidia.com/en-us/geforce/news/gamescom-2026-dlss-4-5-ray-reconstruction-release-announcements-trailers/": {
   "name": "NVIDIA DLSS 4.5 Ray Reconstruction, 2nd-generation transformer model (early access)",
   "company": "NVIDIA",
   "tier": "Public beta/preview (NVIDIA App early access)",
   "first_seen": "2026-09-13",
-  "release_date": "2026-08-25"
+  "release_date": "2026-08-25",
+  "summary": "NVIDIA states a \"new 2nd generation transformer model\" for DLSS Ray Reconstruction with \"35% more compute capability\" that \"processes 20% more parameters, while maintaining similar performance to the previous model.\" It is available now as an early-access download."
  },
  "https://help.autodesk.com/cloudhelp/2027/ENU/3dsMax-WhatsNew/files/GUID-D11D1F34-C9FF-4981-AAE3-5A969986FCF4.html": {
   "name": "Autodesk 3ds Max 2027.2 — native 3D Gaussian Splat support",
   "company": "Autodesk",
   "tier": "GA",
   "first_seen": "2026-09-13",
-  "release_date": "2026-07-22"
+  "release_date": "2026-07-22",
+  "summary": "Autodesk states \"New 3D Gaussian Splat (3DGS) support in 3ds Max 2027.2 provides fast rendering, simple editing, and hyper-accurate output,\" with a new point object type and point-data modifiers to \"edit 3DGS data or create point data from scratch.\" Arnold \"now works with native 3ds Max 3DGS data.\""
  },
  "https://blog.adobe.com/en/publish/2026/07/21/adobe-substance-3d-unveils-new-innovations-deliver-faster-workflows-openpbr-everywhere-digital-twins-scale": {
   "name": "Adobe Substance 3D Painter 12.1, Designer 16 and Sampler update (OpenPBR)",
   "company": "Adobe",
   "tier": "GA",
   "first_seen": "2026-09-13",
-  "release_date": "2026-07-21"
+  "release_date": "2026-07-21",
+  "summary": "Adobe states Painter 12.1 adds Skew Map Painting, Auto Rebake (rebakes only affected mesh portions), a Hard Surface Auto UV mode and OpenPBR support; Designer 16 adds a Shape Splatter v2 node, Signed Distance Field nodes, a 3D Viewer node and new displacement controls; Sampler adds Material Creation"
  },
  "https://dev.epicgames.com/documentation/fortnite/41-20-fortnite-ecosystem-updates-and-release-notes-in-fortnite": {
   "name": "Fortnite / UEFN v41.20 — Control Rig for Sidekicks, in-world UMG widgets, LLM-powered NPCs",
   "company": "Epic Games",
   "tier": "GA",
   "first_seen": "2026-09-13",
-  "release_date": "2026-07-16"
+  "release_date": "2026-07-16",
+  "summary": "Epic's release notes state Control Rig support for Sidekicks arrives with \"three archetypes — Dog Large, Dog Small, and Cat Small\" built on Epic's internal rig structures; creators can \"drag your UMG User Widget from the content browser into the viewport to display your UI in the level\"; and on July"
  },
  "https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox": {
   "name": "Roblox Build — mobile AI creation tab (public alpha, New Zealand)",
   "company": "Roblox",
   "tier": "Public beta/preview (public alpha)",
   "first_seen": "2026-09-13",
-  "release_date": "2026-07-28"
+  "release_date": "2026-07-28",
+  "summary": "Roblox states a mobile-first creation tab inside the Roblox app that uses its AI tools, including Cube, which \"turns a prompt into game-ready objects, from simple props to vehicles that drive and weapons that shoot,\" and already-launched Procedural Models."
  },
  "https://blog.playstation.com/2026/06/24/upgraded-pssr-comes-to-doom-the-dark-ages-on-ps5-pro/": {
   "name": "Upgraded PSSR in Doom: The Dark Ages on PS5 Pro (Free Update 4)",
   "company": "Sony Interactive Entertainment (platform feature; post authored by id Software's Billy Khan on the PlayStation Blog)",
   "tier": "GA",
   "first_seen": "2026-09-13",
-  "release_date": "2026-07-07"
+  "release_date": "2026-07-07",
+  "summary": "The PlayStation Blog states the upgraded PlayStation Spectral Super Resolution (PSSR) ML upscaler is applied to Doom: The Dark Ages on PS5 Pro from the July 7 update."
  },
  "https://h.163.com/news/official/20260612/37231_1304115.html": {
   "name": "《逆水寒：新世界》 (Justice Online: New World) character rendering upgrade",
   "company": "NetEase",
   "tier": "GA",
   "first_seen": "2026-09-13",
-  "release_date": "2026-06-26"
+  "release_date": "2026-06-26",
+  "summary": "NetEase's official channel states the New World version brings \"全新超精度面部模型\" (a new ultra-high-precision facial model) with improved contours, texture and lighting, a lighting system where hair stays clear when backlit (\"逆光也清晰、发丝会呼吸\"), and a \"立体进化\" (3D evolution) of hair-strand and cloth dynamics."
  },
  "https://gpuopen.com/learn/amd-fsr-sdk-2-3-blog/": {
   "name": "AMD FSR SDK 2.3 — FSR Upscaling 4.1.1 on RDNA 3",
   "company": "AMD",
   "tier": "GA",
   "first_seen": "2026-09-13",
-  "release_date": "2026-06-24"
+  "release_date": "2026-06-24",
+  "summary": "SDK bundling FSR Upscaling 4.1.1, FSR Frame Generation 4.0.1 and FSR Ray Regeneration 1.2.0, extending the ML upscaler from RDNA 4 to RDNA 3 cards."
  },
  "https://forums.unrealengine.com/t/unreal-engine-5-8-released/2729274": {
   "name": "Unreal Engine 5.8 (MetaHuman Animator markerless capture, MetaHuman Collections, Mesh Terrain, MegaLights, MCP plugin)",
   "company": "Epic Games",
   "tier": "GA",
   "first_seen": "2026-09-13",
-  "release_date": "2026-06-17"
+  "release_date": "2026-06-17",
+  "summary": "Epic states \"MetaHuman Animator now supports markerless motion capture, enabling full-body and facial performance capture using something as simple as a single webcam\"; MetaHuman Collections for scalable crowds; Mesh Terrain, \"a new 3D mesh-based landscape system\"; MegaLights \"now Production-Ready\";"
  },
  "https://www.happyoyster.cn": {
   "name": "HappyOyster 1.0 (快乐生蚝 1.0) — real-time interactive world model",
   "company": "Alibaba (ATH Innovation Business Group)",
   "tier": "Public beta/preview",
   "first_seen": "2026-09-13",
-  "release_date": "2026-06-17"
+  "release_date": "2026-06-17",
+  "summary": "The product site describes \"一款实时可交互的开放世界模型产品\" (a real-time interactive open-world model product) with a 执导 (Directing) mode to steer a continuously evolving world by text, voice or image, and a 漫游 (Wandering) mode for first-person exploration."
  },
  "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins/": {
   "name": "NVIDIA ACE Game Agent SDK (beta) and ACE plugins for Unreal Engine 5",
   "company": "NVIDIA",
   "tier": "GA (UE5 plugins) / Public beta (Game Agent SDK)",
   "first_seen": "2026-09-13",
-  "release_date": "2026-06-16"
+  "release_date": "2026-06-16",
+  "summary": "An on-device conversational-companion pipeline for games: ASR (\"nemo-conformer-ctc-120m\"), a \"Qwen 3.5 4B model\" for function calling, and the \"Chatterbox Turbo 350M TTS model,\" packaged as UE5 plugins and an SDK."
  },
  "https://help.aliyun.com/zh/model-studio/newly-released-models": {
   "name": "Wan3.0-Video / Wan3.0-Video-Prime (万相3.0)",
