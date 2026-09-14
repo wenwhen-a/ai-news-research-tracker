@@ -102,7 +102,7 @@ if "第一部分" in sections:
     items, notes = parse_items(body)
     counts["S1"] = len(items)
     for n, (t, ls) in enumerate(items, 1):
-        head = f"**[新闻 {n}] {t}**"
+        head = f"**[新闻 {n}] {t.replace('**', '').strip()}**"
         files[f"10-news-S1-{n:02d}-{slug(t)}.md"] = trim_to_limit(head, list(ls))
     if not items and body.strip():
         for j, ch in enumerate(chunk([l for l in body.split("\n") if l.strip()], f"**{title}**")):
@@ -117,10 +117,16 @@ if "第二部分" in sections:
     items, notes = parse_items(body)
     counts["S2"] = len(items)
     blocks = []
+    def field(ls, label):
+        for l in ls:
+            clean = re.sub(r"^\s*[-*•]\s*", "", l).replace("**", "").strip()
+            m = re.match(rf"{label}[^：:]*[：:]\s*(.*)$", clean)
+            if m:
+                return m.group(1).strip()
+        return ""
     for n, (t, ls) in enumerate(items, 1):
-        date = next((re.sub(r"^\S+\s*日期[：:]\s*", "", l) for l in ls if "日期" in l), "")
-        link = next((re.sub(r"^\S+\s*来源链接[：:]\s*", "", l) for l in ls if "来源链接" in l), "")
-        summ = next((re.sub(r"^\S+\s*概要[^：:]*[：:]\s*", "", l) for l in ls if "概要" in l), "")
+        date, link, summ = field(ls, "日期"), field(ls, "来源链接"), field(ls, "概要")
+        t = t.replace("**", "").strip()
         blocks.append(f"**{n}. {t}**（{date}）\n{summ}\n{link}".strip())
     if blocks:
         for j, ch in enumerate(chunk(blocks, f"**{title}**")):
