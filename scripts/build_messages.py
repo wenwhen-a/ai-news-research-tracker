@@ -68,8 +68,28 @@ def embed_files(prefix, title, rows):
     return out
 SRC = sys.argv[1]
 OUT = sys.argv[2]
+WEEKDAY = sys.argv[3] if len(sys.argv) > 3 else None  # ISO weekday string, "5" = Friday
+SHOW_PREV_PAPERS_LIST = WEEKDAY is None or WEEKDAY == "5"
 
 text = open(SRC, encoding="utf-8").read().replace("\r\n", "\n")
+
+# Rough topic buckets (SKILL.md's four tracked areas) for the previously-reported paper count on
+# non-Friday days. Keyword match against the title only — good enough for a one-line breakdown,
+# not a rigorous classification.
+TOPICS = [
+    ("World Models", re.compile(r"\bworld[- ]?(model|action|control|sculpt|reward|mind|synth)|\bWAM\b", re.I)),
+    ("Character Animation & Motion", re.compile(
+        r"motion|animat|facial|gesture|avatar|mocap|motion capture|skeleton|\brig\b|talking head|drummer|\bNPC\b", re.I)),
+    ("Game Engines & Rendering", re.compile(r"\bengine\b|render|rasteriz|game (develop|agent|generation)", re.I)),
+    ("3D Generation & Reconstruction", re.compile(
+        r"\b3DGS\b|\b3D|\b4D|gaussian|splat|\bmesh\b|reconstruct|texture|relight|view synthesis|"
+        r"point ?cloud|geometry|stereo|editing|deformation", re.I)),
+]
+def classify_topic(title):
+    for name, pat in TOPICS:
+        if pat.search(title or ""):
+            return name
+    return "Other"
 
 def slug(s, n=40):
     s = re.sub(r"[^A-Za-z0-9]+", "-", s).strip("-").lower()
@@ -207,9 +227,11 @@ else:
     header += ["**Part A — Papers.** No Part A in this digest.", ""]
 if winB:
     header += ["**Part B — Research → Product.** " + short_window(winB), ""]
+prev_papers_note = ("compact cards (title · companies · one line) follow" if SHOW_PREV_PAPERS_LIST
+                     else "a one-line count by topic follows; the full list posts on Fridays")
 header += [f"One message per new item: {len(itemsA)} new papers (A01–A{len(itemsA):02d}), "
-           f"{len(newB)} new products (B01–B{len(newB):02d}). Previously reported items follow as compact cards "
-           "(title · companies · one line); near-miss details are kept in the repository digest."]
+           f"{len(newB)} new products (B01–B{len(newB):02d}). Previously reported products follow as compact cards; "
+           f"for previously reported papers, {prev_papers_note}. Near-miss details are kept in the repository digest."]
 files["50-research-header.md"] = "\n".join(header)
 
 for i, (t, b) in enumerate(itemsA, 1):
@@ -248,10 +270,12 @@ if mprevB:
     files.update(embed_files("75", "Previously reported products (still in the 90-day window)", rows))
     trailB = trailB[:mprevB.start()] + trailB[mprevB.end():]
 
-# Part A previously reported papers → compact embed cards (title · companies · one line), no links
+# Part A previously reported papers: full compact embed cards on Fridays only (title · companies ·
+# one line, no links); on other days, a single bold count message broken down by topic instead —
+# the full list still lives in the repository digest every day.
 mprev = re.search(r"^### Previously reported papers[^\n]*\n((?:- .*\n?)+)", trailA, flags=re.M)
 if mprev:
-    rows = []
+    rows, titles = [], []
     for l in mprev.group(1).split("\n"):
         if not l.strip():
             continue
@@ -264,7 +288,18 @@ if mprev:
         else:
             title, affil, summary = parts[0], "", ""
         rows.append((title, f"{companies_of(affil)} — {summary}".strip(" —")))
-    files.update(embed_files("65", "Previously reported papers (still in the 30-day window)", rows))
+        titles.append(title)
+    if SHOW_PREV_PAPERS_LIST:
+        files.update(embed_files("65", "Previously reported papers (still in the 30-day window)", rows))
+    else:
+        counts = {}
+        for t in titles:
+            cat = classify_topic(t)
+            counts[cat] = counts.get(cat, 0) + 1
+        lines = [f"**Papers currently tracked (previously reported, still in the 30-day window): {len(rows)}**"]
+        lines += [f"- {cat}: {n}" for cat, n in sorted(counts.items(), key=lambda kv: -kv[1])]
+        lines.append("_Full list of previously reported papers posts on Fridays._")
+        files["65-previously-reported-summary.md"] = "\n".join(lines)
     trailA = trailA[:mprev.start()] + trailA[mprev.end():]
 
 # Footer: announced-only items only, plus a one-line count of near-misses (details stay in the repo digest)

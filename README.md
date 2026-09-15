@@ -19,7 +19,7 @@ digest and dedup state back here.
 | `scripts/arxiv_site_scan.py` | Website fallback for Part A discovery when the arXiv API is rate-limited (exact-phrase searches on arxiv.org) |
 | `scripts/arxiv_affil_screen.py` | Fetches each candidate's arxiv.org/html page and flags tracked company names near the author block (leads only) |
 | `scripts/assemble_digest.py` | Sorts verified paper blocks newest first and writes `digest.md` with Part B appended |
-| `scripts/build_messages.py` | Splits `digest.md` into per-item Discord messages (≤2000 chars); previously reported papers/products become embed cards (`*.json`, ≤25 rows each: title, companies, one line, no links); near-miss details stay in `digest.md` |
+| `scripts/build_messages.py` | Splits `digest.md` into per-item Discord messages (≤2000 chars); takes an optional WEEKDAY arg. Previously reported products always become embed cards (`*.json`, ≤25 rows each: title, companies, one line, no links). Previously reported papers get the same embed cards only on Friday (WEEKDAY=5); other days collapse into one bold count message broken down by topic instead. Near-miss details stay in `digest.md` |
 | `scripts/send_local.ps1` / `scripts/test_discord.ps1` | Send a messages folder / a test message from this PC (asks for the webhook URL, hidden) |
 | `state/product_seen.json` | Products already reported (keyed by primary-source URL); updated by each run |
 | `state/papers_seen.json` | Every arXiv id already checked (qualified / near-miss / screened-out); the screener skips these, so daily runs only verify new papers |
