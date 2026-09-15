@@ -1,197 +1,347 @@
 [
- {
-  "title": "EA's NHL 27 Confirmed Using Generative AI for Commentator Voiceover",
-  "url": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
-  "date": "2026-09-10"
- },
- {
-  "title": "Roblox Expands AI Game-Creation Suite and Cross-Platform Publishing at RDC 2026",
-  "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-  "date": "2026-09-11"
- },
- {
-  "title": "Level-5 CEO Apologizes After Fans Spot Heavy AI Use in Vision 2026 II Showcase",
-  "url": "https://www.nintendolife.com/news/2026/09/we-will-take-this-as-a-lesson-level-5-ceo-doubles-down-on-genai-despite-backlash",
-  "date": "2026-09-10"
- },
- {
-  "title": "AI Server Demand Pushes RTX 5090 Gaming GPU Prices Above $5,000",
-  "url": "https://tech4gamers.com/rtx-5090-now-top-5000/",
-  "date": "2026-09-14"
- },
- {
-  "title": "Niko Partners: Generative AI Becomes Core Driver as China's Game Market Heads to $59.8B by 2030",
-  "url": "https://gamesbeat.com/exclusive-chinas-game-market-expected-to-grow-4-in-2026-and-hit-59-8b-by-2030-niko-partners/",
-  "date": "2026-09-14"
- },
- {
-  "title": "Xsolla Launches AI Toolkit to Let Coding Agents Build Game Storefronts",
-  "url": "https://www.inven.co.kr/webzine/news/?news=320841",
-  "date": "2026-09-14"
- },
- {
-  "title": "Independent Testing Reveals the Real Power and Thermal Cost of DLSS 5 Neural Rendering",
-  "url": "https://www.digit.in/features/gaming/dlss-5-debuts-with-nba-2k27-and-our-rtx-5090-testing-shows-the-cost-of-neural-rendering.html",
-  "date": "2026-09-14"
- },
- {
-  "title": "暴雪工会新合同确立就AI使用进行强制协商的权利",
-  "url": "https://www.gamedeveloper.com/production/blizzard-union-workers-ratify-historic-contract-covering-1-900-employees",
-  "date": "2026-09-09"
- },
- {
-  "title": "AI原生手游厂商Arcustin Games获50万美元种子轮融资",
-  "url": "https://tech.eu/2026/09/14/ai-native-game-studio-arcustin-games-raises-500k-from-webrazzi-gsyf",
-  "date": "2026-09-14"
- },
- {
-  "title": "《塞尔达传说》前美术总监因AI游戏原型测试遭日本网友批评",
-  "url": "https://kotaku.com/the-legend-of-zelda-majoras-masks-art-director-gets-blow-back-for-using-ai-in-prototyping-test-2000734003",
-  "date": "2026-09-13"
- },
- {
-  "title": "Twitch测试生成式AI\"直播教练\"功能为主播提供反馈",
-  "url": "https://www.dexerto.com/twitch/twitch-is-testing-an-ai-stream-coach-that-gives-creators-feedback-after-every-broadcast-3408520/",
-  "date": "2026-09-12"
- },
- {
-  "title": "米哈游胜诉AI语音克隆案 获赔75万元人民币",
-  "url": "https://www.dexerto.com/genshin-impact/genshin-impact-dev-wins-over-100k-after-ai-company-cloned-character-voices-3408234/",
-  "date": "2026-09-11"
- },
- {
-  "title": "Meta在孟买举办\"Create & Play with Meta AI\"游戏创作快闪活动",
-  "url": "https://technosports.co.in/metas-create-play-with-meta-ai-gaming/",
-  "date": "2026-09-12"
- },
- {
-  "title": "谷歌果蝇脑神经连接组被用于操控AI在《节奏光剑》等游戏中\"游玩\"",
-  "url": "https://www.pcgamer.com/hardware/after-google-mapped-an-adult-male-fruit-flys-brain-software-engineers-made-it-play-doom-mario64-and-beat-saber/",
-  "date": "2026-09-10"
- },
- {
-  "title": "AI生成的《RuneScape》克隆游戏爆红后被Jagex要求下架",
-  "url": "https://www.dexerto.com/gaming/viral-ai-made-runescape-clone-shut-down-after-jagex-demands-takedown-3408509/",
-  "date": "2026-09-12"
- },
- {
-  "title": "Unity正式发布面向Claude Code的官方AI开发插件",
-  "url": "https://unity.com/blog/unity-plugin-for-claude-code",
-  "date": "2026-09-09"
- },
- {
-  "title": "调查：欧洲游戏开发者更担忧AI迫使加快工作节奏而非丢失工作",
-  "url": "https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job",
-  "date": "2026-09-08"
- },
- {
-  "title": "Saber Interactive创意总监：\"我们从未用AI替代过任何人\"",
-  "url": "https://www.gamesindustry.biz/saber-interactives-chief-creative-officer-says-weve-never-replaced-anybody-with-ai",
-  "date": "2026-09-10"
- },
- {
-  "title": "评测：《NBA 2K27》DLSS 5首秀表现优于预期 但性能代价高昂",
-  "url": "https://www.rockpapershotgun.com/nba-2k27-gives-dlss-5-a-more-faithful-looking-game-debut-than-feared-provided-its-running-on-the-lebron-of-gpus",
-  "date": "2026-09-08"
- },
- {
-  "title": "Shift Up技术总监回应《剑星》AI音乐视频争议：会认真对待玩家不满",
-  "url": "https://kotaku.com/shift-up-cto-says-the-stellar-blade-maker-is-taking-fan-complaints-about-ai-seriously-but-believes-it-should-still-be-used-as-a-tool-to-make-a-great-high-quality-game-2000732716",
-  "date": "2026-09-09"
- },
- {
-  "title": "AI聊天RPG应用《RyzaChat: AI》上线并拓展至多个国际市场",
-  "url": "https://automaton-media.com/en/pr/the-atelier-ryza-ai-chat-app-is-more-than-a-chatbot-a-freeform-rpg-where-alchemy-quests-and-even-losing-in-battle-become-part-of-a-continuous-story/",
-  "date": "2026-09-11"
- },
- {
-  "title": "玩家用DLSS 5多重叠加渲染将《辐射：新维加斯》变成\"噩梦画面\"",
-  "url": "https://insider-gaming.com/fallout-new-vegas-remaster-nightmare-fuel-ai/",
-  "date": "2026-09-12"
- },
- {
-  "title": "《天国：拯救2》导演力挺DLSS 5：能还原被引擎灯光掩盖的模型细节",
-  "url": "https://wccftech.com/daniel-vavra-nvidia-dlss-5-kcd2-aesthetics/",
-  "date": "2026-09-14"
- },
- {
-  "title": "Arm推出移动端AI画面重建技术 强调开源可训练以区别于DLSS 5",
-  "url": "https://www.gamesindustry.biz/arm-explains-its-mobile-first-ai-reconstruction-technology-which-takes-a-different-tack-from-the-black-box-approach-of-dlss-5",
-  "date": "2026-09-08"
- },
- {
-  "title": "英伟达发布9月9日Game Ready驱动 为多款新游戏加入DLSS 4.5支持",
-  "url": "https://www.nvidia.com/en-us/geforce/news/wardogs-aniimo-007-first-light-path-tracing-geforce-game-ready-driver/",
-  "date": "2026-09-09"
- },
- {
-  "title": "EA Javelin Anticheat 年度进展：机器学习行为分析拦截2670万次作弊尝试",
-  "url": "https://www.ea.com/news/ea-javelin-anticheat-2026-update",
-  "date": "2026-09-10"
- },
- {
-  "title": "Diablo V officially revealed at BlizzCon 2026",
-  "url": "https://news.blizzard.com/en-us/article/24301453/everything-announced-at-blizzcon-2026-opening-ceremony",
-  "date": "2026-09-13"
- },
- {
-  "title": "World of Warcraft: Forever announced as new vanilla-era experience",
-  "url": "https://www.pcgamer.com/gaming-industry/news/live/blizzcon-2026-opening-ceremony-live-coverage-whats-next-for-warcraft-overwatch-diablo-and-starcraft/",
-  "date": "2026-09-13"
- },
- {
-  "title": "Blizzard reveals new StarCraft open-world shooter",
-  "url": "https://www.gamesradar.com/news/live/blizzcon-2026-everything-announced/",
-  "date": "2026-09-13"
- },
- {
-  "title": "Netflix developing animated Diablo series with Blizzard",
-  "url": "https://www.pocketgamer.biz/hot-five-lego-digital-play-acquires-offroad-games-unity-launches-claude-code-plugin-and-pokemon-go-is-top-grossing-mobile-game-of-early-september/",
-  "date": "2026-09-14"
- },
- {
-  "title": "Bandai Namco launches first home-console Idolmaster SideM game",
-  "url": "https://www.famitsu.com/article/202609/87571",
-  "date": "2026-09-13"
- },
- {
-  "title": "Overflow announces Summer Days remaster for December 2026",
-  "url": "https://automaton-media.com/articles/newsjp/20260913-467161/",
-  "date": "2026-09-13"
- },
- {
-  "title": "Fan-made Last of Us Part II PC multiplayer mod cancelled after Sony letter",
-  "url": "https://www.videogameschronicle.com/news/last-of-us-part-2-multiplayer-mod-canceled-by-sony/",
-  "date": "2026-09-13"
- },
- {
-  "title": "Culdcept Begins tops 100,000 units shipped",
-  "url": "https://www.famitsu.com/",
-  "date": "2026-09-14"
- },
- {
-  "title": "Devolver Digital shareholders approve delisting from London's AIM market",
-  "url": "https://investgame.net/news/",
-  "date": "2026-09-13"
- },
- {
-  "title": "Xbox CEO Asha Sharma visits Kojima Productions after Physint deal",
-  "url": "https://www.purexbox.com/news/2026/09/to-invention-and-adventure-together-xbox-boss-visits-kojima-productions-to-mark-new-era",
-  "date": "2026-09-14"
- },
- {
-  "title": "Monster Hunter Now passes $336.9 million in three years on mobile",
-  "url": "https://www.pocketgamer.biz/monster-hunter-now-makes-3369m-in-three-years-on-mobile/",
-  "date": "2026-09-14"
- },
- {
-  "title": "VR studio Polyarc, maker of Moss, shuts down",
-  "url": "https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down",
-  "date": "2026-09-14"
- },
- {
-  "title": "Worker-owned studio KO_OP confirms layoffs of 13 staff",
-  "url": "https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs",
-  "date": "2026-09-14"
- }
+  {
+    "title": "EA's NHL 27 Confirmed Using Generative AI for Commentator Voiceover",
+    "url": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
+    "date": "2026-09-10"
+  },
+  {
+    "title": "Roblox Expands AI Game-Creation Suite and Cross-Platform Publishing at RDC 2026",
+    "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Level-5 CEO Apologizes After Fans Spot Heavy AI Use in Vision 2026 II Showcase",
+    "url": "https://www.nintendolife.com/news/2026/09/we-will-take-this-as-a-lesson-level-5-ceo-doubles-down-on-genai-despite-backlash",
+    "date": "2026-09-10"
+  },
+  {
+    "title": "AI Server Demand Pushes RTX 5090 Gaming GPU Prices Above $5,000",
+    "url": "https://tech4gamers.com/rtx-5090-now-top-5000/",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "Niko Partners: Generative AI Becomes Core Driver as China's Game Market Heads to $59.8B by 2030",
+    "url": "https://gamesbeat.com/exclusive-chinas-game-market-expected-to-grow-4-in-2026-and-hit-59-8b-by-2030-niko-partners/",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "Xsolla Launches AI Toolkit to Let Coding Agents Build Game Storefronts",
+    "url": "https://www.inven.co.kr/webzine/news/?news=320841",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "Independent Testing Reveals the Real Power and Thermal Cost of DLSS 5 Neural Rendering",
+    "url": "https://www.digit.in/features/gaming/dlss-5-debuts-with-nba-2k27-and-our-rtx-5090-testing-shows-the-cost-of-neural-rendering.html",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "暴雪工会新合同确立就AI使用进行强制协商的权利",
+    "url": "https://www.gamedeveloper.com/production/blizzard-union-workers-ratify-historic-contract-covering-1-900-employees",
+    "date": "2026-09-09"
+  },
+  {
+    "title": "AI原生手游厂商Arcustin Games获50万美元种子轮融资",
+    "url": "https://tech.eu/2026/09/14/ai-native-game-studio-arcustin-games-raises-500k-from-webrazzi-gsyf",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "《塞尔达传说》前美术总监因AI游戏原型测试遭日本网友批评",
+    "url": "https://kotaku.com/the-legend-of-zelda-majoras-masks-art-director-gets-blow-back-for-using-ai-in-prototyping-test-2000734003",
+    "date": "2026-09-13"
+  },
+  {
+    "title": "Twitch测试生成式AI\"直播教练\"功能为主播提供反馈",
+    "url": "https://www.dexerto.com/twitch/twitch-is-testing-an-ai-stream-coach-that-gives-creators-feedback-after-every-broadcast-3408520/",
+    "date": "2026-09-12"
+  },
+  {
+    "title": "米哈游胜诉AI语音克隆案 获赔75万元人民币",
+    "url": "https://www.dexerto.com/genshin-impact/genshin-impact-dev-wins-over-100k-after-ai-company-cloned-character-voices-3408234/",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Meta在孟买举办\"Create & Play with Meta AI\"游戏创作快闪活动",
+    "url": "https://technosports.co.in/metas-create-play-with-meta-ai-gaming/",
+    "date": "2026-09-12"
+  },
+  {
+    "title": "谷歌果蝇脑神经连接组被用于操控AI在《节奏光剑》等游戏中\"游玩\"",
+    "url": "https://www.pcgamer.com/hardware/after-google-mapped-an-adult-male-fruit-flys-brain-software-engineers-made-it-play-doom-mario64-and-beat-saber/",
+    "date": "2026-09-10"
+  },
+  {
+    "title": "AI生成的《RuneScape》克隆游戏爆红后被Jagex要求下架",
+    "url": "https://www.dexerto.com/gaming/viral-ai-made-runescape-clone-shut-down-after-jagex-demands-takedown-3408509/",
+    "date": "2026-09-12"
+  },
+  {
+    "title": "Unity正式发布面向Claude Code的官方AI开发插件",
+    "url": "https://unity.com/blog/unity-plugin-for-claude-code",
+    "date": "2026-09-09"
+  },
+  {
+    "title": "调查：欧洲游戏开发者更担忧AI迫使加快工作节奏而非丢失工作",
+    "url": "https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job",
+    "date": "2026-09-08"
+  },
+  {
+    "title": "Saber Interactive创意总监：\"我们从未用AI替代过任何人\"",
+    "url": "https://www.gamesindustry.biz/saber-interactives-chief-creative-officer-says-weve-never-replaced-anybody-with-ai",
+    "date": "2026-09-10"
+  },
+  {
+    "title": "评测：《NBA 2K27》DLSS 5首秀表现优于预期 但性能代价高昂",
+    "url": "https://www.rockpapershotgun.com/nba-2k27-gives-dlss-5-a-more-faithful-looking-game-debut-than-feared-provided-its-running-on-the-lebron-of-gpus",
+    "date": "2026-09-08"
+  },
+  {
+    "title": "Shift Up技术总监回应《剑星》AI音乐视频争议：会认真对待玩家不满",
+    "url": "https://kotaku.com/shift-up-cto-says-the-stellar-blade-maker-is-taking-fan-complaints-about-ai-seriously-but-believes-it-should-still-be-used-as-a-tool-to-make-a-great-high-quality-game-2000732716",
+    "date": "2026-09-09"
+  },
+  {
+    "title": "AI聊天RPG应用《RyzaChat: AI》上线并拓展至多个国际市场",
+    "url": "https://automaton-media.com/en/pr/the-atelier-ryza-ai-chat-app-is-more-than-a-chatbot-a-freeform-rpg-where-alchemy-quests-and-even-losing-in-battle-become-part-of-a-continuous-story/",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "玩家用DLSS 5多重叠加渲染将《辐射：新维加斯》变成\"噩梦画面\"",
+    "url": "https://insider-gaming.com/fallout-new-vegas-remaster-nightmare-fuel-ai/",
+    "date": "2026-09-12"
+  },
+  {
+    "title": "《天国：拯救2》导演力挺DLSS 5：能还原被引擎灯光掩盖的模型细节",
+    "url": "https://wccftech.com/daniel-vavra-nvidia-dlss-5-kcd2-aesthetics/",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "Arm推出移动端AI画面重建技术 强调开源可训练以区别于DLSS 5",
+    "url": "https://www.gamesindustry.biz/arm-explains-its-mobile-first-ai-reconstruction-technology-which-takes-a-different-tack-from-the-black-box-approach-of-dlss-5",
+    "date": "2026-09-08"
+  },
+  {
+    "title": "英伟达发布9月9日Game Ready驱动 为多款新游戏加入DLSS 4.5支持",
+    "url": "https://www.nvidia.com/en-us/geforce/news/wardogs-aniimo-007-first-light-path-tracing-geforce-game-ready-driver/",
+    "date": "2026-09-09"
+  },
+  {
+    "title": "EA Javelin Anticheat 年度进展：机器学习行为分析拦截2670万次作弊尝试",
+    "url": "https://www.ea.com/news/ea-javelin-anticheat-2026-update",
+    "date": "2026-09-10"
+  },
+  {
+    "title": "Diablo V officially revealed at BlizzCon 2026",
+    "url": "https://news.blizzard.com/en-us/article/24301453/everything-announced-at-blizzcon-2026-opening-ceremony",
+    "date": "2026-09-13"
+  },
+  {
+    "title": "World of Warcraft: Forever announced as new vanilla-era experience",
+    "url": "https://www.pcgamer.com/gaming-industry/news/live/blizzcon-2026-opening-ceremony-live-coverage-whats-next-for-warcraft-overwatch-diablo-and-starcraft/",
+    "date": "2026-09-13"
+  },
+  {
+    "title": "Blizzard reveals new StarCraft open-world shooter",
+    "url": "https://www.gamesradar.com/news/live/blizzcon-2026-everything-announced/",
+    "date": "2026-09-13"
+  },
+  {
+    "title": "Netflix developing animated Diablo series with Blizzard",
+    "url": "https://www.pocketgamer.biz/hot-five-lego-digital-play-acquires-offroad-games-unity-launches-claude-code-plugin-and-pokemon-go-is-top-grossing-mobile-game-of-early-september/",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "Bandai Namco launches first home-console Idolmaster SideM game",
+    "url": "https://www.famitsu.com/article/202609/87571",
+    "date": "2026-09-13"
+  },
+  {
+    "title": "Overflow announces Summer Days remaster for December 2026",
+    "url": "https://automaton-media.com/articles/newsjp/20260913-467161/",
+    "date": "2026-09-13"
+  },
+  {
+    "title": "Fan-made Last of Us Part II PC multiplayer mod cancelled after Sony letter",
+    "url": "https://www.videogameschronicle.com/news/last-of-us-part-2-multiplayer-mod-canceled-by-sony/",
+    "date": "2026-09-13"
+  },
+  {
+    "title": "Culdcept Begins tops 100,000 units shipped",
+    "url": "https://www.famitsu.com/",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "Devolver Digital shareholders approve delisting from London's AIM market",
+    "url": "https://investgame.net/news/",
+    "date": "2026-09-13"
+  },
+  {
+    "title": "Xbox CEO Asha Sharma visits Kojima Productions after Physint deal",
+    "url": "https://www.purexbox.com/news/2026/09/to-invention-and-adventure-together-xbox-boss-visits-kojima-productions-to-mark-new-era",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "Monster Hunter Now passes $336.9 million in three years on mobile",
+    "url": "https://www.pocketgamer.biz/monster-hunter-now-makes-3369m-in-three-years-on-mobile/",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "VR studio Polyarc, maker of Moss, shuts down",
+    "url": "https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "Worker-owned studio KO_OP confirms layoffs of 13 staff",
+    "url": "https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "Roblox 在 RDC 2026 上推出\"AI 创作层\"",
+    "url": "https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "动视暴雪员工通过 CWA 历史性工会合同，首次纳入 AI 使用谈判条款",
+    "url": "https://cwa-union.org/news/releases/blizzard-entertainment-workers-ratify-historic-video-game-contracts-cwa",
+    "date": "2026-09-09"
+  },
+  {
+    "title": "米哈游胜诉 AI 语音克隆案",
+    "url": "https://www.dexerto.com/genshin-impact/genshin-impact-dev-wins-over-100k-after-ai-company-cloned-character-voices-3408234/",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Level-5 线上发布会被曝大量使用生成式 AI，社长道歉",
+    "url": "https://www.videogameschronicle.com/news/level-5-boss-admits-using-ai-for-professor-layton-yo-kai-watch-reveals/",
+    "date": "2026-09-13"
+  },
+  {
+    "title": "Level-5 展示会被指大量使用 AI，社长道歉",
+    "url": "https://www.nintendolife.com/news/2026/09/we-will-take-this-as-a-lesson-level-5-ceo-doubles-down-on-genai-despite-backlash",
+    "date": "2026-09-12"
+  },
+  {
+    "title": "调查：61% 欧洲游戏从业者担忧 AI 逼迫\"更快产出\"",
+    "url": "https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job",
+    "date": "2026-09-08"
+  },
+  {
+    "title": "Owlchemy Labs 携手 Artificial Agency 为 XR 游戏加入能动型 AI 角色",
+    "url": "https://gamesbeat.com/owlchemy-taps-artificial-agency-for-agentic-ai-characters-in-dimensional-double-shift-xr-game/",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "NVIDIA 发布新驱动，为《007：第一道曙光》DLSS 4.5 更新护航",
+    "url": "https://www.nvidia.com/en-us/geforce/news/wardogs-aniimo-007-first-light-path-tracing-geforce-game-ready-driver/",
+    "date": "2026-09-09"
+  },
+  {
+    "title": "字节跳动加速自研游戏级实时空间视频大模型",
+    "url": "https://finance.sina.com.cn/roll/2026-09-09/doc-inirfumn8940904.shtml",
+    "date": "2026-09-09"
+  },
+  {
+    "title": "中国上市游戏公司集体转型\"AI 金主\"",
+    "url": "https://news.qq.com/rain/a/20260909A0D6IJ00",
+    "date": "2026-09-09"
+  },
+  {
+    "title": "土耳其 AI 原生手游工作室 Arcustin Games 获 50 万美元种子前融资",
+    "url": "https://tech.eu/2026/09/14/ai-native-game-studio-arcustin-games-raises-500k-from-webrazzi-gsyf",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "游戏商业化服务商 Xsolla 推出 AI 工具包",
+    "url": "https://www.invenglobal.com/articles/25928/xsolla-launches-ai-toolkit-for-building-game-commerce",
+    "date": "2026-09-13"
+  },
+  {
+    "title": "Unity 发布 Claude Code 官方插件",
+    "url": "https://unity.com/blog/unity-plugin-for-claude-code",
+    "date": "2026-09-09"
+  },
+  {
+    "title": "《塞尔达传说》美术总监分享 AI 原型游戏引发争议",
+    "url": "https://kotaku.com/the-legend-of-zelda-majoras-masks-art-director-gets-blow-back-for-using-ai-in-prototyping-test-2000734003",
+    "date": "2026-09-13"
+  },
+  {
+    "title": "EA 承认《NHL 27》使用 AI 生成解说员语音",
+    "url": "https://www.pcgamer.com/software/ai/electronic-arts-admits-to-using-ai-voices-in-nhl-27-this-process-allows-us-to-bring-more-variety-to-the-game/",
+    "date": "2026-09-10"
+  },
+  {
+    "title": "OpenAI 员工用 ChatGPT 开发的《RuneScape》克隆游戏遭 Jagex 发函下架",
+    "url": "https://www.pcgamer.com/software/ai/openai-employee-takes-down-chatgpt-coded-runescape-clone-following-jagex-cease-and-desist/",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Saber Interactive 首席创意官回应 AI 争议",
+    "url": "https://www.gamesindustry.biz/saber-interactives-chief-creative-officer-says-weve-never-replaced-anybody-with-ai",
+    "date": "2026-09-10"
+  },
+  {
+    "title": "玩家用 DLSS 5 多重 AI 渲染\"翻新\"《辐射：新维加斯》",
+    "url": "https://insider-gaming.com/fallout-new-vegas-remaster-nightmare-fuel-ai/",
+    "date": "2026-09-12"
+  },
+  {
+    "title": "游戏行业正走出\"要不要用 AI\"的二元争论",
+    "url": "https://venturebeat.com/games/why-the-game-industry-is-moving-past-the-ai-or-no-ai-debate/",
+    "date": "2026-09-09"
+  },
+  {
+    "title": "Valve 正式公开 Steam Frame VR 头显售价",
+    "url": "https://gameinformer.com/2026/09/14/heres-how-to-get-a-steam-frame-valves-vr-headset-and-how-much-it-costs",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "《辐射 76》9 月 15 日推出 PS5/Xbox Series 原生版本",
+    "url": "https://gamerant.com/fallout-76-next-gen-update-ps5-september-15/",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "《暗黑破坏神 IV：憎恨时代合集》登陆 Switch 2",
+    "url": "https://www.nintendolife.com/news/2026/09/its-official-diablo-4-age-of-hatred-collection-brings-hell-to-switch-2-next-week",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Bungie 将《Marathon》第三赛季推迟至 12 月 8 日",
+    "url": "https://insider-gaming.com/marathon-season-3-delay/",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "日本游戏大奖 2026 年度作品部门揭晓",
+    "url": "https://www.famitsu.com/article/202609/87936",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "1312 Interactive 完成 100 万美元种子轮融资",
+    "url": "https://www.dealstreetasia.com/stories/1312-interactive-moneyview-ipo-495220",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Perfect World 电竞宣布 2027 年 CS2 冬季 Major 落户上海",
+    "url": "https://www.gosugamers.net/counterstrike/news/79172-counter-strike-2-s-winter-2027-major-will-be-hosted-in-shanghai-china",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "FISSURE Playground 3 落幕：Legacy 夺冠",
+    "url": "https://www.hltv.org/news/45509/legacy-sweep-g2-to-lift-fissure-playground-3-trophy",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "调研：订阅费用成 Game Pass 与 PS Plus 退订首要原因",
+    "url": "https://meyka.com/blog/xbox-game-pass-faces-subscriber-exodus-as-cost-concerns-peak-in-september-2026-1209/",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "Curve Games 与 Wayfinder Studios 达成发行合作",
+    "url": "https://mcvuk.com/business-news/industry-news-curve-games-signals-growth-ambition-with-major-wyldheart-publishing-deal/",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "《TCG Card Shop Simulator》1.0 版正式发售",
+    "url": "https://simulationdaily.com/news/today-in-gaming-news-september-14-2026/",
+    "date": "2026-09-15"
+  }
 ]

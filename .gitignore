@@ -1,6 +1,7 @@
 *.pdf
 *.pyc
 *_candidates.json
+candidates_*.json
 .discord_webhook
 __pycache__/
 batch*_hits.json
