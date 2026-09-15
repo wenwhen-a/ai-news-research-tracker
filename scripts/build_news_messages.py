@@ -17,10 +17,16 @@ Never splits mid-sentence; a section whose items cannot be parsed is chunked lin
 """
 import os, re, sys
 
-LIMIT = 2000
+LIMIT = 1960  # headroom below Discord's 2000-char cap to absorb <url> wrapping below
 SRC, OUT = sys.argv[1], sys.argv[2]
 TODAY = sys.argv[3] if len(sys.argv) > 3 else ""
 os.makedirs(OUT, exist_ok=True)
+
+URL_RE = re.compile(r"<?(https?://[^\s<>]+)>?")
+
+def wrap_urls(text):
+    """Wrap bare URLs in <...> so Discord doesn't auto-unfurl a link preview for them."""
+    return URL_RE.sub(lambda m: f"<{m.group(1)}>", text)
 for old in os.listdir(OUT):
     if old.startswith(("10-news", "20-news", "30-news", "35-news")):
         os.remove(os.path.join(OUT, old))
@@ -160,7 +166,8 @@ if not os.path.exists(banner):
                              f"随后为研究与产品追踪（Research & Product Tracker）。")
 
 for name, content in files.items():
+    content = wrap_urls(content.rstrip())
     with open(os.path.join(OUT, name), "w", encoding="utf-8") as fh:
-        fh.write(content.rstrip() + "\n")
-    print(f"{name}: {len(content.rstrip())} chars")
+        fh.write(content + "\n")
+    print(f"{name}: {len(content)} chars")
 print(f"news messages: {len(files)}  counts={counts}")
