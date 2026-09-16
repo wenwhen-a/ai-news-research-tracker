@@ -13,7 +13,8 @@ digest and dedup state back here.
 | `.claude/skills/game-ai-news-digest/` | The news skill (Simplified-Chinese games + AI digest: 5 in-depth, 20 brief, 10 flash items) |
 | `scripts/dedup_and_filter.py` | The news skill's helper (recency window, dedup, repeat check against `state/news_previous_items.json`) |
 | `scripts/build_news_messages.py` | Splits `news.md` into Discord messages: one per in-depth item, brief and flash items grouped with links |
-| `state/news_previous_items.json` | News items already posted, so the flash section stays fresh |
+| `state/news_previous_items.json` | News items posted in the last 14 days; repeats are excluded from all three sections (updates allowed only with a 【更新】 prefix and a newer source) |
+| `scripts/update_news_seen.py` | Parses a day's `news.md` and records its items in the file above (run right after the news digest is written) |
 | `.claude/skills/research-paper-tracker/` | The tracker skill (spec, arXiv + GitHub helper scripts, source lists) |
 | `scripts/send_discord.py` | Posts a folder of `*.md` messages to a Discord webhook; refuses to send if any file is over 2000 chars |
 | `scripts/arxiv_site_scan.py` | Website fallback for Part A discovery when the arXiv API is rate-limited (exact-phrase searches on arxiv.org) |

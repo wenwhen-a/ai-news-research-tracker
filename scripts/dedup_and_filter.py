@@ -104,6 +104,19 @@ def title_similarity(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
 
+def bigram_overlap(a, b):
+    """Share of character bigrams of the shorter title that also occur in the other title.
+    Catches the same event reported under differently worded headlines (e.g. two outlets covering one
+    lawsuit), which plain sequence similarity misses. Works for Chinese and English alike."""
+    def grams(t):
+        t = re.sub(r"[\W_]+", "", (t or "").lower())
+        return {t[i:i + 2] for i in range(len(t) - 1)}
+    ga, gb = grams(a), grams(b)
+    if len(ga) < 4 or len(gb) < 4:
+        return 0.0
+    return len(ga & gb) / min(len(ga), len(gb))
+
+
 def cluster_items(items, title_threshold):
     """Greedy clustering: an item joins an existing cluster if it shares a
     normalized URL with any member, or its title is similar enough to the
@@ -144,6 +157,8 @@ def main():
     ap.add_argument("--s2-floor", type=int, default=20, help="Minimum Section 2 items (default 20).")
     ap.add_argument("--s3-floor", type=int, default=10,
                     help="Soft target for Section 3 (24-hour flash) items (default 10).")
+    ap.add_argument("--event-threshold", type=float, default=0.45,
+                    help="Shared-bigram overlap with a previous title above which an item counts as the same event (default 0.45).")
     ap.add_argument("--previous", default=None,
                     help="Path to previous_items.json (items from the previous digest run); marks repeats via 'previously_covered'.")
     ap.add_argument("--out", default="filtered.json", help="Where to write the JSON report (default filtered.json).")
@@ -237,6 +252,9 @@ def main():
                 nt = normalize_title(m.get("title", ""))
                 if nt and any(title_similarity(nt, pt) >= args.title_threshold
                               for pt in prev_titles):
+                    return True
+                # same event, different headline/outlet: high shared-bigram overlap with a previous title
+                if nt and any(bigram_overlap(nt, pt) >= args.event_threshold for pt in prev_titles):
                     return True
             return False
 
