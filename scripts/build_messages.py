@@ -95,9 +95,17 @@ def slug(s, n=40):
     s = re.sub(r"[^A-Za-z0-9]+", "-", s).strip("-").lower()
     return s[:n].rstrip("-") or "item"
 
+ABBREV = re.compile(r"(?:\b(?:vs|e\.g|i\.e|et al|approx|cf|Fig|No|Eq|Sec|Tab|Ref|resp|ca|Dr|Mr|Ms|St|Inc|Ltd|Co)\.)$", re.I)
+
 def split_sentences(s):
-    # split on sentence enders followed by space+capital/quote/digit; keep abbreviations mostly intact
-    parts = re.split(r"(?<=[.!?])\s+(?=[A-Z\"“(0-9])", s.strip())
+    # split on sentence enders followed by space+capital/quote/digit, but never after common abbreviations
+    raw = re.split(r"(?<=[.!?])\s+(?=[A-Z\"“(0-9])", s.strip())
+    parts = []
+    for p in raw:
+        if parts and (ABBREV.search(parts[-1]) or re.search(r"\b\d+\.$", parts[-1])):
+            parts[-1] += " " + p
+        else:
+            parts.append(p)
     return [p for p in parts if p]
 
 def md_to_discord(s):
@@ -311,11 +319,12 @@ for label, tr in (("papers", trailA), ("products", trailB)):
     for l in lines:
         if l.startswith("### Announced only"):
             ann = True
-            footer_lines.append("**Announced only (not yet usable)**")
             continue
         if l.startswith(("Near-misses", "Verification:")) or l.startswith("### "):
             ann = False
         if ann and l.startswith("- "):
+            if "**Announced only (not yet usable)**" not in footer_lines:
+                footer_lines.append("**Announced only (not yet usable)**")
             footer_lines.append(l)
     if label == "papers":
         n_near = len([l for l in lines if l.startswith("- ") and not any(l == f for f in footer_lines)])
