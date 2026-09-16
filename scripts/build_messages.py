@@ -69,7 +69,7 @@ def embed_files(prefix, title, rows):
 SRC = sys.argv[1]
 OUT = sys.argv[2]
 WEEKDAY = sys.argv[3] if len(sys.argv) > 3 else None  # ISO weekday string, "5" = Friday
-SHOW_PREV_PAPERS_LIST = WEEKDAY is None or WEEKDAY == "5"
+SHOW_PREV_PAPERS_LIST = WEEKDAY == "5"  # full cards only on Friday; missing arg => compact count
 
 text = open(SRC, encoding="utf-8").read().replace("\r\n", "\n")
 
