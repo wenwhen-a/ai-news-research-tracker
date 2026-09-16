@@ -56,11 +56,16 @@ def parse_items(body):
         if not s.strip():
             continue
         if s.lstrip().startswith("#"):
+            # "## Title" / "### Title" lines are item titles (the section heading itself was split off earlier)
+            if re.match(r"^\s*#{1,4}\s+\S", s):
+                if cur:
+                    items.append(cur)
+                cur = [re.sub(r"^\s*#+\s*", "", s).replace("**", "").strip().strip("[]【】"), []]
             continue
         if not bullet(s) and not s.startswith(" "):
             if cur:
                 items.append(cur)
-            cur = [s.strip().strip("[]"), []]
+            cur = [s.strip().replace("**", "").strip("[]【】"), []]
         elif cur:
             indent = len(s) - len(s.lstrip())
             body_line = re.sub(r"^\s*[*•-]\s+", "", s)
