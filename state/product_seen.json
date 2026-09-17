@@ -118,5 +118,13 @@
   "first_seen": "2026-09-14",
   "release_date": "2026-06-16",
   "summary": "NVIDIA shipped RTX Remix 1.5.2, adding \"Remix Skills\" — text-based context files that let AI coding agents act as collaborators to add features and bring previously-unsupported D3D9 titles into RTX Remix compatibility."
+ },
+ "https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play": {
+  "name": "Roblox Scene Generator (prompt-to-scene for Build & Studio)",
+  "company": "Roblox",
+  "tier": "Announced only",
+  "first_seen": "2026-09-17",
+  "release_date": "2026-09-11",
+  "summary": "Roblox announced Scene Generator, which will power prompt-to-scene functionality across both Build and Studio, letting creators turn a text prompt and reference image into a fully functional layout to refine in Studio."
  }
 }

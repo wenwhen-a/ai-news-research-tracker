@@ -1,0 +1,1 @@
+- **韩国二次元新作扎堆东京电玩展，本土展会G-Star地位持续边缘化**（2026-09-16）— 据BigGo Finance报道，随着越来越多韩国厂商选择在东京电玩展首发二次元新作，韩国本土的G-Star展会影响力被进一步削弱。 <https://finance.biggo.com/news/d577c12d-1d2c-4e3f-acae-e3d95f297e49>
