@@ -386,7 +386,7 @@
  "2609.03225": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-02",
+  "submitted": "2026-09-16",
   "title": "Long-Horizon Consistent and Interaction-Aware World Models for Multi-Style End-to-End Driving"
  },
  "2609.03153": {
@@ -1106,8 +1106,8 @@
  "2608.18234": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-11",
-  "title": "GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction"
+  "submitted": "2026-09-17",
+  "title": "GigaBrain-WBC-0.5: A Behavior World Model for Robust Humanoid Whole-Body Tracking with Environment Interaction"
  },
  "2608.18077": {
   "status": "qualified",
@@ -3125,7 +3125,7 @@
  "2608.29519": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-08-29",
+  "submitted": "2026-09-17",
   "title": "FuncRoom-Agent: Sequential Feed-Forward 3D Functional Indoor Scene Generation"
  },
  "2608.28331": {
@@ -5834,7 +5834,7 @@
  "2609.15113": {
   "status": "screened-out",
   "first_seen": "2026-09-15",
-  "submitted": "2026-09-14",
+  "submitted": "2026-09-16",
   "title": "Legislating World-Model-Based Planning with Legal Reasoning"
  },
  "2609.14854": {
@@ -6239,7 +6239,7 @@
  "2609.15115": {
   "status": "screened-out",
   "first_seen": "2026-09-15",
-  "submitted": "2026-09-14",
+  "submitted": "2026-09-17",
   "title": "New runner removal theorems for the cyclotomic Hecke algebras of type $G(r,1,n)$"
  },
  "2609.14893": {
@@ -7282,5 +7282,293 @@
   "first_seen": "2026-09-17",
   "submitted": "2026-09-15",
   "title": "Grounding SWE-Agent Decisions in Architecture-0 Design: Navigating Unknown Unknowns through Physical Mapping"
+ },
+ "2609.20800": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "JEPA-Anything: Learning Predictive Models across Different Worlds"
+ },
+ "2609.20649": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation"
+ },
+ "2609.20604": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "Semantic SLAM in Precision Agriculture using Bayesian Inference"
+ },
+ "2609.20034": {
+  "status": "near-miss",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "Astronex-World 1.0: Real-Time Interactive World Model Foundation"
+ },
+ "2609.19863": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "Feeling Terrain Before Crossing: World Models for Off-Road Navigation"
+ },
+ "2609.19674": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "Conservation Buys Stability and Factoring Buys Counterfactuals in Physical World Models"
+ },
+ "2609.19600": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-16",
+  "title": "WorldContact: A Contact-Centric World Model for Scalable Robot Learning"
+ },
+ "2609.19551": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-16",
+  "title": "Continual Enterprise World Model Discovery in Dynamic Systems"
+ },
+ "2609.19315": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-16",
+  "title": "GAVEL: Graph World Models for Verified and Efficient Long-Horizon LLM Task Planning"
+ },
+ "2609.20475": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "SenseFuse: Label-Free Fusion of Image and Shape Encoders for Open-Vocabulary 3D Instance Segmentation"
+ },
+ "2609.20623": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "PhGS: Post-Hoc Pruning and Refinement of Single-View Feed-Forward 3D Gaussian Reconstructions"
+ },
+ "2609.20348": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "EliGSiR: Continual RGB-D Mapping with Gaussian Splatting under Bounded Compute"
+ },
+ "2609.19782": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "Printing the Underdetermined: Materializing Multi-solutionness in Figurative Paintings"
+ },
+ "2609.19716": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "GAPrompt++: Multi-Granular Geometry-Aware Point Cloud Prompt for 3D Vision Model"
+ },
+ "2609.19628": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-16",
+  "title": "VGGT-GS SLAM: Uncalibrated Monocular Gaussian Splatting SLAM with Feed-Forward Priors"
+ },
+ "2609.19463": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-16",
+  "title": "ParticleSplat: Self-supervised Object-centric Latent Particle Splatting"
+ },
+ "2609.19421": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-16",
+  "title": "RGS: Reflection-aware Gaussian Splatting via Learning Geometry Continuity for Reflective Objects"
+ },
+ "2609.19330": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-16",
+  "title": "SemSafe-3DGS: Semantic Risk-Aware Active Navigation in Uncertain 3D Gaussian Splatting Maps"
+ },
+ "2609.20818": {
+  "status": "qualified",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
+  "affiliation": "Google — Peiyu Liu, Dingxi Zhang, Federico Tombari, Christina Tsalicoglou (Peiyu Liu also lists EPFL; Marc Pollefeys and Daniel Barath list ETH Zurich/EPFL)",
+  "url": "https://arxiv.org/abs/2609.20818",
+  "summary": "The paper presents SplashSplat, a method for reconstructing dynamic, splashing liquids (from coherent streams to violent splashes) from real-world multi-view video, plus a new 20-scene benchmark captured with seven synchronized 4K cameras at 60 fps."
+ },
+ "2609.20589": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "RawSLAM: Online HDR Gaussian SLAM from Linear Radiance"
+ },
+ "2609.20586": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "CoRef-GS: Cooperative Referring Gaussian Splatting for Multi-Agent Scene Understanding"
+ },
+ "2609.19907": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "GS-PI: An Optimization-Decoupled Appearance Decomposition Approach for Generating PBR Gaussian Assets"
+ },
+ "2609.19533": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-16",
+  "title": "SLAMSqueezeBench: Comparing SLAM Systems under Resource Constraints"
+ },
+ "2609.19836": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "A Fictitious Domain Formulation with Bubble Enrichment"
+ },
+ "2609.20012": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "GRF-Recon: Global Ray-Field Optimization for Long-Sequence Feed-forward Reconstruction"
+ },
+ "2609.19815": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "SnapPhysics: A Physics-Aware Scene Graph from a Single View for Interactive Mixed Reality Scenes"
+ },
+ "2609.20817": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations"
+ },
+ "2605.29219": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "SalsaAgent: A multimodal embodied language model for interactive dance generation"
+ },
+ "2609.20558": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "Learning Slope-Adaptive Whole-Body Locomotion for Humanoid Robots in Roofing Construction"
+ },
+ "2609.19927": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "DirtyMoCap: Robust Motion Capture from Unconstrained Markers"
+ },
+ "2609.19354": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-16",
+  "title": "Can Vision-Language Models Judge Olympic Diving? From Reasoning to Scores in Zero-Shot Action Quality Assessment"
+ },
+ "2609.20582": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "V2-STRep: VLM-Grounded Structured Task Representations for Reusable Robot Skills Acquired from Generated Videos"
+ },
+ "2609.19688": {
+  "status": "qualified",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction",
+  "affiliation": "Sony — Julian Tanke (Sony AI America), Minami Matsumoto and Sergey Bashkirov (Sony Interactive Entertainment), Yingruo Fan and Selim Engin (Sony Corporation of America), Dongseok Shim and Takashi Shibuya (Sony Group Corporation), Yuki Mitsufuji (Sony Corporation of America); other authors (Zeyu Han, Zichong Meng, Huaizu Jiang) list Northeastern University",
+  "url": "https://arxiv.org/abs/2609.19688",
+  "summary": "LYRIC is a generative flow-matching controller that lets physics-simulated humanoid characters perform contact-rich, whole-body object interactions (manipulation combined with locomotion) from a free-form language instruction and a sparse terminal object goal."
+ },
+ "2609.19666": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "Towards High-DoF Dexterous Manipulation through VLA Post-Training"
+ },
+ "2609.20349": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "A Qualitative Model for Reasoning about Path and Support"
+ },
+ "2609.19840": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "KoUniTalk: A Lightweight Articulation-Centered Korean-English 3D Talking Face Benchmark"
+ },
+ "2609.20509": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "Automated Goldsmith's Mark Retrieval in Silverware"
+ },
+ "2512.06438": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "AGORA: Adversarial Generation Of Real-time Animatable 3D Gaussian Head Avatars"
+ },
+ "2609.20566": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "OmniMimic: Dynamics-completed Motion Augmentation for Multi-style Omnidirectional Quadruped Locomotion"
+ },
+ "2609.20160": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "Needles in a Raystack: Ultra-Sparse LiDAR Occupancy Detection for Bat Tracks"
+ },
+ "2609.19902": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "Self-Replicating Neural Cellular Automata: Quantifying Emergent Phenotypic and Genotypic Diversity in an OpenEnded Substrate"
+ },
+ "2609.19452": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-16",
+  "title": "GLAMDRING: Gait Learning And Morphology co-Design via Reinforcement LearnING of CPGs"
+ },
+ "2609.19816": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "Exergy-Anergy Representation of Turbomachine Performance Characteristics"
+ },
+ "2609.19807": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-17",
+  "title": "90%-Efficient Optical Storage in a Rare-Earth Crystal with a Low-Loss Impedance-Matched Cavity"
+ },
+ "2609.19608": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-16",
+  "title": "Affine quantum Schur--Weyl duality"
+ },
+ "2609.19535": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-16",
+  "title": "Symmetry-driven correlation patterns in one-dimensional periodic fermionic systems: closed-form expressions and exact selection rules for correlation functions, entanglement entropies and mutual information"
+ },
+ "2609.19329": {
+  "status": "screened-out",
+  "first_seen": "2026-09-18",
+  "submitted": "2026-09-16",
+  "title": "Skein theory and deformations"
  }
 }
