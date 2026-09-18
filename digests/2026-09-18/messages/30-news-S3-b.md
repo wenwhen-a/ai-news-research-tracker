@@ -1,0 +1,4 @@
+- **【《魔兽世界：永恒》测试服9月17日开启】**（2026-09-17）— 暴雪《魔兽世界：永恒》公开测试于9月17日启动，将持续至10月21日，玩家测试上限为30级，正式版将于11月4日随常规订阅免费上线。 <https://blizzardwatch.com/2026/09/17/world-warcraft-forever-beta/>
+- **【Netmarble新作《Bloomwalker》确认属于《二之国》世界观】**（2026-09-17）— Netmarble在Xbox东京电玩展直播中公开新作《Bloomwalker》最新预告片，确认该生态修复题材的悠闲建造游戏正式属于《二之国》系列世界观，将登陆Xbox、PS5、Switch系列及PC。 <https://www.invenglobal.com/articles/26149/netmarbles-new-game-bloomwalker-confirmed-to-be-set-in-ni-no-kuni-universe>
+- **【世嘉《疯狂出租车：世界巡游》公开日本地图与预告片】**（2026-09-17）— 世嘉在Xbox东京电玩展直播中公开《疯狂出租车：世界巡游》日本地图预告片，这是单人剧情模式五张地图中的第三张，游戏计划2027年登陆主流平台。 <https://sega.prezly.com/crazy-taxi-world-tour-zooms-to-japan-with-new-map-and-trailer>
+- **【Amazon Prime Gaming九月新增《毁灭战士：永恒》等免费游戏】**（2026-09-17）— 亚马逊Prime Gaming公布9月17日起可领取的免费游戏，id Software的《毁灭战士：永恒》成为本轮限时免费领取阵容中的重头作品。 <https://gamerant.com/free-games-claim-september-2026-steam-amazon-prime-gaming-epic/>

@@ -1,0 +1,14 @@
+**[新闻 1] 微软将AI画面增强技术Auto SR扩展至英特尔新处理器，帧率最高提升约15%**
+- **日期：** 2026-09-17
+- **来源链接：** <https://www.thurrott.com/windows/windows-11/324891/microsoft-brings-windows-11-auto-sr-to-intel-core-ultra-series-3-based-pcs>
+- **核心事实（发生了什么）：**
+  - Auto SR此前仅支持基于Arm的Snapdragon X芯片Copilot+ PC，现扩展支持英特尔"Panther Lake"(Core Ultra系列3)处理器
+  - 技术原理：游戏以较低分辨率渲染，再通过NPU端AI放大算法提升到更高有效分辨率，无需游戏开发商或显卡驱动额外适配
+  - 在Core Ultra系列3硬件上，最佳表现分辨率约800p，支持放大到1080p输出
+  - 相比原生渲染，该技术平均可带来约15%的帧率提升
+  - 用户可按具体游戏在"画质优先"与"性能优先"之间自行调整
+  - 微软产品经理Stefan Bojanic透露，未来有望进一步扩展支持AMD芯片平台
+- **背景与起因（为什么会发生）：**
+  - AI驱动的画面超分辨率/重建技术（如NVIDIA DLSS、AMD FSR）已成为PC游戏性能优化的主流手段；微软此前将系统级AI超分技术Auto SR限定在搭载Snapdragon X芯片的Copilot+ PC上，此次扩展是该技术首次登陆x86架构平台。
+- **结果与进展（已经产生了什么结果）：**
+  - 目前仅英特尔Core Ultra系列3(Panther Lake)获得支持，微软暗示未来可能进一步扩展到AMD芯片平台，意味着系统级AI画面增强技术将不再局限于特定芯片架构或高端Copilot+设备，覆盖面有望进一步扩大。

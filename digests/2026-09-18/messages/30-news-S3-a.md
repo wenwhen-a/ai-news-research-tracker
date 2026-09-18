@@ -1,0 +1,9 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **【Take-Two确认《GTA 6》发售时不含线上模式与内购】**（2026-09-17）— Take-Two CEO Strauss Zelnick在股东会上确认《GTA 6》11月19日发售时仅为单机体验，不含线上模式和内购内容，《GTA5》线上模式将继续独立运营。 <https://www.gtaboom.com/take-two-confirms-gta-6-has-no-online-mode-or-recurrent-spending-at-launch-fcad>
+- **【小岛制作《PHYSINT》官宣比尔·斯卡斯加德出演男主角】**（2026-09-17）— 小岛秀夫在东京电玩展上宣布，瑞典演员比尔·斯卡斯加德（《小丑回魂》）将出演Xbox发行的谍战动作新作《PHYSINT》男主角。 <https://news.xbox.com/en-us/2026/09/17/physint-lead-role-bill-skarsgard-kojima-productions-xbox/>
+- **【《007：第一道曙光》Switch 2版二度延期至2027年3月】**（2026-09-17）— IO Interactive宣布《007：第一道曙光》Switch 2版本从原定2026年夏季再次推迟至2027年3月，理由是需要更多时间优化该平台的运行性能，PS5/Xbox/PC版不受影响。 <https://www.nintendolife.com/news/2026/09/007-first-light-on-switch-2-delayed-until-march-2027>
+- **【家庭游戏机厂商Nex Playground获超1.5亿美元新融资，Niantic前CFO加盟】**（2026-09-17）— 体感游戏机公司Nex完成由Baillie Gifford、BAI Capital领投的超1.5亿美元E轮股权及债务融资，并任命Niantic前CFO Jeff Shouger加入董事会，公司硬件销量已突破100万台。 <https://gamesbeat.com/nex-raises-150m-in-debt-and-equity-to-take-nex-playground-to-global-market-exclusive-interviews/>
+- **【《女神异闻录4：Revival》确认首日登陆Xbox Game Pass】**（2026-09-17）— Xbox在东京电玩展直播中确认《女神异闻录4：Revival》将于2027年2月18日首日加入Xbox Game Pass，并公开了新角色雏田真城的角色预告片。 <https://news.xbox.com/en-us/2026/09/17/xbox-tokyo-game-show-2026-recap/>
+- **【《使命召唤：现代战争4》公开东京电玩展宣传片，麦德斯·米科尔森加盟】**（2026-09-17）— 动视在Xbox东京电玩展直播中公开《使命召唤：现代战争4》新战役预告片，剧情围绕朝鲜半岛冲突展开，演员麦德斯·米科尔森确认出演主要反派，游戏将于10月23日发售。 <https://news.xbox.com/en-us/2026/09/17/modern-warfare-4-tokyo-games-show-campaign-trailer/>
+- **【《卧龙2：燃烬之翼》定档2027年3月4日，首日登陆Game Pass】**（2026-09-17）— Team Ninja在东京电玩展公开《卧龙2：燃烬之翼》新战斗演示，游戏定档2027年3月4日登陆Xbox、PS5、Switch 2及PC，并将首日加入Xbox Game Pass。 <https://www.windowscentral.com/gaming/xbox/tokyo-game-show-2026-xbox-announcements>
+- **【《梦境形态：无星之路》突袭上线Xbox Game Pass】**（2026-09-17）— 动作Roguelite游戏《梦境形态：无星之路》在Xbox东京电玩展直播中突袭发售，登陆Xbox Series X|S并首日加入Game Pass，同步推出周年更新内容。 <https://www.trueachievements.com/news/xbox-game-pass-shadow-drop-shape-of-dreams>

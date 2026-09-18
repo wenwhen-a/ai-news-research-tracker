@@ -1,0 +1,14 @@
+**[新闻 2] 爆料：AMD研发对标DLSS 5的"Neural Lighting"神经渲染技术，或随RDNA 5登场**
+- **日期：** 2026-09-17
+- **来源链接：** <https://www.pcguide.com/news/amd-is-making-its-own-version-of-dlss-5-probably-exclusive-to-next-gen-rdna-5-gpus/>
+- **核心事实（发生了什么）：**
+  - 消息来源为知名硬件爆料者Kepler_L2
+  - AMD据称在研发对标NVIDIA DLSS 5的神经渲染技术，内部称为"Neural Lighting"
+  - 该技术需直接读取游戏的3D场景数据（几何体/BVH、光线数据、深度缓冲、材质等），以精确计算光照交互而非单纯估算
+  - AMD已通过其GPUOpen中间件公开了两个相关研究项目
+  - 爆料称该技术"很可能"仅支持下一代RDNA 5 GPU，预计2027年初(可能于CES期间)发布
+  - 已有玩家/模组制作者通过非官方手段在Radeon显卡上跑通NVIDIA DLSS 5，显示该类技术在AMD硬件上具备可行性
+- **背景与起因（为什么会发生）：**
+  - NVIDIA于2026年9月初推出DLSS 5的"3D引导神经渲染"技术，凭借直接访问游戏引擎几何与材质数据大幅提升画面真实感；AMD此前的FSR系列长期被认为在AI画质增强上落后于DLSS，此次爆料显示AMD正试图在下一代GPU架构上追赶差距。
+- **结果与进展（已经产生了什么结果）：**
+  - 该技术目前仍处于研发/传闻阶段，尚无AMD官方确认的时间表；若属实，预计将随2027年前后发布的RDNA 5一同登场，届时将与NVIDIA DLSS 5及新主机的图形能力形成直接竞争。
