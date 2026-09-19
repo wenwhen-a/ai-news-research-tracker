@@ -1,0 +1,39 @@
+# Part B — Research → Product
+Window: last 90 days (2026-06-21 to 2026-09-19). Qualifying products: 11 (1 new, 10 previously reported, 0 flagged). Announced-only: 4. Open releases moved to Part A: 0.
+
+---
+## HappyOyster 1.0 "Adventure" mode — Alibaba Cloud Model Studio Open API
+- **Company:** Alibaba (ATH Innovation Business Group / Bailian platform)
+- **Status:** GA · **Released:** 2026-09-17 · **New**
+- **Surface:** Cloud API (Alibaba Cloud Model Studio / Bailian "newly released models" catalog; model id `happyoyster-1.0-adventure`)
+- **Primary source:** https://help.aliyun.com/zh/model-studio/newly-released-models (catalog listing, dated 2026-09-17); sibling API reference pages e.g. https://www.alibabacloud.com/help/zh/model-studio/happyoyster-directing-query-world-detail-api-reference and https://www.alibabacloud.com/help/zh/model-studio/happyoyster-acting-get-travel-credential-api-reference confirm the `happyoyster-1.0-*` API family
+- **Underlying research:** no traceable paper (only third-party benchmark papers, e.g. arXiv:2606.31672 "WorldRoamBench," reference HappyOyster as an evaluated system, not as its source)
+- **Availability:** Priced, self-serve Open API on Alibaba Cloud Model Studio (Bailian); listed pricing is roughly $0.007067 per "World Creation" call and $0.028267 per second of "World Experience" (480p); no waitlist language found on the catalog page.
+
+**What shipped (≤3 sentences):** Alibaba's Bailian ("Model Studio") "newly released models" catalog added `happyoyster-1.0-adventure` on 2026-09-17, exposing the "Adventure" (world-exploration) mode of its HappyOyster real-time interactive world model as a standalone, priced Open API endpoint. This is distinct from the consumer-facing happyoyster.cn site (already tracked, released 2026-06-17) and from the separately documented `happyoyster-1.0-directing` and `happyoyster-1.0-acting` endpoints.
+**What research it translates (≤3 sentences):** Alibaba describes HappyOyster as a native multimodal, streaming world model that jointly generates audio and video and models state-transition/causal consistency to keep a generated world coherent over time. No first-party research paper has been traced; only independent benchmark papers cite it as an evaluated commercial system.
+**Practical significance (≤3 sentences):** Alibaba states the model turns "a single sentence" into a "complete, playable, explorable, and interactive digital world," and publishing per-call/per-second pricing on Bailian makes the world-exploration mode usable by any enterprise developer with an Alibaba Cloud account rather than only through the consumer web app. This extends Alibaba's world-model product from a single consumer surface to a documented, billable cloud API surface.
+**Engineering details (≤3 sentences):** The API is organized by mode as separate model ids (`happyoyster-1.0-adventure`, `-directing`, `-acting`), each with its own OpenAPI reference (e.g. "get travel credential," "query world detail") rather than one unified endpoint. Client-side SDKs (Android/iOS/Web) handle RTC connection and video rendering while world state is managed server-side via the Open API, per Alibaba Cloud documentation.
+**Limitation / caveats (≤3 sentences):** The exact scope of what changed on 2026-09-17 is not fully independently confirmed — related HappyOyster API endpoints (Directing, Acting) may have been listed earlier (July 2026 sources describe HappyOyster entering enterprise "gray testing" on Bailian), so this may be the Adventure mode's addition to an already-existing API family rather than the family's first API launch. Third-party resellers (e.g. fal.ai) also list a "Happy Oyster" API partner integration, excluded here per the rule on third-party wrappers.
+
+### Previously reported (still in window)
+- NVIDIA DLSS 5 with 3D-Guided Neural Rendering (in NBA 2K27) · NVIDIA · GA · Released 2026-09-03 · https://www.nvidia.com/en-us/geforce/news/nba-2k27-dlss-5-3d-guided-neural-rendering-geforce-game-ready-driver/
+- NVIDIA DLSS 4.5 Ray Reconstruction, 2nd-generation transformer model (early access) · NVIDIA · Public beta/preview (NVIDIA App early access) · Released 2026-08-25 · https://www.nvidia.com/en-us/geforce/news/gamescom-2026-dlss-4-5-ray-reconstruction-release-announcements-trailers/
+- Autodesk 3ds Max 2027.2 — native 3D Gaussian Splat support · Autodesk · GA · Released 2026-07-22 · https://help.autodesk.com/cloudhelp/2027/ENU/3dsMax-WhatsNew/files/GUID-D11D1F34-C9FF-4981-AAE3-5A969986FCF4.html
+- Adobe Substance 3D Painter 12.1, Designer 16 and Sampler update (OpenPBR) · Adobe · GA · Released 2026-07-21 · https://blog.adobe.com/en/publish/2026/07/21/adobe-substance-3d-unveils-new-innovations-deliver-faster-workflows-openpbr-everywhere-digital-twins-scale
+- Fortnite / UEFN v41.20 — Control Rig for Sidekicks, in-world UMG widgets, LLM-powered NPCs · Epic Games · GA · Released 2026-07-16 · https://dev.epicgames.com/documentation/fortnite/41-20-fortnite-ecosystem-updates-and-release-notes-in-fortnite
+- Roblox Build — mobile AI creation tab (public alpha, New Zealand) · Roblox · Public beta/preview (public alpha) · Released 2026-07-28 · https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox
+- Upgraded PSSR in Doom: The Dark Ages on PS5 Pro (Free Update 4) · Sony Interactive Entertainment (platform feature; post authored by id Software's Billy Khan on the PlayStation Blog) · GA · Released 2026-07-07 · https://blog.playstation.com/2026/06/24/upgraded-pssr-comes-to-doom-the-dark-ages-on-ps5-pro/
+- 《逆水寒：新世界》 (Justice Online: New World) character rendering upgrade · NetEase · GA · Released 2026-06-26 · https://h.163.com/news/official/20260612/37231_1304115.html
+- AMD FSR SDK 2.3 — FSR Upscaling 4.1.1 on RDNA 3 · AMD · GA · Released 2026-06-24 · https://gpuopen.com/learn/amd-fsr-sdk-2-3-blog/
+- Markerless Motion Capture (EA Create Capture) · Electronic Arts · GA (internal studio tool) · Released 2026-08-07 · https://www.ea.com/news/ea-markerless-motion-capture
+
+### Announced only (not yet usable)
+- Roblox Scene Generator (prompt-to-scene for Build & Studio) · Roblox · 2026-09-11 · https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play
+- NPC Dynamic Behavior (prompt-driven dynamic NPCs in Studio, "coming late 2026") · Roblox · 2026-09-12 · https://devforum.roblox.com/t/rdc26-what-we-announced/4865880
+- New Default Movement (motion matching + root motion for avatars, "coming early 2027") · Roblox · 2026-09-12 · https://devforum.roblox.com/t/rdc26-what-we-announced/4865880
+- Silhouette-preserving Layered Clothing ("coming early 2027") · Roblox · 2026-09-12 · https://devforum.roblox.com/t/rdc26-what-we-announced/4865880
+
+Near-misses: PS5 September system update defaulting-on the already-tracked upgraded-PSSR feature for PS5 Pro (not a new capability; no clean PlayStation Blog primary source for the September change itself) · MetaHuman Creator web app discontinuation notice (deprecation, not a shipped feature) · ByteDance real-time 3D world model (trade-press only, no primary source, expected ~October 2026) · Tencent Hunyuan 3D (no September-dated primary release found) · Kuaishou Kling (no September-dated primary release found) · Unity (only off-topic Hub bug-fix notes in window; Unity 7 roadmap is outside the 7-day light-check window and would be announced-only regardless).
+
+Verification: the new item and every previously reported item were checked against their primary source (product page, changelog, official blog, or cloud console catalog); this run's light check covered NVIDIA Developer Blog/GeForce news, Unreal Engine news & forums, Unity blog & release notes, Roblox newsroom & DevForum, Adobe blog, Tencent Hunyuan, ByteDance Seed, Alibaba Cloud Model Studio/Bailian, Kuaishou Kling, and the PlayStation Blog.

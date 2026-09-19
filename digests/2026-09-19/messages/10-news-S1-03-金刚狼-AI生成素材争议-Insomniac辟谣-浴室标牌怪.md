@@ -1,0 +1,12 @@
+**[新闻 3] 《金刚狼》AI生成素材争议：Insomniac辟谣，浴室标牌怪异画面实为UV贴图错误**
+- **日期：** 2026-09-18
+- **来源链接：** <https://kotaku.com/insomniac-confirms-wolverine-doesnt-contain-ai-generated-assets-after-a-weird-looking-sign-goes-viral-2000735775>
+- **核心事实（发生了什么）：**
+  - PS5独占游戏《金刚狼》（Insomniac Games开发，9月15日全球发售，报道称开发预算约3亿美元）中一处浴室标牌因人物肢体扭曲拼接，在社交媒体引发热议，被质疑是AI生成素材。
+  - TikTok账号@smoothestmango的相关视频播放量超过70万次；Twitter账号「RockSolid」质疑Insomniac在这款3亿美元游戏中使用AI的帖子获超31.5万次浏览。
+  - Insomniac社区与市场总监James Stevenson于9月18日公开回应：「不是。这是一个UV贴图bug，我们即将推出修复。《金刚狼》中没有任何AI生成的素材。」
+  - 文章分析称，该标牌在不同角度呈现不同扭曲效果，符合UV贴图渲染错误的技术特征，而非AI生成。
+- **背景与起因（为什么会发生）：**
+  - 该事件发生在2026年9月一系列AI生成争议事件密集出现的背景下，包括Level-5宣传片AI风波、《塞尔达传说》系列相关工作室AI原型测试争议、《时之笛》PC移植组承认多年使用AI辅助编程引发的「氛围编程」争议等，玩家对任何视觉瑕疵均高度敏感并倾向归因于AI。
+- **结果与进展（已经产生了什么结果）：**
+  - Insomniac已承诺修复该UV贴图bug；截至报道时未见工作室就整体AI使用政策发表进一步声明。

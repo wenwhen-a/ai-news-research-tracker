@@ -1,0 +1,13 @@
+**[新闻 2] Nexon新作《Pareidolia》东京电玩展亮相：端侧AI语音识别让玩家直接与NPC对话**
+- **日期：** 2026-09-19
+- **来源链接：** <https://en.sedaily.com/technology/2026/09/19/ai-takes-center-stage-at-tokyo-game-show-2026> （另见 <https://www.invenglobal.com/articles/26105/nexon-games-unveils-fareidolia-playable-demo-at-tgs-2026> ；<https://www.digitaltoday.co.kr/en/view/104737/nexon-games-to-debut-pareidolia-playable-build-at-tokyo-game-show-2026> ）
+- **核心事实（发生了什么）：**
+  - Nexon Games在东京电玩展2026（9月17日-21日，幕张展览馆）上首次公开新作《Pareidolia》（原Project RX，曾用名Fareidolia）的可试玩版本。
+  - 该演示搭载由Nexon旗下IO Division自研的AI语音识别技术，完全在设备端（on-device）运行，不经过服务器。
+  - 玩家可用语音直接与游戏中被称为「Mates」的AI角色对话或召唤，而非依赖文字菜单，官方强调这不是机械式的语音转写+生成回复，而是营造在设定对话情境内的自然对话感。
+  - 试玩内容为玩家操控三人小队（Minie、Ohana、Shami）在因异常现象变成地下城的黄昏大厅（Tasogare Hall）中探索战斗。
+- **背景与起因（为什么会发生）：**
+  - 报道发布正值东京电玩展2026将AI置于游戏开发与玩家体验核心位置的背景下，展会首设「AI技术馆」。
+  - 此前9月10日已有报道称Nexon在其手游《马比诺基》上试点接入Claude Code等外部AI代理，显示该公司正在开发工具与玩家端功能两个维度同步推进AI应用。
+- **结果与进展（已经产生了什么结果）：**
+  - 目前信息仅限于东京电玩展媒体试玩演示，游戏尚未公布具体发售日期。

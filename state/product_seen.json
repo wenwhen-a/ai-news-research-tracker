@@ -126,5 +126,21 @@
   "first_seen": "2026-09-17",
   "release_date": "2026-09-11",
   "summary": "Roblox announced Scene Generator, which will power prompt-to-scene functionality across both Build and Studio, letting creators turn a text prompt and reference image into a fully functional layout to refine in Studio."
+ },
+ "https://help.aliyun.com/zh/model-studio/newly-released-models": {
+  "name": "HappyOyster 1.0 \"Adventure\" mode (happyoyster-1.0-adventure) via Alibaba Cloud Model Studio Open API",
+  "company": "Alibaba (ATH Innovation Business Group / Bailian)",
+  "tier": "GA",
+  "first_seen": "2026-09-19",
+  "release_date": "2026-09-17",
+  "summary": "Alibaba's Bailian (Model Studio) \"newly released models\" catalog added happyoyster-1.0-adventure, exposing the Adventure/world-exploration mode of the HappyOyster real-time interactive world model as a standalone, priced Open API endpoint, distinct from the consumer happyoyster.cn site and from the happyoyster-1.0-directing/-acting endpoints. Alibaba Cloud documentation lists per-call/per-second pricing (~$0.007067 per World Creation call, ~$0.028267 per second of World Experience at 480p)."
+ },
+ "https://devforum.roblox.com/t/rdc26-what-we-announced/4865880": {
+  "name": "RDC 2026 roadmap items — NPC Dynamic Behavior, New Default Movement, Silhouette-preserving Layered Clothing (character animation)",
+  "company": "Roblox",
+  "tier": "Announced only",
+  "first_seen": "2026-09-19",
+  "release_date": "2026-09-12",
+  "summary": "At RDC 2026, Roblox previewed NPC Dynamic Behavior (\"populate games with dynamic NPCs through prompts in Studio,\" coming late 2026), New Default Movement (motion matching + root motion for avatars, coming early 2027), and Silhouette-preserving Layered Clothing (coming early 2027), per the official devforum recap."
  }
 }
