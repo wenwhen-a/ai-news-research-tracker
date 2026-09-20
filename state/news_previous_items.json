@@ -1061,5 +1061,152 @@
   "date": "2026-09-18",
   "section": 3,
   "posted": "2026-09-19"
+ },
+ {
+  "title": "AI编程助手Claude与GPT-6 Astra合力将NVIDIA DLSS 5神经渲染移植到Intel集成显卡",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-vibe-codes-dlss-5-onto-intel-arc-140t-integrated-graphics-run-neural-rendering-in-360p-at-10-frames-per-second",
+  "date": "2026-09-18",
+  "section": 1,
+  "posted": "2026-09-20"
+ },
+ {
+  "title": "玩家打造\"UNCANNY\"实时神经重制引擎，借助DLSS 5为经典与现代游戏画面\"重制\"",
+  "url": "https://wccftech.com/nvidia-dlss-5-neural-rendering-uncanny-remastering-engine/",
+  "date": "2026-09-16",
+  "section": 1,
+  "posted": "2026-09-20"
+ },
+ {
+  "title": "更新】对比调查：日本游戏开发者积极拥抱AI（85.8%使用率），北美同行仍持怀疑态度",
+  "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
+  "date": "2026-09-18",
+  "section": 2,
+  "posted": "2026-09-20"
+ },
+ {
+  "title": "玩家在浏览器中跑通NVIDIA DLSS 5神经渲染，兼容macOS及非NVIDIA显卡",
+  "url": "https://www.tomshardware.com/pc-components/gpus/modder-gets-nvidias-dlss-5-working-in-a-web-browser-using-webgpu-147mb-browser-port-runs-on-non-nvidia-gpus-and-macos-but-takes-two-seconds-per-render",
+  "date": "2026-09-18",
+  "section": 2,
+  "posted": "2026-09-20"
+ },
+ {
+  "title": "模组作者为《黑暗之魂3》打造路径追踪+DLSS 5神经渲染MOD，画质直逼官方重制",
+  "url": "https://wccftech.com/fromsoftwares-dark-souls-3-next-gen-path-tracing-nvidia-dlss-5/",
+  "date": "2026-09-18",
+  "section": 2,
+  "posted": "2026-09-20"
+ },
+ {
+  "title": "《绯红沙漠》2.03.00号更新加入NVIDIA DLSS光线重建优化",
+  "url": "https://wccftech.com/pearl-abyss-sharpens-crimson-desert-ray-tracing-patch-2-03-00/",
+  "date": "2026-09-18",
+  "section": 2,
+  "posted": "2026-09-20"
+ },
+ {
+  "title": "YouTuber借助\"氛围编程\"AI工具破解笔记本RTX 5090功率墙，性能最高提升41%",
+  "url": "https://wccftech.com/ai-assisted-mod-unlocks-rtx-5090-laptop-250w-power-limit-41-percent-boost/",
+  "date": "2026-09-17",
+  "section": 2,
+  "posted": "2026-09-20"
+ },
+ {
+  "title": "Krafton新作《PUBG: DED.NET》创意总监：AI只是\"杠杆\"工具，最终画面仍由人工绘制",
+  "url": "https://wccftech.com/pubg-ded-net-interview-ai-placeholder-art-replaced/",
+  "date": "2026-09-14",
+  "section": 2,
+  "posted": "2026-09-20"
+ },
+ {
+  "title": "《最终幻想14》修订同人周边守则，明确禁止使用AI生成素材制作实体商品",
+  "url": "https://automaton-media.com/en/news/final-fantasy-14-relaxes-guidelines-for-non-commercial-fan-made-merch-new-rules-prohibit-use-of-generative-ai-and-3d-printing/",
+  "date": "2026-09-18",
+  "section": 2,
+  "posted": "2026-09-20"
+ },
+ {
+  "title": "Embark宣布《THE FINALS》10月20日迎来重大版本「新篇章」",
+  "url": "https://insider-gaming.com/the-finals-new-chapter-october-20/",
+  "date": "2026-09-19",
+  "section": 3,
+  "posted": "2026-09-20"
+ },
+ {
+  "title": "《最后生还者》联合导演布鲁斯·斯特雷利为拿《战神：劳菲》举例批评3A创新不足致歉",
+  "url": "https://www.videogameschronicle.com/news/the-last-of-us-director-apologises-to-god-of-war-laufey-team-for-citing-it-while-saying-aaa-experiences-are-boring/",
+  "date": "2026-09-19",
+  "section": 3,
+  "posted": "2026-09-20"
+ },
+ {
+  "title": "《漫威金刚狼》推出热更新，调低引发争议的「气味追踪」视觉特效强度",
+  "url": "https://insider-gaming.com/marvels-wolverine-hotfix-scent-trail-visuals/",
+  "date": "2026-09-19",
+  "section": 3,
+  "posted": "2026-09-20"
+ },
+ {
+  "title": "《女神异闻录4：Revival》官宣新增配音演员，重塑刑警戸倉了太郎角色",
+  "url": "https://www.animenewsnetwork.com/news/2026-09-20/persona-4-revival-game-recasts-ryotaro-dojima/.242017",
+  "date": "2026-09-20",
+  "section": 3,
+  "posted": "2026-09-20"
+ },
+ {
+  "title": "东京电玩展2026「Future Division」游戏大奖十强揭晓，《最终幻想7：启示录》等在列",
+  "url": "https://www.invenglobal.com/articles/26262/10-new-titles-at-tgs-japan-game-awards-future-division-ceremony-held",
+  "date": "2026-09-20",
+  "section": 3,
+  "posted": "2026-09-20"
+ },
+ {
+  "title": "小岛秀夫回应彭博社报道：索尼曾通过一通Zoom通话取消《PHYSINT》，但双方并无嫌隙",
+  "url": "https://kotaku.com/hideo-kojima-says-sony-canceled-physint-over-a-zoom-call-and-he-still-doesnt-know-the-reason-why-2000735931",
+  "date": "2026-09-20",
+  "section": 3,
+  "posted": "2026-09-20"
+ },
+ {
+  "title": "《恶魔城：贝尔蒙特的诅咒》确认10月1日推出试玩Demo，10月15日正式发售",
+  "url": "https://www.videogameschronicle.com/news/a-demo-of-castlevania-belmonts-curse-has-been-officially-announced/",
+  "date": "2026-09-20",
+  "section": 3,
+  "posted": "2026-09-20"
+ },
+ {
+  "title": "《剑星》公布与《猎天使魔女》联动预告片，同步推出Switch 2试玩版",
+  "url": "https://www.gematsu.com/2026/09/stellar-blade-bayonetta-collaboration-vignette-trailer-switch-2-demo-now-available",
+  "date": "2026-09-20",
+  "section": 3,
+  "posted": "2026-09-20"
+ },
+ {
+  "title": "库洛游戏《鸣潮》3.7版本「棱镜幻象，心之微光」确认9月30日上线",
+  "url": "https://www.gematsu.com/2026/09/wuthering-waves-version-3-7-update-prisms-illusion-hearts-illumination-launches-september-30",
+  "date": "2026-09-19",
+  "section": 3,
+  "posted": "2026-09-20"
+ },
+ {
+  "title": "东京电玩展现场《GTA 6》周边商品遭黄牛疯狂炒卖，引发人群拥挤安全隐患",
+  "url": "https://kotaku.com/grand-theft-auto-6-t-shirts-and-more-cause-scalper-fueled-chaos-at-tokyo-game-show-2000735854",
+  "date": "2026-09-19",
+  "section": 3,
+  "posted": "2026-09-20"
+ },
+ {
+  "title": "据报道，YouTube频道Best Indie Games被指以高价「营销套餐」收割独立游戏开发者",
+  "url": "https://kotaku.com/youtube-channel-accused-of-taking-advantage-of-vulnerable-first-time-indie-developers-with-expensive-advertising-campaigns-2000735860",
+  "date": "2026-09-19",
+  "section": 3,
+  "posted": "2026-09-20"
+ },
+ {
+  "title": "东京电玩展2027举办日期确定：2027年9月16日至20日",
+  "url": "https://www.famitsu.com/article/202609/88719",
+  "date": "2026-09-19",
+  "section": 3,
+  "posted": "2026-09-20"
  }
 ]

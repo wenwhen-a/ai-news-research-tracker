@@ -1,0 +1,4 @@
+- **【库洛游戏《鸣潮》3.7版本「棱镜幻象，心之微光」确认9月30日上线】**（2026-09-19）— 库洛游戏确认《鸣潮》3.7版本"棱镜幻象，心之微光"将于9月30日正式上线。 <https://www.gematsu.com/2026/09/wuthering-waves-version-3-7-update-prisms-illusion-hearts-illumination-launches-september-30>
+- **【东京电玩展现场《GTA 6》周边商品遭黄牛疯狂炒卖，引发人群拥挤安全隐患】**（2026-09-19）— 东京电玩展现场《GTA 6》周边商品遭黄牛炒卖，导致人群拥挤引发安全隐患。 <https://kotaku.com/grand-theft-auto-6-t-shirts-and-more-cause-scalper-fueled-chaos-at-tokyo-game-show-2000735854>
+- **【据报道，YouTube频道Best Indie Games被指以高价「营销套餐」收割独立游戏开发者】**（2026-09-19）— 据报道，YouTube频道Best Indie Games被指向独立游戏开发者销售高价"营销套餐"。 <https://kotaku.com/youtube-channel-accused-of-taking-advantage-of-vulnerable-first-time-indie-developers-with-expensive-advertising-campaigns-2000735860>
+- **【东京电玩展2027举办日期确定：2027年9月16日至20日】**（2026-09-19）— 主办方确定东京电玩展2027将于2027年9月16日至20日举行。 <https://www.famitsu.com/article/202609/88719>

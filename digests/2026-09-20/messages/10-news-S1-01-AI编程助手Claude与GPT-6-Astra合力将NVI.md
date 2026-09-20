@@ -1,0 +1,14 @@
+**[新闻 1] AI编程助手Claude与GPT-6 Astra合力将NVIDIA DLSS 5神经渲染移植到Intel集成显卡**
+- **日期：** 2026-09-18
+- **来源链接：** <https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-vibe-codes-dlss-5-onto-intel-arc-140t-integrated-graphics-run-neural-rendering-in-360p-at-10-frames-per-second>
+- **核心事实（发生了什么）：**
+  - 开发者"Uzbekunknown"在GitHub发布名为"dlss-nr-on-intel"的项目，将NVIDIA DLSS 5神经渲染移植到Intel Arc 140V核心显卡（Lunar Lake平台的Core Ultra 7 256V）
+  - 项目完整重新实现了DLSS 5所使用的71模块U-Net神经网络，通过Vulkan的VK_KHR_cooperative_matrix扩展在Intel Xe2架构的XMX矩阵引擎上运行，采用FP16精度加FP32累加（因Xe2不支持FP8），并通过挂钩vkQueuePresentKHR将处理应用于经Vulkan呈现画面的程序
+  - 开发者表示代码主要由Anthropic的Claude与OpenAI的GPT-6 Astra完成，"AI提供了机器、二进制文件和方向，并做出了决策"，人类只负责监督协调；项目笔记中特意保留了AI在开发过程中犯下的错误，包括一个被虚构出来、实际并不存在的驱动程序缺陷
+  - 项目在《死或生5：最后一战》《铁拳7》《真人快打1》三款格斗游戏上完成了概念验证测试，画面效果与NVIDIA官方DLSS 5相近但风格有明显差异
+- **背景与起因（为什么会发生）：**
+  - 此前数周内，DLSS 5神经渲染已相继被移植到老款NVIDIA RTX 20/30系显卡以及AMD Radeon显卡上运行，此次是该趋势首次扩展到Intel硬件
+  - DLSS 5是NVIDIA今年推出的神经渲染技术，官方仅支持RTX 50系列GPU，因性能开销较大及渲染风格争议，持续在玩家与开发者社群中引发讨论
+- **结果与进展（已经产生了什么结果）：**
+  - 移植后性能极低：720p分辨率下仅约3-5帧/秒，640x360p下约10.5帧/秒，处理单帧1920x1080画面可能耗时数百毫秒，不具备实际可玩性，更多是概念验证
+  - 该项目表明AI编程代理已具备协助逆向工程、并在不同硬件厂商生态间复刻竞争对手专有神经网络渲染管线的能力，凸显神经渲染技术正加速向多硬件平台扩散

@@ -1,0 +1,9 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **【Embark宣布《THE FINALS》10月20日迎来重大版本「新篇章」】**（2026-09-19）— Embark Studios官方宣布免费射击游戏《THE FINALS》将于10月20日推出代号"新篇章"的重大版本更新。 <https://insider-gaming.com/the-finals-new-chapter-october-20/>
+- **【《最后生还者》联合导演布鲁斯·斯特雷利为拿《战神：劳菲》举例批评3A创新不足致歉】**（2026-09-19）— Bruce Straley此前以《战神：劳菲》为例批评3A游戏创新不足，随后公开道歉。 <https://www.videogameschronicle.com/news/the-last-of-us-director-apologises-to-god-of-war-laufey-team-for-citing-it-while-saying-aaa-experiences-are-boring/>
+- **【《漫威金刚狼》推出热更新，调低引发争议的「气味追踪」视觉特效强度】**（2026-09-19）— Insomniac Games为《漫威金刚狼》推出热更新，调低了此前引发玩家争议的"气味追踪"视觉特效强度。 <https://insider-gaming.com/marvels-wolverine-hotfix-scent-trail-visuals/>
+- **【《女神异闻录4：Revival》官宣新增配音演员，重塑刑警戸倉了太郎角色】**（2026-09-20）— Atlus公布《女神异闻录4：Revival》新增配音演员阵容，重塑刑警戸倉了太郎一角。 <https://www.animenewsnetwork.com/news/2026-09-20/persona-4-revival-game-recasts-ryotaro-dojima/.242017>
+- **【东京电玩展2026「Future Division」游戏大奖十强揭晓，《最终幻想7：启示录》等在列】**（2026-09-20）— 东京电玩展公布"Future Division"游戏大奖十强名单，《最终幻想7：启示录》等作品入围。 <https://www.invenglobal.com/articles/26262/10-new-titles-at-tgs-japan-game-awards-future-division-ceremony-held>
+- **【小岛秀夫回应彭博社报道：索尼曾通过一通Zoom通话取消《PHYSINT》，但双方并无嫌隙】**（2026-09-20）— 小岛秀夫就彭博社此前报道的《PHYSINT》被索尼通过Zoom通话取消一事发声，称双方并无嫌隙。 <https://kotaku.com/hideo-kojima-says-sony-canceled-physint-over-a-zoom-call-and-he-still-doesnt-know-the-reason-why-2000735931>
+- **【《恶魔城：贝尔蒙特的诅咒》确认10月1日推出试玩Demo，10月15日正式发售】**（2026-09-20）— 官方确认《恶魔城：贝尔蒙特的诅咒》将于10月1日推出试玩Demo，10月15日正式发售。 <https://www.videogameschronicle.com/news/a-demo-of-castlevania-belmonts-curse-has-been-officially-announced/>
+- **【《剑星》公布与《猎天使魔女》联动预告片，同步推出Switch 2试玩版】**（2026-09-20）— Shift Up公布《剑星》与《猎天使魔女》的联动预告片，同步推出Switch 2平台试玩版本。 <https://www.gematsu.com/2026/09/stellar-blade-bayonetta-collaboration-vignette-trailer-switch-2-demo-now-available>
