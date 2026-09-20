@@ -7570,5 +7570,256 @@
   "first_seen": "2026-09-18",
   "submitted": "2026-09-16",
   "title": "Skein theory and deformations"
+ },
+ "2609.20524": {
+  "status": "near-miss",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17",
+  "title": "S4R: Scaling for Rigid-Body Interpenetration Resolution"
+ },
+ "2609.20394": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.19750": {
+  "status": "near-miss",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17",
+  "title": "DELUGE: Decomposed Entropy-coded Live Unstructured Geometry Exchange for Real-time Particle Streaming"
+ },
+ "2609.19601": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.19872": {
+  "status": "qualified",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17",
+  "title": "PART: Learning 3D Part Assembly and Retrieval with Transformers",
+  "affiliation": "Tencent — Zhongyuan Liu, Jinxin Dong",
+  "url": "https://arxiv.org/abs/2609.19872",
+  "summary": "The paper presents PART, a unified transformer-based framework that reconstructs target 3D shapes by retrieving appropriate parts from a library and predicting their 6-DoF poses."
+ },
+ "2609.17770": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.17689": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.18554": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.18504": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.17682": {
+  "status": "qualified",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-15",
+  "title": "DSD: Learning Diverse and Reusable Motor Skills via Diffusion Skill Discovery",
+  "affiliation": "NVIDIA — Xue Bin Peng (also Simon Fraser University)",
+  "url": "https://arxiv.org/abs/2609.17682",
+  "summary": "DSD trains a diffusion model alongside a control policy to discover diverse, reusable motor skills for simulated characters by approximating entropy gradients over states, rather than relying on discriminator-based skill discovery."
+ },
+ "2609.16465": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.16385": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.16042": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.16024": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.16017": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.16014": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.15746": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.14971": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.14874": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.14729": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.14695": {
+  "status": "qualified",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-13",
+  "title": "Gaussian Process Implicit Surfaces as Participating Media: Realization-Free Rendering from Level-Crossing Statistics",
+  "affiliation": "NVIDIA — Eugene d'Eon; FLAG: borderline relevance (theoretical rendering research rather than a game-engine product feature, but squarely cs.GR/volumetric-rendering topic)",
+  "url": "https://arxiv.org/abs/2609.14695",
+  "summary": "The paper proposes a bidirectional conversion between Gaussian Process Implicit Surfaces (GPISes) and participating media (volumetric rendering primitives), enabling rendering of GPIS-modeled surfaces without sampling explicit geometric realizations."
+ },
+ "2609.13859": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.13707": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.13430": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.13348": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.15735": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.14353": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.14105": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.14089": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.13729": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.13269": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.13179": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.12306": {
+  "status": "near-miss",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17",
+  "title": "Grid-Free Monte Carlo for Time-Dependent Diffusion"
+ },
+ "2609.13135": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.20820": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.20776": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.20761": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.20709": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.20669": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.20819": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.20816": {
+  "status": "near-miss",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17",
+  "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing"
+ },
+ "2609.20673": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.20358": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.20323": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.20277": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.20056": {
+  "status": "screened-out",
+  "first_seen": "2026-09-20",
+  "submitted": "2026-09-17"
+ },
+ "2609.20744": {
+  "status": "near-miss",
+  "first_seen": "2026-09-20",
+  "title": "Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation"
  }
 }
