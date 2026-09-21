@@ -1,0 +1,5 @@
+**Announced only (not yet usable)**
+- Roblox "Prompt to Avatar" (text-to-compliant-avatar-mesh generator: R15+ rigs, layered clothing/modesty layers) · Roblox · announced 2026-09-11 at RDC 2026, planned for release "by the end of the year" · <https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play>
+- NVIDIA ACE-powered voice creature interactions in Aniimo (locally-hosted LLM) · NVIDIA/game partner · mentioned 2026-09-09, integration slated "early 2027" · <https://www.nvidia.com/en-us/geforce/news/wardogs-aniimo-007-first-light-path-tracing-geforce-game-ready-driver/>
+- Adreno Neural Fusion GPU (AI cores built into the GPU pipeline for the next flagship Snapdragon chip, with Unity/Unreal integration already built) · Qualcomm · detailed 2026-09-02, full unveil expected at Snapdragon Summit starting 2026-09-22 (just after window) · <https://9to5google.com/2026/09/02/qualcomm-details-adreno-neural-fusion-gpu-for-next-snapdragon-chip/> (secondary source — no dated Qualcomm primary blog post found)
+Excluded on review: 9 paper near-misses and product near-misses — details in the repository digest, not posted here.

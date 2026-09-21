@@ -3800,7 +3800,7 @@
  "2609.02306": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-02",
+  "submitted": "2026-09-17",
   "title": "Contact-Constrained Lower-Limb Joint-Offset Calibration for Humanoid Robots"
  },
  "2609.01840": {
@@ -7292,7 +7292,7 @@
  "2609.20649": {
   "status": "screened-out",
   "first_seen": "2026-09-18",
-  "submitted": "2026-09-17",
+  "submitted": "2026-09-18",
   "title": "DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation"
  },
  "2609.20604": {
@@ -7821,5 +7821,314 @@
   "status": "near-miss",
   "first_seen": "2026-09-20",
   "title": "Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation"
+ },
+ "2609.22055": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Benchmarking World Models for Continual Learning on Compositional Tasks"
+ },
+ "2609.21906": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Intervention Granularity Matters: Coherent Treatment Bundles in Counterfactual Simulation with Clinical World Models"
+ },
+ "2609.21787": {
+  "status": "near-miss",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Compact but Moving: Intervention-Relevant Geometry in Recurrent World Models"
+ },
+ "2609.21748": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "World Modeling in Transformers"
+ },
+ "2609.21740": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Sandwich-Residuals: Parameter-Efficient Test-time Adaptation of World Models"
+ },
+ "2609.21712": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "ZYT-World: A Real-Time Controllable World Model for Closed-Loop Autonomous-Driving Simulation"
+ },
+ "2609.21502": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Adaptive World Memory 3D Foundation Model for Scalable 3D Mapping, Localization, and Rendering"
+ },
+ "2609.21482": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Adaptive Rollout Truncation Based on Epistemic Uncertainty for Efficient Offline World Model Training"
+ },
+ "2609.21448": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Robotic Multiphase Interaction: Manipulating Coupled Liquid and Solid Dynamics with a World Model"
+ },
+ "2609.21371": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "RobotEQ-Video: A Video-Centric Benchmark for Social Proactive Intelligence with World-State Taxonomy"
+ },
+ "2609.21228": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-17",
+  "title": "FOCAL-VLA: Subtask-Guided Geometry Distillation and Implicit World Modeling for Vision-Language-Action Models"
+ },
+ "2609.21223": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-17",
+  "title": "SafeStage: Evaluating Safety Before, During, and After Vision-Language-Conditioned Robot Manipulation"
+ },
+ "2609.21155": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-17",
+  "title": "Same World, Different Knowledge: When Isolated Audits Misjudge World-Model Repairs"
+ },
+ "2609.20892": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-16",
+  "title": "WM-VS: Progress-Aligned World Models for Closed-Loop Visual Servoing"
+ },
+ "2602.18071": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "EgoPush: Egocentric Multi-Object Rearrangement for Mobile Robots via Constrained Teacher Observability"
+ },
+ "2609.21293": {
+  "status": "qualified",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "GameASG-Bench: Benchmarking Autonomous Software Generation for Game Development",
+  "affiliation": "Ant Group — Xiuhui Zhang, Yi Chen, Shusheng Xu, Fan Li, Huan Wang, Tongkai Yang, Binhang Yuan (co-affiliated with Beihang University and HKUST for two authors); FLAG: Ant Group is a borderline-listed organization (not on the core tracked list; kept and flagged per policy)",
+  "url": "https://arxiv.org/abs/2609.21293",
+  "summary": "The paper introduces GameASG-Bench, a benchmark for evaluating whether AI agents can autonomously generate complete, working browser-based games rather than just individual code components."
+ },
+ "2609.21706": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Faithful Neural Embeddings for 3D Exoplanet Climate Modeling"
+ },
+ "2605.09071": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Probability-Flow Distillation: Distribution Matching in Parameter Space"
+ },
+ "2609.21498": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "VoxelTTO: Voxel-Aligned Feed-Forward 3D Gaussian Splatting with Test-Time Optimization"
+ },
+ "2609.21347": {
+  "status": "qualified",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Cube-Splat: High-Fidelity 360° Gaussian Splatting SLAM via Cubemap Factorization and Adjoint-Consistent Pose Tracking",
+  "affiliation": "Ant Group — Xiangfei Guo, Hao Shi (co-affiliated with Zhejiang University; other authors are Zhejiang University only); FLAG: Ant Group is a borderline-listed organization (not on the core tracked list; kept and flagged per policy)",
+  "url": "https://arxiv.org/abs/2609.21347",
+  "summary": "The paper presents Cube-Splat, a 3D Gaussian Splatting SLAM system for 360° panoramic cameras, built to overcome the limited field of view of pinhole-camera SLAM pipelines that increases drift in large scenes."
+ },
+ "2609.21226": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-17",
+  "title": "AirSplan: Risk-Aware Motion Planning for Quadrotors in Cluttered 3D Gaussian Splats"
+ },
+ "2609.21112": {
+  "status": "near-miss",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-17",
+  "title": "Demonstration Synthesis from a Single Scan via Gaussian Splatting for Visuomotor Policy Learning (GaussianFactory)"
+ },
+ "2609.21516": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "2D GauSS-MI: Efficient Active Scene Reconstruction with Balanced Visual and Geometric Quality"
+ },
+ "2609.21176": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-17",
+  "title": "4DGS-Fixer: Generative Sparse-View 4D Gaussian Splatting with Iterative Refinement Guided by Video Diffusion Priors"
+ },
+ "2609.21391": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "WS-NeRF: A Mamba-Driven World-State-Aware Adaptive Deblurring Neural Radiance Field"
+ },
+ "2605.26880": {
+  "status": "near-miss",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "GScomp-QA: A Subjective Dataset for Quality Assessment of Compressed Gaussian Splatting"
+ },
+ "2504.15776": {
+  "status": "near-miss",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Refining Ground Truth Poses in Autonomous Driving Datasets via Neural Rendering"
+ },
+ "2609.21938": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Info3R: Information-Adaptive Test-Time Training for 3D Reconstruction"
+ },
+ "2609.21437": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Think Locally, Refine Globally for Memory-Efficient 3D Reconstruction"
+ },
+ "2609.21609": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Potential-Field Action Representation for Reinforcement Learning in Contact-Rich Manipulation"
+ },
+ "2609.21511": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "2nd Place Solution to the HANDS 2026 Workshop Challenge-Dexterous Grasp Motion Track: Single-Shot Trajectory Warping for Grasp Motion Generation"
+ },
+ "2604.23692": {
+  "status": "near-miss",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Personalizing Causal Audio-Driven Facial Motion via Dynamic Multi-modal Retrieval"
+ },
+ "2609.21909": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Beyond Kinematics: Benchmarking Simulation Fidelity for Muscle-Driven Imitation Learning"
+ },
+ "2609.21107": {
+  "status": "near-miss",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-17",
+  "title": "Learning Scene-Aware Humanoid Locomotion through 3D Clutter from Immersive Human Demonstrations (MTC)"
+ },
+ "2609.21100": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-17",
+  "title": "Dynamics-Induced Commitment in Learning-Based Robotic Penalty Kicks"
+ },
+ "2603.03279": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation"
+ },
+ "2609.21799": {
+  "status": "near-miss",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Comparing Hand and Controller Avatars with Hand Tracking and Controller-Based Interaction"
+ },
+ "2609.21576": {
+  "status": "qualified",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "GestureFAR: Streaming Co-Speech Gesture Generation with Flow Autoregression",
+  "affiliation": "Meta — one author (exact name-to-affiliation mapping not resolvable from the rendered HTML; the paper lists five institutions — University of Rochester, University of Tokyo, UC Santa Cruz, UCLA, Meta — against six authors without a clear footnote pairing in the fetched content)",
+  "url": "https://arxiv.org/abs/2609.21576",
+  "summary": "GestureFAR is a streaming co-speech gesture generation system that produces body motion for conversational agents in real time, using continuous (not discretized) motion latents to avoid the \"representation ceiling\" the authors say discrete tokenization imposes."
+ },
+ "2609.22064": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings"
+ },
+ "2609.21965": {
+  "status": "near-miss",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "The ecological collapse of color: photoreceptor number buys a geometric hue manifold"
+ },
+ "2609.21821": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Adaptive Uncertainty-Aware Modeling and Stochastic Radial Basis Function Predictive Control for Personalized Fluid Resuscitation"
+ },
+ "2609.21354": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Field Tracking of Insects Using a Stereoscopic Event-Based Camera Setup"
+ },
+ "2609.22034": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Analytic results on the massive three-loop form factors: gluonic contributions"
+ },
+ "2609.21897": {
+  "status": "near-miss",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Multi-Resolution Wire-Fencing for Efficient Path Sampling"
+ },
+ "2609.21771": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "An equivariant version of Gabber's lemma"
+ },
+ "2609.21588": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Transport statistics and thermoelectric performance of Hofstadters butterfly"
+ },
+ "2609.21578": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "A note on oscillons: non-negligible metric fluctuations during preheating"
+ },
+ "2609.21178": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-17",
+  "title": "OpenRoIS: A Community-Driven Open-Source Middleware Implementing the Robotic Interaction Service (RoIS) Framework for Physical Robots and Virtual Agents"
+ },
+ "2609.21121": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-17",
+  "title": "Two new proofs of Chui's Conjecture in Weighted Bergman Spaces"
+ },
+ "2410.20075": {
+  "status": "screened-out",
+  "first_seen": "2026-09-21",
+  "submitted": "2026-09-18",
+  "title": "Almost Sure Convergence of Networked Policy Gradient over Time-Varying Networks in Markov Potential Games"
  }
 }

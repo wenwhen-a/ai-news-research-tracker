@@ -1,0 +1,7 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **【索尼公布Blackpink成员Lisa主题限量版PS5 DualSense手柄】**（2026-09-21）— 索尼官方公布新款限量版PS5 DualSense手柄，以K-pop组合Blackpink成员Lisa为主题，预计下月发售。 <https://www.videogameschronicle.com/news/sony-officially-announces-a-new-limited-edition-ps5-dualsense-controller-based-on-k-pop-star-lisa/>
+- **【《最终幻想7：启示录》将加入自动升级功能以跳过练级】**（2026-09-21）— 据VGC报道，史克威尔艾尼克斯新作《最终幻想7：启示录》将提供角色自动升级选项，方便偏好剧情体验的玩家跳过练级环节。 <https://www.videogameschronicle.com/news/final-fantasy-revelation-will-let-players-automatically-raise-their-characters-level-to-skip-grinding/>
+- **【小岛制作组回应"转投Xbox"报道，呼吁玩家保持审慎态度】**（2026-09-20）— 小岛制作组公开回应此前关于其从PlayStation转向Xbox平台合作原因的报道，要求玩家和媒体对相关说法保持一定怀疑态度。 <https://www.videogameschronicle.com/news/kojima-productions-asks-players-to-treat-report-on-why-it-switched-from-playstation-to-xbox-with-a-dose-of-scepticism/>
+- **【东京电玩展2026四天吸引超25.7万人次到场】**（2026-09-20）— 东京电玩展2026在幕张展览馆举办四天，共吸引257,642人次现场参观，较去年263,101人次略有下降，1138家企业和机构参展。 <https://www.animenewsnetwork.com/news/2026-09-20/tokyo-game-show-2026-draws-257642-attendees/.242021>
+- **【卡普空公布《街头霸王6》与《名侦探光之美少女！》联动企划】**（2026-09-20）— 卡普空在东京电玩展2026舞台上公布《街头霸王6》与动画《名侦探光之美少女！》的联动企划，全4话原创联动剧情将于12月17日起在游戏内Battle Hub中配信。 <https://www.4gamer.net/games/635/G063504/20260920023/>
+- **【D3 Publisher公布《梦想俱乐部ZERO R+》，2027年发售】**（2026-09-20）— D3 Publisher在东京电玩展2026活动上公布恋爱模拟游戏《梦想俱乐部ZERO》移植新作《梦想俱乐部ZERO R+》，计划2027年发售，将新增host girl角色。 <https://automaton-media.com/articles/newsjp/20260920-468953/>
