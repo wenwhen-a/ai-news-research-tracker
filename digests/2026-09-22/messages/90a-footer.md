@@ -1,0 +1,5 @@
+**Announced only (not yet usable)**
+- Roblox Creator Roadmap 2026 Fall Update — announced items include an AI texture-generation tool, scene generation, motion matching, animation graph improvements, root motion, an Avatar FACS upgrade, and unified agentic permissions · Roblox · 2026-09-22 · <https://devforum.roblox.com/t/creator-roadmap-2026-fall-update/4880208>
+- HappyOyster Directing (happyoyster-1.0-directing) — world-model Open API, invite-only testing (邀测) · Alibaba (ATH Innovation Business Group / Bailian) — borderline unit, flagged per company gate · 2026-09-17 · <https://help.aliyun.com/zh/model-studio/newly-released-models>
+- HappyOyster Acting (happyoyster-1.0-acting) — character role-play/interaction model Open API, invite-only testing (邀测) · Alibaba (ATH Innovation Business Group / Bailian) — borderline unit, flagged per company gate · 2026-09-17 · <https://help.aliyun.com/zh/model-studio/newly-released-models>
+Excluded on review: 9 paper near-misses and product near-misses — details in the repository digest, not posted here.

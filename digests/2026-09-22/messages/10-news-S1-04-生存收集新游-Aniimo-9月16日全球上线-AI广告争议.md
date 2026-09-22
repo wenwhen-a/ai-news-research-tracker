@@ -1,0 +1,14 @@
+**[新闻 4] 生存收集新游《Aniimo》9月16日全球上线，AI广告争议阴影下首日突破10万同时在线**
+- **日期：** 2026-09-16
+- **来源链接：** <https://automaton-media.com/en/news/new-palworld-and-pokemon-like-free-to-play-creature-collector-aniimo-sees-over-100k-concurrent-steam-players-at-launch-despite-mixed-reviews/>
+- **核心事实（发生了什么）：**
+  - 开发商Pawprint Studio的免费多人生物收集类游戏《Aniimo》于9月16日在PC（Steam/Epic Games/官方启动器）、PlayStation 5、Xbox Series X|S同步上线，Android/iOS版将于9月23日推出。
+  - 据SteamDB数据，游戏上线3小时内Steam同时在线人数即突破10.17万，一度跻身平台热玩榜前十；此前全平台预注册人数已超过3000万。
+  - 游戏上线初期Steam评价为“褒贬不一”，超1000条评价中约50%好评，主要差评集中在氪金强度较高、玩法节奏偏慢及手柄适配问题。
+  - 今年7月，玩家发现Aniimo官方投放的Instagram/Facebook广告使用了AI生成的“真人”反应画面来展示游戏内容，与实际游戏效果不符；7月29日开发商公开致歉并下架相关广告。
+  - Pawprint Studio多次声明游戏内的生物设计、世界观与文本内容均为人工创作、未使用生成式AI，Steam商店页面也未标注“AI生成内容”，工作室同时承认在测试等环节使用了AI辅助工具。
+  - 开发商已宣布计划于2027年初为游戏加入基于NVIDIA ACE技术的AI语音互动功能，玩家届时可与伙伴生物进行语音对话，该功能为可选项，未包含在当前上线版本中。
+- **背景与起因（为什么会发生）：**
+  - 此前的AI广告风波曾让不少玩家对《Aniimo》正式发售的内容品质产生疑虑，担心其重蹈“AI换皮”游戏的覆辙。
+- **结果与进展（已经产生了什么结果）：**
+  - 尽管背负AI广告争议，《Aniimo》凭借核心玩法在上线初期仍取得亮眼的同时在线数据；其后续能否维持热度、以及计划中的AI语音功能是否会引发新一轮争议，仍有待观察。

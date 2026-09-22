@@ -1,0 +1,67 @@
+# Part B — Research → Product
+Window: last 90 days (2026-06-24 to 2026-09-22). Qualifying products: 27 (2 new, 25 previously reported, 0 flagged). Announced-only: 3. Open releases moved to Part A: 0.
+
+---
+## NVIDIA RTX Kit 2026.3 + ACE SDK update (RTX Character Rendering 1.4, RTX Neural Shading 1.4, RTX Mega Geometry 2.0, ACE Nemotron Speech 3.5 Streaming ASR, Qwen3 TTS)
+- **Company:** NVIDIA
+- **Status:** GA · **Released:** 2026-09-22 · **New**
+- **Surface:** engine
+- **Primary source:** https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/
+- **Underlying research:** "Random-Access Neural Compression of Material Textures" (Vaidyanathan et al., SIGGRAPH 2023 — research.nvidia.com/labs/rtr/neural_texture_compression/) underlies RTX Neural Texture Compression. No distinct traceable paper was found (within this check's search scope) for the other bundled updates: ACE Nemotron Speech 3.5 Streaming ASR, the Qwen3 TTS integration, RTX Character Rendering 1.4, RTX Neural Shading 1.4, or RTX Mega Geometry 2.0.
+- **Availability:** Available now: Nemotron Speech 3.5 Streaming ASR and Qwen3 TTS in NVIDIA ACE; RTX Kit 2026.3 components (RTX Character Rendering 1.4, RTX Dynamic Illumination 3.1, RTX Neural Shading 1.4, RTX Texture Filtering 1.3). RTX Neural Texture Compression is explicitly versioned 0.10 beta. RTX Mega Geometry 2.0 is open source on GitHub now, with integration "coming soon" to Gears of War: E-Day. The In-Game Inference SDK adds RTX Spark support as a Developer Preview (early access).
+
+**What shipped (≤3 sentences):** NVIDIA's developer blog (dated Sept 22, 2026) bundles new ACE speech models (Nemotron Speech 3.5 streaming ASR, Qwen3 TTS), a round of RTX Kit 2026.3 component updates, and RTX Mega Geometry 2.0, which adds streaming of continuous level-of-detail clusters for high-density meshes. NVIDIA frames this as the developer-facing update accompanying the already-launched DLSS 5 3D-Guided Neural Rendering.
+**What research it translates (≤3 sentences):** RTX Neural Texture Compression traces to NVIDIA's SIGGRAPH 2023 paper "Random-Access Neural Compression of Material Textures." No traceable paper was found for the ACE speech models or the other RTX Kit / Mega Geometry components in this check.
+**Practical significance (≤3 sentences):** NVIDIA states the new ACE speech models let developers add low-latency player-speech transcription and a fine-tunable NPC text-to-speech voice; it states RTX Mega Geometry 2.0 lets "high-density meshes" stream at continuous LOD, and names Gears of War: E-Day as an upcoming adopter of that feature.
+**Engineering details (≤3 sentences):** RTX Mega Geometry 2.0 is available now as open source on GitHub. RTX Kit 2026.3 components (Character Rendering, Dynamic Illumination, Neural Shading, Texture Filtering, Neural Texture Compression) are SDK plugins for game engines. The In-Game Inference SDK's RTX Spark support is a developer-preview integration; the SDK also gained Gemma4 integration into its GPT plugin, a Stable Diffusion plugin with sample code, and llama.cpp performance enhancements.
+**Limitation / caveats (≤3 sentences):** RTX Neural Texture Compression 0.10 is explicitly labeled beta. RTX Mega Geometry 2.0's flagship integration (Gears of War: E-Day) is described as "coming soon," i.e. not yet shipped in that title. The post gives no quantitative latency/quality numbers for the new ACE speech models.
+
+---
+## Roblox Studio — Tunable Collision Geometry (CollisionFidelity = Tunable)
+- **Company:** Roblox
+- **Status:** GA · **Released:** 2026-09-17 · **New**
+- **Surface:** studio tool
+- **Primary source:** https://devforum.roblox.com/t/collision-geometry-workflow-improvements-tunable-precision-and-better-visualizations/4878198
+- **Underlying research:** no traceable paper
+- **Availability:** Available now to all Roblox Studio users; non-breaking (opt-in per MeshPart via a new CollisionFidelity = Tunable setting); no waitlist, application, or beta flag mentioned in the post.
+
+**What shipped (≤3 sentences):** Roblox added a CollisionPrecision slider under a new CollisionFidelity = Tunable option, letting developers fine-tune the performance/precision tradeoff of mesh collision on a per-part basis, plus improved collision visualization (adjustable transparency, property-based filtering, automatic geometry preview).
+**What research it translates (≤3 sentences):** no traceable paper — Roblox frames this as an engine/tooling workflow improvement, not as based on a specific cited research paper.
+**Practical significance (≤3 sentences):** Roblox states the feature helps developers handle "meshes with thin components and complex details" that previously struggled under the old fixed collision-fidelity presets, and that intelligent per-mesh-size defaults reduce the amount of manual tuning needed.
+**Engineering details (≤3 sentences):** Applies per MeshPart inside Roblox Studio; existing games and meshes are unaffected unless a developer explicitly switches a part's CollisionFidelity to Tunable.
+**Limitation / caveats (≤3 sentences):** Roblox acknowledges complex meshes (large vertex/face counts) can see up to ~5-second initial processing delays in Studio before the slider becomes smooth to use (cached afterward); the company is still soliciting developer feedback on how resizing should affect existing tuned collision geometry.
+
+### Previously reported (still in window)
+- HappyOyster 1.0 "Adventure" mode (happyoyster-1.0-adventure) via Alibaba Cloud Model Studio Open API · Alibaba (ATH Innovation Business Group / Bailian) · GA · Released 2026-09-17 · https://help.aliyun.com/zh/model-studio/newly-released-models
+- Fortnite / UEFN v42.20 · Epic Games · GA · Released 2026-09-17 · https://dev.epicgames.com/documentation/fortnite/42-20-fortnite-ecosystem-updates-and-release-notes?lang=en-US
+- Isaac Sim 6.1 (General Availability) · NVIDIA · GA · Released 2026-09-15 · https://forums.developer.nvidia.com/t/isaac-sim-6-1-general-availability/383280
+- GeForce Game Ready Driver — Path Tracing + DLSS 4.5 Ray Reconstruction in 007 First Light (plus WARDOGS, Aniimo) · NVIDIA · GA · Released 2026-09-15 · https://www.nvidia.com/en-us/geforce/news/wardogs-aniimo-007-first-light-path-tracing-geforce-game-ready-driver/
+- 007 First Light — Path Tracing & DLSS 4.5 Ray Reconstruction Update · NVIDIA (feature shipped in IO Interactive's 007 First Light) · GA · Released 2026-09-15 · https://www.nvidia.com/en-us/geforce/news/007-first-light-path-tracing-dlss-4-5-ray-reconstruction-update-out-now/
+- RealityKit Gaussian Splatting support (visionOS 27) · Apple · GA · Released 2026-09-14 · https://developer.apple.com/visionos/whats-new/
+- Reality Composer Pro 3 — AI-assisted 3D asset generation ("Reality Composer Pro Assistant") · Apple · GA · Released 2026-09-14 · https://developer.apple.com/reality-composer-pro/
+- RDC 2026 roadmap items — NPC Dynamic Behavior, New Default Movement, Silhouette-preserving Layered Clothing (character animation) · Roblox · Announced only · Released 2026-09-12 · https://devforum.roblox.com/t/rdc26-what-we-announced/4865880
+- Roblox Scene Generator (prompt-to-scene for Build & Studio) · Roblox · Announced only · Released 2026-09-11 · https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play
+- NVIDIA DLSS 5 with 3D-Guided Neural Rendering (in NBA 2K27) · NVIDIA · GA · Released 2026-09-03 · https://www.nvidia.com/en-us/geforce/news/nba-2k27-dlss-5-3d-guided-neural-rendering-geforce-game-ready-driver/
+- Unity 6.2 (6000.6.0f1) · Unity · GA · Released 2026-08-31 · https://unity.com/releases/editor/whats-new/6000.6.0f1
+- NVIDIA DLSS 4.5 Ray Reconstruction, 2nd-generation transformer model (early access) · NVIDIA · Public beta/preview (NVIDIA App early access) · Released 2026-08-25 · https://www.nvidia.com/en-us/geforce/news/gamescom-2026-dlss-4-5-ray-reconstruction-release-announcements-trailers/
+- Omniverse Kit 110.3 · NVIDIA · GA · Released 2026-08-16 · https://docs.omniverse.nvidia.com/dev-guide/latest/release-notes/110_3_highlights.html
+- Markerless Motion Capture (EA Create Capture) · Electronic Arts · GA (internal studio tool) · Released 2026-08-07 · https://www.ea.com/news/ea-markerless-motion-capture
+- Wan 3.0 (通义万相 3.0) · Alibaba · Public beta/preview · Released 2026-08-06 · https://news.qq.com/rain/a/20260806A0E2YY00
+- Seedance 2.5 · ByteDance · GA (consumer surface); API coming soon · Released 2026-07-31 · https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5
+- Roblox Build — mobile AI creation tab (public alpha, New Zealand) · Roblox · Public beta/preview (public alpha) · Released 2026-07-28 · https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox
+- Autodesk 3ds Max 2027.2 — native 3D Gaussian Splat support · Autodesk · GA · Released 2026-07-22 · https://help.autodesk.com/cloudhelp/2027/ENU/3dsMax-WhatsNew/files/GUID-D11D1F34-C9FF-4981-AAE3-5A969986FCF4.html
+- Adobe Substance 3D Painter 12.1, Designer 16 and Sampler update (OpenPBR) · Adobe · GA · Released 2026-07-21 · https://blog.adobe.com/en/publish/2026/07/21/adobe-substance-3d-unveils-new-innovations-deliver-faster-workflows-openpbr-everywhere-digital-twins-scale
+- Fortnite / UEFN v41.20 — Control Rig for Sidekicks, in-world UMG widgets, LLM-powered NPCs · Epic Games · GA · Released 2026-07-16 · https://dev.epicgames.com/documentation/fortnite/41-20-fortnite-ecosystem-updates-and-release-notes-in-fortnite
+- ABot-World (ABot-World-0 / ABot-3DWorld-0) · Alibaba (AMAP/高德 CV Lab, subsidiary) · Public preview · Released 2026-07-16 · https://finance.yahoo.com/technology/ai/articles/alibabas-amap-unveils-abot-world-072100723.html
+- Animation Graphs — full release (Roblox Studio) · Roblox · GA · Released 2026-07-15 · https://devforum.roblox.com/t/full-release-animation-graphs-create-complex-character-motion-visually/4739840
+- Upgraded PSSR in Doom: The Dark Ages on PS5 Pro (Free Update 4) · Sony Interactive Entertainment (platform feature; post authored by id Software's Billy Khan on the PlayStation Blog) · GA · Released 2026-07-07 · https://blog.playstation.com/2026/06/24/upgraded-pssr-comes-to-doom-the-dark-ages-on-ps5-pro/
+- 《逆水寒：新世界》 (Justice Online: New World) character rendering upgrade · NetEase · GA · Released 2026-06-26 · https://h.163.com/news/official/20260612/37231_1304115.html
+- AMD FSR SDK 2.3 — FSR Upscaling 4.1.1 on RDNA 3 · AMD · GA · Released 2026-06-24 · https://gpuopen.com/learn/amd-fsr-sdk-2-3-blog/
+
+### Announced only (not yet usable)
+- Roblox Creator Roadmap 2026 Fall Update — announced items include an AI texture-generation tool, scene generation, motion matching, animation graph improvements, root motion, an Avatar FACS upgrade, and unified agentic permissions · Roblox · 2026-09-22 · https://devforum.roblox.com/t/creator-roadmap-2026-fall-update/4880208
+- HappyOyster Directing (happyoyster-1.0-directing) — world-model Open API, invite-only testing (邀测) · Alibaba (ATH Innovation Business Group / Bailian) — borderline unit, flagged per company gate · 2026-09-17 · https://help.aliyun.com/zh/model-studio/newly-released-models
+- HappyOyster Acting (happyoyster-1.0-acting) — character role-play/interaction model Open API, invite-only testing (邀测) · Alibaba (ATH Innovation Business Group / Bailian) — borderline unit, flagged per company gate · 2026-09-17 · https://help.aliyun.com/zh/model-studio/newly-released-models
+
+Near-misses: Kling AI "Motion Control" / native 4K video launch · klingai.com's homepage lists these as recent release-history highlights but the /release-note page content did not render specific dates via WebFetch, so it could not be confirmed whether either falls inside the Sept 15-22, 2026 window; Unreal Engine news/forum announcements · unrealengine.com/en-US/news and unrealengine.com/en-US/blog returned HTTP 403, and forums.unrealengine.com's announcements category returned 404, via WebFetch; a general forum-latest check showed no evidence of a new engine version this week (users still referencing UE 5.8.2), but the official announcements surface could not be directly checked this run; Tencent Hunyuan / Hunyuan 3D Studio · hunyuan.tencent.com, hunyuan.tencent.com/modelSquare and 3d.hunyuan.tencent.com are JS-rendered single-page apps that returned no fetchable article content via WebFetch (WebSearch budget was exhausted for this session); could not verify any new items in the window from these primary pages; ByteDance Volcano Engine model catalog · console.volcengine.com and volcengine.com/product/ark pages are JS-rendered and returned no fetchable content via WebFetch; seed.bytedance.com/en/ blog itself showed nothing newer than an Aug 5, 2026 post, so no Volcano Engine model-catalog additions could be confirmed for this window; Adobe blog / research.adobe.com · blog.adobe.com's fetched homepage view and research.adobe.com/news's fetched listing did not expose publish dates for the visible posts, so it could not be confirmed whether any Substance 3D / Firefly 3D item falls inside Sept 15-22, 2026
+Verification: every listed product was checked against its primary source (release date, releasing company, on-topic status, and status tier); the light daily check covered ~10 primary surfaces for items from the last 7 days, deferring to Monday's full sweep for a complete 90-day pass.

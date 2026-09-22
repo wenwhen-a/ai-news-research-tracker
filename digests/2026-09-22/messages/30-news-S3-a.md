@@ -1,0 +1,9 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **[The Information：Xbox本周将启动第二轮大规模裁员，多个工作室或被整合]**（2026-09-22）— 据The Information援引知情人士报道，微软本周将对Xbox部门实施新一轮数百人规模的裁员，并可能整合Xbox Game Studios、Bethesda、Activision和Blizzard旗下的部分工作室；此前一轮裁员已完成1600人，全年计划裁员3200人。 <https://www.videogameschronicle.com/news/xbox-will-reportedly-consolidate-several-studios-in-new-major-wave-of-layoffs/>
+- **[两笔收购均告吹，微软拟关闭《地狱之刃》开发商Ninja Theory]**（2026-09-22）— Xbox内容业务负责人Matt Booty9月22日表示，由于两笔潜在收购交易先后告吹，微软已就正式关闭Ninja Theory工作室启动员工协商程序；该工作室此前随其他三家工作室一同被挂牌出售。 <https://www.gamespot.com/articles/ninja-theory-now-expected-to-close-as-deal-falls-apart/>
+- **[2026爱知·名古屋亚运会电竞项目9月22日正式开赛]**（2026-09-22）— 第20届亚运会电子竞技项目于9月22日在日本爱知·名古屋正式开赛，《王者荣耀》《英雄联盟》《和平精英》等11个小项入选，其中《英雄联盟》决赛阶段将于9月29日至10月2日进行。 <https://news.qq.com/rain/a/20260921A080AR00>
+- **[Embracer Group宣布获得20亿瑞典克朗新循环信贷额度]**（2026-09-22）— 瑞典游戏集团Embracer Group9月22日发布公告，宣布获得一笔新的20亿瑞典克朗（约合1.9亿美元）循环信贷额度，为公司提供额外财务弹性。 <https://embracer.com/news-media/pressreleases/>
+- **[《沙丘：觉醒》9月22日正式登陆PS5、Xbox主机并同步上线单人模式]**（2026-09-22）— 开放世界生存游戏《沙丘：觉醒》（Dune: Awakening）9月22日正式发售PS5和Xbox Series X|S主机版本，并同步推出单人模式，主机版同日登陆Xbox Game Pass；该作此前已于2025年6月在PC平台上线。 <https://duneawakening.com/news/console-date-and-single-player-announced/>
+- **[Roblox股价单日大涨7.2%，周末同时在线用户增至2870万]**（2026-09-21）— 9月21日Roblox股价上涨7.2%至51.25美元，市场关注其周末同时在线用户数从2510万增至2870万（增长约14.3%），摩根大通同日重申对该股“中性”评级及40美元目标价。 <https://www.ad-hoc-news.de/boerse/news/nebenwerte/roblox-stock-gains-7-2-percent-as-engagement-data-lift-shares/70152986>
+- **[Unity Software股价9月21日上涨4.4%]**（2026-09-21）— 游戏引擎公司Unity Software股价9月21日上涨4.4%至43.21美元，年内累计跌幅收窄至2.2%，市场对其估值仍存分歧。 <https://www.gurufocus.com/news/9090635/unity-software-inc-u-stock-up-44-but-gf-value-says-overvalued-gf-score-66100>
+- **[腾讯控股9月21日耗资1.01亿港元回购23.5万股]**（2026-09-21）— 腾讯控股9月21日斥资约1.01亿港元回购23.5万股，回购价格区间为423.2至434.2港元/股，为公司持续股份回购计划的一部分。 <http://stock.10jqka.com.cn/20260921/c680133367.shtml>

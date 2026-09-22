@@ -1,0 +1,13 @@
+**[新闻 1] NeoGeo AES+复刻主机因“AI芯片荒”险遭腰斩，被迫重新设计并延期近一年**
+- **日期：** 2026-09-22
+- **来源链接：** <https://www.videogameschronicle.com/news/we-were-almost-dead-neogeo-boss-reveals-forced-redesign-behind-aes-delay/>
+- **核心事实（发生了什么）：**
+  - 发行商Plaion硬件与软件总监Ben Jones透露，复刻主机NeoGeo AES+的开发一度因全球芯片短缺“几乎胎死腹中”（“We were almost dead”）。
+  - 由AI数据中心需求推高的芯片荒导致项目所需的并行（Parallel）NOR闪存芯片“基本无法采购”，Jones为此专程赴台湾寻求芯片供应，仍被告知需等待六个月才有机会被纳入采购名单。
+  - 工程团队被迫重新设计卡带ASIC芯片方案，改用供应相对充裕的串行（Serial）NOR闪存，并通过芯片将串行信号转换为原版NeoGeo所需的并行信号，才避免了项目被取消。
+  - NeoGeo AES+原计划2026年初发售，因芯片问题延期约10个月，新发售日期推迟至2027年9月；东京电玩展上另公布了5款新增适配游戏，目前已公布可玩游戏达15款。
+- **背景与起因（为什么会发生）：**
+  - Ben Jones表示：“如果当时没有找到闪存芯片的解决方案，我认为项目就彻底完了（If you hadn't had the solution for the flash, I think everything was dead）。”
+  - 该案例反映出AI算力军备竞赛对存储芯片供应链造成的外溢效应，正在冲击与AI功能本身并不直接相关的传统游戏硬件复刻及周边产业。
+- **结果与进展（已经产生了什么结果）：**
+  - NeoGeo AES+项目最终得以保留，但发售时间被迫推迟近一年，成为AI产业链对游戏硬件生产造成实质性冲击的具体案例。
