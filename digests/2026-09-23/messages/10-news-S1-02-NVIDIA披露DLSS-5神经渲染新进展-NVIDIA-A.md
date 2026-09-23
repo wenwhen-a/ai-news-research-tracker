@@ -1,0 +1,11 @@
+**[新闻 2] NVIDIA披露DLSS 5神经渲染新进展、NVIDIA ACE语音AI及RTX Kit开发者更新**
+- **日期：** 2026-09-22
+- **来源链接：** <https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/>
+- **核心事实（发生了什么）：**
+  - NVIDIA在开发者博客中介绍了DLSS 5的"3D引导神经渲染"（3D-Guided Neural Rendering）功能，该功能已在《NBA 2K27》中上线，可在GeForce RTX 50系列GPU上本地运行，最高支持4K，并为开发者新增了模型选择与语义遮罩等控制项。
+  - NVIDIA ACE新增两项语音AI能力：一是拥有6亿参数的Nemotron Speech 3.5流式语音识别模型；二是集成Qwen3 TTS，用于生成游戏内语音AI。
+  - RTX Kit更新包括新增支持RTX Spark、Gemma4与Stable Diffusion的"游戏内推理SDK"（In-Game Inferencing SDK），以及面向高密度网格流式传输的RTX Mega Geometry 2.0，后者已宣布将用于《战争机器：E日》（Gears of War: E-Day）。
+- **背景与起因（为什么会发生）：**
+  - 该更新是NVIDIA围绕已上线的DLSS 5 3D引导神经渲染功能，为开发者社区发布的配套技术说明与工具升级，旨在推动更多工作室采用其神经渲染与语音AI技术栈。
+- **结果与进展（已经产生了什么结果）：**
+  - DLSS 5 3D引导神经渲染与Nemotron Speech 3.5流式语音识别、Qwen3 TTS已可在NVIDIA ACE中使用；RTX Mega Geometry 2.0已在GitHub开源，但其在《战争机器：E日》中的实际集成仍为"即将推出"，尚未正式落地。

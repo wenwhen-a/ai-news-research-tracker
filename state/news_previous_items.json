@@ -80,19 +80,9 @@
   "date": "2026-09-09"
  },
  {
-  "title": "调查：欧洲游戏开发者更担忧AI迫使加快工作节奏而非丢失工作",
-  "url": "https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job",
-  "date": "2026-09-08"
- },
- {
   "title": "Saber Interactive创意总监：\"我们从未用AI替代过任何人\"",
   "url": "https://www.gamesindustry.biz/saber-interactives-chief-creative-officer-says-weve-never-replaced-anybody-with-ai",
   "date": "2026-09-10"
- },
- {
-  "title": "评测：《NBA 2K27》DLSS 5首秀表现优于预期 但性能代价高昂",
-  "url": "https://www.rockpapershotgun.com/nba-2k27-gives-dlss-5-a-more-faithful-looking-game-debut-than-feared-provided-its-running-on-the-lebron-of-gpus",
-  "date": "2026-09-08"
  },
  {
   "title": "Shift Up技术总监回应《剑星》AI音乐视频争议：会认真对待玩家不满",
@@ -113,11 +103,6 @@
   "title": "《天国：拯救2》导演力挺DLSS 5：能还原被引擎灯光掩盖的模型细节",
   "url": "https://wccftech.com/daniel-vavra-nvidia-dlss-5-kcd2-aesthetics/",
   "date": "2026-09-14"
- },
- {
-  "title": "Arm推出移动端AI画面重建技术 强调开源可训练以区别于DLSS 5",
-  "url": "https://www.gamesindustry.biz/arm-explains-its-mobile-first-ai-reconstruction-technology-which-takes-a-different-tack-from-the-black-box-approach-of-dlss-5",
-  "date": "2026-09-08"
  },
  {
   "title": "英伟达发布9月9日Game Ready驱动 为多款新游戏加入DLSS 4.5支持",
@@ -1572,5 +1557,131 @@
   "date": "2026-09-21",
   "section": 3,
   "posted": "2026-09-22"
+ },
+ {
+  "title": "AI机器人\"Pluto\"潜入《星际争霸》官方天梯，连胜多名职业选手引发社区举报",
+  "url": "https://www.dexerto.com/gaming/ai-bot-destroys-top-starcraft-pros-after-invading-ladder-and-using-absurd-strategies-3410863/",
+  "date": "2026-09-21",
+  "section": 1,
+  "posted": "2026-09-23"
+ },
+ {
+  "title": "NVIDIA披露DLSS 5神经渲染新进展、NVIDIA ACE语音AI及RTX Kit开发者更新",
+  "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
+  "date": "2026-09-22",
+  "section": 1,
+  "posted": "2026-09-23"
+ },
+ {
+  "title": "NVIDIA发布617.14 Game Ready驱动，为《控制：共鸣》《战争机器：E日》等新作加入DLSS 4.5支持",
+  "url": "https://www.nvidia.com/en-us/geforce/news/control-resonant-gears-of-war-e-day-geforce-game-ready-driver/",
+  "date": "2026-09-22",
+  "section": 2,
+  "posted": "2026-09-23"
+ },
+ {
+  "title": "《Aniimo》手游版9月23日全球上线，NVIDIA ACE语音AI伙伴功能延至2027年初推出",
+  "url": "https://www.aniimo.com/newslist/detail/100137",
+  "date": "2026-09-22",
+  "section": 2,
+  "posted": "2026-09-23"
+ },
+ {
+  "title": "AI and Games Conference 2026公布演讲阵容，Fenris Creations将首度披露与谷歌DeepMind的研究合作",
+  "url": "https://www.aiandgames.com/p/fenris-creations-embark-warhorse",
+  "date": "2026-09-23",
+  "section": 2,
+  "posted": "2026-09-23"
+ },
+ {
+  "title": "独立工作室Starform谈\"AI原生\"开发：26人团队支撑起拥有1500万玩家的live游戏",
+  "url": "https://www.pocketgamer.biz/starforms-lou-fasulo-on-staying-at-26-people-ai-native-development-and-who-really-funds-a-live-game/",
+  "date": "2026-09-23",
+  "section": 2,
+  "posted": "2026-09-23"
+ },
+ {
+  "title": "AI对话小说游戏《Kataris》亮相东京电玩展2026，玩家可自由输入文本影响剧情与战斗",
+  "url": "https://www.4gamer.net/games/044/G104421/20260921066/",
+  "date": "2026-09-23",
+  "section": 2,
+  "posted": "2026-09-23"
+ },
+ {
+  "title": "抖音AI\"GTA式摸鱼\"短视频十分钟生成即爆红，创作者个人账号反遭限流",
+  "url": "https://www.youxituoluo.com/534906.html",
+  "date": "2026-09-23",
+  "section": 2,
+  "posted": "2026-09-23"
+ },
+ {
+  "title": "腾讯游戏AI创作平台\"游点灵\"（原Project Craft）首次公开亮相，联合马栏山集团举办AI游戏训练营",
+  "url": "https://www.youxituoluo.com/534899.html",
+  "date": "2026-09-22",
+  "section": 2,
+  "posted": "2026-09-23"
+ },
+ {
+  "title": "PS5系统更新默认开启AI画质增强功能\"Enhanced PSSR\"",
+  "url": "https://www.pushsquare.com/news/2026/09/ps5s-new-firmware-update-available-to-download-now-heres-what-it-does",
+  "date": "2026-09-16",
+  "section": 2,
+  "posted": "2026-09-23"
+ },
+ {
+  "title": "OpenAI的GPT-6 Astra连续游玩141小时《我的世界》，苦力怕爆炸后陷入\"崩溃\"式潜行",
+  "url": "https://www.dexerto.com/minecraft/gpt-6-astra-forced-to-play-minecraft-gets-depressed-by-creeper-and-farms-potatoes-for-hours-3409634/",
+  "date": "2026-09-16",
+  "section": 2,
+  "posted": "2026-09-23"
+ },
+ {
+  "title": "腾讯《粒粒的小人国》开启第二次大规模测试，NPC\"粒粒\"升级AI行为",
+  "url": "https://news.17173.com/content/09232026/131421408.shtml",
+  "date": "2026-09-22",
+  "section": 2,
+  "posted": "2026-09-23"
+ },
+ {
+  "title": "更新】Xbox官方确认新一轮\"重启\"：裁员268人，Halo开发权移交动视，Obsidian并入Bethesda，Turn 10与Playground Games合并",
+  "url": "https://news.xbox.com/en-us/2026/09/22/continuing-our-reset/",
+  "date": "2026-09-22",
+  "section": 3,
+  "posted": "2026-09-23"
+ },
+ {
+  "title": "《战争机器：E日》剧情总监在游戏\"金盘\"仅四天后被裁",
+  "url": "https://kotaku.com/gears-of-war-e-day-story-director-laid-off-just-four-days-after-celebrating-the-game-going-gold-2000736518",
+  "date": "2026-09-22",
+  "section": 3,
+  "posted": "2026-09-23"
+ },
+ {
+  "title": "《逃离塔科夫》开发商Battlestate Games成立新发行部门，主攻\"高风险\"独立游戏",
+  "url": "https://www.gamedeveloper.com/business/escape-from-tarkov-dev-wants-to-bet-on-risky-games-with-its-new-publishing-arm",
+  "date": "2026-09-22",
+  "section": 3,
+  "posted": "2026-09-23"
+ },
+ {
+  "title": "Rockstar Games在《GTA6》发售前收紧模组政策",
+  "url": "https://kotaku.com/rockstar-asks-fans-to-respect-their-games-as-it-updates-strict-modding-guidelines-2000736306",
+  "date": "2026-09-22",
+  "section": 3,
+  "posted": "2026-09-23"
+ },
+ {
+  "title": "微软\"触发事件\"暂停游戏插入广告专利引发新一轮关注",
+  "url": "https://gizmodo.com/new-adtech-from-microsoft-would-interrupt-your-game-at-promoted-content-trigger-events-2000815772",
+  "date": "2026-09-23",
+  "section": 3,
+  "posted": "2026-09-23"
+ },
+ {
+  "title": "据报道：育碧股价9月22日上涨4.25%",
+  "url": "https://en.cryptonomist.ch/2026/09/22/ubisoft-stock-performance/",
+  "date": "2026-09-22",
+  "section": 3,
+  "posted": "2026-09-23"
  }
 ]
