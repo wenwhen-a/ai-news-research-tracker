@@ -1040,7 +1040,7 @@
  "2608.20065": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-08-20",
+  "submitted": "2026-09-21",
   "title": "Orthogonal JEPA: Factorized Predictive States for Latent World Models"
  },
  "2608.19804": {
@@ -3299,7 +3299,7 @@
  "2605.18010": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-08-19",
+  "submitted": "2026-09-21",
   "title": "Functionalization via Structure Completion and Motion Rectification"
  },
  "2512.16767": {
@@ -4820,8 +4820,8 @@
  "2609.06965": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-06",
-  "title": "Null--Space--Free 6D Spectral Embedding with Local Rayleigh Quotient Recovery for 3D Quasiperiodic Maxwell's Eigenproblems"
+  "submitted": "2026-09-22",
+  "title": "Null-Space-Free 6D Spectral Embedding with Local Rayleigh Quotient Recovery for 3D Quasiperiodic Maxwell's Eigenproblems"
  },
  "2609.06630": {
   "status": "screened-out",
@@ -5600,7 +5600,7 @@
  "2609.12278": {
   "status": "screened-out",
   "first_seen": "2026-09-14",
-  "submitted": "2026-09-10",
+  "submitted": "2026-09-21",
   "title": "Amortized Low-Rank Adaptation for Model-Based Reinforcement Learning"
  },
  "2609.12103": {
@@ -7855,7 +7855,7 @@
  "2609.21712": {
   "status": "screened-out",
   "first_seen": "2026-09-21",
-  "submitted": "2026-09-18",
+  "submitted": "2026-09-22",
   "title": "ZYT-World: A Real-Time Controllable World Model for Closed-Loop Autonomous-Driving Simulation"
  },
  "2609.21502": {
@@ -7969,7 +7969,7 @@
  "2609.21176": {
   "status": "screened-out",
   "first_seen": "2026-09-21",
-  "submitted": "2026-09-17",
+  "submitted": "2026-09-21",
   "title": "4DGS-Fixer: Generative Sparse-View 4D Gaussian Splatting with Iterative Refinement Guided by Video Diffusion Priors"
  },
  "2609.21391": {
@@ -8545,7 +8545,7 @@
  "2609.24547": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-22",
   "title": "MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions"
  },
  "2609.23797": {
@@ -8575,7 +8575,7 @@
  "2609.22829": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-19",
+  "submitted": "2026-09-22",
   "title": "Whole-Body UMI: Transferring UMI Manipulation Skills to Humanoid Whole-Body Manipulation via Real-Time Motion Generation"
  },
  "2609.06802": {
@@ -8862,5 +8862,290 @@
   "first_seen": "2026-09-22",
   "submitted": "2026-09-19",
   "title": "Measure the Sim-to-Real Gap: Designing an Affordable Real-World Benchmark Platform for Reinforcement Learning in AIoT Systems"
+ },
+ "2609.26458": {
+  "status": "qualified",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "Code Plans, Diffusion Renders: Open-Ended Generative World Modeling",
+  "affiliation": "Alibaba — TongYi Lab co-authors (alongside USTC academic co-authors)",
+  "url": "https://arxiv.org/abs/2609.26458",
+  "summary": "CoDeR is a world-modeling system that explicitly constructs an executable world using code, then uses a video generation model for visual realization, rather than implicitly encoding dynamics purely in a video model's weights."
+ },
+ "2609.26425": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "QuantWM: Temporally Consistent 2-Bit KV Cache Quantization for World Models and Video Generation"
+ },
+ "2609.26314": {
+  "status": "near-miss",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "TriWorldBench: A Tri-View Consistency Perspective on Embodied World Models"
+ },
+ "2609.26299": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "ForeDrive: Foresight-Guided End-to-End Autonomous Driving with a Planning-Relevant Latent World Model"
+ },
+ "2609.26293": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "Dual-Frontier: When Can an Agent Trust Its World Model?"
+ },
+ "2609.26007": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "Skytopia: Monocular Drone Navigation with Action-Conditioned Latent World Models"
+ },
+ "2609.25652": {
+  "status": "qualified",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "GameDirector: Decoupling Gameplay Logic from Rendering for Player-Configurable Game World Models",
+  "affiliation": "Tencent — Zijun Lin, Zhiyang Deng, Yuzhe Wu, Yeying Jin (all also list Singapore-based academic affiliations: NTU, NUS, A*STAR)",
+  "url": "https://arxiv.org/abs/2609.25652",
+  "summary": "GameDirector is presented as \"the first agentic framework that decouples rule-based gameplay logic from visual rendering\" in game world models."
+ },
+ "2609.25541": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-21",
+  "title": "A JEPA Recipe for Tabular Foundation Models"
+ },
+ "2609.26039": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "EMERGE: Resolution-Agnostic Point Cloud Generation with Equivariant Graph-Based Diffusion"
+ },
+ "2609.25741": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "Fysiverse-3D-Vision Technical Report: Generating Executable 3D Worlds from Images through Unified Spatial Reasoning"
+ },
+ "2609.25538": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-21",
+  "title": "Point Diffusion Mamba: Unified Diffusion-State-Space Modeling for Single-View 3D Reconstruction under Data Scarcity"
+ },
+ "2609.26795": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "φ-RIE: From Photorealistic Reconstruction to Interactive Environments"
+ },
+ "2609.26315": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "ArborSplat: Online Semantic Gaussian Splatting SLAM for Orchards"
+ },
+ "2609.25746": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "Dual Covariance Gaussian Splatting SLAM: Decoupling Rendering and Registration for Robust Real-Time Tracking"
+ },
+ "2609.25633": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-21",
+  "title": "Robust, Estimator-Agnostic Dynamic 3DGS Compression"
+ },
+ "2609.25604": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-21",
+  "title": "Ultra-fast Neural Inference for Stochastic Gaussian Splatting Denoising"
+ },
+ "2609.25578": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-21",
+  "title": "Agentic Building-Aware Satellite Gaussian Splatting for Auditable Urban DSM Reconstruction"
+ },
+ "2609.25036": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-08-24",
+  "title": "4DGS-JEPA: Temporally Compositional Joint-Embedding Prediction for Dynamic Gaussian Splatting"
+ },
+ "2609.25907": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "NaCR: Visual Localization via NeRF-aided Camera Ray Regression"
+ },
+ "2609.25490": {
+  "status": "qualified",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-21",
+  "title": "SAM-V: Geometry-Aware Segment Anything for Multi-View Instance Segmentation",
+  "affiliation": "Meta — affiliation listed on the paper (specific author not distinguished in the visible author block; primary team is University of Illinois Urbana-Champaign); FLAG: borderline — Meta co-authorship confirmed on the page but not cleanly attributed to a specific named author in the fetched content",
+  "url": "https://arxiv.org/abs/2609.25490",
+  "summary": "SAM-V integrates a feed-forward geometry model (VGGT) into the Segment Anything (SAM) foundation model, training the combination end-to-end for consistent object segmentation across multiple camera views in a single forward pass."
+ },
+ "2609.25725": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "AgriGen: Large-Scale Scene Generation Framework for Photorealistic Agricultural Robotics Simulation"
+ },
+ "2609.25504": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-21",
+  "title": "Incipit: Axiom-Grounded Scaffolding for Human-AI Literary Creation"
+ },
+ "2609.25754": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "PLAT: Sparse Timed Keyframe Motion Tracking for Humanoid Control via Privileged Latent Transition Learning"
+ },
+ "2609.26430": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "Latent Dataset Distillation for Human Motion Prediction"
+ },
+ "2609.26420": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "Sample, Simulate, Select: Physics-in-the-Loop Text-to-Motion for Humanoids Without Training"
+ },
+ "2609.25486": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-21",
+  "title": "Brace Yourself: Task-Conditioned Environmental Bracing for Forceful Humanoid Manipulation"
+ },
+ "2609.25374": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-21",
+  "title": "Angular momentum analysis on Karate roundhouse kicks: a longitudinal case study"
+ },
+ "2609.26363": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "DHSched: Stateless Control for Stateful Real-Time Avatar Serving"
+ },
+ "2609.25970": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "Emotions as intrinsic colored noise in biological systems"
+ },
+ "2609.25687": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "SG-CPG: Severity-Gated Central Pattern Generators for Adaptive Quadruped Locomotion under Continuous Actuator Degradation"
+ },
+ "2609.25625": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-21",
+  "title": "From Instrument-Mounted Demonstrations to In-Vivo Execution: Learning Bimanual Laparoscopic Appendectomy Without Robot-Collected Demonstrations"
+ },
+ "2609.24565": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "What Survives on Real Drawings: Active Sampling, Connectome Wiring, and Matched Baselines in Architectural Document Vision"
+ },
+ "2609.26576": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "Periodic Tilings of Cardinality Twice a Prime or Nine in Arbitrary Dimension"
+ },
+ "2609.26432": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "Transport and Thermochemical Kinetics of Alkali Species in Hot Jupiter Atmospheres: Implications for Magnetic Models"
+ },
+ "2609.25863": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-22",
+  "title": "Exact Ehrhart Series of Birkhoff Polytopes via Constant Terms and Finite-Field Evaluation"
+ },
+ "2609.25466": {
+  "status": "near-miss",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-21",
+  "title": "Real-Time Hand Gesture Recognition for OpenXR Using Transformer-Based Machine Learning"
+ },
+ "2609.25361": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-21",
+  "title": "Beyond Legacy L1 C/A: Characterizing Advanced Multi-Frequency Spoofing Against Multi-Frequency GPS Receivers for Autonomous Navigation"
+ },
+ "2609.25215": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-21",
+  "title": "Bulk OPE Coefficients of the $E$-Series Virasoro Minimal Models"
+ },
+ "2608.04802": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-19",
+  "title": "Bernstein-type bases on $q$-quadratic lattices and Askey--Wilson\\slash $q$-Racah connection coefficients"
+ },
+ "2607.22507": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-11",
+  "title": "Measurement of Born Cross Section for $e^+e^-\\to K_S^0\\barΞ^+Σ^-+\\rm{c.c.}$ at $\\sqrt{s} = 3.51-4.95$ GeV"
+ },
+ "2607.19888": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-14",
+  "title": "Power of Axion Microwave Absorbed by Quantum Hall State in Haloscope"
+ },
+ "2607.16265": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-07",
+  "title": "Relativistic bound-state solutions for a non-central Schi{ö}berg-type hyperbolic potential with double ring-shaped angular terms"
+ },
+ "2607.10518": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-10",
+  "title": "The General Quantum Limit for and the Optimization of the Minimum Measurable Frequency Shift in a Laser"
+ },
+ "2607.09853": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-07",
+  "title": "The black hole occupation fraction as a fossil record of seeding, dynamics, and galaxy assembly"
+ },
+ "2606.31313": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-08-31",
+  "title": "Non-invertible symmetries and modular invariance in lattice models"
+ },
+ "2606.28909": {
+  "status": "screened-out",
+  "first_seen": "2026-09-23",
+  "submitted": "2026-09-11",
+  "title": "Premixed flames in a stagnation point flow under Darcy's law"
  }
 }
