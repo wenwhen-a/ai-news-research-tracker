@@ -11,6 +11,7 @@ filtered.json
 filtered_24h.json
 scan.log
 scan.out
+site_scan.log
 screen.log
 screen.out
 screened.json
