@@ -95,7 +95,7 @@
  "2609.09418": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-13",
+  "submitted": "2026-09-23",
   "title": "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration"
  },
  "2609.09250": {
@@ -6494,8 +6494,8 @@
  "2609.16071": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-13",
-  "title": "Schema-Adaptive Action-Conditioned JEPA for Cross-Machine CNC Transfer under Partial Sensor Overlap"
+  "submitted": "2026-09-23",
+  "title": "World Models for Cross-Machine CNC Transfer under Partial Sensor Overlap"
  },
  "2609.13812": {
   "status": "qualified",
@@ -8755,13 +8755,13 @@
  "2609.23253": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-19",
+  "submitted": "2026-09-22",
   "title": "Quantum Satake in Type A: The General and Generic Case"
  },
  "2609.23233": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-19",
+  "submitted": "2026-09-23",
   "title": "Wave Numbers: Discrete Sequence Algebras, Sieve Projectors, and Dynamical Geometry"
  },
  "2609.22962": {
@@ -8875,7 +8875,7 @@
  "2609.26425": {
   "status": "screened-out",
   "first_seen": "2026-09-23",
-  "submitted": "2026-09-22",
+  "submitted": "2026-09-23",
   "title": "QuantWM: Temporally Consistent 2-Bit KV Cache Quantization for World Models and Video Generation"
  },
  "2609.26314": {
@@ -9147,5 +9147,251 @@
   "first_seen": "2026-09-23",
   "submitted": "2026-09-11",
   "title": "Premixed flames in a stagnation point flow under Darcy's law"
+ },
+ "2609.28466": {
+  "status": "qualified",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "The Past Frames the Future: Memory for Autoregressive Video Generation",
+  "affiliation": "NVIDIA — Ser-Nam Lim, per the paper's affiliation list (HKUST, CityUHK, FDU, ZODA, CMU, NYU, HKUST(GZ), NUS, Georgia Tech, PKU, MBZUAI, NVIDIA, UCF, UNITN, NTU, UC Merced)",
+  "url": "https://arxiv.org/abs/2609.28466",
+  "summary": "This is a survey/framework paper (not an empirical model paper) organizing how autoregressive video generators maintain memory of past frames — entity identities, spatial layout, dynamics — under bounded context windows, covering discrete-token, diffusion, flow, and Transformer-based generators, inc"
+ },
+ "2609.28416": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents"
+ },
+ "2609.28414": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "Frozen Flows Forget: Diagnosing and Restoring Lost Motion in a Latent-flow World Model"
+ },
+ "2609.28393": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation"
+ },
+ "2609.28258": {
+  "status": "near-miss",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "Generalizable Robotic Insertion with World Models"
+ },
+ "2609.28049": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "Prompt, Probe, Train, or Annotate? Single-camera sports video understanding in amateur settings"
+ },
+ "2609.27656": {
+  "status": "near-miss",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "InternW0: A Foundational Physical World Model for Efficient Real-World Interactions"
+ },
+ "2609.27621": {
+  "status": "near-miss",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "SHRAV: State-Hypothesis-Reason-Action-Verify Framework for Physical Modeling and Inverse Design"
+ },
+ "2609.27264": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-22",
+  "title": "GaussPDE: Graph-Based Partial Differential Equation-Driven Rendering for 3D Gaussian Splatting"
+ },
+ "2609.27734": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "InfiNoVA: Infinite Novel View Augmentation for Viewpoint Invariant Robot Policies"
+ },
+ "2605.15760": {
+  "status": "qualified",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-05-15",
+  "title": "Learn2Splat: Extending the Horizon of Learned 3DGS Optimization",
+  "affiliation": "Meta — Haofei Xu, Lorenzo Porzi, Peter Kontschieder listed at \"Meta Reality Labs\"; other authors list University of Tübingen / Tübingen AI Center and ETH Zurich",
+  "url": "https://arxiv.org/abs/2605.15760",
+  "summary": "The paper introduces Learn2Splat, a learned optimizer for 3D Gaussian Splatting (3DGS) that replaces manually-scheduled optimizers like Adam, targeting the problem that prior learned optimizers for 3DGS degrade once training runs beyond their training horizon."
+ },
+ "2604.08500": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-08-31",
+  "title": "FrameCrafter: Novel View Synthesis as Video Completion"
+ },
+ "2603.16103": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-01",
+  "title": "NanoGS: Training-Free Gaussian Splat Simplification"
+ },
+ "2603.11298": {
+  "status": "near-miss",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-09",
+  "title": "InstantHDR: Single-forward Gaussian Splatting Initialization for HDR 3D Reconstruction"
+ },
+ "2603.09968": {
+  "status": "qualified",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-03-10",
+  "title": "ReCoSplat: Online Feed-Forward Gaussian Splatting via Render-and-Compare",
+  "affiliation": "NVIDIA — Botao Ye, also listed at ETH Zürich; other authors list UC Merced, Shanghai Jiao Tong University, and HKUST",
+  "url": "https://arxiv.org/abs/2603.09968",
+  "summary": "The paper addresses online (causal, streaming) novel view synthesis, where a system must build a renderable 3D Gaussian scene incrementally from sequential images without access to future frames, and must handle a \"pose distribution mismatch\" between ground-truth poses used in training and predicted"
+ },
+ "2603.09632": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-20",
+  "title": "X-GS: An Extensible Framework for Perceiving and Thinking with 3D Gaussian Splatting"
+ },
+ "2603.07587": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-08-26",
+  "title": "3DGS-HPC: Distractor-free 3D Gaussian Splatting with Hybrid Patch-wise Classification"
+ },
+ "2609.27442": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "SatUnreal: A High-Precision Synthetic Dataset for Satellite Stereo Matching via Unreal Engine"
+ },
+ "2609.26854": {
+  "status": "near-miss",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-22",
+  "title": "SsgCaps: A controlled dataset for the evaluation of sound scene generation algorithms"
+ },
+ "2609.27600": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "ARS-Avatar: Animatable and Relightable Surfel Avatars with Learnable Ambient Occlusion"
+ },
+ "2609.27895": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-08-25",
+  "title": "Electromagnetic Twin: From Sparse Measurements to Persistent Wireless Intelligence"
+ },
+ "2606.08133": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "Gravity-guided Contact Dynamics Estimation from 3D Human Motions"
+ },
+ "2609.27269": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-22",
+  "title": "Banana Kick: Response-Informed Skill Evolution for Humanoid Soccer"
+ },
+ "2609.27650": {
+  "status": "near-miss",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "Brain-to-Language Decoding: Tasks, Signals, Methods, Evaluation, Practical Use and Beyond"
+ },
+ "2609.28430": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "Cross-Scale Transfer Learning for Depression Severity Prediction: From PHQ-8 to HAMD-17 Across Languages and Clinical Paradigms"
+ },
+ "2609.27560": {
+  "status": "near-miss",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "When Visual Quality Misleads: Intent Recognition under Rendered Avatar Distortions"
+ },
+ "2609.28131": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "DEAL-Grasp: Decoupled Alignment Representation for Geometry-Aware Dexterous Grasp Generation"
+ },
+ "2609.27074": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-22",
+  "title": "Quantifying the Occult: A Comparative Study of Hindu and Buddhist Deities Using Machine Learning Methods"
+ },
+ "2609.26871": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-22",
+  "title": "Experimental Characterization of the Passive Mechanical Behavior of Rat Pelvic Floor Muscles: Effects of Test Conditions and Pregnancy"
+ },
+ "2609.27088": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-22",
+  "title": "Water Surface Swimming in a Centipede and its Robophysical ModeL"
+ },
+ "2609.27585": {
+  "status": "qualified",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "Unity Insight: A Production Code–Asset Index for LLM Coding Agents in Unity Projects",
+  "affiliation": "Unity — all five authors list \"Tuanjie Engine, Unity China, Shanghai, China\" (Tuanjie Engine is Unity's own engine brand/joint venture operated for the China market)",
+  "url": "https://arxiv.org/abs/2609.27585",
+  "summary": "The paper presents Unity Insight, a persistent, read-only code–asset index built to let LLM coding agents navigate Unity game-engine repositories, where gameplay logic spans C# scripts, prefabs, scenes, and ScriptableObjects linked by GUIDs and YAML serialization."
+ },
+ "2609.28133": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "Optimal local oscillators for the homodyne detection of multiphoton states"
+ },
+ "2609.27740": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "Quantized six-vertex model at roots of unity: Frobenius property and free-parafermion spectra"
+ },
+ "2609.27652": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "The Influence of the Cluster Point on Rounding Errors and Sensitivity in the Spectral Limited-Memory Preconditioner"
+ },
+ "2609.27458": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-23",
+  "title": "Iterates of Ritt operators close to the identity"
+ },
+ "2609.27210": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-22",
+  "title": "Definability and undecidability via the torsion subgroup of units"
+ },
+ "2609.26889": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-22",
+  "title": "Deterministic photon waveform adaptation for quantum connectivity"
+ },
+ "2609.26842": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-21",
+  "title": "Zeros and Roots of Unity for Characters of Solvable Groups"
+ },
+ "2609.26827": {
+  "status": "screened-out",
+  "first_seen": "2026-09-24",
+  "submitted": "2026-09-20",
+  "title": "Comment on \"Ultraviolet Completion of the Big Bang in Quadratic Gravity\""
  }
 }
