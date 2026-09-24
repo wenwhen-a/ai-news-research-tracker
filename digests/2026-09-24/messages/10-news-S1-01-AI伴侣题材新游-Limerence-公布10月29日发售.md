@@ -1,0 +1,13 @@
+**[新闻 1] AI伴侣题材新游《Limerence》公布10月29日发售，探讨"无摩擦"人机情感关系**
+- **日期：** 2026-09-23
+- **来源链接：** <https://gamesbeat.com/limerence-launching-october-29-asks-would-trust-an-ai-designed-to-love-you-unconditionally/>
+- **核心事实（发生了什么）：**
+  - GamesBeat报道，叙事游戏《Limerence》定于2026年10月29日登陆PC平台。
+  - 游戏以智能手机界面为载体，玩家扮演正经历丧亲之痛的女性Claire，通过一款名为"LiAIson"的应用程序创建AI伴侣"Kai"。
+  - 游戏由叙事驱动工作室Salix Games（创始人Jessica Saunders）与Gameinaframe联合开发。
+  - 配音阵容包括曾在《博德之门3》中为Karlach配音的演员Samantha Béart；制作团队为增强真实感，全部录音均用手机拍摄完成。
+- **背景与起因（为什么会发生）：**
+  - Salix Games创始人Jessica Saunders表示，其创作灵感源于观察到身边人群中出现的强烈情感依附模式。
+  - 游戏聚焦"无摩擦亲密关系"主题，探讨当情感连接被"按个人偏好量身定制"时会发生什么，涉及孤独、依赖以及"选择舒适而非真相"的风险。
+- **结果与进展（已经产生了什么结果）：**
+  - 游戏已确定10月29日PC发售档期，此前已完成配音录制与宣传报道，是近期AI陪伴类叙事游戏商业化的又一案例。

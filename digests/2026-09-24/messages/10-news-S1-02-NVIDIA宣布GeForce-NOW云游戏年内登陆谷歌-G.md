@@ -1,0 +1,12 @@
+**[新闻 2] NVIDIA宣布GeForce NOW云游戏年内登陆谷歌"Googlebook"安卓笔记本**
+- **日期：** 2026-09-24
+- **来源链接：** <https://9to5google.com/2026/09/24/nvidia-announces-googlebook-geforce-now-support/> ；另见 <https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/>
+- **核心事实（发生了什么）：**
+  - NVIDIA于9月24日宣布，云游戏服务GeForce NOW"今年晚些时候"将为谷歌新推出的Android笔记本产品线"Googlebook"提供完整支持，目前已可通过Chrome、Firefox浏览器进行原生串流，专属客户端应用随后跟进。
+  - Googlebook由宏碁、戴尔、华硕、惠普、联想等厂商代工，10月起开售，起售价899美元，配备16GB（最高32GB）内存与触控屏，部分型号搭载联发科天玑CX C10 Max芯片。
+  - 由于Googlebook运行基于Android的系统、无法本地安装Windows PC游戏，云端串流成为在该设备上运玩Steam、Epic、Xbox平台游戏的主要方式；购机用户将获赠一年GeForce NOW会员。
+  - 同期GFN Thursday周更新还为服务新增《CONTROL Resonant》《沙丘：觉醒》《乐高蝙蝠侠：黑暗骑士的传承》等游戏。
+- **背景与起因（为什么会发生）：**
+  - Googlebook作为围绕Gemini打造的新硬件品类，图形处理能力有限，云游戏串流被作为初期产品演示的重点功能之一。
+- **结果与进展（已经产生了什么结果）：**
+  - NVIDIA尚未给出具体上线时间，仅表示为"今年晚些时候"；Googlebook预计10月开售并同步捆绑一年期GeForce NOW权益。
