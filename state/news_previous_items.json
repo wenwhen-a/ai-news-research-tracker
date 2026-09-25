@@ -1,18 +1,8 @@
 [
  {
-  "title": "EA's NHL 27 Confirmed Using Generative AI for Commentator Voiceover",
-  "url": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
-  "date": "2026-09-10"
- },
- {
   "title": "Roblox Expands AI Game-Creation Suite and Cross-Platform Publishing at RDC 2026",
   "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
   "date": "2026-09-11"
- },
- {
-  "title": "Level-5 CEO Apologizes After Fans Spot Heavy AI Use in Vision 2026 II Showcase",
-  "url": "https://www.nintendolife.com/news/2026/09/we-will-take-this-as-a-lesson-level-5-ceo-doubles-down-on-genai-despite-backlash",
-  "date": "2026-09-10"
  },
  {
   "title": "AI Server Demand Pushes RTX 5090 Gaming GPU Prices Above $5,000",
@@ -60,19 +50,9 @@
   "date": "2026-09-12"
  },
  {
-  "title": "谷歌果蝇脑神经连接组被用于操控AI在《节奏光剑》等游戏中\"游玩\"",
-  "url": "https://www.pcgamer.com/hardware/after-google-mapped-an-adult-male-fruit-flys-brain-software-engineers-made-it-play-doom-mario64-and-beat-saber/",
-  "date": "2026-09-10"
- },
- {
   "title": "AI生成的《RuneScape》克隆游戏爆红后被Jagex要求下架",
   "url": "https://www.dexerto.com/gaming/viral-ai-made-runescape-clone-shut-down-after-jagex-demands-takedown-3408509/",
   "date": "2026-09-12"
- },
- {
-  "title": "Saber Interactive创意总监：\"我们从未用AI替代过任何人\"",
-  "url": "https://www.gamesindustry.biz/saber-interactives-chief-creative-officer-says-weve-never-replaced-anybody-with-ai",
-  "date": "2026-09-10"
  },
  {
   "title": "AI聊天RPG应用《RyzaChat: AI》上线并拓展至多个国际市场",
@@ -88,11 +68,6 @@
   "title": "《天国：拯救2》导演力挺DLSS 5：能还原被引擎灯光掩盖的模型细节",
   "url": "https://wccftech.com/daniel-vavra-nvidia-dlss-5-kcd2-aesthetics/",
   "date": "2026-09-14"
- },
- {
-  "title": "EA Javelin Anticheat 年度进展：机器学习行为分析拦截2670万次作弊尝试",
-  "url": "https://www.ea.com/news/ea-javelin-anticheat-2026-update",
-  "date": "2026-09-10"
  },
  {
   "title": "Diablo V officially revealed at BlizzCon 2026",
@@ -180,11 +155,6 @@
   "date": "2026-09-13"
  },
  {
-  "title": "EA 承认《NHL 27》使用 AI 生成解说员语音",
-  "url": "https://www.pcgamer.com/software/ai/electronic-arts-admits-to-using-ai-voices-in-nhl-27-this-process-allows-us-to-bring-more-variety-to-the-game/",
-  "date": "2026-09-10"
- },
- {
   "title": "OpenAI 员工用 ChatGPT 开发的《RuneScape》克隆游戏遭 Jagex 发函下架",
   "url": "https://www.pcgamer.com/software/ai/openai-employee-takes-down-chatgpt-coded-runescape-clone-following-jagex-cease-and-desist/",
   "date": "2026-09-11"
@@ -245,11 +215,6 @@
   "date": "2026-09-15"
  },
  {
-  "title": "米哈游《原神》角色AI盗声案胜诉，中国最高法首发涉AI纠纷审理意见",
-  "url": "https://news.qq.com/rain/a/20260910A0CO0Q00",
-  "date": "2026-09-10"
- },
- {
   "title": "Level-5社长因Nintendo Direct预告片中被发现使用生成式AI而道歉",
   "url": "https://www.pocketgamer.biz/level-5-ceo-apologises-after-ai-use-in-recent-game-reveals/",
   "date": "2026-09-15"
@@ -303,11 +268,6 @@
   "title": "Take-Two前AI负责人Luke Dicken将在PGC Nordics谈AI炒作周期",
   "url": "https://www.pocketgamer.biz/take-twos-former-head-of-ai-dr-luke-dicken-to-speak-at-pgc-nordics/",
   "date": "2026-09-14"
- },
- {
-  "title": "Nexon为《马比诺基》手游试点接入Claude Code等外部AI代理",
-  "url": "https://www.ajupress.com/view/20260910151712308",
-  "date": "2026-09-10"
  },
  {
   "title": "iTero AI教练应用下载量突破100万",
@@ -1859,5 +1819,187 @@
   "date": "2026-09-24",
   "section": 3,
   "posted": "2026-09-24"
+ },
+ {
+  "title": "东京电玩展2026：AI成为展会核心议题，日本开发者生成式AI使用率跃升至85.8%",
+  "url": "https://www.techspot.com/news/113892-nearly-86-japanese-game-developers-using-generative-ai.html",
+  "date": "2026-09-18",
+  "section": 1,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "NVIDIA发布RTX Kit 2026.3，推出新版ACE语音模型与RTX Mega Geometry 2.0/NVIGI SDK",
+  "url": "https://www.techpowerup.com/353019/nvidia-releases-rtx-kit-2026-3-and-rtx-mega-geometry-2-0-sdk-for-developers",
+  "date": "2026-09-22",
+  "section": 1,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "Meta Connect大会推出Horizon Create与Horizon Studio，任何人都可用文字提示生成可玩游戏",
+  "url": "https://developers.meta.com/blog/meta-connect-recap-horizon-create-and-horizon-studio/",
+  "date": "2026-09-24",
+  "section": 1,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "中国AI互动游戏融资热潮遭遇盈利瓶颈",
+  "url": "https://eu.36kr.com/zh/p/3995478359445385",
+  "date": "2026-09-23",
+  "section": 1,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "AMD FSR Redstone AI升级/帧生成套件已支持415款以上游戏",
+  "url": "https://en.gamegpu.com/news/igry/amd-fsr-redstone-stal-dostupen-v-415-igrakh-na-videokartakh-radeon-rx-9000-i-rx-7000",
+  "date": "2026-09-23",
+  "section": 2,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "NVIDIA《Control: Resonant》上线，支持DLSS 4.5光线重建与全路径追踪",
+  "url": "https://www.nvidia.com/en-us/geforce/news/control-resonant-path-tracing-dlss-4-5-ray-reconstruction/",
+  "date": "2026-09-24",
+  "section": 2,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "《EA Sports FC 27》全球上线，重新平衡AI防守机制以遏制自动铲球",
+  "url": "https://news.ea.com/press-releases/press-releases-details/2026/Kylian-Mbapp-and-Jude-Bellingham-Welcome-You-to-EA-SPORTS-FC-27-Launching-Worldwide-on-September-25/default.aspx",
+  "date": "2026-09-25",
+  "section": 2,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "《战争雷霆：Enlisted》新增AI降噪路径追踪全局光照及扩展版DLSS/FSR帧生成",
+  "url": "https://enlisted.net/en/news/show/1094-ray-tracing-and-frame-generation-improvements/",
+  "date": "2026-09-24",
+  "section": 2,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "中版通集团公布自研游戏\"决策\"AI模型，以2048与Temple Run为基准测试",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnTmZPVVIyRXRmbWVTRTJzbHBaeEd2TWFOMWFBTTFsWGFfVXR4RTRNTGpIV2F0dGhObzVPQmQ0MlVsOHBiV24wLW41cEFCSGxzWkJJWDZ0a0VTSHR2bkE?oc=5",
+  "date": "2026-09-24",
+  "section": 2,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "金科系孵化的JIYI SOON推出\"文字生成可玩游戏\"AI平台",
+  "url": "https://technode.com/2026/09/25/a-game-studio-in-minutes-jiyi-soon-ai-game-creation/",
+  "date": "2026-09-25",
+  "section": 2,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "网易将游戏IP拓展为AI生成漫画，暴雪同期布局剧情向内容",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EZnoyZ3NTWVl4aVlNNVZkaTZ3RkxidGJnTUZfUUs1bjhYTnozTlY5ZnBtdEtKN2lyZHZ6aW90YjVncmYzak9NS2ppZWZudXZqS3huRnNPZ29KYUw2blE?oc=5",
+  "date": "2026-09-24",
+  "section": 2,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "腾讯游戏与湖南马栏山媒体集团联合举办AI游戏创作培训营",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TU0NzNVVMV29obENkdjc5UmZUZkdJb2cxbmNpd3BjV0FjT19Hb3gxT2dFM1R2cDE4ZjZncEVSYlJCQjNQd3l5cWJiQ3U?oc=5",
+  "date": "2026-09-22",
+  "section": 2,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "AIGCC在北京举行中国首届\"全链路\"AI游戏创作大赛总决赛",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LTlF0eEdDZkVsMkZIWThfeEVjRl9xb01YaW9BUTZ0eE1CRTcxU1p6MGZITmozeEhvUnljVUZzbGp1bHE1R2drakJIc21ZdWM?oc=5",
+  "date": "2026-09-23",
+  "section": 2,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "财联社：中国游戏行业营收创纪录，AI效率提升被视为支撑因素",
+  "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBldnNfS1I5YlA2RU5UMDJQczJvX0htOUlVWXh0Y3VJVmdiaXhLa1dNODdTbS05aUFlLWxGUUhNOFBDRTJ2bDVsTQ?oc=5",
+  "date": "2026-09-23",
+  "section": 2,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "日本QA公司PoalToWin HD公布创纪录中期利润，归功于自主AI调试代理的应用",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCWk1Ca21TNUsxSjhMOEdpeGp4a0ZnanVHcmp0WWppMzNSbDMzOTdSaXNGVmNLb3lwTVhPWkhjaEJ4Qm1lRGc?oc=5",
+  "date": "2026-09-25",
+  "section": 2,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "中国游戏公司Kingnet(金科文化)出资2.98亿美元加入Wemade收购财团",
+  "url": "https://www.pocketgamer.biz/kingnet-invests-298m-to-join-consortium-behind-684m-wemade-deal/",
+  "date": "2026-09-25",
+  "section": 3,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "土耳其手游厂商Circle Games完成2500万美元A轮融资，腾讯领投",
+  "url": "https://www.pocketgamer.biz/circle-games-raises-25m-in-series-a-led-by-tencent/",
+  "date": "2026-09-24",
+  "section": 3,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "Roblox就洛杉矶县儿童安全诉讼申请驳回被法院拒绝，案件将继续审理",
+  "url": "https://www.pocketgamer.biz/roblox-loses-bid-to-halt-los-angeles-county-child-safety-lawsuit/",
+  "date": "2026-09-25",
+  "section": 3,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "Supercell《mo.co》重返测试阶段，工作室拟对游戏进行重大调整",
+  "url": "https://www.pocketgamer.biz/supercells-moco-heads-back-into-beta-as-studio-plans-major-changes/",
+  "date": "2026-09-24",
+  "section": 3,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "欧盟《儿童安全法案》草案拟禁止游戏每日登录奖励与连续登录机制",
+  "url": "https://www.pocketgamer.biz/daily-log-in-bonuses-and-activity-streaks-under-threat-in-eu-kids-act/",
+  "date": "2026-09-24",
+  "section": 3,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "报告：8月全球手游内购收入66亿美元，《王者荣耀》居畅销榜首",
+  "url": "https://www.pocketgamer.biz/mobile-games-generate-66bn-in-august-as-honor-of-kings-leads-player-spending/",
+  "date": "2026-09-24",
+  "section": 3,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "King与瑞典工会达成集体协议，罢工行动在开始前数小时被撤销",
+  "url": "https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers",
+  "date": "2026-09-25",
+  "section": 3,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "《圣女之路》导演野间卓文携手Good Smile Company公布全新奇幻IP与动作RPG新作",
+  "url": "https://www.gematsu.com/2026/09/unicorn-overlord-director-takafumi-noma-announces-fantasy-ip-ignisphere-and-action-rpg-dawngazer-for-ps5-switch-2-and-pc",
+  "date": "2026-09-25",
+  "section": 3,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "《马里奥赛车巡回赛》上线告别纪念活动，9月30日正式停运",
+  "url": "https://www.pocketgamer.biz/mario-kart-tour-enters-final-lap-with-anniversary-tour-ahead-of-shutdown/",
+  "date": "2026-09-24",
+  "section": 3,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "前Avalanche Studios负责人Natalie Francis出任Massive Entertainment董事总经理",
+  "url": "https://www.gamedeveloper.com/business/former-avalanche-studios-chief-natalie-francis-joins-massive-entertainment-as-managing-director",
+  "date": "2026-09-24",
+  "section": 3,
+  "posted": "2026-09-25"
+ },
+ {
+  "title": "Meta发布重量约100克、售价1300美元的新一代AR眼镜，涉及多款VR游戏适配",
+  "url": "https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300",
+  "date": "2026-09-24",
+  "section": 3,
+  "posted": "2026-09-25"
  }
 ]
