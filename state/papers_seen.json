@@ -6092,7 +6092,7 @@
  "2609.14122": {
   "status": "screened-out",
   "first_seen": "2026-09-15",
-  "submitted": "2026-09-12",
+  "submitted": "2026-09-23",
   "title": "SignMimic: Robust High-Quality Sign Language Motion Generation via Human-Shape-Oblivious Pose Transfer Guidance"
  },
  "2602.14048": {
@@ -8371,7 +8371,7 @@
  "2609.23436": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-20",
+  "submitted": "2026-09-23",
   "title": "GAPS: Generative Active Pseudo-view Selection for Sparse-View 3D Gaussian Splatting"
  },
  "2609.23182": {
@@ -8599,7 +8599,7 @@
  "2609.23817": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-20",
+  "submitted": "2026-09-23",
   "title": "VISTA: Video-Injected Stylized Text-to-Animation"
  },
  "2609.23755": {
@@ -8737,7 +8737,7 @@
  "2609.23884": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-20",
+  "submitted": "2026-09-24",
   "title": "Kodaira fibres and wrapped Floer cohomology"
  },
  "2609.23850": {
@@ -8893,7 +8893,7 @@
  "2609.26293": {
   "status": "screened-out",
   "first_seen": "2026-09-23",
-  "submitted": "2026-09-22",
+  "submitted": "2026-09-24",
   "title": "Dual-Frontier: When Can an Agent Trust Its World Model?"
  },
  "2609.26007": {
@@ -9393,5 +9393,374 @@
   "first_seen": "2026-09-24",
   "submitted": "2026-09-20",
   "title": "Comment on \"Ultraviolet Completion of the Big Bang in Quadratic Gravity\""
+ },
+ "2609.30264": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control"
+ },
+ "2609.30214": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "Underwater C3-JEPA: An Object-Centric Cross-View World Model for ROV Salvage"
+ },
+ "2609.30036": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "Aim Short to Reach Far: Your Frozen World Model Can Plan Better Than You Think"
+ },
+ "2609.29669": {
+  "status": "near-miss",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-08-30",
+  "title": "Do World Models Make Better Robots? A Survey of Evaluation Benchmarks for Predictive Embodied Intelligence"
+ },
+ "2609.29555": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-08-26",
+  "title": "Visual Representation and History Modeling for Navigation World Models"
+ },
+ "2609.29178": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "Poster: FedWM-Guard: Thwarting Imagination Poisoning in Federated World Model-based Autonomous Driving"
+ },
+ "2609.29171": {
+  "status": "near-miss",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "Representation World Model: Learning States, Transition and Executable Plans in Representation"
+ },
+ "2609.29092": {
+  "status": "near-miss",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models"
+ },
+ "2609.28969": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-23",
+  "title": "Sim-to-Real Aware End-to-End Learning Environment for Micromobility"
+ },
+ "2609.28931": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-23",
+  "title": "HelloWorld: Towards Practical Applications of Generative Driving World Models"
+ },
+ "2609.28927": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-23",
+  "title": "Streaming-WAM: Action-Conditioned World-Action Model for Asynchronous Robot Manipulation"
+ },
+ "2609.28670": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-23",
+  "title": "Beyond Static Graph World Models: Learning Stochastic Latent Dynamics over Evolving Topologies"
+ },
+ "2609.28654": {
+  "status": "near-miss",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-23",
+  "title": "Training Object Permanence in World Models"
+ },
+ "2609.28547": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-22",
+  "title": "PAWS: Policy-driven Agentic World Simulation"
+ },
+ "2606.03159": {
+  "status": "near-miss",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-23",
+  "title": "NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation"
+ },
+ "2609.29788": {
+  "status": "qualified",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "OREO: Fidelity Alignment in 3D Generation via On-the-fly Rendering-Editing Optimization",
+  "affiliation": "Tencent — Wenbo Hu, Wang Zhao, Ying Shan listed at Tencent ARC Lab (Zhiyuan Ma is dual-affiliated with Tencent ARC Lab and The Hong Kong Polytechnic University)",
+  "url": "https://arxiv.org/abs/2609.29788",
+  "summary": "OREO targets the gap between generated 3D assets and real-world visual fidelity, noting that generated assets \"often lack intricate textures and fine-grained details observed in real-world subjects\" because 3D training data is far scarcer than 2D imagery."
+ },
+ "2609.30056": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "M3GD: Multi-Modal Multi-View Geometric Diffusion for Camera--LiDAR Novel View Synthesis"
+ },
+ "2603.23488": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "One View Is Enough: In-the-Wild Monocular Pretraining for Novel View Generation"
+ },
+ "2609.30245": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "Towards Practical Compression of 3D Gaussian Splatting"
+ },
+ "2609.29985": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning"
+ },
+ "2609.29638": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-08-28",
+  "title": "SpectralCTGaussians: Projection-Domain Reconstruction and Basis Material Decomposition for Spectral CT using 3D Gaussian Splatting"
+ },
+ "2609.29041": {
+  "status": "qualified",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "From Scattered Gaussians to Structured Maps: Efficient Gaussian Splatting Coding via Dual-phase Morton Sorting",
+  "affiliation": "Alibaba — Bolin Chen (also Fudan University/Hupan Lab), Ru-Ling Liao and Yan Ye listed at DAMO Academy, Alibaba Group",
+  "url": "https://arxiv.org/abs/2609.29041",
+  "summary": "The paper addresses the storage and bandwidth cost of 3D Gaussian Splatting (3DGS), whose unstructured millions-of-primitives representation resists standard video-codec compression."
+ },
+ "2609.28997": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "Only What Was Seen: Observation-Gram Compaction of View-Dependent Appearance in 3D Gaussian Splatting"
+ },
+ "2609.28930": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-23",
+  "title": "PlenoCI: Plenoptic CharacterIstics for View Dependence Aware Change Classification"
+ },
+ "2609.28645": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-23",
+  "title": "PePESeg3D: Perception Prior Enhances Multi-Scale Segmentation for 3D Gaussian Splatting"
+ },
+ "2609.29963": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "ADATEX4D: adaptive texture capacity allocation for 4D gaussian splatting"
+ },
+ "2609.29836": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "SplatLabel: Pseudo-Labelling through 4D Gaussian Splatting"
+ },
+ "2609.30049": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "Optimal Recovery for Solving Variational Problems"
+ },
+ "2609.29847": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "Elucidating the Conformal Structure of the Brinkman Penalisation Method for Geometry-Adapted, Structure-Preserving Operator Learning of Hamiltonian PDEs"
+ },
+ "2609.29825": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "Anatomy-Aligned Surface Field Learning for Myocardial Reconstruction from Sparse Short-Axis Cine MRI"
+ },
+ "2609.29644": {
+  "status": "near-miss",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "Markerless Multi-Modal Autonomous Robotic Inspection of Large Space Structures"
+ },
+ "2609.30234": {
+  "status": "qualified",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction",
+  "affiliation": "Google — Hugo Bertiche, Alexandru-Eugen Ichim, Thabo Beeler listed at Google (other authors at CMU, University of Washington, Texas A&M)",
+  "url": "https://arxiv.org/abs/2609.30234",
+  "summary": "OmniFabric targets automated creation of production-ready 3D garment textures from a single reference image, a task where existing methods \"bake environmental illumination and shadows directly into the texture map\" or lose global coherence, making the result unsuitable for physical simulation or rel"
+ },
+ "2609.28539": {
+  "status": "qualified",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-22",
+  "title": "Heartian: Physiology-Aware Relightable Gaussian Head Avatar",
+  "affiliation": "Adobe — Jose Echevarria listed at Adobe Research (other authors at UCL and Stanford)",
+  "url": "https://arxiv.org/abs/2609.28539",
+  "summary": "Heartian addresses the fact that conventional Gaussian head avatars treat facial appearance as temporally static, ignoring the subtle cardiac-induced skin-color changes (remote photoplethysmography, or rPPG) that a real face exhibits."
+ },
+ "2609.29850": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "BeyondRetarget: Learning Executable Humanoid Motions Directly from Monocular Video"
+ },
+ "2609.29021": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "CAMP: Cooperative Arm-Hand Motion Planning in Constrained Spaces"
+ },
+ "2609.30187": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "Ego-Exo4D Human Meshes Dataset: 4D Human Motion Reconstruction for Ego-Exo Captures"
+ },
+ "2609.28660": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-23",
+  "title": "Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy"
+ },
+ "2609.29603": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-08-30",
+  "title": "MoSign: Challenge-Response Motion-Watermark Authentication for Anonymous Virtual-Reality Users"
+ },
+ "2609.29292": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "PHOSA: Photorealistic 3D Sign Avatar Modeling and Benchmark"
+ },
+ "2603.09261": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-02",
+  "title": "From Perception to Cognition: How Latency Affects Interaction Fluency and Social Presence in VR Conferencing"
+ },
+ "2512.04313": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-05",
+  "title": "Mind-to-Face: Neural-Driven Photorealistic Avatar Synthesis via EEG Decoding"
+ },
+ "2609.29544": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-08-28",
+  "title": "Beloved Afterlives: Governing AI Resurrection Beyond Consent"
+ },
+ "2609.29423": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "Temperament Engineering: Designing Strategic Behavioural Diversity in Robot Swarms"
+ },
+ "2609.29063": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "A Procedure for Classifying Attachments and Affective Social Bonds in Human-Robot Dyads"
+ },
+ "2609.30170": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "The third law of black hole thermodynamics and the mass-to-charge ratio of scalar fields"
+ },
+ "2609.29980": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "Preduals of weighted homogeneous Bourgain-Morrey Besov-Triebel-Lizorkin spaces associated with operators"
+ },
+ "2609.29871": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "Study of low-frequency core-edge coupling in a tokamak: III. Core-localized MHD continuum pulsations \\& distant forced reconnection"
+ },
+ "2609.29430": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "Quantum heat transport and effects of quantum thermal devices in noncommuting coupled spins"
+ },
+ "2609.29377": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "Joint Model-independent Constraints on the Post-Newtonian Parameter and Cosmic Curvature from Galaxy-scale Strong Lensing, SNe Ia, BAO, and Cosmic Chronometers"
+ },
+ "2609.29053": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "Perfect resonance and fragile localization suppression in correlated disordered chains"
+ },
+ "2609.29026": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "Geometry-Induced Effective Tight-Binding Hamiltonians for Phononic Systems: Mode Conversion and SSH-Like Physics"
+ },
+ "2609.28914": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-23",
+  "title": "Turning-Point Count Discrepancy as a Diagnostic of Relativistic Orbital Chaos"
+ },
+ "2609.28641": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-23",
+  "title": "Dynamical Friction in an Ultralight Scalar Medium across Coherent and Stochastic Regimes"
+ },
+ "2609.28636": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-23",
+  "title": "Majorana zero modes in half-quantum vortices of pair density wave superconductors"
+ },
+ "2609.29157": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "OREN-X: Octree Residual Network for Real-Time Multi-Modal Mapping"
+ },
+ "2609.28684": {
+  "status": "qualified",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-23",
+  "title": "M-plicits: Neural Implicit Surfaces via Nested Multiscale Residuals",
+  "affiliation": "Google — Matheus Bessa and André Araújo listed at Google DeepMind (other authors at PUC-Rio, IMPA, University of Coimbra, Universidade Federal de Santa Maria)",
+  "url": "https://arxiv.org/abs/2609.28684",
+  "summary": "The paper targets a tradeoff in neural implicit surface representations for 3D reconstruction from point clouds: single-MLP methods are accurate but slow at inference, while grid-based methods are fast but can overfit noise and limit surface smoothness."
+ },
+ "2601.19753": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "WaterClear-GS: Optical-Aware Gaussian Splatting for Underwater Reconstruction and Restoration"
+ },
+ "2609.29983": {
+  "status": "near-miss",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "From Interests to Semantic IDs: Retrieval-Grounded Credit Assignment for Generative Recommendation"
+ },
+ "2609.29228": {
+  "status": "screened-out",
+  "first_seen": "2026-09-25",
+  "submitted": "2026-09-24",
+  "title": "Towards An LLM-Driven Unified Conversion Framework for BT and FSM in Autonomous Intelligent Systems"
  }
 }
