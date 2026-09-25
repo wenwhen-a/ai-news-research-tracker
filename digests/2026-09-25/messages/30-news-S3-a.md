@@ -1,0 +1,9 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题，本次共 11 条）**
+- **【中国游戏公司Kingnet(金科文化)出资2.98亿美元加入Wemade收购财团】**（2026-09-25）— 中国游戏公司Kingnet通过其香港子公司向Neosphere注资约2.98亿美元，加入收购韩国《热血传奇》开发商Wemade约6.84亿美元控股权交易的财团，双方此前曾因IP版权纠纷多年对簿公堂。 <https://www.pocketgamer.biz/kingnet-invests-298m-to-join-consortium-behind-684m-wemade-deal/>
+- **【土耳其手游厂商Circle Games完成2500万美元A轮融资，腾讯领投】**（2026-09-24）— 伊斯坦布尔手游工作室Circle Games完成由腾讯领投的2500万美元A轮融资，e2vc、BITKRAFT、a16z Speedrun等老股东跟投，公司计划借此扩大益智游戏产品线并将团队规模翻倍。 <https://www.pocketgamer.biz/circle-games-raises-25m-in-series-a-led-by-tencent/>
+- **【Roblox就洛杉矶县儿童安全诉讼申请驳回被法院拒绝，案件将继续审理】**（2026-09-25）— 法院驳回了Roblox要求终止洛杉矶县提起的儿童安全相关诉讼的申请，案件将继续进入审理程序。 <https://www.pocketgamer.biz/roblox-loses-bid-to-halt-los-angeles-county-child-safety-lawsuit/>
+- **【Supercell《mo.co》重返测试阶段，工作室拟对游戏进行重大调整】**（2026-09-24）— Supercell宣布旗下游戏《mo.co》重新进入测试阶段，工作室计划对游戏进行较大幅度的调整。 <https://www.pocketgamer.biz/supercells-moco-heads-back-into-beta-as-studio-plans-major-changes/>
+- **【欧盟《儿童安全法案》草案拟禁止游戏每日登录奖励与连续登录机制】**（2026-09-24）— 欧盟《儿童安全法案》（KIDS Act）草案拟禁止面向未成年人的游戏设置每日登录奖励与连续登录激励机制。 <https://www.pocketgamer.biz/daily-log-in-bonuses-and-activity-streaks-under-threat-in-eu-kids-act/>
+- **【报告：8月全球手游内购收入66亿美元，《王者荣耀》居畅销榜首】**（2026-09-24）— 据Sensor Tower数据，2026年8月全球手游内购收入达66亿美元，《王者荣耀》位居畅销榜首位。 <https://www.pocketgamer.biz/mobile-games-generate-66bn-in-august-as-honor-of-kings-leads-player-spending/>
+- **【King与瑞典工会达成集体协议，罢工行动在开始前数小时被撤销】**（2026-09-25）— King在瑞典工会原定罢工行动开始前数小时，与相关工会达成集体谈判协议，罢工计划随即被撤销。 <https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers>
+- **【《圣女之路》导演野间卓文携手Good Smile Company公布全新奇幻IP与动作RPG新作】**（2026-09-25）— 《圣女之路》（Unicorn Overlord）导演野间卓文与Good Smile Company合作，公布全新原创IP"IGNISPHERE"及动作角色扮演新作《DAWNGAZER》。 <https://www.gematsu.com/2026/09/unicorn-overlord-director-takafumi-noma-announces-fantasy-ip-ignisphere-and-action-rpg-dawngazer-for-ps5-switch-2-and-pc>

@@ -1,0 +1,3 @@
+- **【《马里奥赛车巡回赛》上线告别纪念活动，9月30日正式停运】**（2026-09-24）— 任天堂手游《马里奥赛车巡回赛》上线最后一次周年纪念活动，游戏将于9月30日正式停止运营。 <https://www.pocketgamer.biz/mario-kart-tour-enters-final-lap-with-anniversary-tour-ahead-of-shutdown/>
+- **【前Avalanche Studios负责人Natalie Francis出任Massive Entertainment董事总经理】**（2026-09-24）— 前Avalanche Studios负责人Natalie Francis加入育碧旗下Massive Entertainment工作室，出任董事总经理一职。 <https://www.gamedeveloper.com/business/former-avalanche-studios-chief-natalie-francis-joins-massive-entertainment-as-managing-director>
+- **【Meta发布重量约100克、售价1300美元的新一代AR眼镜，涉及多款VR游戏适配】**（2026-09-24）— Meta在Connect大会上发布新一代AR眼镜，重量约100克，售价1300美元，并公布了包括《Beat Saber》《Payday》VR版在内的多款游戏适配内容。 <https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300>
