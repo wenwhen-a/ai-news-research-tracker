@@ -1,0 +1,16 @@
+**[新闻 3] AI图像公司Black Forest Labs发布开源世界行动模型FLUX 3 Action，无死亡通关《毁灭战士》**
+- **日期：** 2026-09-23
+- **来源链接：** <https://venturebeat.com/infrastructure/black-forest-labs-debuts-flux-3-action-an-open-weights-ai-robotics-model-that-tops-the-leaderboard-at-half-the-size-of-its-competition>
+- **核心事实（发生了什么）：**
+  - FLUX 3 Action是一个70亿参数的“世界行动模型”(World Action Model)，输入摄像头画面、机器人状态与自然语言指令，单次前向推理即可同时预测下一步动作与场景变化
+  - 在NVIDIA RoboLab-120基准测试中取得42.92%成功率，超过此前开源最佳模型Cosmos3-Nano-Policy（160亿参数）6.1个百分点，而参数量不到对方一半
+  - 运行速度比Cosmos3-Nano-Policy快1.43倍
+  - 官方演示中，该模型驱动的策略操控第一人称视角与角色枪械手臂，在无游戏内死亡的情况下通关了《毁灭战士》，并完成了真实世界无人机飞行任务
+  - 在抓取放置类任务测试中，模型展现出失败后自我纠正的能力
+- **背景与起因（为什么会发生）：**
+  - Black Forest Labs由前Stable Diffusion核心研发人员于2024年创立，总部位于德国弗赖堡和美国旧金山，此前以FLUX系列图像生成模型闻名业界
+  - 公司已累计获得超过4.5亿美元融资，其中2025年12月完成3亿美元B轮融资，估值达32.5亿美元
+  - 用游戏作为具身智能/机器人策略模型的能力试炼场，是2026年AI行业验证“世界模型”通用性的常见做法，此前包括Google DeepMind、OpenAI等也曾以《我的世界》等游戏测试模型的空间与因果推理能力
+- **结果与进展（已经产生了什么结果）：**
+  - 相关成果已由VentureBeat、MarkTechPost等科技媒体报道并核实，属于公司官方发布配合独立媒体验证的早期研究演示，Black Forest Labs自身将其定性为“早期实验”而非量产能力
+  - 模型权重已开源供开发者微调，截至发稿尚无第三方游戏工作室或机器人公司宣布正式采用
