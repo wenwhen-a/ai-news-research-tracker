@@ -1,0 +1,14 @@
+**[新闻 1] 模组作者借NVIDIA RTX Remix为27年老游戏《GTA 2》加入全路径追踪与AI帧生成**
+- **日期：** 2026-09-25
+- **来源链接：** <https://www.dsogaming.com/mods/grand-theft-auto-2-rtx-remix-path-tracing-mod-released/；https://www.tomshardware.com/video-games/pc-gaming/27-year-old-gta-2-gets-full-path-tracing-and-60-fps-frame-generation-via-rtx-remix-custom-direct3d-9-wrapper-modernizes-classic-with-custom-direct3d-9-bridge-unlocks-dynamic-lighting>
+- **核心事实（发生了什么）：**
+  - 模组作者“gabdeg”发布免费模组“GTA2 RTX Remix”，利用NVIDIA RTX Remix平台为1999年发行、后由Rockstar于2004年12月免费放出的经典游戏《GTA 2》重写渲染管线
+  - 模组通过自定义Direct3D 9封装层（wrapper）现代化游戏渲染流程，加入实时全路径追踪光照，火焰、爆炸与枪口火光均可产生动态光照效果
+  - 新增基于“Remix Plus”的动态昼夜循环系统、部分材质的自发光贴图（emissive maps），并修复16:9宽屏比例下角色与载具的裁切/消隐问题
+  - 支持NVIDIA帧生成（Frame Generation）技术，目标为60帧每秒运行，玩家可通过游戏内F4面板实时调整光照与时间设定
+  - 该模组依赖NVIDIA RTX Remix的路径追踪管线，因此仅支持具备硬件光线追踪能力的NVIDIA RTX系列显卡，不支持AMD或Intel显卡
+- **背景与起因（为什么会发生）：**
+  - RTX Remix是NVIDIA面向老旧游戏的模组化神经渲染/路径追踪改造平台，此前已被用于《大逃杀》《毁灭战士》等经典游戏的高保真重制
+  - 该平台生态持续扩张，此类由社区自发驱动的老游戏重制体现了NVIDIA硬件与AI渲染技术向长尾经典游戏市场的渗透
+- **结果与进展（已经产生了什么结果）：**
+  - 模组已于2026年9月25日发布，可通过GitHub下载，需搭配免费获取的《GTA 2》原版游戏本体运行

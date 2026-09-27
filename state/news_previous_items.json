@@ -30,26 +30,6 @@
   "date": "2026-09-13"
  },
  {
-  "title": "Twitch测试生成式AI\"直播教练\"功能为主播提供反馈",
-  "url": "https://www.dexerto.com/twitch/twitch-is-testing-an-ai-stream-coach-that-gives-creators-feedback-after-every-broadcast-3408520/",
-  "date": "2026-09-12"
- },
- {
-  "title": "Meta在孟买举办\"Create & Play with Meta AI\"游戏创作快闪活动",
-  "url": "https://technosports.co.in/metas-create-play-with-meta-ai-gaming/",
-  "date": "2026-09-12"
- },
- {
-  "title": "AI生成的《RuneScape》克隆游戏爆红后被Jagex要求下架",
-  "url": "https://www.dexerto.com/gaming/viral-ai-made-runescape-clone-shut-down-after-jagex-demands-takedown-3408509/",
-  "date": "2026-09-12"
- },
- {
-  "title": "玩家用DLSS 5多重叠加渲染将《辐射：新维加斯》变成\"噩梦画面\"",
-  "url": "https://insider-gaming.com/fallout-new-vegas-remaster-nightmare-fuel-ai/",
-  "date": "2026-09-12"
- },
- {
   "title": "《天国：拯救2》导演力挺DLSS 5：能还原被引擎灯光掩盖的模型细节",
   "url": "https://wccftech.com/daniel-vavra-nvidia-dlss-5-kcd2-aesthetics/",
   "date": "2026-09-14"
@@ -193,11 +173,6 @@
   "title": "Level-5社长因Nintendo Direct预告片中被发现使用生成式AI而道歉",
   "url": "https://www.pocketgamer.biz/level-5-ceo-apologises-after-ai-use-in-recent-game-reveals/",
   "date": "2026-09-15"
- },
- {
-  "title": "前暴雪开发者称其\"AI优先\"昆之引擎（Kun-Zhi Engine）速度是虚幻引擎的93倍",
-  "url": "https://tbreak.com/em8er-ai-game-engine-kun-zhi-unreal-93x/",
-  "date": "2026-09-12"
  },
  {
   "title": "调查：35%的游戏工作室创始人曾因AI可完成工作而放弃招聘",
@@ -2140,5 +2115,131 @@
   "date": "2026-09-25",
   "section": 3,
   "posted": "2026-09-26"
+ },
+ {
+  "title": "模组作者借NVIDIA RTX Remix为27年老游戏《GTA 2》加入全路径追踪与AI帧生成",
+  "url": "https://www.dsogaming.com/mods/grand-theft-auto-2-rtx-remix-path-tracing-mod-released/；https://www.tomshardware.com/video-games/pc-gaming/27-year-old-gta-2-gets-full-path-tracing-and-60-fps-frame-generation-via-rtx-remix-custom-direct3d-9-wrapper-modernizes-classic-with-custom-direct3d-9-bridge-unlocks-dynamic-lighting",
+  "date": "2026-09-25",
+  "section": 1,
+  "posted": "2026-09-27"
+ },
+ {
+  "title": "英国最大桌游展UK Games Expo宣布禁止AI生成游戏及周边参展",
+  "url": "https://kotaku.com/uks-largest-tabletop-convention-bans-ai-with-few-exceptions-2000737334",
+  "date": "2026-09-26",
+  "section": 1,
+  "posted": "2026-09-27"
+ },
+ {
+  "title": "TapTap上半年新游数量暴增逾8倍，AI生成游戏占比超八成，心动公司股价应声上涨",
+  "url": "https://www.sohu.com/a/1080033672_122004016；https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-22/doc-inissitf7032251.shtml",
+  "date": "2026-09-23",
+  "section": 1,
+  "posted": "2026-09-27"
+ },
+ {
+  "title": "米哈游云栖大会披露《崩坏：星穹铁道》AI NPC与自进化Agent玩法进展",
+  "url": "https://www.qbitai.com/2026/09/497613.html；https://www.163.com/dy/article/L7OTFQ1F0511DSSR.html",
+  "date": "2026-09-26",
+  "section": 1,
+  "posted": "2026-09-27"
+ },
+ {
+  "title": "英伟达CEO黄仁勋回应AI裁员论：称“AI消灭工作”是谬论，警告实验室须为安全负责",
+  "url": "https://insider-gaming.com/nvidia-ceo-jensen-huang-calls-latest-ai-fears-a-distraction-to-the-real-concern/",
+  "date": "2026-09-25",
+  "section": 2,
+  "posted": "2026-09-27"
+ },
+ {
+  "title": "AI三维生成公司Meshy发布SeamFlow技术，用流匹配算法自动化UV展开",
+  "url": "https://www.meshy.ai/blog/seamflow-flow-matching-uv-unwrapping",
+  "date": "2026-09-21",
+  "section": 2,
+  "posted": "2026-09-27"
+ },
+ {
+  "title": "Meshy发布纹理还原度基准测试，称其7代模型贴图质量排名第一",
+  "url": "https://www.meshy.ai/blog/texture-alignment-benchmark",
+  "date": "2026-09-21",
+  "section": 2,
+  "posted": "2026-09-27"
+ },
+ {
+  "title": "首尔中学教师用AI三维建模工具Meshy加速学生游戏与产品设计课堂原型制作",
+  "url": "https://www.meshy.ai/blog/ai-3d-modeling-student-prototyping",
+  "date": "2026-09-23",
+  "section": 2,
+  "posted": "2026-09-27"
+ },
+ {
+  "title": "《我的世界》2026年秋季Live直播公布首个14年来的新维度「The Sift」",
+  "url": "https://www.windowscentral.com/gaming/minecraft/minecraft-live-2026-everything-announced",
+  "date": "2026-09-26",
+  "section": 3,
+  "posted": "2026-09-27"
+ },
+ {
+  "title": "据报道：Xbox为小岛秀夫《PHYSINT》支付的预算仅为传闻中索尼版4亿美元报价的“一小部分”",
+  "url": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
+  "date": "2026-09-26",
+  "section": 3,
+  "posted": "2026-09-27"
+ },
+ {
+  "title": "万代南梦宫撤下《SYNDUALITY: Echo of Ada》联机服务，转型为单机版本",
+  "url": "https://www.pushsquare.com/news/2026/09/another-live-service-ps5-game-bites-the-dust-but-itll-be-transformed-into-an-offline-title",
+  "date": "2026-09-26",
+  "section": 3,
+  "posted": "2026-09-27"
+ },
+ {
+  "title": "Epic旗下《火箭赛车》将于10至11月关闭全平台Xbox主机服务器",
+  "url": "https://www.purexbox.com/news/2026/09/two-xbox-games-are-shutting-down-their-servers-across-october-and-november-2026",
+  "date": "2026-09-27",
+  "section": 3,
+  "posted": "2026-09-27"
+ },
+ {
+  "title": "《地狱即我们》Switch 2版本二度跳票至10月27日",
+  "url": "https://www.nintendolife.com/news/2026/09/hell-is-us-shifts-switch-2-launch-due-to-very-busy-september-release-window",
+  "date": "2026-09-26",
+  "section": 3,
+  "posted": "2026-09-27"
+ },
+ {
+  "title": "《GTA6》登上《Game Informer》下期封面，杂志将于9月29日发行独家专访与新截图",
+  "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
+  "date": "2026-09-26",
+  "section": 3,
+  "posted": "2026-09-27"
+ },
+ {
+  "title": "索尼申请可读取信用卡与手机触碰付款的PS手柄专利",
+  "url": "https://www.videogameschronicle.com/news/sony-patents-playstation-controller-that-accepts-credit-card-payments/",
+  "date": "2026-09-27",
+  "section": 3,
+  "posted": "2026-09-27"
+ },
+ {
+  "title": "《煮糊了》开发商Ghost Town Games透露工作室将转型开发“非派对类”新作",
+  "url": "https://www.nintendolife.com/features/interview-were-not-making-a-party-game-now-its-more-of-an-evening-thing-ghost-town-is-moving-on-from-overcooked",
+  "date": "2026-09-26",
+  "section": 3,
+  "posted": "2026-09-27"
+ },
+ {
+  "title": "顽皮狗上线PS5动态壁纸庆祝2026年“最后生还者日”",
+  "url": "https://www.pushsquare.com/news/2026/09/ps5s-welcome-hub-adds-animated-the-last-of-us-wallpaper",
+  "date": "2026-09-26",
+  "section": 3,
+  "posted": "2026-09-27"
+ },
+ {
+  "title": "任天堂公布《塞尔达传说：时光之笛》Switch 2重制版加纳多夫延长片段",
+  "url": "https://www.nintendolife.com/news/2026/09/and-now-an-evil-has-appeared-nintendo-releases-extended-zelda-ocarina-of-time-switch-2-clip",
+  "date": "2026-09-26",
+  "section": 3,
+  "posted": "2026-09-27"
  }
 ]
