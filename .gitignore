@@ -18,3 +18,5 @@ screened.json
 sim_*
 site_candidates.json
 verify_*.md
+raw_*.json
+recent_coverage.txt
