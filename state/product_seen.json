@@ -302,5 +302,45 @@
   "first_seen": "2026-09-28",
   "release_date": "2026-09-23",
   "summary": "Meta unveiled Hologram at Connect 2026, a photorealistic real-time digital representation of a user's face for calls, generated from a short self-capture and driven by voice/expression inference. Meta states it \"begins rolling out in Early Access on WhatsApp to Meta Ray-Ban Display users in the US later this fall\" and will come to Meta VR Glasses at their spring 2027 launch — not usable by any customer yet."
+ },
+ "https://www.prnewswire.com/news-releases/bringing-digital-characters-to-life-tencent-games-motus-makes-gamescom-debut-with-end-to-end-ai-animation-pipeline-302861442.html": {
+  "name": "Motus (Tencent Games end-to-end AI character-animation pipeline)",
+  "company": "Tencent",
+  "tier": "GA (internal studio tool)",
+  "first_seen": "2026-09-28",
+  "release_date": "2026-08-27",
+  "summary": "Tencent Games' Central Tech group states Motus is an end-to-end generative AI pipeline covering rigging, skinning, text/video/keyframe-driven motion generation, automated animation-defect correction, and real-time audio/text-driven facial and body animation, \"currently integrated into over 90 projects\" including Peace Elite and The Finals; debuted publicly at Gamescom Cologne on 2026-08-27."
+ },
+ "https://www.qualcomm.com/developer/blog/2026/09/introducing-adreno-neural-fusion-sdk-for-snapdragon-mobile-platforms": {
+  "name": "Adreno Neural Fusion (ANF)",
+  "company": "Qualcomm",
+  "tier": "GA",
+  "first_seen": "2026-09-28",
+  "release_date": "2026-09-22",
+  "summary": "Qualcomm's AI rendering SDK unifying neural super resolution and frame generation on new Adreno matrix-core hardware, shipping with a public SDK, Unreal Engine 5 plugin and Unity 6.6+ support alongside Snapdragon 8 Elite Gen 6/Extreme Gen 6 silicon; first commercial phones shipped 2026-09-23."
+ },
+ "https://unity.com/blog/unite-seoul-keynote-2026-recap": {
+  "name": "Unity 7",
+  "company": "Unity",
+  "tier": "Announced only",
+  "first_seen": "2026-09-28",
+  "release_date": "2026-07-21",
+  "summary": "Unity previewed Unity 7 at Unite Seoul 2026, a CoreCLR/.NET-modernized engine core with new 2D/3D graphics tooling and a free built-in MCP server and CLI; Unity states features and timing are still in development and availability could differ materially."
+ },
+ "https://magicdawn.tencent.com/?lang=en": {
+  "name": "MagicDawn (cross-engine global-illumination/rendering brand)",
+  "company": "Tencent",
+  "tier": "Announced only",
+  "first_seen": "2026-09-28",
+  "release_date": "2026-08-27",
+  "summary": "Tencent Games unveiled MagicDawn, a cross-engine global-illumination and rendering technology brand aimed at open-world lighting and performance, alongside Motus and GIGA under its new Tencent Games Central Tech brand; no external release, pricing or engine-plugin availability was stated."
+ },
+ "https://news.qq.com/rain/a/20260829A0BD2J00": {
+  "name": "GIGA (general-purpose game-playing AI agent framework)",
+  "company": "Tencent",
+  "tier": "Announced only",
+  "first_seen": "2026-09-28",
+  "release_date": "2026-08-27",
+  "summary": "Tencent Games disclosed GIGA, a general-purpose game-playing AI agent framework for vision-based decision-making and instruction alignment, as part of its Gamescom 2026 Central Tech reveal alongside Motus and MagicDawn; no product surface, access path or ship date was given."
  }
 }

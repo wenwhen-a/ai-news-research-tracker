@@ -1,0 +1,7 @@
+**Announced only (not yet usable)**
+- Hologram (photorealistic real-time avatar for calls) · Meta · 2026-09-23 · <https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/> — begins Early Access on WhatsApp for Meta Ray-Ban Display users in the US "later this fall"; not usable by any customer today.
+- GIGA (general-purpose game-playing AI agent framework) · Tencent · 2026-08-27 · <https://news.qq.com/rain/a/20260829A0BD2J00> — research-agenda framing (vision-based decision-making, instruction alignment); no product surface or ship date given.
+- MagicDawn (cross-engine global-illumination/rendering brand) · Tencent · 2026-08-27 · <https://magicdawn.tencent.com/?lang=en> — addresses open-world lighting/performance; no external release, pricing or engine-plugin availability stated.
+- Unity 7 (CoreCLR/.NET-modernized engine core, new 2D/3D graphics tooling, free built-in MCP server + CLI) · Unity · 2026-07-21 · <https://unity.com/blog/unite-seoul-keynote-2026-recap> — Unity's own post states features/timing are "still in development" and availability "could differ materially."
+- (5 previously reported Announced-only items are carried forward in the list above: Roblox Scene Generator, RDC 2026 roadmap items, Roblox Creator Roadmap 2026 Fall Update, HappyOyster Directing, HappyOyster Acting)
+Excluded on review: 3 paper near-misses and product near-misses — details in the repository digest, not posted here.
