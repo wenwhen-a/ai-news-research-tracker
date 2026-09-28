@@ -294,5 +294,13 @@
   "first_seen": "2026-09-25",
   "release_date": "2026-09-23",
   "summary": "Roblox's EditableMesh API gained a new AddFace() method accepting either three or four vertex IDs, letting creators build four-sided quad faces directly instead of manually splitting every quad into two triangles."
+ },
+ "https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/": {
+  "name": "Hologram (photorealistic real-time avatar for calls)",
+  "company": "Meta",
+  "tier": "Announced only",
+  "first_seen": "2026-09-28",
+  "release_date": "2026-09-23",
+  "summary": "Meta unveiled Hologram at Connect 2026, a photorealistic real-time digital representation of a user's face for calls, generated from a short self-capture and driven by voice/expression inference. Meta states it \"begins rolling out in Early Access on WhatsApp to Meta Ray-Ban Display users in the US later this fall\" and will come to Meta VR Glasses at their spring 2027 launch — not usable by any customer yet."
  }
 }
