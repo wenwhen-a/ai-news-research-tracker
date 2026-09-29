@@ -21,7 +21,7 @@ LIMIT = 1960  # headroom below Discord's 2000-char cap to absorb <url> wrapping 
 EMBED_FIELDS = 25       # Discord: max fields per embed
 EMBED_CHARS = 5500      # keep under Discord's 6000-char total per message
 
-URL_RE = re.compile(r"<?(https?://[^\s<>]+)>?")
+URL_RE = re.compile(r"<?(https?://[^\s<>（）【】，。；、“”「」]+)>?")
 
 def _wrap_one(m):
     url, tail = m.group(1), ""

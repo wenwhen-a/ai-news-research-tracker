@@ -22,7 +22,7 @@ SRC, OUT = sys.argv[1], sys.argv[2]
 TODAY = sys.argv[3] if len(sys.argv) > 3 else ""
 os.makedirs(OUT, exist_ok=True)
 
-URL_RE = re.compile(r"<?(https?://[^\s<>]+)>?")
+URL_RE = re.compile(r"<?(https?://[^\s<>（）【】，。；、“”「」]+)>?")
 
 def _wrap_one(m):
     url, tail = m.group(1), ""
