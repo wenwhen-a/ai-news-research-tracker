@@ -212,9 +212,15 @@ files = {}
 winA, itemsA, trailA = parse_section(sections["A"][1]) if "A" in sections else ("", [], "")
 winB, itemsB, trailB = parse_section(sections["B"][1]) if "B" in sections else ("", [], "")
 
-# split Part B items into new vs previously reported
+# Part B: only NEW and UPDATED products are posted. Products reported earlier are never re-listed;
+# they come back only as an "Update" item when something material changed (tier, major version,
+# availability, pricing). Any leftover "Previously reported" items/blocks are dropped from Discord.
 newB = [(t, b) for t, b in itemsB if "Previously reported" not in b]
-prevB = [(t, b) for t, b in itemsB if "Previously reported" in b]
+prevB = []  # intentionally not posted
+def is_update(body):
+    return bool(re.search(r"\*\*Status:\*\*[^\n]*\bUpdate", body)) or "**Update**" in body
+nB_new = sum(1 for _, b in newB if not is_update(b))
+nB_upd = len(newB) - nB_new
 
 date = re.search(r"to (\d{4}-\d{2}-\d{2})\)", winA or winB)
 date = date.group(1) if date else "today"
@@ -237,15 +243,16 @@ if winB:
     header += ["**Part B — Research → Product.** " + short_window(winB), ""]
 prev_papers_note = ("compact cards (title · companies · one line) follow" if SHOW_PREV_PAPERS_LIST
                      else "a one-line count by topic follows; the full list posts on Fridays")
-header += [f"One message per new item: {len(itemsA)} new papers (A01–A{len(itemsA):02d}), "
-           f"{len(newB)} new products (B01–B{len(newB):02d}). Previously reported products follow as compact cards; "
-           f"for previously reported papers, {prev_papers_note}. Near-miss details are kept in the repository digest."]
+header += [f"One message per item: {len(itemsA)} new papers (A01–A{len(itemsA):02d}), "
+           f"{nB_new} new and {nB_upd} updated products (B01–B{len(newB):02d}). Products reported earlier are not repeated; "
+           f"they return only when they change. For previously reported papers, {prev_papers_note}. "
+           "Near-miss details are kept in the repository digest."]
 files["50-research-header.md"] = "\n".join(header)
 
 for i, (t, b) in enumerate(itemsA, 1):
     files[f"60-A{i:02d}-{slug(t)}.md"] = condense(t, b, f"[A{i:02d}]")
 for i, (t, b) in enumerate(newB, 1):
-    files[f"70-B{i:02d}-{slug(t)}.md"] = condense(t, b, f"[B{i:02d}]")
+    files[f"70-B{i:02d}-{slug(t)}.md"] = condense(t, b, f"[B{i:02d} · Update]" if is_update(b) else f"[B{i:02d}]")
 if prevB:
     rows = []
     for t, b in prevB:
@@ -275,7 +282,7 @@ if mprevB:
         url = next((p for p in parts if p.startswith("http")), "")
         summ = product_state.get(url, {}).get("summary", "") if url else ""
         rows.append((name, f"{comp} — {summ}".strip(" —")))
-    files.update(embed_files("75", "Previously reported products (still in the 90-day window)", rows))
+    # not posted any more (products are not re-listed); the block is only removed from the footer text
     trailB = trailB[:mprevB.start()] + trailB[mprevB.end():]
 
 # Part A previously reported papers: full compact embed cards on Fridays only (title · companies ·
