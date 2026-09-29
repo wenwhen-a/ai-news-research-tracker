@@ -1,0 +1,9 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **[《异形：火力小队2》开发商Cold Iron Studios进行裁员]**（2026-09-28）— 《异形：火力小队2》开发商Cold Iron Studios宣布裁员，具体人数未披露；工作室表示这是围绕当前开发与运营需求做出的艰难决定。 <https://massivelyop.com/2026/09/28/aliens-fireteam-elite-2-dev-cold-iron-studios-suffers-an-undisclosed-number-of-layoffs/>
+- **[育碧已取消项目《Project U》游戏画面截图遭泄露]**（2026-09-28）— 据Insider Gaming记者Tom Henderson报道，育碧已取消的PvPvE项目《Project U》（原名Pathfinder）的游戏内截图在网络上流出，该项目历经约七年开发后于2026年初因公司重组被砍。 <https://insider-gaming.com/project-u-gameplay-screenshot/>
+- **[《空战奇兵8：西弗之翼》豪华版提前开启，首批评测均分88]**（2026-09-28）— 万代南梦宫《空战奇兵8：西弗之翼》豪华版于9月28日提前解锁试玩，正式版将于10月1日发售，首批媒体评测在Metacritic上取得88分均分，成为2026年评分最高的游戏之一。 <https://www.purexbox.com/news/2026/09/ace-combat-8s-first-reviews-are-making-it-one-of-the-highest-rated-games-of-2026>
+- **[暴雪《风暴英雄》时隔六年迎来新英雄萨拉塔斯]**（2026-09-28）— 暴雪《风暴英雄》第91位英雄萨拉塔斯（Xal'atath）于9月28日正式上线，这是该游戏自2020年霍格（Hogger）之后时隔六年推出的首个新英雄，定位为远程刺客。 <https://news.blizzard.com/en-us/article/24303314/xalatath-has-joined-heroes-of-the-storm>
+- **[合作解谜之作《Seikyu: Let's Go》公布，计划年内登陆PC]**（2026-09-28）— Ace Entertainment与Logoi Games公布了1-4人合作公路旅行游戏《Seikyu: Let's Go》，设定于《Tales of Seikyu》世界观中，计划2026年第四季度登陆PC。 <https://simulationdaily.com/news/today-in-gaming-news-september-282026/>
+- **[《日式拉面模拟器》因Steam审核延迟推迟抢先体验上线]**（2026-09-28）— 开发商Wild Dog的合作拉面店经营模拟游戏《日式拉面模拟器》原定9月28日开启Steam抢先体验，因平台预发布审核流程延迟而推迟，官方表示很快会公布新的上线时间。 <https://store.steampowered.com/news/app/4968640/view/678510595516926037?l=english>
+- **[《我的世界：地下城2》正式发售，探索全新维度「筛选之地」]**（2026-09-29）— Mojang Studios与Double Eleven开发、Xbox Game Studios发行的动作RPG《我的世界：地下城2》于9月29日发售，登陆PC、Xbox、Switch/Switch 2及PS5，带玩家进入名为「筛选之地」的新维度。 <https://www.minecraft.net/en-us/article/minecraft-dungeons-ii-date-announce>
+- **[《侏罗纪世界：进化3》推出「东方史前」付费资料片及1.5免费更新]**（2026-09-29）— Frontier Developments为《侏罗纪世界：进化3》推出付费资料片「东方史前」，新增南雄龙、川龙等五种恐龙，同时随附免费的1.5版本更新，已登陆Steam、Epic、PlayStation及Xbox平台。 <https://www.jurassicworldevolution.com/3/news/jurassic-world-evolution-3-prehistoric-east-coming-29-september>

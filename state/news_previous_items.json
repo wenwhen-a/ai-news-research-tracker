@@ -1,75 +1,5 @@
 [
  {
-  "title": "AI Server Demand Pushes RTX 5090 Gaming GPU Prices Above $5,000",
-  "url": "https://tech4gamers.com/rtx-5090-now-top-5000/",
-  "date": "2026-09-14"
- },
- {
-  "title": "Niko Partners: Generative AI Becomes Core Driver as China's Game Market Heads to $59.8B by 2030",
-  "url": "https://gamesbeat.com/exclusive-chinas-game-market-expected-to-grow-4-in-2026-and-hit-59-8b-by-2030-niko-partners/",
-  "date": "2026-09-14"
- },
- {
-  "title": "Xsolla Launches AI Toolkit to Let Coding Agents Build Game Storefronts",
-  "url": "https://www.inven.co.kr/webzine/news/?news=320841",
-  "date": "2026-09-14"
- },
- {
-  "title": "Independent Testing Reveals the Real Power and Thermal Cost of DLSS 5 Neural Rendering",
-  "url": "https://www.digit.in/features/gaming/dlss-5-debuts-with-nba-2k27-and-our-rtx-5090-testing-shows-the-cost-of-neural-rendering.html",
-  "date": "2026-09-14"
- },
- {
-  "title": "AI原生手游厂商Arcustin Games获50万美元种子轮融资",
-  "url": "https://tech.eu/2026/09/14/ai-native-game-studio-arcustin-games-raises-500k-from-webrazzi-gsyf",
-  "date": "2026-09-14"
- },
- {
-  "title": "《天国：拯救2》导演力挺DLSS 5：能还原被引擎灯光掩盖的模型细节",
-  "url": "https://wccftech.com/daniel-vavra-nvidia-dlss-5-kcd2-aesthetics/",
-  "date": "2026-09-14"
- },
- {
-  "title": "Netflix developing animated Diablo series with Blizzard",
-  "url": "https://www.pocketgamer.biz/hot-five-lego-digital-play-acquires-offroad-games-unity-launches-claude-code-plugin-and-pokemon-go-is-top-grossing-mobile-game-of-early-september/",
-  "date": "2026-09-14"
- },
- {
-  "title": "Culdcept Begins tops 100,000 units shipped",
-  "url": "https://www.famitsu.com/",
-  "date": "2026-09-14"
- },
- {
-  "title": "Xbox CEO Asha Sharma visits Kojima Productions after Physint deal",
-  "url": "https://www.purexbox.com/news/2026/09/to-invention-and-adventure-together-xbox-boss-visits-kojima-productions-to-mark-new-era",
-  "date": "2026-09-14"
- },
- {
-  "title": "Monster Hunter Now passes $336.9 million in three years on mobile",
-  "url": "https://www.pocketgamer.biz/monster-hunter-now-makes-3369m-in-three-years-on-mobile/",
-  "date": "2026-09-14"
- },
- {
-  "title": "VR studio Polyarc, maker of Moss, shuts down",
-  "url": "https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down",
-  "date": "2026-09-14"
- },
- {
-  "title": "Worker-owned studio KO_OP confirms layoffs of 13 staff",
-  "url": "https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs",
-  "date": "2026-09-14"
- },
- {
-  "title": "Owlchemy Labs 携手 Artificial Agency 为 XR 游戏加入能动型 AI 角色",
-  "url": "https://gamesbeat.com/owlchemy-taps-artificial-agency-for-agentic-ai-characters-in-dimensional-double-shift-xr-game/",
-  "date": "2026-09-14"
- },
- {
-  "title": "Valve 正式公开 Steam Frame VR 头显售价",
-  "url": "https://gameinformer.com/2026/09/14/heres-how-to-get-a-steam-frame-valves-vr-headset-and-how-much-it-costs",
-  "date": "2026-09-14"
- },
- {
   "title": "《辐射 76》9 月 15 日推出 PS5/Xbox Series 原生版本",
   "url": "https://gamerant.com/fallout-76-next-gen-update-ps5-september-15/",
   "date": "2026-09-15"
@@ -100,21 +30,6 @@
   "date": "2026-09-15"
  },
  {
-  "title": "FISSURE Playground 3 落幕：Legacy 夺冠",
-  "url": "https://www.hltv.org/news/45509/legacy-sweep-g2-to-lift-fissure-playground-3-trophy",
-  "date": "2026-09-14"
- },
- {
-  "title": "调研：订阅费用成 Game Pass 与 PS Plus 退订首要原因",
-  "url": "https://meyka.com/blog/xbox-game-pass-faces-subscriber-exodus-as-cost-concerns-peak-in-september-2026-1209/",
-  "date": "2026-09-14"
- },
- {
-  "title": "Curve Games 与 Wayfinder Studios 达成发行合作",
-  "url": "https://mcvuk.com/business-news/industry-news-curve-games-signals-growth-ambition-with-major-wyldheart-publishing-deal/",
-  "date": "2026-09-14"
- },
- {
   "title": "《TCG Card Shop Simulator》1.0 版正式发售",
   "url": "https://simulationdaily.com/news/today-in-gaming-news-september-14-2026/",
   "date": "2026-09-15"
@@ -123,11 +38,6 @@
   "title": "Level-5社长因Nintendo Direct预告片中被发现使用生成式AI而道歉",
   "url": "https://www.pocketgamer.biz/level-5-ceo-apologises-after-ai-use-in-recent-game-reveals/",
   "date": "2026-09-15"
- },
- {
-  "title": "调查：35%的游戏工作室创始人曾因AI可完成工作而放弃招聘",
-  "url": "https://www.pocketgamer.biz/report-35-of-game-founders-have-skipped-hiring-because-of-ai/",
-  "date": "2026-09-14"
  },
  {
   "title": "《007：第一道曙光》更新加入路径追踪与DLSS 4.5光线重建",
@@ -145,24 +55,9 @@
   "date": "2026-09-16"
  },
  {
-  "title": "Take-Two前AI负责人Luke Dicken将在PGC Nordics谈AI炒作周期",
-  "url": "https://www.pocketgamer.biz/take-twos-former-head-of-ai-dr-luke-dicken-to-speak-at-pgc-nordics/",
-  "date": "2026-09-14"
- },
- {
   "title": "AI 3D生成工具Meshy将亮相东京电玩展2026",
   "url": "https://www.4gamer.net/games/991/G999101/20260915020/",
   "date": "2026-09-15"
- },
- {
-  "title": "报告：中国游戏行业AI岗位需求同比增长127%",
-  "url": "https://www.jiemian.com/article/15090002.html",
-  "date": "2026-09-14"
- },
- {
-  "title": "Com2uS Platform赞助首届\"AI游戏音效设计挑战赛\"",
-  "url": "https://www.invenglobal.com/articles/25986/com2us-platform-sponsors-ai-game-sound-design-challenge",
-  "date": "2026-09-14"
  },
  {
   "title": "《金刚狼》正式登陆PS5全球发售",
@@ -2277,5 +2172,173 @@
   "date": "2026-09-28",
   "section": 3,
   "posted": "2026-09-28"
+ },
+ {
+  "title": "AMD以约82亿美元收购李飞飞创立的空间智能公司World Labs",
+  "url": "https://newsroom.amd.com/news/amd-acquire-world-labs/",
+  "date": "2026-09-28",
+  "section": 1,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "报告：中国头部游戏公司AI渗透率达86%，三七互娱、世纪华通披露具体效率数据",
+  "url": "https://www.cls.cn/detail/2491314",
+  "date": "2026-09-23",
+  "section": 1,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "《巫师3：狂猎—重制版》全平台首发，首发即支持全路径追踪与DLSS 4.5全套技术",
+  "url": "https://www.nvidia.com/en-us/geforce/news/witcher-3-wild-hunt-remastered-path-tracing-dlss-4-5-ray-reconstruction/",
+  "date": "2026-09-29",
+  "section": 1,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "高通发布骁龙8至尊旗舰Gen 6系列芯片，主打端侧AI与移动游戏图形增强",
+  "url": "https://www.pocketgamer.biz/qualcomm-unveils-two-flagship-snapdragon-chips-for-mobile-and-ai-gaming/",
+  "date": "2026-09-25",
+  "section": 1,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "育碧商标文件显示其生成式AI项目统一代号「Motherbrain」",
+  "url": "https://kotaku.com/ubisoft-has-lovingly-named-its-genai-gaming-initiative-motherbrain-2000737907",
+  "date": "2026-09-28",
+  "section": 1,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "腾讯测试AI游戏陪伴产品「鹅次元」",
+  "url": "https://technode.com/2026/09/29/tencent-tests-ai-gaming-companion-that-responds-to-live-gameplay/",
+  "date": "2026-09-29",
+  "section": 2,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "前手游工作室SecretSauce Labs转型解决AI品牌一致性难题",
+  "url": "https://www.pocketgamer.biz/secretsauce-labs-simon-davis-on-leaving-games-behind-and-solving-ais-brand-consistency-problem/",
+  "date": "2026-09-29",
+  "section": 2,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "行业观察：AppLovin曾通过收购游戏工作室获取AI训练数据",
+  "url": "https://www.pocketgamer.biz/xboxs-major-reset-continues-and-reflections-on-applovins-studio-acquisitions-week-in-views/",
+  "date": "2026-09-25",
+  "section": 2,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "搭载「豆包手机」AI助手的手机与《王者荣耀》出现兼容性纠纷",
+  "url": "https://www.cls.cn/detail/2493885",
+  "date": "2026-09-28",
+  "section": 2,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "《异形：火力小队2》开发商Cold Iron Studios进行裁员",
+  "url": "https://massivelyop.com/2026/09/28/aliens-fireteam-elite-2-dev-cold-iron-studios-suffers-an-undisclosed-number-of-layoffs/",
+  "date": "2026-09-28",
+  "section": 3,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "育碧已取消项目《Project U》游戏画面截图遭泄露",
+  "url": "https://insider-gaming.com/project-u-gameplay-screenshot/",
+  "date": "2026-09-28",
+  "section": 3,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "《空战奇兵8：西弗之翼》豪华版提前开启，首批评测均分88",
+  "url": "https://www.purexbox.com/news/2026/09/ace-combat-8s-first-reviews-are-making-it-one-of-the-highest-rated-games-of-2026",
+  "date": "2026-09-28",
+  "section": 3,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "暴雪《风暴英雄》时隔六年迎来新英雄萨拉塔斯",
+  "url": "https://news.blizzard.com/en-us/article/24303314/xalatath-has-joined-heroes-of-the-storm",
+  "date": "2026-09-28",
+  "section": 3,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "合作解谜之作《Seikyu: Let's Go》公布，计划年内登陆PC",
+  "url": "https://simulationdaily.com/news/today-in-gaming-news-september-282026/",
+  "date": "2026-09-28",
+  "section": 3,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "《日式拉面模拟器》因Steam审核延迟推迟抢先体验上线",
+  "url": "https://store.steampowered.com/news/app/4968640/view/678510595516926037?l=english",
+  "date": "2026-09-28",
+  "section": 3,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "《我的世界：地下城2》正式发售，探索全新维度「筛选之地」",
+  "url": "https://www.minecraft.net/en-us/article/minecraft-dungeons-ii-date-announce",
+  "date": "2026-09-29",
+  "section": 3,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "《侏罗纪世界：进化3》推出「东方史前」付费资料片及1.5免费更新",
+  "url": "https://www.jurassicworldevolution.com/3/news/jurassic-world-evolution-3-prehistoric-east-coming-29-september",
+  "date": "2026-09-29",
+  "section": 3,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "摄影冒险游戏《TOEM 2》正式发售",
+  "url": "https://www.gematsu.com/2026/08/toem-2-launches-september-29",
+  "date": "2026-09-29",
+  "section": 3,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "狩猎模拟游戏《猎人之道2》结束抢先体验正式发售",
+  "url": "https://www.gematsu.com/2026/08/way-of-the-hunter-2-launches-september-29",
+  "date": "2026-09-29",
+  "section": 3,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "《经营模拟游戏》Transport Fever 3全平台同步发售",
+  "url": "https://news.instant-gaming.com/en/articles/22122-this-week-s-releases-from-september-28-to-october-4-2026",
+  "date": "2026-09-29",
+  "section": 3,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "更新】[《GTA6》登上《Game Informer》封面正式发行，公布12张新截图",
+  "url": "https://www.thegamer.com/gta-6-news-drop-september-29-game-informer-preview-exclusive-details/",
+  "date": "2026-09-29",
+  "section": 3,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "国产悬疑剧情游戏《乌合之众》正式定档2027年3月",
+  "url": "https://news.17173.com/content/09292026/140155187.shtml",
+  "date": "2026-09-29",
+  "section": 3,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "KPL十周年：16支战队首次齐聚品牌发布会，电竞IP商业化联动",
+  "url": "https://www.sina.cn/weibo/detail/5348576526078152.html",
+  "date": "2026-09-29",
+  "section": 3,
+  "posted": "2026-09-29"
+ },
+ {
+  "title": "《巫师3：狂猎重制版》正式发售，登陆PC及主机全平台",
+  "url": "https://www.notebookcheck.net/The-Witcher-3-Wild-Hunt-Remastered-launches-September-29.1409877.0.html",
+  "date": "2026-09-29",
+  "section": 3,
+  "posted": "2026-09-29"
  }
 ]

@@ -1,0 +1,11 @@
+**[新闻 3] 《巫师3：狂猎—重制版》全平台首发，首发即支持全路径追踪与DLSS 4.5全套技术**
+- **日期：** 2026-09-29
+- **来源链接：** <https://www.nvidia.com/en-us/geforce/news/witcher-3-wild-hunt-remastered-path-tracing-dlss-4-5-ray-reconstruction/> （另见发售信息：<https://www.notebookcheck.net/The-Witcher-3-Wild-Hunt-Remastered-launches-September-29.1409877.0.html）>
+- **核心事实（发生了什么）：**
+  - CD Projekt Red的《巫师3：狂猎—重制版》于9月29日全球同步登陆PC、PS5、Xbox Series X|S及Nintendo Switch 2，并首次登陆战网（Battle.net）平台，原版拥有者可免费升级。
+  - NVIDIA确认该作在GeForce RTX平台首发即支持全路径追踪渲染与DLSS 4.5完整功能，包括新一代AI模型驱动的帧生成、二代超分辨率Transformer模型与光线重建（Ray Reconstruction）技术。
+- **背景与起因（为什么会发生）：**
+  - 该重制版是NVIDIA近期DLSS 4.5技术套件的又一落地案例，此前该套件已应用于《控制：共鸣》《007：第一道曙光》等新作，用以展示RTX 50系列显卡的神经渲染能力。
+  - 更新同时为RTX 50系列引入基于线性扫掠球（LSS）的路径追踪毛发渲染技术，用于提升角色毛发的光影与阴影表现，是该技术首次应用于毛发渲染场景。
+- **结果与进展（已经产生了什么结果）：**
+  - 官方数据显示，RTX 50系列显卡上帧生成倍率最高可达6倍；RTX 5090在4K Ultra+路径追踪画质下可达约385帧每秒。

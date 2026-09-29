@@ -342,5 +342,13 @@
   "first_seen": "2026-09-28",
   "release_date": "2026-08-27",
   "summary": "Tencent Games disclosed GIGA, a general-purpose game-playing AI agent framework for vision-based decision-making and instruction alignment, as part of its Gamescom 2026 Central Tech reveal alongside Motus and MagicDawn; no product surface, access path or ship date was given."
+ },
+ "https://www.nvidia.com/en-us/geforce/news/witcher-3-wild-hunt-remastered-path-tracing-dlss-4-5-ray-reconstruction/": {
+  "name": "The Witcher 3: Wild Hunt — Remastered: Path Tracing & DLSS 4.5 Ray Reconstruction",
+  "company": "NVIDIA",
+  "tier": "GA",
+  "first_seen": "2026-09-29",
+  "release_date": "2026-09-29",
+  "summary": "NVIDIA and CD PROJEKT RED shipped a free update adding full path tracing to The Witcher 3: Wild Hunt — Remastered on PC, with DLSS 4.5 Ray Reconstruction using a second-generation transformer denoising model."
  }
 }

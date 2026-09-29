@@ -1,0 +1,11 @@
+**[新闻 1] AMD以约82亿美元收购李飞飞创立的空间智能公司World Labs**
+- **日期：** 2026-09-28
+- **来源链接：** <https://newsroom.amd.com/news/amd-acquire-world-labs/> （另见 World Labs 官方声明：<https://www.worldlabs.ai/blog/amd-announcement）>
+- **核心事实（发生了什么）：**
+  - AMD宣布以全股票方式收购空间智能公司World Labs，交易金额约82亿美元，交割预计于2026年底前完成。
+  - World Labs创始人李飞飞交割后将出任AMD首席科学家兼执行副总裁，直接向AMD CEO苏姿丰汇报；联合创始人Justin Johnson与Ben Mildenhall将继续带领World Labs团队。
+- **背景与起因（为什么会发生）：**
+  - World Labs专注于开发能从文本、图像和视频生成、重建并模拟可交互三维环境的空间智能模型，这类技术与游戏引擎、图形渲染领域高度相关。
+  - 双方此前已围绕在AMD GPU上进行模型训练与推理优化展开技术合作；AMD表示此次收购意在把握推理、机器人、仿真等新兴AI工作负载对未来硬件与软件提出的需求。
+- **结果与进展（已经产生了什么结果）：**
+  - World Labs团队整体并入AMD，李飞飞将负责AMD的AI科学战略方向；交易尚待完成交割，具体产品整合与游戏/图形领域的落地路径尚未披露细节。
