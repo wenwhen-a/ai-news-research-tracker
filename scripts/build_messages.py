@@ -23,11 +23,20 @@ EMBED_CHARS = 5500      # keep under Discord's 6000-char total per message
 
 URL_RE = re.compile(r"<?(https?://[^\s<>]+)>?")
 
+def _wrap_one(m):
+    url, tail = m.group(1), ""
+    # trailing ASCII punctuation belongs to the sentence, not the URL (keep ")" when it closes a "(" inside the URL)
+    while url and url[-1] in ".,;:!?)]":
+        if url[-1] == ")" and url.count("(") >= url.count(")"):
+            break
+        tail = url[-1] + tail
+        url = url[:-1]
+    return f"<{url}>{tail}"
+
 def wrap_urls(text):
     """Wrap bare URLs in <...> so Discord doesn't auto-unfurl a link preview for them.
-    Applied only to final .md message text, never to .json embed payloads or to text used
-    for URL-keyed lookups (e.g. product_state[url]) earlier in the pipeline."""
-    return URL_RE.sub(lambda m: f"<{m.group(1)}>", text)
+    Stops at whitespace and full-width punctuation and leaves sentence punctuation outside the brackets."""
+    return URL_RE.sub(_wrap_one, text)
 
 
 def companies_of(affil):

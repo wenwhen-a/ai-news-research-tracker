@@ -24,9 +24,20 @@ os.makedirs(OUT, exist_ok=True)
 
 URL_RE = re.compile(r"<?(https?://[^\s<>]+)>?")
 
+def _wrap_one(m):
+    url, tail = m.group(1), ""
+    # trailing ASCII punctuation belongs to the sentence, not the URL (keep ")" when it closes a "(" inside the URL)
+    while url and url[-1] in ".,;:!?)]":
+        if url[-1] == ")" and url.count("(") >= url.count(")"):
+            break
+        tail = url[-1] + tail
+        url = url[:-1]
+    return f"<{url}>{tail}"
+
 def wrap_urls(text):
-    """Wrap bare URLs in <...> so Discord doesn't auto-unfurl a link preview for them."""
-    return URL_RE.sub(lambda m: f"<{m.group(1)}>", text)
+    """Wrap bare URLs in <...> so Discord doesn't auto-unfurl a link preview for them.
+    Stops at whitespace and full-width punctuation and leaves sentence punctuation outside the brackets."""
+    return URL_RE.sub(_wrap_one, text)
 for old in os.listdir(OUT):
     if old.startswith(("10-news", "20-news", "30-news", "35-news")):
         os.remove(os.path.join(OUT, old))
