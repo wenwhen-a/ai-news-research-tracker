@@ -37,6 +37,12 @@ def slug(s, n=30):
     s = re.sub(r"[^A-Za-z0-9一-鿿]+", "-", s).strip("-")
     return s[:n].strip("-") or "item"
 
+LABEL_NOTE = re.compile(r"(核心事实|背景与起因|结果与进展|概要)\s*[（(][^）)]*[）)]")
+
+def strip_label_notes(l):
+    """'核心事实（发生了什么）：' -> '核心事实：' (drop the explanatory parenthetical after section labels)."""
+    return LABEL_NOTE.sub(r"\1", l)
+
 def bullet(l):
     return l.lstrip().startswith(("* ", "- ", "• "))
 
@@ -114,7 +120,7 @@ if "第一部分" in sections:
     counts["S1"] = len(items)
     for n, (t, ls) in enumerate(items, 1):
         head = f"**[新闻 {n}] {t.replace('**', '').strip()}**"
-        files[f"10-news-S1-{n:02d}-{slug(t)}.md"] = trim_to_limit(head, list(ls))
+        files[f"10-news-S1-{n:02d}-{slug(t)}.md"] = trim_to_limit(head, [strip_label_notes(l) for l in ls])
     if not items and body.strip():
         for j, ch in enumerate(chunk([l for l in body.split("\n") if l.strip()], f"**{title}**")):
             files[f"10-news-S1-raw-{chr(97+j)}.md"] = ch
