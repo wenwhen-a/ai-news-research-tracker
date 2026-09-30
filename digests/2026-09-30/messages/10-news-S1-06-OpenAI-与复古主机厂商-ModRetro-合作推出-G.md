@@ -1,0 +1,14 @@
+**[新闻 6] OpenAI 与复古主机厂商 ModRetro 合作推出 Game Studio 插件，可用自然语言 AI 制作可在实体 Game Boy 卡带运行的游戏**
+- **日期：** 2026-09-30
+- **来源链接：** <https://www.ithome.com/1/008/656.htm>
+- **核心事实：**
+  - 发布于 2026 年 OpenAI DevDay 活动，由 CEO 山姆·奥特曼在主题演讲中意外公布
+  - 合作方 ModRetro 是基于 FPGA 技术、可无模拟直接运行原版 Game Boy/Game Boy Color 卡带的复古掌机厂商，产品为 Chromatic
+  - 插件名为"Game Studio"，依托 OpenAI 编程智能体 Codex，用户用自然语言描述玩法即可生成可运行代码
+  - 插件内置 Chromatic 模拟器，可在电脑端测试后再将程序烧录进实体 Chromatic 专用卡带运行
+  - 现场向约 2500 名 DevDay 与会者发放限量版 Chromatic DevDay Edition 主机
+  - 活动展示了 13 款由该工具生成的游戏，包括 FlapGPT、Ash & Oath、Hollow Descent、Pizza Dash 等
+- **背景与起因：**
+  - OpenAI 近年持续拓展 Codex 编程智能体在专业开发场景外的应用边界，游戏制作因规则明确、可即时验证反馈而成为检验 AI 自然语言生成可运行软件能力的理想试验场；ModRetro 则希望借助 AI 生成内容工具吸引更多独立创作者为其怀旧硬件生态制作新游戏，双方合作具有互补性。
+- **结果与进展：**
+  - 此次合作首次实现了从自然语言描述到可在真实复古游戏硬件上运行的完整 AI 生成游戏流程，被视为 AI 辅助编程工具从"生成代码片段"迈向"生成可交付、可在实体设备运行的完整游戏产品"的标志性演示，在 GIGAZINE、IT 之家、VGTimes 等多家中外科技与游戏媒体获得报道。

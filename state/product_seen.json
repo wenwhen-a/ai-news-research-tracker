@@ -350,5 +350,13 @@
   "first_seen": "2026-09-29",
   "release_date": "2026-09-29",
   "summary": "NVIDIA and CD PROJEKT RED shipped a free update adding full path tracing to The Witcher 3: Wild Hunt — Remastered on PC, with DLSS 4.5 Ray Reconstruction using a second-generation transformer denoising model."
+ },
+ "https://devforum.roblox.com/t/frustum-streaming-stream-what-your-players-see/4904553": {
+  "name": "Roblox Frustum Streaming (camera-based instance streaming)",
+  "company": "Roblox",
+  "tier": "GA",
+  "first_seen": "2026-09-30",
+  "release_date": "2026-09-29",
+  "summary": "Roblox states \"Starting today, you can now stream in instances based on a player's camera view with Frustum Streaming,\" via a new FrustumStreaming property on Player (Automatic/Enabled/Disabled), opt-in and non-breaking by default."
  }
 }
