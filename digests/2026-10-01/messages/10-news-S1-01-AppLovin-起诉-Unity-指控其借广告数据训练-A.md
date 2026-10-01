@@ -1,0 +1,13 @@
+**[新闻 1] AppLovin 起诉 Unity，指控其借广告数据训练 AI 模型预测自身竞价行为**
+- **日期：** 2026-10-01
+- **来源链接：** <https://mobilegamer.biz/applovin-sues-unity-over-alleged-data-collection-through-its-ad-quality-sdk/>
+- **核心事实：**
+  - AppLovin 向加州法院申请临时禁令并提起诉讼，指控 Unity 旗下 Ad Quality SDK 在未经许可的情况下收集其广告拍卖数据（包括成交价格、拍卖 ID、展示及中介瀑布流信息）。
+  - AppLovin 主张 Unity 利用这些数据训练 AI 模型，用以预测 AppLovin 在实时广告竞价中的出价决策。
+  - 双方同时在 JAMS 提起仲裁，涉及违约、商业机密侵占及反垄断等指控。
+- **背景与起因：**
+  - AppLovin 与 Unity 此前已有摩擦历史，包括失败的 200 亿美元收购提案、合并尝试，以及 Unity 此前「Runtime Fee」定价风波引发的行业不满。
+  - 今年 8 月 AppLovin 已向 Unity 发出警告函，要求其在 5 个工作日内停止数据收集、30 天内修改 SDK，但遭 Unity 以「仅能停止收集新数据、无法处理已收集数据及潜在 AI 模型训练」为由拒绝。
+- **结果与进展：**
+  - Unity 回应称这是「市场主导企业」诉诸诉讼打压竞争对手的「经典案例」，并辩称 Ad Quality 功能有助于防止游戏内出现有害或不当广告。
+  - 法院已就 AppLovin 申请的临时禁令举行听证，Unity 对申请提出异议，案件尚未有最终裁决；双方在 JAMS 的仲裁程序仍在进行中。

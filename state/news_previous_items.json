@@ -1,30 +1,5 @@
 [
  {
-  "title": "游戏营销机构Twelvio与WIDER合作，扩大AI生成广告素材应用",
-  "url": "https://www.prnewswire.com/news-releases/twelvio-partners-with-wider-to-scale-ai-powered-creative-across-gaming-302880342.html",
-  "date": "2026-09-16"
- },
- {
-  "title": "动视暴雪被前员工起诉，指控存在性骚扰",
-  "url": "https://www.gamedeveloper.com/production/activision-blizzard-sued-by-former-employee-over-sexual-harassment",
-  "date": "2026-09-16"
- },
- {
-  "title": "《卧龙2》试玩demo上线，发售日期定为2027年3月",
-  "url": "https://www.videogameschronicle.com/news/video-heres-a-look-at-the-wo-long-2-alpha-demo-which-is-available-today-to-mark-its-release-date-announcement/",
-  "date": "2026-09-16"
- },
- {
-  "title": "Nightdive Studios负责人暗示可能重制《永恒黑暗》",
-  "url": "https://www.videogameschronicle.com/news/the-head-of-nightdive-studios-appears-to-be-teasing-a-remaster-of-gamecube-cult-classic-eternal-darkness/",
-  "date": "2026-09-16"
- },
- {
-  "title": "多位音乐人暗示将出现在《GTA 6》中",
-  "url": "https://www.videogameschronicle.com/news/musicians-including-travis-scott-keith-richards-and-future-have-started-teasing-that-theyll-be-in-gta-6/",
-  "date": "2026-09-16"
- },
- {
   "title": "盛大集团旗下Alaya Lab在东京电玩展展示AI原生游戏创作平台\"Gear\"",
   "url": "https://japan.storm.mg/articles/1162951",
   "date": "2026-09-16",
@@ -2389,5 +2364,159 @@
   "date": "2026-09-30",
   "section": 3,
   "posted": "2026-09-30"
+ },
+ {
+  "title": "AppLovin 起诉 Unity，指控其借广告数据训练 AI 模型预测自身竞价行为",
+  "url": "https://mobilegamer.biz/applovin-sues-unity-over-alleged-data-collection-through-its-ad-quality-sdk/",
+  "date": "2026-10-01",
+  "section": 1,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "《ARC Raiders》反作弊系统升级：Embark 承认此前对作弊者过于宽容，首次违规即永久封禁",
+  "url": "https://www.arcraiders.com/news/update-on-anti-cheat",
+  "date": "2026-09-30",
+  "section": 1,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "《使命召唤》AI 语音审核系统 ToxMod 上线半年：扰乱性语音行为减少 50%",
+  "url": "https://www.dualshockers.com/call-of-duty-ai-moderation-is-catching-things-human-players-never-reported/",
+  "date": "2026-09-29",
+  "section": 1,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "调查：30 款出海 AI+ 游戏产品，资金仍集中流向生产管线效率工具而非游戏本身",
+  "url": "https://www.huxiu.com/article/4894996.html",
+  "date": "2026-10-01",
+  "section": 1,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "游戏广告 AI 平台 Layer 推出「Playables」工具，数小时内自动生成可玩广告",
+  "url": "https://www.pocketgamer.biz/layer-launches-ai-playable-ad-generator-to-tackle-production-bottlenecks-for-mobile-game-studios/",
+  "date": "2026-10-01",
+  "section": 1,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "35 岁失业策划靠 AI 独立开发国产 Roguelike 游戏《白蛇之子》，20 余万行代码全由 AI 生成",
+  "url": "https://news.qq.com/rain/a/20260928A0B1Y800",
+  "date": "2026-09-29",
+  "section": 1,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "本次经核实后仅有 2 条合格简讯——过去一周的游戏+AI 新闻已被 Section 1 深度报道及此前每日简报大量覆盖，经过严格去重（并额外人工排查同一事件的不同标题/媒体转载）后，仅剩以下 2 条确系本窗口内未曾报道的独立简讯；三个检索子代理与额外约 20 次补充检索均未找到更多合格新项目。",
+  "url": "https://app2top.ru/industry/v-nashej-komande-rabotaet-ii-agent-kak-igrovy-e-studii-doveryayut-ii-tsely-e-protsessy-i-kakie-problemy-vidyat-v-ego-ispol-zovanii-244164.html",
+  "date": "2026-09-30",
+  "section": 2,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "复古游戏合集《James Pond Legacy》AI 美术风波：System 3 承认被代工方误导，工作室信誉受损",
+  "url": "https://www.timeextension.com/news/2026/09/james-pond-legacy-genai-controversy-has-damaged-confidence-in-system-3-admits-studio-boss",
+  "date": "2026-09-29",
+  "section": 2,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "独立工作室 Nerial 运营 13 年后宣布关闭",
+  "url": "https://www.gematsu.com/2026/10/nerial-shuts-down-after-13-years",
+  "date": "2026-10-01",
+  "section": 3,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "Xbox CEO Asha Sharma 否认微软游戏业务将被出售的传闻",
+  "url": "https://www.videogameschronicle.com/news/xbox-ceo-asha-sharma-insists-microsofts-gaming-business-is-not-for-sale/",
+  "date": "2026-09-30",
+  "section": 3,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "《Kena: Scars of Kosmora》延期至 2027 年发售",
+  "url": "https://www.gematsu.com/2026/10/kena-scars-of-kosmora-delayed-to-2027",
+  "date": "2026-10-01",
+  "section": 3,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "据报道《战争机器：E 日之战》团队担心游戏发售后遭裁员、错过奖金",
+  "url": "https://www.videogameschronicle.com/news/gears-of-war-e-day-staff-are-reportedly-worried-theyll-be-laid-off-after-the-games-release-and-miss-out-on-bonuses/",
+  "date": "2026-10-01",
+  "section": 3,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "据报道顽皮狗正在开发《神秘海域 5》",
+  "url": "https://www.videogameschronicle.com/news/sources-naughty-dog-is-working-on-uncharted-5/",
+  "date": "2026-10-01",
+  "section": 3,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "世嘉预告新版《死亡之屋》街机，配备 VR 头显与 85 英寸大屏",
+  "url": "https://www.videogameschronicle.com/news/sega-is-teasing-a-new-house-of-the-dead-arcade-game-with-vr-headsets-and-an-85-inch-screen-for-a-front-door/",
+  "date": "2026-10-01",
+  "section": 3,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "据报道荷兰警方逮捕涉嫌入侵 GTA Online 与 Red Dead Online 服务器的黑客",
+  "url": "https://massivelyop.com/2026/10/01/mmo-business-roundup-discords-ad-sales-gta-online-hackers-arrest-and-xbox-sale-rumors/",
+  "date": "2026-10-01",
+  "section": 3,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "Capcom 透露《生化危机》重制系列素材用尽后的后续规划",
+  "url": "https://www.videogameschronicle.com/news/capcom-says-it-has-a-plan-for-when-it-runs-out-of-resident-evil-remakes/",
+  "date": "2026-10-01",
+  "section": 3,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "《战锤 40000：战争黎明 4》公布 CGI 预告片，确认 12 月 3 日登陆 PC",
+  "url": "https://simulationdaily.com/news/today-in-gaming-news-september-30-2026/",
+  "date": "2026-09-30",
+  "section": 3,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "复古 MMORPG《Monsters & Memories》正式进入抢先体验，预购订阅已破 1.2 万",
+  "url": "https://massivelyop.com/2026/10/01/throwback-mmorpg-monsters-and-memories-enters-early-access-while-netting-over-12k-advance-subs/",
+  "date": "2026-10-01",
+  "section": 3,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "10 月 PlayStation Plus 会免游戏公布，包含《F1 25》",
+  "url": "https://www.videogameschronicle.com/news/octobers-free-playstation-plus-games-include-f1-25/",
+  "date": "2026-09-30",
+  "section": 3,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "Gaelco Sports Collection 合集公布 10 月 22 日登陆全平台",
+  "url": "https://www.gematsu.com/2026/10/gaelco-sports-collection-launches-october-22",
+  "date": "2026-10-01",
+  "section": 3,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "Famitsu 公布日本实体游戏周销量榜（9 月 21 日-27 日）",
+  "url": "https://www.gematsu.com/2026/10/famitsu-sales-9-21-26-9-27-27",
+  "date": "2026-10-01",
+  "section": 3,
+  "posted": "2026-10-01"
+ },
+ {
+  "title": "索尼乐高 Astro Bot 套装将可单独购买，无需搭配乐高 PlayStation 主机套装",
+  "url": "https://www.videogameschronicle.com/news/sony-is-selling-the-lego-astro-bot-separately-with-no-need-to-also-buy-the-lego-playstation/",
+  "date": "2026-10-01",
+  "section": 3,
+  "posted": "2026-10-01"
  }
 ]

@@ -1,0 +1,3 @@
+- **Gaelco Sports Collection 合集公布 10 月 22 日登陆全平台**（2026-10-01）— 多平台体育游戏合集 Gaelco Sports Collection 确认将于 10 月 22 日登陆 PlayStation、Xbox、Switch 及 PC 平台。 <https://www.gematsu.com/2026/10/gaelco-sports-collection-launches-october-22>
+- **Famitsu 公布日本实体游戏周销量榜（9 月 21 日-27 日）**（2026-10-01）— 日本权威游戏媒体 Famitsu 发布最新一期实体游戏周销量数据，涵盖 9 月 21 日至 27 日区间的硬件与软件销售排行。 <https://www.gematsu.com/2026/10/famitsu-sales-9-21-26-9-27-27>
+- **索尼乐高 Astro Bot 套装将可单独购买，无需搭配乐高 PlayStation 主机套装**（2026-10-01）— 索尼宣布旗下乐高 Astro Bot 套装将单独发售，玩家无需额外购买乐高 PlayStation 主机套装即可入手，降低了周边产品的购买门槛。 <https://www.videogameschronicle.com/news/sony-is-selling-the-lego-astro-bot-separately-with-no-need-to-also-buy-the-lego-playstation/>

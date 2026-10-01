@@ -1,0 +1,11 @@
+**[新闻 5] 游戏广告 AI 平台 Layer 推出「Playables」工具，数小时内自动生成可玩广告**
+- **日期：** 2026-10-01
+- **来源链接：** <https://www.pocketgamer.biz/layer-launches-ai-playable-ad-generator-to-tackle-production-bottlenecks-for-mobile-game-studios/>
+- **核心事实：**
+  - 游戏创意 AI 平台 Layer 推出新功能 Playables，可依据游戏名称、创意简报、截图或录屏等输入，自动分析美术风格与设计原则并生成可直接上线的 HTML5 可玩广告，将原本需要数周的制作周期压缩至数小时。
+- **背景与起因：**
+  - 可玩广告是买量转化率最高的广告形式之一，但传统制作成本高（每次迭代数千美元）、周期长（1-3 周），此前只有预算充足的大型厂商才能大规模使用。
+  - King、Zynga、SciPlay、Huuuge Games、Wildlife Studios 等厂商已是 Layer 现有平台的客户。
+- **结果与进展：**
+  - 新功能已整合进 Layer 标准订阅套餐，不额外收取导出或附加功能费用。
+  - CEO Volkan Gürel 表示目标是「让每款游戏发布时都自带可玩广告」；联合创始人兼 CRO Burcu Hakguder 称此前是厂商决定哪些游戏值得做可玩广告，如今「创意简报将成为游戏与其可玩广告之间唯一的障碍」。
