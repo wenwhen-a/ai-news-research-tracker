@@ -1,4 +1,12 @@
 {
+ "https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/": {
+  "name": "QSSR (Quick Spectral Super Resolution) on base PS5",
+  "company": "Sony Interactive Entertainment",
+  "tier": "GA",
+  "first_seen": "2026-10-02",
+  "release_date": "2026-10-01",
+  "summary": "Sony shipped QSSR, a new AI upscaler for the base (non-Pro) PS5, distinct from PSSR which remains the standard on PS5 Pro."
+ },
  "https://www.nvidia.com/en-us/geforce/news/nba-2k27-dlss-5-3d-guided-neural-rendering-geforce-game-ready-driver/": {
   "name": "NVIDIA DLSS 5 with 3D-Guided Neural Rendering (in NBA 2K27)",
   "company": "NVIDIA",

@@ -14,7 +14,7 @@
  "2609.11548": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-10",
+  "submitted": "2026-09-10T13:42:26Z",
   "title": "World in World: Explore the World with World Models"
  },
  "2609.11499": {
@@ -38,7 +38,7 @@
  "2609.10540": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-09",
+  "submitted": "2026-09-09T17:59:32Z",
   "title": "Programmable World Model"
  },
  "2609.10506": {
@@ -95,7 +95,7 @@
  "2609.09418": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-08",
+  "submitted": "2026-09-08T20:17:48Z",
   "title": "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration"
  },
  "2609.09250": {
@@ -227,7 +227,7 @@
  "2609.06820": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-06",
+  "submitted": "2026-09-06T20:29:17Z",
   "title": "Diagnosing and Dynamically Filtering Occupancy World Models for Active Mapping"
  },
  "2609.06647": {
@@ -452,7 +452,7 @@
  "2609.02339": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-02",
+  "submitted": "2026-09-02T09:15:33Z",
   "title": "AGI Maze Prediction Datasets: A Compact Benchmark for Learning World Dynamics with Transformers"
  },
  "2609.02046": {
@@ -1604,7 +1604,7 @@
  "2609.05927": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-05",
+  "submitted": "2026-09-05T06:36:20Z",
   "title": "GIF: Agentic Generation of Interactive and Functional Object Compositions for Robot Learning"
  },
  "2609.05416": {
@@ -1943,7 +1943,7 @@
  "2609.11079": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-10",
+  "submitted": "2026-09-10T04:36:58Z",
   "title": "RIDE: Relocalization-Informed Depth Estimation with 3D Gaussian Splatting"
  },
  "2609.10376": {
@@ -1955,7 +1955,7 @@
  "2609.10307": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-09",
+  "submitted": "2026-09-09T15:16:52Z",
   "title": "View-Structured Conformal Prediction for 3D Gaussian Splatting"
  },
  "2609.10095": {
@@ -1967,7 +1967,7 @@
  "2609.09606": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-09",
+  "submitted": "2026-09-09T02:00:17Z",
   "title": "RouteBridge: Reliability-Routed Bidirectional Distillation Between Neural Radiance Fields and 3D Gaussian Splatting"
  },
  "2609.08730": {
@@ -1979,7 +1979,7 @@
  "2609.07557": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-07",
+  "submitted": "2026-09-07T14:39:55Z",
   "title": "Heat Kernel Textures: the Geodesic Gaussians That Do Not Splat"
  },
  "2609.07346": {
@@ -1991,19 +1991,19 @@
  "2609.07274": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-07",
+  "submitted": "2026-09-07T09:37:03Z",
   "title": "LightSplat: Real-Time High-Fidelity 3D Gaussian SLAM with Loop Closure"
  },
  "2609.06157": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-05",
+  "submitted": "2026-09-05T15:57:26Z",
   "title": "From Splats to Silicon: Rethinking Computational Efficiency of 3DGS"
  },
  "2609.05925": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-05",
+  "submitted": "2026-09-05T06:33:04Z",
   "title": "AVSplat: Dense-View Feed-Forward 3D Gaussian Splatting with Assist-View Preconditioning"
  },
  "2609.05583": {
@@ -2015,7 +2015,7 @@
  "2609.05255": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-04",
+  "submitted": "2026-09-04T15:18:54Z",
   "title": "Compact Neural Appearance Models for Efficient Gaussian Splatting"
  },
  "2609.05127": {
@@ -2030,7 +2030,7 @@
  "2609.04602": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-04",
+  "submitted": "2026-09-04T01:02:03Z",
   "title": "NavArena: Automated Construction of Goal-Oriented Navigation Benchmarks from 3D Gaussian Splatting Reconstructions"
  },
  "2609.04381": {
@@ -2042,7 +2042,7 @@
  "2609.03897": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-03",
+  "submitted": "2026-09-03T14:17:55Z",
   "title": "Reparametrizing 3D Gaussian Splatting for Real-Time Palette-based Color and Luminance Editing"
  },
  "2609.03657": {
@@ -2066,7 +2066,7 @@
  "2609.03534": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-03",
+  "submitted": "2026-09-03T08:34:27Z",
   "title": "TruncGradGS: Improved 3D Gaussian Splatting via Truncated Gradient Updates"
  },
  "2609.03447": {
@@ -2099,7 +2099,7 @@
  "2609.02543": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-02",
+  "submitted": "2026-09-02T12:58:24Z",
   "title": "LightBridge: Feed-Forward Generative Relighting for 3D Gaussian Splatting"
  },
  "2609.02352": {
@@ -2432,7 +2432,7 @@
  "2609.07231": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-07",
+  "submitted": "2026-09-07T08:49:10Z",
   "title": "Generalizable 6D Pose Estimation of Textureless Objects with Planar-based Gaussian Splatting"
  },
  "2609.06874": {
@@ -2462,7 +2462,7 @@
  "2609.02184": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-02",
+  "submitted": "2026-09-02T06:47:19Z",
   "title": "CC-4DGS: Computational Deformation and Point-Cloud Compression for Storage-Efficient Dynamic Gaussian Splatting"
  },
  "2608.31023": {
@@ -2612,13 +2612,13 @@
  "2609.11894": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-10",
+  "submitted": "2026-09-10T17:52:17Z",
   "title": "3D Point Splatting for mmWave Radar Novel View Synthesis"
  },
  "2609.09828": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-09",
+  "submitted": "2026-09-09T07:33:40Z",
   "title": "RealSimLoop: Online Real-to-Sim Adaptation via Differentiable Reduced-Order Simulation with Vision Feedback"
  },
  "2609.09020": {
@@ -2639,7 +2639,7 @@
  "2609.05382": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-04",
+  "submitted": "2026-09-04T17:33:45Z",
   "title": "Reflection-aware Generative Novel View Synthesis"
  },
  "2609.03639": {
@@ -2768,7 +2768,7 @@
  "2609.11430": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-10",
+  "submitted": "2026-09-10T12:03:05Z",
   "title": "Gaussian Light Transport"
  },
  "2609.06948": {
@@ -2789,7 +2789,7 @@
  "2609.03349": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-03",
+  "submitted": "2026-09-03T04:12:39Z",
   "title": "P-CORE: Self-Supervised Surface Consistency for Point-Based Neural Editing"
  },
  "2609.01306": {
@@ -2882,7 +2882,7 @@
  "2609.08493": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-08",
+  "submitted": "2026-09-08T09:35:01Z",
   "title": "AURORA: Active Uncertainty-Driven Re-Orientation for In-Hand Reconstruction"
  },
  "2609.07298": {
@@ -2927,13 +2927,13 @@
  "2609.03756": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-03",
+  "submitted": "2026-09-03T12:25:26Z",
   "title": "ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation"
  },
  "2609.02717": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-02",
+  "submitted": "2026-09-02T15:25:28Z",
   "title": "MV-dVRK: A Multi-Viewpoint Benchmark for Spatial Surgical Perception"
  },
  "2609.01921": {
@@ -3368,7 +3368,7 @@
  "2609.08848": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-08",
+  "submitted": "2026-09-08T15:01:49Z",
   "title": "FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute"
  },
  "2605.30488": {
@@ -3416,7 +3416,7 @@
  "2609.05918": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-05",
+  "submitted": "2026-09-05T06:27:27Z",
   "title": "PAI-Actor: Cinematic Multi-Character Replacement in Dynamic Scenes"
  },
  "2609.00732": {
@@ -3455,19 +3455,19 @@
  "2609.11439": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-10",
+  "submitted": "2026-09-10T12:10:00Z",
   "title": "Multi-Modal Controlled Coherent Motion Generation"
  },
  "2609.11225": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-10",
+  "submitted": "2026-09-10T08:25:46Z",
   "title": "Harness Robotic OS: A Unified Embodied-Agent Runtime for Closed-Loop Quadruped Inspection"
  },
  "2609.10918": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-10",
+  "submitted": "2026-09-10T00:06:39Z",
   "title": "ObstaDiff: Generalizable Diffusion Policy Learning via Obstacle-aware Representations"
  },
  "2609.10317": {
@@ -3482,13 +3482,13 @@
  "2609.09158": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-08",
+  "submitted": "2026-09-08T17:59:55Z",
   "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model"
  },
  "2609.08365": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-08",
+  "submitted": "2026-09-08T07:33:02Z",
   "title": "ReMoMask-2: Latent Retrieval-Augmented Masked Motion Generation"
  },
  "2609.08032": {
@@ -3503,7 +3503,7 @@
  "2609.05742": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-04",
+  "submitted": "2026-09-04T21:41:17Z",
   "title": "SeRV: Semantic-Aligned Residual Vector Quantization for American Sign Language Generation"
  },
  "2609.05506": {
@@ -3644,13 +3644,13 @@
  "2609.11357": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-10",
+  "submitted": "2026-09-10T10:40:31Z",
   "title": "Morphology-Aware Human Motion Retargeting for Wheeled-Humanoid Loco-Manipulation"
  },
  "2609.10982": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-10",
+  "submitted": "2026-09-10T02:01:55Z",
   "title": "ReCHOIR: Contact-guided Human Object Interaction Retargeting to Diverse Characters"
  },
  "2609.10187": {
@@ -3662,43 +3662,43 @@
  "2609.08117": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-08",
+  "submitted": "2026-09-08T01:49:18Z",
   "title": "DriveMotion: A Large-Scale Multi-Source Benchmark for Driver Motion Sequence Modeling and Forecasting"
  },
  "2609.07933": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-07",
+  "submitted": "2026-09-07T19:46:56Z",
   "title": "SPOT: Spatial Perception-Oriented Long-Horizon Humanoid Teleoperation"
  },
  "2609.06888": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-07",
+  "submitted": "2026-09-07T00:22:19Z",
   "title": "Predictive-Coding-Based Autonomous Regulation of Internally Generated and Externally Coupled Processing in Human-Robot Interaction"
  },
  "2609.06195": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-05",
+  "submitted": "2026-09-05T17:35:21Z",
   "title": "EgoNeMo: Transferable Map of Pedestrian Dynamics via Egocentric LiDAR Scan"
  },
  "2609.04759": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-04",
+  "submitted": "2026-09-04T05:42:04Z",
   "title": "Dressing in Motion: A Human Motion-Aware Diffusion Policy for Robot-Assisted Dressing"
  },
  "2609.03497": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-03",
+  "submitted": "2026-09-03T08:01:19Z",
   "title": "BRIDGE: An Open-Source Humanoid Platform via Morphology-Control Co-Design for Physical AI"
  },
  "2609.02134": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-02",
+  "submitted": "2026-09-02T05:43:19Z",
   "title": "Unified Motion Retargeting for Humanoids with Learned Point Cloud Correspondence"
  },
  "2608.27039": {
@@ -3788,19 +3788,19 @@
  "2609.11382": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-10",
+  "submitted": "2026-09-10T11:17:20Z",
   "title": "SwarmNxt: Open-source Software-Hardware Platform for Fast and Agile Aerial Swarms"
  },
  "2609.08920": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-08",
+  "submitted": "2026-09-08T15:49:10Z",
   "title": "Remotely Detectable Keyed Communication through Motion"
  },
  "2609.02306": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-02",
+  "submitted": "2026-09-02T08:51:37Z",
   "title": "Contact-Constrained Lower-Limb Joint-Offset Calibration for Humanoid Robots"
  },
  "2609.01840": {
@@ -5504,7 +5504,7 @@
  "2609.09059": {
   "status": "screened-out",
   "first_seen": "2026-09-13",
-  "submitted": "2026-09-08",
+  "submitted": "2026-09-08T17:15:39Z",
   "title": "PlayTrain: An Efficient Reinforcement Learning Framework for LLM-Generated Adaptable JavaScript Games"
  },
  "2609.05095": {
@@ -5627,13 +5627,13 @@
  "2609.13146": {
   "status": "screened-out",
   "first_seen": "2026-09-14",
-  "submitted": "2026-09-11",
+  "submitted": "2026-09-11T17:59:31Z",
   "title": "SNAP3D: Physically Grounded 3D Parts for Assembly from a Single Image"
  },
  "2609.12898": {
   "status": "screened-out",
   "first_seen": "2026-09-14",
-  "submitted": "2026-09-11",
+  "submitted": "2026-09-11T14:25:17Z",
   "title": "UniPart: Towards Zero-shot Language-Grounded 3D Part Segmentation for Embodied Interaction"
  },
  "2609.12682": {
@@ -5645,7 +5645,7 @@
  "2609.12395": {
   "status": "screened-out",
   "first_seen": "2026-09-14",
-  "submitted": "2026-09-11",
+  "submitted": "2026-09-11T03:37:31Z",
   "title": "Is Gaussian Splatting Becoming Neural Again? A Taxonomy and Controlled Study of Learned Parameterization"
  },
  "2609.12343": {
@@ -5663,7 +5663,7 @@
  "2609.12342": {
   "status": "screened-out",
   "first_seen": "2026-09-14",
-  "submitted": "2026-09-11",
+  "submitted": "2026-09-11T02:08:54Z",
   "title": "UniMo: Unifying Human and Animal Motion Generation"
  },
  "2604.27491": {
@@ -5828,7 +5828,7 @@
  "2609.15289": {
   "status": "screened-out",
   "first_seen": "2026-09-15",
-  "submitted": "2026-09-14",
+  "submitted": "2026-09-14T09:45:14Z",
   "title": "Math for AI safety: an invitation for mathematicians"
  },
  "2609.15113": {
@@ -5852,7 +5852,7 @@
  "2609.14709": {
   "status": "screened-out",
   "first_seen": "2026-09-15",
-  "submitted": "2026-09-13",
+  "submitted": "2026-09-13T18:06:18Z",
   "title": "An immune world model for multiscale forecasting and therapeutic hypothesis generation"
  },
  "2609.14561": {
@@ -5876,7 +5876,7 @@
  "2609.13927": {
   "status": "screened-out",
   "first_seen": "2026-09-15",
-  "submitted": "2026-09-12",
+  "submitted": "2026-09-12T13:18:57Z",
   "title": "Exploring napping paradigm for Recurrent Spiking Neural Networks"
  },
  "2609.13879": {
@@ -5930,7 +5930,7 @@
  "2609.15659": {
   "status": "screened-out",
   "first_seen": "2026-09-15",
-  "submitted": "2026-09-14",
+  "submitted": "2026-09-14T14:40:52Z",
   "title": "KaiNinja: Extending Native 3D Generators to the Part Level"
  },
  "2609.15639": {
@@ -5948,7 +5948,7 @@
  "2609.14965": {
   "status": "screened-out",
   "first_seen": "2026-09-15",
-  "submitted": "2026-09-14",
+  "submitted": "2026-09-14T03:15:22Z",
   "title": "MoVT: Video-Augmented Motion Tokenizer for Text-to-Motion Generation"
  },
  "2609.15833": {
@@ -5960,7 +5960,7 @@
  "2609.15392": {
   "status": "screened-out",
   "first_seen": "2026-09-15",
-  "submitted": "2026-09-14",
+  "submitted": "2026-09-14T11:19:25Z",
   "title": "ESG: Generating Physically Consistent Dynamic 3D Scenes from Text Descriptions"
  },
  "2609.15018": {
@@ -5984,7 +5984,7 @@
  "2609.13903": {
   "status": "screened-out",
   "first_seen": "2026-09-15",
-  "submitted": "2026-09-12",
+  "submitted": "2026-09-12T12:20:25Z",
   "title": "SkyAnchor: Updating Metric-scale Aerial 3D Gaussian Scenes from Unposed Ground-View Sequences"
  },
  "2609.13262": {
@@ -6008,7 +6008,7 @@
  "2609.15104": {
   "status": "screened-out",
   "first_seen": "2026-09-15",
-  "submitted": "2026-09-14",
+  "submitted": "2026-09-14T06:34:41Z",
   "title": "Physics Informed Neural Network model for the dynamical study of Abdominal Aortic Aneurysm"
  },
  "2609.15550": {
@@ -6026,13 +6026,13 @@
  "2609.15098": {
   "status": "screened-out",
   "first_seen": "2026-09-15",
-  "submitted": "2026-09-14",
+  "submitted": "2026-09-14T06:23:31Z",
   "title": "LG-VLN: A Zero-Shot Vision-and-Language Navigation Framework with LangGraph State Orchestration"
  },
  "2609.14183": {
   "status": "screened-out",
   "first_seen": "2026-09-15",
-  "submitted": "2026-09-12",
+  "submitted": "2026-09-12T23:33:28Z",
   "title": "DreamSat-Bench: Development and Initial Testing of a Testbed for AI-Based Pose Estimation from 3D Reconstruction"
  },
  "2609.13991": {
@@ -6068,25 +6068,25 @@
  "2609.15680": {
   "status": "screened-out",
   "first_seen": "2026-09-15",
-  "submitted": "2026-09-14",
+  "submitted": "2026-09-14T14:53:37Z",
   "title": "Volumetric Harmonic Field Navigation for Quadrotors"
  },
  "2609.15352": {
   "status": "screened-out",
   "first_seen": "2026-09-15",
-  "submitted": "2026-09-14",
+  "submitted": "2026-09-14T10:36:49Z",
   "title": "Assistance Torque Estimation via Dynamics-Aware Optimization for Lower-Limb Exoskeleton in Complex Environments"
  },
  "2609.14615": {
   "status": "screened-out",
   "first_seen": "2026-09-15",
-  "submitted": "2026-09-13",
+  "submitted": "2026-09-13T15:46:41Z",
   "title": "Open-UniMo: Towards Unified Motion-Language Understanding and Generation in the Open World"
  },
  "2609.14189": {
   "status": "screened-out",
   "first_seen": "2026-09-15",
-  "submitted": "2026-09-12",
+  "submitted": "2026-09-12T23:40:27Z",
   "title": "MorphoStyle: Motion Style Transfer with Morphology Control"
  },
  "2609.14122": {
@@ -6122,7 +6122,7 @@
  "2609.15213": {
   "status": "screened-out",
   "first_seen": "2026-09-15",
-  "submitted": "2026-09-14",
+  "submitted": "2026-09-14T08:34:48Z",
   "title": "X-WBC: A Cross-Embodiment Foundation Model for Humanoid Whole-Body Control"
  },
  "2604.28130": {
@@ -6293,7 +6293,7 @@
  "2609.15863": {
   "status": "screened-out",
   "first_seen": "2026-09-15",
-  "submitted": "2026-09-14",
+  "submitted": "2026-09-14T16:55:25Z",
   "title": "LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows"
  },
  "2609.14565": {
@@ -6338,7 +6338,7 @@
  "2609.17106": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-15",
+  "submitted": "2026-09-15T12:38:20Z",
   "title": "BRAVE-6D: Benchmark for Robotic Active Vision in 6DOF Pose Estimation"
  },
  "2609.17099": {
@@ -6350,7 +6350,7 @@
  "2609.17021": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-15",
+  "submitted": "2026-09-15T11:29:50Z",
   "title": "sensVLA: Spatially-Grounded Vision-Language-Action Model for Autonomous Wheel Loader"
  },
  "2609.16878": {
@@ -6389,7 +6389,7 @@
  "2609.16683": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-15",
+  "submitted": "2026-09-15T06:04:36Z",
   "title": "Weave: Learning Whole-Body Dexterous Loco-Manipulation from Human-Object Interactions"
  },
  "2609.16679": {
@@ -6401,7 +6401,7 @@
  "2609.16527": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-15",
+  "submitted": "2026-09-15T02:19:20Z",
   "title": "QALPA: Property-guided diffusion modeling for efficient exploration of chemical spaces of flexible molecules"
  },
  "2609.16518": {
@@ -6416,37 +6416,37 @@
  "2609.16443": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-14",
+  "submitted": "2026-09-14T23:50:08Z",
   "title": "The Neverwhere Visual Parkour Benchmark Suite"
  },
  "2609.16319": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-14",
+  "submitted": "2026-09-14T20:35:04Z",
   "title": "ConGraspXL: Controllable Constraint-Conditioned Dexterous Grasping Motion Synthesis"
  },
  "2609.16233": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-14",
+  "submitted": "2026-09-14T18:59:13Z",
   "title": "SceneBench: A Hierarchical Benchmark for Vision-Language Understanding of 3D Scenes"
  },
  "2609.16180": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-14",
+  "submitted": "2026-09-14T18:14:33Z",
   "title": "Delayed-Light Rendering for Superluminal Objects"
  },
  "2609.15976": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-14",
+  "submitted": "2026-09-14T17:56:49Z",
   "title": "MessyMem: Learning-from-Doing Memory for Mobile Manipulation"
  },
  "2609.15895": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-14",
+  "submitted": "2026-09-14T17:16:23Z",
   "title": "Goal-Oriented Communications for Physical AI: Design and Testbed"
  },
  "2609.15570": {
@@ -6467,13 +6467,13 @@
  "2609.15503": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-14",
+  "submitted": "2026-09-14T12:54:47Z",
   "title": "SyntheticDoc: A Large Synthetic Dataset for Document Unwarping and Illumination Correction"
  },
  "2609.15028": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-14",
+  "submitted": "2026-09-14T04:42:42Z",
   "title": "TwinICL: Diagnosing Multimodal In-Context Learning through Paired Counterfactuals"
  },
  "2609.14985": {
@@ -6494,7 +6494,7 @@
  "2609.16071": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-13",
+  "submitted": "2026-09-13T15:10:06Z",
   "title": "World Models for Cross-Machine CNC Transfer under Partial Sensor Overlap"
  },
  "2609.13812": {
@@ -6509,7 +6509,7 @@
  "2609.12747": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-11",
+  "submitted": "2026-09-11T11:58:59Z",
   "title": "Assisted Spatial Cognition Through Vision-Language Models"
  },
  "2609.12614": {
@@ -6521,13 +6521,13 @@
  "2609.12498": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-11",
+  "submitted": "2026-09-11T06:59:21Z",
   "title": "ArtManip: Category-Level Articulated In-Hand Manipulation"
  },
  "2609.11900": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-10",
+  "submitted": "2026-09-10T17:54:32Z",
   "title": "MindTopo: Can Foundation Models Reason in Topological Space?"
  },
  "2609.11242": {
@@ -6563,7 +6563,7 @@
  "2609.08345": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-08",
+  "submitted": "2026-09-08T07:16:37Z",
   "title": "CoVeR: Coverage-Based Token Pruning for Multi-View 3D Reasoning in VLMs"
  },
  "2609.08275": {
@@ -6575,7 +6575,7 @@
  "2609.07497": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-07",
+  "submitted": "2026-09-07T13:46:56Z",
   "title": "Functional-SLAM: Interaction-Aware Mapping with Online Functional Scene Graphs"
  },
  "2609.07398": {
@@ -6587,7 +6587,7 @@
  "2609.07258": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-07",
+  "submitted": "2026-09-07T09:14:13Z",
   "title": "MV-STRIDE: Enabling MLLMs to Master Multi-View Spatial Reasoning via Hierarchical Capability Modeling"
  },
  "2609.13264": {
@@ -6599,19 +6599,19 @@
  "2609.06912": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-07",
+  "submitted": "2026-09-07T01:27:45Z",
   "title": "From Synthetic Priors to Model Behavior: Structural Coverage in Tabular Foundation Models"
  },
  "2609.06880": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-07",
+  "submitted": "2026-09-07T00:00:13Z",
   "title": "Contextual Observer Grounding: Evaluating Situated Spatial Reasoning in Vision-Language Models"
  },
  "2609.06591": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-06",
+  "submitted": "2026-09-06T13:16:48Z",
   "title": "Unifying Physics-Based Humanoid Interaction with a Context-Conditioned Interaction Prior"
  },
  "2609.05588": {
@@ -6629,7 +6629,7 @@
  "2609.03892": {
   "status": "screened-out",
   "first_seen": "2026-09-16",
-  "submitted": "2026-09-03",
+  "submitted": "2026-09-03T14:11:56Z",
   "title": "GraFT: A Training-Free Framework for Spatial Reasoning in Multimodal Large Language Models via 3D Scene Graphs"
  },
  "2609.03586": {
@@ -6944,13 +6944,13 @@
  "2609.18624": {
   "status": "screened-out",
   "first_seen": "2026-09-17",
-  "submitted": "2026-09-16",
+  "submitted": "2026-09-16T13:14:01Z",
   "title": "MoQSplat: Adaptive Progressive Streaming of 3D Gaussian Splatting via MoQ"
  },
  "2609.18473": {
   "status": "screened-out",
   "first_seen": "2026-09-17",
-  "submitted": "2026-09-16",
+  "submitted": "2026-09-16T11:07:21Z",
   "title": "CADSplat: Sparse-View 3D Gaussian Splatting Aided by CAD Models for Robust, Photorealistic Digital-Twin Reconstruction"
  },
  "2609.17387": {
@@ -6977,7 +6977,7 @@
  "2609.17810": {
   "status": "screened-out",
   "first_seen": "2026-09-17",
-  "submitted": "2026-09-15",
+  "submitted": "2026-09-15T20:27:16Z",
   "title": "Wind on Trees: Testing Physical Grounding in Dynamic 4D Gaussian Splatting"
  },
  "2609.16310": {
@@ -7019,7 +7019,7 @@
  "2609.18738": {
   "status": "screened-out",
   "first_seen": "2026-09-17",
-  "submitted": "2026-09-16",
+  "submitted": "2026-09-16T14:33:08Z",
   "title": "Active perception for robotic harvesting: 3D reconstruction and localisation of tomatoes hidden within clusters in a Mediterranean greenhouse"
  },
  "2609.18465": {
@@ -7082,7 +7082,7 @@
  "2609.18632": {
   "status": "screened-out",
   "first_seen": "2026-09-17",
-  "submitted": "2026-09-16",
+  "submitted": "2026-09-16T13:20:07Z",
   "title": "VibeAvatar: Aligning Phonetic Kinematics and Human Aesthetics for High-Fidelity Talking Avatar Synthesis"
  },
  "2609.16011": {
@@ -7106,13 +7106,13 @@
  "2609.18763": {
   "status": "screened-out",
   "first_seen": "2026-09-17",
-  "submitted": "2026-09-16",
+  "submitted": "2026-09-16T14:50:12Z",
   "title": "Gated Residual Body-Hand Coordination for Whole-Body Humanoid Teleoperation"
  },
  "2609.18732": {
   "status": "screened-out",
   "first_seen": "2026-09-17",
-  "submitted": "2026-09-16",
+  "submitted": "2026-09-16T14:30:52Z",
   "title": "PASSAGE: Scaling Scene-Aligned Motion Learning for Perceptive Humanoid Traversal in Cluttered Environments"
  },
  "2608.21388": {
@@ -7124,7 +7124,7 @@
  "2609.18667": {
   "status": "screened-out",
   "first_seen": "2026-09-17",
-  "submitted": "2026-09-16",
+  "submitted": "2026-09-16T13:44:08Z",
   "title": "Video-Based Markerless Motion Capture for Clinical and Rehabilitation Biomechanics: A PRISMA-ScR Scoping Review of Validated Architectures, Clinical Readiness, and Emerging Methods"
  },
  "2609.18406": {
@@ -7136,7 +7136,7 @@
  "2609.18045": {
   "status": "screened-out",
   "first_seen": "2026-09-17",
-  "submitted": "2026-09-16",
+  "submitted": "2026-09-16T02:45:20Z",
   "title": "Structural Inference under Hidden Agents"
  },
  "2603.09908": {
@@ -7148,7 +7148,7 @@
  "2609.18634": {
   "status": "screened-out",
   "first_seen": "2026-09-17",
-  "submitted": "2026-09-16",
+  "submitted": "2026-09-16T13:20:36Z",
   "title": "GenStream: Semantic Streaming Framework for Generative Reconstruction of Human-centric Media"
  },
  "2609.18483": {
@@ -7292,7 +7292,7 @@
  "2609.20649": {
   "status": "screened-out",
   "first_seen": "2026-09-18",
-  "submitted": "2026-09-17",
+  "submitted": "2026-09-17T16:28:34Z",
   "title": "DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation"
  },
  "2609.20604": {
@@ -7316,7 +7316,7 @@
  "2609.19674": {
   "status": "screened-out",
   "first_seen": "2026-09-18",
-  "submitted": "2026-09-17",
+  "submitted": "2026-09-17T04:16:51Z",
   "title": "Conservation Buys Stability and Factoring Buys Counterfactuals in Physical World Models"
  },
  "2609.19600": {
@@ -7352,13 +7352,13 @@
  "2609.20348": {
   "status": "screened-out",
   "first_seen": "2026-09-18",
-  "submitted": "2026-09-17",
+  "submitted": "2026-09-17T13:12:49Z",
   "title": "EliGSiR: Continual RGB-D Mapping with Gaussian Splatting under Bounded Compute"
  },
  "2609.19782": {
   "status": "screened-out",
   "first_seen": "2026-09-18",
-  "submitted": "2026-09-17",
+  "submitted": "2026-09-17T06:50:54Z",
   "title": "Printing the Underdetermined: Materializing Multi-solutionness in Figurative Paintings"
  },
  "2609.19716": {
@@ -7376,7 +7376,7 @@
  "2609.19463": {
   "status": "screened-out",
   "first_seen": "2026-09-18",
-  "submitted": "2026-09-16",
+  "submitted": "2026-09-16T22:05:05Z",
   "title": "ParticleSplat: Self-supervised Object-centric Latent Particle Splatting"
  },
  "2609.19421": {
@@ -7409,19 +7409,19 @@
  "2609.20586": {
   "status": "screened-out",
   "first_seen": "2026-09-18",
-  "submitted": "2026-09-17",
+  "submitted": "2026-09-17T15:39:25Z",
   "title": "CoRef-GS: Cooperative Referring Gaussian Splatting for Multi-Agent Scene Understanding"
  },
  "2609.19907": {
   "status": "screened-out",
   "first_seen": "2026-09-18",
-  "submitted": "2026-09-17",
+  "submitted": "2026-09-17T08:51:18Z",
   "title": "GS-PI: An Optimization-Decoupled Appearance Decomposition Approach for Generating PBR Gaussian Assets"
  },
  "2609.19533": {
   "status": "screened-out",
   "first_seen": "2026-09-18",
-  "submitted": "2026-09-17",
+  "submitted": "2026-09-17T00:59:01Z",
   "title": "SLAMSqueezeBench: Comparing SLAM Systems under Resource Constraints"
  },
  "2609.19836": {
@@ -7457,25 +7457,25 @@
  "2609.20558": {
   "status": "screened-out",
   "first_seen": "2026-09-18",
-  "submitted": "2026-09-17",
+  "submitted": "2026-09-17T15:22:17Z",
   "title": "Learning Slope-Adaptive Whole-Body Locomotion for Humanoid Robots in Roofing Construction"
  },
  "2609.19927": {
   "status": "screened-out",
   "first_seen": "2026-09-18",
-  "submitted": "2026-09-17",
+  "submitted": "2026-09-17T09:05:42Z",
   "title": "DirtyMoCap: Robust Motion Capture from Unconstrained Markers"
  },
  "2609.19354": {
   "status": "screened-out",
   "first_seen": "2026-09-18",
-  "submitted": "2026-09-16",
+  "submitted": "2026-09-16T19:28:43Z",
   "title": "Can Vision-Language Models Judge Olympic Diving? From Reasoning to Scores in Zero-Shot Action Quality Assessment"
  },
  "2609.20582": {
   "status": "screened-out",
   "first_seen": "2026-09-18",
-  "submitted": "2026-09-17",
+  "submitted": "2026-09-17T15:37:34Z",
   "title": "V2-STRep: VLM-Grounded Structured Task Representations for Reusable Robot Skills Acquired from Generated Videos"
  },
  "2609.19688": {
@@ -7490,7 +7490,7 @@
  "2609.19666": {
   "status": "screened-out",
   "first_seen": "2026-09-18",
-  "submitted": "2026-09-17",
+  "submitted": "2026-09-17T04:12:21Z",
   "title": "Towards High-DoF Dexterous Manipulation through VLA Post-Training"
  },
  "2609.20349": {
@@ -7796,7 +7796,7 @@
  "2609.20673": {
   "status": "screened-out",
   "first_seen": "2026-09-20",
-  "submitted": "2026-09-17",
+  "submitted": "2026-09-17T16:48:05Z",
   "title": "FunArt: Decoding Functional Structure and Articulation from Generative 3D Latents"
  },
  "2609.20358": {
@@ -7827,13 +7827,13 @@
  "2609.22055": {
   "status": "screened-out",
   "first_seen": "2026-09-21",
-  "submitted": "2026-09-18",
+  "submitted": "2026-09-18T17:46:28Z",
   "title": "Benchmarking World Models for Continual Learning on Compositional Tasks"
  },
  "2609.21906": {
   "status": "screened-out",
   "first_seen": "2026-09-21",
-  "submitted": "2026-09-18",
+  "submitted": "2026-09-18T15:33:04Z",
   "title": "Intervention Granularity Matters: Coherent Treatment Bundles in Counterfactual Simulation with Clinical World Models"
  },
  "2609.21787": {
@@ -7851,7 +7851,7 @@
  "2609.21740": {
   "status": "screened-out",
   "first_seen": "2026-09-21",
-  "submitted": "2026-09-18",
+  "submitted": "2026-09-18T13:17:05Z",
   "title": "Sandwich-Residuals: Parameter-Efficient Test-time Adaptation of World Models"
  },
  "2609.21712": {
@@ -7863,19 +7863,19 @@
  "2609.21502": {
   "status": "screened-out",
   "first_seen": "2026-09-21",
-  "submitted": "2026-09-18",
+  "submitted": "2026-09-18T08:53:12Z",
   "title": "Adaptive World Memory 3D Foundation Model for Scalable 3D Mapping, Localization, and Rendering"
  },
  "2609.21482": {
   "status": "screened-out",
   "first_seen": "2026-09-21",
-  "submitted": "2026-09-18",
+  "submitted": "2026-09-18T08:32:34Z",
   "title": "Adaptive Rollout Truncation Based on Epistemic Uncertainty for Efficient Offline World Model Training"
  },
  "2609.21448": {
   "status": "screened-out",
   "first_seen": "2026-09-21",
-  "submitted": "2026-09-18",
+  "submitted": "2026-09-18T07:59:41Z",
   "title": "Robotic Multiphase Interaction: Manipulating Coupled Liquid and Solid Dynamics with a World Model"
  },
  "2609.21371": {
@@ -7887,7 +7887,7 @@
  "2609.21228": {
   "status": "screened-out",
   "first_seen": "2026-09-21",
-  "submitted": "2026-09-18",
+  "submitted": "2026-09-18T02:18:34Z",
   "title": "FOCAL-VLA: Subtask-Guided Geometry Distillation and Implicit World Modeling for Vision-Language-Action Models"
  },
  "2609.21223": {
@@ -7953,7 +7953,7 @@
  "2609.21226": {
   "status": "screened-out",
   "first_seen": "2026-09-21",
-  "submitted": "2026-09-18",
+  "submitted": "2026-09-18T02:14:07Z",
   "title": "AirSplan: Risk-Aware Motion Planning for Quadrotors in Cluttered 3D Gaussian Splats"
  },
  "2609.21112": {
@@ -7965,7 +7965,7 @@
  "2609.21516": {
   "status": "screened-out",
   "first_seen": "2026-09-21",
-  "submitted": "2026-09-18",
+  "submitted": "2026-09-18T09:07:18Z",
   "title": "2D GauSS-MI: Efficient Active Scene Reconstruction with Balanced Visual and Geometric Quality"
  },
  "2609.21176": {
@@ -7977,7 +7977,7 @@
  "2609.21391": {
   "status": "screened-out",
   "first_seen": "2026-09-21",
-  "submitted": "2026-09-18",
+  "submitted": "2026-09-18T07:00:35Z",
   "title": "WS-NeRF: A Mamba-Driven World-State-Aware Adaptive Deblurring Neural Radiance Field"
  },
  "2605.26880": {
@@ -8001,19 +8001,19 @@
  "2609.21437": {
   "status": "screened-out",
   "first_seen": "2026-09-21",
-  "submitted": "2026-09-18",
+  "submitted": "2026-09-18T07:50:59Z",
   "title": "Think Locally, Refine Globally for Memory-Efficient 3D Reconstruction"
  },
  "2609.21609": {
   "status": "screened-out",
   "first_seen": "2026-09-21",
-  "submitted": "2026-09-18",
+  "submitted": "2026-09-18T10:46:55Z",
   "title": "Potential-Field Action Representation for Reinforcement Learning in Contact-Rich Manipulation"
  },
  "2609.21511": {
   "status": "screened-out",
   "first_seen": "2026-09-21",
-  "submitted": "2026-09-18",
+  "submitted": "2026-09-18T09:04:42Z",
   "title": "2nd Place Solution to the HANDS 2026 Workshop Challenge-Dexterous Grasp Motion Track: Single-Shot Trajectory Warping for Grasp Motion Generation"
  },
  "2604.23692": {
@@ -8025,7 +8025,7 @@
  "2609.21909": {
   "status": "screened-out",
   "first_seen": "2026-09-21",
-  "submitted": "2026-09-18",
+  "submitted": "2026-09-18T15:34:41Z",
   "title": "Beyond Kinematics: Benchmarking Simulation Fidelity for Muscle-Driven Imitation Learning"
  },
  "2609.21107": {
@@ -8037,7 +8037,7 @@
  "2609.21100": {
   "status": "screened-out",
   "first_seen": "2026-09-21",
-  "submitted": "2026-09-17",
+  "submitted": "2026-09-17T21:21:35Z",
   "title": "Dynamics-Induced Commitment in Learning-Based Robotic Penalty Kicks"
  },
  "2603.03279": {
@@ -8145,25 +8145,25 @@
  "2609.24976": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-21T17:55:24Z",
   "title": "DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation"
  },
  "2609.24749": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-21T15:17:32Z",
   "title": "D-JEPA: A Decision-Aligned Latent World Model"
  },
  "2609.24682": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-21T14:41:08Z",
   "title": "Think Like a World Model, Act Like a VLA: Distilling World-Model Representations into Compact Robot Policies"
  },
  "2609.24626": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-21T14:10:06Z",
   "title": "Relationally Grounded Latent World Models for Autonomous Driving"
  },
  "2609.24352": {
@@ -8199,13 +8199,13 @@
  "2609.24033": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-21T02:59:08Z",
   "title": "Imagine-RL: Residual-Confidence-Guided Cross-Attention for World-Model-Augmented VLA Reinforcement Learning"
  },
  "2609.23971": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-21T00:56:36Z",
   "title": "UniK: Universal Knowledge Perception for Digital and Physical AI"
  },
  "2609.23881": {
@@ -8217,25 +8217,25 @@
  "2609.23753": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-20",
+  "submitted": "2026-09-20T17:05:37Z",
   "title": "OnlineWM: Causality-Aware Active Online Learning for Effective World Modeling"
  },
  "2609.23656": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-20",
+  "submitted": "2026-09-20T14:09:26Z",
   "title": "WOLF: World Model Guided LiDAR Exploration with Predictive Frontiers"
  },
  "2609.23333": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-20",
+  "submitted": "2026-09-20T03:37:31Z",
   "title": "A Patient World Model for Early Forecasting of Digital Health Campaign Outcomes: Capabilities and Limits"
  },
  "2609.23252": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-19",
+  "submitted": "2026-09-19T23:41:03Z",
   "title": "Robot World Models Are Not Invariant to How the Actions Are Written"
  },
  "2609.23184": {
@@ -8247,19 +8247,19 @@
  "2609.23118": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-19",
+  "submitted": "2026-09-19T16:43:32Z",
   "title": "Verti-WM: A Physics-Aided Exteroceptive World Model for Off-Road Reinforcement Learning"
  },
  "2609.22879": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-19",
+  "submitted": "2026-09-19T08:34:34Z",
   "title": "Prioritized Rollouts for Efficient World Model-based Vision-Language-Action Policy Optimization"
  },
  "2609.22858": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-19",
+  "submitted": "2026-09-19T07:54:15Z",
   "title": "PileBelief: Persistent Physical State for Interaction-Driven World Modeling"
  },
  "2609.22816": {
@@ -8271,19 +8271,19 @@
  "2609.22798": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-19",
+  "submitted": "2026-09-19T06:01:54Z",
   "title": "Expert-Play Contouring Control: Faster-than-Demonstration Planning from Slow Expert and Fast Play"
  },
  "2609.22691": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-19",
+  "submitted": "2026-09-19T01:51:09Z",
   "title": "Generative Embodied Multiple Behavior Control Systems for Human-like Agents"
  },
  "2609.22674": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-19",
+  "submitted": "2026-09-19T01:07:25Z",
   "title": "Mask-Aware Execution for Efficient JEPA Training"
  },
  "2609.22641": {
@@ -8304,7 +8304,7 @@
  "2609.22521": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-18",
+  "submitted": "2026-09-18T19:28:32Z",
   "title": "Latent Policy Steering: An Efficient and Flexible Framework for Cross-Embodiment Transfer"
  },
  "2609.22317": {
@@ -8340,7 +8340,7 @@
  "2609.23386": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-20",
+  "submitted": "2026-09-20T06:11:13Z",
   "title": "ProxyBuild: Text-Guided Structured 3D Building Generation with Mesh-Anchored Procedural Proxies"
  },
  "2609.23169": {
@@ -8355,31 +8355,31 @@
  "2609.24253": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-21T08:17:56Z",
   "title": "OpenFlyScan: A Quality-Guided Aerial Reconstruction System for Consumer Drones"
  },
  "2609.24140": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-21T05:48:17Z",
   "title": "BayesianGS-SLAM: Uncertainty-Aware Neural Rendering SLAM via Probabilistic Formulation"
  },
  "2609.23491": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-20",
+  "submitted": "2026-09-20T09:26:55Z",
   "title": "Elevator-VIGS: Separating Elevator Motion from Robot Motion in Visual-Inertial Gaussian Splatting SLAM"
  },
  "2609.23436": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-20",
+  "submitted": "2026-09-20T08:13:18Z",
   "title": "GAPS: Generative Active Pseudo-view Selection for Sparse-View 3D Gaussian Splatting"
  },
  "2609.23182": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-19",
+  "submitted": "2026-09-19T19:11:37Z",
   "title": "GrapeSplat: Geometry-Grounded Reconstruction via Amalgamated Pose-Free Encoding for Feed-Forward 3D Gaussian Splatting"
  },
  "2609.23100": {
@@ -8418,13 +8418,13 @@
  "2609.22849": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-19",
+  "submitted": "2026-09-19T07:45:41Z",
   "title": "LINGO: Latent Initialization and Gradient Optimization for Sparse-view X-ray Novel View Synthesis and CT Reconstruction with 3D Gaussian Splatting"
  },
  "2609.22809": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-19",
+  "submitted": "2026-09-19T06:21:12Z",
   "title": "Kinematic Interface for the Wild: Modular Bimanual Loco-Manipulation Capture from 360$^{\\circ}$ Cameras Alone"
  },
  "2609.24531": {
@@ -8454,7 +8454,7 @@
  "2609.24906": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-21T17:09:58Z",
   "title": "Visuomotor Robotic Pruning in Planar Orchards Using Hybrid Reinforcement Learning"
  },
  "2609.24864": {
@@ -8472,13 +8472,13 @@
  "2609.24312": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-21T09:12:12Z",
   "title": "AnalogDepth: Multi-view Geometry from FPV drones under Analog Video Transmission"
  },
  "2609.23961": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-21T00:23:25Z",
   "title": "Colon3R: Cross-Domain 3D Reconstruction from Monocular Colonoscopic Video"
  },
  "2609.23915": {
@@ -8517,7 +8517,7 @@
  "2609.22410": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-18",
+  "submitted": "2026-09-18T16:34:46Z",
   "title": "Learning 3D biophysical cell properties from 2D images and cell-population statistics"
  },
  "2609.24563": {
@@ -8541,13 +8541,13 @@
  "2609.24840": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-21T16:20:25Z",
   "title": "PredActor: Predictive Action Diffusion for Steerable Onboard Humanoid Control"
  },
  "2609.24547": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-21T13:14:53Z",
   "title": "MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions"
  },
  "2609.23797": {
@@ -8565,19 +8565,19 @@
  "2609.22913": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-19",
+  "submitted": "2026-09-19T09:45:26Z",
   "title": "AVTR-1: Open Stack for Real-Time Interactive Avatars"
  },
  "2609.22895": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-19",
+  "submitted": "2026-09-19T09:01:06Z",
   "title": "H-VLA: Hierarchical Vision-Language-Action Model with Key-Action Reasoning and Motion Planning in a Unified Action Space"
  },
  "2609.22829": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-19",
+  "submitted": "2026-09-19T07:04:01Z",
   "title": "Whole-Body UMI: Transferring UMI Manipulation Skills to Humanoid Whole-Body Manipulation via Real-Time Motion Generation"
  },
  "2609.06802": {
@@ -8595,25 +8595,25 @@
  "2609.24093": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-21T04:26:26Z",
   "title": "Dexterous Robot Manipulation from Human Demonstrations via Contact-Anchored Retargeting and Residual Policy Learning"
  },
  "2609.23817": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-20",
+  "submitted": "2026-09-20T19:11:53Z",
   "title": "VISTA: Video-Injected Stylized Text-to-Animation"
  },
  "2609.23755": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-20",
+  "submitted": "2026-09-20T17:09:09Z",
   "title": "EgoWild2Dex: Learning Dexterous Robotic Manipulation from In-the-Wild Human Experience"
  },
  "2609.23610": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-20",
+  "submitted": "2026-09-20T12:52:15Z",
   "title": "PRIMO: Prior-Informed Odometry from Human-Motion Tracking for Humanoid Robots"
  },
  "2609.22519": {
@@ -8631,13 +8631,13 @@
  "2609.24145": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-21T05:56:20Z",
   "title": "MimicAgent: Quadruped Skills via Prompt-to-Trajectory Generation"
  },
  "2609.22619": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-18",
+  "submitted": "2026-09-18T22:11:02Z",
   "title": "GaitVista: Reliability-Aware AI Measurement toward Accessible Longitudinal Gait Assessment"
  },
  "2609.22611": {
@@ -8841,7 +8841,7 @@
  "2609.23606": {
   "status": "screened-out",
   "first_seen": "2026-09-22",
-  "submitted": "2026-09-20",
+  "submitted": "2026-09-20T12:48:32Z",
   "title": "Beyond UV Mapping: Mesh Texture Compression via Surface-Aligned Texture Fields"
  },
  "2603.28431": {
@@ -8901,7 +8901,7 @@
  "2609.26007": {
   "status": "screened-out",
   "first_seen": "2026-09-23",
-  "submitted": "2026-09-22",
+  "submitted": "2026-09-22T11:08:50Z",
   "title": "Skytopia: Monocular Drone Navigation with Action-Conditioned Latent World Models"
  },
  "2609.25652": {
@@ -8916,13 +8916,13 @@
  "2609.25541": {
   "status": "screened-out",
   "first_seen": "2026-09-23",
-  "submitted": "2026-09-22",
+  "submitted": "2026-09-22T01:18:41Z",
   "title": "A JEPA Recipe for Tabular Foundation Models"
  },
  "2609.26039": {
   "status": "screened-out",
   "first_seen": "2026-09-23",
-  "submitted": "2026-09-22",
+  "submitted": "2026-09-22T11:44:31Z",
   "title": "EMERGE: Resolution-Agnostic Point Cloud Generation with Equivariant Graph-Based Diffusion"
  },
  "2609.25741": {
@@ -8940,19 +8940,19 @@
  "2609.26795": {
   "status": "screened-out",
   "first_seen": "2026-09-23",
-  "submitted": "2026-09-22",
+  "submitted": "2026-09-22T17:59:52Z",
   "title": "φ-RIE: From Photorealistic Reconstruction to Interactive Environments"
  },
  "2609.26315": {
   "status": "screened-out",
   "first_seen": "2026-09-23",
-  "submitted": "2026-09-22",
+  "submitted": "2026-09-22T12:25:10Z",
   "title": "ArborSplat: Online Semantic Gaussian Splatting SLAM for Orchards"
  },
  "2609.25746": {
   "status": "screened-out",
   "first_seen": "2026-09-23",
-  "submitted": "2026-09-22",
+  "submitted": "2026-09-22T06:35:43Z",
   "title": "Dual Covariance Gaussian Splatting SLAM: Decoupling Rendering and Registration for Robust Real-Time Tracking"
  },
  "2609.25633": {
@@ -8964,7 +8964,7 @@
  "2609.25604": {
   "status": "screened-out",
   "first_seen": "2026-09-23",
-  "submitted": "2026-09-22",
+  "submitted": "2026-09-22T02:51:29Z",
   "title": "Ultra-fast Neural Inference for Stochastic Gaussian Splatting Denoising"
  },
  "2609.25578": {
@@ -8997,7 +8997,7 @@
  "2609.25725": {
   "status": "screened-out",
   "first_seen": "2026-09-23",
-  "submitted": "2026-09-22",
+  "submitted": "2026-09-22T05:54:37Z",
   "title": "AgriGen: Large-Scale Scene Generation Framework for Photorealistic Agricultural Robotics Simulation"
  },
  "2609.25504": {
@@ -9009,31 +9009,31 @@
  "2609.25754": {
   "status": "screened-out",
   "first_seen": "2026-09-23",
-  "submitted": "2026-09-22",
+  "submitted": "2026-09-22T06:47:41Z",
   "title": "PLAT: Sparse Timed Keyframe Motion Tracking for Humanoid Control via Privileged Latent Transition Learning"
  },
  "2609.26430": {
   "status": "screened-out",
   "first_seen": "2026-09-23",
-  "submitted": "2026-09-22",
+  "submitted": "2026-09-22T13:54:23Z",
   "title": "Latent Dataset Distillation for Human Motion Prediction"
  },
  "2609.26420": {
   "status": "screened-out",
   "first_seen": "2026-09-23",
-  "submitted": "2026-09-22",
+  "submitted": "2026-09-22T13:49:48Z",
   "title": "Sample, Simulate, Select: Physics-in-the-Loop Text-to-Motion for Humanoids Without Training"
  },
  "2609.25486": {
   "status": "screened-out",
   "first_seen": "2026-09-23",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-21T23:34:27Z",
   "title": "Brace Yourself: Task-Conditioned Environmental Bracing for Forceful Humanoid Manipulation"
  },
  "2609.25374": {
   "status": "screened-out",
   "first_seen": "2026-09-23",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-21T20:13:50Z",
   "title": "Angular momentum analysis on Karate roundhouse kicks: a longitudinal case study"
  },
  "2609.26363": {
@@ -9162,19 +9162,19 @@
  "2609.28416": {
   "status": "screened-out",
   "first_seen": "2026-09-24",
-  "submitted": "2026-09-23",
+  "submitted": "2026-09-23T17:18:26Z",
   "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents"
  },
  "2609.28414": {
   "status": "screened-out",
   "first_seen": "2026-09-24",
-  "submitted": "2026-09-23",
+  "submitted": "2026-09-23T17:17:02Z",
   "title": "Frozen Flows Forget: Diagnosing and Restoring Lost Motion in a Latent-flow World Model"
  },
  "2609.28393": {
   "status": "screened-out",
   "first_seen": "2026-09-24",
-  "submitted": "2026-09-23",
+  "submitted": "2026-09-23T17:02:18Z",
   "title": "PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation"
  },
  "2609.28258": {
@@ -9210,7 +9210,7 @@
  "2609.27734": {
   "status": "screened-out",
   "first_seen": "2026-09-24",
-  "submitted": "2026-09-23",
+  "submitted": "2026-09-23T11:47:58Z",
   "title": "InfiNoVA: Infinite Novel View Augmentation for Viewpoint Invariant Robot Policies"
  },
  "2605.15760": {
@@ -9294,7 +9294,7 @@
  "2609.27269": {
   "status": "screened-out",
   "first_seen": "2026-09-24",
-  "submitted": "2026-09-23",
+  "submitted": "2026-09-23T02:52:46Z",
   "title": "Banana Kick: Response-Informed Skill Evolution for Humanoid Soccer"
  },
  "2609.27650": {
@@ -9399,19 +9399,19 @@
  "2609.30264": {
   "status": "screened-out",
   "first_seen": "2026-09-25",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T17:59:41Z",
   "title": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control"
  },
  "2609.30214": {
   "status": "screened-out",
   "first_seen": "2026-09-25",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T17:45:42Z",
   "title": "Underwater C3-JEPA: An Object-Centric Cross-View World Model for ROV Salvage"
  },
  "2609.30036": {
   "status": "screened-out",
   "first_seen": "2026-09-25",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T16:05:02Z",
   "title": "Aim Short to Reach Far: Your Frozen World Model Can Plan Better Than You Think"
  },
  "2609.29669": {
@@ -9447,7 +9447,7 @@
  "2609.28969": {
   "status": "screened-out",
   "first_seen": "2026-09-25",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T03:35:30Z",
   "title": "Sim-to-Real Aware End-to-End Learning Environment for Micromobility"
  },
  "2609.28931": {
@@ -9459,13 +9459,13 @@
  "2609.28927": {
   "status": "screened-out",
   "first_seen": "2026-09-25",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T02:19:21Z",
   "title": "Streaming-WAM: Action-Conditioned World-Action Model for Asynchronous Robot Manipulation"
  },
  "2609.28670": {
   "status": "screened-out",
   "first_seen": "2026-09-25",
-  "submitted": "2026-09-23",
+  "submitted": "2026-09-23T18:10:56Z",
   "title": "Beyond Static Graph World Models: Learning Stochastic Latent Dynamics over Evolving Topologies"
  },
  "2609.28654": {
@@ -9498,7 +9498,7 @@
  "2609.30056": {
   "status": "screened-out",
   "first_seen": "2026-09-25",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T16:14:00Z",
   "title": "M3GD: Multi-Modal Multi-View Geometric Diffusion for Camera--LiDAR Novel View Synthesis"
  },
  "2603.23488": {
@@ -9510,13 +9510,13 @@
  "2609.30245": {
   "status": "screened-out",
   "first_seen": "2026-09-25",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T17:57:56Z",
   "title": "Towards Practical Compression of 3D Gaussian Splatting"
  },
  "2609.29985": {
   "status": "screened-out",
   "first_seen": "2026-09-25",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T15:35:08Z",
   "title": "OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning"
  },
  "2609.29638": {
@@ -9555,7 +9555,7 @@
  "2609.29963": {
   "status": "screened-out",
   "first_seen": "2026-09-25",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T15:19:23Z",
   "title": "ADATEX4D: adaptive texture capacity allocation for 4D gaussian splatting"
  },
  "2609.29836": {
@@ -9573,13 +9573,13 @@
  "2609.29847": {
   "status": "screened-out",
   "first_seen": "2026-09-25",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T14:13:12Z",
   "title": "Elucidating the Conformal Structure of the Brinkman Penalisation Method for Geometry-Adapted, Structure-Preserving Operator Learning of Hamiltonian PDEs"
  },
  "2609.29825": {
   "status": "screened-out",
   "first_seen": "2026-09-25",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T13:58:16Z",
   "title": "Anatomy-Aligned Surface Field Learning for Myocardial Reconstruction from Sparse Short-Axis Cine MRI"
  },
  "2609.29644": {
@@ -9609,25 +9609,25 @@
  "2609.29850": {
   "status": "screened-out",
   "first_seen": "2026-09-25",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T14:15:04Z",
   "title": "BeyondRetarget: Learning Executable Humanoid Motions Directly from Monocular Video"
  },
  "2609.29021": {
   "status": "screened-out",
   "first_seen": "2026-09-25",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T04:45:36Z",
   "title": "CAMP: Cooperative Arm-Hand Motion Planning in Constrained Spaces"
  },
  "2609.30187": {
   "status": "screened-out",
   "first_seen": "2026-09-25",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T17:30:36Z",
   "title": "Ego-Exo4D Human Meshes Dataset: 4D Human Motion Reconstruction for Ego-Exo Captures"
  },
  "2609.28660": {
   "status": "screened-out",
   "first_seen": "2026-09-25",
-  "submitted": "2026-09-23",
+  "submitted": "2026-09-23T18:05:36Z",
   "title": "Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy"
  },
  "2609.29603": {
@@ -9735,7 +9735,7 @@
  "2609.29157": {
   "status": "screened-out",
   "first_seen": "2026-09-25",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T07:33:28Z",
   "title": "OREN-X: Octree Residual Network for Real-Time Multi-Modal Mapping"
  },
  "2609.28684": {
@@ -9768,49 +9768,49 @@
  "2609.31349": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T14:47:17Z",
   "title": "DyMD: Preserving Interaction Dynamics through Distribution Matching Distillation in Few-Step Video World Models"
  },
  "2609.31313": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T14:21:20Z",
   "title": "Towards VLA-Dreamer: Refining VLA Behavior Using World Models"
  },
  "2609.31281": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T13:52:39Z",
   "title": "MA-WAM: Multi-Agent World-Action Model for Test-Time Planning"
  },
  "2609.31162": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T11:54:18Z",
   "title": "WorldTS: World Modeling for Multimodal Covariate-aware Time Series Forecasting"
  },
  "2609.31161": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T11:54:16Z",
   "title": "I Act Therefore I Am: When Is JEPA's Action-Conditioning Enough to Learn Causal Mechanisms?"
  },
  "2609.31133": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T11:26:05Z",
   "title": "AtomWorld-Mem: Memory-Restored World States for Long-Horizon Atomistic Evolution"
  },
  "2609.30946": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T07:59:11Z",
   "title": "OneWorld: Learning Consistent Physics Across Actions in World Models"
  },
  "2609.30743": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T03:12:20Z",
   "title": "From S3Q Theory to Implementation: Towards an Architecture for Machine Qualia"
  },
  "2609.30711": {
@@ -9840,7 +9840,7 @@
  "2609.30595": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T22:19:08Z",
   "title": "Action Forcing: Training World Models on Unsupervised Video by Recovering Underlying Egomotion Bases"
  },
  "2609.30436": {
@@ -9861,79 +9861,79 @@
  "2609.31374": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T15:12:05Z",
   "title": "RECAST: From Log Replay to Closed-Loop Driving Simulation with View-Complete Actors"
  },
  "2609.31509": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T16:50:46Z",
   "title": "ClearGS: Reliability-Aware Gaussian Splatting from Handheld Videos"
  },
  "2609.31483": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T16:26:40Z",
   "title": "Scaling Density Functional Theory with Gaussian Splatting"
  },
  "2609.31248": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T13:25:59Z",
   "title": "Gauss What You Need: Compact Gaussian Splatting Across Scene Scales"
  },
  "2609.30941": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T07:56:03Z",
   "title": "Spackle: Completing Large View Single Image NVS with Adaptive Gaussians"
  },
  "2609.30865": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T06:16:42Z",
   "title": "Reliability-Regulated Trajectory Optimization for Progressive COLMAP-Free 3D Gaussian Splatting"
  },
  "2609.30393": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T18:01:56Z",
   "title": "LiTe-GS: Oracle-Efficient Next Best View Selection for 3D Gaussian Splatting"
  },
  "2609.31595": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T17:52:39Z",
   "title": "GraphWrit3R: End-to-End 3D Scene Graph Writing"
  },
  "2609.31572": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T17:35:05Z",
   "title": "OC-GS: Gaussian Splatting for Irregular Turntable Capture"
  },
  "2609.31339": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T14:43:04Z",
   "title": "ChronoFuseGS: Multi-Temporal Gaussian Fusion with Per-Splat Persistence and Change Visualization"
  },
  "2609.30741": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T03:11:46Z",
   "title": "From Mono to Stereo: Accelerating Binocular Gaussian Splatting via Reprojection and Selective Patching"
  },
  "2609.31247": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T13:25:56Z",
   "title": "Geometric Inconsistency Localization in Multi-View Image Sets"
  },
  "2609.31198": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T12:35:00Z",
   "title": "Light Field Primitive for Novel View Synthesis"
  },
  "2603.12063": {
@@ -9975,19 +9975,19 @@
  "2609.31577": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T17:38:23Z",
   "title": "Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators"
  },
  "2609.30795": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T04:20:11Z",
   "title": "Motion Style Slider: Endpoint-Supervised Continuous Style Control for Human Motion Diffusion"
  },
  "2609.30761": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T03:39:00Z",
   "title": "Timo: $\\textbf{T}$aming Mult$\\textbf{i}$modal Diffusion Transformer for Human $\\textbf{Mo}$tion Generation"
  },
  "2512.24100": {
@@ -9999,19 +9999,19 @@
  "2609.30344": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T12:49:57Z",
   "title": "Learning coarse-step dynamics and internal mechanical response with graph networks"
  },
  "2609.31418": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T15:39:28Z",
   "title": "CognitiveReality: Robot-Agnostic Semantic Gaussian Mapping with an LLM Agent for Immersive Collaborative VR Teleoperation"
  },
  "2609.30521": {
   "status": "screened-out",
   "first_seen": "2026-09-28",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T20:16:38Z",
   "title": "Aerial Manipulation in the Wild with Onboard Perception, Policy Learning, and Whole-Body Control"
  },
  "2609.30517": {
@@ -10113,19 +10113,19 @@
  "2609.35764": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T17:59:22Z",
   "title": "Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose"
  },
  "2609.35761": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T17:59:10Z",
   "title": "DexRoam: Learning Mobile Bimanual Dexterous Manipulation from Egocentric Whole-Body Human Demonstrations"
  },
  "2609.35734": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T17:51:48Z",
   "title": "GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space"
  },
  "2609.35728": {
@@ -10140,55 +10140,55 @@
  "2609.35715": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T17:46:42Z",
   "title": "X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets"
  },
  "2609.35704": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T17:42:57Z",
   "title": "DynaTokens: Teaching Dynamics to Camera-Controlled Video Models at Test Time"
  },
  "2609.35658": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T17:21:52Z",
   "title": "Many Eyes, One World: Feed-Forward 3D Reconstruction from Mixed Cameras"
  },
  "2609.35652": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T17:19:51Z",
   "title": "MM-ABC: Towards Generalist Mobile Manipulation via Seeing, Coordinating and Imagining"
  },
  "2609.35619": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T16:57:15Z",
   "title": "CollisionSplatting: Collision-Aware Motion Planning in 3DGS Scenes with Image-Conditioned Objectives and Adjustable Conservatism"
  },
  "2609.35616": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T16:56:07Z",
   "title": "EvolvingAvatar: Interactive 3D Head Generation That Adapts as Conversations Unfold"
  },
  "2609.35612": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T16:55:27Z",
   "title": "Remote Sensing Sparse-View 3D Gaussian Splatting via Depth Image-Based Rendering"
  },
  "2609.35603": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T16:51:33Z",
   "title": "Control-Geometry Straightening for Sampling-Based Latent Planning"
  },
  "2609.35573": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T16:33:50Z",
   "title": "Less Is More: Genetic Frame Selection for Efficient Novel View Synthesis"
  },
  "2609.35560": {
@@ -10200,7 +10200,7 @@
  "2609.35545": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T16:22:49Z",
   "title": "Graph World Models for Constrained Epidemic Policy Planning"
  },
  "2609.35491": {
@@ -10212,43 +10212,43 @@
  "2609.35463": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T15:51:25Z",
   "title": "A.D.A.M.O. (Agent for language-Driven Actions with Multimodal Observations): A Visual-Symbolic Framework for Virtual Humans"
  },
  "2609.35426": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T15:35:20Z",
   "title": "Frontier Learning: Training LLM Reasoners at the Edge of Capability"
  },
  "2609.35407": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T15:27:32Z",
   "title": "BiMoGen: Bidirectional Motion-Text Generation via Unified Masked Discrete Diffusion"
  },
  "2609.35375": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T15:12:53Z",
   "title": "From Pixel to Poses: Object-centric Tool Manipulation Learning from Human Demonstrations"
  },
  "2609.35368": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T15:09:34Z",
   "title": "Ego-Forge: Text and Geometric-Attention Free Exo-to-Egocentric Video Generation"
  },
  "2609.35311": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T14:46:58Z",
   "title": "RoGSW4RLD: Feed-Forward 4D Gaussian Lifting for Robot World Model Rollouts"
  },
  "2609.35290": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T14:36:01Z",
   "title": "EvoIn: Bridging Evolution and Internalization for Agent Fine-Tuning"
  },
  "2609.35138": {
@@ -10263,25 +10263,25 @@
  "2609.35134": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T13:25:37Z",
   "title": "VideoPhysEdit: Physical Counterfactual Video Editing via Rigid-Body Physical Scene Reconstruction"
  },
  "2609.35052": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T12:46:29Z",
   "title": "OPIS: An Input-Grounded Benchmark for Multi-Object Memory in Video World Models"
  },
  "2609.35047": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T12:42:51Z",
   "title": "EMPIRIC: Experiment-Driven Learning of Residual World Models for Robot Planning"
  },
  "2609.35032": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T12:30:11Z",
   "title": "JRDB-AVR: An Active Visual Reasoning Benchmark for Embodied Agents in Real-World Environments"
  },
  "2609.35023": {
@@ -10296,7 +10296,7 @@
  "2609.35003": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T12:06:49Z",
   "title": "Learning to Act under Visual Interruptions with Vision-Language-Action Models"
  },
  "2609.34934": {
@@ -10320,25 +10320,25 @@
  "2609.34853": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T10:46:23Z",
   "title": "EviSplat: Preserving Multi-View Evidence in 3D Gaussian Splatting for Open-Vocabulary Segmentation"
  },
  "2609.34843": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T10:40:41Z",
   "title": "ORAV: Benchmarking Audio-Video Generation from Multimodal Contexts"
  },
  "2609.34826": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T10:23:42Z",
   "title": "WM-VLM: Probing Internal World Models for Interleaved Visual-Textual Reasoning"
  },
  "2609.34817": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T10:17:22Z",
   "title": "ESTHER: Egocentric Stereo Hand Estimation and Reconstruction in the Wild"
  },
  "2609.34749": {
@@ -10350,25 +10350,25 @@
  "2609.34733": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T09:31:12Z",
   "title": "SurgGMF: Fully Causal Gaussian Motion Forecasting for Anticipatory Surgical Scene Rendering"
  },
  "2609.34724": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T09:28:53Z",
   "title": "DexWeave: Learning Dexterous Humanoid Loco-Manipulation from Human Demonstrations"
  },
  "2609.34722": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T09:27:59Z",
   "title": "Geometry as Address: Routing Attention to Visual Memory for Long-Horizon Camera-Controlled Video Generation"
  },
  "2609.34697": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T09:16:40Z",
   "title": "Triangular Resampling for Long-Horizon Motion Generation"
  },
  "2609.34677": {
@@ -10389,13 +10389,13 @@
  "2609.34604": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T08:35:56Z",
   "title": "Shaping Persistent Representations from Independent Interactions"
  },
  "2609.34579": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T08:23:48Z",
   "title": "GenNVS: Geometry-enhanced Novel View Synthesis via Disentangled 3D Prior"
  },
  "2609.34539": {
@@ -10416,49 +10416,49 @@
  "2609.34430": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T06:51:03Z",
   "title": "HUMAN-TCI: Hierarchical Multi-Stream Motion-Aware Network with Torso-Centered Interaction for Text-to-Motion Retrieval"
  },
  "2609.34414": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T06:30:21Z",
   "title": "From World Models to World Action Models: Rethinking Next-State Prediction"
  },
  "2609.34375": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T05:48:14Z",
   "title": "LRC-JEPA: Disentangling Dynamics and Residual Context for Efficient World Models"
  },
  "2609.34371": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T05:46:11Z",
   "title": "From Static to Dynamic: On-Policy Distillation from Image to Video Diffusion Models"
  },
  "2609.34367": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T05:44:08Z",
   "title": "Rate-Distortion Adaptive Primitive Selection for Omnidirectional Gaussian Splatting"
  },
  "2609.34335": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T05:11:39Z",
   "title": "SkillPE: Creativity-Oriented Cinematic Skill Evolution for Text-to-Video Prompt Engineering"
  },
  "2609.34300": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T04:44:24Z",
   "title": "When World Models Lie: Adaptive Safety Analysis Under Wrong Imaginations"
  },
  "2609.34286": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T04:30:09Z",
   "title": "Dexterous Tactile World Model"
  },
  "2609.34271": {
@@ -10470,7 +10470,7 @@
  "2609.34233": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T03:39:03Z",
   "title": "GAE: General Action Expert for Real-Time Humanoid Teleoperation"
  },
  "2609.34221": {
@@ -10482,7 +10482,7 @@
  "2609.34220": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T03:24:33Z",
   "title": "mmHRI: Towards Privacy-Preserving Human-Robot Interaction with Millimeter-Wave Radar"
  },
  "2609.34206": {
@@ -10494,31 +10494,31 @@
  "2609.34199": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T03:11:19Z",
   "title": "WB-WAM: Heterogeneous Body-Hand Pre-training for Humanoid Loco-Manipulation"
  },
  "2609.34190": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T03:05:03Z",
   "title": "MotionSpaceFlow: Representation-Aware Flow Matching in Direct Motion Space"
  },
  "2609.34182": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T02:59:16Z",
   "title": "Unified Visual-Tactile-Action Modeling from Human Demonstrations for Dexterous Manipulation"
  },
  "2609.34176": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T02:53:40Z",
   "title": "AGILE-GS: Anchor-Guided Fast Next-Best-View Selection for Active 3D Gaussian Splatting"
  },
  "2609.34159": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T02:37:32Z",
   "title": "WorldGraph: Graph-Native World Modeling"
  },
  "2609.34144": {
@@ -10530,31 +10530,31 @@
  "2609.34085": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T01:22:22Z",
   "title": "AD-E2E-JEPA: A Joint-Embedding Predictive Architecture For End-to-End Autonomous Driving"
  },
  "2609.34058": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T00:38:48Z",
   "title": "Do World Models Learn Global Understanding?"
  },
  "2609.34010": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T23:09:11Z",
   "title": "ZeroBot: Learning from Scratch in Minutes with Generative Real2Sim"
  },
  "2609.33982": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T22:28:10Z",
   "title": "Test-Time Spatial Reasoning for Robot Manipulation Using Generative Real-to-Sim"
  },
  "2609.33969": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T22:14:31Z",
   "title": "Gaussian Splatting-based Volumetric Video Compression with Sparse 4D Anchors"
  },
  "2609.33940": {
@@ -10566,13 +10566,13 @@
  "2609.33882": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T19:56:41Z",
   "title": "DexTaG: Tactile-as-Guidance in Reinforcement Learning for Dexterous Manipulation"
  },
  "2609.33872": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T19:48:57Z",
   "title": "Robot-GST: geometry-aware spatial-temporal robot policy representation and evaluation"
  },
  "2609.33854": {
@@ -10584,37 +10584,37 @@
  "2609.33844": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T18:55:06Z",
   "title": "ViBR-WM: Visual Bayesian Regression for World Modeling"
  },
  "2609.33832": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T18:32:40Z",
   "title": "Achieve What You Imagined: Learning to Align Actions with Visual Plans"
  },
  "2609.33737": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T16:39:08Z",
   "title": "MomWorld: Momentum-Aware Latent World Model for Long-Horizon Autonomous Driving"
  },
  "2609.33728": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T16:30:08Z",
   "title": "ALDER: Discovering the Laws of a World by Acting in It"
  },
  "2609.33723": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T16:25:30Z",
   "title": "GeoShrink: Accelerating Diffusion Transformers with Two Lines of Code"
  },
  "2609.33665": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T15:25:01Z",
   "title": "CompoWorld: Compositional Environment Scaling for General Agents"
  },
  "2609.33627": {
@@ -10629,91 +10629,91 @@
  "2609.33595": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T14:12:27Z",
   "title": "Beyond One-Step Accuracy: State-Affine Latent Transition for Reliable Visual Planning"
  },
  "2609.33575": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T13:53:29Z",
   "title": "SLIP-VLA: Single-Step Latent Imagination for Policy Learning in Vision-Language-Action Models"
  },
  "2609.33563": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T13:37:30Z",
   "title": "MA-JEPA: Joint-Embedding World Models for Multi-Agent Reinforcement Learning"
  },
  "2609.33518": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T12:39:53Z",
   "title": "SceneScaffold: Active Scene-State Construction for Unified 3D Scene Understanding"
  },
  "2609.33464": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T11:19:17Z",
   "title": "VIDEAS: Distilling Explicit Action Semantics from Demonstration Videos for World Models via Prior-Guided Simulation"
  },
  "2609.33354": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T08:24:57Z",
   "title": "Traceable Human-to-Humanoid Sign Language Benchmarking"
  },
  "2609.33347": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T08:17:42Z",
   "title": "MultiEcho: An Experimental Science of Learned Worlds"
  },
  "2609.33336": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T08:07:11Z",
   "title": "Beyond Conservatism: Recoverability-Conditioned Exploration for Model-Based Imitation Learning"
  },
  "2609.33335": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T08:07:05Z",
   "title": "Does Learning to Predict the World Help Agents Act? Auditing World-Model Post-Training"
  },
  "2609.33330": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T08:01:29Z",
   "title": "FeCoSplat: Feedback-Guided Compression for Feed-Forward 3D Gaussian Splatting"
  },
  "2609.33311": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T07:24:33Z",
   "title": "SocialHumanoid: Towards Expressive Humanoid Behavior via One-Step Co-Speech Motion Generation"
  },
  "2609.33264": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T06:12:04Z",
   "title": "VehDyn: A Driving World Model Benchmark for Vehicle Dynamics"
  },
  "2609.33258": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T05:59:55Z",
   "title": "PORTER: Edge-Cloud Residency for Persistent 3D Scene Graph Memory"
  },
  "2609.33253": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T05:57:25Z",
   "title": "VGGT-Diff: Visual Geometry Meets Diffusion for Sparse-View Novel View Synthesis"
  },
  "2609.33218": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T04:57:41Z",
   "title": "Scope-WM: Scoped Computation for Efficient Visual World Models"
  },
  "2609.33202": {
@@ -10725,49 +10725,49 @@
  "2609.33177": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T03:55:44Z",
   "title": "DeltaWAM: Change-Centric Visual Foresight via Delta Tokens for an Efficient World-Action Model"
  },
  "2609.33167": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T03:44:40Z",
   "title": "FloodDiffusion 2: Efficient and Path Controllable Streaming Motion Generation"
  },
  "2609.33120": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T02:40:10Z",
   "title": "Mycelium: A Generalizable Cross-Grid Multi-Task Model for Electrical Distribution Systems"
  },
  "2609.33104": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T02:21:30Z",
   "title": "VPTwin: Real-Sim-Real Video Prediction for Robotic Manipulation Planning"
  },
  "2609.33053": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-27",
+  "submitted": "2026-09-27T00:34:22Z",
   "title": "SwingRL: Adaptive Observation Reinforcement Learning with World-Model Prediction for Cable-Suspended Hoisting Control"
  },
  "2609.33030": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T23:53:39Z",
   "title": "What Must a World Model Distinguish for Planning?"
  },
  "2609.32966": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T21:56:26Z",
   "title": "Self-Confirming Superposition Traps in Reinforcement Learning"
  },
  "2609.32922": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T20:24:04Z",
   "title": "Precision As You Need: Stochastic Computing Is a Dense Adaptive Quantizer"
  },
  "2609.32921": {
@@ -10782,19 +10782,19 @@
  "2609.32864": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T18:51:34Z",
   "title": "Staying on the Attractor: Supervising Neural Surrogates of 3D Turbulence Where They Leave It"
  },
  "2609.32855": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T18:29:56Z",
   "title": "FINE: Future-Informed Navigation Encoding for Data-Efficient Vision-Language Navigation"
  },
  "2609.32837": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T18:10:52Z",
   "title": "Scanning While Imagining: A Scene-Graph World Model for Robotic Ultrasound Navigation"
  },
  "2609.32761": {
@@ -10821,31 +10821,31 @@
  "2609.32679": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T14:35:45Z",
   "title": "The GUI Is Not the State: Diagnosing State Aliasing in GUI World Models"
  },
  "2609.32657": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T14:16:49Z",
   "title": "World Models with Predictable Long-Horizon Marginals"
  },
  "2609.32628": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T13:47:31Z",
   "title": "DraftAttention2: Fast Video Diffusion with Low-Resolution-Guided Mixed-Precision Attention"
  },
  "2609.32626": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T13:44:57Z",
   "title": "World SLAM Model: Joint World Modeling for SLAM and Navigation"
  },
  "2609.32591": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T13:10:00Z",
   "title": "Think Fast, Plan Selectively: Adaptive Deliberation for Efficient Data-Driven MPC"
  },
  "2609.32518": {
@@ -10857,13 +10857,13 @@
  "2609.32512": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T12:00:18Z",
   "title": "What Do Latent Predictive Vehicle Representations Retain? Measuring State, Geometry, and Local Response"
  },
  "2609.32502": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T11:43:38Z",
   "title": "TreeRef-BFN: Equivariance-Free De Novo Molecule Generation based on 2D Topology and Internal 3D Geometry"
  },
  "2609.32460": {
@@ -10875,55 +10875,55 @@
  "2609.32456": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T10:40:46Z",
   "title": "Seeing Parts, Reasoning about Worlds: Visual Inference under Partial Observation"
  },
  "2609.32399": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T09:19:45Z",
   "title": "Endo-TSR: Temporal Spectral Modeling of Appearance and Motion for Endoscopic Reconstruction"
  },
  "2609.32354": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T08:17:11Z",
   "title": "Proactive Motion Planning for Human-Robot Cooperation"
  },
  "2609.32346": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T08:09:44Z",
   "title": "Human Motion Prediction for Human-Robot Collaboration"
  },
  "2609.32336": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T07:53:54Z",
   "title": "WSM-Aware HRI: An IoT-Enhanced Framework for Early Detection and Norm-Guided Repair of Failures with LLM Guidance"
  },
  "2609.32323": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T07:35:05Z",
   "title": "FoundDSR: A Generalizable Foundation Model with Guided 2D Gaussian Splatting for Depth Super-Resolution"
  },
  "2609.32322": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T07:34:10Z",
   "title": "Not All Errors Matter: Decision-Relevant Prediction Error Predicts Planning Quality"
  },
  "2609.32231": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T04:45:53Z",
   "title": "Skeletons in Flow: Graph Structured Flow Matching for Human Motion Prediction"
  },
  "2609.32197": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T03:49:52Z",
   "title": "SparSP: Exploiting Communication Sparsity for Sequence-Parallel Video DiTs"
  },
  "2609.32193": {
@@ -10935,7 +10935,7 @@
  "2609.32177": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T02:59:00Z",
   "title": "Federated 3D Gaussian Splatting for Large-Scale Scene Reconstruction at Wireless Edge"
  },
  "2609.32175": {
@@ -10953,25 +10953,25 @@
  "2609.32093": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T23:55:38Z",
   "title": "GameBoyWorlds: A Testbed for Self-Improvement in Embodied Video Games"
  },
  "2609.32026": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T21:46:00Z",
   "title": "Continuous-Time Trajectory Generation from Discrete Observations with Stochasticity"
  },
  "2609.32013": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T21:20:16Z",
   "title": "TriO: Tri-Modal Unsupervised Occupancy World Model for Anything Perception"
  },
  "2609.31938": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T19:36:40Z",
   "title": "Cache-Aware Conv3D Lowering Across Embedded World-Model Decoders"
  },
  "2609.31924": {
@@ -10986,19 +10986,19 @@
  "2609.31893": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T18:30:26Z",
   "title": "CyberWorld: World Models for Sample-Efficient Autonomous Cyber Defense"
  },
  "2609.31874": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T18:12:38Z",
   "title": "COUNTERMEM: World-Model Verified Counter-Factual Memory for Language Agents"
  },
  "2609.31840": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T18:00:06Z",
   "title": "Humanoid Badminton: Learning Dynamic Racket Skills from Limited Human Motion Data"
  },
  "2609.31451": {
@@ -11022,7 +11022,7 @@
  "2609.30722": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-25",
+  "submitted": "2026-09-25T02:49:06Z",
   "title": "TrafficImag: A Benchmark for Counterfactual Roadside Traffic Video Generation"
  },
  "2609.30609": {
@@ -11037,7 +11037,7 @@
  "2609.30249": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T17:58:21Z",
   "title": "RAPID: Robot Agentic Programming from Demonstrations"
  },
  "2609.30222": {
@@ -11061,7 +11061,7 @@
  "2609.29908": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-24",
+  "submitted": "2026-09-24T14:48:33Z",
   "title": "MorphIK: Morphology-Conditioned Neural Inverse Kinematics for Unknown Robots"
  },
  "2609.29816": {
@@ -11079,13 +11079,13 @@
  "2609.28811": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-23",
+  "submitted": "2026-09-23T21:45:16Z",
   "title": "DeltaWAM: Delta World Action Models for Bimanual Manipulation"
  },
  "2609.28339": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-23",
+  "submitted": "2026-09-23T16:17:35Z",
   "title": "Beyond Future Prediction: Denoising as Generative Adaptation for Robot Control"
  },
  "2609.28095": {
@@ -11103,19 +11103,19 @@
  "2609.28564": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-23",
+  "submitted": "2026-09-23T10:53:38Z",
   "title": "Don't Read the Log: Execution Traces Contaminate Verifiers in Video-Generation Agents"
  },
  "2609.27517": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-23",
+  "submitted": "2026-09-23T08:14:47Z",
   "title": "Not What You Meant: Can LLMs Follow a Specified Negation Semantics?"
  },
  "2609.27467": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-23",
+  "submitted": "2026-09-23T07:30:00Z",
   "title": "Kairos: Grounded Forecasting of Presence and Directional Flow in 4D Scene Graphs"
  },
  "2609.27455": {
@@ -11130,7 +11130,7 @@
  "2609.27303": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-23",
+  "submitted": "2026-09-23T03:36:44Z",
   "title": "Live Assistant: Learning Whether, When, and Whom to Assist in Real-World Live Social Streams"
  },
  "2609.26793": {
@@ -11148,7 +11148,7 @@
  "2609.26015": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-22",
+  "submitted": "2026-09-22T11:18:56Z",
   "title": "VideoX-Qwen: Data-Centric Instruction-Based Video Editing"
  },
  "2609.25821": {
@@ -11166,13 +11166,13 @@
  "2609.25322": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-21T19:11:38Z",
   "title": "JAMB: Joint Action-Motion Diffusion for Bimanual Manipulation"
  },
  "2609.25247": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-21T18:02:34Z",
   "title": "Geometric and Semantic Coupling for Interaction Understanding in 3D Scenes"
  },
  "2609.24997": {
@@ -11211,13 +11211,13 @@
  "2609.24289": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-21",
+  "submitted": "2026-09-21T08:47:16Z",
   "title": "TTSE: A Two-Track Online Self-Evolution Framework"
  },
  "2609.23863": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-20",
+  "submitted": "2026-09-20T20:35:39Z",
   "title": "Grounded Action Model: 3D Grounding as a Foundation for Robotics"
  },
  "2609.23796": {
@@ -11238,7 +11238,7 @@
  "2609.23144": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-19",
+  "submitted": "2026-09-19T17:21:58Z",
   "title": "Probabilistic Scene Graphs: Hierarchical Representation and Real-time System"
  },
  "2609.22947": {
@@ -11250,7 +11250,7 @@
  "2609.21509": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-18",
+  "submitted": "2026-09-18T09:02:03Z",
   "title": "The Communication Bottleneck: A Round-Trip Study of Tree-Structured Expression Serialization in Language Models"
  },
  "2609.21465": {
@@ -11280,7 +11280,7 @@
  "2609.20477": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-17",
+  "submitted": "2026-09-17T14:32:30Z",
   "title": "Visual Sim-to-Real Learning for Robotic Insertion under Geometric Variations: Application to Rebar Installation"
  },
  "2609.20051": {
@@ -11292,13 +11292,13 @@
  "2609.19883": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-17",
+  "submitted": "2026-09-17T08:31:18Z",
   "title": "PetriBench: Benchmarking LLM Reasoning over Dynamic State Spaces"
  },
  "2609.19853": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-17",
+  "submitted": "2026-09-17T08:05:08Z",
   "title": "PACE: Precise AI Cinematic Expression"
  },
  "2609.19661": {
@@ -11322,7 +11322,7 @@
  "2609.19128": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-16",
+  "submitted": "2026-09-16T17:50:42Z",
   "title": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments"
  },
  "2609.18077": {
@@ -11334,7 +11334,7 @@
  "2609.17831": {
   "status": "screened-out",
   "first_seen": "2026-09-29",
-  "submitted": "2026-09-15",
+  "submitted": "2026-09-15T20:48:50Z",
   "title": "Procedural Pretraining for Molecular Property Prediction"
  },
  "2609.29718": {
@@ -11376,7 +11376,7 @@
  "2609.38152": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T17:58:31Z",
   "title": "FracGen: Learning How Objects Stretch and Tear with Physics-Informed Video Generation"
  },
  "2609.38146": {
@@ -11397,31 +11397,31 @@
  "2609.38123": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T17:51:41Z",
   "title": "HelixWorld: A Real-time Interactive Audio-Visual World Model"
  },
  "2609.38120": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T17:50:40Z",
   "title": "Stochastic World Models for Verifying Vision-Based Neural Feedback Systems"
  },
  "2609.38077": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T17:36:11Z",
   "title": "MUGEN: Interactive Panoramic World Exploration via Camera Control"
  },
  "2609.38059": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T17:26:22Z",
   "title": "WorldLine: Action-Driven Visual Simulation for Robotic Manipulation"
  },
  "2609.38054": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T17:22:24Z",
   "title": "Pow3R-SLAM: Real-Time RGB-D SLAM with 3D Reconstruction Priors"
  },
  "2609.37971": {
@@ -11448,7 +11448,7 @@
  "2609.37916": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T16:09:48Z",
   "title": "RLX: A Unified Multi-Backend Tensor Compiler and Distributed Runtime in Rust"
  },
  "2609.37907": {
@@ -11463,7 +11463,7 @@
  "2609.37874": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T15:49:22Z",
   "title": "EndoPrior-GS: Dynamic Endoscopic Reconstruction with a Joint Texture Prior"
  },
  "2609.37816": {
@@ -11478,43 +11478,43 @@
  "2609.37776": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T15:14:20Z",
   "title": "Geometry-Preserving Human-to-Robot Upper-Body Motion Retargeting from Monocular Video"
  },
  "2609.37708": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T14:40:40Z",
   "title": "Generative Interactions: Weaving Multiparty Human Motion with Bilevel Latent Dynamics"
  },
  "2609.37690": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T14:33:39Z",
   "title": "Honeycomb: Constant-Size Scene Memory Representation for Video World Models"
  },
  "2609.37644": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T14:12:33Z",
   "title": "Beyond a single latent space: a dual-latent world model for long-horizon planning"
  },
  "2609.37631": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T14:03:40Z",
   "title": "Procedural Core: A Compact Recurrent Initialization for Vision Transformers"
  },
  "2609.37441": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T13:00:37Z",
   "title": "Anisotropic Representations Improve Planning in JEPA World Models"
  },
  "2609.37419": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T12:49:00Z",
   "title": "Towards Spatial Perception for Heterogeneous Robot Collaboration in Subterranean Mining Environments"
  },
  "2609.37407": {
@@ -11526,43 +11526,43 @@
  "2609.37400": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T12:41:51Z",
   "title": "BeatDance: Generating Beat-Consistent 3D Dance with Hierarchical Spatial-Temporal Modeling"
  },
  "2609.37398": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T12:41:41Z",
   "title": "Direct Experience World-Model Optimization: Learning the World Beyond Action Imitation"
  },
  "2609.37381": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T12:32:46Z",
   "title": "High-Dimensional Simulation-Based Inference in Latent Spaces"
  },
  "2609.37378": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T12:31:28Z",
   "title": "Do-JEPA: From Masking to Intervention in Latent World Models"
  },
  "2609.37297": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T11:36:21Z",
   "title": "Why Cross-Skeleton Retargeting Is Non-Identifiable: Structural Limits of Generative Motion Models"
  },
  "2609.37250": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T11:03:02Z",
   "title": "V-JEPA Policy: Building Effective World-Action Models on Predictive Visual Latents"
  },
  "2609.37239": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T10:55:37Z",
   "title": "Differentiating Bisimulation Metrics: A Framework for Parametric Markov Chain Fitting via Bicausal Optimal Transport"
  },
  "2609.37229": {
@@ -11577,13 +11577,13 @@
  "2609.37167": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T09:56:29Z",
   "title": "Length-varying Neural Motion Stitching via Cluster Transition Graph"
  },
  "2609.37156": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T09:46:19Z",
   "title": "Lucid Dreaming for World Models: Learning to Doubt Imagination and Decide by Trust"
  },
  "2609.37139": {
@@ -11598,7 +11598,7 @@
  "2609.37115": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T09:27:44Z",
   "title": "NRF-GS: Neural Residual Fields for Expressive and Compact Gaussian Splatting"
  },
  "2609.37107": {
@@ -11631,7 +11631,7 @@
  "2609.36995": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T08:26:37Z",
   "title": "Salt++: Context-Aligned Post-Training for Few-Step Streaming Multimodal Generation"
  },
  "2609.36985": {
@@ -11649,43 +11649,43 @@
  "2609.36940": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T07:51:57Z",
   "title": "DispFlow-GS: Displacement Flow Supervision with Motion Disentangling for Monocular Deformable 3D Gaussian Splatting"
  },
  "2609.36937": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T07:50:05Z",
   "title": "WeLike2Party! In-Context Motion Transfer for Multi-Human Image Animation"
  },
  "2609.36918": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T07:38:11Z",
   "title": "Seg3DParts: Segmentation-Grounded Controllable Part-Level 3D Generation"
  },
  "2609.36851": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T06:59:50Z",
   "title": "RoXDrive: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving via Action-Faithful Rollouts"
  },
  "2609.36845": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T06:56:46Z",
   "title": "DSWM: Decomposed Spatio-Temporal World Model for Demand-Driven UAV Base Station Repositioning"
  },
  "2609.36843": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T06:54:31Z",
   "title": "RolloutFaith: Auditing Persistent Internal Interventions in Visual World Model"
  },
  "2609.36832": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T06:40:56Z",
   "title": "Motion Concept Unlearning in Video Diffusion Models"
  },
  "2609.36826": {
@@ -11706,37 +11706,37 @@
  "2609.36801": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T06:14:26Z",
   "title": "Scene Retargeting: Learning Object Placement with Analogical Transfer"
  },
  "2609.36777": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T05:49:37Z",
   "title": "Code4Scene: Benchmarking Coding Agents for Constructing and Editing 3D Scenes"
  },
  "2609.36693": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T04:33:05Z",
   "title": "AESplat: Advancing Pose-Free Feed-Forward 3D Gaussian Splatting via Decoupled Appearance Modeling"
  },
  "2609.36677": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T04:16:18Z",
   "title": "ReWorld-Track: A Recursive Event World Model for Language-Guided Multi-Camera Tracking"
  },
  "2609.36640": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T03:46:07Z",
   "title": "Foundation-Model-Guided Topology-Aware Semantic Risk Fields for Manipulation"
  },
  "2609.36602": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T03:18:14Z",
   "title": "OTRetarget: Joint Robot and Object Motion Retargeting via Optimal Transport"
  },
  "2609.36599": {
@@ -11754,13 +11754,13 @@
  "2609.36582": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T02:59:59Z",
   "title": "Inferring Soil Friction Angle from Robot Foot-Ground Force Histories: A Bayesian Inverse Approach to Proprioceptive Soil Sensing"
  },
  "2609.36543": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T02:31:21Z",
   "title": "Planning Oriented 3D Scene Completion via Coupled TUDF Occupancy Representation Learning from Partial Observations"
  },
  "2609.36531": {
@@ -11772,25 +11772,25 @@
  "2609.36520": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T02:12:33Z",
   "title": "Distilling Privileged Control Barrier Functions into RGB-Only Safety Filters for Dynamic Visual Navigation"
  },
  "2609.36454": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T01:17:16Z",
   "title": "DynamicHOI: Coupled Dynamics for Physics-aware HOI Reconstruction"
  },
  "2609.36438": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T00:55:12Z",
   "title": "World4Scorer: Outcome-Grounded World Modeling for Autonomous Driving"
  },
  "2609.36413": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T00:05:24Z",
   "title": "One from Infinity: Actualizing Futures from Pretrained World Models into Robot Actions"
  },
  "2609.36380": {
@@ -11805,37 +11805,37 @@
  "2609.36374": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T23:05:19Z",
   "title": "OTT3R: Multi-View 3D Reconstruction and Fast Dataset Generation at 1% Compute"
  },
  "2609.36364": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T22:52:57Z",
   "title": "Compress to Remember: Learning Compact Memory via On-Policy Distillation for Long Video Generation"
  },
  "2609.36333": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T22:09:55Z",
   "title": "ATLAS: Aligned Transport of Latent Structure for Reliable World Model Planning"
  },
  "2609.36323": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T21:55:26Z",
   "title": "Towards an AI Software Factory for Data Systems"
  },
  "2609.36305": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T21:39:06Z",
   "title": "Bilinear World Models: Learning Representations with Structured Dynamics for Efficient Control"
  },
  "2609.36227": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T20:24:50Z",
   "title": "One-Step Next-Latent Prediction Is Not a World Model"
  },
  "2609.36225": {
@@ -11862,37 +11862,37 @@
  "2609.36044": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T18:08:41Z",
   "title": "Hybrid Neural Simulation-Based Inference for Robust Applications and Limited-Budget Scenarios"
  },
  "2609.36024": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T18:01:23Z",
   "title": "CoDimRecon: Agentic Reconstruction of Sim-Ready 3D Scenes with Deformable Curves, Surfaces, and Volumes"
  },
  "2609.36012": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T18:00:34Z",
   "title": "In-Context Learning for Robots: Methods and Applications"
  },
  "2609.35936": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-28",
+  "submitted": "2026-09-28T15:21:14Z",
   "title": "Embodied Semantic Communication for Collective Autonomous Agents: A Tutorial on Representation, Wireless Delivery, and Closed-Loop Coordination"
  },
  "2609.37495": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T14:02:03Z",
   "title": "MotionMaestro: Masked Tokenization for Unified Motion Generation"
  },
  "2609.37476": {
   "status": "screened-out",
   "first_seen": "2026-09-30",
-  "submitted": "2026-09-26",
+  "submitted": "2026-09-26T07:16:56Z",
   "title": "Learning Social Navigation from Internet Videos in the Policy State Space"
  },
  "2609.35811": {
@@ -11913,37 +11913,37 @@
  "2609.40356": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T17:59:33Z",
   "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing"
  },
  "2609.40317": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T17:53:47Z",
   "title": "GLARE: Generating Listening Heads with Appropriate Reactions"
  },
  "2609.40222": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T17:27:06Z",
   "title": "LOCI: Spatial Linear Memory for Streaming World Models"
  },
  "2609.40177": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T17:03:21Z",
   "title": "Social-WM: Safety-Aware Latent World Models for Robot Social Navigation"
  },
  "2609.40158": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T16:56:06Z",
   "title": "Rethinking Legibility in Social Robot Hallway Navigation: Impact of Intent Representation and Human Distraction"
  },
  "2609.40153": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T16:55:14Z",
   "title": "Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling"
  },
  "2609.40129": {
@@ -11958,19 +11958,19 @@
  "2609.40090": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T16:31:40Z",
   "title": "PTNO: Training Neural Operators with Noisy Monte Carlo Estimates for Particle Transport Problems"
  },
  "2609.40037": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T16:09:12Z",
   "title": "Enhancing Autoregressive Video Generation via Representation Adversarial Distillation"
  },
  "2609.40003": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T15:48:50Z",
   "title": "DashVMC: Real-Time Discrete World Model Control in Geometry Dash"
  },
  "2609.39960": {
@@ -11985,7 +11985,7 @@
  "2609.39870": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T14:49:55Z",
   "title": "Magic-W0: A Structured World-Action Foundation Model for Physical Intelligence"
  },
  "2609.39841": {
@@ -12000,13 +12000,13 @@
  "2609.39751": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T13:50:51Z",
   "title": "Beyond Policy Alignment: Closing the Planning-Learning Loop for Robot Control with Learned World Models"
  },
  "2609.39727": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T13:37:03Z",
   "title": "OverForge: Reasoning Through Strategies and Tactics Helps Cooperative Lifelong Adaptation"
  },
  "2609.39709": {
@@ -12030,7 +12030,7 @@
  "2609.39601": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T12:20:54Z",
   "title": "GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives"
  },
  "2609.39599": {
@@ -12042,25 +12042,25 @@
  "2609.39590": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T12:16:23Z",
   "title": "SPOON: Towards Coherent Compositional 3D Scene Generation from Uncalibrated Multi-view Images"
  },
  "2609.39585": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T12:12:32Z",
   "title": "A Generalizable and Explainable Framework for Synthetic Video Detection Using First-Digit Gradient Statistics"
  },
  "2609.39575": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T12:08:05Z",
   "title": "ECHO-G: Embodied Co-speech Humanoid mOtion Generation"
  },
  "2609.39553": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T11:52:18Z",
   "title": "EffGS: Efficient and High-Fidelity Gaussian Splatting"
  },
  "2609.39527": {
@@ -12084,25 +12084,25 @@
  "2609.39388": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T09:35:44Z",
   "title": "UniWAM Technical Report: Unified Mobile Manipulation via Mixed-Stream World-Action Modeling and Manipulation Anchor Pose Supervision"
  },
  "2609.39371": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T09:23:10Z",
   "title": "EHR-RobustGym: Benchmarking and Training Agents for Robust Clinical Reasoning"
  },
  "2609.39324": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T09:00:28Z",
   "title": "MotionWeave: Learning Motion-Centered Future Dynamics for Vision-Language-Action Policies"
  },
  "2609.39245": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T08:12:56Z",
   "title": "ReWAM: Reciprocal World Action Models for Interactive Autonomous Driving"
  },
  "2609.39235": {
@@ -12114,7 +12114,7 @@
  "2609.39227": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T08:02:42Z",
   "title": "Emergent Multi-View Geometry Through Self-Distillation"
  },
  "2609.39195": {
@@ -12126,31 +12126,31 @@
  "2609.39182": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T07:38:49Z",
   "title": "MEND: Label-Free Detection, Localisation, and Correction of Latent Hallucination in World Models"
  },
  "2609.39179": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T07:35:08Z",
   "title": "LocoWM: High-Precision Locomotion through World-Model-Guided Residual Adaptation"
  },
  "2609.39147": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T07:14:28Z",
   "title": "MindWorldBench: Evaluating Mental-State-to-Behavior Reasoning in Image-to-Video Generation"
  },
  "2609.39135": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T07:04:21Z",
   "title": "Asking the World: Generalist Physical Reasoning through Agentic World Modeling and Probing"
  },
  "2609.39132": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T07:03:38Z",
   "title": "Uncertainty-Aware Consistency Distillation for Few-Step Video Generation"
  },
  "2609.39101": {
@@ -12162,19 +12162,19 @@
  "2609.39098": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T06:36:46Z",
   "title": "DiFF: Doppler-informed Flow Matching for Human Motion Flow"
  },
  "2609.39089": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T06:27:05Z",
   "title": "UGOD: Uncertainty-Guided Opacity and Dropout for Sparse-View 3D Gaussian Splatting"
  },
  "2609.39047": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T05:55:09Z",
   "title": "BadAction: Backdoor Attacks on Interactive Video Generation via Action-Guided Triggers"
  },
  "2609.39045": {
@@ -12189,7 +12189,7 @@
  "2609.39000": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T05:13:49Z",
   "title": "NEXUS: Perceptive Whole-Body Control for Terrain-Adaptive Teleoperation"
  },
  "2609.38978": {
@@ -12201,43 +12201,43 @@
  "2609.38927": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T04:08:41Z",
   "title": "World-as-Graph: Relational World Modeling Through Latent Space Graphs"
  },
  "2609.38864": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T03:18:59Z",
   "title": "AdaOcc: Adaptive 3D Occupancy Prediction for Embodied Tasks"
  },
  "2609.38853": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T03:11:13Z",
   "title": "Visualizing Distribution Coverage in Generative Diffusion Models"
  },
  "2609.38839": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T02:57:47Z",
   "title": "FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation"
  },
  "2609.38819": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T02:45:51Z",
   "title": "Future Video Generation Better Aligns with the Human Visual Cortex than Observed Video"
  },
  "2609.38746": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T01:30:32Z",
   "title": "Matisse: Evidence-Space Reasoning for Active 3D Reconstruction"
  },
  "2609.38733": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-30",
+  "submitted": "2026-09-30T01:15:23Z",
   "title": "Code to Control: Synthesizing Parameterized Reactive Controllers"
  },
  "2609.38691": {
@@ -12261,19 +12261,19 @@
  "2609.38653": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T23:19:24Z",
   "title": "TERRA: Terrain-Aware Reconstruction, Retargeting and Control for Musculoskeletal Locomotion"
  },
  "2609.38640": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T22:59:38Z",
   "title": "Yggdrasil: a Layer-First 3D Scene Graph for Real-Time Querying"
  },
  "2609.38635": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T22:52:06Z",
   "title": "TSGL: Teacher-Student Graph Learning for 3DGS Compression"
  },
  "2609.38622": {
@@ -12288,85 +12288,85 @@
  "2609.38617": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T22:21:54Z",
   "title": "Dense Temporal Motion Retargeting for Legged Robots"
  },
  "2609.38615": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T22:20:09Z",
   "title": "Exo2EgoHOI: Hand-Object-Interaction Aware Exocentric-to-Egocentric Video Generation"
  },
  "2609.38607": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T22:10:33Z",
   "title": "After a Decade: Bringing Shadow Removal into the Real World with Agentic Training Data"
  },
  "2609.38597": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T21:59:07Z",
   "title": "PixelUMM: Encoder-Free Unified Image and Video Understanding and Generation"
  },
  "2609.38592": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T21:51:37Z",
   "title": "StereoGaussians: Feed-Forward 3D Gaussian Splatting from Stereo Images"
  },
  "2609.38562": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T21:23:10Z",
   "title": "LongTake: Learning to Sustain Dynamics in Long-Horizon Video Generation"
  },
  "2609.38506": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T20:29:07Z",
   "title": "Autoregressive Frontier Expansion: Growing Trees with Graph Machine Learning"
  },
  "2609.38504": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T20:27:33Z",
   "title": "An Empirical Study of Architectural Shift from Traditional to AI-Enabled Simulink Controllers"
  },
  "2609.38488": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T20:15:59Z",
   "title": "Gaussian Stippling: Efficient Sorting-Free 3D Gaussian Rendering through Hybrid Sampling and Spatiotemporal Reconstruction"
  },
  "2609.38466": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T19:58:52Z",
   "title": "PAMI: Part Anchored Motion for Text to Human-Object Interaction Generation"
  },
  "2609.38444": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T19:37:16Z",
   "title": "Audible World Models: Spatially Aware Sound Generation for 3D Worlds"
  },
  "2609.38418": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T19:12:12Z",
   "title": "PneuTac: Tactile Manipulation with Soft Pneumatic Robots via Unified MPM-Gaussian Splatting Simulation"
  },
  "2609.38407": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T19:01:24Z",
   "title": "Disagreement-Regularized Imitation Learning for Image-Based Continuous Control with Gaussian and Beta Policies"
  },
  "2609.38400": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T18:55:37Z",
   "title": "GestAdapt: Workspace-Conditioned Co-Speech Gesture Generation for Humanoid Robots"
  },
  "2609.38285": {
@@ -12378,19 +12378,496 @@
  "2609.38278": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T15:47:27Z",
   "title": "Masked Swingers: Harnessing Data Augmentation to Advance Autoencoders for Self-Supervised Learning"
  },
  "2609.38246": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-29",
+  "submitted": "2026-09-29T06:51:33Z",
   "title": "ModalFidelity: Routing Modalities for Deepfake Detection on a Budget"
  },
  "2609.38193": {
   "status": "screened-out",
   "first_seen": "2026-10-01",
-  "submitted": "2026-09-18",
+  "submitted": "2026-09-18T04:00:10Z",
   "title": "EHR2Trace: Auditable EHR Data Infrastructure for Patient World Models and Clinical Agents"
+ },
+ "2610.02205": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T17:59:53Z",
+  "title": "ROWBench: Do Video Models Render What the Program Specifies?"
+ },
+ "2610.02201": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T17:59:46Z",
+  "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation"
+ },
+ "2610.02200": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T17:59:45Z",
+  "title": "VISTA: A Visual Harness for Reasoning in an Interactive World"
+ },
+ "2610.02197": {
+  "status": "qualified",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01",
+  "title": "HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation",
+  "affiliation": "Qualcomm AI Research — Shubhankar Borse, Munawar Hayat, Fatih Porikli",
+  "url": "https://arxiv.org/abs/2610.02197",
+  "summary": "HiPhy is a reinforcement-learning framework for video generation that uses hierarchical reward structures to enforce the temporal dynamics of individual physical principles while keeping global scene coherence when several principles act at once."
+ },
+ "2610.02188": {
+  "status": "near-miss",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T17:59:01Z",
+  "title": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation"
+ },
+ "2610.02180": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T17:58:09Z",
+  "title": "Generative Cinematographer: Composing Camera and Object Motion in 3D"
+ },
+ "2610.02162": {
+  "status": "near-miss",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T17:53:20Z",
+  "title": "World Observer: Joint Actor-Observer Generation for Persistent World Modeling"
+ },
+ "2610.02160": {
+  "status": "qualified",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01",
+  "title": "4Director: Controlling Video World Models with Rigid 3D Geometry",
+  "affiliation": "Stability AI — Wei Cao, Hao Zhang, Vikram Voleti, Yuqun Wu, Mallikarjun B R, Shimon Vainer, Mark Boss; FLAG: borderline (not on the explicit qualified-company list but a comparable top-tier lab)",
+  "url": "https://arxiv.org/abs/2610.02160",
+  "summary": "4Director is a video world model conditioned on an explicit 4D scene representation: each object is reconstructed once from an input image as a canonical mesh, and its motion is specified by one prescribed rigid transformation per frame."
+ },
+ "2610.02153": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T17:51:05Z",
+  "title": "MosaiChunk: Compositing Spatio-Temporal Memory for Autoregressive Video Generation"
+ },
+ "2610.02117": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T17:34:10Z",
+  "title": "Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes"
+ },
+ "2610.02054": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T17:01:27Z",
+  "title": "UniWAM: Unified World-Action Model"
+ },
+ "2610.02044": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T16:55:19Z",
+  "title": "DiDE:Direct Injection with Color-Texture DEcoupling for 3D Stylization"
+ },
+ "2610.01973": {
+  "status": "near-miss",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T16:22:41Z",
+  "title": "Token-Level Video Reinforcement Learning"
+ },
+ "2610.01942": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T16:09:34Z",
+  "title": "Latent-Foresight: End-to-End Learning Predictable Representations for Latent World Models"
+ },
+ "2610.01927": {
+  "status": "qualified",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01",
+  "title": "CLoSeR: Closing the Loop for Long-Context Streaming Reconstruction",
+  "affiliation": "Microsoft — Marc Pollefeys (listed as ETH Zurich, Microsoft)",
+  "url": "https://arxiv.org/abs/2610.01927",
+  "summary": "CLoSeR augments a streaming 3D-reconstruction foundation model (LoGeR) with loop-closure detection to perform kilometer-scale 3D reconstruction from monocular video, correcting accumulated tracking drift over long sequences."
+ },
+ "2610.01910": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T15:53:39Z",
+  "title": "Robot Learning on Discrete Surfaces: Theory and Applications"
+ },
+ "2610.01876": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T15:32:49Z",
+  "title": "EvenSplat: Coupled 2D-3D Decomposition for Gaussian Splatting under Exposure and Illumination Variation"
+ },
+ "2610.01863": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T15:25:35Z",
+  "title": "LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction"
+ },
+ "2610.01842": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T15:10:09Z",
+  "title": "On the Divergence of Accuracy and Mechanism Consistency in Time Series World Models"
+ },
+ "2610.01758": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T14:20:38Z",
+  "title": "GenCOPE: Syn2Real Generalized Category-Level Object Pose Estimation for Robotic Picking"
+ },
+ "2610.01707": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T13:52:12Z",
+  "title": "MEGA: Object-Level Mesh Extraction from 3D Gaussian Splatting via Spatial Visual Distillation"
+ },
+ "2610.01661": {
+  "status": "qualified",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01",
+  "title": "DiVid: Diagnosing Dimension-Specific Diversity Collapse in Video Generation Models",
+  "affiliation": "Alibaba Group — Tiezheng Ge",
+  "url": "https://arxiv.org/abs/2610.01661",
+  "summary": "DiVid is a diagnostic framework that decomposes video-generation diversity into six interpretable dimensions — Semantic, Style, Subject, Scene, Motion, and Camera — each measured with reproducible computer-vision pipelines alongside quality and instruction-faithfulness metrics."
+ },
+ "2610.01614": {
+  "status": "near-miss",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T12:52:47Z",
+  "title": "Oneira: From Open-Ended Generation to Open-World Interaction in Video World Models"
+ },
+ "2610.01559": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T12:27:29Z",
+  "title": "Completion Aware Guidance for World Action Models"
+ },
+ "2610.01517": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T11:51:18Z",
+  "title": "SuperMotion: Source-Preserving Denoising for Text-Driven Human Motion Editing"
+ },
+ "2610.01499": {
+  "status": "near-miss",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T11:40:03Z",
+  "title": "VTR-Bench: A Systematic Benchmark for Evaluating Visual Text Rendering in Video Generation"
+ },
+ "2610.01373": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T09:42:42Z",
+  "title": "Learning Commute-Time-Preserving World Models for Planning"
+ },
+ "2610.01319": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T08:48:12Z",
+  "title": "Cross-entropy optimization with prioritized constraints"
+ },
+ "2610.01314": {
+  "status": "near-miss",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T08:44:33Z",
+  "title": "ARROW: Arbitrary Reconstruction and Tracking of 4D Observations in the Wild"
+ },
+ "2610.01302": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T08:36:35Z",
+  "title": "STAGE: Subspace-Targeted Affine Generative Erasure for Text-to-3D Models"
+ },
+ "2610.01286": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T08:24:21Z",
+  "title": "Dyna3: VLM-Guided Training-Free 4D Reconstruction via Depth Foundation Models"
+ },
+ "2610.01279": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T08:16:14Z",
+  "title": "PickMoment: Continuous-Time Single-Image-to-Video via Learning Deblurring and Blur-to-Video"
+ },
+ "2610.01233": {
+  "status": "qualified",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01",
+  "title": "Flow Matching Reinforcement for 3D Mesh Generation via Dynamic Homing Optimization",
+  "affiliation": "Tencent Hunyuan — Zhen Zhou, Zhiwei Ning, Puhua Jiang, Sheng Zhang, Yifei Tang, Jie Yang, Xintong Han, Wei Liu, Chunchao Guo (paper header also lists Shanghai Jiao Tong University and Communication University of China as affiliations, without per-author markers)",
+  "url": "https://arxiv.org/abs/2610.01233",
+  "summary": "The paper introduces Dynamic Homing Optimization (DHO), a forward-process reinforcement-learning method for flow-matching models that reformulates negative-trajectory optimization as attraction toward matched positive samples."
+ },
+ "2610.01224": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T07:27:10Z",
+  "title": "Supervise What Decides Success: Criterion-Aligned Auxiliary Losses for Latent World-Model Planning"
+ },
+ "2610.01201": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T07:12:08Z",
+  "title": "iSEE: Object Permanence Through Self-Supervision"
+ },
+ "2610.01171": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T06:45:51Z",
+  "title": "Experience-Based Feasibility-Aware Generative Adversarial Imitation from Observation under Embodiment Mismatch"
+ },
+ "2610.01162": {
+  "status": "near-miss",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T06:42:07Z",
+  "title": "PhysicsLENS: Diagnosing Physical Property Blindness in Video Generation Models"
+ },
+ "2610.01148": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T06:26:41Z",
+  "title": "OptimusMesh: Compact Autoregressive Mesh Generation from Point Clouds via Sparse Latent Pivots"
+ },
+ "2610.01114": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T05:52:34Z",
+  "title": "Affine-Aligned Atlas for Canonical Gaussian Construction in Video Representation"
+ },
+ "2610.01098": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T05:41:05Z",
+  "title": "MVDG: Efficient Multi-view 3D Disambiguation on Unconstrained Real-World Images"
+ },
+ "2610.01092": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T05:35:29Z",
+  "title": "Ego2Act: Evaluating Goal-Directed Manipulation in Egocentric Video Generation"
+ },
+ "2610.01056": {
+  "status": "near-miss",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T04:50:55Z",
+  "title": "HierGF: Hierarchical Gaussian Fields via Geometry-perception Message Passing for Sparse-view 3D Reconstruction"
+ },
+ "2610.01052": {
+  "status": "near-miss",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T04:47:36Z",
+  "title": "Towards Subject Consistency over Dynamic Subject Sets in Video Generation"
+ },
+ "2610.01048": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T04:44:00Z",
+  "title": "Network World Models as Environments for Algorithm Design on Complex Systems"
+ },
+ "2610.01039": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T04:27:11Z",
+  "title": "Bootstrapping Video Interaction Generation with Synthetic State Transitions"
+ },
+ "2610.01019": {
+  "status": "qualified",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01",
+  "title": "FutureWorlds: Learning Robotic World Models from Alternative Futures",
+  "affiliation": "Tencent — Weiyan Wang",
+  "url": "https://arxiv.org/abs/2610.01019",
+  "summary": "FutureWorlds is a framework for learning robotic world models from \"alternative futures\": it unifies candidate future-scene construction, persistent memory for diverging trajectories, and learning from relative quality comparisons between candidates."
+ },
+ "2610.01001": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T03:44:47Z",
+  "title": "Calibration-risk routing for controlled world-model adaptation"
+ },
+ "2610.00979": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T03:16:58Z",
+  "title": "RISED: RubrIcs for agentic multi-environment Selection and sElf-Distillation"
+ },
+ "2610.00976": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T03:10:43Z",
+  "title": "Variational Streaming Flow: Probabilistic Forecasting in Physical Time"
+ },
+ "2610.00970": {
+  "status": "qualified",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01",
+  "title": "RelationVGGT: Visual Geometry Transformers for 3D Spatial Relation Segmentation",
+  "affiliation": "NVIDIA — Jaesung Choe, Yu-Chiang Frank Wang",
+  "url": "https://arxiv.org/abs/2610.00970",
+  "summary": "RelationVGGT is a feed-forward framework for 3D spatial relation segmentation: given a visually specified subject and a relational text query (with no category name provided), it segments the related target object across multiple views in a pose-free setting."
+ },
+ "2610.00921": {
+  "status": "near-miss",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-10-01T01:57:24Z",
+  "title": "In CEM, a World Model Is Also a Proposal Mechanism"
+ },
+ "2610.00834": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-30T23:46:59Z",
+  "title": "Kepler: Auditable World Models for ARC-AGI-3"
+ },
+ "2610.00822": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-30T23:32:16Z",
+  "title": "TRACE: Privacy-Preserving Next-Best-View Selection over Distributed 3D Gaussian-Splat Maps"
+ },
+ "2610.00821": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-30T23:26:57Z",
+  "title": "Getting Out and Getting Back: World and Behavior Grounding in Real2Sim2Real Co-Training"
+ },
+ "2610.00812": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-30T23:13:08Z",
+  "title": "Video Generation Models: A Survey of Post-Training and Alignment"
+ },
+ "2610.00749": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-30T21:41:52Z",
+  "title": "What Builds the Scene? Luminance Dominates Geometry Formation in 3D Gaussian Splatting"
+ },
+ "2610.00731": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-30T21:22:08Z",
+  "title": "Measuring Asset and Scene Reconstruction Effects in Real-to-Sim Robot Evaluation"
+ },
+ "2610.00727": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-30T21:18:32Z",
+  "title": "CF-JEPA: Improving Robustness of JEPA World Models via Controllability Factorization"
+ },
+ "2610.00722": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-30T21:13:59Z",
+  "title": "JEPA-TTT: Persistent Test-Time Training of Latent World Models for Planning under Dynamics Shifts"
+ },
+ "2610.00691": {
+  "status": "near-miss",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-30T20:35:29Z",
+  "title": "Soundwich: Video Generation with Layered and Controllable Audio"
+ },
+ "2610.00686": {
+  "status": "qualified",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-30",
+  "title": "SemanTok: Predictable Semantic Tokens for Efficient Autoregressive Video Generation",
+  "affiliation": "Stability AI — Mikhail Dereviannykh; FLAG: borderline (not on the explicit qualified-company list but a comparable top-tier lab)",
+  "url": "https://arxiv.org/abs/2610.00686",
+  "summary": "SemanTok is a flexible video tokenizer for autoregressive video generation that feeds frozen DINO features into its encoder and adds lightweight heads reconstructing those features from each retained token prefix, so early coarse tokens carry stronger global semantics."
+ },
+ "2610.00638": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-30T19:40:57Z",
+  "title": "TacDyn-WAM: Learning Implicit Tactile Dynamics in a Heterogeneous Visuo-Tactile World Action Model"
+ },
+ "2610.00618": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-30T19:19:34Z",
+  "title": "Dirichlet Splatting: Differentiable Rendering for Wave-Based Inverse Problems"
+ },
+ "2610.00575": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-30T18:45:32Z",
+  "title": "Token-World: World Modeling in Vision-Language Model Token Space for Robot Manipulation"
+ },
+ "2610.00546": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-30T18:26:34Z",
+  "title": "Generative Modeling of Stochastic Dynamics for Long-Time Evolution"
+ },
+ "2610.00544": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-30T18:26:24Z",
+  "title": "Memorizon: Training World Models Beyond Their Context Window"
+ },
+ "2610.00451": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-30T17:59:57Z",
+  "title": "PACT: End-to-End Learning of Human Pose, Contacts, and Forces from Video"
+ },
+ "2610.00447": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-30T17:55:01Z",
+  "title": "Frozen Scenes, Shifting Winners: Configuration Fragility in Text-to-3D Evaluation"
+ },
+ "2610.00368": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-30T06:48:25Z",
+  "title": "DeepJEPA: Scaling World Models from Within"
+ },
+ "2610.00365": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-30T06:37:54Z",
+  "title": "Manifold-Constrained Initial Noise Optimization for Efficient Generative Model Alignment"
+ },
+ "2610.00280": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-24T19:56:30Z",
+  "title": "Stable and Counterfactually Robust Physical World Models from Imposed Structure and Learned Physics"
+ },
+ "2610.00220": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-22T04:14:54Z",
+  "title": "Real-Time Whole-Body Safe Motion Generation for Multi-Segment Tendon-Driven Continuum Robots"
+ },
+ "2610.00198": {
+  "status": "screened-out",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-18T21:44:30Z",
+  "title": "HumanoidTTT: Test-Time Capability Reuse for Efficient Humanoid Control"
+ },
+ "2610.00195": {
+  "status": "near-miss",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-18T16:49:00Z",
+  "title": "GS-PQM: A Parameter-Domain Quality Metric for Compressed Gaussian Splatting"
+ },
+ "2610.00188": {
+  "status": "qualified",
+  "first_seen": "2026-10-02",
+  "submitted": "2026-09-17",
+  "title": "Uncertainty-Aware RL-Controlled Adaptive 3D Mapping",
+  "affiliation": "Microsoft — Daniel Barath (listed as ETH Zurich, Microsoft, ETH AI Center)",
+  "url": "https://arxiv.org/abs/2610.00188",
+  "summary": "The paper (project name \"UnRL\") proposes an adaptive 3D voxel mapping framework that refines voxel resolution based on semantic entropy, geometric curvature, and texture richness, paired with a reinforcement-learning agent that learns voxel-subdivision policies under a user-specified memory budget."
  }
 }

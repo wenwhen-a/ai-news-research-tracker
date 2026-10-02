@@ -1,0 +1,14 @@
+**[新闻 3] 开发者用Claude AI五天打造《辐射》同人游戏,遭Bethesda发函下架**
+- **日期：** 2026-10-02
+- **来源链接：** <https://frvr.com/blog/bethesda-quickly-kills-ugly-ai-generated-fallout-new-york-game-as-ai-slop-bros-continue-to-forget-how-copyright-works>
+- **核心事实：**
+  - 开发者Chris First在社交媒体上称,他指挥Anthropic的Claude Opus 5.5模型及'一支AI智能体团队',在约5天内完成了一款浏览器端、完全由AI生成的3D《辐射》同人游戏'Fallout: New York'(域名Fallout.nyc)
+  - 该游戏包含任务系统、对话树、VATS战斗系统与可用的Pip-Boy界面;建筑、武器、角色面部与音效等全部资产均由代码生成,未使用任何现成贴图或音频文件
+  - 游戏存在大量技术问题,包括动画错误、角色手部模型异常('mutated player fists')、角色升级时游戏死锁等
+  - 该项目在X(Twitter)上获得350万次浏览后,Bethesda母公司ZeniMax以涉及'受版权保护内容'及商标侵权为由,向Fallout.nyc域名发出DMCA停止函
+  - ZeniMax表示必须'监控并执行针对未经授权侵权使用的维权行动',以保护自身知识产权
+  - Chris First随后在社交媒体回应称'西装革履的人介入了,乐趣到此为止',并反问Bethesda'不如你们自己做一款辐射游戏,我就不用做了'
+- **背景与起因：**
+  - 该项目是近期'vibe coding'(氛围编程,即通过向AI描述需求、由AI自动生成代码与资产的开发方式)热潮中的代表性案例,反映出生成式AI工具已能在数天内独立产出具备基本可玩性的3D游戏原型,也再度凸显了同人创作与版权方之间长期存在的法律张力。
+- **结果与进展：**
+  - Fallout.nyc网站已被下线,开发者原定的开源发布计划也随之放弃。多数玩家对下架结果表示支持,部分评论调侃称'没想到这些搞AI废物的人,反倒让人站到了版权执法这一边'。

@@ -1,0 +1,14 @@
+**[新闻 2] 索尼推出QSSR技术,让标准版PS5也能获得AI超分辨率画质提升**
+- **日期：** 2026-10-01
+- **来源链接：** <https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/>
+- **核心事实：**
+  - 索尼正式发布Quick Spectral Super Resolution(QSSR),为标准版PS5(非Pro版本)主机带来全新AI超分辨率升级技术
+  - QSSR源自索尼与AMD联合研发的Project Amethyst计划,技术血统可追溯至此前仅限PS5 Pro使用的PlayStation Spectral Super Resolution(PSSR)
+  - 该技术采用精简版神经网络架构,并针对标准版PS5的算力进行了手动调优,可逐像素分析画面并提升细节表现与时间稳定性
+  - 首批支持QSSR的游戏为《Marvel's Wolverine》与《Ghost of Yōtei》,两者已于10月1日通过补丁加入QSSR作为可选画质选项
+  - Insomniac Games表示QSSR'为画面带来更多像素级清晰度与稳定性,凸显出更多细节';Sucker Punch Productions表示QSSR'能够精细还原角色与场景细节,实现了PS5此前从未有过的时间稳定性'
+  - 索尼将PSSR称为PS5 Pro上的'黄金标准',QSSR则是让标准版PS5用户获得接近效果的折中方案
+- **背景与起因：**
+  - PS5 Pro此前凭借专用硬件独占PSSR AI超分辨率技术,标准版PS5用户长期缺乏对等的画质优化手段,这也是PS5 Pro相较标准版的核心卖点之一。随着索尼与AMD在Project Amethyst计划下的持续合作,双方得以将神经网络模型进一步精简压缩,使其能够在算力较弱的标准版PS5硬件上实时运行,从而部分弥合两款主机间的画质差距。
+- **结果与进展：**
+  - 《Marvel's Wolverine》在城市等细节密集场景中获得'极佳'的画质提升,而原本画质表现已经较好的《Ghost of Yōtei》提升幅度相对有限。索尼表示将把QSSR作为标准功能开放给PlayStation第一方与第三方开发者用于未来新作,预计后续会有更多游戏陆续加入支持列表。
