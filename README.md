@@ -11,7 +11,9 @@ digest and dedup state back here.
 | Path | Purpose |
 |---|---|
 | `.claude/skills/game-ai-news-digest/` | The news skill (Simplified-Chinese games + AI digest: 5 in-depth, 20 brief, 10 flash items) |
-| `scripts/dedup_and_filter.py` | The news skill's helper (recency window, dedup, repeat check against `state/news_previous_items.json`) |
+| `scripts/dedup_and_filter.py` | The news skill's helper (recency window, dedup, repeat check against `state/news_previous_items.json`, drops hosts on the deny list) |
+| `.claude/skills/game-ai-news-digest/references/news-sources.md` | Source tiers: official channels (prefer), strong trade press (acceptable alone), deny list (dropped automatically). Reviewed monthly |
+| `scripts/source_report.py` / `reports/` | Month-end source usage report; the routine posts recommendations to Discord on the last day of each month, the maintainer edits `news-sources.md` |
 | `scripts/build_news_messages.py` | Splits `news.md` into Discord messages: one per in-depth item, brief and flash items grouped with links |
 | `state/news_previous_items.json` | News items posted in the last 14 days; repeats are excluded from all three sections (updates allowed only with a 【更新】 prefix and a newer source) |
 | `scripts/update_news_seen.py` | Parses a day's `news.md` and records its items in the file above (run right after the news digest is written) |

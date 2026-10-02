@@ -45,6 +45,7 @@ OUTPUT:
 
 import argparse
 import json
+import os
 import re
 import sys
 from datetime import date, datetime, timedelta
@@ -69,6 +70,30 @@ def parse_iso_date(value):
         return datetime.strptime(v[:10], "%Y-%m-%d").date()
     except ValueError:
         return None
+
+
+def host_of(url):
+    try:
+        h = (urlsplit((url or "").strip()).netloc or "").lower()
+    except ValueError:
+        return ""
+    return h[4:] if h.startswith("www.") else h
+
+
+def load_deny_list(path):
+    """Hosts listed under '## Deny' in news-sources.md (one host per line; '#' comments ignored)."""
+    hosts = set()
+    if not path or not os.path.exists(path):
+        return hosts
+    in_deny = False
+    for line in open(path, encoding="utf-8"):
+        s = line.strip()
+        if s.startswith("## "):
+            in_deny = s.lower().startswith("## deny")
+            continue
+        if in_deny and s and not s.startswith("#"):
+            hosts.add(s.split()[0].lower().lstrip("-").strip())
+    return hosts
 
 
 def normalize_url(url):
@@ -159,6 +184,8 @@ def main():
                     help="Soft target for Section 3 (24-hour flash) items (default 10).")
     ap.add_argument("--event-threshold", type=float, default=0.45,
                     help="Shared-bigram overlap with a previous title above which an item counts as the same event (default 0.45).")
+    ap.add_argument("--sources", default=os.path.join(".claude", "skills", "game-ai-news-digest", "references", "news-sources.md"),
+                    help="news-sources.md whose '## Deny' section lists hosts to drop (default: the skill's reference file; '' disables).")
     ap.add_argument("--previous", default=None,
                     help="Path to previous_items.json (items from the previous digest run); marks repeats via 'previously_covered'.")
     ap.add_argument("--out", default="filtered.json", help="Where to write the JSON report (default filtered.json).")
@@ -181,10 +208,17 @@ def main():
         sys.exit(1)
     cutoff = as_of - timedelta(days=args.days)
 
-    in_window, out_of_window, invalid_date = [], [], []
+    deny_hosts = load_deny_list(args.sources) if args.sources else set()
+
+    in_window, out_of_window, invalid_date, denied = [], [], [], []
     for it in raw:
         if not isinstance(it, dict):
             invalid_date.append({"raw": it, "reason": "not an object"})
+            continue
+        host = host_of(it.get("url", ""))
+        if deny_hosts and any(host == d or host.endswith("." + d) for d in deny_hosts):
+            rec = dict(it); rec["_denied_host"] = host
+            denied.append(rec)
             continue
         d = parse_iso_date(it.get("date"))
         item = dict(it)
@@ -271,6 +305,7 @@ def main():
         "window_days": args.days,
         "summary": {
             "input_items": len(raw),
+            "denied_source": len(denied),
             "in_window": len(in_window),
             "out_of_window": len(out_of_window),
             "invalid_date": len(invalid_date),
@@ -294,6 +329,7 @@ def main():
         "duplicate_groups": duplicate_groups,
         "dropped_out_of_window": out_of_window,
         "dropped_invalid_date": invalid_date,
+        "dropped_denied_source": denied,
     }
 
     with open(args.out, "w", encoding="utf-8") as fh:
@@ -302,8 +338,10 @@ def main():
     s = report["summary"]
     print("Dedup/filter report (as of %s, window %d days, cutoff %s):"
           % (report["as_of"], report["window_days"], report["cutoff"]), file=sys.stderr)
-    print("  input=%d  in_window=%d  out_of_window=%d  invalid_date=%d"
-          % (s["input_items"], s["in_window"], s["out_of_window"], s["invalid_date"]), file=sys.stderr)
+    print("  input=%d  denied_source=%d  in_window=%d  out_of_window=%d  invalid_date=%d"
+          % (s["input_items"], s["denied_source"], s["in_window"], s["out_of_window"], s["invalid_date"]), file=sys.stderr)
+    if s["denied_source"]:
+        print("  denied hosts: " + ", ".join(sorted({d["_denied_host"] for d in denied})), file=sys.stderr)
     print("  unique_after_dedup=%d  duplicate_clusters=%d"
           % (s["unique_after_dedup"], s["duplicate_clusters"]), file=sys.stderr)
     s3_only = s["section3_count"] > 0 and s["section1_count"] == 0 and s["section2_count"] == 0

@@ -208,7 +208,7 @@ def chunk_lines(lines, first_line=None):
 
 os.makedirs(OUT, exist_ok=True)
 for old in os.listdir(OUT):  # clear stale research messages only (news files are managed by build_news_messages.py)
-    if old.lower().endswith((".md", ".json")) and not old.startswith(("10-news", "20-news", "30-news", "35-news")) and old != "00-header.md":
+    if old.lower().endswith((".md", ".json")) and not old.startswith(("10-news", "20-news", "30-news", "35-news", "40-")) and old != "00-header.md":
         os.remove(os.path.join(OUT, old))
 
 product_state = {}

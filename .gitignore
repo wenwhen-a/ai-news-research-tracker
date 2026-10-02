@@ -5,10 +5,10 @@ candidates_*.json
 .discord_webhook
 __pycache__/
 batch*_hits.json
-candidates.json
-candidates_24h.json
-filtered.json
-filtered_24h.json
+/candidates.json
+/candidates_24h.json
+/filtered.json
+/filtered_24h.json
 scan.log
 scan.out
 site_scan.log
