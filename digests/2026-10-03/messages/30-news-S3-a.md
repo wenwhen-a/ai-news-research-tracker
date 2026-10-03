@@ -1,0 +1,9 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **[欧洲PEGI评级机构意外泄露《GTA6》评级内容，披露大量吸毒与性爱场景细节]**（2026-10-03）— 欧洲PEGI评级委员会短暂公开了《GTA6》的18岁评级页面，披露游戏含"频繁且突出"的毒品使用及裸露、性交等场景，页面随后被撤下；该作定于11月19日发售，评级为PEGI 18/ESRB M。 <https://www.videogameschronicle.com/news/gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use/>
+- **[Rockstar联合创始人丹·豪斯称至今刻意不看《GTA6》预告，以免影响自己新项目创作]**（2026-10-03）— Rockstar Games联合创始人、前首席编剧丹·豪斯表示，为避免对自己在Absurd Ventures开发的开放世界新项目产生创作干扰，他一直刻意避免观看《GTA6》的相关预告与宣传内容。 <https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/>
+- **[ATLUS公开《女神异闻录4：Revival》"暗影"（Shadow）预告片]**（2026-10-03）— ATLUS发布《女神异闻录4：Revival》全新"暗影"主题预告片，展示游戏中暗影战斗相关的新内容。 <https://www.gematsu.com/2026/10/persona-4-revival-shadow-trailer>
+- **[据报道，越南对Steam的封锁进一步升级，游戏下载与更新功能也被阻断]**（2026-10-02）— 据越南游戏媒体GameK报道，自10月2日起当地Steam访问限制大幅扩大，此前仍可使用的游戏下载、更新功能，以及社区与云存档同步均无法使用，越南政府至今未就此发表官方说明。 <https://www.invenglobal.com/articles/26798/steam-effectively-blocked-in-vietnam-issues-extend-to-downloads-and-updates>
+- **[Epic Games Store公布10月免费游戏阵容，含《网络奇兵2》25周年重制版]**（2026-10-02）— Epic Games Store公布10月共四款限时免费游戏，由《网络奇兵2》25周年重制版领衔（至10月8日可领取），随后几周还将上线《Out of Sight》《TerraScape》及《Buried Stars》。 <https://www.videogameschronicle.com/news/epics-october-free-games-include-system-shock-2s-25th-anniversary-remaster/>
+- **[NBA迈阿密热火队将于11月18日以《GTA6》"罪恶都市"主题进行比赛]**（2026-10-02）— NBA球队迈阿密热火宣布将在11月18日的一场比赛中以《GTA6》游戏内"罪恶都市"为主题进行跨界联动活动，正值该作11月19日正式发售前一天。 <https://www.gematsu.com/2026/10/miami-heat-to-play-as-grand-theft-auto-vis-vice-city-on-november-18>
+- **[世嘉《STRANGER THAN HEAVEN》公开"1943年南大阪"深度演示]**（2026-10-02）— 世嘉与开发商RGG Studio公布旗下新作《STRANGER THAN HEAVEN》的最新演示影像，深入展示游戏中1943年大阪南区的场景与玩法细节。 <https://www.gematsu.com/2026/10/stranger-than-heaven-1943-minami-osaka-in-depth-look-gameplay>
+- **[万代南梦宫系列30周年新作《皇牌空战8：西弗之翼》正式发售]**（2026-10-02）— 万代南梦宫为纪念《皇牌空战》系列30周年推出的最新作《皇牌空战8：西弗之翼》于10月2日正式发售，游戏首批评测反馈良好。 <https://www.4gamer.net/games/969/G096901/20261002012/>

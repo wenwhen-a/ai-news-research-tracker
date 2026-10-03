@@ -1,0 +1,12 @@
+[
+  {
+    "action": "new",
+    "url": "https://www.nvidia.com/en-us/geforce/news/gears-of-war-e-day-dlss-4-5-ray-tracing-rtx-mega-geometry/",
+    "name": "Gears of War: E-Day — DLSS 4.5 and RTX Mega Geometry (first shipped game)",
+    "company": "NVIDIA (feature shipped in The Coalition's Gears of War: E-Day)",
+    "tier": "GA",
+    "first_seen": "2026-10-03",
+    "release_date": "2026-10-01",
+    "summary": "NVIDIA states Gears of War: E-Day is the first shipped game to support RTX Mega Geometry, letting it ray-trace its full-detail Unreal Engine 5 Nanite geometry instead of a simplified proxy mesh, alongside the full DLSS 4.5 feature set."
+  }
+]

@@ -1,0 +1,232 @@
+{
+  "as_of": "2026-10-03",
+  "cutoff": "2026-10-02",
+  "window_days": 1,
+  "summary": {
+    "input_items": 10,
+    "denied_source": 0,
+    "in_window": 10,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 10,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 10,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 9,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "欧洲PEGI评级机构意外泄露《GTA6》评级内容，披露大量吸毒与性爱场景细节",
+        "url": "https://www.videogameschronicle.com/news/gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use/",
+        "date": "2026-10-03",
+        "summary": "欧洲PEGI评级委员会短暂公开了《GTA6》的18岁评级页面，披露游戏含“频繁且突出”的毒品使用（可直接从背包中取出可卡因吸食）及裸露、性交等性爱场景，页面随后被撤下；该作定于11月19日发售，评级为PEGI 18/ESRB M。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "欧洲PEGI评级机构意外泄露《GTA6》评级内容，披露大量吸毒与性爱场景细节",
+          "url": "https://www.videogameschronicle.com/news/gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use/",
+          "date": "2026-10-03",
+          "summary": "欧洲PEGI评级委员会短暂公开了《GTA6》的18岁评级页面，披露游戏含“频繁且突出”的毒品使用（可直接从背包中取出可卡因吸食）及裸露、性交等性爱场景，页面随后被撤下；该作定于11月19日发售，评级为PEGI 18/ESRB M。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据报道，越南对Steam的封锁进一步升级，游戏下载与更新功能也被阻断",
+        "url": "https://www.invenglobal.com/articles/26798/steam-effectively-blocked-in-vietnam-issues-extend-to-downloads-and-updates",
+        "date": "2026-10-02",
+        "summary": "据越南游戏媒体GameK报道，自10月2日起当地Steam访问限制大幅扩大，此前仍可使用的游戏下载、更新功能，以及社区与云存档同步均无法使用，但越南政府至今未就此扩大化的封锁发表官方说明。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据报道，越南对Steam的封锁进一步升级，游戏下载与更新功能也被阻断",
+          "url": "https://www.invenglobal.com/articles/26798/steam-effectively-blocked-in-vietnam-issues-extend-to-downloads-and-updates",
+          "date": "2026-10-02",
+          "summary": "据越南游戏媒体GameK报道，自10月2日起当地Steam访问限制大幅扩大，此前仍可使用的游戏下载、更新功能，以及社区与云存档同步均无法使用，但越南政府至今未就此扩大化的封锁发表官方说明。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《皇牌空战8》热销但万代南梦宫股价10月2日反而下跌",
+        "url": "https://gamebiz.jp/news/433528",
+        "date": "2026-10-02",
+        "summary": "日本游戏股媒体gamebiz报道，尽管新作《皇牌空战8》销售表现强劲，万代南梦宫控股（Bandai Namco HD）股价在10月2日交易中出现反落，此前该股曾连续多日上涨。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《皇牌空战8》热销但万代南梦宫股价10月2日反而下跌",
+          "url": "https://gamebiz.jp/news/433528",
+          "date": "2026-10-02",
+          "summary": "日本游戏股媒体gamebiz报道，尽管新作《皇牌空战8》销售表现强劲，万代南梦宫控股（Bandai Namco HD）股价在10月2日交易中出现反落，此前该股曾连续多日上涨。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "日本游戏运营支持公司Witone公布财报：年收入增47%、经常利润增195%",
+        "url": "https://gamebiz.jp/news/433504",
+        "date": "2026-10-02",
+        "summary": "NJ Holdings旗下游戏运营支持公司Witone（ウィットワン）公布截至2026年6月财年业绩，销售额同比增长47%至32.81亿日元，经常利润同比增长195%至4.38亿日元，实现大幅增收增益。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "日本游戏运营支持公司Witone公布财报：年收入增47%、经常利润增195%",
+          "url": "https://gamebiz.jp/news/433504",
+          "date": "2026-10-02",
+          "summary": "NJ Holdings旗下游戏运营支持公司Witone（ウィットワン）公布截至2026年6月财年业绩，销售额同比增长47%至32.81亿日元，经常利润同比增长195%至4.38亿日元，实现大幅增收增益。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "万代南梦宫系列30周年新作《皇牌空战8：西弗之翼》正式发售",
+        "url": "https://www.4gamer.net/games/969/G096901/20261002012/",
+        "date": "2026-10-02",
+        "summary": "万代南梦宫为纪念《皇牌空战》系列30周年推出的最新作《皇牌空战8：西弗之翼》于10月2日正式发售，游戏首批评测反馈良好。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "万代南梦宫系列30周年新作《皇牌空战8：西弗之翼》正式发售",
+          "url": "https://www.4gamer.net/games/969/G096901/20261002012/",
+          "date": "2026-10-02",
+          "summary": "万代南梦宫为纪念《皇牌空战》系列30周年推出的最新作《皇牌空战8：西弗之翼》于10月2日正式发售，游戏首批评测反馈良好。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "NBA迈阿密热火队将于11月18日以《GTA6》\"罪恶都市\"主题进行比赛",
+        "url": "https://www.gematsu.com/2026/10/miami-heat-to-play-as-grand-theft-auto-vis-vice-city-on-november-18",
+        "date": "2026-10-02",
+        "summary": "NBA球队迈阿密热火宣布将在11月18日的一场比赛中以《GTA6》游戏内\"罪恶都市\"（Vice City）为主题进行跨界联动活动，正值该作11月19日正式发售前一天。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "NBA迈阿密热火队将于11月18日以《GTA6》\"罪恶都市\"主题进行比赛",
+          "url": "https://www.gematsu.com/2026/10/miami-heat-to-play-as-grand-theft-auto-vis-vice-city-on-november-18",
+          "date": "2026-10-02",
+          "summary": "NBA球队迈阿密热火宣布将在11月18日的一场比赛中以《GTA6》游戏内\"罪恶都市\"（Vice City）为主题进行跨界联动活动，正值该作11月19日正式发售前一天。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "世嘉《STRANGER THAN HEAVEN》公开\"1943年南大阪\"深度演示",
+        "url": "https://www.gematsu.com/2026/10/stranger-than-heaven-1943-minami-osaka-in-depth-look-gameplay",
+        "date": "2026-10-02",
+        "summary": "世嘉与开发商RGG Studio公布旗下新作《STRANGER THAN HEAVEN》的最新演示影像，深入展示游戏中1943年大阪南区的场景与玩法细节。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "世嘉《STRANGER THAN HEAVEN》公开\"1943年南大阪\"深度演示",
+          "url": "https://www.gematsu.com/2026/10/stranger-than-heaven-1943-minami-osaka-in-depth-look-gameplay",
+          "date": "2026-10-02",
+          "summary": "世嘉与开发商RGG Studio公布旗下新作《STRANGER THAN HEAVEN》的最新演示影像，深入展示游戏中1943年大阪南区的场景与玩法细节。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "ATLUS公开《女神异闻录4：Revival》\"暗影\"（Shadow）预告片",
+        "url": "https://www.gematsu.com/2026/10/persona-4-revival-shadow-trailer",
+        "date": "2026-10-03",
+        "summary": "ATLUS发布《女神异闻录4：Revival》全新\"暗影\"主题预告片，展示游戏中暗影战斗相关的新内容。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "ATLUS公开《女神异闻录4：Revival》\"暗影\"（Shadow）预告片",
+          "url": "https://www.gematsu.com/2026/10/persona-4-revival-shadow-trailer",
+          "date": "2026-10-03",
+          "summary": "ATLUS发布《女神异闻录4：Revival》全新\"暗影\"主题预告片，展示游戏中暗影战斗相关的新内容。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Epic Games Store公布10月免费游戏阵容，含《网络奇兵2》25周年重制版",
+        "url": "https://www.videogameschronicle.com/news/epics-october-free-games-include-system-shock-2s-25th-anniversary-remaster/",
+        "date": "2026-10-02",
+        "summary": "Epic Games Store公布10月共四款限时免费游戏，由《网络奇兵2》（System Shock 2）25周年重制版领衔（至10月8日可领取），随后几周还将上线恐怖解谜游戏《Out of Sight》、中世纪建城游戏《TerraScape》及悬疑冒险游戏《Buried Stars》。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Epic Games Store公布10月免费游戏阵容，含《网络奇兵2》25周年重制版",
+          "url": "https://www.videogameschronicle.com/news/epics-october-free-games-include-system-shock-2s-25th-anniversary-remaster/",
+          "date": "2026-10-02",
+          "summary": "Epic Games Store公布10月共四款限时免费游戏，由《网络奇兵2》（System Shock 2）25周年重制版领衔（至10月8日可领取），随后几周还将上线恐怖解谜游戏《Out of Sight》、中世纪建城游戏《TerraScape》及悬疑冒险游戏《Buried Stars》。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Rockstar联合创始人丹·豪斯称至今刻意不看《GTA6》预告，以免影响自己新项目创作",
+        "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
+        "date": "2026-10-03",
+        "summary": "Rockstar Games联合创始人、前首席编剧丹·豪斯（Dan Houser）表示，为避免对自己在Absurd Ventures开发的开放世界新项目产生创作干扰，他一直刻意避免观看《GTA6》的相关预告与宣传内容。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Rockstar联合创始人丹·豪斯称至今刻意不看《GTA6》预告，以免影响自己新项目创作",
+          "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
+          "date": "2026-10-03",
+          "summary": "Rockstar Games联合创始人、前首席编剧丹·豪斯（Dan Houser）表示，为避免对自己在Absurd Ventures开发的开放世界新项目产生创作干扰，他一直刻意避免观看《GTA6》的相关预告与宣传内容。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
