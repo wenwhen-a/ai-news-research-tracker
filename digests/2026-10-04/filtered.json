@@ -1,0 +1,406 @@
+{
+  "as_of": "2026-10-04",
+  "cutoff": "2026-09-27",
+  "window_days": 7,
+  "summary": {
+    "input_items": 17,
+    "denied_source": 0,
+    "in_window": 17,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 17,
+    "duplicate_clusters": 0,
+    "section1_count": 8,
+    "section2_count": 9,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": true,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 10,
+    "previously_covered_count": 7
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "AI upscaling (QSSR) is coming to base PS5",
+        "url": "https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/",
+        "date": "2026-10-01",
+        "summary": "Sony announced Quick Spectral Super Resolution (QSSR), a new AI upscaling technology for base PS5 that analyzes game images pixel-by-pixel to improve detail and temporal stability, essentially bringing a lighter-weight version of PS5 Pro's PSSR to standard consoles. Marvel's Wolverine and Ghost of Yōtei received day-one patches adding QSSR as an optional graphics setting, and Sony said the tech will be made available to all PlayStation developers.",
+        "section": 1,
+        "facts": "Core facts: QSSR uses a streamlined neural network architecture and hand-tuned implementation optimized specifically for base PS5 hardware; PSSR remains the premium option exclusive to PS5 Pro. Background/why: Sony wants to bring AI-driven image-quality gains to the much larger base PS5 install base without PS5 Pro's extra silicon. Results/quotes: Insomniac's Mike Fitzgerald said QSSR 'adds more pixel-level clarity and stability to our environments' and brings 'a great taste of the PS5 Pro experience' to base PS5 players; Sucker Punch's Jasmin Patry said it 'excels at resolving fine details in our characters and environments' with improved temporal stability versus standard PS5 rendering. Marvel's Wolverine and Ghost of Yōtei got the feature via day-one Oct 1 patches."
+      },
+      "members": [
+        {
+          "title": "AI upscaling (QSSR) is coming to base PS5",
+          "url": "https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/",
+          "date": "2026-10-01",
+          "summary": "Sony announced Quick Spectral Super Resolution (QSSR), a new AI upscaling technology for base PS5 that analyzes game images pixel-by-pixel to improve detail and temporal stability, essentially bringing a lighter-weight version of PS5 Pro's PSSR to standard consoles. Marvel's Wolverine and Ghost of Yōtei received day-one patches adding QSSR as an optional graphics setting, and Sony said the tech will be made available to all PlayStation developers.",
+          "section": 1,
+          "facts": "Core facts: QSSR uses a streamlined neural network architecture and hand-tuned implementation optimized specifically for base PS5 hardware; PSSR remains the premium option exclusive to PS5 Pro. Background/why: Sony wants to bring AI-driven image-quality gains to the much larger base PS5 install base without PS5 Pro's extra silicon. Results/quotes: Insomniac's Mike Fitzgerald said QSSR 'adds more pixel-level clarity and stability to our environments' and brings 'a great taste of the PS5 Pro experience' to base PS5 players; Sucker Punch's Jasmin Patry said it 'excels at resolving fine details in our characters and environments' with improved temporal stability versus standard PS5 rendering. Marvel's Wolverine and Ghost of Yōtei got the feature via day-one Oct 1 patches."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Capcom launches 'Project REX' to turn RE Engine into an AI-assisted 'game engine of the AI generation'",
+        "url": "https://www.videogameschronicle.com/news/capcom-details-plans-to-evolve-re-engine-into-an-ai-generation-game-engine/",
+        "date": "2026-10-03",
+        "summary": "At its Capcom Open Conference RE: 2026 event, Capcom detailed 'Project REX,' an initiative to rebuild its RE Engine (used in nearly 30 titles since Resident Evil 7 in 2017) so that AI can help generate development programs, assist with QA/bug-testing, and otherwise speed up production. Capcom programmer Satoshi Ishida framed the goal as a future 'where we create games together with AI,' while VP of Game Development Platform and AI Solutions Shinichi Inoue stressed the tools are meant to free up creators' time, not to generate art or game content itself.",
+        "section": 1,
+        "facts": "Core facts: REX will rewrite parts of RE Engine using more common/standard programming languages specifically so AI coding tools can read and operate on the codebase; planned AI uses include automatic program generation and automated test-play bug detection; Capcom plans to make some of its tech/data publicly available for AI training. Background/why: RE Engine has powered ~30 Capcom titles (Resident Evil, Street Fighter, Monster Hunter, Onimusha, Devil May Cry) since 2017; Capcom is trying to keep pace with AAA dev-cost/efficiency pressure without using generative AI for visible game content. Results/quotes: Satoshi Ishida (programmer) - 'a future where we create games together with AI'; Shinichi Inoue (VP, Game Development Platform and AI Solutions) - AI is 'not for creating art, but for unleashing the potential of creators,' explicitly stating Capcom is not using AI tools to generate art. Widely corroborated same-day by IGN, Polygon, Engadget, PC Gamer, The Verge, Eurogamer, Nintendo Life, VGC on Oct 3, 2026."
+      },
+      "members": [
+        {
+          "title": "Capcom launches 'Project REX' to turn RE Engine into an AI-assisted 'game engine of the AI generation'",
+          "url": "https://www.videogameschronicle.com/news/capcom-details-plans-to-evolve-re-engine-into-an-ai-generation-game-engine/",
+          "date": "2026-10-03",
+          "summary": "At its Capcom Open Conference RE: 2026 event, Capcom detailed 'Project REX,' an initiative to rebuild its RE Engine (used in nearly 30 titles since Resident Evil 7 in 2017) so that AI can help generate development programs, assist with QA/bug-testing, and otherwise speed up production. Capcom programmer Satoshi Ishida framed the goal as a future 'where we create games together with AI,' while VP of Game Development Platform and AI Solutions Shinichi Inoue stressed the tools are meant to free up creators' time, not to generate art or game content itself.",
+          "section": 1,
+          "facts": "Core facts: REX will rewrite parts of RE Engine using more common/standard programming languages specifically so AI coding tools can read and operate on the codebase; planned AI uses include automatic program generation and automated test-play bug detection; Capcom plans to make some of its tech/data publicly available for AI training. Background/why: RE Engine has powered ~30 Capcom titles (Resident Evil, Street Fighter, Monster Hunter, Onimusha, Devil May Cry) since 2017; Capcom is trying to keep pace with AAA dev-cost/efficiency pressure without using generative AI for visible game content. Results/quotes: Satoshi Ishida (programmer) - 'a future where we create games together with AI'; Shinichi Inoue (VP, Game Development Platform and AI Solutions) - AI is 'not for creating art, but for unleashing the potential of creators,' explicitly stating Capcom is not using AI tools to generate art. Widely corroborated same-day by IGN, Polygon, Engadget, PC Gamer, The Verge, Eurogamer, Nintendo Life, VGC on Oct 3, 2026."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Ubisoft trademarks 'Motherbrain' as umbrella brand for its generative-AI game-development initiative",
+        "url": "https://kotaku.com/ubisoft-has-lovingly-named-its-genai-gaming-initiative-motherbrain-2000737907",
+        "date": "2026-09-28",
+        "summary": "Ubisoft filed trademark applications for 'Motherbrain' - a name shared with a Metroid villain - covering software and services for 'creating video games and interactive content using artificial intelligence.' The filings formalize and brand Ubisoft's ongoing generative-AI push, which has already produced tools like GhostWriter (AI-assisted NPC dialogue), the Neo NPC initiative, and the 2025 'Teammates' AI-ally demo.",
+        "section": 1,
+        "facts": "Core facts: Multiple trademark filings describe downloadable AI software for creating video games/interactive content plus AI research and analysis services; initiative is currently used internally at Ubisoft. Background/why: builds on Ubisoft's multi-year AI roadmap - GhostWriter (2023, AI NPC dialogue for Far Cry-style writing), Neo NPC (2024, dynamic AI characters), 'Teammates' (2025, playable demo with AI-voiced allies in Ghost Recon-style gameplay). Results/context: Ubisoft creative director Xavier Manzanares said 'Games of tomorrow will listen, understand, and react to players far more than today'; Ubisoft has also faced criticism after AI-generated visual artifacts briefly shipped in Anno 117: Pax Romana before being patched out, illustrating real-world risk of the push. Corroborated by Eurogamer and Nintendo Life on Sept 28-29, 2026."
+      },
+      "members": [
+        {
+          "title": "Ubisoft trademarks 'Motherbrain' as umbrella brand for its generative-AI game-development initiative",
+          "url": "https://kotaku.com/ubisoft-has-lovingly-named-its-genai-gaming-initiative-motherbrain-2000737907",
+          "date": "2026-09-28",
+          "summary": "Ubisoft filed trademark applications for 'Motherbrain' - a name shared with a Metroid villain - covering software and services for 'creating video games and interactive content using artificial intelligence.' The filings formalize and brand Ubisoft's ongoing generative-AI push, which has already produced tools like GhostWriter (AI-assisted NPC dialogue), the Neo NPC initiative, and the 2025 'Teammates' AI-ally demo.",
+          "section": 1,
+          "facts": "Core facts: Multiple trademark filings describe downloadable AI software for creating video games/interactive content plus AI research and analysis services; initiative is currently used internally at Ubisoft. Background/why: builds on Ubisoft's multi-year AI roadmap - GhostWriter (2023, AI NPC dialogue for Far Cry-style writing), Neo NPC (2024, dynamic AI characters), 'Teammates' (2025, playable demo with AI-voiced allies in Ghost Recon-style gameplay). Results/context: Ubisoft creative director Xavier Manzanares said 'Games of tomorrow will listen, understand, and react to players far more than today'; Ubisoft has also faced criticism after AI-generated visual artifacts briefly shipped in Anno 117: Pax Romana before being patched out, illustrating real-world risk of the push. Corroborated by Eurogamer and Nintendo Life on Sept 28-29, 2026."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Japan survey: 85.8% of game developers now use generative AI, up from 51% a year ago",
+        "url": "https://kotaku.com/over-85-percent-of-japanese-game-developers-are-using-ai-2000736041",
+        "date": "2026-09-30",
+        "summary": "A CESA (Computer Entertainment Supplier's Association) survey presented at the CEDEC developer conference found 85.8% of 1,349 surveyed Japanese game developers now use generative AI in their work, up sharply from 51% the previous year, with 63% using it daily. A separate company-level poll found 74% of CESA member companies have adopted formal AI policies.",
+        "section": 1,
+        "facts": "Core facts: survey of 1,349 individual developers by CESA at CEDEC 2026; 85.8% use generative AI (up from 51% prior year); 63% use it daily, 22.8% occasionally; primary uses are debugging and asset generation, plus general admin tools like ChatGPT/Copilot. Background/why: tracks the rapid normalization of generative AI in one of the world's largest game-development workforces. Results/numbers: 837 of respondents cited expanded creativity as a benefit, 738 cited lowered technical barriers, only 147 said it benefited end-user experience; company-level data showed 74% of CESA member companies have AI policies, but only 12 companies use AI for visual assets, with fewer still using it for story, localization, QA or programming - suggesting usage is uneven and concentrated in low-risk tasks."
+      },
+      "members": [
+        {
+          "title": "Japan survey: 85.8% of game developers now use generative AI, up from 51% a year ago",
+          "url": "https://kotaku.com/over-85-percent-of-japanese-game-developers-are-using-ai-2000736041",
+          "date": "2026-09-30",
+          "summary": "A CESA (Computer Entertainment Supplier's Association) survey presented at the CEDEC developer conference found 85.8% of 1,349 surveyed Japanese game developers now use generative AI in their work, up sharply from 51% the previous year, with 63% using it daily. A separate company-level poll found 74% of CESA member companies have adopted formal AI policies.",
+          "section": 1,
+          "facts": "Core facts: survey of 1,349 individual developers by CESA at CEDEC 2026; 85.8% use generative AI (up from 51% prior year); 63% use it daily, 22.8% occasionally; primary uses are debugging and asset generation, plus general admin tools like ChatGPT/Copilot. Background/why: tracks the rapid normalization of generative AI in one of the world's largest game-development workforces. Results/numbers: 837 of respondents cited expanded creativity as a benefit, 738 cited lowered technical barriers, only 147 said it benefited end-user experience; company-level data showed 74% of CESA member companies have AI policies, but only 12 companies use AI for visual assets, with fewer still using it for story, localization, QA or programming - suggesting usage is uneven and concentrated in low-risk tasks."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "GamesIndustry.biz HR Summit: generative AI is creating more work, not less, for game companies",
+        "url": "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time",
+        "date": "2026-10-02",
+        "summary": "At the GamesIndustry.biz HR Summit 2026 (held Oct 1 at London's Royal Institution), HR leaders described generative AI paradoxically increasing workload at game studios rather than saving time, citing data-privacy risks from personal AI accounts, employee anxiety over job security, and a surge in lengthy, factually dubious AI-written grievance letters that burden HR and legal teams. A year-over-year straw poll found most attending companies now have a formal AI policy, versus only a minority the previous year.",
+        "section": 2,
+        "facts": "Core facts: quote 'Quite often it's given me more to do' from a senior industry leader; sessions covered workforce planning under AI pressure and handling AI-generated HR casework. Background/why: follow-up to a year of accelerating generative-AI adoption across game studios' back-office and creative functions. Results: most studios are still in early AI-adoption stages, with policies being rewritten constantly as new risks emerge; one executive described employees emailing at night asking whether AI use means their job is at risk."
+      },
+      "members": [
+        {
+          "title": "GamesIndustry.biz HR Summit: generative AI is creating more work, not less, for game companies",
+          "url": "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time",
+          "date": "2026-10-02",
+          "summary": "At the GamesIndustry.biz HR Summit 2026 (held Oct 1 at London's Royal Institution), HR leaders described generative AI paradoxically increasing workload at game studios rather than saving time, citing data-privacy risks from personal AI accounts, employee anxiety over job security, and a surge in lengthy, factually dubious AI-written grievance letters that burden HR and legal teams. A year-over-year straw poll found most attending companies now have a formal AI policy, versus only a minority the previous year.",
+          "section": 2,
+          "facts": "Core facts: quote 'Quite often it's given me more to do' from a senior industry leader; sessions covered workforce planning under AI pressure and handling AI-generated HR casework. Background/why: follow-up to a year of accelerating generative-AI adoption across game studios' back-office and creative functions. Results: most studios are still in early AI-adoption stages, with policies being rewritten constantly as new risks emerge; one executive described employees emailing at night asking whether AI use means their job is at risk."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Unity ships an official plugin for xAI's Grok Build coding agent",
+        "url": "https://unity.com/blog/unity-plugin-grok",
+        "date": "2026-10-01",
+        "summary": "Unity released an official plugin for Grok Build, xAI's coding agent, letting developers build Unity games directly from within that AI assistant's terminal environment. It is the third coding agent (after Claude Code and Codex) to get an official Unity plugin, all maintained from a single shared repository, and ships with more than 30 built-in skills covering UI, 2D/3D graphics, audio, physics and multiplayer.",
+        "section": 2,
+        "facts": "Core facts: install via one terminal command (`grok plugin install Unity-Technologies/unity-agent-plugin --trust`); requires Unity 6+; plugin bundles 30+ skills. Background/why: Unity-powered games see roughly 3 billion downloads per month, and Codex reportedly had about 15 million active users as of August 2026, making AI-coding-agent integration a meaningful developer-acquisition channel. Results: formalizes Unity's AI-agent strategy across three major coding assistants (Claude Code, Codex, Grok Build) from one codebase."
+      },
+      "members": [
+        {
+          "title": "Unity ships an official plugin for xAI's Grok Build coding agent",
+          "url": "https://unity.com/blog/unity-plugin-grok",
+          "date": "2026-10-01",
+          "summary": "Unity released an official plugin for Grok Build, xAI's coding agent, letting developers build Unity games directly from within that AI assistant's terminal environment. It is the third coding agent (after Claude Code and Codex) to get an official Unity plugin, all maintained from a single shared repository, and ships with more than 30 built-in skills covering UI, 2D/3D graphics, audio, physics and multiplayer.",
+          "section": 2,
+          "facts": "Core facts: install via one terminal command (`grok plugin install Unity-Technologies/unity-agent-plugin --trust`); requires Unity 6+; plugin bundles 30+ skills. Background/why: Unity-powered games see roughly 3 billion downloads per month, and Codex reportedly had about 15 million active users as of August 2026, making AI-coding-agent integration a meaningful developer-acquisition channel. Results: formalizes Unity's AI-agent strategy across three major coding assistants (Claude Code, Codex, Grok Build) from one codebase."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Stardock launches 'Clairvoyance,' a local AI agent platform for game-dev productivity",
+        "url": "https://gamesbeat.com/stardock-unveils-clairvoyance-ai-productivity-tools-for-game-devs/",
+        "date": "2026-10-02",
+        "summary": "Stardock (Brad Wardell's studio) publicly released Clairvoyance, an AI productivity platform that runs locally rather than in a browser tab, automating tasks like asset imports, crash-log analysis, build monitoring, Jira ticket creation, localization workflows and ad-fraud detection. Wardell said the tool, used internally for two years before its public launch, could become Stardock's single biggest revenue source.",
+        "section": 2,
+        "facts": "Core facts: free base tier (Windows/macOS/Linux), a Plus tier with cross-machine cloud sync, and a $20/month Pro tier with advanced features; a planned 'Hivemind' feature will let agents delegate jobs to more powerful remote machines. Background/why: used internally at Stardock for two years before public release. Results/quotes: Wardell - 'There's a pretty good chance that this is going to be by far the biggest source of revenue' for Stardock; cited examples include the tool catching a build error on a holiday and flagging bot-farm ad fraud before human review; Wardell predicts small AI-augmented teams could compete with AAA studios within 18 months."
+      },
+      "members": [
+        {
+          "title": "Stardock launches 'Clairvoyance,' a local AI agent platform for game-dev productivity",
+          "url": "https://gamesbeat.com/stardock-unveils-clairvoyance-ai-productivity-tools-for-game-devs/",
+          "date": "2026-10-02",
+          "summary": "Stardock (Brad Wardell's studio) publicly released Clairvoyance, an AI productivity platform that runs locally rather than in a browser tab, automating tasks like asset imports, crash-log analysis, build monitoring, Jira ticket creation, localization workflows and ad-fraud detection. Wardell said the tool, used internally for two years before its public launch, could become Stardock's single biggest revenue source.",
+          "section": 2,
+          "facts": "Core facts: free base tier (Windows/macOS/Linux), a Plus tier with cross-machine cloud sync, and a $20/month Pro tier with advanced features; a planned 'Hivemind' feature will let agents delegate jobs to more powerful remote machines. Background/why: used internally at Stardock for two years before public release. Results/quotes: Wardell - 'There's a pretty good chance that this is going to be by far the biggest source of revenue' for Stardock; cited examples include the tool catching a build error on a holiday and flagging bot-farm ad fraud before human review; Wardell predicts small AI-augmented teams could compete with AAA studios within 18 months."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Fan PC-port developer slams AI-generated 'vibe-coded' Banjo-Tooie recompilation as 'a race to the bottom'",
+        "url": "https://www.videogameschronicle.com/news/banjo-kazooie-pc-port-decomp-developer-says-ai-generated-pc-ports-are-a-race-to-the-bottom-and-disrespectful/",
+        "date": "2026-10-03",
+        "summary": "DarioSamo, the developer behind the fan-made 'Banjo: Recompiled' decompilation PC port, criticized a new AI-generated Banjo-Tooie recompilation that allegedly reused his team's research and tooling. He argued that applying generative AI to recompilation produces lower-quality results and is 'disrespectful' to the years of manual reverse-engineering work the original project required.",
+        "section": 2,
+        "facts": "Core facts: distinguishes manual 'decompilation' (labor-intensive reverse engineering into readable code) from AI-assisted 'recompilation' (fast machine-code-to-functional-code conversion). Background/why: part of a wider controversy this week over 'vibe-coded' AI game ports and mashups (also covered re: a separate AI-generated Fallout fan game that drew a Bethesda cease-and-desist). Quotes: DarioSamo - 'We're not interested in engaging [in] a race to the bottom and will take the time that is necessary to deliver a polished version'; 'Using the extensive amount of human research we've done for the framework, the renderer and the games and throwing AI at it is very disrespectful'; 'All the evidence I need is that vibecoders keep copying our efforts and completely fail to reach the same level of quality.'"
+      },
+      "members": [
+        {
+          "title": "Fan PC-port developer slams AI-generated 'vibe-coded' Banjo-Tooie recompilation as 'a race to the bottom'",
+          "url": "https://www.videogameschronicle.com/news/banjo-kazooie-pc-port-decomp-developer-says-ai-generated-pc-ports-are-a-race-to-the-bottom-and-disrespectful/",
+          "date": "2026-10-03",
+          "summary": "DarioSamo, the developer behind the fan-made 'Banjo: Recompiled' decompilation PC port, criticized a new AI-generated Banjo-Tooie recompilation that allegedly reused his team's research and tooling. He argued that applying generative AI to recompilation produces lower-quality results and is 'disrespectful' to the years of manual reverse-engineering work the original project required.",
+          "section": 2,
+          "facts": "Core facts: distinguishes manual 'decompilation' (labor-intensive reverse engineering into readable code) from AI-assisted 'recompilation' (fast machine-code-to-functional-code conversion). Background/why: part of a wider controversy this week over 'vibe-coded' AI game ports and mashups (also covered re: a separate AI-generated Fallout fan game that drew a Bethesda cease-and-desist). Quotes: DarioSamo - 'We're not interested in engaging [in] a race to the bottom and will take the time that is necessary to deliver a polished version'; 'Using the extensive amount of human research we've done for the framework, the renderer and the games and throwing AI at it is very disrespectful'; 'All the evidence I need is that vibecoders keep copying our efforts and completely fail to reach the same level of quality.'"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Researchers build 'Ataraxos,' an AI that beats Stratego's top human champion for under $8,000",
+        "url": "https://the-decoder.com/ai-beats-strategos-greatest-player-ending-one-of-the-last-human-strongholds-in-board-games/",
+        "date": "2026-10-01",
+        "summary": "A team from Carnegie Mellon, NYU, Stanford and MIT built Ataraxos, a self-play AI system that defeated Dutch Stratego champion Pim Niemeijer 15 wins/1 loss/4 draws over a 20-game match, published in Nature. Note: this is a tabletop board-game AI research result (not a video game), included because it is a notable, widely-covered AI+games milestone this week - an editor may wish to place it differently or drop it depending on scope.",
+        "section": 2,
+        "facts": "Core facts: training cost was just under $8,000 (about 1/500th the $3-4.5 million DeepMind reportedly spent on an earlier Stratego AI attempt); training took one week on 16 Nvidia H100 GPUs plus four more days for a companion belief network; the method also generalized to Hanabi, Barrage Stratego and Dou dizhu. Background/why: Stratego's hidden-information setup (over 10^33 possible initial piece layouts) had long resisted AI mastery, unlike fully-observable games like chess/Go. Results: Niemeijer holds four world championships and over 600 weeks at world #1; at a 2025 exhibition the same AI beat professional players 38 of 40 games; the breakthrough came from regularization techniques forcing varied, less-predictable play plus a belief network that infers hidden opponent piece positions."
+      },
+      "members": [
+        {
+          "title": "Researchers build 'Ataraxos,' an AI that beats Stratego's top human champion for under $8,000",
+          "url": "https://the-decoder.com/ai-beats-strategos-greatest-player-ending-one-of-the-last-human-strongholds-in-board-games/",
+          "date": "2026-10-01",
+          "summary": "A team from Carnegie Mellon, NYU, Stanford and MIT built Ataraxos, a self-play AI system that defeated Dutch Stratego champion Pim Niemeijer 15 wins/1 loss/4 draws over a 20-game match, published in Nature. Note: this is a tabletop board-game AI research result (not a video game), included because it is a notable, widely-covered AI+games milestone this week - an editor may wish to place it differently or drop it depending on scope.",
+          "section": 2,
+          "facts": "Core facts: training cost was just under $8,000 (about 1/500th the $3-4.5 million DeepMind reportedly spent on an earlier Stratego AI attempt); training took one week on 16 Nvidia H100 GPUs plus four more days for a companion belief network; the method also generalized to Hanabi, Barrage Stratego and Dou dizhu. Background/why: Stratego's hidden-information setup (over 10^33 possible initial piece layouts) had long resisted AI mastery, unlike fully-observable games like chess/Go. Results: Niemeijer holds four world championships and over 600 weeks at world #1; at a 2025 exhibition the same AI beat professional players 38 of 40 games; the breakthrough came from regularization techniques forcing varied, less-predictable play plus a belief network that infers hidden opponent piece positions."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Roblox details platform security architecture, including guardrails on AI coding tools",
+        "url": "https://about.roblox.com/newsroom/2026/10/securing-an-ecosystem-unlike-any-other",
+        "date": "2026-10-02",
+        "summary": "Roblox CISO Nicole Grinstead published a look at how the platform secures an ecosystem of 120+ million daily active users and millions of external creators running untrusted code, built around making 'the secure path the easy path.' AI's role is a secondary point: Roblox says it tested and built controls - including a sandboxed validation environment - before greenlighting AI coding tools for use on the platform.",
+        "section": 2,
+        "facts": "Core facts: 120+ million daily active users; infrastructure spans owned data centers and ephemeral cloud environments; platform includes a live virtual economy with real monetary value. Background/why: as a UGC platform, Roblox's security model has to assume code from millions of outside creators is untrusted by default. AI-specific detail: before allowing AI code-generation tooling, Roblox built and tested a sandboxed environment to validate its outputs rather than rolling it out unchecked - framed as part of a broader 'security as default, not exception' philosophy rather than a dedicated AI-safety initiative."
+      },
+      "members": [
+        {
+          "title": "Roblox details platform security architecture, including guardrails on AI coding tools",
+          "url": "https://about.roblox.com/newsroom/2026/10/securing-an-ecosystem-unlike-any-other",
+          "date": "2026-10-02",
+          "summary": "Roblox CISO Nicole Grinstead published a look at how the platform secures an ecosystem of 120+ million daily active users and millions of external creators running untrusted code, built around making 'the secure path the easy path.' AI's role is a secondary point: Roblox says it tested and built controls - including a sandboxed validation environment - before greenlighting AI coding tools for use on the platform.",
+          "section": 2,
+          "facts": "Core facts: 120+ million daily active users; infrastructure spans owned data centers and ephemeral cloud environments; platform includes a live virtual economy with real monetary value. Background/why: as a UGC platform, Roblox's security model has to assume code from millions of outside creators is untrusted by default. AI-specific detail: before allowing AI code-generation tooling, Roblox built and tested a sandboxed environment to validate its outputs rather than rolling it out unchecked - framed as part of a broader 'security as default, not exception' philosophy rather than a dedicated AI-safety initiative."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "'Vibe coders' start remixing entire video games together using AI coding tools",
+        "url": "https://www.forbes.com/sites/danidiplacido/2026/09/30/minecraft-in-elden-ring-vibe-coders-are-remixing-video-games-with-ai/",
+        "date": "2026-09-30",
+        "summary": "Forbes profiled a growing trend of amateur 'vibe coders' using AI coding assistants to mash up unrelated games - for example, bringing Minecraft-style building and redstone mechanics, or other franchises' systems, into Elden Ring - creating hybrid fan projects that would have been impractical to hand-code solo. The piece frames this as a fast-growing, controversial corner of AI-assisted modding culture.",
+        "section": 2,
+        "facts": "Core facts: trend is enabled specifically by AI coding tools lowering the barrier for solo/amateur developers to reverse-engineer and recombine commercial games' systems. Background/why: sits alongside this week's other AI-modding controversies (e.g., the Banjo-Kazooie 'race to the bottom' criticism and a Bethesda cease-and-desist over an AI-generated Fallout fan game), reflecting mixed industry and fan reaction to AI-assisted mods/ports. Note: could not independently re-verify full article text beyond title/date/author (Dani Di Placido) due to a fetch block on forbes.com; corroborated via independent search-result extraction."
+      },
+      "members": [
+        {
+          "title": "'Vibe coders' start remixing entire video games together using AI coding tools",
+          "url": "https://www.forbes.com/sites/danidiplacido/2026/09/30/minecraft-in-elden-ring-vibe-coders-are-remixing-video-games-with-ai/",
+          "date": "2026-09-30",
+          "summary": "Forbes profiled a growing trend of amateur 'vibe coders' using AI coding assistants to mash up unrelated games - for example, bringing Minecraft-style building and redstone mechanics, or other franchises' systems, into Elden Ring - creating hybrid fan projects that would have been impractical to hand-code solo. The piece frames this as a fast-growing, controversial corner of AI-assisted modding culture.",
+          "section": 2,
+          "facts": "Core facts: trend is enabled specifically by AI coding tools lowering the barrier for solo/amateur developers to reverse-engineer and recombine commercial games' systems. Background/why: sits alongside this week's other AI-modding controversies (e.g., the Banjo-Kazooie 'race to the bottom' criticism and a Bethesda cease-and-desist over an AI-generated Fallout fan game), reflecting mixed industry and fan reaction to AI-assisted mods/ports. Note: could not independently re-verify full article text beyond title/date/author (Dani Di Placido) due to a fetch block on forbes.com; corroborated via independent search-result extraction."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "miHoYo founder Liu Wei: company aims to join China's first tier of large-model teams within 2-3 years",
+        "url": "https://m.thepaper.cn/detail/34164101",
+        "date": "2026-09-28",
+        "summary": "At a campus recruiting event at Shanghai Jiao Tong University on September 28, miHoYo founder and president Liu Wei said he is confident that within 2-3 years miHoYo will be an important player among China's domestic large-model teams. He reiterated the company's ambition to use AI to enable personalized, 'a thousand faces for a thousand players' gaming experiences.",
+        "section": 1,
+        "facts": "Core facts: Liu Wei spoke at miHoYo's 2027 campus recruitment info session at Shanghai Jiao Tong University on 2026-09-28; quote: '未来2到3年内，米哈游都会是国产大模型团队里举足轻重的一员' (within 2-3 years miHoYo will be an important member of China's domestic large-model teams). Background: this follows his May 2026 statement that miHoYo plans to invest up to 100 billion yuan (RMB) over three years in AI; the company has built the Glossa in-house large language model (registered as a generative-AI service in China in Sept 2024) via its wholly owned subsidiary Shanghai miHoYo Mifa Technology, aimed at serving the full game-production pipeline. Why it matters: signals one of China's top game publishers formally positioning itself as an AI model developer, not just an AI tool user, intensifying competition with Tencent/NetEase/ByteDance on foundation models. Results/outlook: no product deliverable yet from this specific announcement; it is a strategic/HR-facing statement reinforcing miHoYo's public AI investment thesis."
+      },
+      "members": [
+        {
+          "title": "miHoYo founder Liu Wei: company aims to join China's first tier of large-model teams within 2-3 years",
+          "url": "https://m.thepaper.cn/detail/34164101",
+          "date": "2026-09-28",
+          "summary": "At a campus recruiting event at Shanghai Jiao Tong University on September 28, miHoYo founder and president Liu Wei said he is confident that within 2-3 years miHoYo will be an important player among China's domestic large-model teams. He reiterated the company's ambition to use AI to enable personalized, 'a thousand faces for a thousand players' gaming experiences.",
+          "section": 1,
+          "facts": "Core facts: Liu Wei spoke at miHoYo's 2027 campus recruitment info session at Shanghai Jiao Tong University on 2026-09-28; quote: '未来2到3年内，米哈游都会是国产大模型团队里举足轻重的一员' (within 2-3 years miHoYo will be an important member of China's domestic large-model teams). Background: this follows his May 2026 statement that miHoYo plans to invest up to 100 billion yuan (RMB) over three years in AI; the company has built the Glossa in-house large language model (registered as a generative-AI service in China in Sept 2024) via its wholly owned subsidiary Shanghai miHoYo Mifa Technology, aimed at serving the full game-production pipeline. Why it matters: signals one of China's top game publishers formally positioning itself as an AI model developer, not just an AI tool user, intensifying competition with Tencent/NetEase/ByteDance on foundation models. Results/outlook: no product deliverable yet from this specific announcement; it is a strategic/HR-facing statement reinforcing miHoYo's public AI investment thesis."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Kuaishou's Kling AI opens early access to Kling 4.0 Flash; full Kling 4.0 to launch in October",
+        "url": "https://www.ithome.com/1/008/073.htm",
+        "date": "2026-09-29",
+        "summary": "Kuaishou's Kling AI video generation unit opened limited early access to Kling 4.0 Flash on September 28, ahead of a full Kling 4.0 release slated for October 2026. The new generation supports up to 30-second clips, 4K/1080p output with 10-bit HDR, and can combine up to 10 reference images, 5 videos and 7 subjects in a single generation task.",
+        "section": 1,
+        "facts": "Core facts: Kling 4.0 Flash began small-scale early access on 2026-09-28 for Ultra/'black card' annual subscribers; full Kling 4.0 is scheduled for October 2026 (exact day not yet announced). Specs: up to 30-second continuous-narrative clips, 4K/1080p output, 10-bit HDR, stereo audio, up to 10 keyframes and 15 mixed references per task; Flash variant caps out at 20 seconds, 720p, 8-bit SDR for faster/cheaper high-frequency generation. Why it matters: Kling is one of China's leading AI video-generation products (Kuaishou subsidiary, pursuing a Hong Kong IPO) and has already been used inside games - e.g., NetEase integrated Kling-generated video into the mobile game 'Yanyun Shiliu Sheng'/'Nishuihan' for in-game social content in Q2 2026 - and Kuaishou CEO Cheng Yixiao has said he wants Kling to eventually handle industrial-grade game production and professional film work. Results: this release pushes Kling's output length and fidelity further toward production-ready game cinematic/asset generation ahead of its planned full October launch."
+      },
+      "members": [
+        {
+          "title": "Kuaishou's Kling AI opens early access to Kling 4.0 Flash; full Kling 4.0 to launch in October",
+          "url": "https://www.ithome.com/1/008/073.htm",
+          "date": "2026-09-29",
+          "summary": "Kuaishou's Kling AI video generation unit opened limited early access to Kling 4.0 Flash on September 28, ahead of a full Kling 4.0 release slated for October 2026. The new generation supports up to 30-second clips, 4K/1080p output with 10-bit HDR, and can combine up to 10 reference images, 5 videos and 7 subjects in a single generation task.",
+          "section": 1,
+          "facts": "Core facts: Kling 4.0 Flash began small-scale early access on 2026-09-28 for Ultra/'black card' annual subscribers; full Kling 4.0 is scheduled for October 2026 (exact day not yet announced). Specs: up to 30-second continuous-narrative clips, 4K/1080p output, 10-bit HDR, stereo audio, up to 10 keyframes and 15 mixed references per task; Flash variant caps out at 20 seconds, 720p, 8-bit SDR for faster/cheaper high-frequency generation. Why it matters: Kling is one of China's leading AI video-generation products (Kuaishou subsidiary, pursuing a Hong Kong IPO) and has already been used inside games - e.g., NetEase integrated Kling-generated video into the mobile game 'Yanyun Shiliu Sheng'/'Nishuihan' for in-game social content in Q2 2026 - and Kuaishou CEO Cheng Yixiao has said he wants Kling to eventually handle industrial-grade game production and professional film work. Results: this release pushes Kling's output length and fidelity further toward production-ready game cinematic/asset generation ahead of its planned full October launch."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "36Kr: AI is widening the gap between China's biggest game studios and small developers",
+        "url": "https://36kr.com/p/4010750691217539",
+        "date": "2026-10-04",
+        "summary": "A 36Kr analysis published October 4 argues that AI adoption is making it harder for small Chinese game studios to replicate the success of companies like miHoYo, as large incumbents (Tencent, NetEase, miHoYo) can absorb far higher AI experimentation costs and leverage existing IP/user bases. The piece cites industry data showing slowing revenue growth and rising losses among listed game companies even as AI deployment accelerates.",
+        "section": 1,
+        "facts": "Core facts/numbers: China's gaming market generated RMB 188.4 billion in H1 2026 (up 12%), but among 64 listed game companies overall revenue growth slowed to 9%, with 22 companies reporting losses (double the prior year) and 16 flipping from profit to loss; average monthly industry salary fell by RMB 1,500 to RMB 34,000. Company specifics: Tencent's 'Peace Elite' (Game for Peace) AI NPC features have reached a cumulative 167 million users; NetEase reports 300% efficiency gains in some production departments from AI tools; miHoYo plans to invest up to RMB 100 billion in AI over three years, and one miHoYo technical lead said an overnight multi-agent experiment consumed RMB 2 million in token costs - 'enough to bankrupt an independent studio.' Why it matters: illustrates a structural industry dynamic - AI lowers the barrier to initial game production but advantages capital-rich incumbents who can absorb experimentation costs and monetize AI innovation via existing IP, intensifying industry consolidation. Context: survey data cited shows 78% of industry workers say AI changed how they work in 2026, and 35% of founders have skipped hiring because AI could do the work."
+      },
+      "members": [
+        {
+          "title": "36Kr: AI is widening the gap between China's biggest game studios and small developers",
+          "url": "https://36kr.com/p/4010750691217539",
+          "date": "2026-10-04",
+          "summary": "A 36Kr analysis published October 4 argues that AI adoption is making it harder for small Chinese game studios to replicate the success of companies like miHoYo, as large incumbents (Tencent, NetEase, miHoYo) can absorb far higher AI experimentation costs and leverage existing IP/user bases. The piece cites industry data showing slowing revenue growth and rising losses among listed game companies even as AI deployment accelerates.",
+          "section": 1,
+          "facts": "Core facts/numbers: China's gaming market generated RMB 188.4 billion in H1 2026 (up 12%), but among 64 listed game companies overall revenue growth slowed to 9%, with 22 companies reporting losses (double the prior year) and 16 flipping from profit to loss; average monthly industry salary fell by RMB 1,500 to RMB 34,000. Company specifics: Tencent's 'Peace Elite' (Game for Peace) AI NPC features have reached a cumulative 167 million users; NetEase reports 300% efficiency gains in some production departments from AI tools; miHoYo plans to invest up to RMB 100 billion in AI over three years, and one miHoYo technical lead said an overnight multi-agent experiment consumed RMB 2 million in token costs - 'enough to bankrupt an independent studio.' Why it matters: illustrates a structural industry dynamic - AI lowers the barrier to initial game production but advantages capital-rich incumbents who can absorb experimentation costs and monetize AI innovation via existing IP, intensifying industry consolidation. Context: survey data cited shows 78% of industry workers say AI changed how they work in 2026, and 35% of founders have skipped hiring because AI could do the work."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Tencent tests AI gaming companion 'Goose Dimension' (鹅次元) that reacts to live gameplay",
+        "url": "https://technode.com/2026/09/29/tencent-tests-ai-gaming-companion-that-responds-to-live-gameplay/",
+        "date": "2026-09-29",
+        "summary": "Tencent is running closed-beta recruitment for a new AI gaming companion app called 'Goose Dimension' (鹅次元), confirmed via an official Tencent recruitment questionnaire reported September 29. The tool offers a customizable digital-human companion with voice chat and real-time game-screen recognition, initially adapted for titles including Valorant, CS2 and League of Legends.",
+        "section": 1,
+        "facts": "Core facts: Product name '鹅次元' (Goose Dimension); core features are voice dialogue, real-time screen/gameplay recognition, and a selectable virtual-companion character; currently in closed PC beta with tester recruitment confirmed via an official Tencent questionnaire, reported by multiple Chinese outlets (IT之家/ithome.com, 游戏大观, 游戏新知, 网经社) around September 29, 2026. Adaptation: initial game support reported for Valorant ('无畏契约'), CS2 and League of Keights ('英雄联盟'); the product reportedly includes a monetization layer via a 'star coin' (星币) exchange system. Why it matters: shows Tencent, the world's largest games publisher, building its own general-purpose AI companion/co-op layer across multiple AAA titles rather than a single-game feature, following its earlier AI-teammate work in 'Game for Peace' (110M+ cumulative AI-NPC users). Status: beta only; no public release date or pricing confirmed yet."
+      },
+      "members": [
+        {
+          "title": "Tencent tests AI gaming companion 'Goose Dimension' (鹅次元) that reacts to live gameplay",
+          "url": "https://technode.com/2026/09/29/tencent-tests-ai-gaming-companion-that-responds-to-live-gameplay/",
+          "date": "2026-09-29",
+          "summary": "Tencent is running closed-beta recruitment for a new AI gaming companion app called 'Goose Dimension' (鹅次元), confirmed via an official Tencent recruitment questionnaire reported September 29. The tool offers a customizable digital-human companion with voice chat and real-time game-screen recognition, initially adapted for titles including Valorant, CS2 and League of Legends.",
+          "section": 1,
+          "facts": "Core facts: Product name '鹅次元' (Goose Dimension); core features are voice dialogue, real-time screen/gameplay recognition, and a selectable virtual-companion character; currently in closed PC beta with tester recruitment confirmed via an official Tencent questionnaire, reported by multiple Chinese outlets (IT之家/ithome.com, 游戏大观, 游戏新知, 网经社) around September 29, 2026. Adaptation: initial game support reported for Valorant ('无畏契约'), CS2 and League of Keights ('英雄联盟'); the product reportedly includes a monetization layer via a 'star coin' (星币) exchange system. Why it matters: shows Tencent, the world's largest games publisher, building its own general-purpose AI companion/co-op layer across multiple AAA titles rather than a single-game feature, following its earlier AI-teammate work in 'Game for Peace' (110M+ cumulative AI-NPC users). Status: beta only; no public release date or pricing confirmed yet."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Chinese lab IQuest Research debuts IQuest-Q1, a model that turns prompts into playable mini-games",
+        "url": "https://www.qbitai.com/2026/09/499188.html",
+        "date": "2026-09-29",
+        "summary": "Chinese AI research group IQuest Research (至知创新研究院) released IQuest-Q1, a 320-billion-parameter sparse mixture-of-experts language model (15B active parameters), demonstrating that it can turn a roughly 200-word natural-language prompt into a playable, mobile-compatible HTML mini-game in about three minutes. The team also showed the model diagnosing a subtle text-decoding bug in its own reinforcement-learning training pipeline.",
+        "section": 2,
+        "facts": "Core facts: IQuest-Q1 is a 320B-parameter MoE decoder-only transformer with 15B active parameters; demo task was a ~200-word prompt ('National Holiday bedroom defense game') producing a playable HTML game with custom NPCs, health bars and randomized activity prompts in about 3 minutes. Separately, the model traced a training bug to an extra space character inserted during inference-service text decoding, which was breaking prefix matching and multi-turn generation, and the fix corrected the RL reward-curve trajectory. Background: the same team's earlier ModularRSI framework ranked #2 on Hugging Face in mid-September 2026 and improved agent benchmarks (Terminal-Bench 2.0 from 47.57% to 52.43%; SWE-Bench Verified from 73.40% to 76.45%). Why it matters: an example of a smaller, less widely known Chinese AI lab directly targeting procedural/prompt-to-game generation and AI-assisted model debugging, two of the more technical frontiers in games+AI."
+      },
+      "members": [
+        {
+          "title": "Chinese lab IQuest Research debuts IQuest-Q1, a model that turns prompts into playable mini-games",
+          "url": "https://www.qbitai.com/2026/09/499188.html",
+          "date": "2026-09-29",
+          "summary": "Chinese AI research group IQuest Research (至知创新研究院) released IQuest-Q1, a 320-billion-parameter sparse mixture-of-experts language model (15B active parameters), demonstrating that it can turn a roughly 200-word natural-language prompt into a playable, mobile-compatible HTML mini-game in about three minutes. The team also showed the model diagnosing a subtle text-decoding bug in its own reinforcement-learning training pipeline.",
+          "section": 2,
+          "facts": "Core facts: IQuest-Q1 is a 320B-parameter MoE decoder-only transformer with 15B active parameters; demo task was a ~200-word prompt ('National Holiday bedroom defense game') producing a playable HTML game with custom NPCs, health bars and randomized activity prompts in about 3 minutes. Separately, the model traced a training bug to an extra space character inserted during inference-service text decoding, which was breaking prefix matching and multi-turn generation, and the fix corrected the RL reward-curve trajectory. Background: the same team's earlier ModularRSI framework ranked #2 on Hugging Face in mid-September 2026 and improved agent benchmarks (Terminal-Bench 2.0 from 47.57% to 52.43%; SWE-Bench Verified from 73.40% to 76.45%). Why it matters: an example of a smaller, less widely known Chinese AI lab directly targeting procedural/prompt-to-game generation and AI-assisted model debugging, two of the more technical frontiers in games+AI."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Shengshu Technology's Vidu S2 powers a fully AI-generated livestream host, with game-NPC applications flagged",
+        "url": "https://www.youxituoluo.com/534924.html",
+        "date": "2026-09-30",
+        "summary": "Chinese trade outlet Youxituoluo (游戏陀螺) reported on September 30 that an AI livestream host named 'Ziyingying' drew over 300,000 viewers during a Mid-Autumn Festival broadcast, powered by Shengshu Technology's (生数科技) Vidu S2 real-time interactive model. The report frames the real-time responsiveness - handling interruptions, gifts and scene changes on the fly - as a capability with direct relevance to AI game companions and NPCs.",
+        "section": 2,
+        "facts": "Core facts: Vidu S2 (S2-Avatar/S2-Editing), released by Shengshu Technology on 2026-09-15, generates real-time 720p interactive digital-human video and can incorporate new reference images or style/wardrobe changes mid-stream. On 2026-09-30, Chinese gaming trade press covered an AI livestream host demo using this tech that attracted 300,000+ viewers, with the host dynamically handling song requests, outfit votes and gift interactions without restarting its script. Why it matters/China gaming angle: the article (published on a dedicated games-industry trade site, Youxituoluo) explicitly discusses applications of this real-time interactive-avatar tech to 'AI companions, interactive entertainment, and game NPCs,' positioning it as a building block for more responsive in-game AI characters rather than only livestream/e-commerce use."
+      },
+      "members": [
+        {
+          "title": "Shengshu Technology's Vidu S2 powers a fully AI-generated livestream host, with game-NPC applications flagged",
+          "url": "https://www.youxituoluo.com/534924.html",
+          "date": "2026-09-30",
+          "summary": "Chinese trade outlet Youxituoluo (游戏陀螺) reported on September 30 that an AI livestream host named 'Ziyingying' drew over 300,000 viewers during a Mid-Autumn Festival broadcast, powered by Shengshu Technology's (生数科技) Vidu S2 real-time interactive model. The report frames the real-time responsiveness - handling interruptions, gifts and scene changes on the fly - as a capability with direct relevance to AI game companions and NPCs.",
+          "section": 2,
+          "facts": "Core facts: Vidu S2 (S2-Avatar/S2-Editing), released by Shengshu Technology on 2026-09-15, generates real-time 720p interactive digital-human video and can incorporate new reference images or style/wardrobe changes mid-stream. On 2026-09-30, Chinese gaming trade press covered an AI livestream host demo using this tech that attracted 300,000+ viewers, with the host dynamically handling song requests, outfit votes and gift interactions without restarting its script. Why it matters/China gaming angle: the article (published on a dedicated games-industry trade site, Youxituoluo) explicitly discusses applications of this real-time interactive-avatar tech to 'AI companions, interactive entertainment, and game NPCs,' positioning it as a building block for more responsive in-game AI characters rather than only livestream/e-commerce use."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

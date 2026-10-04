@@ -1,229 +1,5 @@
 [
  {
-  "title": "AI互动内容平台Loopit开发商涌跃智能获Garena领投融资，4个月内累计近7亿元",
-  "url": "https://news.qq.com/rain/a/20260917A0D54T00",
-  "date": "2026-09-17",
-  "section": 1,
-  "posted": "2026-09-19"
- },
- {
-  "title": "Nexon新作《Pareidolia》东京电玩展亮相：端侧AI语音识别让玩家直接与NPC对话",
-  "url": "https://en.sedaily.com/technology/2026/09/19/ai-takes-center-stage-at-tokyo-game-show-2026",
-  "date": "2026-09-19",
-  "section": 1,
-  "posted": "2026-09-19"
- },
- {
-  "title": "《金刚狼》AI生成素材争议：Insomniac辟谣，浴室标牌怪异画面实为UV贴图错误",
-  "url": "https://kotaku.com/insomniac-confirms-wolverine-doesnt-contain-ai-generated-assets-after-a-weird-looking-sign-goes-viral-2000735775",
-  "date": "2026-09-18",
-  "section": 1,
-  "posted": "2026-09-19"
- },
- {
-  "title": "Anybrain调研：51%游戏开发商称因作弊蒙受收入损失，AI反外挂成头号投资方向",
-  "url": "https://www.pocketgamer.biz/51-of-game-developers-report-player-and-revenue-losses-from-cheating/",
-  "date": "2026-09-15",
-  "section": 1,
-  "posted": "2026-09-19"
- },
- {
-  "title": "PS5系统更新为PS5 Pro默认开启AI画质增强功能PSSR",
-  "url": "https://www.bgr.com/2261640/playstation-5-new-features-added-september-2026-update/",
-  "date": "2026-09-17",
-  "section": 2,
-  "posted": "2026-09-19"
- },
- {
-  "title": "报告发现手游广告创意中AI应用与投资回报存在「成熟度落差」",
-  "url": "https://gameworldobserver.com/2026/09/18/ai-creative-velocity-and-player-intelligence-are-reshaping-mobile-game-marketing",
-  "date": "2026-09-18",
-  "section": 2,
-  "posted": "2026-09-19"
- },
- {
-  "title": "深度解析：《命令与征服》与《红色警戒》背后沿用数十年的AI架构",
-  "url": "https://www.aiandgames.com/p/exploring-the-ai-of-command-conquer",
-  "date": "2026-09-14",
-  "section": 2,
-  "posted": "2026-09-19"
- },
- {
-  "title": "更新】Unity推出官方OpenAI Codex插件，含31项技能，继此前Claude Code插件之后",
-  "url": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/",
-  "date": "2026-09-19",
-  "section": 2,
-  "posted": "2026-09-19"
- },
- {
-  "title": "AI代理优化《生化危机7》使其在老旧安卓手机上运行更流畅",
-  "url": "https://wccftech.com/deepseek-v4-1-flash-hermes-boost-resident-evil-7-android-performance/",
-  "date": "2026-09-15",
-  "section": 2,
-  "posted": "2026-09-19"
- },
- {
-  "title": "动视：游戏外挂市场年规模达85亿美元，外挂制作者正使用AI",
-  "url": "https://www.gadgetreview.com/activision-says-the-video-game-cheat-market-makes-8-5-billion-a-year",
-  "date": "2026-09-18",
-  "section": 2,
-  "posted": "2026-09-19"
- },
- {
-  "title": "Tripo AI与OpenAI的GPT-6 Astra结合，加速游戏3D素材生成",
-  "url": "https://www.tipranks.com/news/company-announcements/tripo-ai-rides-openais-astra-wave-to-scale-generative-3d-adoption",
-  "date": "2026-09-15",
-  "section": 2,
-  "posted": "2026-09-19"
- },
- {
-  "title": "更新】RTX 5090二手炒价升至9500美元，AI服务器需求持续推高价格",
-  "url": "https://ts2.tech/en/rtx-5090-listings-reach-9500-but-nvidias-96-billion-quarter-runs-on-data-centers/",
-  "date": "2026-09-15",
-  "section": 2,
-  "posted": "2026-09-19"
- },
- {
-  "title": "更新】谷歌果蝇大脑AI项目扩展至挑战卡牌游戏《Balatro》",
-  "url": "https://www.androidauthority.com/google-fruit-fly-brain-sim-balatro-3712692/",
-  "date": "2026-09-18",
-  "section": 2,
-  "posted": "2026-09-19"
- },
- {
-  "title": "PS5破解圈因「AI Clanker机器」漏洞事件出现分裂",
-  "url": "https://kotaku.com/popular-playstation-hacker-calling-it-quits-due-to-ai-using-slop-kiddies-reporting-important-bug-to-sony-2000735105",
-  "date": "2026-09-16",
-  "section": 2,
-  "posted": "2026-09-19"
- },
- {
-  "title": "《战争机器：E日》将光线追踪显卡列为硬性要求，AI超分为基础配置门槛",
-  "url": "https://www.thegamer.com/gears-of-war-e-day-ray-tracing-graphics-card-unplayable-pc/",
-  "date": "2026-09-18",
-  "section": 2,
-  "posted": "2026-09-19"
- },
- {
-  "title": "ARM在开发者访谈中详解用于加速手游光照渲染的AI「神经技术」",
-  "url": "https://gamedeveloper.com/art/how-toolmakers-like-arm-work-with-devs-ft-peter-hodges",
-  "date": "2026-09-18",
-  "section": 2,
-  "posted": "2026-09-19"
- },
- {
-  "title": "更新】RyzaChat AI公布已产生逾1500万次对话，计划在东京电玩展推出「旅行模式」",
-  "url": "https://www.famitsu.com/article/202609/88477",
-  "date": "2026-09-18",
-  "section": 2,
-  "posted": "2026-09-19"
- },
- {
-  "title": "玩家将NVIDIA的DLSS 5神经渲染移植到AMD Radeon显卡上运行",
-  "url": "https://en.gamegpu.com/news/igry/dlss-5-na-amd-uskorili-vdvoe-i-podnyali-cyberpunk-2077-s-14-do-35-fps",
-  "date": "2026-09-19",
-  "section": 2,
-  "posted": "2026-09-19"
- },
- {
-  "title": "DLSS 5神经渲染使《铁拳8》在RTX 4070上帧率从60降至45",
-  "url": "https://en.gamegpu.com/news/igry/dlss-5-obrushil-fps-v-tekken-8-s-60-do-45-na-rtx-4070-v-4k",
-  "date": "2026-09-19",
-  "section": 2,
-  "posted": "2026-09-19"
- },
- {
-  "title": "DLSS 5神经渲染令RTX 30系列显卡在《控制：共鸣》中性能减半",
-  "url": "https://en.gamegpu.com/news/igry/rtx-30-teryayut-do-poloviny-fps-s-dlss-5-v-control-resonant",
-  "date": "2026-09-19",
-  "section": 2,
-  "posted": "2026-09-19"
- },
- {
-  "title": "《赛博朋克2077》DLSS 5测试显示帧率代价最高达46%，与路径追踪搭配效果最佳",
-  "url": "https://en.gamegpu.com/test-gpu/action-fps-tps/test-dlss-5-v-cyberpunk-2077-sravnenie-grafiki-i-proizvoditelnosti-s-bazovym-rezhimom",
-  "date": "2026-09-16",
-  "section": 2,
-  "posted": "2026-09-19"
- },
- {
-  "title": "更新】米哈游AI语音克隆案胜诉：上海法院认定\"不正当竞争\"，获赔11.2万美元",
-  "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
-  "date": "2026-09-18",
-  "section": 2,
-  "posted": "2026-09-19"
- },
- {
-  "title": "东京电玩展2026因台风\"梧提\"逼近取消最后一日",
-  "url": "https://www.animenewsnetwork.com/news/2026-09-19/tokyo-game-show-2026-cancels-final-day-on-monday-due-to-approaching-typhoon/.241974",
-  "date": "2026-09-19",
-  "section": 3,
-  "posted": "2026-09-19"
- },
- {
-  "title": "Dragami Games公布《恋爱丧尸：电锯甜心》新续作，东京电玩展提供可试玩版本",
-  "url": "https://www.gematsu.com/2026/09/new-lollipop-chainsaw-game-playable-at-tgs-2026",
-  "date": "2026-09-18",
-  "section": 3,
-  "posted": "2026-09-19"
- },
- {
-  "title": "真人电影版《恋爱丧尸：电锯甜心》公布",
-  "url": "https://www.animenewsnetwork.com/news/2026-09-18/live-action-lollipop-chainsaw-film-announced/.241960",
-  "date": "2026-09-18",
-  "section": 3,
-  "posted": "2026-09-19"
- },
- {
-  "title": "光荣特库摩东京电玩展直播节目公布《进击的巨人3》与《真三国无双3 Complete Edition》重制版",
-  "url": "https://monstervine.com/2026/09/koei-tecmo-tokyo-game-show-2026-lineup/",
-  "date": "2026-09-18",
-  "section": 3,
-  "posted": "2026-09-19"
- },
- {
-  "title": "《寂静岭：Townfall》东京电玩展设专属特别舞台，制作人冈本基出席",
-  "url": "https://www.konami.com/games/tgs/en/title/?id=silenthill-townfall",
-  "date": "2026-09-19",
-  "section": 3,
-  "posted": "2026-09-19"
- },
- {
-  "title": "首尔工作室YoshiYoshi公布科幻奇幻JRPG《KAELIS：炽天使协议》并启动Kickstarter众筹",
-  "url": "https://www.gematsu.com/2026/09/character-driven-single-player-sci-fantasy-jrpg-kaelis-seraph-protocol-announced-for-pc",
-  "date": "2026-09-18",
-  "section": 3,
-  "posted": "2026-09-19"
- },
- {
-  "title": "万代南梦宫东京电玩展阵容公开《皇牌空战8》公众试玩与《七龙珠 异战3》布罗利对战",
-  "url": "https://windowsreport.com/bandai-namco-confirms-tokyo-game-show-2026-tgs-lineup-featuring-ace-combat-8-and-more/",
-  "date": "2026-09-18",
-  "section": 3,
-  "posted": "2026-09-19"
- },
- {
-  "title": "世嘉/Atlus东京电玩展公众日举办《Qliphah in Providence's Shadow》上市前展示",
-  "url": "https://onemoregame.ph/2026/09/sega-atlus-tgs-2026-stage-events-schedule/",
-  "date": "2026-09-19",
-  "section": 3,
-  "posted": "2026-09-19"
- },
- {
-  "title": "合作物理潜行游戏《We Are So Cooked》延期至2027年初",
-  "url": "https://simulationdaily.com/news/today-in-gaming-news-september-18-2026/",
-  "date": "2026-09-18",
-  "section": 3,
-  "posted": "2026-09-19"
- },
- {
-  "title": "赛车游戏《NASCAR 26》登陆PC、PS5与Xbox Series",
-  "url": "https://worthplaying.com/article/2026/9/18/news/151023-friday-september-18-2026-shipping-announcements/",
-  "date": "2026-09-18",
-  "section": 3,
-  "posted": "2026-09-19"
- },
- {
   "title": "AI编程助手Claude与GPT-6 Astra合力将NVIDIA DLSS 5神经渲染移植到Intel集成显卡",
   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-vibe-codes-dlss-5-onto-intel-arc-140t-integrated-graphics-run-neural-rendering-in-360p-at-10-frames-per-second",
   "date": "2026-09-18",
@@ -2448,5 +2224,117 @@
   "date": "2026-10-02",
   "section": 3,
   "posted": "2026-10-03"
+ },
+ {
+  "title": "日本CESA调查：85.8%的游戏开发者已在使用生成式AI，一年前仅为51%",
+  "url": "https://kotaku.com/over-85-percent-of-japanese-game-developers-are-using-ai-2000736041",
+  "date": "2026-09-30",
+  "section": 1,
+  "posted": "2026-10-04"
+ },
+ {
+  "title": "36氪：AI正在拉大中国大型游戏厂商与中小开发者之间的差距",
+  "url": "https://36kr.com/p/4010750691217539",
+  "date": "2026-10-04",
+  "section": 1,
+  "posted": "2026-10-04"
+ },
+ {
+  "title": "快手可灵AI开放Kling 4.0 Flash抢先体验，完整版本10月上线",
+  "url": "https://www.ithome.com/1/008/073.htm",
+  "date": "2026-09-29",
+  "section": 1,
+  "posted": "2026-10-04"
+ },
+ {
+  "title": "中国研究团队\"至知创新研究院\"发布IQuest-Q1：可将文字提示转化为可玩小游戏",
+  "url": "https://www.qbitai.com/2026/09/499188.html",
+  "date": "2026-09-29",
+  "section": 1,
+  "posted": "2026-10-04"
+ },
+ {
+  "title": "Stardock发布本地AI生产力平台\"Clairvoyance\"，CEO称其有望成为公司最大营收来源",
+  "url": "https://gamesbeat.com/stardock-unveils-clairvoyance-ai-productivity-tools-for-game-devs/",
+  "date": "2026-10-02",
+  "section": 1,
+  "posted": "2026-10-04"
+ },
+ {
+  "title": "> 经过西方/全球与中文两路广泛搜索、逐条核实，并与过去14天已发布条目比对后，本周（2026-09-27 至 2026-10-04）排除重复报道后仅余 3 条达到本部分标准的新条目，远低于20条下限；搜索预算（WebSearch调用次数）在核实过程中耗尽，限制了进一步挖掘，现发布实际找到并通过核实的全部3条，不作填充。",
+  "url": "https://www.videogameschronicle.com/news/banjo-kazooie-pc-port-decomp-developer-says-ai-generated-pc-ports-are-a-race-to-the-bottom-and-disrespectful/",
+  "date": "2026-10-03",
+  "section": 2,
+  "posted": "2026-10-04"
+ },
+ {
+  "title": "Roblox详述平台安全架构，包括对AI编程工具的防护机制",
+  "url": "https://about.roblox.com/newsroom/2026/10/securing-an-ecosystem-unlike-any-other",
+  "date": "2026-10-02",
+  "section": 2,
+  "posted": "2026-10-04"
+ },
+ {
+  "title": "生数科技Vidu S2支持AI直播主播实时互动，报道称可应用于游戏NPC",
+  "url": "https://www.youxituoluo.com/534924.html",
+  "date": "2026-09-30",
+  "section": 2,
+  "posted": "2026-10-04"
+ },
+ {
+  "title": "Jagex宣布新《RuneScape》MMO「RS4」，距离上线仍需数年",
+  "url": "https://www.gematsu.com/2026/10/new-runescape-mmo-rs4-announced",
+  "date": "2026-10-03",
+  "section": 3,
+  "posted": "2026-10-04"
+ },
+ {
+  "title": "动视与Bethesda向AI生成的《辐射》《使命召唤：现代战争2》同人项目发出停止侵权函",
+  "url": "https://kotaku.com/activision-and-bethesda-crackdown-on-genai-mw2-and-fallout-projects-2000739580",
+  "date": "2026-10-03",
+  "section": 3,
+  "posted": "2026-10-04"
+ },
+ {
+  "title": "据报道，又一高知名度PSN账号遭社交工程攻击盗取",
+  "url": "https://www.pushsquare.com/news/2026/10/yet-more-ps5-security-concerns-as-another-high-profile-account-is-hacked",
+  "date": "2026-10-03",
+  "section": 3,
+  "posted": "2026-10-04"
+ },
+ {
+  "title": "PlatinumGames暗示《猎天使魔女》系列仍将继续，尽管多名核心开发者已离职",
+  "url": "https://www.videogameschronicle.com/news/platinum-suggests-more-bayonetta-is-coming-despite-exodus-of-lead-developers/",
+  "date": "2026-10-04",
+  "section": 3,
+  "posted": "2026-10-04"
+ },
+ {
+  "title": "《最终幻想7：重生》三部曲导演滨口：保持剧情完整\"并不容易\"",
+  "url": "https://www.videogameschronicle.com/news/hamaguchi-it-wasnt-easy-to-keep-the-ff7-remake-trilogy-plot-intact-and-not-turn-it-into-his-own-personal-fan-project/",
+  "date": "2026-10-04",
+  "section": 3,
+  "posted": "2026-10-04"
+ },
+ {
+  "title": "《最终幻想7：启示录》导演称自己曾争取推出实体版",
+  "url": "https://www.videogameschronicle.com/news/i-did-my-best-final-fantasy-7-revelation-director-says-he-argued-for-physical-version/",
+  "date": "2026-10-04",
+  "section": 3,
+  "posted": "2026-10-04"
+ },
+ {
+  "title": "《GTA VI》主角登上《周六夜现场》进行最后宣传",
+  "url": "https://kotaku.com/gta-vis-jason-duval-and-link-make-their-final-pitch-on-saturday-night-live-2000739644",
+  "date": "2026-10-04",
+  "section": 3,
+  "posted": "2026-10-04"
+ },
+ {
+  "title": "Digital Foundry对《巫师3：狂猎重制版》Switch 2版本给出技术测评",
+  "url": "https://www.nintendolife.com/news/2026/10/a-colossal-upgrade-digital-foundry-delivers-its-tech-verdict-for-the-witcher-3-remastered-on-switch-2",
+  "date": "2026-10-04",
+  "section": 3,
+  "posted": "2026-10-04"
  }
 ]

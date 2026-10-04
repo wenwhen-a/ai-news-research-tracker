@@ -1,0 +1,1 @@
+- **【Digital Foundry对《巫师3：狂猎重制版》Switch 2版本给出技术测评】**（2026-10-04）— Digital Foundry的技术分析称《巫师3：狂猎重制版》Switch 2版本相较原版Switch版是"一次巨大的升级"，并表示值得推荐给Switch 2用户购买。 <https://www.nintendolife.com/news/2026/10/a-colossal-upgrade-digital-foundry-delivers-its-tech-verdict-for-the-witcher-3-remastered-on-switch-2>
