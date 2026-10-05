@@ -1,0 +1,16 @@
+**[新闻 1] NVIDIA发布RTX Mega Geometry技术，解决UE5 Nanite光追难题并将纳入DirectX标准**
+- **日期：** 2026-10-01
+- **来源链接：** <https://www.nvidia.com/en-us/geforce/news/gears-of-war-e-day-dlss-4-5-ray-tracing-rtx-mega-geometry/>
+- **核心事实：**
+  - NVIDIA于2026年10月1日正式宣布历时六年研发的"RTX Mega Geometry"技术，并随Xbox新作《Gears of War: E-Day》首发同步上线。
+  - 该技术解决了Unreal Engine 5 Nanite虚拟几何体系统与光线追踪长期不兼容的问题：此前Nanite物体在光追计算中会被降级为低细节模型并产生视觉瑕疵，RTX Mega Geometry使"所有UE5游戏中的Nanite物体均可实现光线追踪"。
+  - NVIDIA表示该技术将被纳入微软DirectX Raytracing 2.0标准。
+  - 配合DLSS 4.5（含超分辨率、帧生成与动态多帧生成），GeForce RTX 50系列最高支持6倍帧生成倍率；4K Ultra光追档位下RTX 5090约410帧/秒（7.5倍倍率），RTX 5080超290帧/秒，RTX 5070 Ti约250帧/秒；NVIDIA Reflex在战役模式下最高可降低50%的PC端延迟。
+  - 该技术要求至少12GB显存的GeForce RTX显卡，并同步支持PC、笔记本及GeForce NOW云游戏平台。
+- **背景与起因：**
+  - Unreal Engine 5的Nanite虚拟几何体技术自推出以来大幅提升静态场景细节密度，但与光线追踪管线存在根本性冲突，是UE5光追游戏长期存在的技术瓶颈。
+  - NVIDIA近年持续推进RTX神经渲染与DLSS技术栈（DLSS 4.5、RTX Kit等），意在巩固其在游戏图形AI渲染领域的技术领先地位，应对AMD FSR与Intel XeSS的竞争压力。
+  - 《Gears of War: E-Day》作为微软Xbox旗下重磅新作，被NVIDIA选为展示新一代RTX渲染技术的首发窗口游戏。
+- **结果与进展：**
+  - 技术已在《Gears of War: E-Day》首发当天即可实际使用，NVIDIA同步公布了多档显卡的具体帧率测试数据。
+  - 由于将被纳入DirectX Raytracing 2.0标准，该技术预计未来会被更广泛的游戏引擎与开发者采用，而不仅限于NVIDIA自有生态。

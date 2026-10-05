@@ -1,0 +1,753 @@
+{
+  "as_of": "2026-10-05",
+  "cutoff": "2026-09-28",
+  "window_days": 7,
+  "summary": {
+    "input_items": 25,
+    "denied_source": 0,
+    "in_window": 25,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 23,
+    "duplicate_clusters": 2,
+    "section1_count": 7,
+    "section2_count": 16,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": true,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 8,
+    "previously_covered_count": 15
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Capcom公布REX工程AI化战略，目标打造\"AI游戏引擎\"",
+        "url": "https://www.videogameschronicle.com/news/capcom-details-plans-to-evolve-re-engine-into-an-ai-generation-game-engine",
+        "url2": "https://www.nintendolife.com/news/2026/10/capcom-is-looking-to-evolve-its-re-engine-into-an-ai-generation-game-engine",
+        "date": "2026-10-03",
+        "section": 1,
+        "facts": [
+          "10月2日至3日，Capcom在东京举办的\"CAPCOM オープンカンファレンス RE:2026\"上公布代号REX的RE Engine下一代升级计划，核心方向是把引擎演进为程序员石田尚（Satoshi Ishida）所说的\"AI游戏引擎\"。",
+          "具体做法包括采用更易被AI理解的编程语言，让AI能够自动生成代码并执行自动化测试、查找Bug。",
+          "Capcom表示将把部分底层技术公开上线，供外部用于AI训练。",
+          "副社长井上伸一（Shinichi Inoue）强调，公司对AI的定位\"不是用来创作美术，而是释放创作者的潜能\"，强调人机协作而非替代创作者。",
+          "会议上展示了基于大语言模型的辅助工具\"REAssistAI\"以及AI自动化巡游测试（playtest QA）等技术演示。",
+          "RE Engine自2017年《生化危机7》起已支撑近30款作品，是Capcom近年商业成功的重要技术基础。"
+        ],
+        "background": [
+          "三A游戏开发成本与周期持续攀升，QA排错、重复性编码等环节占用大量人力，是包括Capcom在内的主要厂商希望借AI缓解的共同痛点。",
+          "同业Square Enix此前已公开目标在2027年底前用生成式AI完成70%的QA与调试工作，索尼等平台也在全力推动AI辅助开发，行业竞争压力促使Capcom加快引擎AI化步伐。",
+          "Capcom此前已与Google Cloud合作搭建AI自动化playtest平台（2026年4月披露，以《怪物猎人物语3》为案例），REX计划是此前布局在引擎层面的延续与扩大。"
+        ],
+        "results": [
+          "会议现场已展示REAssistAI等工具原型及AI自动化QA测试演示，技术已进入可公开展示阶段。",
+          "公司明确表态AI不会取代美术与创作人员，意在回应玩家与行业对\"AI替代创作\"的担忧。",
+          "REX相关技术将逐步整合进现行RE Engine而非另起炉灶，具体商用上线时间表尚未公布。"
+        ]
+      },
+      "members": [
+        {
+          "title": "Capcom公布REX工程AI化战略，目标打造\"AI游戏引擎\"",
+          "url": "https://www.videogameschronicle.com/news/capcom-details-plans-to-evolve-re-engine-into-an-ai-generation-game-engine",
+          "url2": "https://www.nintendolife.com/news/2026/10/capcom-is-looking-to-evolve-its-re-engine-into-an-ai-generation-game-engine",
+          "date": "2026-10-03",
+          "section": 1,
+          "facts": [
+            "10月2日至3日，Capcom在东京举办的\"CAPCOM オープンカンファレンス RE:2026\"上公布代号REX的RE Engine下一代升级计划，核心方向是把引擎演进为程序员石田尚（Satoshi Ishida）所说的\"AI游戏引擎\"。",
+            "具体做法包括采用更易被AI理解的编程语言，让AI能够自动生成代码并执行自动化测试、查找Bug。",
+            "Capcom表示将把部分底层技术公开上线，供外部用于AI训练。",
+            "副社长井上伸一（Shinichi Inoue）强调，公司对AI的定位\"不是用来创作美术，而是释放创作者的潜能\"，强调人机协作而非替代创作者。",
+            "会议上展示了基于大语言模型的辅助工具\"REAssistAI\"以及AI自动化巡游测试（playtest QA）等技术演示。",
+            "RE Engine自2017年《生化危机7》起已支撑近30款作品，是Capcom近年商业成功的重要技术基础。"
+          ],
+          "background": [
+            "三A游戏开发成本与周期持续攀升，QA排错、重复性编码等环节占用大量人力，是包括Capcom在内的主要厂商希望借AI缓解的共同痛点。",
+            "同业Square Enix此前已公开目标在2027年底前用生成式AI完成70%的QA与调试工作，索尼等平台也在全力推动AI辅助开发，行业竞争压力促使Capcom加快引擎AI化步伐。",
+            "Capcom此前已与Google Cloud合作搭建AI自动化playtest平台（2026年4月披露，以《怪物猎人物语3》为案例），REX计划是此前布局在引擎层面的延续与扩大。"
+          ],
+          "results": [
+            "会议现场已展示REAssistAI等工具原型及AI自动化QA测试演示，技术已进入可公开展示阶段。",
+            "公司明确表态AI不会取代美术与创作人员，意在回应玩家与行业对\"AI替代创作\"的担忧。",
+            "REX相关技术将逐步整合进现行RE Engine而非另起炉灶，具体商用上线时间表尚未公布。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "索尼推出QSSR技术，为标准版PS5带来AI画面升频",
+        "url": "https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/",
+        "url2": "https://www.videogameschronicle.com/news/remarkable-sony-reveals-new-ps5-upscaler-tech-qssr/",
+        "date": "2026-10-01",
+        "section": 1,
+        "facts": [
+          "索尼互动娱乐图形研发首席工程师Daniel Craig于2026年10月1日在PlayStation官方博客宣布推出\"Quick Spectral Super Resolution\"（QSSR），一种面向标准版PS5主机的AI图像升频技术。",
+          "QSSR是PS5 Pro专属的PSSR（PlayStation Spectral Super Resolution）的\"轻量化演进版\"，采用更精简的神经网络架构，并针对标准PS5硬件进行了专门调优。",
+          "首批支持游戏为《Marvel's Wolverine》和《Ghost of Yōtei》，两款游戏已于同日上线补丁，将QSSR作为可选图形设置项。",
+          "Insomniac Games称QSSR为画面带来\"更精细的像素级清晰度与稳定性\"；Sucker Punch Productions称其\"在解析角色与环境细节上表现出色\"，带来\"标准PS5主机此前从未实现过的时间稳定性\"。",
+          "索尼表示QSSR将\"广泛提供\"给所有PlayStation开发者使用，但强调PSSR在PS5 Pro上仍是\"画质金标准\"，QSSR并非要取代它。"
+        ],
+        "background": [
+          "此前PSSR仅限PS5 Pro搭载，因其机器学习推理对算力要求较高，标准版PS5难以承载完整版实现。",
+          "该技术源自索尼与AMD长期图形合作项目\"Project Amethyst\"的研发成果。",
+          "索尼此前已在多个场合公开表态将AI视为提升开发效率与画质的工具而非取代创作者的手段，QSSR是这一战略在硬件渲染层面的具体落地。"
+        ],
+        "results": [
+          "《Marvel's Wolverine》与《Ghost of Yōtei》玩家已可在标准PS5上体验QSSR效果，媒体实测显示其在《Wolverine》中改善明显，而《Ghost of Yōtei》因原画质已较好，提升相对有限。",
+          "索尼表示将逐步向更多第一方与第三方开发者推广QSSR，预计未来更多PS5在售游戏将陆续加入支持。"
+        ]
+      },
+      "members": [
+        {
+          "title": "索尼推出QSSR技术，为标准版PS5带来AI画面升频",
+          "url": "https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/",
+          "url2": "https://www.videogameschronicle.com/news/remarkable-sony-reveals-new-ps5-upscaler-tech-qssr/",
+          "date": "2026-10-01",
+          "section": 1,
+          "facts": [
+            "索尼互动娱乐图形研发首席工程师Daniel Craig于2026年10月1日在PlayStation官方博客宣布推出\"Quick Spectral Super Resolution\"（QSSR），一种面向标准版PS5主机的AI图像升频技术。",
+            "QSSR是PS5 Pro专属的PSSR（PlayStation Spectral Super Resolution）的\"轻量化演进版\"，采用更精简的神经网络架构，并针对标准PS5硬件进行了专门调优。",
+            "首批支持游戏为《Marvel's Wolverine》和《Ghost of Yōtei》，两款游戏已于同日上线补丁，将QSSR作为可选图形设置项。",
+            "Insomniac Games称QSSR为画面带来\"更精细的像素级清晰度与稳定性\"；Sucker Punch Productions称其\"在解析角色与环境细节上表现出色\"，带来\"标准PS5主机此前从未实现过的时间稳定性\"。",
+            "索尼表示QSSR将\"广泛提供\"给所有PlayStation开发者使用，但强调PSSR在PS5 Pro上仍是\"画质金标准\"，QSSR并非要取代它。"
+          ],
+          "background": [
+            "此前PSSR仅限PS5 Pro搭载，因其机器学习推理对算力要求较高，标准版PS5难以承载完整版实现。",
+            "该技术源自索尼与AMD长期图形合作项目\"Project Amethyst\"的研发成果。",
+            "索尼此前已在多个场合公开表态将AI视为提升开发效率与画质的工具而非取代创作者的手段，QSSR是这一战略在硬件渲染层面的具体落地。"
+          ],
+          "results": [
+            "《Marvel's Wolverine》与《Ghost of Yōtei》玩家已可在标准PS5上体验QSSR效果，媒体实测显示其在《Wolverine》中改善明显，而《Ghost of Yōtei》因原画质已较好，提升相对有限。",
+            "索尼表示将逐步向更多第一方与第三方开发者推广QSSR，预计未来更多PS5在售游戏将陆续加入支持。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "NVIDIA发布RTX Mega Geometry技术，解决UE5 Nanite光追难题并将纳入DirectX标准",
+        "url": "https://www.nvidia.com/en-us/geforce/news/gears-of-war-e-day-dlss-4-5-ray-tracing-rtx-mega-geometry/",
+        "date": "2026-10-01",
+        "section": 1,
+        "facts": [
+          "NVIDIA于2026年10月1日正式宣布历时六年研发的\"RTX Mega Geometry\"技术，并随Xbox新作《Gears of War: E-Day》首发同步上线。",
+          "该技术解决了Unreal Engine 5 Nanite虚拟几何体系统与光线追踪长期不兼容的问题：此前Nanite物体在光追计算中会被降级为低细节模型并产生视觉瑕疵，RTX Mega Geometry使\"所有UE5游戏中的Nanite物体均可实现光线追踪\"。",
+          "NVIDIA表示该技术将被纳入微软DirectX Raytracing 2.0标准。",
+          "配合DLSS 4.5（含超分辨率、帧生成与动态多帧生成），GeForce RTX 50系列最高支持6倍帧生成倍率；4K Ultra光追档位下RTX 5090约410帧/秒（7.5倍倍率），RTX 5080超290帧/秒，RTX 5070 Ti约250帧/秒；NVIDIA Reflex在战役模式下最高可降低50%的PC端延迟。",
+          "该技术要求至少12GB显存的GeForce RTX显卡，并同步支持PC、笔记本及GeForce NOW云游戏平台。"
+        ],
+        "background": [
+          "Unreal Engine 5的Nanite虚拟几何体技术自推出以来大幅提升静态场景细节密度，但与光线追踪管线存在根本性冲突，是UE5光追游戏长期存在的技术瓶颈。",
+          "NVIDIA近年持续推进RTX神经渲染与DLSS技术栈（DLSS 4.5、RTX Kit等），意在巩固其在游戏图形AI渲染领域的技术领先地位，应对AMD FSR与Intel XeSS的竞争压力。",
+          "《Gears of War: E-Day》作为微软Xbox旗下重磅新作，被NVIDIA选为展示新一代RTX渲染技术的首发窗口游戏。"
+        ],
+        "results": [
+          "技术已在《Gears of War: E-Day》首发当天即可实际使用，NVIDIA同步公布了多档显卡的具体帧率测试数据。",
+          "由于将被纳入DirectX Raytracing 2.0标准，该技术预计未来会被更广泛的游戏引擎与开发者采用，而不仅限于NVIDIA自有生态。"
+        ]
+      },
+      "members": [
+        {
+          "title": "NVIDIA发布RTX Mega Geometry技术，解决UE5 Nanite光追难题并将纳入DirectX标准",
+          "url": "https://www.nvidia.com/en-us/geforce/news/gears-of-war-e-day-dlss-4-5-ray-tracing-rtx-mega-geometry/",
+          "date": "2026-10-01",
+          "section": 1,
+          "facts": [
+            "NVIDIA于2026年10月1日正式宣布历时六年研发的\"RTX Mega Geometry\"技术，并随Xbox新作《Gears of War: E-Day》首发同步上线。",
+            "该技术解决了Unreal Engine 5 Nanite虚拟几何体系统与光线追踪长期不兼容的问题：此前Nanite物体在光追计算中会被降级为低细节模型并产生视觉瑕疵，RTX Mega Geometry使\"所有UE5游戏中的Nanite物体均可实现光线追踪\"。",
+            "NVIDIA表示该技术将被纳入微软DirectX Raytracing 2.0标准。",
+            "配合DLSS 4.5（含超分辨率、帧生成与动态多帧生成），GeForce RTX 50系列最高支持6倍帧生成倍率；4K Ultra光追档位下RTX 5090约410帧/秒（7.5倍倍率），RTX 5080超290帧/秒，RTX 5070 Ti约250帧/秒；NVIDIA Reflex在战役模式下最高可降低50%的PC端延迟。",
+            "该技术要求至少12GB显存的GeForce RTX显卡，并同步支持PC、笔记本及GeForce NOW云游戏平台。"
+          ],
+          "background": [
+            "Unreal Engine 5的Nanite虚拟几何体技术自推出以来大幅提升静态场景细节密度，但与光线追踪管线存在根本性冲突，是UE5光追游戏长期存在的技术瓶颈。",
+            "NVIDIA近年持续推进RTX神经渲染与DLSS技术栈（DLSS 4.5、RTX Kit等），意在巩固其在游戏图形AI渲染领域的技术领先地位，应对AMD FSR与Intel XeSS的竞争压力。",
+            "《Gears of War: E-Day》作为微软Xbox旗下重磅新作，被NVIDIA选为展示新一代RTX渲染技术的首发窗口游戏。"
+          ],
+          "results": [
+            "技术已在《Gears of War: E-Day》首发当天即可实际使用，NVIDIA同步公布了多档显卡的具体帧率测试数据。",
+            "由于将被纳入DirectX Raytracing 2.0标准，该技术预计未来会被更广泛的游戏引擎与开发者采用，而不仅限于NVIDIA自有生态。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "BGIES 2026调查：35%游戏公司老板因AI减少招聘，行业出现薪资与就业结构性错配",
+        "url": "https://www.youxituoluo.com/534930.html",
+        "date": "2026-09-30",
+        "section": 1,
+        "facts": [
+          "据游戏陀螺2026年9月30日报道，BGIES 2026调查覆盖全球90个国家、超过1800名游戏从业者，发现35%的游戏公司创始人/老板表示，因AI工具已可完成相应工作而减少了招聘支出。",
+          "78%受访从业者称AI已改变其工作方式，其中33%称变化显著；61%担心被要求以更快速度产出更多成果；55%的开发者过去一年未获得任何相关培训；仅26%认为自己的职业发展仍有成长空间。",
+          "调查显示招聘减少并非直接体现为大规模裁员，而是企业转向\"核心+外围\"用人模式：全职岗位缩减的同时，外包与自由职业者相关支出反而增加55%。",
+          "报告以Level-5等大型工作室为例，指出其正试图借助AI将原本5年的开发周期压缩至2年。",
+          "数据显示设计岗位薪资中位数从3.45万欧元降至2.6万欧元，员工净推荐值（eNPS）从+9.7骤降至-9.8。"
+        ],
+        "background": [
+          "生成式AI工具（代码生成、美术生成、QA自动化等）近年在游戏行业渗透率快速上升，企业管理层希望借此控制成本、压缩开发周期并应对市场竞争。",
+          "但\"核心+外围\"模式让全职岗位缩减、外包增加，反映出行业在尚未建立配套培训和职业发展机制的情况下，仓促将AI节省的成本转化为用人结构调整，而非真正提升从业者待遇或技能。"
+        ],
+        "results": [
+          "调查显示出现\"企业招不到人、自由职业者却找不到工作\"的结构性错配现象，市场收入增长与就业增长出现脱钩。",
+          "薪资中位数与员工推荐度的双重下滑表明新人获取从业经验的机会正在变窄，可能对行业人才储备造成长期影响。"
+        ]
+      },
+      "members": [
+        {
+          "title": "BGIES 2026调查：35%游戏公司老板因AI减少招聘，行业出现薪资与就业结构性错配",
+          "url": "https://www.youxituoluo.com/534930.html",
+          "date": "2026-09-30",
+          "section": 1,
+          "facts": [
+            "据游戏陀螺2026年9月30日报道，BGIES 2026调查覆盖全球90个国家、超过1800名游戏从业者，发现35%的游戏公司创始人/老板表示，因AI工具已可完成相应工作而减少了招聘支出。",
+            "78%受访从业者称AI已改变其工作方式，其中33%称变化显著；61%担心被要求以更快速度产出更多成果；55%的开发者过去一年未获得任何相关培训；仅26%认为自己的职业发展仍有成长空间。",
+            "调查显示招聘减少并非直接体现为大规模裁员，而是企业转向\"核心+外围\"用人模式：全职岗位缩减的同时，外包与自由职业者相关支出反而增加55%。",
+            "报告以Level-5等大型工作室为例，指出其正试图借助AI将原本5年的开发周期压缩至2年。",
+            "数据显示设计岗位薪资中位数从3.45万欧元降至2.6万欧元，员工净推荐值（eNPS）从+9.7骤降至-9.8。"
+          ],
+          "background": [
+            "生成式AI工具（代码生成、美术生成、QA自动化等）近年在游戏行业渗透率快速上升，企业管理层希望借此控制成本、压缩开发周期并应对市场竞争。",
+            "但\"核心+外围\"模式让全职岗位缩减、外包增加，反映出行业在尚未建立配套培训和职业发展机制的情况下，仓促将AI节省的成本转化为用人结构调整，而非真正提升从业者待遇或技能。"
+          ],
+          "results": [
+            "调查显示出现\"企业招不到人、自由职业者却找不到工作\"的结构性错配现象，市场收入增长与就业增长出现脱钩。",
+            "薪资中位数与员工推荐度的双重下滑表明新人获取从业经验的机会正在变窄，可能对行业人才储备造成长期影响。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Unity为AI编程智能体Grok Build推出官方插件",
+        "url": "https://unity.com/blog/unity-plugin-grok",
+        "date": "2026-10-01",
+        "section": 2,
+        "summary": "Unity于2026年10月1日官方宣布为AI编程智能体Grok Build推出官方插件，使其成为继Claude Code、Codex之后第三个获得Unity官方工程支持的AI编码助手。插件提供覆盖UI Toolkit、2D/Tilemap、URP与Shader Graph、音频、导航、物理、内购、多人联机等领域的30余项\"技能\"，三款插件的技能库由同一代码仓库统一维护以保证一致性。该插件已可在Unity 6及以上版本中通过终端命令直接安装使用。"
+      },
+      "members": [
+        {
+          "title": "Unity为AI编程智能体Grok Build推出官方插件",
+          "url": "https://unity.com/blog/unity-plugin-grok",
+          "date": "2026-10-01",
+          "section": 2,
+          "summary": "Unity于2026年10月1日官方宣布为AI编程智能体Grok Build推出官方插件，使其成为继Claude Code、Codex之后第三个获得Unity官方工程支持的AI编码助手。插件提供覆盖UI Toolkit、2D/Tilemap、URP与Shader Graph、音频、导航、物理、内购、多人联机等领域的30余项\"技能\"，三款插件的技能库由同一代码仓库统一维护以保证一致性。该插件已可在Unity 6及以上版本中通过终端命令直接安装使用。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Roblox披露引入AI编程工具前的安全把关方法",
+        "url": "https://about.roblox.com/newsroom/2026/10/securing-an-ecosystem-unlike-any-other",
+        "date": "2026-10-02",
+        "section": 2,
+        "summary": "Roblox于2026年10月2日在官方Newsroom发文，披露其在向内部工程团队开放AI编程工具前，先在\"沙盒环境\"中验证相关安全措施的做法。文章称公司将AI工具引入视为\"需要解决的工程与安全问题\"，采取\"测试—建立防护—再信任并监控\"的渐进策略，而非简单批准或全面禁止。文中强调，由于平台每天要执行数百万外部创作者提交的不受信任代码，其安全挑战与传统企业场景本质不同，因此更注重让\"安全路径成为最简单路径\"的自动化防护机制。"
+      },
+      "members": [
+        {
+          "title": "Roblox披露引入AI编程工具前的安全把关方法",
+          "url": "https://about.roblox.com/newsroom/2026/10/securing-an-ecosystem-unlike-any-other",
+          "date": "2026-10-02",
+          "section": 2,
+          "summary": "Roblox于2026年10月2日在官方Newsroom发文，披露其在向内部工程团队开放AI编程工具前，先在\"沙盒环境\"中验证相关安全措施的做法。文章称公司将AI工具引入视为\"需要解决的工程与安全问题\"，采取\"测试—建立防护—再信任并监控\"的渐进策略，而非简单批准或全面禁止。文中强调，由于平台每天要执行数百万外部创作者提交的不受信任代码，其安全挑战与传统企业场景本质不同，因此更注重让\"安全路径成为最简单路径\"的自动化防护机制。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《CONTROL Resonant》上线即原生支持DLSS 4.5光线重建与路径追踪",
+        "url": "https://www.nvidia.com/en-us/geforce/news/control-resonant-path-tracing-dlss-4-5-ray-reconstruction/",
+        "date": "2026-09-29",
+        "section": 2,
+        "summary": "NVIDIA官方于2026年9月29日宣布，Remedy新作《CONTROL Resonant》正式发售并原生支持DLSS 4.5技术，包括AI降噪的Ray Reconstruction（光线重建）、超分辨率及最高6倍动态多帧生成。该游戏采用完整路径追踪渲染直接与间接光照、反射及全局光照，GeForce RTX 5090在4K Ultra画质下可达约320帧/秒。Ray Reconstruction会在开启Ultra光追预设时自动启用，用AI神经网络取代传统手调降噪器以提升画面稳定性。"
+      },
+      "members": [
+        {
+          "title": "《CONTROL Resonant》上线即原生支持DLSS 4.5光线重建与路径追踪",
+          "url": "https://www.nvidia.com/en-us/geforce/news/control-resonant-path-tracing-dlss-4-5-ray-reconstruction/",
+          "date": "2026-09-29",
+          "section": 2,
+          "summary": "NVIDIA官方于2026年9月29日宣布，Remedy新作《CONTROL Resonant》正式发售并原生支持DLSS 4.5技术，包括AI降噪的Ray Reconstruction（光线重建）、超分辨率及最高6倍动态多帧生成。该游戏采用完整路径追踪渲染直接与间接光照、反射及全局光照，GeForce RTX 5090在4K Ultra画质下可达约320帧/秒。Ray Reconstruction会在开启Ultra光追预设时自动启用，用AI神经网络取代传统手调降噪器以提升画面稳定性。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "造梦次元AI数字人\"紫樱\"自主开播，Vidu S2将游戏NPC列为应用场景",
+        "url": "https://www.youxituoluo.com/534924.html",
+        "date": "2026-09-30",
+        "section": 2,
+        "summary": "据游戏陀螺2026年9月30日报道，造梦次元基于\"最强实时互动模型\"Vidu S2打造的AI主播\"紫樱\"在中秋夜直播中实现自主开播，单场一度涌入2万观众。文章指出Vidu S2已将游戏NPC列为重点应用场景之一，未来有望实现NPC根据玩家提问动态响应并记忆交互历史，此前该技术已应用于《地铁跑酷》等游戏相关直播场景。文章同时介绍了其实时换装、改画风等编辑功能，可将传统后期制作环节前置到直播过程中完成。"
+      },
+      "members": [
+        {
+          "title": "造梦次元AI数字人\"紫樱\"自主开播，Vidu S2将游戏NPC列为应用场景",
+          "url": "https://www.youxituoluo.com/534924.html",
+          "date": "2026-09-30",
+          "section": 2,
+          "summary": "据游戏陀螺2026年9月30日报道，造梦次元基于\"最强实时互动模型\"Vidu S2打造的AI主播\"紫樱\"在中秋夜直播中实现自主开播，单场一度涌入2万观众。文章指出Vidu S2已将游戏NPC列为重点应用场景之一，未来有望实现NPC根据玩家提问动态响应并记忆交互历史，此前该技术已应用于《地铁跑酷》等游戏相关直播场景。文章同时介绍了其实时换装、改画风等编辑功能，可将传统后期制作环节前置到直播过程中完成。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "PocketGamer汇总多家厂商高管谈AI在游戏业的实际应用现状",
+        "url": "https://www.pocketgamer.biz/how-developers-are-using-ai-right-now/",
+        "date": "2026-10-05",
+        "section": 2,
+        "summary": "PocketGamer.biz于2026年10月5日发布报道，汇总NCSOFT旗下Veroplay、Hypergryph、Fingersoft、Mattel163等多家公司高管对AI实际应用的介绍。受访者提到AI已被用于同时开发多款游戏、编程辅助、本地化与自动化测试、季节内容制作，以及将买量素材制作成本降至常规的70%-80%（Veroplay数据）。报道同时提到部分公司反馈AI在数据分析上收益显著，但在Unity开发与美术环节的提升仍属渐进式而非颠覆式。"
+      },
+      "members": [
+        {
+          "title": "PocketGamer汇总多家厂商高管谈AI在游戏业的实际应用现状",
+          "url": "https://www.pocketgamer.biz/how-developers-are-using-ai-right-now/",
+          "date": "2026-10-05",
+          "section": 2,
+          "summary": "PocketGamer.biz于2026年10月5日发布报道，汇总NCSOFT旗下Veroplay、Hypergryph、Fingersoft、Mattel163等多家公司高管对AI实际应用的介绍。受访者提到AI已被用于同时开发多款游戏、编程辅助、本地化与自动化测试、季节内容制作，以及将买量素材制作成本降至常规的70%-80%（Veroplay数据）。报道同时提到部分公司反馈AI在数据分析上收益显著，但在Unity开发与美术环节的提升仍属渐进式而非颠覆式。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "瑞典游戏集团MTG计划借AI实现规模翻倍",
+        "url": "https://www.pocketgamer.biz/mtg-wants-to-double-its-size-while-leveraging-ai/",
+        "date": "2026-09-30",
+        "section": 2,
+        "summary": "据PocketGamer.biz2026年9月30日报道，瑞典游戏集团Modern Times Group（MTG，旗下包括InnoGames、Plarium、Ninja Kiwi、Hutch等工作室）CEO Maria Redin表示，公司计划通过精选并购与自然增长，在未来3-5年内将规模再翻一倍。MTG采取\"去中心化\"AI策略：设立集中化AI Lab的同时，允许各工作室在白名单工具范围内自主试验AI，目标是放大产能（让团队能同时开发多款游戏）而非削减人力。Redin强调被收购工作室将保持独立运营，同时共享技术与经验。"
+      },
+      "members": [
+        {
+          "title": "瑞典游戏集团MTG计划借AI实现规模翻倍",
+          "url": "https://www.pocketgamer.biz/mtg-wants-to-double-its-size-while-leveraging-ai/",
+          "date": "2026-09-30",
+          "section": 2,
+          "summary": "据PocketGamer.biz2026年9月30日报道，瑞典游戏集团Modern Times Group（MTG，旗下包括InnoGames、Plarium、Ninja Kiwi、Hutch等工作室）CEO Maria Redin表示，公司计划通过精选并购与自然增长，在未来3-5年内将规模再翻一倍。MTG采取\"去中心化\"AI策略：设立集中化AI Lab的同时，允许各工作室在白名单工具范围内自主试验AI，目标是放大产能（让团队能同时开发多款游戏）而非削减人力。Redin强调被收购工作室将保持独立运营，同时共享技术与经验。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "广告技术公司Layer推出AI可玩广告生成器",
+        "url": "https://www.pocketgamer.biz/layer-launches-ai-playable-ad-generator-to-tackle-production-bottlenecks-for-mobile-game-studios/",
+        "date": "2026-10-01",
+        "section": 2,
+        "summary": "据PocketGamer.biz2026年10月1日报道，广告技术公司Layer推出AI驱动的\"Playables\"功能，可依据游戏素材（标题、创意简报、截图、实机录像）在数小时内自动生成可直接投放的HTML5可玩广告，覆盖三消、放置、跑酷、解谜等题材，并兼容Meta、TikTok、Google App Campaigns等主流广告平台。文章指出，传统定制可玩广告通常需要1-3周制作周期和数千美元成本，此前只有头部厂商才能负担，Layer意在让各规模厂商都能为每款新游戏配备可玩广告。"
+      },
+      "members": [
+        {
+          "title": "广告技术公司Layer推出AI可玩广告生成器",
+          "url": "https://www.pocketgamer.biz/layer-launches-ai-playable-ad-generator-to-tackle-production-bottlenecks-for-mobile-game-studios/",
+          "date": "2026-10-01",
+          "section": 2,
+          "summary": "据PocketGamer.biz2026年10月1日报道，广告技术公司Layer推出AI驱动的\"Playables\"功能，可依据游戏素材（标题、创意简报、截图、实机录像）在数小时内自动生成可直接投放的HTML5可玩广告，覆盖三消、放置、跑酷、解谜等题材，并兼容Meta、TikTok、Google App Campaigns等主流广告平台。文章指出，传统定制可玩广告通常需要1-3周制作周期和数千美元成本，此前只有头部厂商才能负担，Layer意在让各规模厂商都能为每款新游戏配备可玩广告。"
+        },
+        {
+          "title": "移动游戏营销AI公司Layer推出\"Playables\"功能,自动生成可玩广告素材",
+          "url": "https://www.pocketgamer.biz/layer-launches-ai-playable-ad-generator-to-tackle-production-bottlenecks-for-mobile-game-studios/",
+          "date": "2026-10-01",
+          "section": 2,
+          "summary": "移动游戏营销AI公司Layer于10月1日推出新功能Playables,可自动生成可直接投放的HTML5可玩广告,将传统1-3周的制作周期缩短至数小时,现有订阅用户可免费使用。该功能支持三消、放置、跑酷、消除、卡牌、老虎机、塔防、视觉小说等10余种游戏品类,并兼容AppLovin、Meta、TikTok、谷歌、Unity Ads及ironSource等主流广告网络;King、Zynga、SciPlay、Huuuge Games、Wildlife Studios等已是其用户。"
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "SecretSauce Labs从游戏开发转型AI品牌内容一致性技术",
+        "url": "https://www.pocketgamer.biz/secretsauce-labs-simon-davis-on-leaving-games-behind-and-solving-ais-brand-consistency-problem/",
+        "date": "2026-09-29",
+        "section": 2,
+        "summary": "据PocketGamer.biz2026年9月29日报道，原从事游戏开发的公司SecretSauce Labs（原名Wearemighty）已转型专注于为品牌提供AI内容技术服务，起因是2022年该团队在用生成式AI工具制作2500万个风格一致的游戏虚拟形象时遭遇瓶颈。CEO Simon Davis表示，如今AI内容生成本身已不是难点，真正挑战在于保持品牌一致性，公司花费三年时间构建了在人工审核前自动校验生成内容是否符合品牌规范的基础设施。Davis总结称\"真正难的从来不是生成，而是记忆与判断力\"。"
+      },
+      "members": [
+        {
+          "title": "SecretSauce Labs从游戏开发转型AI品牌内容一致性技术",
+          "url": "https://www.pocketgamer.biz/secretsauce-labs-simon-davis-on-leaving-games-behind-and-solving-ais-brand-consistency-problem/",
+          "date": "2026-09-29",
+          "section": 2,
+          "summary": "据PocketGamer.biz2026年9月29日报道，原从事游戏开发的公司SecretSauce Labs（原名Wearemighty）已转型专注于为品牌提供AI内容技术服务，起因是2022年该团队在用生成式AI工具制作2500万个风格一致的游戏虚拟形象时遭遇瓶颈。CEO Simon Davis表示，如今AI内容生成本身已不是难点，真正挑战在于保持品牌一致性，公司花费三年时间构建了在人工审核前自动校验生成内容是否符合品牌规范的基础设施。Davis总结称\"真正难的从来不是生成，而是记忆与判断力\"。"
+        },
+        {
+          "title": "前手游工作室\"重生\"为品牌AI内容公司:SecretSauce Labs聚焦解决生成式AI\"品牌一致性\"难题",
+          "url": "https://www.pocketgamer.biz/secretsauce-labs-simon-davis-on-leaving-games-behind-and-solving-ais-brand-consistency-problem/",
+          "date": "2026-09-29",
+          "section": 2,
+          "summary": "曾开发《迪士尼大乱斗》等手游的新加坡工作室Mighty Bear Games,已改名为SecretSauce Labs,全面转型为面向品牌的AI内容技术公司。CEO Simon Davis表示,团队在2022年底需要为某项目生成约2500万张风格一致的可玩头像时发现,早期生成式AI工具难以稳定复现同一角色,\"生成不是难点,记忆与判断才是难点\";公司现为品牌提供在生成内容进入人工审核前先行比对品牌规范的基础设施。"
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "前Guerrilla Games程序员开源发布AAA风格游戏AI框架htn_planner",
+        "url": "https://gamefromscratch.com/htn_planner-aaa-inspired-game-ai-framework/",
+        "date": "2026-09-30",
+        "section": 2,
+        "summary": "据GameFromScratch2026年9月30日报道，前Guerrilla Games与Crytek的AI程序员Jose Escribano开源发布了\"htn_planner\"，一个基于分层任务网络（HTN）规划的C++游戏AI框架，设计理念参考了Guerrilla Games旗下《地平线》与《杀戮地带》系列的AI系统。该框架支持用声明式语言编写AI决策逻辑并预编译为原生C代码，并提供可视化调试工具（基于SDL与ImGui）、编辑器、语言服务器及热重载等开发工具链。项目以MIT开源协议发布，完整源码已托管在GitHub。"
+      },
+      "members": [
+        {
+          "title": "前Guerrilla Games程序员开源发布AAA风格游戏AI框架htn_planner",
+          "url": "https://gamefromscratch.com/htn_planner-aaa-inspired-game-ai-framework/",
+          "date": "2026-09-30",
+          "section": 2,
+          "summary": "据GameFromScratch2026年9月30日报道，前Guerrilla Games与Crytek的AI程序员Jose Escribano开源发布了\"htn_planner\"，一个基于分层任务网络（HTN）规划的C++游戏AI框架，设计理念参考了Guerrilla Games旗下《地平线》与《杀戮地带》系列的AI系统。该框架支持用声明式语言编写AI决策逻辑并预编译为原生C代码，并提供可视化调试工具（基于SDL与ImGui）、编辑器、语言服务器及热重载等开发工具链。项目以MIT开源协议发布，完整源码已托管在GitHub。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "米哈游创始人刘伟:公司将在2-3年内进入国产大模型第一梯队,三年AI投入上限1000亿元",
+        "url": "https://m.thepaper.cn/detail/34164101",
+        "url2": "https://news.bjd.com.cn/2026/10/01/11981114.shtml",
+        "date": "2026-09-28",
+        "section": 1,
+        "facts": [
+          "米哈游创始人、总裁刘伟在上海交通大学2027届校园招聘宣讲会上表示:\"我有很强的信心,未来2到3年内,米哈游都会是国产大模型团队里举足轻重的一员\"。",
+          "刘伟此前(2026年5月)已披露,米哈游计划未来三年在AI领域投入最多1000亿元人民币,目标是实现游戏\"千人千面\"的个性化体验。",
+          "米哈游自研大模型Glossa已于2024年9月完成国内生成式人工智能服务备案,定位为服务游戏生产全流程的大模型。",
+          "米哈游目前开放超过50个AI相关岗位,涵盖模型训练、推理、数据处理、语音理解及AI Agent开发等方向。",
+          "米哈游的AI布局最早可追溯至2018年成立的内部研究部门\"逆熵\"(后发展为逆熵人工智能研究院),相关技术已用于语音生成等功能,《崩坏:星穹铁道》等产品也已应用大模型技术进行NPC对话与动态剧情生成。"
+        ],
+        "background": [
+          "米哈游由刘伟与蔡浩宇、罗宇皓、靳志成等上海交大校友于2011年创立,凭借《原神》《崩坏:星穹铁道》等产品的全球成功,公司估值维持在约2000亿元人民币,连续三年为国内估值最高的游戏公司。",
+          "在中国游戏行业AI渗透率持续提升、头部厂商普遍加码自研大模型与AI基础设施投入的背景下,米哈游此番表态是其从单一游戏研发商向大模型团队转型战略的最新信号。"
+        ],
+        "results": [
+          "米哈游公开大规模AI相关招聘计划,覆盖模型训练到AI Agent开发的全链条岗位。",
+          "刘伟同时代表米哈游创始团队向上海交通大学捐资设立\"AI未来基石\"基金,以支持该校在人工智能领域的战略布局。"
+        ]
+      },
+      "members": [
+        {
+          "title": "米哈游创始人刘伟:公司将在2-3年内进入国产大模型第一梯队,三年AI投入上限1000亿元",
+          "url": "https://m.thepaper.cn/detail/34164101",
+          "url2": "https://news.bjd.com.cn/2026/10/01/11981114.shtml",
+          "date": "2026-09-28",
+          "section": 1,
+          "facts": [
+            "米哈游创始人、总裁刘伟在上海交通大学2027届校园招聘宣讲会上表示:\"我有很强的信心,未来2到3年内,米哈游都会是国产大模型团队里举足轻重的一员\"。",
+            "刘伟此前(2026年5月)已披露,米哈游计划未来三年在AI领域投入最多1000亿元人民币,目标是实现游戏\"千人千面\"的个性化体验。",
+            "米哈游自研大模型Glossa已于2024年9月完成国内生成式人工智能服务备案,定位为服务游戏生产全流程的大模型。",
+            "米哈游目前开放超过50个AI相关岗位,涵盖模型训练、推理、数据处理、语音理解及AI Agent开发等方向。",
+            "米哈游的AI布局最早可追溯至2018年成立的内部研究部门\"逆熵\"(后发展为逆熵人工智能研究院),相关技术已用于语音生成等功能,《崩坏:星穹铁道》等产品也已应用大模型技术进行NPC对话与动态剧情生成。"
+          ],
+          "background": [
+            "米哈游由刘伟与蔡浩宇、罗宇皓、靳志成等上海交大校友于2011年创立,凭借《原神》《崩坏:星穹铁道》等产品的全球成功,公司估值维持在约2000亿元人民币,连续三年为国内估值最高的游戏公司。",
+            "在中国游戏行业AI渗透率持续提升、头部厂商普遍加码自研大模型与AI基础设施投入的背景下,米哈游此番表态是其从单一游戏研发商向大模型团队转型战略的最新信号。"
+          ],
+          "results": [
+            "米哈游公开大规模AI相关招聘计划,覆盖模型训练到AI Agent开发的全链条岗位。",
+            "刘伟同时代表米哈游创始团队向上海交通大学捐资设立\"AI未来基石\"基金,以支持该校在人工智能领域的战略布局。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Capcom公布RE Engine\"AI化\"多阶段计划REX,目标打造\"AI生成引擎\"",
+        "url": "https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-accelerate-efficiency-in-qa-debugging-and-data-processing",
+        "url2": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
+        "date": "2026-10-03",
+        "section": 1,
+        "facts": [
+          "Capcom在东京举办的年度技术大会\"CAPCOM オープンカンファレンス RE:2026\"(东京场:10月2-3日)上,由程序员石田聪(Satoshi Ishida)发表题为《REX项目的展望与未来——进一步进化RE ENGINE至次世代》的演讲。",
+          "Capcom宣布多阶段\"REX\"计划,目标是将自研RE Engine进化为\"AI生成引擎\"(AI-generation game engine),以加速开发流程、提升QA(质量保证)效率、优化面向新人与海外员工的易用性,并将AI整合进生产工作流。",
+          "新系统包括用于标准化数据处理的RE:Dox、加速开发工具链的RE:UI、基于ID日志的RE:Log,以及可视化脚本工具RE:Flows、重构的运行时核心RE:Runtime和执行框架RE:C++。",
+          "石田聪表示,将AI整合进RE Engine的目标是辅助开发、生成与解读代码、通过自动化游玩测试进行debug,并优化性能,实现\"与AI共同制作游戏\"。",
+          "Capcom计划将部分技术改进开源以支持AI训练,长期目标是让RE Engine演变为\"AI生成引擎\"。",
+          "RE Engine自2014年起开发、2017年随《生化危机7》首次亮相,据Eurogamer估计目前有超过2000名开发者在使用该引擎。"
+        ],
+        "background": [
+          "Capcom此前已多次强调不会在游戏中\"使用生成式AI资产\",而是将AI用于\"提升游戏开发的效率与生产力\",并表示正在图形、音效、编程等部门测试多种AI使用方式。",
+          "该计划也是在《生化危机:安魂曲》此前因被用于NVIDIA DLSS 5技术演示(以AI增强主角Grace Ashcroft等角色模型)而受到玩家批评的背景下提出。"
+        ],
+        "results": [
+          "Capcom公开了RE Engine向\"AI生成引擎\"演进的具体路线图与子系统名单,并承诺开源部分技术供AI训练使用,成为率先公开详细AI化引擎改造计划的日系大型游戏公司之一。"
+        ]
+      },
+      "members": [
+        {
+          "title": "Capcom公布RE Engine\"AI化\"多阶段计划REX,目标打造\"AI生成引擎\"",
+          "url": "https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-accelerate-efficiency-in-qa-debugging-and-data-processing",
+          "url2": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
+          "date": "2026-10-03",
+          "section": 1,
+          "facts": [
+            "Capcom在东京举办的年度技术大会\"CAPCOM オープンカンファレンス RE:2026\"(东京场:10月2-3日)上,由程序员石田聪(Satoshi Ishida)发表题为《REX项目的展望与未来——进一步进化RE ENGINE至次世代》的演讲。",
+            "Capcom宣布多阶段\"REX\"计划,目标是将自研RE Engine进化为\"AI生成引擎\"(AI-generation game engine),以加速开发流程、提升QA(质量保证)效率、优化面向新人与海外员工的易用性,并将AI整合进生产工作流。",
+            "新系统包括用于标准化数据处理的RE:Dox、加速开发工具链的RE:UI、基于ID日志的RE:Log,以及可视化脚本工具RE:Flows、重构的运行时核心RE:Runtime和执行框架RE:C++。",
+            "石田聪表示,将AI整合进RE Engine的目标是辅助开发、生成与解读代码、通过自动化游玩测试进行debug,并优化性能,实现\"与AI共同制作游戏\"。",
+            "Capcom计划将部分技术改进开源以支持AI训练,长期目标是让RE Engine演变为\"AI生成引擎\"。",
+            "RE Engine自2014年起开发、2017年随《生化危机7》首次亮相,据Eurogamer估计目前有超过2000名开发者在使用该引擎。"
+          ],
+          "background": [
+            "Capcom此前已多次强调不会在游戏中\"使用生成式AI资产\",而是将AI用于\"提升游戏开发的效率与生产力\",并表示正在图形、音效、编程等部门测试多种AI使用方式。",
+            "该计划也是在《生化危机:安魂曲》此前因被用于NVIDIA DLSS 5技术演示(以AI增强主角Grace Ashcroft等角色模型)而受到玩家批评的背景下提出。"
+          ],
+          "results": [
+            "Capcom公开了RE Engine向\"AI生成引擎\"演进的具体路线图与子系统名单,并承诺开源部分技术供AI训练使用,成为率先公开详细AI化引擎改造计划的日系大型游戏公司之一。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "AI算力需求推高内存价格,美光警告缺货将持续至2028年,PS5/Xbox/Switch 2等主机已多次涨价",
+        "url": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
+        "date": "2026-10-03",
+        "section": 1,
+        "facts": [
+          "美光(Micron)CEO兼董事长Sanjay Mehrotra在财报电话会议上表示,公司明年的产能已基本售罄,全球RAM(内存)短缺没有缓解迹象,消费者应为高于2026年的价格做好准备,供需紧张态势将持续到2027年甚至2028年。",
+          "Mehrotra承认公司\"看不到供需恢复平衡的时间点\"。",
+          "由于大部分产能被用于AI数据中心所需的高带宽内存(HBM),美光、三星等三大内存厂商几乎没有多少产能留给消费级内存,导致消费电子产品所用芯片价格全面上涨。",
+          "这直接推高了包括PlayStation 5、Xbox Series X/S、Switch 2等主机的价格,多款主机已多次涨价;Valve的Steam Machine上市价格也远高于此前预期,官方暗示未来可能还要继续涨价。",
+          "美光计划2028年投产新工厂,新财年上半年资本支出计划达250亿美元,但高管提醒新增产能不会立即缓解价格与供货压力。",
+          "美光云内存业务(涵盖HBM)第四财季毛利率达83%(去年同期为59%),核心数据中心业务(以DRAM销售为主)毛利率达90%(去年同期41%);数据中心SSD单季销售额接近100亿美元,同比增长超1000%。"
+        ],
+        "background": [
+          "AI数据中心对高带宽内存(HBM)的需求增速已超过服务器用DRAM,美光等厂商因此优先将产能投向利润更高、需求更旺的HBM产品,挤压了消费级内存供给。",
+          "三星同样在财报会上警告全球元件短缺危机将在明年持续恶化,显示这是行业性而非单一厂商问题。"
+        ],
+        "results": [
+          "游戏主机厂商和PC硬件价格已因内存涨价出现多轮上调,预计未来一年内游戏硬件成本压力仍将持续,玩家购置主机、显卡及PC配件的支出可能进一步上升。"
+        ]
+      },
+      "members": [
+        {
+          "title": "AI算力需求推高内存价格,美光警告缺货将持续至2028年,PS5/Xbox/Switch 2等主机已多次涨价",
+          "url": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
+          "date": "2026-10-03",
+          "section": 1,
+          "facts": [
+            "美光(Micron)CEO兼董事长Sanjay Mehrotra在财报电话会议上表示,公司明年的产能已基本售罄,全球RAM(内存)短缺没有缓解迹象,消费者应为高于2026年的价格做好准备,供需紧张态势将持续到2027年甚至2028年。",
+            "Mehrotra承认公司\"看不到供需恢复平衡的时间点\"。",
+            "由于大部分产能被用于AI数据中心所需的高带宽内存(HBM),美光、三星等三大内存厂商几乎没有多少产能留给消费级内存,导致消费电子产品所用芯片价格全面上涨。",
+            "这直接推高了包括PlayStation 5、Xbox Series X/S、Switch 2等主机的价格,多款主机已多次涨价;Valve的Steam Machine上市价格也远高于此前预期,官方暗示未来可能还要继续涨价。",
+            "美光计划2028年投产新工厂,新财年上半年资本支出计划达250亿美元,但高管提醒新增产能不会立即缓解价格与供货压力。",
+            "美光云内存业务(涵盖HBM)第四财季毛利率达83%(去年同期为59%),核心数据中心业务(以DRAM销售为主)毛利率达90%(去年同期41%);数据中心SSD单季销售额接近100亿美元,同比增长超1000%。"
+          ],
+          "background": [
+            "AI数据中心对高带宽内存(HBM)的需求增速已超过服务器用DRAM,美光等厂商因此优先将产能投向利润更高、需求更旺的HBM产品,挤压了消费级内存供给。",
+            "三星同样在财报会上警告全球元件短缺危机将在明年持续恶化,显示这是行业性而非单一厂商问题。"
+          ],
+          "results": [
+            "游戏主机厂商和PC硬件价格已因内存涨价出现多轮上调,预计未来一年内游戏硬件成本压力仍将持续,玩家购置主机、显卡及PC配件的支出可能进一步上升。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "育碧内部AI新项目代号\"Motherbrain\"曝光,商标文件显示其生成式AI野心进一步扩张",
+        "url": "https://www.eurogamer.net/ubisoft-gen-ai-game-motherbrain-assassins-creed",
+        "date": "2026-09-28",
+        "section": 2,
+        "summary": "据The Game File报道,育碧(Assassin's Creed、Far Cry发行商)近期提交的多项商标申请显示,其内部将最新一批生成式AI计划统称为\"Motherbrain\"(得名自《银河战士》中的邪恶超级电脑)。商标文件提及\"用于创建电子游戏和互动内容的人工智能软件\"及用于\"分析数据与人类互动\"的AI服务。育碧尚未公开提及Motherbrain,此前已推出AI对话工具Ghostwriter,CEO Yves Guillemot曾称生成式AI是公司内部\"革命\",公司今夏也表示正加大对首款生成式AI载人游戏Teammates的投入。"
+      },
+      "members": [
+        {
+          "title": "育碧内部AI新项目代号\"Motherbrain\"曝光,商标文件显示其生成式AI野心进一步扩张",
+          "url": "https://www.eurogamer.net/ubisoft-gen-ai-game-motherbrain-assassins-creed",
+          "date": "2026-09-28",
+          "section": 2,
+          "summary": "据The Game File报道,育碧(Assassin's Creed、Far Cry发行商)近期提交的多项商标申请显示,其内部将最新一批生成式AI计划统称为\"Motherbrain\"(得名自《银河战士》中的邪恶超级电脑)。商标文件提及\"用于创建电子游戏和互动内容的人工智能软件\"及用于\"分析数据与人类互动\"的AI服务。育碧尚未公开提及Motherbrain,此前已推出AI对话工具Ghostwriter,CEO Yves Guillemot曾称生成式AI是公司内部\"革命\",公司今夏也表示正加大对首款生成式AI载人游戏Teammates的投入。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "行业HR峰会:生成式AI未必减负,反而给游戏公司员工及HR团队带来更多工作量",
+        "url": "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time",
+        "date": "2026-10-02",
+        "section": 2,
+        "summary": "在10月1日举行的GamesIndustry.biz HR峰会上,多位与会者在查塔姆规则下表示,生成式AI在提升部分效率(如编码、自动化琐碎工作)的同时,也带来员工对失业的焦虑、企业敏感数据外泄风险及HR工作量上升等问题,尤其是员工使用AI撰写冗长申诉信导致HR和法务需耗费大量时间处理,一位法律代表称每周收到约10份此类AI撰写的申诉信。调查显示今年多数参会公司已制定AI使用政策,但政策因技术变化(如\"提示词注入\"风险)而需频繁修订。"
+      },
+      "members": [
+        {
+          "title": "行业HR峰会:生成式AI未必减负,反而给游戏公司员工及HR团队带来更多工作量",
+          "url": "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time",
+          "date": "2026-10-02",
+          "section": 2,
+          "summary": "在10月1日举行的GamesIndustry.biz HR峰会上,多位与会者在查塔姆规则下表示,生成式AI在提升部分效率(如编码、自动化琐碎工作)的同时,也带来员工对失业的焦虑、企业敏感数据外泄风险及HR工作量上升等问题,尤其是员工使用AI撰写冗长申诉信导致HR和法务需耗费大量时间处理,一位法律代表称每周收到约10份此类AI撰写的申诉信。调查显示今年多数参会公司已制定AI使用政策,但政策因技术变化(如\"提示词注入\"风险)而需频繁修订。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "玩家用Claude生成\"完整版\"Fallout: New York浏览器游戏,遭Bethesda母公司发律师函",
+        "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
+        "date": "2026-10-02",
+        "section": 2,
+        "summary": "一名自称\"AI Creative\"的网友使用Anthropic的Claude Opus 5.5模型生成了一款名为《Fallout: New York》的浏览器游戏,具备任务、对话树、V.A.T.S.战斗系统及Pip-Boy界面等《辐射》系列元素,但角色面部建模被玩家评价为\"诡异\"。该作者称收到Bethesda母公司ZeniMax的律师函,要求停止使用相关域名及素材,随后其在社交媒体上回应称\"要不你们自己做一款辐射游戏,我就不用做了\"。"
+      },
+      "members": [
+        {
+          "title": "玩家用Claude生成\"完整版\"Fallout: New York浏览器游戏,遭Bethesda母公司发律师函",
+          "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
+          "date": "2026-10-02",
+          "section": 2,
+          "summary": "一名自称\"AI Creative\"的网友使用Anthropic的Claude Opus 5.5模型生成了一款名为《Fallout: New York》的浏览器游戏,具备任务、对话树、V.A.T.S.战斗系统及Pip-Boy界面等《辐射》系列元素,但角色面部建模被玩家评价为\"诡异\"。该作者称收到Bethesda母公司ZeniMax的律师函,要求停止使用相关域名及素材,随后其在社交媒体上回应称\"要不你们自己做一款辐射游戏,我就不用做了\"。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Mod作者故意\"自毁\"人气Mod以抵制AI未授权转载,呼吁\"支持modder而非AI\"",
+        "url": "https://www.rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads",
+        "date": "2026-10-02",
+        "section": 2,
+        "summary": "《全面战争:战锤3》人气Mod\"SFO: Grimhammer III\"的作者Venris因不满该Mod被他人利用AI技术未经授权转载,故意\"损坏\"Mod文件使其无法在未授权转载版本上正常运行,并警告若情况持续恶化将把Mod设为私有。Venris在Patreon发文强调\"支持modder,而非AI\",称Steam Workshop近期被大量AI生成的转载Mod\"淹没\";10月5日,其发布更新称已恢复可在Steam正常使用的版本。"
+      },
+      "members": [
+        {
+          "title": "Mod作者故意\"自毁\"人气Mod以抵制AI未授权转载,呼吁\"支持modder而非AI\"",
+          "url": "https://www.rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads",
+          "date": "2026-10-02",
+          "section": 2,
+          "summary": "《全面战争:战锤3》人气Mod\"SFO: Grimhammer III\"的作者Venris因不满该Mod被他人利用AI技术未经授权转载,故意\"损坏\"Mod文件使其无法在未授权转载版本上正常运行,并警告若情况持续恶化将把Mod设为私有。Venris在Patreon发文强调\"支持modder,而非AI\",称Steam Workshop近期被大量AI生成的转载Mod\"淹没\";10月5日,其发布更新称已恢复可在Steam正常使用的版本。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "索尼为基础版PS5引入AI超分辨率技术QSSR,《金刚狼》《对马岛之魂2:黄泉之路》率先支持",
+        "url": "https://www.gamesindustry.biz/sony-introduces-ai-upscaling-to-base-ps5-marvels-wolverine-and-ghost-of-yotei-are-first-games-to-implement-new-tech",
+        "date": "2026-10-05",
+        "section": 2,
+        "summary": "索尼互动娱乐(SIE)宣布为基础版PlayStation 5引入新的AI超分辨率技术\"Quick Spectral Super Resolution\"(QSSR),该技术由SIE与AMD在AI图形领域的长期合作开发,采用\"精简的神经网络架构\"并针对PS5硬件进行\"手工调优\"以提升画质与帧率,但PS5 Pro专属的PSSR技术仍被SIE称为该领域的\"黄金标准\"。首批支持QSSR的游戏为Insomniac Games的《金刚狼》及Sucker Punch的《对马岛之魂2:黄泉之路》,SIE图形研发首席工程师Daniel Craig表示该技术基本可\"直接替换\"已支持PSSR的游戏,但开发者仍需数天时间调整画质设置。"
+      },
+      "members": [
+        {
+          "title": "索尼为基础版PS5引入AI超分辨率技术QSSR,《金刚狼》《对马岛之魂2:黄泉之路》率先支持",
+          "url": "https://www.gamesindustry.biz/sony-introduces-ai-upscaling-to-base-ps5-marvels-wolverine-and-ghost-of-yotei-are-first-games-to-implement-new-tech",
+          "date": "2026-10-05",
+          "section": 2,
+          "summary": "索尼互动娱乐(SIE)宣布为基础版PlayStation 5引入新的AI超分辨率技术\"Quick Spectral Super Resolution\"(QSSR),该技术由SIE与AMD在AI图形领域的长期合作开发,采用\"精简的神经网络架构\"并针对PS5硬件进行\"手工调优\"以提升画质与帧率,但PS5 Pro专属的PSSR技术仍被SIE称为该领域的\"黄金标准\"。首批支持QSSR的游戏为Insomniac Games的《金刚狼》及Sucker Punch的《对马岛之魂2:黄泉之路》,SIE图形研发首席工程师Daniel Craig表示该技术基本可\"直接替换\"已支持PSSR的游戏,但开发者仍需数天时间调整画质设置。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《RuneScape》开发商Jagex就预告片中出现生成式AI内容道歉,启动内部审查流程",
+        "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
+        "date": "2026-10-05",
+        "section": 2,
+        "summary": "《RuneScape》开发商Jagex在RuneFest展会上发布的《屠龙者2》资料片预告片,被玩家在Reddit上发现存在大量生成式AI痕迹(如六指手部、类似Air Jordan的中世纪靴子等),Jagex随即下架该宣传素材并展开调查,称该预告片由\"曾明确承诺不会使用生成式AI\"的可信外部合作方制作。Jagex强调\"我们不会使用生成式AI制作游戏、美术或创意资产\",并表示这是近期第二次因合作方问题出现生成式AI争议,公司将借此全面检讨审核流程,并与社区创作者合作重新制作相关内容。"
+      },
+      "members": [
+        {
+          "title": "《RuneScape》开发商Jagex就预告片中出现生成式AI内容道歉,启动内部审查流程",
+          "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
+          "date": "2026-10-05",
+          "section": 2,
+          "summary": "《RuneScape》开发商Jagex在RuneFest展会上发布的《屠龙者2》资料片预告片,被玩家在Reddit上发现存在大量生成式AI痕迹(如六指手部、类似Air Jordan的中世纪靴子等),Jagex随即下架该宣传素材并展开调查,称该预告片由\"曾明确承诺不会使用生成式AI\"的可信外部合作方制作。Jagex强调\"我们不会使用生成式AI制作游戏、美术或创意资产\",并表示这是近期第二次因合作方问题出现生成式AI争议,公司将借此全面检讨审核流程,并与社区创作者合作重新制作相关内容。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "用Claude生成\"游戏混搭\"视频走红社交媒体,遭Mod社区强烈抵制",
+        "url": "https://www.videogameschronicle.com/news/ai-game-mashup-videos-on-social-media-spark-debate-and-backlash-among-players-and-modders/",
+        "date": "2026-10-05",
+        "section": 2,
+        "summary": "社交媒体上出现大量使用Anthropic旗下Claude Opus 5.5生成的\"游戏混搭\"视频,将一款游戏的角色动作叠加到另一款游戏画面中(如《我的世界》角色出现在《艾尔登法环》中并同步弓箭动作),引发病毒式传播,但遭到Mod社区强烈反对。《王国之心》Mod作者Discount Mods表示,如果这成为Mod界常态,\"这可能是我做的最后一个项目\";另一位使用AI进行正当Mod开发的开发者Kran批评该类视频\"毫无创意可言\"。《班卓熊大冒险》PC逆向移植开发者DarioSamo也借此重申团队\"从未、现在不会、将来也不会使用AI\"制作相关移植。"
+      },
+      "members": [
+        {
+          "title": "用Claude生成\"游戏混搭\"视频走红社交媒体,遭Mod社区强烈抵制",
+          "url": "https://www.videogameschronicle.com/news/ai-game-mashup-videos-on-social-media-spark-debate-and-backlash-among-players-and-modders/",
+          "date": "2026-10-05",
+          "section": 2,
+          "summary": "社交媒体上出现大量使用Anthropic旗下Claude Opus 5.5生成的\"游戏混搭\"视频,将一款游戏的角色动作叠加到另一款游戏画面中(如《我的世界》角色出现在《艾尔登法环》中并同步弓箭动作),引发病毒式传播,但遭到Mod社区强烈反对。《王国之心》Mod作者Discount Mods表示,如果这成为Mod界常态,\"这可能是我做的最后一个项目\";另一位使用AI进行正当Mod开发的开发者Kran批评该类视频\"毫无创意可言\"。《班卓熊大冒险》PC逆向移植开发者DarioSamo也借此重申团队\"从未、现在不会、将来也不会使用AI\"制作相关移植。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [
+    [
+      {
+        "title": "广告技术公司Layer推出AI可玩广告生成器",
+        "url": "https://www.pocketgamer.biz/layer-launches-ai-playable-ad-generator-to-tackle-production-bottlenecks-for-mobile-game-studios/",
+        "date": "2026-10-01",
+        "section": 2,
+        "summary": "据PocketGamer.biz2026年10月1日报道，广告技术公司Layer推出AI驱动的\"Playables\"功能，可依据游戏素材（标题、创意简报、截图、实机录像）在数小时内自动生成可直接投放的HTML5可玩广告，覆盖三消、放置、跑酷、解谜等题材，并兼容Meta、TikTok、Google App Campaigns等主流广告平台。文章指出，传统定制可玩广告通常需要1-3周制作周期和数千美元成本，此前只有头部厂商才能负担，Layer意在让各规模厂商都能为每款新游戏配备可玩广告。"
+      },
+      {
+        "title": "移动游戏营销AI公司Layer推出\"Playables\"功能,自动生成可玩广告素材",
+        "url": "https://www.pocketgamer.biz/layer-launches-ai-playable-ad-generator-to-tackle-production-bottlenecks-for-mobile-game-studios/",
+        "date": "2026-10-01",
+        "section": 2,
+        "summary": "移动游戏营销AI公司Layer于10月1日推出新功能Playables,可自动生成可直接投放的HTML5可玩广告,将传统1-3周的制作周期缩短至数小时,现有订阅用户可免费使用。该功能支持三消、放置、跑酷、消除、卡牌、老虎机、塔防、视觉小说等10余种游戏品类,并兼容AppLovin、Meta、TikTok、谷歌、Unity Ads及ironSource等主流广告网络;King、Zynga、SciPlay、Huuuge Games、Wildlife Studios等已是其用户。"
+      }
+    ],
+    [
+      {
+        "title": "SecretSauce Labs从游戏开发转型AI品牌内容一致性技术",
+        "url": "https://www.pocketgamer.biz/secretsauce-labs-simon-davis-on-leaving-games-behind-and-solving-ais-brand-consistency-problem/",
+        "date": "2026-09-29",
+        "section": 2,
+        "summary": "据PocketGamer.biz2026年9月29日报道，原从事游戏开发的公司SecretSauce Labs（原名Wearemighty）已转型专注于为品牌提供AI内容技术服务，起因是2022年该团队在用生成式AI工具制作2500万个风格一致的游戏虚拟形象时遭遇瓶颈。CEO Simon Davis表示，如今AI内容生成本身已不是难点，真正挑战在于保持品牌一致性，公司花费三年时间构建了在人工审核前自动校验生成内容是否符合品牌规范的基础设施。Davis总结称\"真正难的从来不是生成，而是记忆与判断力\"。"
+      },
+      {
+        "title": "前手游工作室\"重生\"为品牌AI内容公司:SecretSauce Labs聚焦解决生成式AI\"品牌一致性\"难题",
+        "url": "https://www.pocketgamer.biz/secretsauce-labs-simon-davis-on-leaving-games-behind-and-solving-ais-brand-consistency-problem/",
+        "date": "2026-09-29",
+        "section": 2,
+        "summary": "曾开发《迪士尼大乱斗》等手游的新加坡工作室Mighty Bear Games,已改名为SecretSauce Labs,全面转型为面向品牌的AI内容技术公司。CEO Simon Davis表示,团队在2022年底需要为某项目生成约2500万张风格一致的可玩头像时发现,早期生成式AI工具难以稳定复现同一角色,\"生成不是难点,记忆与判断才是难点\";公司现为品牌提供在生成内容进入人工审核前先行比对品牌规范的基础设施。"
+      }
+    ]
+  ],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

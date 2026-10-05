@@ -1,0 +1,4 @@
+- **《恋与深空》国际服官方账号因分享含毒植物"鸡尾酒配方"引发争议**（2026-10-04）— 据IT之家报道，热门手游《恋与深空》国际服官方账号分享了一份作为装饰含有毒性植物材料的"鸡尾酒配方"，引发玩家与媒体的安全性质疑和负面反馈。 <https://www.ithome.com/1/009/866.htm>
+- **《新电波人》手游将于12月6日停止运营**（2026-10-04）— 据Gematsu报道，手机游戏《新电波人》将于12月6日正式结束运营服务。 <https://www.gematsu.com/2026/10/the-new-denpa-men-to-end-service-on-december-6>
+- **据报道Behaviour Interactive招聘广告意外曝光一款神秘3A科幻射击新作**（2026-10-04）— 据IT之家报道，《黎明杀机》开发商Behaviour Interactive发布的一则高级技术动画师招聘信息，意外透露其正在使用Unreal Engine开发一款强调高写实度、含机械结构角色的3A科幻FPS新作，具体公布时间尚未确定。 <https://www.ithome.com/1/009/859.htm>
+- **大阪独立游戏峰会2026举行，多款独立新作亮相**（2026-10-04）— 据4Gamer报道，OSAKA INDIE GAMES SUMMIT 2026于10月3日至4日举行，《Near The Sun》《Catgirl Rage: Claws of Fury》《GLIDE》等多款独立游戏在会上展出试玩。 <https://www.4gamer.net/>

@@ -1,0 +1,51 @@
+## OpenGameEval: Benchmarking Agentic Programming and Exploration in a Stateful Game Engine
+- **arXiv:** 2610.02563 · https://arxiv.org/abs/2610.02563
+- **Submitted:** 2026-10-01
+- **Authors:** Eray Turkel, Mengsha Sun, Kartik Ayyar, Sean Dunigan, Jack Lu, Vlad Shcherban, Hsiang-Shun Shih, Xin Wang, Tiantian Zhang
+- **Qualifying affiliation(s):** Roblox — all nine listed authors
+- **Categories:** cs.LG (primary), cs.AI
+- **Open release:** code — task suite, per-task annotations, a Roblox Studio plugin, and a leaderboard released under MIT license at https://github.com/Roblox/open-game-eval
+- **Shipped counterpart:** none found
+
+**Summary (≤3 sentences):** The authors introduce OpenGameEval, a benchmark that evaluates LLM agents acting inside Roblox Studio on 84 curated game-development tasks (scripting and scene modification), each attempted 16 times by 13 frontier models. The top model reaches 51.7% single-attempt pass rate but only 39.4% consistency across five attempts, and six tasks go unsolved by every model tested. The benchmark also measures agents' use of exploration tools (script/object-hierarchy inspection) alongside pass/fail outcomes.
+**Purpose (≤3 sentences):** Existing agent benchmarks largely score only final outcomes, which can mask whether an agent actually understood the environment it was working in. The authors want a benchmark set inside a real, stateful game engine (Roblox Studio) that can separate genuine understanding/exploration from lucky pass/fail results.
+**Breakthrough (≤3 sentences):** The authors report that thorough exploration behavior (inspecting scripts and object hierarchies before acting) correlates strongly with success, improving pass rates by 13.4 percentage points on scene-only tasks and 9.8 points on script-only tasks. They also find that different frontier models solve different task subsets — only 27 of 84 tasks are solved by all five leading models while 58 are solved by at least one — showing current aggregate leaderboards hide large per-task variance.
+**Tools & method (≤3 sentences):** The benchmark provides 84 tasks with place files and per-task annotations inside Roblox Studio, exposing eight tools split between observation (e.g., script/hierarchy inspection) and action categories, and tests 13 frontier LLMs with 16 attempts each. The authors release the task suite, annotations, a Roblox Studio plugin for running tasks, and a public leaderboard under an MIT license.
+**Limitation (≤3 sentences):** The paper itself notes six tasks remain unsolved by every tested model and that model performance diverges sharply by task type (e.g., 12.5-point variance on scene-modification tasks), indicating the benchmark exposes systematic blind spots rather than a single difficulty axis. The evaluation is also confined to Roblox Studio's specific tool/action surface, which may not generalize to other game engines.
+
+## Spatial Memory Intelligence: Endowing World Models with Understanding-Driven Long-Term Memory
+- **arXiv:** 2610.02521 · https://arxiv.org/abs/2610.02521
+- **Submitted:** 2026-10-01
+- **Authors:** Ying Yang, Guiyu Zhang, Lianghua Huang, Chang Nie, Chenyang Si, Haofan Wang, Shaoshuai Shi, Li Jiang
+- **Qualifying affiliation(s):** Alibaba Group — Guiyu Zhang, Lianghua Huang, Haofan Wang
+- **Categories:** cs.CV
+- **Open release:** demo/project page at spatial-memory-intelligence.github.io (no explicit code/weights link confirmed)
+- **Shipped counterpart:** none found
+
+**Summary (≤3 sentences):** The paper introduces Spatial Memory Intelligence (SMI), a framework that uses multimodal large language models' spatial-reasoning ability to manage long-term memory in long-video, action-conditioned world models. SMI performs four coordinated operations — spatial clustering, within-cluster sparsification, action-aware retrieval, and reliability-aware filtering — to decide what to keep, compress, retrieve, or discard as a generated video sequence grows. The authors report roughly 84% memory reduction alongside improved spatial consistency and generation reliability across multiple model architectures and benchmarks.
+**Purpose (≤3 sentences):** Video world models that generate long, action-conditioned sequences accumulate ever-growing observation histories, which raises storage/compute cost, makes it hard to retrieve the right past observation when revisiting a location, and lets generation errors compound over time. Existing fixes (compression, sparse computation, retrieval) each address only one of these problems in isolation.
+**Breakthrough (≤3 sentences):** The authors report that using an MLLM's own semantic and spatial understanding to drive the memory pipeline — rather than relying on purely geometric or heuristic compression — lets a single unified mechanism jointly handle efficiency, consistency, and reliability. They show this understanding-driven approach generalizes across multiple world-model architectures and evaluation benchmarks with large (~84%) memory savings.
+**Tools & method (≤3 sentences):** SMI decomposes memory management into spatial clustering of observations, redundancy sparsification within each cluster, action-conditioned retrieval of relevant past memory, and reliability-based filtering of unreliable generated content, all driven by a multimodal LLM's spatial/semantic reasoning. It is evaluated across multiple long-video world-model backbones and benchmarks for memory efficiency, generation stability, and spatial coherence.
+**Limitation (≤3 sentences):** The paper frames this as addressing memory management specifically for long-horizon, action-conditioned video generation; it does not claim to fix underlying generation-quality or drift issues in the base world model itself. No explicit discussion of inference-time cost added by the MLLM-driven memory pipeline was found in the fetched abstract/introduction content.
+
+## World Action Modeling with Progressive Visual Planning
+- **arXiv:** 2610.02508 · https://arxiv.org/abs/2610.02508
+- **Submitted:** 2026-10-01
+- **Authors:** Fei Zhang, Zhaochong An, Duncan Frost, Yikai Wang, Pengfei Liu, Ya Zhang, Michal Drozdzal, Amir Bar
+- **Qualifying affiliation(s):** Meta — Zhaochong An, Duncan Frost, Yikai Wang, Michal Drozdzal
+- **Categories:** cs.AI (primary), cs.CV, cs.RO
+- **Open release:** demo/project page at https://sii-ferenas.github.io/ProWAM-page (license noted as CC BY-NC-ND 4.0; no separate code/weights link confirmed)
+- **Shipped counterpart:** none found
+
+**Summary (≤3 sentences):** The paper introduces ProWAM, a world action model that jointly predicts future actions and an ordered sequence of sparse visual sub-goals from an initial observation and instruction, instead of generating dense full video rollouts. This lets the model learn visual planning from large-scale, unlabeled, action-free video while keeping the action-generation head lightweight and fast at inference. The authors report state-of-the-art results on LIBERO-Plus (85.8%) and RoboTwin (75.7%), plus 70.0% zero-shot success in real-world robot experiments.
+**Purpose (≤3 sentences):** Prior "world action models" face a trade-off: generating dense, pixel-level video rollouts gives strong short-horizon visual guidance for action planning but is computationally expensive, while cheaper alternatives lack the intermediate visual guidance needed to anchor long-horizon action generation. ProWAM aims to keep the planning benefit of video-generation-model priors without paying the full cost of dense rollout generation.
+**Breakthrough (≤3 sentences):** The authors report a progressive/sparse visual sub-goal representation — using a normalized progress value where r=0 is the current observation and r=1 is the trajectory endpoint — that provides explicit, ordered visual anchors for action generation without needing dense frame-by-frame rollouts. They state this enables sub-goal features to be cached for efficient inference while still learning from large-scale action-free video data.
+**Tools & method (≤3 sentences):** ProWAM combines a video-generation-style module that predicts sparse, progress-ordered visual sub-goals with a lightweight action-generation head conditioned on those sub-goals. It is trained in part on large-scale unlabeled/action-free video and evaluated on the LIBERO-Plus and RoboTwin simulation benchmarks plus zero-shot real-world robot manipulation trials.
+**Limitation (≤3 sentences):** The fetched abstract/introduction does not report failure modes or ablations in detail; the real-world evaluation is described as zero-shot with a 70.0% success rate, implying roughly 3 in 10 real-world trials still fail. The method's visual-planning benefit is demonstrated specifically on robotic manipulation benchmarks, so generalization beyond that setting is not established in the fetched content.
+
+# Near-misses
+- 2610.02825 · TerrainForge: Physics-Grounded road geometry Editing for Counterfactual Autonomous Driving · off-topic: physics-based road-geometry editing for autonomous-driving-simulation testing, not a world model/3D-generation/game paper; also no industry author (Rochester Institute of Technology, University of Macau, City University of Hong Kong — all academic)
+- 2610.02726 · SymRegFlow: Symmetry-Regularized Flow Matching for Video World Models · no industry author (Tsinghua University, University of Chinese Academy of Sciences, and Robert Bosch GmbH / Bosch China — Bosch is not on the qualified-company list)
+- 2610.02660 · SpectralCache: Accelerating Diffusion-Based World Models via Spectral Feature Caching · no industry author (Stevens Institute of Technology, Northeastern University, Technische Universität Darmstadt — all academic)
+- 2610.02626 · Imagine the Future, Internalize the Gist: Efficient VLA Reasoning via Internalized Spatiotemporal Imagination · no industry author (Stevens Institute of Technology, Northeastern University, Arizona State University, University of Georgia — all academic; screen's "NVIDIA" guess not supported by affiliations)
+- 2610.02341 · Filter-Aware Fine-Tuning for Safe Humanoid Whole-Body Tracking · off-topic: humanoid-robot safety/control-filter research (control barrier functions, sim-to-real tracking safety), not character-animation/motion-generation despite an NVIDIA-affiliated co-author (Marco Pavone, Stanford/NVIDIA)

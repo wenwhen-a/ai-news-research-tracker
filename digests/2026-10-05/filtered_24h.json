@@ -1,0 +1,252 @@
+{
+  "as_of": "2026-10-05",
+  "cutoff": "2026-10-04",
+  "window_days": 1,
+  "summary": {
+    "input_items": 11,
+    "denied_source": 0,
+    "in_window": 11,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 11,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 11,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 11,
+    "previously_covered_count": 0
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Hellblade 工作室 Ninja Theory 在 Xbox 宣布其面临关闭后开始裁员",
+        "url": "https://www.videogameschronicle.com/news/hellblade-studio-ninja-theory-has-started-laying-off-staff-following-xboxs-announcement-that-it-faces-closure/",
+        "date": "2026-10-05",
+        "section": 3,
+        "summary": "Xbox 内容官 Matt Booty 表示为 Ninja Theory 寻找买家的两次协议均告失败后，该工作室已开始裁员；此前 Xbox 已进行过多轮裁员，包括上月的 268 人和此前一轮约 1600 人。"
+      },
+      "members": [
+        {
+          "title": "Hellblade 工作室 Ninja Theory 在 Xbox 宣布其面临关闭后开始裁员",
+          "url": "https://www.videogameschronicle.com/news/hellblade-studio-ninja-theory-has-started-laying-off-staff-following-xboxs-announcement-that-it-faces-closure/",
+          "date": "2026-10-05",
+          "section": 3,
+          "summary": "Xbox 内容官 Matt Booty 表示为 Ninja Theory 寻找买家的两次协议均告失败后，该工作室已开始裁员；此前 Xbox 已进行过多轮裁员，包括上月的 268 人和此前一轮约 1600 人。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《NBA 2K25》将于10月30日下架，服务器12月31日关停",
+        "url": "https://www.videogameschronicle.com/news/nba-2k25-is-being-delisted-later-this-month-servers-including-single-player-story-mode-shut-down-at-the-end-of-the-year/",
+        "date": "2026-10-05",
+        "section": 3,
+        "summary": "《NBA 2K25》将于10月30日从各数字商店下架，线上服务器将于12月31日全面关闭；由于 MyCareer 单人剧情模式依赖虚拟货币系统联网验证，关服后该模式也将无法游玩，仅 Play Now、MyNBA 和 The W 模式保留。"
+      },
+      "members": [
+        {
+          "title": "《NBA 2K25》将于10月30日下架，服务器12月31日关停",
+          "url": "https://www.videogameschronicle.com/news/nba-2k25-is-being-delisted-later-this-month-servers-including-single-player-story-mode-shut-down-at-the-end-of-the-year/",
+          "date": "2026-10-05",
+          "section": 3,
+          "summary": "《NBA 2K25》将于10月30日从各数字商店下架，线上服务器将于12月31日全面关闭；由于 MyCareer 单人剧情模式依赖虚拟货币系统联网验证，关服后该模式也将无法游玩，仅 Play Now、MyNBA 和 The W 模式保留。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "谷歌在英国面临高达10亿英镑的 Play 商店佣金集体诉讼",
+        "url": "https://www.pocketgamer.biz/google-faces-1bn-play-store-commission-trial-in-the-uk/",
+        "date": "2026-10-05",
+        "section": 3,
+        "summary": "英国竞争上诉法庭将于10月6日开庭审理针对谷歌的集体诉讼，案件由消费者维权人士 Liz Coll 提起，指控谷歌对 Play 商店应用内购买长期收取高达30%的佣金，涉及约2000万英国消费者及企业，审理将持续至11月20日。"
+      },
+      "members": [
+        {
+          "title": "谷歌在英国面临高达10亿英镑的 Play 商店佣金集体诉讼",
+          "url": "https://www.pocketgamer.biz/google-faces-1bn-play-store-commission-trial-in-the-uk/",
+          "date": "2026-10-05",
+          "section": 3,
+          "summary": "英国竞争上诉法庭将于10月6日开庭审理针对谷歌的集体诉讼，案件由消费者维权人士 Liz Coll 提起，指控谷歌对 Play 商店应用内购买长期收取高达30%的佣金，涉及约2000万英国消费者及企业，审理将持续至11月20日。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《巫师3：狂猎》重制版带动 Steam 同时在线人数创历史新高",
+        "url": "https://www.invenglobal.com/articles/26812/powered-by-remaster-the-witcher-3-sets-new-all-time-peak-concurrent-player-record-on-steam",
+        "date": "2026-10-05",
+        "section": 3,
+        "summary": "CD Projekt Red 于9月29日推出的《巫师3：狂猎》重制版带动该游戏在10月5日创下137,724人同时在线的全新历史纪录，超过2020年因网飞剧集带动产生的此前纪录（103,329人）。"
+      },
+      "members": [
+        {
+          "title": "《巫师3：狂猎》重制版带动 Steam 同时在线人数创历史新高",
+          "url": "https://www.invenglobal.com/articles/26812/powered-by-remaster-the-witcher-3-sets-new-all-time-peak-concurrent-player-record-on-steam",
+          "date": "2026-10-05",
+          "section": 3,
+          "summary": "CD Projekt Red 于9月29日推出的《巫师3：狂猎》重制版带动该游戏在10月5日创下137,724人同时在线的全新历史纪录，超过2020年因网飞剧集带动产生的此前纪录（103,329人）。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "NCSoft《永恒之塔2》全球正式上线，Steam 同时在线峰值超17万",
+        "url": "https://www.famitsu.com/article/202610/90092",
+        "date": "2026-10-05",
+        "section": 3,
+        "summary": "NCSoft 开发的 MMORPG《永恒之塔2》于10月5日22时在 Steam 及其 PURPLE 平台正式全球上线，地图规模为前作36倍；据 Inven Global 报道，该游戏当天 Steam 同时在线人数峰值达171,530人，登上 Steam 畅销榜榜首。"
+      },
+      "members": [
+        {
+          "title": "NCSoft《永恒之塔2》全球正式上线，Steam 同时在线峰值超17万",
+          "url": "https://www.famitsu.com/article/202610/90092",
+          "date": "2026-10-05",
+          "section": 3,
+          "summary": "NCSoft 开发的 MMORPG《永恒之塔2》于10月5日22时在 Steam 及其 PURPLE 平台正式全球上线，地图规模为前作36倍；据 Inven Global 报道，该游戏当天 Steam 同时在线人数峰值达171,530人，登上 Steam 畅销榜榜首。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Rockstar：《GTA6》刻意避免直接影射现实政治人物与事件",
+        "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
+        "date": "2026-10-05",
+        "section": 3,
+        "summary": "Rockstar 叙事副总裁 Rupert Humphries 表示，《GTA6》虚构州 Leonida 中会出现选举标语、政治广告等元素，但团队刻意不针对具体政治人物或事件，而是以夸张讽刺手法呈现普遍社会现象，因游戏开发周期长达13年，需避免追逐短期热点。"
+      },
+      "members": [
+        {
+          "title": "Rockstar：《GTA6》刻意避免直接影射现实政治人物与事件",
+          "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
+          "date": "2026-10-05",
+          "section": 3,
+          "summary": "Rockstar 叙事副总裁 Rupert Humphries 表示，《GTA6》虚构州 Leonida 中会出现选举标语、政治广告等元素，但团队刻意不针对具体政治人物或事件，而是以夸张讽刺手法呈现普遍社会现象，因游戏开发周期长达13年，需避免追逐短期热点。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "史克威尔艺莫《最终幻想7：永恒危机》将于10月7日停止服务",
+        "url": "https://www.ithome.com/1/009/857.htm",
+        "date": "2026-10-04",
+        "section": 3,
+        "summary": "据IT之家报道，史克威尔艺莫跨平台手游《最终幻想7：永恒危机》运营约三年后将于10月7日正式关闭服务器。"
+      },
+      "members": [
+        {
+          "title": "史克威尔艺莫《最终幻想7：永恒危机》将于10月7日停止服务",
+          "url": "https://www.ithome.com/1/009/857.htm",
+          "date": "2026-10-04",
+          "section": 3,
+          "summary": "据IT之家报道，史克威尔艺莫跨平台手游《最终幻想7：永恒危机》运营约三年后将于10月7日正式关闭服务器。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《恋与深空》国际服官方账号因分享含毒植物'鸡尾酒配方'引发争议",
+        "url": "https://www.ithome.com/1/009/866.htm",
+        "date": "2026-10-04",
+        "section": 3,
+        "summary": "据IT之家报道，热门手游《恋与深空》国际服官方账号分享了一份作为装饰含有毒性植物材料的'鸡尾酒配方'，引发玩家与媒体的安全性质疑和负面反馈。"
+      },
+      "members": [
+        {
+          "title": "《恋与深空》国际服官方账号因分享含毒植物'鸡尾酒配方'引发争议",
+          "url": "https://www.ithome.com/1/009/866.htm",
+          "date": "2026-10-04",
+          "section": 3,
+          "summary": "据IT之家报道，热门手游《恋与深空》国际服官方账号分享了一份作为装饰含有毒性植物材料的'鸡尾酒配方'，引发玩家与媒体的安全性质疑和负面反馈。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《新电波人》手游将于12月6日停止运营",
+        "url": "https://www.gematsu.com/2026/10/the-new-denpa-men-to-end-service-on-december-6",
+        "date": "2026-10-04",
+        "section": 3,
+        "summary": "据Gematsu报道，手机游戏《新电波人》将于12月6日正式结束运营服务。"
+      },
+      "members": [
+        {
+          "title": "《新电波人》手游将于12月6日停止运营",
+          "url": "https://www.gematsu.com/2026/10/the-new-denpa-men-to-end-service-on-december-6",
+          "date": "2026-10-04",
+          "section": 3,
+          "summary": "据Gematsu报道，手机游戏《新电波人》将于12月6日正式结束运营服务。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据报道Behaviour Interactive招聘广告意外曝光一款神秘3A科幻射击新作",
+        "url": "https://www.ithome.com/1/009/859.htm",
+        "date": "2026-10-04",
+        "section": 3,
+        "summary": "据IT之家报道，《黎明杀机》开发商Behaviour Interactive发布的一则高级技术动画师招聘信息，意外透露其正在使用Unreal Engine开发一款强调高写实度、含机械结构角色的3A科幻FPS新作，具体公布时间尚未确定。"
+      },
+      "members": [
+        {
+          "title": "据报道Behaviour Interactive招聘广告意外曝光一款神秘3A科幻射击新作",
+          "url": "https://www.ithome.com/1/009/859.htm",
+          "date": "2026-10-04",
+          "section": 3,
+          "summary": "据IT之家报道，《黎明杀机》开发商Behaviour Interactive发布的一则高级技术动画师招聘信息，意外透露其正在使用Unreal Engine开发一款强调高写实度、含机械结构角色的3A科幻FPS新作，具体公布时间尚未确定。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "大阪独立游戏峰会2026举行，多款独立新作亮相",
+        "url": "https://www.4gamer.net/",
+        "date": "2026-10-04",
+        "section": 3,
+        "summary": "据4Gamer报道，OSAKA INDIE GAMES SUMMIT 2026于10月3日至4日举行，《Near The Sun》《Catgirl Rage: Claws of Fury》《GLIDE》等多款独立游戏在会上展出试玩。"
+      },
+      "members": [
+        {
+          "title": "大阪独立游戏峰会2026举行，多款独立新作亮相",
+          "url": "https://www.4gamer.net/",
+          "date": "2026-10-04",
+          "section": 3,
+          "summary": "据4Gamer报道，OSAKA INDIE GAMES SUMMIT 2026于10月3日至4日举行，《Near The Sun》《Catgirl Rage: Claws of Fury》《GLIDE》等多款独立游戏在会上展出试玩。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

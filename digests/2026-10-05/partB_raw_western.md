@@ -1,0 +1,28 @@
+Part B — Research → Product (Western sweep: Google/DeepMind, Microsoft, Meta, Amazon, Apple, Intel, Qualcomm, Sony, Ubisoft, Electronic Arts)
+Window: last 90 days (2026-07-07 to 2026-10-05).
+
+## No new qualifying products found this week for this company set.
+
+Checked company product pages / blogs / newsrooms per `product-sources.md` (Google DeepMind blog + Genie page, Gemini/AI Ultra release notes; Microsoft Research blog, Xbox dev blog, Xbox Wire/Muse; Meta ai.meta.com/blog, Horizon Worlds developer blog; Amazon Science blog, AWS GameTech/Robotics blogs; Apple newsroom, developer.apple.com visionOS/RealityKit/Reality Composer Pro pages; Intel developer/graphics pages; Qualcomm developer blog/news; PlayStation Blog (ps5 category); Ubisoft La Forge + news.ubisoft.com; EA news + ea.com/seed) for anything released 2026-07-07–2026-10-05 on 3D generation/reconstruction, world models, character animation/motion, or game engines/rendering. No new GA, public-beta, or newly-announced item from these ten companies was verified from a primary source in the window beyond what is already tracked.
+
+## No material updates found to the 7 tracked items.
+
+Each tracked item's primary source was refetched and re-read in full:
+- Sony — QSSR on base PS5 (https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/): same content as first_seen (launch titles Marvel's Wolverine and Ghost of Yōtei via Oct 1 patch, Project Amethyst/AMD collaboration, Insomniac/Sucker Punch quotes). No tier change, no new platform/title list beyond what the post already states, no pricing/licensing change.
+- Sony — Upgraded PSSR in Doom: The Dark Ages on PS5 Pro (https://blog.playstation.com/2026/06/24/upgraded-pssr-comes-to-doom-the-dark-ages-on-ps5-pro/): page unchanged since original publish (June 24, 2026 / Free Update 4, July 7 release). No update.
+- Apple — RealityKit Gaussian Splatting support, visionOS 27 (https://developer.apple.com/visionos/whats-new/): page still describes visionOS 27 as the current release; no newer visionOS version or GaussianSplatComponent change found. No update.
+- Apple — Reality Composer Pro Assistant (https://developer.apple.com/reality-composer-pro/): still Reality Composer Pro 3, same feature set (Xcode integration, visual scripting, "generative intelligence to help with asset creation", Vision Pro live preview). No version bump, no update.
+- Meta — Hologram (https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/): page still states Hologram "begins rolling out in Early Access on WhatsApp to Meta Ray-Ban Display users in the US later this fall" — future tense, not yet live. Still **Announced only**; no tier change to beta/GA found.
+- Electronic Arts — Markerless Motion Capture / EA Create Capture (https://www.ea.com/news/ea-markerless-motion-capture): unchanged; still scoped to EA SPORTS FC and EA SPORTS UFC, same quotes from Nigel Nunn. No new titles or status change.
+- Qualcomm — Adreno Neural Fusion (https://www.qualcomm.com/developer/blog/2026/09/introducing-adreno-neural-fusion-sdk-for-snapdragon-mobile-platforms): corroborated via independent coverage (hothardware.com, 9to5google, androidcentral) — same SDK (Super Resolution + Frame Generation on new Adreno Matrix Cores / 18MB HPM, Unity + Unreal Engine support, Qualcomm's stated "up to 40% reduction in power consumption"). No new version, platform, or pricing/licensing change found.
+
+### Announced only (not yet usable)
+(none new for this company set this week — Meta Hologram remains announced-only as already tracked, not re-listed per instructions)
+
+Near-misses: 4
+- Ubisoft NEO NPC (Ubisoft × NVIDIA × Inworld AI) · still a research prototype (Inworld Character Engine/LLM dialogue + NVIDIA Audio2Face facial animation); no primary-source evidence of a new announcement or status change inside the 2026-07-07–2026-10-05 window — excluded as stale/out-of-window.
+- AWS WorldForge (Amazon/AWS RoboMaker 3D world generation) · on-topic surface name but is a robotics-simulation tool dated to 2020 in the material found, not a 2026-window release; also robotics-oriented rather than a consumer/creator/game surface — excluded as out-of-window and off-scope.
+- Odyssey world-simulation model (AWS-backed, Trainium-optimized) · Amazon is an investor/cloud partner, not the operator of the product; Odyssey is a world-model-native startup explicitly not tracked by default per `product-sources.md` — excluded, flagged as near-miss only.
+- Intel XeSS 3 (Multi Frame Generation, Panther Lake/Xe3) · on-topic (AI upscaling/frame generation) but could not verify a primary-source (intel.com) release/launch date falling inside the 90-day window — trade-press coverage points to a CES 2026 (January) announcement, outside the window, with tied game launches (e.g. Star Wars: Galactic Racer, Oct 6, 2026) falling just after the window closes; excluded pending a verifiable in-window primary source.
+
+Verification note: every tracked-item claim above was checked by refetching the exact primary-source URL on record in `product_seen.json` and comparing content; no new candidate is included because none could be confirmed from a primary source (company blog/newsroom/docs) as both on-topic and dated inside 2026-07-07–2026-10-05. Several pages (Qualcomm news/press-releases listings, Ubisoft La Forge news index, Apple newsroom index, Intel graphics docs) returned JS-rendered shells with no fetchable article list; these were supplemented with search-engine leads and cross-checked against trade press, but no additional primary source confirming a new in-window item surfaced before the ~40-call budget was reached.
