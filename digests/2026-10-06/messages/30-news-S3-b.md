@@ -1,0 +1,3 @@
+- **任天堂Switch 2日本「自选游戏套装」11月12日发售**（2026-10-05）— 任天堂公布Switch 2日版「自选游戏套装」将于11月12日在日本发售，玩家可自行选择捆绑的软件。 <https://www.gematsu.com/2026/10/switch-2-japanese-language-system-choose-your-game-bundle-launches-november-12-in-japan>
+- **Xbox Elite无线手柄3代细节疑似泄露，或提供霍尔效应/TMR摇杆可选**（2026-10-06）— 据报道，Xbox Elite无线手柄3代的细节已遭泄露，新款手柄据称将提供霍尔效应或TMR摇杆两种选项供玩家选择。 <https://www.videogameschronicle.com/news/xbox-elite-series-3-controller-details-have-reportedly-leaked-including-a-choice-of-hall-effect-or-tmr-sticks/>
+- **澳大利亚南澳州将「数字游戏基金」规模翻倍至100万美元**（2026-10-06）— 南澳电影公司（SAFC）将其「数字游戏基金」规模从50万美元翻倍至100万美元，分为预制作（最高3万）、制作（最高15万）和发布后本地化/移植（最高5万）三档资助，并将于年内推出工作室驻留资助项目；首轮已资助11家本地工作室共50万美元，产出包括登上Switch榜首的《Pro Jank Footy》。 <https://www.pocketgamer.biz/south-australia-launches-1m-digital-games-fund/>

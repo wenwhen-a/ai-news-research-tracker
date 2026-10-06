@@ -1,0 +1,332 @@
+{
+  "as_of": "2026-10-06",
+  "cutoff": "2026-10-05",
+  "window_days": 1,
+  "summary": {
+    "input_items": 15,
+    "denied_source": 0,
+    "in_window": 15,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 15,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 15,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 11,
+    "previously_covered_count": 4
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "《邪灵：塞纳》工作室 Ninja Theory 启动裁员，脱离 Xbox 独立计划失败",
+        "url": "https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox",
+        "date": "2026-10-05",
+        "summary": "据 Game Developer 和 Kotaku 报道，Ninja Theory（《地狱之刃》开发商）在两次潜在的「脱离 Xbox 独立」收购方案均告失败后开始裁员，部分在研项目受到影响。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《邪灵：塞纳》工作室 Ninja Theory 启动裁员，脱离 Xbox 独立计划失败",
+          "url": "https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox",
+          "date": "2026-10-05",
+          "summary": "据 Game Developer 和 Kotaku 报道，Ninja Theory（《地狱之刃》开发商）在两次潜在的「脱离 Xbox 独立」收购方案均告失败后开始裁员，部分在研项目受到影响。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Supermassive Games 裁员超 70 人，新作口碑遇冷",
+        "url": "https://kotaku.com/supermassive-lays-off-70-people-less-than-six-months-after-releasing-its-new-sci-fi-horror-game-2000740078",
+        "date": "2026-10-05",
+        "summary": "《直令 8020》发布不到半年后，恐怖游戏厂商 Supermassive Games 裁员超过 70 人，此前该作在 Steam 上评价不佳。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Supermassive Games 裁员超 70 人，新作口碑遇冷",
+          "url": "https://kotaku.com/supermassive-lays-off-70-people-less-than-six-months-after-releasing-its-new-sci-fi-horror-game-2000740078",
+          "date": "2026-10-05",
+          "summary": "《直令 8020》发布不到半年后，恐怖游戏厂商 Supermassive Games 裁员超过 70 人，此前该作在 Steam 上评价不佳。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Embark Studios《Arc Raiders》与《The Finals》确认影视化改编",
+        "url": "https://www.gamedeveloper.com/business/arc-raiders-and-the-finals-set-for-tv-and-film-adaptations-from-backrooms-co-producer",
+        "date": "2026-10-05",
+        "summary": "瑞典厂商 Embark Studios 旗下两款多人射击游戏《Arc Raiders》和《The Finals》已与《Backrooms》系列联合制片人达成影视改编协议。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Embark Studios《Arc Raiders》与《The Finals》确认影视化改编",
+          "url": "https://www.gamedeveloper.com/business/arc-raiders-and-the-finals-set-for-tv-and-film-adaptations-from-backrooms-co-producer",
+          "date": "2026-10-05",
+          "summary": "瑞典厂商 Embark Studios 旗下两款多人射击游戏《Arc Raiders》和《The Finals》已与《Backrooms》系列联合制片人达成影视改编协议。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《腐朽之国3》studio 负责人谈离开 Xbox：重心从打造旗舰 IP 转向工作室生存",
+        "url": "https://kotaku.com/state-of-decay-3-studio-head-talks-about-leaving-xbox-and-how-the-calculus-has-shifted-from-creating-a-tentpole-first-party-ip-to-ensuring-survival-2000740922",
+        "date": "2026-10-06",
+        "summary": "《腐朽之国》开发商 Undead Labs 负责人表示工作室已脱离 Xbox，经营重心已从打造第一方旗舰 IP 转为确保工作室生存，PC 版测试将在 2026 年底前开放。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《腐朽之国3》studio 负责人谈离开 Xbox：重心从打造旗舰 IP 转向工作室生存",
+          "url": "https://kotaku.com/state-of-decay-3-studio-head-talks-about-leaving-xbox-and-how-the-calculus-has-shifted-from-creating-a-tentpole-first-party-ip-to-ensuring-survival-2000740922",
+          "date": "2026-10-06",
+          "summary": "《腐朽之国》开发商 Undead Labs 负责人表示工作室已脱离 Xbox，经营重心已从打造第一方旗舰 IP 转为确保工作室生存，PC 版测试将在 2026 年底前开放。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《NBA 2K25》将于本月下架，服务器年底关停",
+        "url": "https://www.videogameschronicle.com/news/nba-2k25-is-being-delisted-later-this-month-servers-including-single-player-story-mode-shut-down-at-the-end-of-the-year/",
+        "date": "2026-10-05",
+        "summary": "2K 宣布《NBA 2K25》将于本月从各商店下架，包括单人剧情模式的全部服务器将在今年年底关闭。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《NBA 2K25》将于本月下架，服务器年底关停",
+          "url": "https://www.videogameschronicle.com/news/nba-2k25-is-being-delisted-later-this-month-servers-including-single-player-story-mode-shut-down-at-the-end-of-the-year/",
+          "date": "2026-10-05",
+          "summary": "2K 宣布《NBA 2K25》将于本月从各商店下架，包括单人剧情模式的全部服务器将在今年年底关闭。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《怪物猎人：崛起》全球销量突破 2000 万份",
+        "url": "https://www.gematsu.com/2026/10/monster-hunter-rise-sales-top-20-million",
+        "date": "2026-10-06",
+        "summary": "卡普空公布《怪物猎人：崛起》全球累计销量已突破 2000 万份，成为系列销量里程碑新作之一。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《怪物猎人：崛起》全球销量突破 2000 万份",
+          "url": "https://www.gematsu.com/2026/10/monster-hunter-rise-sales-top-20-million",
+          "date": "2026-10-06",
+          "summary": "卡普空公布《怪物猎人：崛起》全球累计销量已突破 2000 万份，成为系列销量里程碑新作之一。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《明日方舟：终末地》版本更新「墨痂圣所」10 月 15 日上线，同步登陆 Steam",
+        "url": "https://www.gematsu.com/2026/10/arknights-endfield-version-update-sanctuary-of-ink-launches-october-15-alongside-steam-release",
+        "date": "2026-10-06",
+        "summary": "鹰角网络宣布《明日方舟：终末地》新版本「墨痂圣所」将于 10 月 15 日上线，并同步开启 Steam 平台发行，支持跨平台账号互通。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《明日方舟：终末地》版本更新「墨痂圣所」10 月 15 日上线，同步登陆 Steam",
+          "url": "https://www.gematsu.com/2026/10/arknights-endfield-version-update-sanctuary-of-ink-launches-october-15-alongside-steam-release",
+          "date": "2026-10-06",
+          "summary": "鹰角网络宣布《明日方舟：终末地》新版本「墨痂圣所」将于 10 月 15 日上线，并同步开启 Steam 平台发行，支持跨平台账号互通。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《皇牌空战 8》Steam 同时在线玩家数突破 5.2 万，创系列新纪录",
+        "url": "https://www.ithome.com/1/010/026.htm",
+        "date": "2026-10-05",
+        "summary": "万代南梦宫《皇牌空战 8：希孚之翼》Steam 同时在线人数突破 5.2 万，刷新该系列作品的历史纪录。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《皇牌空战 8》Steam 同时在线玩家数突破 5.2 万，创系列新纪录",
+          "url": "https://www.ithome.com/1/010/026.htm",
+          "date": "2026-10-05",
+          "summary": "万代南梦宫《皇牌空战 8：希孚之翼》Steam 同时在线人数突破 5.2 万，刷新该系列作品的历史纪录。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《逃离塔科夫》上线最大规模 PvE 更新，新增声望系统",
+        "url": "https://www.ithome.com/1/010/025.htm",
+        "date": "2026-10-05",
+        "summary": "Battlestate Games 为《逃离塔科夫》PvE 模式推出迄今规模最大的更新，新增声望（Prestige）系统等内容。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《逃离塔科夫》上线最大规模 PvE 更新，新增声望系统",
+          "url": "https://www.ithome.com/1/010/025.htm",
+          "date": "2026-10-05",
+          "summary": "Battlestate Games 为《逃离塔科夫》PvE 模式推出迄今规模最大的更新，新增声望（Prestige）系统等内容。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Rockstar 为《GTA6》组建专门团队打造 NPC 路人对话",
+        "url": "https://www.ithome.com/1/009/870.htm",
+        "date": "2026-10-05",
+        "summary": "据报道，Rockstar Games 为《GTA6》投入专门团队设计 NPC 路人对话，力求让玩家更鲜明地感知游戏世界的社会文化氛围。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Rockstar 为《GTA6》组建专门团队打造 NPC 路人对话",
+          "url": "https://www.ithome.com/1/009/870.htm",
+          "date": "2026-10-05",
+          "summary": "据报道，Rockstar Games 为《GTA6》投入专门团队设计 NPC 路人对话，力求让玩家更鲜明地感知游戏世界的社会文化氛围。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《RuneScape》开发商 Jagex 因疑似使用生成式 AI 制作预告片下架视频",
+        "url": "https://kotaku.com/runescape-developer-jagex-takes-down-trailer-gen-ai-2000739980",
+        "date": "2026-10-05",
+        "summary": "Jagex 在被玩家质疑预告片使用生成式 AI 制作后将其下架，并声明公司不使用 GenAI 制作游戏、美术或创意素材。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《RuneScape》开发商 Jagex 因疑似使用生成式 AI 制作预告片下架视频",
+          "url": "https://kotaku.com/runescape-developer-jagex-takes-down-trailer-gen-ai-2000739980",
+          "date": "2026-10-05",
+          "summary": "Jagex 在被玩家质疑预告片使用生成式 AI 制作后将其下架，并声明公司不使用 GenAI 制作游戏、美术或创意素材。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "任天堂 Switch 2 日本「自选游戏套装」11 月 12 日发售",
+        "url": "https://www.gematsu.com/2026/10/switch-2-japanese-language-system-choose-your-game-bundle-launches-november-12-in-japan",
+        "date": "2026-10-05",
+        "summary": "任天堂公布 Switch 2 日版「自选游戏套装」将于 11 月 12 日在日本发售，玩家可自行选择捆绑的软件。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "任天堂 Switch 2 日本「自选游戏套装」11 月 12 日发售",
+          "url": "https://www.gematsu.com/2026/10/switch-2-japanese-language-system-choose-your-game-bundle-launches-november-12-in-japan",
+          "date": "2026-10-05",
+          "summary": "任天堂公布 Switch 2 日版「自选游戏套装」将于 11 月 12 日在日本发售，玩家可自行选择捆绑的软件。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《永恒之塔2》(AION2) 正式服务上线，初始地图规模为前作 36 倍",
+        "url": "https://www.famitsu.com/article/202610/90092",
+        "date": "2026-10-05",
+        "summary": "NCSoft 旗下 MMORPG《AION2》（永恒之塔2）于 10 月 5 日晚 22 点正式开启服务，初始开放地图规模达前作 36 倍。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《永恒之塔2》(AION2) 正式服务上线，初始地图规模为前作 36 倍",
+          "url": "https://www.famitsu.com/article/202610/90092",
+          "date": "2026-10-05",
+          "summary": "NCSoft 旗下 MMORPG《AION2》（永恒之塔2）于 10 月 5 日晚 22 点正式开启服务，初始开放地图规模达前作 36 倍。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Xbox Elite 无线手柄 3 代细节疑似泄露，或提供霍尔效应/TMR 摇杆可选",
+        "url": "https://www.videogameschronicle.com/news/xbox-elite-series-3-controller-details-have-reportedly-leaked-including-a-choice-of-hall-effect-or-tmr-sticks/",
+        "date": "2026-10-06",
+        "summary": "据报道，Xbox Elite 无线手柄 3 代的细节已遭泄露，新款手柄据称将提供霍尔效应或 TMR 摇杆两种选项供玩家选择。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Xbox Elite 无线手柄 3 代细节疑似泄露，或提供霍尔效应/TMR 摇杆可选",
+          "url": "https://www.videogameschronicle.com/news/xbox-elite-series-3-controller-details-have-reportedly-leaked-including-a-choice-of-hall-effect-or-tmr-sticks/",
+          "date": "2026-10-06",
+          "summary": "据报道，Xbox Elite 无线手柄 3 代的细节已遭泄露，新款手柄据称将提供霍尔效应或 TMR 摇杆两种选项供玩家选择。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "澳大利亚南澳州将“数字游戏基金”规模翻倍至100万美元",
+        "url": "https://www.pocketgamer.biz/south-australia-launches-1m-digital-games-fund/",
+        "date": "2026-10-06",
+        "section": 3,
+        "summary": "南澳电影公司(SAFC)将其“数字游戏基金”规模从50万美元翻倍至100万美元，分为预制作（最高3万）、制作（最高15万）和发布后本地化/移植（最高5万）三档资助，并将于年内推出工作室驻留资助项目；首轮已资助11家本地工作室共50万美元，产出包括登上Switch榜首的《Pro Jank Footy》。"
+      },
+      "members": [
+        {
+          "title": "澳大利亚南澳州将“数字游戏基金”规模翻倍至100万美元",
+          "url": "https://www.pocketgamer.biz/south-australia-launches-1m-digital-games-fund/",
+          "date": "2026-10-06",
+          "section": 3,
+          "summary": "南澳电影公司(SAFC)将其“数字游戏基金”规模从50万美元翻倍至100万美元，分为预制作（最高3万）、制作（最高15万）和发布后本地化/移植（最高5万）三档资助，并将于年内推出工作室驻留资助项目；首轮已资助11家本地工作室共50万美元，产出包括登上Switch榜首的《Pro Jank Footy》。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

@@ -1,0 +1,107 @@
+[
+ {
+  "title": "索尼为标准版PS5推出AI超分辨率技术QSSR",
+  "url": "https://blog.playstation.com/?p=424016",
+  "date": "2026-10-01",
+  "summary": "索尼在PlayStation Blog官方宣布推出Quick Spectral Super Resolution(QSSR),这是专为标准版PS5(非Pro版)设计的全新AI图像超分辨率技术,源自PlayStation与AMD合作的\"Amethyst计划\"。该技术采用精简神经网络架构,针对PS5硬件性能做了专门调优,《金刚狼》和《对马岛之魂2》已率先通过补丁加入该选项,索尼表示未来将向所有PlayStation开发者开放该技术。",
+  "section": 1
+ },
+ {
+  "title": "NVIDIA RTX Mega Geometry首秀《战争机器:E日》,技术将被纳入DirectX光线追踪2.0标准",
+  "url": "https://www.nvidia.com/en-us/geforce/news/gears-of-war-e-day-dlss-4-5-ray-tracing-rtx-mega-geometry/",
+  "date": "2026-10-06",
+  "summary": "NVIDIA官方博客宣布《战争机器:E日》于10月6日发售,成为首款采用RTX Mega Geometry技术的游戏,该技术历时六年研发,解决了Unreal Engine 5中Nanite几何体在光线追踪时退化为低细节网格的问题,并同时支持DLSS 4.5(含动态多帧生成,4K Ultra光追下性能可提升约7.5倍)。NVIDIA表示RTX Mega Geometry方案将被微软编入DirectX Raytracing 2.0(DXR 2.0)标准,使光追Nanite在所有Unreal Engine 5游戏中成为可能。",
+  "section": 1
+ },
+ {
+  "title": "《巫师3:狂猎—重制版》免费升级加入全局路径追踪与DLSS 4.5",
+  "url": "https://www.nvidia.com/en-us/geforce/news/witcher-3-wild-hunt-remastered-path-tracing-dlss-4-5-ray-reconstruction/",
+  "date": "2026-09-29",
+  "summary": "NVIDIA与CD PROJEKT RED合作为《巫师3:狂猎—重制版》免费推出重大技术更新,引入完整路径追踪取代原有光追/光栅混合渲染,并支持DLSS 4.5全套功能(包括最高6倍的动态多帧生成、第二代Transformer超分辨率模型及光线重建),RTX 50系列显卡可在4K路径追踪Ultra+画质下实现数百帧表现。",
+  "section": 2
+ },
+ {
+  "title": "《星球大战:银河赛车手》10月6日全球上线,搭载DLSS 4.5",
+  "url": "https://www.nvidia.com/en-gb/geforce/news/star-wars-galactic-racer-launches-october-6-with-dlss-4-5/",
+  "date": "2026-10-06",
+  "summary": "NVIDIA官方宣布赛车新作《星球大战:银河赛车手》10月6日全球发售,PC版支持DLSS超分辨率、动态多帧生成与光线重建,并提供与NVIDIA联合开发的专属路径追踪模式,带来更真实的光照表现。",
+  "section": 2
+ },
+ {
+  "title": "Unity推出Grok Build官方插件,AI编程代理阵营再添一员",
+  "url": "https://unity.com/blog/unity-plugin-grok",
+  "date": "2026-10-01",
+  "summary": "Unity在官方博客宣布为xAI的Grok Build编程代理发布官方插件,这是Unity第三款AI编程代理插件(此前已支持Claude Code和Codex),三者共享同一套30多项引擎专属技能(涵盖UI、2D、渲染管线、音频、物理、内购及多人联机等),所有插件统一维护于同一代码库,一条命令即可完成安装,适用于Unity 6及以上版本。",
+  "section": 2
+ },
+ {
+  "title": "腾讯秘密内测AI游戏陪伴产品\"鹅次元\"",
+  "url": "https://www.ithome.com/1/008/103.htm",
+  "date": "2026-09-29",
+  "summary": "腾讯被曝正在内测一款名为\"鹅次元\"的AI游戏陪伴产品，提供语音对话、实时画面识别和多角色人设的陪玩服务，可适配多款主流网络游戏。目前处于免费测试阶段，界面已出现\"星币兑换体力\"等付费功能入口。",
+  "section": 1
+ },
+ {
+  "title": "AI初创公司General Intuition完成2.2亿美元融资，估值达62亿美元",
+  "url": "https://www.pocketgamer.biz/general-intuition-raises-220m-at-62bn-valuation/",
+  "date": "2026-09-30",
+  "summary": "游戏录屏平台Medal的姊妹公司General Intuition完成由Valor Equity Partners领投的2.2亿美元新一轮融资，估值达到62亿美元，较今年1月估值几近翻三倍。公司利用Medal平台数十亿段带操作标签的玩家游玩视频训练\"世界模型\"，服务于机器人与自动驾驶等物理世界AI系统。",
+  "section": 1
+ },
+ {
+  "title": "Capcom公布RE引擎\"REX\"计划：用AI提升开发效率，但不做创意资产",
+  "url": "https://kotaku.com/heres-what-capcom-said-about-using-generative-ai-in-the-re-engine-2000739690",
+  "date": "2026-10-05",
+  "summary": "Capcom在10月2日的技术发布会上公布代号\"REX\"(RE neXt Engine)的RE引擎演进计划，提出打造\"适应AI时代的引擎\"。公司强调AI不会取代人类创意，而是用于减少重复性开发工作、让AI代理自动试玩找Bug，并重申旗下游戏不会使用AI生成的最终资产。",
+  "section": 1
+ },
+ {
+  "title": "Unity与xAI合作，为编程智能体Grok Build推出官方插件",
+  "url": "https://www.pocketgamer.biz/unity-brings-official-plugin-to-grok-build-in-new-partnership/",
+  "date": "2026-10-05",
+  "summary": "Unity宣布为xAI的编程智能体Grok Build推出官方插件，使其成为继Claude Code、Codex之后第三款获Unity官方支持的AI编程工具。插件提供30余项Unity技能，覆盖UI、2D/Tilemap、着色器、音频、网络对战等功能，适用于Unity 6及以上版本。",
+  "section": 2
+ },
+ {
+  "title": "移动广告工具Layer推出AI可玩广告生成器Playables",
+  "url": "https://www.pocketgamer.biz/layer-launches-ai-playable-ad-generator-to-tackle-production-bottlenecks-for-mobile-game-studios/",
+  "date": "2026-10-01",
+  "summary": "广告技术公司Layer推出AI功能Playables，可根据游戏截图、素材或简单描述在数小时内自动生成可玩广告(playable ad)，大幅压缩此前需1至3周的制作周期与成本。生成文件兼容AppLovin、Meta、TikTok、Unity Ads等主流广告网络，已面向订阅用户免费开放。",
+  "section": 2
+ },
+ {
+  "title": "动视、Bethesda打压玩家用AI还原《MW2》《辐射》的同人项目",
+  "url": "https://kotaku.com/activision-and-bethesda-crackdown-on-genai-mw2-and-fallout-projects-2000739580",
+  "date": "2026-10-03",
+  "summary": "一名开发者用AI智能体反编译代码复原《使命召唤：现代战争2》，相关演示视频遭动视以版权通知下架；另一名开发者用Claude Opus 5.5制作的网页版《辐射》同人作品\"Fallout: New York\"在获得350万浏览后，因Bethesda发出禁止令被迫放弃，反映发行商对AI辅助同人项目日益收紧的态度。",
+  "section": 2
+ },
+ {
+  "title": "日本CESA调查：85.8%游戏开发者已使用生成式AI",
+  "url": "https://kotaku.com/over-85-percent-of-japanese-game-developers-are-using-ai-2000736041",
+  "date": "2026-09-30",
+  "summary": "日本电脑娱乐供应商协会(CESA)在CEDEC大会上对1349名开发者的调查显示，85.8%的日本游戏开发者已使用生成式AI，较去年的51%明显上升，其中63%每天使用；但在公司层面，仅约12家企业将AI实际用于美术资产生成，应用仍集中在调试与行政事务等环节。",
+  "section": 2
+ },
+ {
+  "title": "SEGA称对生成式AI保持谨慎，不会用于游戏创意内容",
+  "url": "https://www.videogameschronicle.com/news/sega-claims-its-being-very-cautious-about-ai-and-wont-use-it-for-creative-work/",
+  "date": "2026-10-06",
+  "summary": "SEGA副首席商务官齐藤毅表示，公司对生成式AI的态度\"非常谨慎\"，不会将游戏的创意部分交给AI，目前AI仅用于发行、企业运营等非创意环节。此前《疯狂的士：世界巡游》被曝研究阶段使用过生成式AI，SEGA已成立\"生成式AI委员会\"制定使用规范与合规审查流程。",
+  "section": 2
+ },
+ {
+  "title": "AI\"缝合\"游戏混搭视频引发Mod社区争议",
+  "url": "https://www.videogameschronicle.com/news/ai-game-mashup-videos-on-social-media-spark-debate-and-backlash-among-players-and-modders/",
+  "date": "2026-10-05",
+  "summary": "部分Mod制作者使用Claude Opus 5.5同时反编译两款游戏并互相替换角色与场景资产，制作出如《我的世界》入侵《艾尔登法环》等\"缝合\"视频，在社交媒体引发争议。多名资深Mod作者批评此类内容为\"AI废料\"，担忧低质量AI混搭内容冲击传统Mod创作生态。",
+  "section": 2
+ },
+ {
+  "title": "北欧工作室谈AI实践：剔除创意核心，用于文档、编程辅助与剧情一致性核查",
+  "url": "https://www.pocketgamer.biz/nordic-ai-part-three-how-nordic-studios-are-using-ai-part-three-lore-checks-a-programmers-programmer-and-the-parts-writers-keep-for-themselves/",
+  "date": "2026-10-06",
+  "section": 2,
+  "summary": "PocketGamer.biz系列报道第三篇采访芬兰多家工作室：Red Stage Entertainment（开发《Skábma-Snowfall》）仅将AI用于语法检查、文档与排期预算；DREADMILL将AI称为编程辅助的“力量倍增器”，但明确表示“刻意将AI排除在游戏核心创意身份之外”；Brimstone AI的工具帮助叙事设计师核查新对话是否符合既有剧情设定。芬兰游戏制作者工会主席表示会员面临“用更少资源做更多事”的持续压力。"
+ }
+]
