@@ -1,0 +1,4 @@
+- **移动游戏公司FIRY（原Skillz）以5500万美元现金出售Exit Games股份**（2026-10-06）— 美国移动游戏公司FIRY（原Skillz）宣布以5500万美元现金出售其持有的德国实时联网技术公司Exit Games的股份。 <https://www.pocketgamer.biz/firy-sells-exit-games-stake-for-55m-in-cash/>
+- **动视暴雪前CEO鲍比·科蒂克加入Skydance公司董事会**（2026-10-07）— 派拉蒙与华纳兄弟合并后成立的新公司Skydance宣布，前动视暴雪CEO鲍比·科蒂克加入其董事会。 <https://kotaku.com/hes-back-2000741866>
+- **Xbox否认《GTA6》主机首发享有独家云端串流权的报道**（2026-10-06）— 针对媒体报道称Xbox将获得《GTA6》主机发售时的独家云端串流权，Xbox首席战略官马特·鲍尔予以否认，并确认该游戏不会独占串流。 <https://kotaku.com/xbox-lands-exclusive-streaming-rights-for-gta-6-at-launch-2000741146>
+- **经典MMORPG手游改编《Mabinogi Mobile》10月7日在日本正式上线**（2026-10-07）— 《Mabinogi》的手游改编作品《Mabinogi Mobile》10月7日在日本正式开服，延续原作"奇幻世界生活模拟"的玩法概念。 <https://www.famitsu.com/article/202610/90301>

@@ -1,0 +1,13 @@
+**[新闻 2] Unity公布"Unity Spark"：面向谷歌Playground的提示词建游戏工具**
+- **日期：** 2026-10-07
+- **来源链接：** <https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform>
+- **核心事实：**
+  - Unity于10月7日公布Unity Spark，一款专为谷歌Playground平台打造的提示词（prompt-based）建游戏工具，面向无编程经验的美术师、模组爱好者等创作者。
+  - Spark可打通Unity Asset Store数千款社区资源，并让创作者直接使用Playground的发布、排行榜、匹配等社区功能。
+  - Unity CEO Matthew Bromberg称该工具的目标是让创作者"从一句文字提示起步，逐步成长为完整游戏体验"。
+- **背景与起因：**
+  - 该工具是Unity与谷歌Playground整合计划的具体产品化落地（见上条），回应AI驱动的低门槛游戏创作趋势对传统引擎工作流的冲击。
+  - 打通Asset Store资源库意在为提示词生成的游戏快速补充可用美术与功能资产，降低生成内容的"空洞感"。
+- **结果与进展：**
+  - Unity Spark已随Google Playground平台一同公开亮相，创作者可直接在Playground内调用该工具并接入Asset Store资源。
+  - 此举标志着Unity官方正式将AI提示词创作纳入其产品矩阵，而非仅停留在此前的Unity AI助手/资产生成器功能范围内。

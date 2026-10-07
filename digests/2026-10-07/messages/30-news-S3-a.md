@@ -1,0 +1,9 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **Denuvo向法院申请传唤Discord、Valve、Reddit以追查DRM破解者身份**（2026-10-06）— 反篡改技术商Denuvo在起诉匿名破解者"voices38"（涉及《霍格沃茨之遗》《黑神话：悟空》等26款游戏DRM被破解）的诉讼中，向法院申请传唤Discord、Valve和Reddit以获取相关账号信息。 <https://www.ithome.com/1/010/234.htm>
+- **Xbox CEO称Xbox PC商店已是中国排名第一的PC游戏平台，重申次世代Helix为"设备家族"**（2026-10-07）— Xbox CEO阿莎·莎尔马在内部讲话中称Xbox PC商店已成为中国市场份额第一的PC游戏平台，并重申次世代主机"Project Helix"将是一个"设备家族"而非单一主机。 <https://www.ithome.com/1/010/223.htm>
+- **《四海兄弟2》《四海兄弟3》终极版获ESRB"M"级评级，暗示主机版临近发售**（2026-10-07）— 美国ESRB近日为两款游戏的终极版给出"M"（17+）评级，通常意味着官方发售公告即将到来。 <https://www.ithome.com/1/010/291.htm>
+- **Skydance宣布整合派拉蒙与华纳兄弟游戏部门，《霍格沃茨之遗2》等项目在列**（2026-10-07）— 派拉蒙与华纳兄弟探索完成1100亿美元合并、新公司更名Skydance后，宣布将双方游戏业务整合为统一部门，由Tony Driscoll领导。 <https://www.videogameschronicle.com/news/paramount-and-warner-bros-combine-video-game-divisions-after-110bn-skydance-merger/>
+- **据报道Xbox CEO告知员工：第一方业务已从"历史最低点"恢复增长**（2026-10-07）— 据报道，Xbox CEO阿莎·莎尔马向员工表示，经历裁员与重组后，Xbox第一方游戏业务已开始从此前的"历史最低点"恢复增长。 <https://www.videogameschronicle.com/news/xbox-has-started-to-return-to-growth-in-first-party-following-an-all-time-low-ceo-asha-sharma-reportedly-tells-staff/>
+- **GameStop将二手PS5 Pro标价上调至1400美元，应对《GTA6》发售前需求**（2026-10-07）— 美国零售商GameStop将二手PlayStation 5 Pro标价上调至1400美元，外界认为与《GTA6》11月19日发售前主机需求上升有关。 <https://www.videogameschronicle.com/news/gamestop-hikes-used-ps5-pro-price-to-1400-as-gta-6-demand-looms/>
+- **据报道：《索尼克：狂热》团队Evening Star正在为索尼开发新版《Ape Escape》**（2026-10-07）— 据Gematsu等多家媒体报道，开发《Penny's Big Breakaway》的工作室Evening Star据称正在为索尼开发新版《Ape Escape》，消息尚未获官方证实。 <https://www.gematsu.com/2026/10/rumor-ape-escape-revival-in-development-at-evening-star>
+- **美国圣迭戈县起诉AppLovin，指控其违规向儿童精准投放广告**（2026-10-07）— 美国圣迭戈县对移动广告技术公司AppLovin提起诉讼，指控其绕开家长监护设置、利用设备指纹技术向儿童精准投放广告。 <https://www.pocketgamer.biz/san-diego-county-sues-applovin-over-alleged-child-ad-targeting-4195351/>
