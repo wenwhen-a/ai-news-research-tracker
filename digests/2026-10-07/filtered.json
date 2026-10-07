@@ -1,0 +1,168 @@
+{
+  "as_of": "2026-10-07",
+  "cutoff": "2026-09-30",
+  "window_days": 7,
+  "summary": {
+    "input_items": 6,
+    "denied_source": 0,
+    "in_window": 6,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 6,
+    "duplicate_clusters": 0,
+    "section1_count": 2,
+    "section2_count": 4,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 5,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "谷歌推出实验性AI游戏创作平台Playground，并将与Unity Spark整合",
+        "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
+        "date": "2026-10-06",
+        "summary": "谷歌10月6日发布实验性AI游戏创作平台Playground，用户可通过文字提示在浏览器中创建、游玩和分享无需编程的自定义游戏，首发面向美国18岁以上用户；浏览和游玩免费，创建游戏则消耗按周发放的token，Google One AI订阅用户可获得更高额度。TechCrunch于10月7日跟进报道，并提到该平台计划整合Unity Spark以提供更高阶3D能力。",
+        "section": 1,
+        "outlet": "Game Developer / TechCrunch"
+      },
+      "members": [
+        {
+          "title": "谷歌推出实验性AI游戏创作平台Playground，并将与Unity Spark整合",
+          "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
+          "date": "2026-10-06",
+          "summary": "谷歌10月6日发布实验性AI游戏创作平台Playground，用户可通过文字提示在浏览器中创建、游玩和分享无需编程的自定义游戏，首发面向美国18岁以上用户；浏览和游玩免费，创建游戏则消耗按周发放的token，Google One AI订阅用户可获得更高额度。TechCrunch于10月7日跟进报道，并提到该平台计划整合Unity Spark以提供更高阶3D能力。",
+          "section": 1,
+          "outlet": "Game Developer / TechCrunch"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Unity公布Unity Spark：面向谷歌Playground的提示词建游戏工具",
+        "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
+        "date": "2026-10-07",
+        "summary": "Unity于10月7日公布Unity Spark，一款专为谷歌Playground平台打造的提示词（prompt-based）建游戏工具，面向无编程经验的美术师、模组爱好者等创作者；Spark可打通Unity Asset Store数千款社区资源，并让创作者使用Playground的发布、排行榜、匹配等社区功能，CEO Matthew Bromberg称其目标是让创作者\"从一句文字提示起步，逐步成长为完整游戏体验\"。",
+        "section": 1,
+        "outlet": "Game Developer"
+      },
+      "members": [
+        {
+          "title": "Unity公布Unity Spark：面向谷歌Playground的提示词建游戏工具",
+          "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
+          "date": "2026-10-07",
+          "summary": "Unity于10月7日公布Unity Spark，一款专为谷歌Playground平台打造的提示词（prompt-based）建游戏工具，面向无编程经验的美术师、模组爱好者等创作者；Spark可打通Unity Asset Store数千款社区资源，并让创作者使用Playground的发布、排行榜、匹配等社区功能，CEO Matthew Bromberg称其目标是让创作者\"从一句文字提示起步，逐步成长为完整游戏体验\"。",
+          "section": 1,
+          "outlet": "Game Developer"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "韩国AGF 2026\"以人为本\"宣传片被曝用AI生成，引发粉丝强烈反弹",
+        "url": "https://www.invenglobal.com/articles/26883/after-promising-a-human-centered-festival-agf-sparks-fan-backlash-with-ai-generated-teaser-video",
+        "date": "2026-10-06",
+        "summary": "韩国大型动漫游戏展会AGF 2026（预计12月4日至6日在KINTEX举行，上届吸引超10万人次）官方X账号发布的宣传预告片被粉丝指出系生成式AI制作，与主办方去年\"故事与角色传递的情感属于人类领域\"的表态相矛盾，引发社区强烈批评，质疑高额门票收入为何不用于雇佣人类创作者制作关键宣传物料。",
+        "section": 2,
+        "outlet": "Inven Global"
+      },
+      "members": [
+        {
+          "title": "韩国AGF 2026\"以人为本\"宣传片被曝用AI生成，引发粉丝强烈反弹",
+          "url": "https://www.invenglobal.com/articles/26883/after-promising-a-human-centered-festival-agf-sparks-fan-backlash-with-ai-generated-teaser-video",
+          "date": "2026-10-06",
+          "summary": "韩国大型动漫游戏展会AGF 2026（预计12月4日至6日在KINTEX举行，上届吸引超10万人次）官方X账号发布的宣传预告片被粉丝指出系生成式AI制作，与主办方去年\"故事与角色传递的情感属于人类领域\"的表态相矛盾，引发社区强烈批评，质疑高额门票收入为何不用于雇佣人类创作者制作关键宣传物料。",
+          "section": 2,
+          "outlet": "Inven Global"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "【更新】RuneScape开发商Jagex因AI预告片一周内二度违规下架宣传片",
+        "url": "https://www.videogameschronicle.com/news/runescape-studio-pulls-trailer-says-a-partner-broke-its-anti-ai-rule-without-its-knowledge-and-its-happened-before/",
+        "date": "2026-10-07",
+        "summary": "继此前因《RuneScape》预告片涉生成式AI内容道歉后，Jagex于10月7日再次下架《Dragon Slayer II》故事预告片；市场总监Alec Sween证实这是一周内第二次合作方违反公司\"禁止使用生成式AI\"规定（此前服装品牌100 Thieves已就RuneScape联名概念图使用AI道歉），预告片中出现六指骑士、现代球鞋等AI生成痕迹，Sween称\"这是第二次了……这让情况更加恶劣、也更加糟糕\"。新进展：Jagex承诺立即彻查审核流程，并委托社区创作者重新制作相关宣传内容。",
+        "section": 2,
+        "outlet": "Video Games Chronicle",
+        "update_of": "《RuneScape》开发商Jagex就预告片中出现生成式AI内容道歉，启动内部审查流程"
+      },
+      "members": [
+        {
+          "title": "【更新】RuneScape开发商Jagex因AI预告片一周内二度违规下架宣传片",
+          "url": "https://www.videogameschronicle.com/news/runescape-studio-pulls-trailer-says-a-partner-broke-its-anti-ai-rule-without-its-knowledge-and-its-happened-before/",
+          "date": "2026-10-07",
+          "summary": "继此前因《RuneScape》预告片涉生成式AI内容道歉后，Jagex于10月7日再次下架《Dragon Slayer II》故事预告片；市场总监Alec Sween证实这是一周内第二次合作方违反公司\"禁止使用生成式AI\"规定（此前服装品牌100 Thieves已就RuneScape联名概念图使用AI道歉），预告片中出现六指骑士、现代球鞋等AI生成痕迹，Sween称\"这是第二次了……这让情况更加恶劣、也更加糟糕\"。新进展：Jagex承诺立即彻查审核流程，并委托社区创作者重新制作相关宣传内容。",
+          "section": 2,
+          "outlet": "Video Games Chronicle",
+          "update_of": "《RuneScape》开发商Jagex就预告片中出现生成式AI内容道歉，启动内部审查流程"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "NVIDIA公布DLSS 4.5本周起扩展至《使命召唤：现代战争4》等多款新作",
+        "url": "https://www.nvidia.com/en-us/geforce/news/call-of-duty-modern-warfare-4-dlss-4-5-available-october-16/",
+        "date": "2026-10-06",
+        "summary": "NVIDIA10月6日公布DLSS 4.5后续上线计划：《战争机器：E日》与《星球大战：银河赛车》当日已支持，《微软模拟飞行2024》10月13日更新加入，《使命召唤：现代战争4》战役提前体验10月16日上线并支持最高6倍动态多帧生成；官方数据显示《战争机器：E日》在4K超高画质光追、6倍倍增比设置下，平均比原生渲染快7.5倍。",
+        "section": 2,
+        "outlet": "NVIDIA（官方GeForce新闻）"
+      },
+      "members": [
+        {
+          "title": "NVIDIA公布DLSS 4.5本周起扩展至《使命召唤：现代战争4》等多款新作",
+          "url": "https://www.nvidia.com/en-us/geforce/news/call-of-duty-modern-warfare-4-dlss-4-5-available-october-16/",
+          "date": "2026-10-06",
+          "summary": "NVIDIA10月6日公布DLSS 4.5后续上线计划：《战争机器：E日》与《星球大战：银河赛车》当日已支持，《微软模拟飞行2024》10月13日更新加入，《使命召唤：现代战争4》战役提前体验10月16日上线并支持最高6倍动态多帧生成；官方数据显示《战争机器：E日》在4K超高画质光追、6倍倍增比设置下，平均比原生渲染快7.5倍。",
+          "section": 2,
+          "outlet": "NVIDIA（官方GeForce新闻）"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "【更新】《永恒之塔2》Steam同时在线飙升至近40万，AI资产引发评价两极",
+        "url": "https://www.thegamer.com/aion-2-huge-steam-launch/",
+        "date": "2026-10-06",
+        "summary": "继此前上线首日Steam同时在线峰值超17万后，NCSoft《永恒之塔2》10月6日同时在线峰值进一步攀升至397,905人，成为2026年至今第四大热门Steam游戏。新进展：该作大量使用NCSoft自研VARCO AI框架生成文本、素材、音频、代码并辅助QA，Steam商店页面披露部分图标、Arcana卡牌设计及关键美术为AI生成，玩家评价\"褒贬不一\"（好评率66%），差评焦点集中在付费设计而非AI本身。",
+        "section": 2,
+        "outlet": "TheGamer",
+        "update_of": "NCSoft《永恒之塔2》全球正式上线，Steam 同时在线峰值超17万"
+      },
+      "members": [
+        {
+          "title": "【更新】《永恒之塔2》Steam同时在线飙升至近40万，AI资产引发评价两极",
+          "url": "https://www.thegamer.com/aion-2-huge-steam-launch/",
+          "date": "2026-10-06",
+          "summary": "继此前上线首日Steam同时在线峰值超17万后，NCSoft《永恒之塔2》10月6日同时在线峰值进一步攀升至397,905人，成为2026年至今第四大热门Steam游戏。新进展：该作大量使用NCSoft自研VARCO AI框架生成文本、素材、音频、代码并辅助QA，Steam商店页面披露部分图标、Arcana卡牌设计及关键美术为AI生成，玩家评价\"褒贬不一\"（好评率66%），差评焦点集中在付费设计而非AI本身。",
+          "section": 2,
+          "outlet": "TheGamer",
+          "update_of": "NCSoft《永恒之塔2》全球正式上线，Steam 同时在线峰值超17万"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

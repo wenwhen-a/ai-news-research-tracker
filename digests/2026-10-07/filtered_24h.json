@@ -1,0 +1,296 @@
+{
+  "as_of": "2026-10-07",
+  "cutoff": "2026-10-06",
+  "window_days": 1,
+  "summary": {
+    "input_items": 12,
+    "denied_source": 0,
+    "in_window": 12,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 12,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 12,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 11,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Denuvo向法院申请传唤Discord、Valve、Reddit以追查DRM破解者身份",
+        "url": "https://www.ithome.com/1/010/234.htm",
+        "date": "2026-10-06",
+        "summary": "反篡改技术商Denuvo在起诉匿名破解者\"voices38\"（涉及《霍格沃茨之遗》《黑神话：悟空》等26款游戏DRM被破解）的诉讼中，因无法确认对方真实身份，向法院申请传唤Discord、Valve和Reddit以获取相关账号信息。",
+        "section": 3,
+        "outlet": "IT之家"
+      },
+      "members": [
+        {
+          "title": "Denuvo向法院申请传唤Discord、Valve、Reddit以追查DRM破解者身份",
+          "url": "https://www.ithome.com/1/010/234.htm",
+          "date": "2026-10-06",
+          "summary": "反篡改技术商Denuvo在起诉匿名破解者\"voices38\"（涉及《霍格沃茨之遗》《黑神话：悟空》等26款游戏DRM被破解）的诉讼中，因无法确认对方真实身份，向法院申请传唤Discord、Valve和Reddit以获取相关账号信息。",
+          "section": 3,
+          "outlet": "IT之家"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Xbox CEO称Xbox PC商店已是中国排名第一的PC游戏平台，重申次世代Helix为\"设备家族\"",
+        "url": "https://www.ithome.com/1/010/223.htm",
+        "date": "2026-10-07",
+        "summary": "Xbox CEO阿莎·莎尔马在内部讲话中称，重组前Xbox业务曾\"自由落体\"式下滑，如今Xbox PC商店已成为中国市场份额第一的PC游戏平台；她并重申次世代主机\"Project Helix\"将是一个\"设备家族\"而非单一主机。",
+        "section": 3,
+        "outlet": "IT之家"
+      },
+      "members": [
+        {
+          "title": "Xbox CEO称Xbox PC商店已是中国排名第一的PC游戏平台，重申次世代Helix为\"设备家族\"",
+          "url": "https://www.ithome.com/1/010/223.htm",
+          "date": "2026-10-07",
+          "summary": "Xbox CEO阿莎·莎尔马在内部讲话中称，重组前Xbox业务曾\"自由落体\"式下滑，如今Xbox PC商店已成为中国市场份额第一的PC游戏平台；她并重申次世代主机\"Project Helix\"将是一个\"设备家族\"而非单一主机。",
+          "section": 3,
+          "outlet": "IT之家"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《四海兄弟2》《四海兄弟3》终极版获ESRB\"M\"级评级，暗示主机版临近发售",
+        "url": "https://www.ithome.com/1/010/291.htm",
+        "date": "2026-10-07",
+        "summary": "美国ESRB近日为《四海兄弟2：终极版》与《四海兄弟3：终极版》给出\"M\"（17+）评级，涉及暴力、毒品等内容描述，通常意味着官方发售公告即将到来。",
+        "section": 3,
+        "outlet": "IT之家"
+      },
+      "members": [
+        {
+          "title": "《四海兄弟2》《四海兄弟3》终极版获ESRB\"M\"级评级，暗示主机版临近发售",
+          "url": "https://www.ithome.com/1/010/291.htm",
+          "date": "2026-10-07",
+          "summary": "美国ESRB近日为《四海兄弟2：终极版》与《四海兄弟3：终极版》给出\"M\"（17+）评级，涉及暴力、毒品等内容描述，通常意味着官方发售公告即将到来。",
+          "section": 3,
+          "outlet": "IT之家"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Skydance宣布整合派拉蒙与华纳兄弟游戏部门，《霍格沃茨之遗2》等项目在列",
+        "url": "https://www.videogameschronicle.com/news/paramount-and-warner-bros-combine-video-game-divisions-after-110bn-skydance-merger/",
+        "date": "2026-10-07",
+        "summary": "派拉蒙与华纳兄弟探索完成1100亿美元合并、新公司更名Skydance后，宣布将派拉蒙游戏工作室与华纳兄弟游戏部门整合为统一游戏业务，由Tony Driscoll领导，旗下项目包括《霍格沃茨之遗2》及Rocksteady新作。",
+        "section": 3,
+        "outlet": "Video Games Chronicle"
+      },
+      "members": [
+        {
+          "title": "Skydance宣布整合派拉蒙与华纳兄弟游戏部门，《霍格沃茨之遗2》等项目在列",
+          "url": "https://www.videogameschronicle.com/news/paramount-and-warner-bros-combine-video-game-divisions-after-110bn-skydance-merger/",
+          "date": "2026-10-07",
+          "summary": "派拉蒙与华纳兄弟探索完成1100亿美元合并、新公司更名Skydance后，宣布将派拉蒙游戏工作室与华纳兄弟游戏部门整合为统一游戏业务，由Tony Driscoll领导，旗下项目包括《霍格沃茨之遗2》及Rocksteady新作。",
+          "section": 3,
+          "outlet": "Video Games Chronicle"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据报道Xbox CEO告知员工：第一方业务已从\"历史最低点\"恢复增长",
+        "url": "https://www.videogameschronicle.com/news/xbox-has-started-to-return-to-growth-in-first-party-following-an-all-time-low-ceo-asha-sharma-reportedly-tells-staff/",
+        "date": "2026-10-07",
+        "summary": "据报道，Xbox CEO阿莎·莎尔马向员工表示，在经历裁员与重组后，Xbox第一方游戏业务已开始从此前的\"历史最低点\"恢复增长；此前财报显示Xbox营收同比下滑约17亿美元。",
+        "section": 3,
+        "outlet": "Video Games Chronicle"
+      },
+      "members": [
+        {
+          "title": "据报道Xbox CEO告知员工：第一方业务已从\"历史最低点\"恢复增长",
+          "url": "https://www.videogameschronicle.com/news/xbox-has-started-to-return-to-growth-in-first-party-following-an-all-time-low-ceo-asha-sharma-reportedly-tells-staff/",
+          "date": "2026-10-07",
+          "summary": "据报道，Xbox CEO阿莎·莎尔马向员工表示，在经历裁员与重组后，Xbox第一方游戏业务已开始从此前的\"历史最低点\"恢复增长；此前财报显示Xbox营收同比下滑约17亿美元。",
+          "section": 3,
+          "outlet": "Video Games Chronicle"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "GameStop将二手PS5 Pro标价上调至1400美元，应对《GTA6》发售前需求",
+        "url": "https://www.videogameschronicle.com/news/gamestop-hikes-used-ps5-pro-price-to-1400-as-gta-6-demand-looms/",
+        "date": "2026-10-07",
+        "summary": "美国零售商GameStop将二手PlayStation 5 Pro主机标价上调至1400美元，外界认为与《GTA6》11月19日发售前主机需求上升有关。",
+        "section": 3,
+        "outlet": "Video Games Chronicle"
+      },
+      "members": [
+        {
+          "title": "GameStop将二手PS5 Pro标价上调至1400美元，应对《GTA6》发售前需求",
+          "url": "https://www.videogameschronicle.com/news/gamestop-hikes-used-ps5-pro-price-to-1400-as-gta-6-demand-looms/",
+          "date": "2026-10-07",
+          "summary": "美国零售商GameStop将二手PlayStation 5 Pro主机标价上调至1400美元，外界认为与《GTA6》11月19日发售前主机需求上升有关。",
+          "section": 3,
+          "outlet": "Video Games Chronicle"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "据报道：《索尼克：狂热》团队Evening Star正在为索尼开发新版《Ape Escape》",
+        "url": "https://www.gematsu.com/2026/10/rumor-ape-escape-revival-in-development-at-evening-star",
+        "date": "2026-10-07",
+        "summary": "据Gematsu等多家媒体报道，开发《Penny's Big Breakaway》与《索尼克：狂热》的工作室Evening Star据称正在为索尼开发新版《Ape Escape》（爬爬猿），消息尚未获官方证实。",
+        "section": 3,
+        "outlet": "Gematsu"
+      },
+      "members": [
+        {
+          "title": "据报道：《索尼克：狂热》团队Evening Star正在为索尼开发新版《Ape Escape》",
+          "url": "https://www.gematsu.com/2026/10/rumor-ape-escape-revival-in-development-at-evening-star",
+          "date": "2026-10-07",
+          "summary": "据Gematsu等多家媒体报道，开发《Penny's Big Breakaway》与《索尼克：狂热》的工作室Evening Star据称正在为索尼开发新版《Ape Escape》（爬爬猿），消息尚未获官方证实。",
+          "section": 3,
+          "outlet": "Gematsu"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "美国圣迭戈县起诉AppLovin，指控其违规向儿童精准投放广告",
+        "url": "https://www.pocketgamer.biz/san-diego-county-sues-applovin-over-alleged-child-ad-targeting-4195351/",
+        "date": "2026-10-07",
+        "summary": "美国圣迭戈县对移动广告技术公司AppLovin提起诉讼，指控其绕开家长监护设置、利用设备指纹技术向儿童精准投放广告。",
+        "section": 3,
+        "outlet": "PocketGamer.biz"
+      },
+      "members": [
+        {
+          "title": "美国圣迭戈县起诉AppLovin，指控其违规向儿童精准投放广告",
+          "url": "https://www.pocketgamer.biz/san-diego-county-sues-applovin-over-alleged-child-ad-targeting-4195351/",
+          "date": "2026-10-07",
+          "summary": "美国圣迭戈县对移动广告技术公司AppLovin提起诉讼，指控其绕开家长监护设置、利用设备指纹技术向儿童精准投放广告。",
+          "section": 3,
+          "outlet": "PocketGamer.biz"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "移动游戏公司FIRY（原Skillz）以5500万美元现金出售Exit Games股份",
+        "url": "https://www.pocketgamer.biz/firy-sells-exit-games-stake-for-55m-in-cash/",
+        "date": "2026-10-06",
+        "summary": "美国移动游戏公司FIRY（原Skillz）宣布以5500万美元现金出售其持有的德国实时联网技术公司Exit Games的股份。",
+        "section": 3,
+        "outlet": "PocketGamer.biz"
+      },
+      "members": [
+        {
+          "title": "移动游戏公司FIRY（原Skillz）以5500万美元现金出售Exit Games股份",
+          "url": "https://www.pocketgamer.biz/firy-sells-exit-games-stake-for-55m-in-cash/",
+          "date": "2026-10-06",
+          "summary": "美国移动游戏公司FIRY（原Skillz）宣布以5500万美元现金出售其持有的德国实时联网技术公司Exit Games的股份。",
+          "section": 3,
+          "outlet": "PocketGamer.biz"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "动视暴雪前CEO鲍比·科蒂克加入Skydance公司董事会",
+        "url": "https://kotaku.com/hes-back-2000741866",
+        "date": "2026-10-07",
+        "summary": "派拉蒙与华纳兄弟合并后成立的新公司Skydance宣布，前动视暴雪CEO鲍比·科蒂克加入其董事会；科蒂克在动视暴雪2023年被微软以700亿美元收购后离职，此后涉足多项商业投资。",
+        "section": 3,
+        "outlet": "Kotaku"
+      },
+      "members": [
+        {
+          "title": "动视暴雪前CEO鲍比·科蒂克加入Skydance公司董事会",
+          "url": "https://kotaku.com/hes-back-2000741866",
+          "date": "2026-10-07",
+          "summary": "派拉蒙与华纳兄弟合并后成立的新公司Skydance宣布，前动视暴雪CEO鲍比·科蒂克加入其董事会；科蒂克在动视暴雪2023年被微软以700亿美元收购后离职，此后涉足多项商业投资。",
+          "section": 3,
+          "outlet": "Kotaku"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Xbox否认《GTA6》主机首发享有独家云端串流权的报道",
+        "url": "https://kotaku.com/xbox-lands-exclusive-streaming-rights-for-gta-6-at-launch-2000741146",
+        "date": "2026-10-06",
+        "summary": "针对媒体报道称Xbox将获得《GTA6》主机发售时的独家云端串流权，Xbox首席战略官马特·鲍尔在社交媒体予以否认，并确认该游戏不会独占串流、也不会提供PC云串流。",
+        "section": 3,
+        "outlet": "Kotaku"
+      },
+      "members": [
+        {
+          "title": "Xbox否认《GTA6》主机首发享有独家云端串流权的报道",
+          "url": "https://kotaku.com/xbox-lands-exclusive-streaming-rights-for-gta-6-at-launch-2000741146",
+          "date": "2026-10-06",
+          "summary": "针对媒体报道称Xbox将获得《GTA6》主机发售时的独家云端串流权，Xbox首席战略官马特·鲍尔在社交媒体予以否认，并确认该游戏不会独占串流、也不会提供PC云串流。",
+          "section": 3,
+          "outlet": "Kotaku"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "经典MMORPG手游改编《Mabinogi Mobile》10月7日在日本正式上线",
+        "url": "https://www.famitsu.com/article/202610/90301",
+        "date": "2026-10-07",
+        "summary": "《Mabinogi》的手游改编作品《Mabinogi Mobile》10月7日在日本正式开服，延续原作\"奇幻世界生活模拟\"的玩法概念。",
+        "section": 3,
+        "outlet": "Famitsu"
+      },
+      "members": [
+        {
+          "title": "经典MMORPG手游改编《Mabinogi Mobile》10月7日在日本正式上线",
+          "url": "https://www.famitsu.com/article/202610/90301",
+          "date": "2026-10-07",
+          "summary": "《Mabinogi》的手游改编作品《Mabinogi Mobile》10月7日在日本正式开服，延续原作\"奇幻世界生活模拟\"的玩法概念。",
+          "section": 3,
+          "outlet": "Famitsu"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
