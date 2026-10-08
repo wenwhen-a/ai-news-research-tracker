@@ -1,0 +1,252 @@
+{
+  "as_of": "2026-10-08",
+  "cutoff": "2026-10-07",
+  "window_days": 1,
+  "summary": {
+    "input_items": 11,
+    "denied_source": 0,
+    "in_window": 11,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 11,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 11,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 11,
+    "previously_covered_count": 0
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Journey and What Remains of Edith Finch designer's studio Gardens Interactive raises $35M Series B",
+        "url": "https://www.videogameschronicle.com/news/edith-finch-journey-designer-secures-big-investment-for-shared-world-fantasy-game/",
+        "date": "2026-10-08",
+        "summary": "Gardens Interactive, co-founded by Chris Bell (Journey, What Remains of Edith Finch) and Stephen Bell, raised over $35 million in a Series B led by Lightspeed Venture Partners, pushing total funding past $70 million, for its shared-world fantasy 'strandbox' game. Other investors include Sequoia Capital, Index Ventures, Accel, and Eric Schmidt's Innovation Endeavors.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Journey and What Remains of Edith Finch designer's studio Gardens Interactive raises $35M Series B",
+          "url": "https://www.videogameschronicle.com/news/edith-finch-journey-designer-secures-big-investment-for-shared-world-fantasy-game/",
+          "date": "2026-10-08",
+          "summary": "Gardens Interactive, co-founded by Chris Bell (Journey, What Remains of Edith Finch) and Stephen Bell, raised over $35 million in a Series B led by Lightspeed Venture Partners, pushing total funding past $70 million, for its shared-world fantasy 'strandbox' game. Other investors include Sequoia Capital, Index Ventures, Accel, and Eric Schmidt's Innovation Endeavors.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Ultima creator Richard Garriott confirms he is reclaiming series copyrights from EA",
+        "url": "https://www.videogameschronicle.com/news/richard-garriott-is-officially-regaining-control-of-the-ultima-series/",
+        "date": "2026-10-08",
+        "summary": "Richard Garriott confirmed he notified Electronic Arts in April under a US copyright provision letting authors reclaim rights after 35 years, so the Ultima copyrights EA acquired with Origin Systems in 1992 will revert to him in 2027. EA keeps the Ultima trademark, and the two sides are discussing possible joint projects before the reversion.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Ultima creator Richard Garriott confirms he is reclaiming series copyrights from EA",
+          "url": "https://www.videogameschronicle.com/news/richard-garriott-is-officially-regaining-control-of-the-ultima-series/",
+          "date": "2026-10-08",
+          "summary": "Richard Garriott confirmed he notified Electronic Arts in April under a US copyright provision letting authors reclaim rights after 35 years, so the Ultima copyrights EA acquired with Origin Systems in 1992 will revert to him in 2027. EA keeps the Ultima trademark, and the two sides are discussing possible joint projects before the reversion.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Sony sells dozens of PlayStation VR patents to Meta, signaling retreat from VR hardware",
+        "url": "https://www.videogameschronicle.com/news/sony-seemingly-closes-the-door-on-playstation-vr-as-it-sells-more-than-40-vr-patents-to-meta/",
+        "date": "2026-10-08",
+        "summary": "USPTO records show Sony has transferred 43 VR-related patents to Meta so far under a December agreement that will eventually cover more than 400 patents worldwide, seen as Sony scaling back its PlayStation VR ambitions.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Sony sells dozens of PlayStation VR patents to Meta, signaling retreat from VR hardware",
+          "url": "https://www.videogameschronicle.com/news/sony-seemingly-closes-the-door-on-playstation-vr-as-it-sells-more-than-40-vr-patents-to-meta/",
+          "date": "2026-10-08",
+          "summary": "USPTO records show Sony has transferred 43 VR-related patents to Meta so far under a December agreement that will eventually cover more than 400 patents worldwide, seen as Sony scaling back its PlayStation VR ambitions.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Battlefield 6 and eight other games join Xbox Game Pass in October",
+        "url": "https://www.videogameschronicle.com/news/battlefield-6-and-more-are-joining-xbox-game-pass-in-october/",
+        "date": "2026-10-08",
+        "summary": "Microsoft confirmed nine games are joining Xbox Game Pass in October 2026, including Battlefield 6 and Valor Mortis (both day one) on October 13, alongside Echo Weaver, Forever Ago, Neon Abyss 2 and others.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Battlefield 6 and eight other games join Xbox Game Pass in October",
+          "url": "https://www.videogameschronicle.com/news/battlefield-6-and-more-are-joining-xbox-game-pass-in-october/",
+          "date": "2026-10-08",
+          "summary": "Microsoft confirmed nine games are joining Xbox Game Pass in October 2026, including Battlefield 6 and Valor Mortis (both day one) on October 13, alongside Echo Weaver, Forever Ago, Neon Abyss 2 and others.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "35% of Marvel's Wolverine launch sales were physical discs, data suggests",
+        "url": "https://www.videogameschronicle.com/news/35-of-sonys-wolverine-launch-sales-were-the-disc-version-data-suggests/",
+        "date": "2026-10-08",
+        "summary": "Ampere Analysis data shows about 35% of Marvel's Wolverine's launch sales were physical discs (Europe skewed more physical, roughly 51% per GSD), as the PS5 exclusive ranked the second-best-selling PS5 game of September with about 2.16 million units sold. The data comes as Sony plans to stop producing PS5 discs for games launching after January 2028.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "35% of Marvel's Wolverine launch sales were physical discs, data suggests",
+          "url": "https://www.videogameschronicle.com/news/35-of-sonys-wolverine-launch-sales-were-the-disc-version-data-suggests/",
+          "date": "2026-10-08",
+          "summary": "Ampere Analysis data shows about 35% of Marvel's Wolverine's launch sales were physical discs (Europe skewed more physical, roughly 51% per GSD), as the PS5 exclusive ranked the second-best-selling PS5 game of September with about 2.16 million units sold. The data comes as Sony plans to stop producing PS5 discs for games launching after January 2028.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Star Wars Zero Company developer Bit Reactor begins returning furloughed staff to payroll",
+        "url": "https://www.videogameschronicle.com/news/star-wars-zero-company-staff-returning-to-work-after-being-furloughed-pre-release/",
+        "date": "2026-10-07",
+        "summary": "Bit Reactor, which furloughed roughly 80% of its staff unpaid ahead of Star Wars Zero Company's August launch, has started bringing some employees back onto payroll. CEO Greg Foertsch called it an important step, though reporting indicates only about half the pre-furlough headcount has so far been restored.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Star Wars Zero Company developer Bit Reactor begins returning furloughed staff to payroll",
+          "url": "https://www.videogameschronicle.com/news/star-wars-zero-company-staff-returning-to-work-after-being-furloughed-pre-release/",
+          "date": "2026-10-07",
+          "summary": "Bit Reactor, which furloughed roughly 80% of its staff unpaid ahead of Star Wars Zero Company's August launch, has started bringing some employees back onto payroll. CEO Greg Foertsch called it an important step, though reporting indicates only about half the pre-furlough headcount has so far been restored.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Riot Games delays controversial League of Legends replay-access restriction to Patch 26.21",
+        "url": "https://www.strafe.com/news/read/riot-changes-lol-replay-system-sparking-community-backlash/",
+        "date": "2026-10-07",
+        "summary": "Riot Games postponed a League of Legends change -- originally set to take effect October 7 -- that would have limited replay access to players' own matches and cut off third-party replay tools, after backlash from coaches, analysts and content creators. Riot cited anti-cheat/security reasons and said it is working on a solution for creators and coaches before the restriction returns in Patch 26.21.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Riot Games delays controversial League of Legends replay-access restriction to Patch 26.21",
+          "url": "https://www.strafe.com/news/read/riot-changes-lol-replay-system-sparking-community-backlash/",
+          "date": "2026-10-07",
+          "summary": "Riot Games postponed a League of Legends change -- originally set to take effect October 7 -- that would have limited replay access to players' own matches and cut off third-party replay tools, after backlash from coaches, analysts and content creators. Riot cited anti-cheat/security reasons and said it is working on a solution for creators and coaches before the restriction returns in Patch 26.21.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Valve grants BC.Game exception to qualify for PGL Major Singapore through the Asia region",
+        "url": "https://www.hltv.org/news/45666/valve-issues-exception-for-bcgame-to-qualify-for-singapore-major-through-asia",
+        "date": "2026-10-07",
+        "summary": "Valve granted Counter-Strike 2 team BC.Game an exception letting it be assigned to the Asia region for Valve Regional Standings purposes, allowing it to pursue PGL Major Singapore qualification despite not meeting a new three-month region-change rule, after the team appealed.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Valve grants BC.Game exception to qualify for PGL Major Singapore through the Asia region",
+          "url": "https://www.hltv.org/news/45666/valve-issues-exception-for-bcgame-to-qualify-for-singapore-major-through-asia",
+          "date": "2026-10-07",
+          "summary": "Valve granted Counter-Strike 2 team BC.Game an exception letting it be assigned to the Asia region for Valve Regional Standings purposes, allowing it to pursue PGL Major Singapore qualification despite not meeting a new three-month region-change rule, after the team appealed.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Australian government advises citizens how to request unpaid leave to play GTA 6",
+        "url": "https://www.videogameschronicle.com/news/australian-government-advises-citizens-on-how-to-request-unpaid-leave-to-play-gta-6/",
+        "date": "2026-10-08",
+        "summary": "Australia's Fair Work Ombudsman posted guidance clarifying that paid-leave categories such as carer's or parental leave cannot be used to play GTA 6 at launch, but employees can still request unpaid leave from employers, who may approve it at their discretion.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Australian government advises citizens how to request unpaid leave to play GTA 6",
+          "url": "https://www.videogameschronicle.com/news/australian-government-advises-citizens-on-how-to-request-unpaid-leave-to-play-gta-6/",
+          "date": "2026-10-08",
+          "summary": "Australia's Fair Work Ombudsman posted guidance clarifying that paid-leave categories such as carer's or parental leave cannot be used to play GTA 6 at launch, but employees can still request unpaid leave from employers, who may approve it at their discretion.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Xbox forms new XP division to oversee film, TV and merchandise, led by former Mojang chief",
+        "url": "https://kotaku.com/xbox-is-forming-a-new-division-focused-on-film-tv-and-adaptations-2000742611",
+        "date": "2026-10-08",
+        "summary": "Microsoft's Xbox is creating a new division called XP to expand its franchises into film, TV, consumer products, partnerships and live events. Mojang president Kayleen Walters will lead it, overseeing projects including a Minecraft Movie sequel, the Fallout TV series, a Call of Duty film, a Diablo animated series, and events like BlizzCon and Minecraft Live.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Xbox forms new XP division to oversee film, TV and merchandise, led by former Mojang chief",
+          "url": "https://kotaku.com/xbox-is-forming-a-new-division-focused-on-film-tv-and-adaptations-2000742611",
+          "date": "2026-10-08",
+          "summary": "Microsoft's Xbox is creating a new division called XP to expand its franchises into film, TV, consumer products, partnerships and live events. Mojang president Kayleen Walters will lead it, overseeing projects including a Minecraft Movie sequel, the Fallout TV series, a Call of Duty film, a Diablo animated series, and events like BlizzCon and Minecraft Live.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "US physical game spending rose in 2026, driven by Nintendo Switch 2 game-key cards, Circana reports",
+        "url": "https://kotaku.com/spending-on-physical-games-in-the-u-s-was-up-in-august-thanks-to-game-key-cards-2000742604",
+        "date": "2026-10-08",
+        "summary": "Circana data shows US spending on new physical games rose about 5% year-over-year in 2026, as spending on Switch 2 'game-key card' titles jumped roughly 631% (with 54 more such titles released than last year), offsetting a 3% decline in other physical software.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "US physical game spending rose in 2026, driven by Nintendo Switch 2 game-key cards, Circana reports",
+          "url": "https://kotaku.com/spending-on-physical-games-in-the-u-s-was-up-in-august-thanks-to-game-key-cards-2000742604",
+          "date": "2026-10-08",
+          "summary": "Circana data shows US spending on new physical games rose about 5% year-over-year in 2026, as spending on Switch 2 'game-key card' titles jumped roughly 631% (with 54 more such titles released than last year), offsetting a 3% decline in other physical software.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

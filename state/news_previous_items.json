@@ -1,131 +1,5 @@
 [
  {
-  "title": "AI机器人\"Pluto\"潜入《星际争霸》官方天梯，连胜多名职业选手引发社区举报",
-  "url": "https://www.dexerto.com/gaming/ai-bot-destroys-top-starcraft-pros-after-invading-ladder-and-using-absurd-strategies-3410863/",
-  "date": "2026-09-21",
-  "section": 1,
-  "posted": "2026-09-23"
- },
- {
-  "title": "NVIDIA披露DLSS 5神经渲染新进展、NVIDIA ACE语音AI及RTX Kit开发者更新",
-  "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
-  "date": "2026-09-22",
-  "section": 1,
-  "posted": "2026-09-23"
- },
- {
-  "title": "NVIDIA发布617.14 Game Ready驱动，为《控制：共鸣》《战争机器：E日》等新作加入DLSS 4.5支持",
-  "url": "https://www.nvidia.com/en-us/geforce/news/control-resonant-gears-of-war-e-day-geforce-game-ready-driver/",
-  "date": "2026-09-22",
-  "section": 2,
-  "posted": "2026-09-23"
- },
- {
-  "title": "《Aniimo》手游版9月23日全球上线，NVIDIA ACE语音AI伙伴功能延至2027年初推出",
-  "url": "https://www.aniimo.com/newslist/detail/100137",
-  "date": "2026-09-22",
-  "section": 2,
-  "posted": "2026-09-23"
- },
- {
-  "title": "AI and Games Conference 2026公布演讲阵容，Fenris Creations将首度披露与谷歌DeepMind的研究合作",
-  "url": "https://www.aiandgames.com/p/fenris-creations-embark-warhorse",
-  "date": "2026-09-23",
-  "section": 2,
-  "posted": "2026-09-23"
- },
- {
-  "title": "独立工作室Starform谈\"AI原生\"开发：26人团队支撑起拥有1500万玩家的live游戏",
-  "url": "https://www.pocketgamer.biz/starforms-lou-fasulo-on-staying-at-26-people-ai-native-development-and-who-really-funds-a-live-game/",
-  "date": "2026-09-23",
-  "section": 2,
-  "posted": "2026-09-23"
- },
- {
-  "title": "AI对话小说游戏《Kataris》亮相东京电玩展2026，玩家可自由输入文本影响剧情与战斗",
-  "url": "https://www.4gamer.net/games/044/G104421/20260921066/",
-  "date": "2026-09-23",
-  "section": 2,
-  "posted": "2026-09-23"
- },
- {
-  "title": "抖音AI\"GTA式摸鱼\"短视频十分钟生成即爆红，创作者个人账号反遭限流",
-  "url": "https://www.youxituoluo.com/534906.html",
-  "date": "2026-09-23",
-  "section": 2,
-  "posted": "2026-09-23"
- },
- {
-  "title": "腾讯游戏AI创作平台\"游点灵\"（原Project Craft）首次公开亮相，联合马栏山集团举办AI游戏训练营",
-  "url": "https://www.youxituoluo.com/534899.html",
-  "date": "2026-09-22",
-  "section": 2,
-  "posted": "2026-09-23"
- },
- {
-  "title": "PS5系统更新默认开启AI画质增强功能\"Enhanced PSSR\"",
-  "url": "https://www.pushsquare.com/news/2026/09/ps5s-new-firmware-update-available-to-download-now-heres-what-it-does",
-  "date": "2026-09-16",
-  "section": 2,
-  "posted": "2026-09-23"
- },
- {
-  "title": "OpenAI的GPT-6 Astra连续游玩141小时《我的世界》，苦力怕爆炸后陷入\"崩溃\"式潜行",
-  "url": "https://www.dexerto.com/minecraft/gpt-6-astra-forced-to-play-minecraft-gets-depressed-by-creeper-and-farms-potatoes-for-hours-3409634/",
-  "date": "2026-09-16",
-  "section": 2,
-  "posted": "2026-09-23"
- },
- {
-  "title": "腾讯《粒粒的小人国》开启第二次大规模测试，NPC\"粒粒\"升级AI行为",
-  "url": "https://news.17173.com/content/09232026/131421408.shtml",
-  "date": "2026-09-22",
-  "section": 2,
-  "posted": "2026-09-23"
- },
- {
-  "title": "更新】Xbox官方确认新一轮\"重启\"：裁员268人，Halo开发权移交动视，Obsidian并入Bethesda，Turn 10与Playground Games合并",
-  "url": "https://news.xbox.com/en-us/2026/09/22/continuing-our-reset/",
-  "date": "2026-09-22",
-  "section": 3,
-  "posted": "2026-09-23"
- },
- {
-  "title": "《战争机器：E日》剧情总监在游戏\"金盘\"仅四天后被裁",
-  "url": "https://kotaku.com/gears-of-war-e-day-story-director-laid-off-just-four-days-after-celebrating-the-game-going-gold-2000736518",
-  "date": "2026-09-22",
-  "section": 3,
-  "posted": "2026-09-23"
- },
- {
-  "title": "《逃离塔科夫》开发商Battlestate Games成立新发行部门，主攻\"高风险\"独立游戏",
-  "url": "https://www.gamedeveloper.com/business/escape-from-tarkov-dev-wants-to-bet-on-risky-games-with-its-new-publishing-arm",
-  "date": "2026-09-22",
-  "section": 3,
-  "posted": "2026-09-23"
- },
- {
-  "title": "Rockstar Games在《GTA6》发售前收紧模组政策",
-  "url": "https://kotaku.com/rockstar-asks-fans-to-respect-their-games-as-it-updates-strict-modding-guidelines-2000736306",
-  "date": "2026-09-22",
-  "section": 3,
-  "posted": "2026-09-23"
- },
- {
-  "title": "微软\"触发事件\"暂停游戏插入广告专利引发新一轮关注",
-  "url": "https://gizmodo.com/new-adtech-from-microsoft-would-interrupt-your-game-at-promoted-content-trigger-events-2000815772",
-  "date": "2026-09-23",
-  "section": 3,
-  "posted": "2026-09-23"
- },
- {
-  "title": "据报道：育碧股价9月22日上涨4.25%",
-  "url": "https://en.cryptonomist.ch/2026/09/22/ubisoft-stock-performance/",
-  "date": "2026-09-22",
-  "section": 3,
-  "posted": "2026-09-23"
- },
- {
   "title": "AI伴侣题材新游《Limerence》公布10月29日发售，探讨\"无摩擦\"人机情感关系",
   "url": "https://gamesbeat.com/limerence-launching-october-29-asks-would-trust-an-ai-designed-to-love-you-unconditionally/",
   "date": "2026-09-23",
@@ -2168,5 +2042,124 @@
   "date": "2026-10-07",
   "section": 3,
   "posted": "2026-10-07"
+ },
+ {
+  "title": "巫师之海岸工会扩大至DND与万智牌团队，要求生成式AI保护条款",
+  "url": "https://www.pocketgamer.biz/wizards-of-the-coast-union-expands-to-dandd-and-magic-teams/",
+  "date": "2026-10-08",
+  "section": 1,
+  "posted": "2026-10-08"
+ },
+ {
+  "title": "前Take-Two AI负责人Luke Dicken警告生成式AI存在\"2万亿美元泡沫\"及行业过度依赖风险",
+  "url": "https://www.pocketgamer.biz/in-the-hot-seat-ex-take-two-ai-chief-luke-dicken-on-the-2tn-bubble-junior-jobs-and-the-next-2008/",
+  "date": "2026-10-08",
+  "section": 1,
+  "posted": "2026-10-08"
+ },
+ {
+  "title": "AI游戏生成平台Astrocade月活跃用户达1000万，较四个月前翻倍",
+  "url": "https://kotaku.com/ai-generated-games-platform-already-has-10-million-monthly-users-2000741894",
+  "date": "2026-10-07",
+  "section": 2,
+  "posted": "2026-10-08"
+ },
+ {
+  "title": "开发者以\"言论自由\"为由为AI协助逆向工程PlayStation同人工具GoldHEN辩护",
+  "url": "https://kotaku.com/ai-bro-defends-sloppily-reverse-engineering-playstation-homebrew-tool-without-permission-by-invoking-freedom-of-speech-2000741098",
+  "date": "2026-10-07",
+  "section": 2,
+  "posted": "2026-10-08"
+ },
+ {
+  "title": "据报道腾讯考虑发行最高50亿美元境外债券以支持AI投资",
+  "url": "https://www.ithome.com/1/010/495.htm",
+  "date": "2026-10-08",
+  "section": 2,
+  "posted": "2026-10-08"
+ },
+ {
+  "title": "生数科技开放Vidu Q4视频模型预览，约5元即可生成GTA风格恶搞短片",
+  "url": "https://www.qbitai.com/2026/10/502049.html",
+  "date": "2026-10-08",
+  "section": 2,
+  "posted": "2026-10-08"
+ },
+ {
+  "title": "《Journey》《艾迪芬奇的记忆》设计师工作室Gardens Interactive完成3500万美元B轮融资",
+  "url": "https://www.videogameschronicle.com/news/edith-finch-journey-designer-secures-big-investment-for-shared-world-fantasy-game/",
+  "date": "2026-10-08",
+  "section": 3,
+  "posted": "2026-10-08"
+ },
+ {
+  "title": "《创世纪》（Ultima）系列创作者Richard Garriott确认收回版权",
+  "url": "https://www.videogameschronicle.com/news/richard-garriott-is-officially-regaining-control-of-the-ultima-series/",
+  "date": "2026-10-08",
+  "section": 3,
+  "posted": "2026-10-08"
+ },
+ {
+  "title": "索尼将逾40项PlayStation VR专利出售给Meta，被视为退出VR硬件信号",
+  "url": "https://www.videogameschronicle.com/news/sony-seemingly-closes-the-door-on-playstation-vr-as-it-sells-more-than-40-vr-patents-to-meta/",
+  "date": "2026-10-08",
+  "section": 3,
+  "posted": "2026-10-08"
+ },
+ {
+  "title": "《战地6》等9款游戏10月加入Xbox Game Pass",
+  "url": "https://www.videogameschronicle.com/news/battlefield-6-and-more-are-joining-xbox-game-pass-in-october/",
+  "date": "2026-10-08",
+  "section": 3,
+  "posted": "2026-10-08"
+ },
+ {
+  "title": "数据显示《漫威金刚狼》首发销量中35%为实体光盘",
+  "url": "https://www.videogameschronicle.com/news/35-of-sonys-wolverine-launch-sales-were-the-disc-version-data-suggests/",
+  "date": "2026-10-08",
+  "section": 3,
+  "posted": "2026-10-08"
+ },
+ {
+  "title": "《星球大战：零连队》开发商Bit Reactor开始让被停薪留职员工复职",
+  "url": "https://www.videogameschronicle.com/news/star-wars-zero-company-staff-returning-to-work-after-being-furloughed-pre-release/",
+  "date": "2026-10-07",
+  "section": 3,
+  "posted": "2026-10-08"
+ },
+ {
+  "title": "Riot Games推迟备受争议的《英雄联盟》录像访问限制措施",
+  "url": "https://www.strafe.com/news/read/riot-changes-lol-replay-system-sparking-community-backlash/",
+  "date": "2026-10-07",
+  "section": 3,
+  "posted": "2026-10-08"
+ },
+ {
+  "title": "Valve准予BC.Game特例，通过亚洲赛区获得PGL新加坡Major参赛资格",
+  "url": "https://www.hltv.org/news/45666/valve-issues-exception-for-bcgame-to-qualify-for-singapore-major-through-asia",
+  "date": "2026-10-07",
+  "section": 3,
+  "posted": "2026-10-08"
+ },
+ {
+  "title": "澳大利亚政府发布指引，说明民众如何申请无薪假以游玩《GTA6》",
+  "url": "https://www.videogameschronicle.com/news/australian-government-advises-citizens-on-how-to-request-unpaid-leave-to-play-gta-6/",
+  "date": "2026-10-08",
+  "section": 3,
+  "posted": "2026-10-08"
+ },
+ {
+  "title": "Xbox成立新部门XP，负责影视与周边业务，由前Mojang总裁领导",
+  "url": "https://kotaku.com/xbox-is-forming-a-new-division-focused-on-film-tv-and-adaptations-2000742611",
+  "date": "2026-10-08",
+  "section": 3,
+  "posted": "2026-10-08"
+ },
+ {
+  "title": "Circana报告：受Switch 2\"卡带钥匙卡\"带动，美国2026年实体游戏消费上升",
+  "url": "https://kotaku.com/spending-on-physical-games-in-the-u-s-was-up-in-august-thanks-to-game-key-cards-2000742604",
+  "date": "2026-10-08",
+  "section": 3,
+  "posted": "2026-10-08"
  }
 ]

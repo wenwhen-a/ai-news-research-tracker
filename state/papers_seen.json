@@ -14087,5 +14087,317 @@
   "first_seen": "2026-10-07",
   "submitted": "2026-10-02T17:05:07Z",
   "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets"
+ },
+ "2610.10539": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T17:59:48Z",
+  "title": "Tetris3D: 3D Scene Generation With Objects That Fit Together"
+ },
+ "2610.10524": {
+  "status": "near-miss",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T17:57:34Z",
+  "title": "GRACE: Generation-aware latent compression for efficient video generation"
+ },
+ "2610.10515": {
+  "status": "qualified",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07",
+  "title": "RoboJEPA: Scaling Robotic Latent World Models",
+  "affiliation": "Meta — 9 of 12 authors listed as \"FAIR at Meta,\" including joint last authors Nicolas Ballas and Mahmoud Assran; three co-authors are from Chandar Research Lab/Mila/Polytechnique Montréal",
+  "url": "https://arxiv.org/abs/2610.10515",
+  "summary": "RoboJEPA is a Joint Embedding Predictive Architecture (JEPA) world model trained on 23 public manipulation datasets spanning 12 robot platforms, scaled from 22M to 8B parameters."
+ },
+ "2610.10489": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T17:45:17Z",
+  "title": "HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion"
+ },
+ "2610.10457": {
+  "status": "near-miss",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T17:25:35Z",
+  "title": "MORCA: Offline-to-Online RL for Adaptive Cache Reuse in Video Diffusion Acceleration"
+ },
+ "2610.10430": {
+  "status": "near-miss",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T17:09:48Z",
+  "title": "Conditional Flow Matching for Generation of 3D Multi-variable Instantaneous Urban Microclimate Fields"
+ },
+ "2610.10429": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T17:09:04Z",
+  "title": "SGF+: Decoupling Gradient Flows for Autoregressive Video Generation"
+ },
+ "2610.10400": {
+  "status": "near-miss",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T16:51:02Z",
+  "title": "Self-correction Optimization for Interleaved Multimodal Generation"
+ },
+ "2610.10396": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T16:48:58Z",
+  "title": "Gaussian Density Splatting Network"
+ },
+ "2610.10342": {
+  "status": "qualified",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07",
+  "title": "Position Forcing: Self-Conditioning 3D Generation",
+  "affiliation": "Tencent Hunyuan — one of the paper's four listed institutions (VCIP/Nankai University, Tencent Hunyuan, MMLab/CUHK, Fudan University, Shanghai Innovation Institute, HKU); corresponding author Chunchao Guo lists a tencent.com address",
+  "url": "https://arxiv.org/abs/2610.10342",
+  "summary": "The paper targets single-stage 3D generative models that represent shapes as unordered sets of latent tokens (VecSet representations), which must implicitly infer each token's position during denoising."
+ },
+ "2610.10274": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T15:40:52Z",
+  "title": "Sparse Planning in Visual World Models via Cost Gradients"
+ },
+ "2610.10197": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T14:58:34Z",
+  "title": "VolCo: Volumetric Contact for High-Fidelity Human Grasp Generation"
+ },
+ "2610.10181": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T14:48:54Z",
+  "title": "Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection"
+ },
+ "2610.10079": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T13:44:34Z",
+  "title": "RealtimeWAM: How Fast Can I Run My World Action Model?"
+ },
+ "2610.10047": {
+  "status": "near-miss",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T13:23:24Z",
+  "title": "AdSpark: A Large-Scale Dataset and Benchmark for Product-Centric Advertisement Video Generation"
+ },
+ "2610.09940": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T12:24:17Z",
+  "title": "Juno: Taming Predictive Latents for Vision-Language-Action Models"
+ },
+ "2610.09928": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T12:16:08Z",
+  "title": "Do Generative Priors Align with Human Naturalness Perception?"
+ },
+ "2610.09853": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T11:11:22Z",
+  "title": "DeltaSplat: Iterative Gaussian Refinement for Pose-Free Feed-Forward 3D Gaussian Splatting"
+ },
+ "2610.09846": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T11:06:42Z",
+  "title": "DynaConTalk: Wavelet-Constrained Diffusion for Long-Form and Controllable Holistic Co-Speech 3D Motion"
+ },
+ "2610.09822": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T10:44:58Z",
+  "title": "Simulation Methods for Multiphysics Phenomena in Visual Computing"
+ },
+ "2610.09800": {
+  "status": "near-miss",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T10:14:11Z",
+  "title": "Beyond Masks and Trajectories: Flow-Guided Latent Action Injection for Stable Surgical Video Generation"
+ },
+ "2610.09785": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T10:02:28Z",
+  "title": "UltraWorld: Learning Interactive Ultrasound World Models from Untracked Clinical Videos with Acoustic Sampling Map"
+ },
+ "2610.09763": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T09:48:53Z",
+  "title": "Beyond Policy Support: Interaction Constrained Offline Reinforcement Learning for Autonomous Driving"
+ },
+ "2610.09734": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T09:28:26Z",
+  "title": "ΔWAM: Distilling Action Tangent Fields into World Action Models"
+ },
+ "2610.09723": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T09:20:13Z",
+  "title": "MeshCarve: Artisan Mesh Generation with Flow Matching in Compact Latent Spaces"
+ },
+ "2610.09558": {
+  "status": "near-miss",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T06:59:54Z",
+  "title": "DrugTargetWorld: A Synthetic Biobank for Training and Benchmarking AI Scientists"
+ },
+ "2610.09514": {
+  "status": "near-miss",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T06:11:17Z",
+  "title": "STRIKE: Learning Visual State Transitions for Physical World Modeling"
+ },
+ "2610.09513": {
+  "status": "qualified",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07",
+  "title": "OmniCam: Omni-Camera Trajectory Generation via Geometry-Grounded Pose Token Learning",
+  "affiliation": "Tencent Hunyuan — FLAG: the paper's affiliation block lists \"Fudan University, Shanghai Innovation Institute, Tencent Hunyuan, Zhejiang University\" without per-author footnote markers in the rendered HTML; Tencent affiliation is inferred from co-author Chunchao Guo, who is independently confirmed as Tencent Hunyuan (tencent.com email, corresponding author) on the companion submission 2610.10342 the same week",
+  "url": "https://arxiv.org/abs/2610.09513",
+  "summary": "OmniCam is an autoregressive model that generates camera pose trajectories from a single panorama plus a text description of the desired camera motion, using a panoramic point-cloud encoder and a hybrid rotation/translation pose tokenization."
+ },
+ "2610.09457": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T05:12:39Z",
+  "title": "DSReg: Provably Recovering Individual World Latents without Reconstruction"
+ },
+ "2610.09438": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T04:50:22Z",
+  "title": "Controllable Crowd Generation through World-Model Planning"
+ },
+ "2610.09376": {
+  "status": "near-miss",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T03:31:23Z",
+  "title": "Unified Multi-plane Autoregressive Diffusion for 3D Multi-contrast MRI Synthesis"
+ },
+ "2610.09343": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T03:01:51Z",
+  "title": "TileSkipper: Region-Adaptive Tile Pruning for 3D Gaussian Splatting"
+ },
+ "2610.09335": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T02:51:02Z",
+  "title": "SearchWorld: Spatial Value-Grounded Imagination for UAV Object Search via World Models"
+ },
+ "2610.09326": {
+  "status": "near-miss",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T02:31:32Z",
+  "title": "VIS-Ground: Video Interactive Storytelling with Contextual Grounding"
+ },
+ "2610.09309": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T02:07:21Z",
+  "title": "Predicted Futures Are Not Enough: Learning Executable Goals for Robot Manipulation"
+ },
+ "2610.09305": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T02:03:08Z",
+  "title": "Kuration SDK: Addressing the Virtual2Real Gap via Data Curation"
+ },
+ "2610.09285": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T01:41:23Z",
+  "title": "LeCuration: A Tiny World Model as a Data Curation Multi-Tool"
+ },
+ "2610.09274": {
+  "status": "qualified",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07",
+  "title": "Hardware-aware Calibrated Clustered Attention for Efficient Visual Geometric Transformers",
+  "affiliation": "Robert Bosch GmbH — FLAG: borderline (automotive/industrial hardware company, not on the core tracked list; three of four authors list Bosch, the fourth lists Ruhr University Bochum only); comparable in kind to other hardware-adjacent companies on the \"keep and flag\" list",
+  "url": "https://arxiv.org/abs/2610.09274",
+  "summary": "The paper speeds up the global attention layers of the Visual Geometry Grounded Transformer (VGGT), a 3D scene-reconstruction model, with a hardware-friendly \"blockwise clustered attention\" (BC attention) that restricts clustering to hardware-aligned neighborhood blocks."
+ },
+ "2610.09254": {
+  "status": "near-miss",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-07T00:39:56Z",
+  "title": "RoboRender: Robot-Oriented Video Generation for Visual Sim-to-Real Transfer"
+ },
+ "2610.09223": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-06T23:36:54Z",
+  "title": "PVSync: A Unified Lip-Sync Expert for Timing and Articulation"
+ },
+ "2610.09219": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-06T23:30:17Z",
+  "title": "CM-DPO: Constraint-Margin Direct Preference Optimization for LLM Planning"
+ },
+ "2610.09200": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-06T22:51:51Z",
+  "title": "StyleFields: Multi-Scale AdaIN-Modulated Implicit SDFs for Coarse-to-Fine 3D Shape Reconstruction and Editing"
+ },
+ "2610.09194": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-06T22:45:39Z",
+  "title": "Patient, Place, Prior (P$^3$): What Counts as Personalization in Medical World Models?"
+ },
+ "2610.09173": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-06T22:18:11Z",
+  "title": "RDGSplat: Render-Dedicated Geometry for Novel View Synthesis"
+ },
+ "2610.09134": {
+  "status": "near-miss",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-06T21:26:19Z",
+  "title": "World Models Dream of Success: Diagnosing and Repairing Failure Insensitivity in Robot World Models"
+ },
+ "2610.09116": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-06T21:06:33Z",
+  "title": "SPLATIFY: Reproduce, Discover, Innovate! From Papers and Ideas to Trainable 3DGS Code"
+ },
+ "2610.09048": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-06T19:54:14Z",
+  "title": "Towards Financial World Modeling"
+ },
+ "2610.08978": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-06T18:40:13Z",
+  "title": "S2Tok: Streaming 3D Gaussian Reconstruction with Persistent Spatial Tokens"
+ },
+ "2610.08960": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-06T18:26:53Z",
+  "title": "Directed Temporal Representations for Offline Visual Control"
+ },
+ "2610.08941": {
+  "status": "screened-out",
+  "first_seen": "2026-10-08",
+  "submitted": "2026-10-06T18:05:45Z",
+  "title": "SPW-Nav: A Streaming Panoramic World Model for Language-Guided Navigation"
  }
 }

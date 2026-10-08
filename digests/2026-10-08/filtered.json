@@ -1,0 +1,152 @@
+{
+  "as_of": "2026-10-08",
+  "cutoff": "2026-10-01",
+  "window_days": 7,
+  "summary": {
+    "input_items": 6,
+    "denied_source": 0,
+    "in_window": 6,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 6,
+    "duplicate_clusters": 0,
+    "section1_count": 2,
+    "section2_count": 4,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 6,
+    "previously_covered_count": 0
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Wizards of the Coast union expands to D&D and Magic teams, demands generative AI protections",
+        "url": "https://www.pocketgamer.biz/wizards-of-the-coast-union-expands-to-dandd-and-magic-teams/",
+        "date": "2026-10-08",
+        "summary": "The Wizards of the Coast-CWA union announced on October 8 that it is expanding to cover the teams behind Dungeons & Dragons and Magic: The Gathering, following the Magic: The Gathering Arena team's unionization in April. Among its core demands, the union wants Wizards and Hasbro to stop pushing generative AI and to adopt a clear AI policy that protects workers, especially artists and other creatives, as well as letting employees retain ownership of work made in their free time. Wizards and Hasbro have until October 13 to voluntarily recognize the expanded union or face an NLRB election.",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "Wizards of the Coast union expands to D&D and Magic teams, demands generative AI protections",
+          "url": "https://www.pocketgamer.biz/wizards-of-the-coast-union-expands-to-dandd-and-magic-teams/",
+          "date": "2026-10-08",
+          "summary": "The Wizards of the Coast-CWA union announced on October 8 that it is expanding to cover the teams behind Dungeons & Dragons and Magic: The Gathering, following the Magic: The Gathering Arena team's unionization in April. Among its core demands, the union wants Wizards and Hasbro to stop pushing generative AI and to adopt a clear AI policy that protects workers, especially artists and other creatives, as well as letting employees retain ownership of work made in their free time. Wizards and Hasbro have until October 13 to voluntarily recognize the expanded union or face an NLRB election.",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Ex-Take-Two AI chief Luke Dicken warns of a '$2tn bubble' and risky overreliance on generative AI in game production",
+        "url": "https://www.pocketgamer.biz/in-the-hot-seat-ex-take-two-ai-chief-luke-dicken-on-the-2tn-bubble-junior-jobs-and-the-next-2008/",
+        "date": "2026-10-08",
+        "summary": "Dr. Luke Dicken, who led Take-Two's applied AI group from January 2025 until the team was cut in April 2026, used a PocketGamer.biz interview to call the current AI investment boom 'one of the largest misallocations of capital,' questioning the math behind Anthropic's expected $2 trillion-plus IPO valuation. He argues generative AI suits performance marketing and prototyping but warns studios against relying on it for shipped production code, flags that junior-role cuts are hollowing out the industry's talent pipeline, and predicts a roughly 20x price rise once subsidized AI services stop being subsidized.",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "Ex-Take-Two AI chief Luke Dicken warns of a '$2tn bubble' and risky overreliance on generative AI in game production",
+          "url": "https://www.pocketgamer.biz/in-the-hot-seat-ex-take-two-ai-chief-luke-dicken-on-the-2tn-bubble-junior-jobs-and-the-next-2008/",
+          "date": "2026-10-08",
+          "summary": "Dr. Luke Dicken, who led Take-Two's applied AI group from January 2025 until the team was cut in April 2026, used a PocketGamer.biz interview to call the current AI investment boom 'one of the largest misallocations of capital,' questioning the math behind Anthropic's expected $2 trillion-plus IPO valuation. He argues generative AI suits performance marketing and prototyping but warns studios against relying on it for shipped production code, flags that junior-role cuts are hollowing out the industry's talent pipeline, and predicts a roughly 20x price rise once subsidized AI services stop being subsidized.",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "AI-made games platform Astrocade says it now has 10 million monthly users, double its count four months ago",
+        "url": "https://kotaku.com/ai-generated-games-platform-already-has-10-million-monthly-users-2000741894",
+        "date": "2026-10-07",
+        "summary": "Astrocade, a free platform where anyone can prompt AI tools to create and play short browser-based 'playables' in a Roblox-like scrolling feed, told GamesBeat it has reached 10 million monthly users, up from about 5 million four months earlier, according to CEO Amir Sadeghian. Kotaku reports the catalog is dominated by Minecraft-style clones, Roblox knockoffs such as 'Steal a Brainrot,' and content using copyrighted characters, while Astrocade is preparing an iOS app and plans to add AI companions and interactive stories.",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "AI-made games platform Astrocade says it now has 10 million monthly users, double its count four months ago",
+          "url": "https://kotaku.com/ai-generated-games-platform-already-has-10-million-monthly-users-2000741894",
+          "date": "2026-10-07",
+          "summary": "Astrocade, a free platform where anyone can prompt AI tools to create and play short browser-based 'playables' in a Roblox-like scrolling feed, told GamesBeat it has reached 10 million monthly users, up from about 5 million four months earlier, according to CEO Amir Sadeghian. Kotaku reports the catalog is dominated by Minecraft-style clones, Roblox knockoffs such as 'Steal a Brainrot,' and content using copyrighted characters, while Astrocade is preparing an iOS app and plans to add AI companions and interactive stories.",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Developer defends AI-assisted reverse-engineering of PlayStation homebrew tool GoldHEN by invoking 'freedom of speech'",
+        "url": "https://kotaku.com/ai-bro-defends-sloppily-reverse-engineering-playstation-homebrew-tool-without-permission-by-invoking-freedom-of-speech-2000741098",
+        "date": "2026-10-07",
+        "summary": "A developer using the handle Zer0Day published an AI-generated, reverse-engineered copy of GoldHEN -- a closed-source PS4 homebrew tool that took its original maintainer, Sistro, about five years to build -- on GitHub, defending the move on X as a matter of free expression despite acknowledging AI's role and leaving AI-generated code comments in the project. Kotaku ties the incident to a broader surge in forks of young, AI-assisted PS5 emulator projects (from roughly 1,300 to 1,840 in a few days), highlighting growing friction between AI-assisted reverse-engineering and established homebrew communities.",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "Developer defends AI-assisted reverse-engineering of PlayStation homebrew tool GoldHEN by invoking 'freedom of speech'",
+          "url": "https://kotaku.com/ai-bro-defends-sloppily-reverse-engineering-playstation-homebrew-tool-without-permission-by-invoking-freedom-of-speech-2000741098",
+          "date": "2026-10-07",
+          "summary": "A developer using the handle Zer0Day published an AI-generated, reverse-engineered copy of GoldHEN -- a closed-source PS4 homebrew tool that took its original maintainer, Sistro, about five years to build -- on GitHub, defending the move on X as a matter of free expression despite acknowledging AI's role and leaving AI-generated code comments in the project. Kotaku ties the incident to a broader surge in forks of young, AI-assisted PS5 emulator projects (from roughly 1,300 to 1,840 in a few days), highlighting growing friction between AI-assisted reverse-engineering and established homebrew communities.",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Tencent reportedly weighs up to $5 billion offshore bond sale to fund AI investment push",
+        "url": "https://www.ithome.com/1/010/495.htm",
+        "date": "2026-10-08",
+        "summary": "IT之家, citing Bloomberg sources, reports Tencent is considering an offshore bond sale of up to $5 billion (yuan- and dollar-denominated) to fund its AI buildout, possibly as soon as this month. The article notes Tencent's AI/compute capex rose 176% year-on-year to 52.8 billion yuan last quarter as it races to keep pace with ByteDance and Alibaba; a prior June bond sale of similar scale explicitly cited funding AI products and services, a category that includes Tencent Games' AI tools and gaming infrastructure.",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "Tencent reportedly weighs up to $5 billion offshore bond sale to fund AI investment push",
+          "url": "https://www.ithome.com/1/010/495.htm",
+          "date": "2026-10-08",
+          "summary": "IT之家, citing Bloomberg sources, reports Tencent is considering an offshore bond sale of up to $5 billion (yuan- and dollar-denominated) to fund its AI buildout, possibly as soon as this month. The article notes Tencent's AI/compute capex rose 176% year-on-year to 52.8 billion yuan last quarter as it races to keep pace with ByteDance and Alibaba; a prior June bond sale of similar scale explicitly cited funding AI products and services, a category that includes Tencent Games' AI tools and gaming infrastructure.",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Shengshu Technology opens preview of Vidu Q4 video model, used to generate a GTA-style parody short for about 5 yuan",
+        "url": "https://www.qbitai.com/2026/10/502049.html",
+        "date": "2026-10-08",
+        "summary": "QbitAI reports that Shengshu Technology (生数科技) released a preview version of its next-generation Vidu Q4 video-generation model, the first version opened to creators. The hands-on piece uses it to produce a GTA6-style parody clip (an \"evil granny\" rampage) for roughly 5.4 yuan, highlighting consistent character rendering across shots, up to 4K output, and support for up to 15 multimodal reference inputs — illustrating how cheap Chinese AI video tools are becoming for generating game-style cinematic content.",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "Shengshu Technology opens preview of Vidu Q4 video model, used to generate a GTA-style parody short for about 5 yuan",
+          "url": "https://www.qbitai.com/2026/10/502049.html",
+          "date": "2026-10-08",
+          "summary": "QbitAI reports that Shengshu Technology (生数科技) released a preview version of its next-generation Vidu Q4 video-generation model, the first version opened to creators. The hands-on piece uses it to produce a GTA6-style parody clip (an \"evil granny\" rampage) for roughly 5.4 yuan, highlighting consistent character rendering across shots, up to 4K output, and support for up to 15 multimodal reference inputs — illustrating how cheap Chinese AI video tools are becoming for generating game-style cinematic content.",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
