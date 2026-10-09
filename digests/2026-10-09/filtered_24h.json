@@ -1,0 +1,232 @@
+{
+  "as_of": "2026-10-09",
+  "cutoff": "2026-10-08",
+  "window_days": 1,
+  "summary": {
+    "input_items": 10,
+    "denied_source": 0,
+    "in_window": 10,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 10,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 10,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 9,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "MTG宣布推迟旗下PlaySimple潜在IPO计划，拟2027年重新评估",
+        "url": "https://www.pocketgamer.biz/mtg-postpones-playsimples-potential-ipo/",
+        "date": "2026-10-09",
+        "summary": "Modern Times Group（MTG）以印度资本市场环境不佳为由，推迟旗下休闲游戏开发商PlaySimple的潜在IPO，计划留待2027年再评估上市时机，期间将通过有机增长和并购继续支持该工作室。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "MTG宣布推迟旗下PlaySimple潜在IPO计划，拟2027年重新评估",
+          "url": "https://www.pocketgamer.biz/mtg-postpones-playsimples-potential-ipo/",
+          "date": "2026-10-09",
+          "summary": "Modern Times Group（MTG）以印度资本市场环境不佳为由，推迟旗下休闲游戏开发商PlaySimple的潜在IPO，计划留待2027年再评估上市时机，期间将通过有机增长和并购继续支持该工作室。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "育碧宣布《彩虹六号手游》将于2027年1月15日停运",
+        "url": "https://www.pocketgamer.biz/rainbow-six-mobile-to-shut-down-in-january-2027/",
+        "date": "2026-10-09",
+        "summary": "育碧宣布旗下免费制战术射击手游《彩虹六号手游》将于2027年1月15日停止运营，游戏在此之前仍可游玩且下一赛季将如期上线，官方称此举是为集中资源投入其他长期战略项目。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "育碧宣布《彩虹六号手游》将于2027年1月15日停运",
+          "url": "https://www.pocketgamer.biz/rainbow-six-mobile-to-shut-down-in-january-2027/",
+          "date": "2026-10-09",
+          "summary": "育碧宣布旗下免费制战术射击手游《彩虹六号手游》将于2027年1月15日停止运营，游戏在此之前仍可游玩且下一赛季将如期上线，官方称此举是为集中资源投入其他长期战略项目。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Kakao Games与阿布扎比投资办公室签约拓展中东市场，同时拟7150万美元收购Me2on股权",
+        "url": "https://www.pocketgamer.biz/kakao-games-partners-with-abu-dhabi-to-expand-across-mena/",
+        "date": "2026-10-09",
+        "summary": "韩国游戏公司Kakao Games在首尔阿布扎比投资论坛上与阿布扎比投资办公室（ADIO）签署合作协议，探索在中东及其他国际市场拓展发行、本地化与运营业务；该公司另计划以7150万美元收购Me2on 39.56%股权。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Kakao Games与阿布扎比投资办公室签约拓展中东市场，同时拟7150万美元收购Me2on股权",
+          "url": "https://www.pocketgamer.biz/kakao-games-partners-with-abu-dhabi-to-expand-across-mena/",
+          "date": "2026-10-09",
+          "summary": "韩国游戏公司Kakao Games在首尔阿布扎比投资论坛上与阿布扎比投资办公室（ADIO）签署合作协议，探索在中东及其他国际市场拓展发行、本地化与运营业务；该公司另计划以7150万美元收购Me2on 39.56%股权。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Krafton《PUBG Mobile Light》正式更名为《PUBG Mobile Flash》",
+        "url": "https://www.pocketgamer.biz/pubg-mobile-light-renamed-to-pubg-mobile-flash-ahead-of-launch/",
+        "date": "2026-10-08",
+        "summary": "Krafton旗下Level Infinite与Lightspeed Studios将面向低配置设备的《PUBG Mobile Light》正式更名为《PUBG Mobile Flash》，预计11月上线，玩家可与《PUBG Mobile》跨平台联机并迁移已有外观道具。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Krafton《PUBG Mobile Light》正式更名为《PUBG Mobile Flash》",
+          "url": "https://www.pocketgamer.biz/pubg-mobile-light-renamed-to-pubg-mobile-flash-ahead-of-launch/",
+          "date": "2026-10-08",
+          "summary": "Krafton旗下Level Infinite与Lightspeed Studios将面向低配置设备的《PUBG Mobile Light》正式更名为《PUBG Mobile Flash》，预计11月上线，玩家可与《PUBG Mobile》跨平台联机并迁移已有外观道具。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《皇牌空战8》全球销量突破100万份，创系列最快纪录",
+        "url": "https://www.videogameschronicle.com/news/ace-combat-8-is-the-fastest-selling-entry-in-the-series-after-hitting-1-million-sales/",
+        "date": "2026-10-09",
+        "summary": "万代南梦宫宣布《皇牌空战8：希孚之翼》发售一周多便全球销量突破100万份，成为系列史上销售速度最快的作品，该作Metacritic评分87，也是系列评价第二高的游戏。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《皇牌空战8》全球销量突破100万份，创系列最快纪录",
+          "url": "https://www.videogameschronicle.com/news/ace-combat-8-is-the-fastest-selling-entry-in-the-series-after-hitting-1-million-sales/",
+          "date": "2026-10-09",
+          "summary": "万代南梦宫宣布《皇牌空战8：希孚之翼》发售一周多便全球销量突破100万份，成为系列史上销售速度最快的作品，该作Metacritic评分87，也是系列评价第二高的游戏。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《极限竞速：地平线6》PS5版延期至2027年1月26日，同步推出首个DLC",
+        "url": "https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/",
+        "date": "2026-10-08",
+        "summary": "Xbox确认《极限竞速：地平线6》PS5版将于2027年1月26日发售并同步推出首个扩展内容（1月21日率先上线），相较此前官方承诺的\"2026年内发售\"出现延期，豪华版预购可提前五天游玩。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《极限竞速：地平线6》PS5版延期至2027年1月26日，同步推出首个DLC",
+          "url": "https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/",
+          "date": "2026-10-08",
+          "summary": "Xbox确认《极限竞速：地平线6》PS5版将于2027年1月26日发售并同步推出首个扩展内容（1月21日率先上线），相较此前官方承诺的\"2026年内发售\"出现延期，豪华版预购可提前五天游玩。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《赛博朋克2077》真人电影确认由派拉蒙开发",
+        "url": "https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-a-live-action-movie-from-paramount/",
+        "date": "2026-10-08",
+        "summary": "据Deadline报道，派拉蒙影业正与CD Projekt Red合作开发《赛博朋克2077》真人电影，由《变形金刚》制片人Lorenzo di Bonaventura担任制片；该游戏全球销量已达4000万份，资料片《幻影自由》销量1500万份。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《赛博朋克2077》真人电影确认由派拉蒙开发",
+          "url": "https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-a-live-action-movie-from-paramount/",
+          "date": "2026-10-08",
+          "summary": "据Deadline报道，派拉蒙影业正与CD Projekt Red合作开发《赛博朋克2077》真人电影，由《变形金刚》制片人Lorenzo di Bonaventura担任制片；该游戏全球销量已达4000万份，资料片《幻影自由》销量1500万份。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《精神病院》开发商Double Fine工会化努力失败内幕曝光，组织者此后遭裁员",
+        "url": "https://kotaku.com/inside-the-failed-fight-to-unionize-one-of-gamings-most-idealized-studios-2000742755",
+        "date": "2026-10-09",
+        "summary": "Kotaku独家报道显示，微软旗下Double Fine工作室2026年5月的工会组建申请因内部激烈反弹仅两周后便撤回，随后该工作室在从Xbox独立后的7月裁员中，8名工会组织委员会成员全部被裁，创始人Tim Schafer称工作室\"仅剩数月\"资金。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《精神病院》开发商Double Fine工会化努力失败内幕曝光，组织者此后遭裁员",
+          "url": "https://kotaku.com/inside-the-failed-fight-to-unionize-one-of-gamings-most-idealized-studios-2000742755",
+          "date": "2026-10-09",
+          "summary": "Kotaku独家报道显示，微软旗下Double Fine工作室2026年5月的工会组建申请因内部激烈反弹仅两周后便撤回，随后该工作室在从Xbox独立后的7月裁员中，8名工会组织委员会成员全部被裁，创始人Tim Schafer称工作室\"仅剩数月\"资金。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "捷克工作室Amanita Design公布《机械迷城2》，时隔17年推出续作",
+        "url": "https://kotaku.com/machinarium-2-amanita-design-puzzle-adventure-samorost-botanicula-2000742685",
+        "date": "2026-10-08",
+        "summary": "《机械迷城》开发商Amanita Design公布续作《机械迷城2》，故事承接初代结局，玩家可操控两名机器人角色切换解谜，目前尚未公布具体发售日期。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "捷克工作室Amanita Design公布《机械迷城2》，时隔17年推出续作",
+          "url": "https://kotaku.com/machinarium-2-amanita-design-puzzle-adventure-samorost-botanicula-2000742685",
+          "date": "2026-10-08",
+          "summary": "《机械迷城》开发商Amanita Design公布续作《机械迷城2》，故事承接初代结局，玩家可操控两名机器人角色切换解谜，目前尚未公布具体发售日期。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "特朗普政府暂停微软H-1B签证申请资格，波及Xbox招聘",
+        "url": "https://www.gamedeveloper.com/business/trump-administration-suspends-microsoft-s-ability-to-apply-for-green-cards-alleging-fraud",
+        "date": "2026-10-08",
+        "summary": "美国政府以涉嫌欺诈为由暂停微软申请H-1B工作签证的资格，副总统万斯指控微软裁员后以外籍签证员工替代，微软对此提出异议；报道称该暂停将影响微软旗下包括Xbox部门的招聘，但目前尚不清楚Xbox员工中H-1B签证持有者的具体比例。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "特朗普政府暂停微软H-1B签证申请资格，波及Xbox招聘",
+          "url": "https://www.gamedeveloper.com/business/trump-administration-suspends-microsoft-s-ability-to-apply-for-green-cards-alleging-fraud",
+          "date": "2026-10-08",
+          "summary": "美国政府以涉嫌欺诈为由暂停微软申请H-1B工作签证的资格，副总统万斯指控微软裁员后以外籍签证员工替代，微软对此提出异议；报道称该暂停将影响微软旗下包括Xbox部门的招聘，但目前尚不清楚Xbox员工中H-1B签证持有者的具体比例。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

@@ -427,5 +427,13 @@
   "first_seen": "2026-10-05",
   "release_date": "2026-08-27",
   "summary": "AMD updated its official FidelityFX Super Resolution plugin for Unreal Engine 5.8 to extend ML-based FSR Upscaling 4.1.1 and Frame Generation 4.0.1 to RDNA 3 (Radeon RX 7000 Series) cards."
+ },
+ "https://devforum.roblox.com/t/studio-beta-introducing-state-machines-and-luau-expressions-for-animation-graphs/4921939": {
+  "name": "Roblox Studio — State Machines and Luau Expressions for Animation Graphs (beta)",
+  "company": "Roblox",
+  "tier": "Public beta/preview (Studio Beta, opt-in)",
+  "first_seen": "2026-10-09",
+  "release_date": "2026-10-08",
+  "summary": "Roblox added State Machine and Luau Expression nodes to its Animation Graph Editor, letting creators define animation states/transitions visually and write parameter math inline as Luau instead of in script; works only in Studio (not live games) and is an early beta ahead of full release."
  }
 }

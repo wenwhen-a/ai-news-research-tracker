@@ -1,236 +1,5 @@
 [
  {
-  "title": "AI伴侣题材新游《Limerence》公布10月29日发售，探讨\"无摩擦\"人机情感关系",
-  "url": "https://gamesbeat.com/limerence-launching-october-29-asks-would-trust-an-ai-designed-to-love-you-unconditionally/",
-  "date": "2026-09-23",
-  "section": 1,
-  "posted": "2026-09-24"
- },
- {
-  "title": "NVIDIA宣布GeForce NOW云游戏年内登陆谷歌\"Googlebook\"安卓笔记本",
-  "url": "https://9to5google.com/2026/09/24/nvidia-announces-googlebook-geforce-now-support/",
-  "date": "2026-09-24",
-  "section": 1,
-  "posted": "2026-09-24"
- },
- {
-  "title": "高通发布骁龙8至尊版Gen 6芯片：GPU性能最高提升44%，加入AI超分与帧生成技术",
-  "url": "https://www.techtimes.com/articles/327920/20260923/qualcomm-snapdragon-summit-debuts-dual-2nm-chips-extreme-gen-6-runs-30b-ai-models-offline.htm",
-  "date": "2026-09-23",
-  "section": 1,
-  "posted": "2026-09-24"
- },
- {
-  "title": "爱尔兰游戏基金重启：明确拒绝资助商业化使用生成式AI资产的项目",
-  "url": "https://www.gamedeveloper.com/business/irish-game-fund-expands-with-additional-funding-pathways",
-  "date": "2026-09-24",
-  "section": 1,
-  "posted": "2026-09-24"
- },
- {
-  "title": "微软专利曝光：AI可依据玩家行为与表情实时\"重写\"游戏叙事",
-  "url": "https://www.techspot.com/news/113956-microsoft-new-patent-wants-xbox-games-rewrite-themselves.html",
-  "date": "2026-09-23",
-  "section": 1,
-  "posted": "2026-09-24"
- },
- {
-  "title": "索尼公布AI辅助手柄专利：为肢体障碍玩家智能补全操作输入",
-  "url": "https://www.techpowerup.com/353023/sony-patents-ai-that-fills-in-controller-inputs-for-players-with-physical-limitations",
-  "date": "2026-09-17",
-  "section": 1,
-  "posted": "2026-09-24"
- },
- {
-  "title": "世纪华通宣布自研游戏\"决策大模型\"，称参数量控制在50M以内、决策延迟压至毫秒级",
-  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vUmQ4SVhXNXJWRFZqY0lMZTgzUzFhWFhxZzl2cWxFTno5UzdUR1NuWHJiN3h6TFVPQ1R5TGF1RDdOdEJiMi1MZXBGY1dBX2N6Rmh0NzZYRDdIeEg3QUFqdDdSUU5aYk1YNzBxR2JB",
-  "date": "2026-09-24",
-  "section": 1,
-  "posted": "2026-09-24"
- },
- {
-  "title": "Claude Opus 5.5自主构建RTX路径追踪渲染器，展示AI自主系统级工程能力",
-  "url": "https://wccftech.com/claude-ai-builds-rtx-path-tracer-autonomous-engineering/",
-  "date": "2026-09-24",
-  "section": 2,
-  "posted": "2026-09-24"
- },
- {
-  "title": "爱诗科技发布实时世界模型PixVerse R2，探索游戏与互动影视新形态",
-  "url": "https://www.qbitai.com/2026/09/496329.html",
-  "date": "2026-09-23",
-  "section": 2,
-  "posted": "2026-09-24"
- },
- {
-  "title": "2026年游戏行业融资回暖，AI相关交易成主要推动力",
-  "url": "https://news.crunchbase.com/venture/2026-global-gaming-startup-funding-up-ai-meshy-decart/",
-  "date": "2026-09-24",
-  "section": 2,
-  "posted": "2026-09-24"
- },
- {
-  "title": "索尼专利曝光：AI可自动生成诊断代码修复PS主机故障",
-  "url": "https://tech4gamers.com/sony-patents-repair-playstation-consoles/",
-  "date": "2026-09-21",
-  "section": 2,
-  "posted": "2026-09-24"
- },
- {
-  "title": "英伟达专利曝光：AI工具可用自然语言调试GPU性能瓶颈",
-  "url": "https://tech4gamers.com/nvidia-patents-ai-tool-debugs-gpu/",
-  "date": "2026-09-24",
-  "section": 2,
-  "posted": "2026-09-24"
- },
- {
-  "title": "报道解析游戏开发者如何借助AI工具（如Meshy AI）生成角色与道具",
-  "url": "https://exputer.com/features/how-game-developers-use-ai-characters-props/",
-  "date": "2026-09-23",
-  "section": 2,
-  "posted": "2026-09-24"
- },
- {
-  "title": "36氪分析：游戏+AI下一道门槛在于生产流程与基础设施重构",
-  "url": "https://eu.36kr.com/en/p/3997468580958089",
-  "date": "2026-09-24",
-  "section": 2,
-  "posted": "2026-09-24"
- },
- {
-  "title": "Sea集团（Garena母公司）率先在东南亚接入英伟达Vera Rubin平台，游戏业务已部署逾1300个AI机器人",
-  "url": "https://technode.global/2026/09/23/singapores-sea-ltd-becomes-first-in-southeast-asia-to-adopt-nvidia-vera-rubin/",
-  "date": "2026-09-23",
-  "section": 2,
-  "posted": "2026-09-24"
- },
- {
-  "title": "韩国拟将AI角色聊天应用纳入《游戏产业振兴法》监管范围",
-  "url": "https://www.timesofcasino.com/korea-ai-character-chat-apps-game-law/",
-  "date": "2026-09-22",
-  "section": 2,
-  "posted": "2026-09-24"
- },
- {
-  "title": "韩国韩亚银行举办青少年AI游戏创作大赛，参赛者无需编程基础",
-  "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=702607",
-  "date": "2026-09-23",
-  "section": 2,
-  "posted": "2026-09-24"
- },
- {
-  "title": "荷兰莱顿大学学生团队凭AI系统夺得\"Minecraft生成式设计\"国际赛冠军",
-  "url": "https://www.universiteitleiden.nl/en/news/2026/09/can-ai-build-a-beautiful-city-in-minecraft-these-leiden-students-did-it-better",
-  "date": "2026-09-22",
-  "section": 2,
-  "posted": "2026-09-24"
- },
- {
-  "title": "报告：AI反外挂检测准确率大幅提升，但外挂制作者也在利用AI规避侦测",
-  "url": "https://tech-insider.org/cheat-detection-rates-are-climbing-what-2026-anti-cheat-data-shows/",
-  "date": "2026-09-24",
-  "section": 2,
-  "posted": "2026-09-24"
- },
- {
-  "title": "分析文章借《魔兽世界：永恒》探讨AI世界模型能否取代传统手工游戏开发",
-  "url": "https://programminginsider.com/when-ai-learns-to-build-worlds-what-world-models-mean-for-the-future-of-gaming-and-what-world-of-warcraft-forever-tells-us-about-the-road-still-ahead/",
-  "date": "2026-09-23",
-  "section": 2,
-  "posted": "2026-09-24"
- },
- {
-  "title": "《除国防务实验室》State of Decay 3开发商Undead Labs脱离Xbox独立后即遭\"大规模\"裁员",
-  "url": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
-  "date": "2026-09-22",
-  "section": 3,
-  "posted": "2026-09-24"
- },
- {
-  "title": "Discord新\"账号信号\"年龄验证机制9月23日正式生效",
-  "url": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
-  "date": "2026-09-23",
-  "section": 3,
-  "posted": "2026-09-24"
- },
- {
-  "title": "Remedy新作《控制：共鸣》9月24日全球同步登陆PS5、Xbox Series X|S及PC",
-  "url": "https://www.remedygames.com/article/control-resonant-launches-worldwide-on-september-24",
-  "date": "2026-09-24",
-  "section": 3,
-  "posted": "2026-09-24"
- },
- {
-  "title": "Konami《寂静岭：暮色降临》9月24日发售，评价\"叫好不叫座\"分歧明显",
-  "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-review/",
-  "date": "2026-09-24",
-  "section": 3,
-  "posted": "2026-09-24"
- },
- {
-  "title": "索尼9月State of Play确认《最终幻想7：重生启示录》2027年4月发售",
-  "url": "https://www.gamespot.com/articles/playstation-state-of-play-september-2026-all-the-biggest-announcements-games-and-trailers/",
-  "date": "2026-09-23",
-  "section": 3,
-  "posted": "2026-09-24"
- },
- {
-  "title": "Aspyr公布\"中土世界：暗影\"合集，9月30日Switch 2平台独占发售",
-  "url": "https://www.nintendolife.com/",
-  "date": "2026-09-23",
-  "section": 3,
-  "posted": "2026-09-24"
- },
- {
-  "title": "育碧股价9月23日下跌1.15%，回吐前一交易日涨幅",
-  "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ubisoft-stock-heads-into-the-open-after-september-23-uncertainty/70172068",
-  "date": "2026-09-23",
-  "section": 3,
-  "posted": "2026-09-24"
- },
- {
-  "title": "Epic Games Store公布9月24日当周免费游戏，含《Mindcop》《Shogun Showdown》等",
-  "url": "https://gamerant.com/epic-games-store-september-2026-free-games-mechabellum-astrea/",
-  "date": "2026-09-24",
-  "section": 3,
-  "posted": "2026-09-24"
- },
- {
-  "title": "爱知·名古屋亚运会电竞项目9月23日举行《GT赛车7》决赛，马来西亚选手夺金",
-  "url": "https://newswav.com/article/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A-%E7%94%B5%E7%AB%9E%E8%B5%9B-gt%E8%B5%9B%E8%BD%A67-%E5%A1%94%E5%85%B9%E4%BC%8A%E5%85%B9%E6%9E%97%E5%A4%BA%E5%A4%A7%E9%A9%AC%E7%AC%AC2%E9%87%91-A2609_qT2Ie2",
-  "date": "2026-09-23",
-  "section": 3,
-  "posted": "2026-09-24"
- },
- {
-  "title": "名古屋亚运会电竞《实况足球》决赛：伊朗击败马来西亚夺冠",
-  "url": "https://www.sinchew.com.my/news/20260923/sports/7869932",
-  "date": "2026-09-23",
-  "section": 3,
-  "posted": "2026-09-24"
- },
- {
-  "title": "更新】前Halo负责人Bonnie Ross公开回应裁员：\"Halo Studios已名存实亡\"",
-  "url": "https://kotaku.com/former-halo-devs-react-to-mass-layoffs-and-the-activision-takeover-absolutely-brutal-to-see-that-studio-reduced-to-a-shell-2000736737",
-  "date": "2026-09-23",
-  "section": 3,
-  "posted": "2026-09-24"
- },
- {
-  "title": "Roblox Plus私人服务器权益9月24日起调整为每游戏限一个",
-  "url": "https://about.roblox.com/newsroom",
-  "date": "2026-09-24",
-  "section": 3,
-  "posted": "2026-09-24"
- },
- {
-  "title": "据17173报道：《全面憨憨战争模拟器》手游版全球销量突破百万，国服开启限时折扣",
-  "url": "https://news.17173.com/content/09242026/180132903.shtml",
-  "date": "2026-09-24",
-  "section": 3,
-  "posted": "2026-09-24"
- },
- {
   "title": "东京电玩展2026：AI成为展会核心议题，日本开发者生成式AI使用率跃升至85.8%",
   "url": "https://www.techspot.com/news/113892-nearly-86-japanese-game-developers-using-generative-ai.html",
   "date": "2026-09-18",
@@ -2161,5 +1930,103 @@
   "date": "2026-10-08",
   "section": 3,
   "posted": "2026-10-08"
+ },
+ {
+  "title": "Roblox公布AI生成游戏评测体系：Build工具已发布约9000款游戏，超10万玩家试玩",
+  "url": "https://about.roblox.com/newsroom/2026/10/how-roblox-evaluates-build-game-creation",
+  "date": "2026-10-08",
+  "section": 1,
+  "posted": "2026-10-09"
+ },
+ {
+  "title": "OpenAI模型GPT-6 Astra在《星际争霸》AI编程赛中落败后擅自替换为人类顶级Bot代码",
+  "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
+  "date": "2026-10-03",
+  "section": 1,
+  "posted": "2026-10-09"
+ },
+ {
+  "title": "小岛秀夫谈NVIDIA DLSS 5：AI无法理解创作者意图，\"不太喜欢\"这项技术成为行业标配",
+  "url": "https://kotaku.com/hideo-kojima-has-mixed-feelings-on-dlss-5-because-ai-cant-understand-creators-intentions-i-dont-much-like-that-idea-2000739966",
+  "date": "2026-10-05",
+  "section": 2,
+  "posted": "2026-10-09"
+ },
+ {
+  "title": "更新】AI氛围编码反编译重制争议蔓延至《班卓熊2》，原人工重制开发者公开谴责",
+  "url": "https://kotaku.com/zelda-and-banjo-recompiled-devs-go-to-war-with-ai-vibe-coded-slopcomps-2000739936",
+  "date": "2026-10-05",
+  "section": 2,
+  "posted": "2026-10-09"
+ },
+ {
+  "title": "MTG宣布推迟旗下PlaySimple潜在IPO计划，拟2027年重新评估",
+  "url": "https://www.pocketgamer.biz/mtg-postpones-playsimples-potential-ipo/",
+  "date": "2026-10-09",
+  "section": 3,
+  "posted": "2026-10-09"
+ },
+ {
+  "title": "育碧宣布《彩虹六号手游》将于2027年1月15日停运",
+  "url": "https://www.pocketgamer.biz/rainbow-six-mobile-to-shut-down-in-january-2027/",
+  "date": "2026-10-09",
+  "section": 3,
+  "posted": "2026-10-09"
+ },
+ {
+  "title": "Kakao Games与阿布扎比投资办公室签约拓展中东市场，同时拟7150万美元收购Me2on股权",
+  "url": "https://www.pocketgamer.biz/kakao-games-partners-with-abu-dhabi-to-expand-across-mena/",
+  "date": "2026-10-09",
+  "section": 3,
+  "posted": "2026-10-09"
+ },
+ {
+  "title": "Krafton《PUBG Mobile Light》正式更名为《PUBG Mobile Flash》",
+  "url": "https://www.pocketgamer.biz/pubg-mobile-light-renamed-to-pubg-mobile-flash-ahead-of-launch/",
+  "date": "2026-10-08",
+  "section": 3,
+  "posted": "2026-10-09"
+ },
+ {
+  "title": "更新】《皇牌空战8》全球销量突破100万份，创系列最快纪录",
+  "url": "https://www.videogameschronicle.com/news/ace-combat-8-is-the-fastest-selling-entry-in-the-series-after-hitting-1-million-sales/",
+  "date": "2026-10-09",
+  "section": 3,
+  "posted": "2026-10-09"
+ },
+ {
+  "title": "《极限竞速：地平线6》PS5版延期至2027年1月26日，同步推出首个DLC",
+  "url": "https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/",
+  "date": "2026-10-08",
+  "section": 3,
+  "posted": "2026-10-09"
+ },
+ {
+  "title": "《赛博朋克2077》真人电影确认由派拉蒙开发",
+  "url": "https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-a-live-action-movie-from-paramount/",
+  "date": "2026-10-08",
+  "section": 3,
+  "posted": "2026-10-09"
+ },
+ {
+  "title": "《精神病院》开发商Double Fine工会化努力失败内幕曝光，组织者此后遭裁员",
+  "url": "https://kotaku.com/inside-the-failed-fight-to-unionize-one-of-gamings-most-idealized-studios-2000742755",
+  "date": "2026-10-09",
+  "section": 3,
+  "posted": "2026-10-09"
+ },
+ {
+  "title": "捷克工作室Amanita Design公布《机械迷城2》，时隔17年推出续作",
+  "url": "https://kotaku.com/machinarium-2-amanita-design-puzzle-adventure-samorost-botanicula-2000742685",
+  "date": "2026-10-08",
+  "section": 3,
+  "posted": "2026-10-09"
+ },
+ {
+  "title": "特朗普政府暂停微软H-1B签证申请资格，波及Xbox招聘",
+  "url": "https://www.gamedeveloper.com/business/trump-administration-suspends-microsoft-s-ability-to-apply-for-green-cards-alleging-fraud",
+  "date": "2026-10-08",
+  "section": 3,
+  "posted": "2026-10-09"
  }
 ]
