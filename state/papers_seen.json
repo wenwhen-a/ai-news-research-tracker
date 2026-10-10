@@ -14861,5 +14861,29 @@
   "first_seen": "2026-10-09",
   "submitted": "2026-09-27T04:38:17Z",
   "title": "GaussianBench: Physics-Fidelity Evaluation for Gaussian Scene Representations"
+ },
+ "2610.11552": {
+  "status": "screened-out",
+  "first_seen": "2026-10-10",
+  "submitted": "2026-10-08T09:15:28Z",
+  "title": "Safe, Persistent, and Evolving Agent Harness for Understanding Partially Observable Worlds"
+ },
+ "2610.11527": {
+  "status": "screened-out",
+  "first_seen": "2026-10-10",
+  "submitted": "2026-10-08T08:56:53Z",
+  "title": "AtomWorld-Mirror: Macro-Step World Modeling of Critical Evolution Backbones for Materials Dynamics"
+ },
+ "2610.11384": {
+  "status": "near-miss",
+  "first_seen": "2026-10-10",
+  "submitted": "2026-10-08T07:16:00Z",
+  "title": "Environmental Feedback Modeling Matters: Rethinking Feedback Treatment in Agentic Hindsight Self-Distillation"
+ },
+ "2610.11253": {
+  "status": "screened-out",
+  "first_seen": "2026-10-10",
+  "submitted": "2026-10-08T05:01:30Z",
+  "title": "LLM-IDEA: Identifiability-Driven Experimental Agent for Autonomous Discovery of Mechanistic World Models"
  }
 }
