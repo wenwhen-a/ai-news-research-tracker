@@ -1,0 +1,352 @@
+{
+  "as_of": "2026-10-10",
+  "cutoff": "2026-10-09",
+  "window_days": 1,
+  "summary": {
+    "input_items": 16,
+    "denied_source": 0,
+    "in_window": 16,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 16,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 16,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 13,
+    "previously_covered_count": 3
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Circana：美国主机硬件市场处于80年代以来最危险境地",
+        "url": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/",
+        "date": "2026-10-10",
+        "section": 3,
+        "summary": "市场调研公司Circana称，受AI数据中心引发的零部件短缺导致主机价格飙升影响，美国主机硬件市场处于自上世纪80年代初以来最危险的境地：2026年至8月，Xbox主机销量同比下跌33%创历史新低，PlayStation销量下跌25%为2013年来最低，分析师Mat Piscatella称GTA 6能否提振11月销量仍取决于产能供应。"
+      },
+      "members": [
+        {
+          "title": "Circana：美国主机硬件市场处于80年代以来最危险境地",
+          "url": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/",
+          "date": "2026-10-10",
+          "section": 3,
+          "summary": "市场调研公司Circana称，受AI数据中心引发的零部件短缺导致主机价格飙升影响，美国主机硬件市场处于自上世纪80年代初以来最危险的境地：2026年至8月，Xbox主机销量同比下跌33%创历史新低，PlayStation销量下跌25%为2013年来最低，分析师Mat Piscatella称GTA 6能否提振11月销量仍取决于产能供应。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "育碧宣布关停手游《彩虹六号：移动版》",
+        "url": "https://www.videogameschronicle.com/news/ubisoft-is-shutting-down-rainbow-six-mobile-dev-team-releases-message/",
+        "date": "2026-10-09",
+        "section": 3,
+        "summary": "育碧在《彩虹六号：移动版》官方账号发布声明，宣布做出“艰难决定”将游戏下线，服务将持续运营至2027年1月15日；该游戏于2026年2月全球上线不足一年即被关停，开发工作室育碧哈利法克斯此前已在今年1月被关闭。"
+      },
+      "members": [
+        {
+          "title": "育碧宣布关停手游《彩虹六号：移动版》",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-is-shutting-down-rainbow-six-mobile-dev-team-releases-message/",
+          "date": "2026-10-09",
+          "section": 3,
+          "summary": "育碧在《彩虹六号：移动版》官方账号发布声明，宣布做出“艰难决定”将游戏下线，服务将持续运营至2027年1月15日；该游戏于2026年2月全球上线不足一年即被关停，开发工作室育碧哈利法克斯此前已在今年1月被关闭。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Pearl Abyss高管回应《花园少女》评分争议：评测人没有公平探索机会",
+        "url": "https://kotaku.com/crimson-desert-exec-explains-the-gulf-between-the-mid-review-scores-and-the-7-million-sales-2000743258",
+        "date": "2026-10-09",
+        "section": 3,
+        "summary": "Pearl Abyss欧洲CEO Lybee Park表示，《Crimson Desert》今年3月发售时Metacritic评分仅77分低于预期，部分原因是评测媒体拿到的试玩版本与正式版不同，且评测周期有限只能走主线、未能体验游戏隐藏内容和探索自由度；公司同时透露将在2027年上半年推出Switch 2版本。"
+      },
+      "members": [
+        {
+          "title": "Pearl Abyss高管回应《花园少女》评分争议：评测人没有公平探索机会",
+          "url": "https://kotaku.com/crimson-desert-exec-explains-the-gulf-between-the-mid-review-scores-and-the-7-million-sales-2000743258",
+          "date": "2026-10-09",
+          "section": 3,
+          "summary": "Pearl Abyss欧洲CEO Lybee Park表示，《Crimson Desert》今年3月发售时Metacritic评分仅77分低于预期，部分原因是评测媒体拿到的试玩版本与正式版不同，且评测周期有限只能走主线、未能体验游戏隐藏内容和探索自由度；公司同时透露将在2027年上半年推出Switch 2版本。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "任天堂美国总裁不确认GTA 6是否会登陆Switch 2",
+        "url": "https://www.nintendolife.com/news/2026/10/nintendo-of-americas-president-comments-on-the-possibility-of-gta-6-on-switch-2",
+        "date": "2026-10-09",
+        "section": 3,
+        "summary": "任天堂美国总裁Devon Pritchard在接受Variety采访时表示，关于GTA 6是否登陆Switch 2“目前没有可宣布的消息”，并称这是“Take-Two和Rockstar之间的事”；目前任天堂和Rockstar均未透露移植计划，但Switch 2此前已运行《赛博朋克2077》《生化危机》等成人向大作。"
+      },
+      "members": [
+        {
+          "title": "任天堂美国总裁不确认GTA 6是否会登陆Switch 2",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-of-americas-president-comments-on-the-possibility-of-gta-6-on-switch-2",
+          "date": "2026-10-09",
+          "section": 3,
+          "summary": "任天堂美国总裁Devon Pritchard在接受Variety采访时表示，关于GTA 6是否登陆Switch 2“目前没有可宣布的消息”，并称这是“Take-Two和Rockstar之间的事”；目前任天堂和Rockstar均未透露移植计划，但Switch 2此前已运行《赛博朋克2077》《生化危机》等成人向大作。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "劳资仲裁听证会曝光：Rockstar HR被追问Discord“内鬼”与解雇GTA 6员工的时间点",
+        "url": "https://kotaku.com/rockstar-hr-questioned-over-discord-mole-and-sudden-timing-of-gta-6-dev-firings-in-latest-labor-tribunal-hearing-2000743272",
+        "date": "2026-10-09",
+        "section": 3,
+        "summary": "英国格拉斯哥一场劳资仲裁听证会上，Rockstar林肯工作室HR总监Charlie Kinloch被质询：公司2025年以泄露GTA 6开发信息为由解雇30余名员工，被解雇员工一方指控真实目的是阻止工会IWGB在公司内获得立足点，并称一名初级员工长期向管理层提供工会活动截图；听证会将持续至下周。"
+      },
+      "members": [
+        {
+          "title": "劳资仲裁听证会曝光：Rockstar HR被追问Discord“内鬼”与解雇GTA 6员工的时间点",
+          "url": "https://kotaku.com/rockstar-hr-questioned-over-discord-mole-and-sudden-timing-of-gta-6-dev-firings-in-latest-labor-tribunal-hearing-2000743272",
+          "date": "2026-10-09",
+          "section": 3,
+          "summary": "英国格拉斯哥一场劳资仲裁听证会上，Rockstar林肯工作室HR总监Charlie Kinloch被质询：公司2025年以泄露GTA 6开发信息为由解雇30余名员工，被解雇员工一方指控真实目的是阻止工会IWGB在公司内获得立足点，并称一名初级员工长期向管理层提供工会活动截图；听证会将持续至下周。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "调查：Double Fine建立工会的努力失败内幕，组织者全部遭裁员",
+        "url": "https://kotaku.com/inside-the-failed-fight-to-unionize-one-of-gamings-most-idealized-studios-2000742755",
+        "date": "2026-10-09",
+        "section": 3,
+        "summary": "Kotaku调查报道称，《脑航员》开发商Double Fine今年5月员工发起建立工会申请，因内部强烈反对于5月20日撤回，随后微软在6月宣布Xbox重组、Double Fine被剥离为独立工作室，7月28日裁员23人，其中包括全部8名工会组织委员会成员；创始人Tim Schafer称裁员未针对工会积极分子。"
+      },
+      "members": [
+        {
+          "title": "调查：Double Fine建立工会的努力失败内幕，组织者全部遭裁员",
+          "url": "https://kotaku.com/inside-the-failed-fight-to-unionize-one-of-gamings-most-idealized-studios-2000742755",
+          "date": "2026-10-09",
+          "section": 3,
+          "summary": "Kotaku调查报道称，《脑航员》开发商Double Fine今年5月员工发起建立工会申请，因内部强烈反对于5月20日撤回，随后微软在6月宣布Xbox重组、Double Fine被剥离为独立工作室，7月28日裁员23人，其中包括全部8名工会组织委员会成员；创始人Tim Schafer称裁员未针对工会积极分子。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《星球大战：零号公司》在开发团队复工后销量突破100万份",
+        "url": "https://www.pushsquare.com/news/2026/10/as-its-developer-recovers-star-wars-zero-company-reaches-one-million-copies-sold",
+        "date": "2026-10-09",
+        "section": 3,
+        "summary": "EA旗下Bit Reactor开发的《星球大战：零号公司》销量突破100万份，该游戏开发团队此前曾遭遇停薪留职（furlough），近期已恢复工作。"
+      },
+      "members": [
+        {
+          "title": "《星球大战：零号公司》在开发团队复工后销量突破100万份",
+          "url": "https://www.pushsquare.com/news/2026/10/as-its-developer-recovers-star-wars-zero-company-reaches-one-million-copies-sold",
+          "date": "2026-10-09",
+          "section": 3,
+          "summary": "EA旗下Bit Reactor开发的《星球大战：零号公司》销量突破100万份，该游戏开发团队此前曾遭遇停薪留职（furlough），近期已恢复工作。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《皇牌空战8》发售一周销量破百万，系列史上最快",
+        "url": "https://www.pushsquare.com/news/2026/10/ace-combat-8-has-sold-one-million-copies-faster-than-any-previous-entry-in-the-series",
+        "date": "2026-10-09",
+        "section": 3,
+        "summary": "万代南梦宫宣布《皇牌空战8：Wings of Theve》发售一周多后全球销量突破100万份，是该系列历史上销量破百万最快的作品，Metacritic评分87分为系列历史第二高。"
+      },
+      "members": [
+        {
+          "title": "《皇牌空战8》发售一周销量破百万，系列史上最快",
+          "url": "https://www.pushsquare.com/news/2026/10/ace-combat-8-has-sold-one-million-copies-faster-than-any-previous-entry-in-the-series",
+          "date": "2026-10-09",
+          "section": 3,
+          "summary": "万代南梦宫宣布《皇牌空战8：Wings of Theve》发售一周多后全球销量突破100万份，是该系列历史上销量破百万最快的作品，Metacritic评分87分为系列历史第二高。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《索尼克赛车：火花飞车》永久降价并公布二年期联动大礼包",
+        "url": "https://www.pushsquare.com/news/2026/10/sonic-racing-crossworlds-now-permanently-cheaper-and-its-going-absolutely-bananas-with-dlc-in-year-2",
+        "date": "2026-10-10",
+        "section": 3,
+        "summary": "世嘉宣布《索尼克赛车：Crossworlds》将永久降价，并公布第二年DLC路线图，包含《新世纪福音战士》《最终幻想7》《女神异闻录》及三丽鸥角色等多个联动内容。"
+      },
+      "members": [
+        {
+          "title": "《索尼克赛车：火花飞车》永久降价并公布二年期联动大礼包",
+          "url": "https://www.pushsquare.com/news/2026/10/sonic-racing-crossworlds-now-permanently-cheaper-and-its-going-absolutely-bananas-with-dlc-in-year-2",
+          "date": "2026-10-10",
+          "section": 3,
+          "summary": "世嘉宣布《索尼克赛车：Crossworlds》将永久降价，并公布第二年DLC路线图，包含《新世纪福音战士》《最终幻想7》《女神异闻录》及三丽鸥角色等多个联动内容。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《双人成行》登陆Switch 2，免费升级支持跨平台联机",
+        "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
+        "date": "2026-10-09",
+        "section": 3,
+        "summary": "EA旗下Hazelight工作室的《双人成行》将于10月15日登陆Switch 2，现有玩家可免费获得画面升级版本，并支持跨平台联机。"
+      },
+      "members": [
+        {
+          "title": "《双人成行》登陆Switch 2，免费升级支持跨平台联机",
+          "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
+          "date": "2026-10-09",
+          "section": 3,
+          "summary": "EA旗下Hazelight工作室的《双人成行》将于10月15日登陆Switch 2，现有玩家可免费获得画面升级版本，并支持跨平台联机。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《鬼岛求生记》最终DLC将与《深海迷航2》推出联动内容",
+        "url": "https://www.nintendolife.com/news/2026/10/dave-the-divers-final-dlc-is-the-perfect-crossover",
+        "date": "2026-10-09",
+        "section": 3,
+        "summary": "开发商Mintrocket确认《Dave the Diver》最终DLC将于2027年初推出，内容为与《深海迷航2（Subnautica 2）》的联动合作。"
+      },
+      "members": [
+        {
+          "title": "《鬼岛求生记》最终DLC将与《深海迷航2》推出联动内容",
+          "url": "https://www.nintendolife.com/news/2026/10/dave-the-divers-final-dlc-is-the-perfect-crossover",
+          "date": "2026-10-09",
+          "section": 3,
+          "summary": "开发商Mintrocket确认《Dave the Diver》最终DLC将于2027年初推出，内容为与《深海迷航2（Subnautica 2）》的联动合作。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《绝区零》3.3版本“晴空来客”公布，10月21日上线",
+        "url": "https://www.gematsu.com/2026/10/zenless-zone-zero-version-3-3-update-journey-to-the-sky-launches-october-21",
+        "date": "2026-10-09",
+        "section": 3,
+        "summary": "米哈游宣布《绝区零》3.3版本“晴空来客”将于10月21日上线，新增S级新角色“菲尼克斯”与“赛文利安”，并加入可驾驶机甲进行近战与远程战斗的新玩法模式。"
+      },
+      "members": [
+        {
+          "title": "《绝区零》3.3版本“晴空来客”公布，10月21日上线",
+          "url": "https://www.gematsu.com/2026/10/zenless-zone-zero-version-3-3-update-journey-to-the-sky-launches-october-21",
+          "date": "2026-10-09",
+          "section": 3,
+          "summary": "米哈游宣布《绝区零》3.3版本“晴空来客”将于10月21日上线，新增S级新角色“菲尼克斯”与“赛文利安”，并加入可驾驶机甲进行近战与远程战斗的新玩法模式。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《影之道》延期至2027年3月",
+        "url": "https://www.gematsu.com/2026/10/shadow-of-the-road-delayed-to-march-10-2027",
+        "date": "2026-10-09",
+        "section": 3,
+        "summary": "开发商宣布游戏《Shadow of the Road》由原计划延期至2027年3月10日发售。"
+      },
+      "members": [
+        {
+          "title": "《影之道》延期至2027年3月",
+          "url": "https://www.gematsu.com/2026/10/shadow-of-the-road-delayed-to-march-10-2027",
+          "date": "2026-10-09",
+          "section": 3,
+          "summary": "开发商宣布游戏《Shadow of the Road》由原计划延期至2027年3月10日发售。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《漫威争锋》10.5赛季“通向末日之战”上线",
+        "url": "https://gamingtrend.com/news/marvel-rivals-launches-season-10-5-on-october-9/",
+        "date": "2026-10-09",
+        "section": 3,
+        "summary": "网易旗下《漫威争锋》10月9日上线10.5赛季中期更新“通向末日之战”第一阶段（复仇者联盟3：无限战争2v2模式），本季未加入新英雄，50人大逃杀式灭霸PvE模式“终局模式”计划10月22日上线。"
+      },
+      "members": [
+        {
+          "title": "《漫威争锋》10.5赛季“通向末日之战”上线",
+          "url": "https://gamingtrend.com/news/marvel-rivals-launches-season-10-5-on-october-9/",
+          "date": "2026-10-09",
+          "section": 3,
+          "summary": "网易旗下《漫威争锋》10月9日上线10.5赛季中期更新“通向末日之战”第一阶段（复仇者联盟3：无限战争2v2模式），本季未加入新英雄，50人大逃杀式灭霸PvE模式“终局模式”计划10月22日上线。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Croteam公布《对话公理3》首个实机演示",
+        "url": "https://www.thesixthaxis.com/2026/10/09/croteam-shares-first-the-talos-principle-3-gameplay/",
+        "date": "2026-10-09",
+        "section": 3,
+        "summary": "开发商Croteam公布解谜游戏《The Talos Principle 3》首个实机演示画面。"
+      },
+      "members": [
+        {
+          "title": "Croteam公布《对话公理3》首个实机演示",
+          "url": "https://www.thesixthaxis.com/2026/10/09/croteam-shares-first-the-talos-principle-3-gameplay/",
+          "date": "2026-10-09",
+          "section": 3,
+          "summary": "开发商Croteam公布解谜游戏《The Talos Principle 3》首个实机演示画面。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《阿蒙格斯故事：On Guard》确定2月发售",
+        "url": "https://www.thesixthaxis.com/2026/10/09/among-us-story-on-guard-has-been-given-a-february-release-date/",
+        "date": "2026-10-09",
+        "section": 3,
+        "summary": "Innersloth公布衍生新作《Among Us Story: On Guard》将于明年2月发售。"
+      },
+      "members": [
+        {
+          "title": "《阿蒙格斯故事：On Guard》确定2月发售",
+          "url": "https://www.thesixthaxis.com/2026/10/09/among-us-story-on-guard-has-been-given-a-february-release-date/",
+          "date": "2026-10-09",
+          "section": 3,
+          "summary": "Innersloth公布衍生新作《Among Us Story: On Guard》将于明年2月发售。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

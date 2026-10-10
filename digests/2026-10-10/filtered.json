@@ -1,0 +1,320 @@
+{
+  "as_of": "2026-10-10",
+  "cutoff": "2026-10-03",
+  "window_days": 7,
+  "summary": {
+    "input_items": 12,
+    "denied_source": 0,
+    "in_window": 12,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 12,
+    "duplicate_clusters": 0,
+    "section1_count": 6,
+    "section2_count": 6,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": true,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 4,
+    "previously_covered_count": 8
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "NVIDIA and Microsoft launch RTX Spark PCs and OS-level AI agent infrastructure for Windows",
+        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+        "date": "2026-10-07",
+        "section": 1,
+        "summary": "At a joint San Francisco event on October 7, 2026, NVIDIA and Microsoft launched RTX Spark, a new class of Windows laptops/compact desktops built on a Blackwell RTX GPU (up to 6,144 cores) plus up to a 20-core NVIDIA Grace CPU, up to 128GB unified memory and 1 petaflop of FP4 AI compute, able to run a 125B-parameter model locally. Microsoft announced general availability of Microsoft Execution Containers (MXC), OS-level infrastructure letting AI agents run securely and persistently on Windows, alongside Microsoft Security and Agent 365 for governance. Laptop preorders opened October 7 (sales October 16, with Acer, ASUS, Dell, HP, Lenovo, Microsoft, MSI, Gigabyte as partners; compact desktops in November); Microsoft's own Surface Laptop Ultra is built around RTX Spark. NVIDIA also previewed a Windows version of DGX Station (GB300 Grace Blackwell Ultra, 748GB coherent memory, up to 20 petaFLOPS FP4), previously Linux-only.",
+        "background": "Jensen Huang and Satya Nadella framed this as the next step for Windows after decades of GeForce-on-Windows history, pitching AI agents as turning the PC into a personal assistant; Microsoft noted most Fortune 500 companies standardize on Windows, which previously forced separate Linux/Windows toolchains for NVIDIA's DGX hardware.",
+        "results": "Gaming use case cited: RTX Spark systems target AAA games at 1440p above 100fps with DLSS 5, Reflex and G-SYNC, while also serving as always-on local AI agent hardware for developers (CUDA/DGX Station workflow portability) and creators (5th-gen Tensor Cores, NVFP4, AV1 encode). No pricing has been disclosed yet; analysts quoted elsewhere noted skepticism about mainstream (non-developer/creator) demand given cost and memory-supply constraints."
+      },
+      "members": [
+        {
+          "title": "NVIDIA and Microsoft launch RTX Spark PCs and OS-level AI agent infrastructure for Windows",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+          "date": "2026-10-07",
+          "section": 1,
+          "summary": "At a joint San Francisco event on October 7, 2026, NVIDIA and Microsoft launched RTX Spark, a new class of Windows laptops/compact desktops built on a Blackwell RTX GPU (up to 6,144 cores) plus up to a 20-core NVIDIA Grace CPU, up to 128GB unified memory and 1 petaflop of FP4 AI compute, able to run a 125B-parameter model locally. Microsoft announced general availability of Microsoft Execution Containers (MXC), OS-level infrastructure letting AI agents run securely and persistently on Windows, alongside Microsoft Security and Agent 365 for governance. Laptop preorders opened October 7 (sales October 16, with Acer, ASUS, Dell, HP, Lenovo, Microsoft, MSI, Gigabyte as partners; compact desktops in November); Microsoft's own Surface Laptop Ultra is built around RTX Spark. NVIDIA also previewed a Windows version of DGX Station (GB300 Grace Blackwell Ultra, 748GB coherent memory, up to 20 petaFLOPS FP4), previously Linux-only.",
+          "background": "Jensen Huang and Satya Nadella framed this as the next step for Windows after decades of GeForce-on-Windows history, pitching AI agents as turning the PC into a personal assistant; Microsoft noted most Fortune 500 companies standardize on Windows, which previously forced separate Linux/Windows toolchains for NVIDIA's DGX hardware.",
+          "results": "Gaming use case cited: RTX Spark systems target AAA games at 1440p above 100fps with DLSS 5, Reflex and G-SYNC, while also serving as always-on local AI agent hardware for developers (CUDA/DGX Station workflow portability) and creators (5th-gen Tensor Cores, NVFP4, AV1 encode). No pricing has been disclosed yet; analysts quoted elsewhere noted skepticism about mainstream (non-developer/creator) demand given cost and memory-supply constraints."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Google launches Playground AI game-creation platform; partners with Unity on Unity Spark",
+        "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
+        "date": "2026-10-06",
+        "section": 1,
+        "summary": "Google launched Playground on October 6-7, 2026, an experimental browser-based platform (playground.google) letting US users 18+ create, play and share games from text prompts with no coding, choosing 2D/3D and single/multiplayer; games can stay private, be shared via link, or published to an Explore gallery, with creation allowances tied to Google One tiers. Alongside the launch, Google and Unity announced a partnership introducing Unity Spark, a prompt-based tool (confirmed via Unity's own Oct 7 blog post and PocketGamer.biz, Oct 8) that lets creators build games from text prompts using artist-made Unity Asset Store assets, refine them in a new web editor, and eventually publish through Playground; Spark is in closed beta with a waitlist, showcased via a demo game called Space Corridor.",
+        "background": "The move follows a wave of 'prompt-to-game' tools across the industry in 2026 (Roblox's Build, Meta's Horizon AI tools) and continues Unity's push into AI-assisted development (CLI/plugins for Claude Code, Codex, and Grok Build). Unity CEO Matt Bromberg said the goal was not 'one-shotting' -- arguing that prompting an AI to recreate an existing game doesn't make someone a notable designer -- and pitched Spark as letting people build 'real, unique interactive experiences' starting from licensed art assets rather than purely generated content.",
+        "results": "Reception was sharply negative in parts of the press: Kotaku (Oct 7) criticized Unity's promotional trailer for Space Corridor as generic, poorly animated (unreactive enemies, no explosion effects) and undermined by fake success metrics (1,000 wishlists, $7.99 price, 5-star/214 reviews) baked into the ad; critics also noted Spark leans on premade Asset Store content, undercutting Unity's own argument that it preserves creative originality. An itch.io game jam was launched inviting developers to build a 'Space Corridor' without generative AI in response."
+      },
+      "members": [
+        {
+          "title": "Google launches Playground AI game-creation platform; partners with Unity on Unity Spark",
+          "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
+          "date": "2026-10-06",
+          "section": 1,
+          "summary": "Google launched Playground on October 6-7, 2026, an experimental browser-based platform (playground.google) letting US users 18+ create, play and share games from text prompts with no coding, choosing 2D/3D and single/multiplayer; games can stay private, be shared via link, or published to an Explore gallery, with creation allowances tied to Google One tiers. Alongside the launch, Google and Unity announced a partnership introducing Unity Spark, a prompt-based tool (confirmed via Unity's own Oct 7 blog post and PocketGamer.biz, Oct 8) that lets creators build games from text prompts using artist-made Unity Asset Store assets, refine them in a new web editor, and eventually publish through Playground; Spark is in closed beta with a waitlist, showcased via a demo game called Space Corridor.",
+          "background": "The move follows a wave of 'prompt-to-game' tools across the industry in 2026 (Roblox's Build, Meta's Horizon AI tools) and continues Unity's push into AI-assisted development (CLI/plugins for Claude Code, Codex, and Grok Build). Unity CEO Matt Bromberg said the goal was not 'one-shotting' -- arguing that prompting an AI to recreate an existing game doesn't make someone a notable designer -- and pitched Spark as letting people build 'real, unique interactive experiences' starting from licensed art assets rather than purely generated content.",
+          "results": "Reception was sharply negative in parts of the press: Kotaku (Oct 7) criticized Unity's promotional trailer for Space Corridor as generic, poorly animated (unreactive enemies, no explosion effects) and undermined by fake success metrics (1,000 wishlists, $7.99 price, 5-star/214 reviews) baked into the ad; critics also noted Spark leans on premade Asset Store content, undercutting Unity's own argument that it preserves creative originality. An itch.io game jam was launched inviting developers to build a 'Space Corridor' without generative AI in response."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Roblox publishes engineering deep-dive on evaluating its Build AI game-creation tool",
+        "url": "https://about.roblox.com/newsroom/2026/10/how-roblox-evaluates-build-game-creation",
+        "date": "2026-10-08",
+        "section": 1,
+        "summary": "On October 8, 2026, Roblox engineers (Tiantian Zhang, Mengha Sun, Nishchaie Khanna) published a detailed account of the evaluation framework behind Build, Roblox's prompt-to-game mobile creation tool. As of data through Sept. 1, 2026, over 100,000 players had tried Build since its New Zealand alpha and about 9,000 Build games had been published; 71% of users who used it had never used Roblox Studio before. The framework scores four separate signals (game-spec quality, static/design quality via an engineering lens and design lens, agent-driven playtest pass-rate, and visual/experiential quality) rather than a single blended score, illustrated via a case study ('Skyforge Ascent') scoring 91/100 on spec but only 31/100 on design despite a perfect 100% playtest pass rate.",
+        "background": "Roblox built the framework because games are real-time, player-interactive systems whose playability and 'game feel' can't be judged from code or static assets alone -- a problem distinct from evaluating AI-written code or images. Early alpha testers reported Build often generated 2D games when 3D was requested, prompting a fix to 3D intent-understanding within two weeks.",
+        "results": "Using the framework to compare models/architectures, Roblox reports a newer model scored +7.6 playtest / +9.0 visual / +5.2 content points over its predecessor in offline A/B tests, while a dual-agent architecture outperformed a single-agent one by +11.2 playtest / +13.2 visual points (at a cost of -0.1 content score). Reported outcomes since alpha: creator satisfaction up 10%, and the rate of 'unintended' (off-target) outputs fell from 18% to 3% (as of Aug. 29, 2026) -- though Roblox frames these as descriptive trends, not proof the evaluation framework itself caused the improvement."
+      },
+      "members": [
+        {
+          "title": "Roblox publishes engineering deep-dive on evaluating its Build AI game-creation tool",
+          "url": "https://about.roblox.com/newsroom/2026/10/how-roblox-evaluates-build-game-creation",
+          "date": "2026-10-08",
+          "section": 1,
+          "summary": "On October 8, 2026, Roblox engineers (Tiantian Zhang, Mengha Sun, Nishchaie Khanna) published a detailed account of the evaluation framework behind Build, Roblox's prompt-to-game mobile creation tool. As of data through Sept. 1, 2026, over 100,000 players had tried Build since its New Zealand alpha and about 9,000 Build games had been published; 71% of users who used it had never used Roblox Studio before. The framework scores four separate signals (game-spec quality, static/design quality via an engineering lens and design lens, agent-driven playtest pass-rate, and visual/experiential quality) rather than a single blended score, illustrated via a case study ('Skyforge Ascent') scoring 91/100 on spec but only 31/100 on design despite a perfect 100% playtest pass rate.",
+          "background": "Roblox built the framework because games are real-time, player-interactive systems whose playability and 'game feel' can't be judged from code or static assets alone -- a problem distinct from evaluating AI-written code or images. Early alpha testers reported Build often generated 2D games when 3D was requested, prompting a fix to 3D intent-understanding within two weeks.",
+          "results": "Using the framework to compare models/architectures, Roblox reports a newer model scored +7.6 playtest / +9.0 visual / +5.2 content points over its predecessor in offline A/B tests, while a dual-agent architecture outperformed a single-agent one by +11.2 playtest / +13.2 visual points (at a cost of -0.1 content score). Reported outcomes since alpha: creator satisfaction up 10%, and the rate of 'unintended' (off-target) outputs fell from 18% to 3% (as of Aug. 29, 2026) -- though Roblox frames these as descriptive trends, not proof the evaluation framework itself caused the improvement."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "NVIDIA RTX Mega Geometry debuts in Gears of War: E-Day, to be adopted into DirectX Raytracing 2.0",
+        "url": "https://www.nvidia.com/en-us/geforce/news/gears-of-war-e-day-dlss-4-5-ray-tracing-rtx-mega-geometry/",
+        "date": "2026-10-06",
+        "section": 1,
+        "summary": "NVIDIA's October 6, 2026 GeForce news post confirms Gears of War: E-Day (The Coalition, Unreal Engine 5, released Oct 6) is the launch title for RTX Mega Geometry, an NVIDIA rendering technology NVIDIA says took six years to develop, which fixes a long-standing mismatch where Nanite's geometry falls back to a single low-detail mesh for ray tracing, causing incorrect/missing shadows and reflections. The game also ships with DLSS 4.5 (Super Resolution, Frame Generation, Dynamic Multi Frame Generation up to 6X on RTX 50 series) and NVIDIA Reflex; at 4K Ultra with ray tracing and RTX Mega Geometry enabled, NVIDIA's own benchmarks show roughly 7.5x faster-than-native rendering (RTX 5090 up to 410 FPS).",
+        "background": "Unreal Engine's Nanite virtualized geometry system improved rasterized detail but was incompatible with accurate ray-traced shadows/reflections at matching fidelity, a known limitation NVIDIA says it worked to solve for six years in partnership with Epic/The Coalition.",
+        "results": "NVIDIA states RTX Mega Geometry will be adopted into Microsoft's upcoming DirectX Raytracing 2.0 (DXR 2.0) standard, extending it beyond a vendor-specific feature; the technology requires an RTX GPU with at least 12GB VRAM. Early reviews (e.g. Tom's Hardware, cited by NVIDIA) recommended enabling it for best image quality; it is also coming later to the GeForce NOW cloud version of the game."
+      },
+      "members": [
+        {
+          "title": "NVIDIA RTX Mega Geometry debuts in Gears of War: E-Day, to be adopted into DirectX Raytracing 2.0",
+          "url": "https://www.nvidia.com/en-us/geforce/news/gears-of-war-e-day-dlss-4-5-ray-tracing-rtx-mega-geometry/",
+          "date": "2026-10-06",
+          "section": 1,
+          "summary": "NVIDIA's October 6, 2026 GeForce news post confirms Gears of War: E-Day (The Coalition, Unreal Engine 5, released Oct 6) is the launch title for RTX Mega Geometry, an NVIDIA rendering technology NVIDIA says took six years to develop, which fixes a long-standing mismatch where Nanite's geometry falls back to a single low-detail mesh for ray tracing, causing incorrect/missing shadows and reflections. The game also ships with DLSS 4.5 (Super Resolution, Frame Generation, Dynamic Multi Frame Generation up to 6X on RTX 50 series) and NVIDIA Reflex; at 4K Ultra with ray tracing and RTX Mega Geometry enabled, NVIDIA's own benchmarks show roughly 7.5x faster-than-native rendering (RTX 5090 up to 410 FPS).",
+          "background": "Unreal Engine's Nanite virtualized geometry system improved rasterized detail but was incompatible with accurate ray-traced shadows/reflections at matching fidelity, a known limitation NVIDIA says it worked to solve for six years in partnership with Epic/The Coalition.",
+          "results": "NVIDIA states RTX Mega Geometry will be adopted into Microsoft's upcoming DirectX Raytracing 2.0 (DXR 2.0) standard, extending it beyond a vendor-specific feature; the technology requires an RTX GPU with at least 12GB VRAM. Early reviews (e.g. Tom's Hardware, cited by NVIDIA) recommended enabling it for best image quality; it is also coming later to the GeForce NOW cloud version of the game."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "NVIDIA ships DLSS 4.5 support for Call of Duty: Modern Warfare 4 ahead of October 16 early access",
+        "url": "https://www.nvidia.com/en-us/geforce/news/call-of-duty-modern-warfare-4-dlss-4-5-available-october-16/",
+        "date": "2026-10-06",
+        "section": 2,
+        "summary": "NVIDIA announced on October 6, 2026 that Call of Duty: Modern Warfare 4's campaign early access, starting October 16, will ship with DLSS 4.5 Dynamic Multi Frame Generation and Super Resolution support. NVIDIA simultaneously released a matching GeForce Game Ready Driver for the game on the same day.",
+        "background": "",
+        "results": ""
+      },
+      "members": [
+        {
+          "title": "NVIDIA ships DLSS 4.5 support for Call of Duty: Modern Warfare 4 ahead of October 16 early access",
+          "url": "https://www.nvidia.com/en-us/geforce/news/call-of-duty-modern-warfare-4-dlss-4-5-available-october-16/",
+          "date": "2026-10-06",
+          "section": 2,
+          "summary": "NVIDIA announced on October 6, 2026 that Call of Duty: Modern Warfare 4's campaign early access, starting October 16, will ship with DLSS 4.5 Dynamic Multi Frame Generation and Super Resolution support. NVIDIA simultaneously released a matching GeForce Game Ready Driver for the game on the same day.",
+          "background": "",
+          "results": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Google launches Playground; Unity unveils Spark AI game maker, to integrate with it",
+        "url": "https://mobilegamer.biz/google-reveals-playground-its-ai-powered-game-making-platform/",
+        "date": "2026-10-07",
+        "section": 1,
+        "summary": "On October 7, 2026, Google launched Playground, a browser-based platform where users create and edit games from text prompts and publish them to an 'Explore' gallery for others to play on mobile or PC; it went live immediately for US users aged 18+ and will roll out to Google One subscribers. The next day, Unity announced Spark, a no-code AI game-creation tool built on the Unity Asset Store that is entering closed beta, and said Spark will integrate into Playground later in 2026 to add 'pro-level' features such as 3D and more advanced mechanics. Unity CEO Matt Bromberg said the goal is not 'one-shotting' clones of existing games but enabling genuinely new creative work, and that Spark connects directly to community-made Unity Asset Store content.",
+        "background": "Playground follows Google's Project Genie technology demos from January 2026. Meta has a comparable tool, Horizon Create, still in testing with no launch date, and YouTube has expanded its simple prompt-made Playables games to more than 50 markets - part of a broader race among major platforms into prompt-based, AI-generated game creation.",
+        "results": "Unity opened a waitlist for Spark's closed beta; Google Playground is live now for eligible US users; the Unity-Google integration allowing Spark games into Playground is expected to ship later in 2026, giving AI-made games a path to 3D/advanced features and wider distribution."
+      },
+      "members": [
+        {
+          "title": "Google launches Playground; Unity unveils Spark AI game maker, to integrate with it",
+          "url": "https://mobilegamer.biz/google-reveals-playground-its-ai-powered-game-making-platform/",
+          "date": "2026-10-07",
+          "section": 1,
+          "summary": "On October 7, 2026, Google launched Playground, a browser-based platform where users create and edit games from text prompts and publish them to an 'Explore' gallery for others to play on mobile or PC; it went live immediately for US users aged 18+ and will roll out to Google One subscribers. The next day, Unity announced Spark, a no-code AI game-creation tool built on the Unity Asset Store that is entering closed beta, and said Spark will integrate into Playground later in 2026 to add 'pro-level' features such as 3D and more advanced mechanics. Unity CEO Matt Bromberg said the goal is not 'one-shotting' clones of existing games but enabling genuinely new creative work, and that Spark connects directly to community-made Unity Asset Store content.",
+          "background": "Playground follows Google's Project Genie technology demos from January 2026. Meta has a comparable tool, Horizon Create, still in testing with no launch date, and YouTube has expanded its simple prompt-made Playables games to more than 50 markets - part of a broader race among major platforms into prompt-based, AI-generated game creation.",
+          "results": "Unity opened a waitlist for Spark's closed beta; Google Playground is live now for eligible US users; the Unity-Google integration allowing Spark games into Playground is expected to ship later in 2026, giving AI-made games a path to 3D/advanced features and wider distribution."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Chinese game giants pivot from investing in games to investing in AI",
+        "url": "https://finance.sina.cn/stock/jdts/2026-10-08/detail-iniuphnz4320216.d.html",
+        "date": "2026-10-08",
+        "section": 1,
+        "summary": "A Sina Finance report (sourced from 锌刻度/Xinkedu), published October 8, 2026, documents how major Chinese listed game companies have redirected capital from games into AI. Citing Qichacha data, it says 15 major listed game companies took part in 72 investment/financing deals from 2025 through early July 2026, with over 90% of that capital going to AI, robotics and other non-entertainment sectors rather than games or entertainment (which got under 1%). It cites NetEase putting in about 3 billion yuan and Tencent about 10 billion yuan into DeepSeek's first external funding round in June 2026; Perfect World committing 500 million yuan to an AI-focused venture fund in August despite a 118-million-yuan H1 2026 net loss; and 37 Interactive's indirect stakes in Zhipu AI and Moonshot AI generating over 1.016 billion yuan and 600-million-yuan-plus gains respectively.",
+        "background": "Tencent's annual game-sector investment count fell from 87 deals in 2021 to just 10 in 2024 and 8 in 2025 as it shifted from broad game investing to fewer, larger AI-focused bets. China's domestic game market grew 12.17% to 188.45 billion yuan in H1 2026, but rising user-acquisition costs (mini-game ad spend alone running about 179 million yuan/day, up 26%) are squeezing margins, pushing publishers to treat AI equity stakes as a new profit source and a way to lock in exclusive model/compute partnerships.",
+        "results": "For 37 Interactive, investment income (largely from its AI stakes) equaled 45.22% of total H1 2026 profit. Century Huatong's indirect 0.36% stake in GPU maker Moore Threads produced 640 million yuan of investment income in the quarter after that company's Q4 2025 listing. The report also notes NetEase's smart-NPC system in Justice Online Mobile now connects to six domestic large models, and Giant Network says over 80% of its 2D art assets are now AI-assisted."
+      },
+      "members": [
+        {
+          "title": "Chinese game giants pivot from investing in games to investing in AI",
+          "url": "https://finance.sina.cn/stock/jdts/2026-10-08/detail-iniuphnz4320216.d.html",
+          "date": "2026-10-08",
+          "section": 1,
+          "summary": "A Sina Finance report (sourced from 锌刻度/Xinkedu), published October 8, 2026, documents how major Chinese listed game companies have redirected capital from games into AI. Citing Qichacha data, it says 15 major listed game companies took part in 72 investment/financing deals from 2025 through early July 2026, with over 90% of that capital going to AI, robotics and other non-entertainment sectors rather than games or entertainment (which got under 1%). It cites NetEase putting in about 3 billion yuan and Tencent about 10 billion yuan into DeepSeek's first external funding round in June 2026; Perfect World committing 500 million yuan to an AI-focused venture fund in August despite a 118-million-yuan H1 2026 net loss; and 37 Interactive's indirect stakes in Zhipu AI and Moonshot AI generating over 1.016 billion yuan and 600-million-yuan-plus gains respectively.",
+          "background": "Tencent's annual game-sector investment count fell from 87 deals in 2021 to just 10 in 2024 and 8 in 2025 as it shifted from broad game investing to fewer, larger AI-focused bets. China's domestic game market grew 12.17% to 188.45 billion yuan in H1 2026, but rising user-acquisition costs (mini-game ad spend alone running about 179 million yuan/day, up 26%) are squeezing margins, pushing publishers to treat AI equity stakes as a new profit source and a way to lock in exclusive model/compute partnerships.",
+          "results": "For 37 Interactive, investment income (largely from its AI stakes) equaled 45.22% of total H1 2026 profit. Century Huatong's indirect 0.36% stake in GPU maker Moore Threads produced 640 million yuan of investment income in the quarter after that company's Q4 2025 listing. The report also notes NetEase's smart-NPC system in Justice Online Mobile now connects to six domestic large models, and Giant Network says over 80% of its 2D art assets are now AI-assisted."
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "AI narrows the path for small Chinese game studios to scale up",
+        "url": "https://finance.sina.cn/stock/jdts/2026-10-06/detail-iniufxcp5852798.d.html",
+        "date": "2026-10-06",
+        "section": 2,
+        "summary": "A Tech星球 analysis republished via Sina on October 6, 2026 argues AI is lowering the cost of making a game demo but raising the bar for scaling a hit into a major studio. It reports that among 64 listed Chinese game companies in H1 2026, revenue grew only about 9% while Tencent, NetEase and Century Huatong captured roughly 79% of total revenue; 22 companies were loss-making (double the prior year) and average monthly pay fell about 1,500 yuan to roughly 34,000 yuan amid headcount cuts. It cites a survey finding about 86% of Chinese game companies use AI, notes Tencent is testing AI NPCs in Peacekeeper Elite (167 million users) and uses AI agents in Delta Force, and says NetEase reports AI code generation has lifted development efficiency by 50% company-wide and up to 300% in some production areas.",
+        "background": "",
+        "results": ""
+      },
+      "members": [
+        {
+          "title": "AI narrows the path for small Chinese game studios to scale up",
+          "url": "https://finance.sina.cn/stock/jdts/2026-10-06/detail-iniufxcp5852798.d.html",
+          "date": "2026-10-06",
+          "section": 2,
+          "summary": "A Tech星球 analysis republished via Sina on October 6, 2026 argues AI is lowering the cost of making a game demo but raising the bar for scaling a hit into a major studio. It reports that among 64 listed Chinese game companies in H1 2026, revenue grew only about 9% while Tencent, NetEase and Century Huatong captured roughly 79% of total revenue; 22 companies were loss-making (double the prior year) and average monthly pay fell about 1,500 yuan to roughly 34,000 yuan amid headcount cuts. It cites a survey finding about 86% of Chinese game companies use AI, notes Tencent is testing AI NPCs in Peacekeeper Elite (167 million users) and uses AI agents in Delta Force, and says NetEase reports AI code generation has lifted development efficiency by 50% company-wide and up to 300% in some production areas.",
+          "background": "",
+          "results": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Unity brings official plugin to xAI's Grok Build coding agent",
+        "url": "https://www.pocketgamer.biz/unity-brings-official-plugin-to-grok-build-in-new-partnership/",
+        "date": "2026-10-05",
+        "section": 2,
+        "summary": "Unity announced on October 5, 2026 that it has shipped an official Unity plugin for Grok Build, xAI's coding agent, making it the third AI coding agent - after Anthropic's Claude Code and OpenAI's Codex - to get Unity's own engineering support. The plugin gives Grok Build the same 30-plus Unity engine skills (UI Toolkit/uGUI, 2D/tilemaps, URP/Shader Graph, audio, navigation, physics, multiplayer, IAP, localisation) available to the other two agents, works with Unity 6 and later, and installs with a single terminal command, with all three plugins maintained from one shared repository.",
+        "background": "",
+        "results": ""
+      },
+      "members": [
+        {
+          "title": "Unity brings official plugin to xAI's Grok Build coding agent",
+          "url": "https://www.pocketgamer.biz/unity-brings-official-plugin-to-grok-build-in-new-partnership/",
+          "date": "2026-10-05",
+          "section": 2,
+          "summary": "Unity announced on October 5, 2026 that it has shipped an official Unity plugin for Grok Build, xAI's coding agent, making it the third AI coding agent - after Anthropic's Claude Code and OpenAI's Codex - to get Unity's own engineering support. The plugin gives Grok Build the same 30-plus Unity engine skills (UI Toolkit/uGUI, 2D/tilemaps, URP/Shader Graph, audio, navigation, physics, multiplayer, IAP, localisation) available to the other two agents, works with Unity 6 and later, and installs with a single terminal command, with all three plugins maintained from one shared repository.",
+          "background": "",
+          "results": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Wizards of the Coast union expands to D&D and Magic teams, demands AI protections",
+        "url": "https://www.pocketgamer.biz/wizards-of-the-coast-union-expands-to-dandd-and-magic-teams/",
+        "date": "2026-10-08",
+        "section": 2,
+        "summary": "The Wizards of the Coast-CWA union announced an expanded bargaining unit on October 8, 2026 covering the Dungeons & Dragons and Magic: The Gathering teams, building on the Magic: The Gathering Arena team's unionization that began in April 2026. The union is demanding Wizards of the Coast and parent Hasbro adopt a clear AI policy protecting workers - particularly artists and other creatives - from generative AI, plus guarantees that employees keep ownership of creative work made on their own time. Wizards and Hasbro have until October 13 to voluntarily recognize the unit, or the union says it will file for an NLRB election.",
+        "background": "",
+        "results": ""
+      },
+      "members": [
+        {
+          "title": "Wizards of the Coast union expands to D&D and Magic teams, demands AI protections",
+          "url": "https://www.pocketgamer.biz/wizards-of-the-coast-union-expands-to-dandd-and-magic-teams/",
+          "date": "2026-10-08",
+          "section": 2,
+          "summary": "The Wizards of the Coast-CWA union announced an expanded bargaining unit on October 8, 2026 covering the Dungeons & Dragons and Magic: The Gathering teams, building on the Magic: The Gathering Arena team's unionization that began in April 2026. The union is demanding Wizards of the Coast and parent Hasbro adopt a clear AI policy protecting workers - particularly artists and other creatives - from generative AI, plus guarantees that employees keep ownership of creative work made on their own time. Wizards and Hasbro have until October 13 to voluntarily recognize the unit, or the union says it will file for an NLRB election.",
+          "background": "",
+          "results": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "How game studios are actually using AI right now, per PocketGamer.biz survey of execs",
+        "url": "https://www.pocketgamer.biz/how-developers-are-using-ai-right-now/",
+        "date": "2026-10-05",
+        "section": 2,
+        "summary": "A PocketGamer.biz feature published October 5, 2026 surveys how studio leaders are using AI today. MTG CEO Maria Redin says AI now lets a team that once shipped one game a year produce about three. NCSOFT/Veroplay CEO Anel Ceman says NCSOFT has built its own LLMs over 15 years of AI work and that AI-made ad creatives now cost 70-80% of the typical price. Mattel163 COO Devin Nambiar says AI supports pLTV modelling and ROAS prediction for user-acquisition planning, while Hypergryph says its new title Arknights: Endfield uses almost no AI since development predated the generative-AI boom.",
+        "background": "",
+        "results": ""
+      },
+      "members": [
+        {
+          "title": "How game studios are actually using AI right now, per PocketGamer.biz survey of execs",
+          "url": "https://www.pocketgamer.biz/how-developers-are-using-ai-right-now/",
+          "date": "2026-10-05",
+          "section": 2,
+          "summary": "A PocketGamer.biz feature published October 5, 2026 surveys how studio leaders are using AI today. MTG CEO Maria Redin says AI now lets a team that once shipped one game a year produce about three. NCSOFT/Veroplay CEO Anel Ceman says NCSOFT has built its own LLMs over 15 years of AI work and that AI-made ad creatives now cost 70-80% of the typical price. Mattel163 COO Devin Nambiar says AI supports pLTV modelling and ROAS prediction for user-acquisition planning, while Hypergryph says its new title Arknights: Endfield uses almost no AI since development predated the generative-AI boom.",
+          "background": "",
+          "results": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Ex-Take-Two AI chief Luke Dicken warns of AI investment bubble, junior-job cuts in games",
+        "url": "https://www.pocketgamer.biz/in-the-hot-seat-ex-take-two-ai-chief-luke-dicken-on-the-2tn-bubble-junior-jobs-and-the-next-2008/",
+        "date": "2026-10-08",
+        "section": 2,
+        "summary": "In an October 8, 2026 PocketGamer.biz interview, Dr Luke Dicken - who led Take-Two Interactive's AI team from January 2025 until it was cut in April 2026, after a decade building Zynga's applied-AI group - called current AI investor expectations 'one of the largest misallocations of capital,' warning that studios are cutting junior hires in favor of AI even as the industry faces a looming retirement wave of senior staff. He said AI tool pricing could rise roughly 20x once current subsidies end, comparing the dynamic to Uber's early pricing strategy, and predicted AI tooling will take three to five years to settle into standards.",
+        "background": "",
+        "results": ""
+      },
+      "members": [
+        {
+          "title": "Ex-Take-Two AI chief Luke Dicken warns of AI investment bubble, junior-job cuts in games",
+          "url": "https://www.pocketgamer.biz/in-the-hot-seat-ex-take-two-ai-chief-luke-dicken-on-the-2tn-bubble-junior-jobs-and-the-next-2008/",
+          "date": "2026-10-08",
+          "section": 2,
+          "summary": "In an October 8, 2026 PocketGamer.biz interview, Dr Luke Dicken - who led Take-Two Interactive's AI team from January 2025 until it was cut in April 2026, after a decade building Zynga's applied-AI group - called current AI investor expectations 'one of the largest misallocations of capital,' warning that studios are cutting junior hires in favor of AI even as the industry faces a looming retirement wave of senior staff. He said AI tool pricing could rise roughly 20x once current subsidies end, comparing the dynamic to Uber's early pricing strategy, and predicted AI tooling will take three to five years to settle into standards.",
+          "background": "",
+          "results": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

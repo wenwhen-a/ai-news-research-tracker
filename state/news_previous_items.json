@@ -1,187 +1,5 @@
 [
  {
-  "title": "东京电玩展2026：AI成为展会核心议题，日本开发者生成式AI使用率跃升至85.8%",
-  "url": "https://www.techspot.com/news/113892-nearly-86-japanese-game-developers-using-generative-ai.html",
-  "date": "2026-09-18",
-  "section": 1,
-  "posted": "2026-09-25"
- },
- {
-  "title": "NVIDIA发布RTX Kit 2026.3，推出新版ACE语音模型与RTX Mega Geometry 2.0/NVIGI SDK",
-  "url": "https://www.techpowerup.com/353019/nvidia-releases-rtx-kit-2026-3-and-rtx-mega-geometry-2-0-sdk-for-developers",
-  "date": "2026-09-22",
-  "section": 1,
-  "posted": "2026-09-25"
- },
- {
-  "title": "Meta Connect大会推出Horizon Create与Horizon Studio，任何人都可用文字提示生成可玩游戏",
-  "url": "https://developers.meta.com/blog/meta-connect-recap-horizon-create-and-horizon-studio/",
-  "date": "2026-09-24",
-  "section": 1,
-  "posted": "2026-09-25"
- },
- {
-  "title": "中国AI互动游戏融资热潮遭遇盈利瓶颈",
-  "url": "https://eu.36kr.com/zh/p/3995478359445385",
-  "date": "2026-09-23",
-  "section": 1,
-  "posted": "2026-09-25"
- },
- {
-  "title": "AMD FSR Redstone AI升级/帧生成套件已支持415款以上游戏",
-  "url": "https://en.gamegpu.com/news/igry/amd-fsr-redstone-stal-dostupen-v-415-igrakh-na-videokartakh-radeon-rx-9000-i-rx-7000",
-  "date": "2026-09-23",
-  "section": 2,
-  "posted": "2026-09-25"
- },
- {
-  "title": "NVIDIA《Control: Resonant》上线，支持DLSS 4.5光线重建与全路径追踪",
-  "url": "https://www.nvidia.com/en-us/geforce/news/control-resonant-path-tracing-dlss-4-5-ray-reconstruction/",
-  "date": "2026-09-24",
-  "section": 2,
-  "posted": "2026-09-25"
- },
- {
-  "title": "《EA Sports FC 27》全球上线，重新平衡AI防守机制以遏制自动铲球",
-  "url": "https://news.ea.com/press-releases/press-releases-details/2026/Kylian-Mbapp-and-Jude-Bellingham-Welcome-You-to-EA-SPORTS-FC-27-Launching-Worldwide-on-September-25/default.aspx",
-  "date": "2026-09-25",
-  "section": 2,
-  "posted": "2026-09-25"
- },
- {
-  "title": "《战争雷霆：Enlisted》新增AI降噪路径追踪全局光照及扩展版DLSS/FSR帧生成",
-  "url": "https://enlisted.net/en/news/show/1094-ray-tracing-and-frame-generation-improvements/",
-  "date": "2026-09-24",
-  "section": 2,
-  "posted": "2026-09-25"
- },
- {
-  "title": "中版通集团公布自研游戏\"决策\"AI模型，以2048与Temple Run为基准测试",
-  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnTmZPVVIyRXRmbWVTRTJzbHBaeEd2TWFOMWFBTTFsWGFfVXR4RTRNTGpIV2F0dGhObzVPQmQ0MlVsOHBiV24wLW41cEFCSGxzWkJJWDZ0a0VTSHR2bkE?oc=5",
-  "date": "2026-09-24",
-  "section": 2,
-  "posted": "2026-09-25"
- },
- {
-  "title": "金科系孵化的JIYI SOON推出\"文字生成可玩游戏\"AI平台",
-  "url": "https://technode.com/2026/09/25/a-game-studio-in-minutes-jiyi-soon-ai-game-creation/",
-  "date": "2026-09-25",
-  "section": 2,
-  "posted": "2026-09-25"
- },
- {
-  "title": "网易将游戏IP拓展为AI生成漫画，暴雪同期布局剧情向内容",
-  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EZnoyZ3NTWVl4aVlNNVZkaTZ3RkxidGJnTUZfUUs1bjhYTnozTlY5ZnBtdEtKN2lyZHZ6aW90YjVncmYzak9NS2ppZWZudXZqS3huRnNPZ29KYUw2blE?oc=5",
-  "date": "2026-09-24",
-  "section": 2,
-  "posted": "2026-09-25"
- },
- {
-  "title": "腾讯游戏与湖南马栏山媒体集团联合举办AI游戏创作培训营",
-  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TU0NzNVVMV29obENkdjc5UmZUZkdJb2cxbmNpd3BjV0FjT19Hb3gxT2dFM1R2cDE4ZjZncEVSYlJCQjNQd3l5cWJiQ3U?oc=5",
-  "date": "2026-09-22",
-  "section": 2,
-  "posted": "2026-09-25"
- },
- {
-  "title": "AIGCC在北京举行中国首届\"全链路\"AI游戏创作大赛总决赛",
-  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LTlF0eEdDZkVsMkZIWThfeEVjRl9xb01YaW9BUTZ0eE1CRTcxU1p6MGZITmozeEhvUnljVUZzbGp1bHE1R2drakJIc21ZdWM?oc=5",
-  "date": "2026-09-23",
-  "section": 2,
-  "posted": "2026-09-25"
- },
- {
-  "title": "财联社：中国游戏行业营收创纪录，AI效率提升被视为支撑因素",
-  "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBldnNfS1I5YlA2RU5UMDJQczJvX0htOUlVWXh0Y3VJVmdiaXhLa1dNODdTbS05aUFlLWxGUUhNOFBDRTJ2bDVsTQ?oc=5",
-  "date": "2026-09-23",
-  "section": 2,
-  "posted": "2026-09-25"
- },
- {
-  "title": "日本QA公司PoalToWin HD公布创纪录中期利润，归功于自主AI调试代理的应用",
-  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCWk1Ca21TNUsxSjhMOEdpeGp4a0ZnanVHcmp0WWppMzNSbDMzOTdSaXNGVmNLb3lwTVhPWkhjaEJ4Qm1lRGc?oc=5",
-  "date": "2026-09-25",
-  "section": 2,
-  "posted": "2026-09-25"
- },
- {
-  "title": "中国游戏公司Kingnet(金科文化)出资2.98亿美元加入Wemade收购财团",
-  "url": "https://www.pocketgamer.biz/kingnet-invests-298m-to-join-consortium-behind-684m-wemade-deal/",
-  "date": "2026-09-25",
-  "section": 3,
-  "posted": "2026-09-25"
- },
- {
-  "title": "土耳其手游厂商Circle Games完成2500万美元A轮融资，腾讯领投",
-  "url": "https://www.pocketgamer.biz/circle-games-raises-25m-in-series-a-led-by-tencent/",
-  "date": "2026-09-24",
-  "section": 3,
-  "posted": "2026-09-25"
- },
- {
-  "title": "Roblox就洛杉矶县儿童安全诉讼申请驳回被法院拒绝，案件将继续审理",
-  "url": "https://www.pocketgamer.biz/roblox-loses-bid-to-halt-los-angeles-county-child-safety-lawsuit/",
-  "date": "2026-09-25",
-  "section": 3,
-  "posted": "2026-09-25"
- },
- {
-  "title": "Supercell《mo.co》重返测试阶段，工作室拟对游戏进行重大调整",
-  "url": "https://www.pocketgamer.biz/supercells-moco-heads-back-into-beta-as-studio-plans-major-changes/",
-  "date": "2026-09-24",
-  "section": 3,
-  "posted": "2026-09-25"
- },
- {
-  "title": "欧盟《儿童安全法案》草案拟禁止游戏每日登录奖励与连续登录机制",
-  "url": "https://www.pocketgamer.biz/daily-log-in-bonuses-and-activity-streaks-under-threat-in-eu-kids-act/",
-  "date": "2026-09-24",
-  "section": 3,
-  "posted": "2026-09-25"
- },
- {
-  "title": "报告：8月全球手游内购收入66亿美元，《王者荣耀》居畅销榜首",
-  "url": "https://www.pocketgamer.biz/mobile-games-generate-66bn-in-august-as-honor-of-kings-leads-player-spending/",
-  "date": "2026-09-24",
-  "section": 3,
-  "posted": "2026-09-25"
- },
- {
-  "title": "King与瑞典工会达成集体协议，罢工行动在开始前数小时被撤销",
-  "url": "https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers",
-  "date": "2026-09-25",
-  "section": 3,
-  "posted": "2026-09-25"
- },
- {
-  "title": "《圣女之路》导演野间卓文携手Good Smile Company公布全新奇幻IP与动作RPG新作",
-  "url": "https://www.gematsu.com/2026/09/unicorn-overlord-director-takafumi-noma-announces-fantasy-ip-ignisphere-and-action-rpg-dawngazer-for-ps5-switch-2-and-pc",
-  "date": "2026-09-25",
-  "section": 3,
-  "posted": "2026-09-25"
- },
- {
-  "title": "《马里奥赛车巡回赛》上线告别纪念活动，9月30日正式停运",
-  "url": "https://www.pocketgamer.biz/mario-kart-tour-enters-final-lap-with-anniversary-tour-ahead-of-shutdown/",
-  "date": "2026-09-24",
-  "section": 3,
-  "posted": "2026-09-25"
- },
- {
-  "title": "前Avalanche Studios负责人Natalie Francis出任Massive Entertainment董事总经理",
-  "url": "https://www.gamedeveloper.com/business/former-avalanche-studios-chief-natalie-francis-joins-massive-entertainment-as-managing-director",
-  "date": "2026-09-24",
-  "section": 3,
-  "posted": "2026-09-25"
- },
- {
-  "title": "Meta发布重量约100克、售价1300美元的新一代AR眼镜，涉及多款VR游戏适配",
-  "url": "https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300",
-  "date": "2026-09-24",
-  "section": 3,
-  "posted": "2026-09-25"
- },
- {
   "title": "爆料称AMD已完成PS6单芯片研发并流片，RDNA 5架构算力40 TFLOPS、AI性能较PS5大幅跃升",
   "url": "https://en.gamegpu.com/news/zhelezo/kompaniya-amd-zavershila-razrabotku-odnokristalnogo-chipa-dlya-playstation-6",
   "date": "2026-09-26",
@@ -2028,5 +1846,124 @@
   "date": "2026-10-08",
   "section": 3,
   "posted": "2026-10-09"
+ },
+ {
+  "title": "NVIDIA与微软联合推出RTX Spark本地AI主机与Windows系统级AI代理基础设施",
+  "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+  "date": "2026-10-07",
+  "section": 1,
+  "posted": "2026-10-10"
+ },
+ {
+  "title": "中国游戏大厂投资重心从游戏转向AI",
+  "url": "https://finance.sina.cn/stock/jdts/2026-10-08/detail-iniuphnz4320216.d.html",
+  "date": "2026-10-08",
+  "section": 1,
+  "posted": "2026-10-10"
+ },
+ {
+  "title": "AI正在收窄中国中小游戏工作室的成长空间",
+  "url": "https://finance.sina.cn/stock/jdts/2026-10-06/detail-iniufxcp5852798.d.html",
+  "date": "2026-10-06",
+  "section": 2,
+  "posted": "2026-10-10"
+ },
+ {
+  "title": "Unity为xAI的Grok Build编码代理推出官方插件",
+  "url": "https://www.pocketgamer.biz/unity-brings-official-plugin-to-grok-build-in-new-partnership/",
+  "date": "2026-10-05",
+  "section": 2,
+  "posted": "2026-10-10"
+ },
+ {
+  "title": "Circana：美国主机硬件市场处于80年代以来最危险境地",
+  "url": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/",
+  "date": "2026-10-10",
+  "section": 3,
+  "posted": "2026-10-10"
+ },
+ {
+  "title": "Pearl Abyss高管回应《花园少女》评分争议：评测人没有公平探索机会",
+  "url": "https://kotaku.com/crimson-desert-exec-explains-the-gulf-between-the-mid-review-scores-and-the-7-million-sales-2000743258",
+  "date": "2026-10-09",
+  "section": 3,
+  "posted": "2026-10-10"
+ },
+ {
+  "title": "任天堂美国总裁不确认GTA 6是否会登陆Switch 2",
+  "url": "https://www.nintendolife.com/news/2026/10/nintendo-of-americas-president-comments-on-the-possibility-of-gta-6-on-switch-2",
+  "date": "2026-10-09",
+  "section": 3,
+  "posted": "2026-10-10"
+ },
+ {
+  "title": "劳资仲裁听证会曝光：Rockstar HR被追问Discord\"内鬼\"与解雇GTA 6员工的时间点",
+  "url": "https://kotaku.com/rockstar-hr-questioned-over-discord-mole-and-sudden-timing-of-gta-6-dev-firings-in-latest-labor-tribunal-hearing-2000743272",
+  "date": "2026-10-09",
+  "section": 3,
+  "posted": "2026-10-10"
+ },
+ {
+  "title": "《星球大战：零号公司》在开发团队复工后销量突破100万份",
+  "url": "https://www.pushsquare.com/news/2026/10/as-its-developer-recovers-star-wars-zero-company-reaches-one-million-copies-sold",
+  "date": "2026-10-09",
+  "section": 3,
+  "posted": "2026-10-10"
+ },
+ {
+  "title": "《皇牌空战8》发售一周销量破百万，系列史上最快",
+  "url": "https://www.pushsquare.com/news/2026/10/ace-combat-8-has-sold-one-million-copies-faster-than-any-previous-entry-in-the-series",
+  "date": "2026-10-09",
+  "section": 3,
+  "posted": "2026-10-10"
+ },
+ {
+  "title": "《索尼克赛车：Crossworlds》永久降价并公布二年期联动大礼包",
+  "url": "https://www.pushsquare.com/news/2026/10/sonic-racing-crossworlds-now-permanently-cheaper-and-its-going-absolutely-bananas-with-dlc-in-year-2",
+  "date": "2026-10-10",
+  "section": 3,
+  "posted": "2026-10-10"
+ },
+ {
+  "title": "《双人成行》登陆Switch 2，免费升级支持跨平台联机",
+  "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
+  "date": "2026-10-09",
+  "section": 3,
+  "posted": "2026-10-10"
+ },
+ {
+  "title": "《Dave the Diver》最终DLC将与《深海迷航2》推出联动内容",
+  "url": "https://www.nintendolife.com/news/2026/10/dave-the-divers-final-dlc-is-the-perfect-crossover",
+  "date": "2026-10-09",
+  "section": 3,
+  "posted": "2026-10-10"
+ },
+ {
+  "title": "《绝区零》3.3版本\"晴空来客\"公布，10月21日上线",
+  "url": "https://www.gematsu.com/2026/10/zenless-zone-zero-version-3-3-update-journey-to-the-sky-launches-october-21",
+  "date": "2026-10-09",
+  "section": 3,
+  "posted": "2026-10-10"
+ },
+ {
+  "title": "《漫威争锋》10.5赛季\"通向末日之战\"上线",
+  "url": "https://gamingtrend.com/news/marvel-rivals-launches-season-10-5-on-october-9/",
+  "date": "2026-10-09",
+  "section": 3,
+  "posted": "2026-10-10"
+ },
+ {
+  "title": "Croteam公布《The Talos Principle 3》首个实机演示",
+  "url": "https://www.thesixthaxis.com/2026/10/09/croteam-shares-first-the-talos-principle-3-gameplay/",
+  "date": "2026-10-09",
+  "section": 3,
+  "posted": "2026-10-10"
+ },
+ {
+  "title": "《Among Us Story: On Guard》确定2月发售",
+  "url": "https://www.thesixthaxis.com/2026/10/09/among-us-story-on-guard-has-been-given-a-february-release-date/",
+  "date": "2026-10-09",
+  "section": 3,
+  "posted": "2026-10-10"
  }
 ]

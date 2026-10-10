@@ -1,0 +1,11 @@
+**[新闻 1] NVIDIA与微软联合推出RTX Spark本地AI主机与Windows系统级AI代理基础设施**
+- **日期：** 2026-10-07
+- **来源链接：** <https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/>
+- **核心事实：**
+  - 2026年10月7日，NVIDIA与微软在旧金山联合举行发布会，推出RTX Spark——一类基于Blackwell RTX GPU（最多6144个核心）、搭配最多20核NVIDIA Grace CPU、最高128GB统一内存、算力达1 petaflop（FP4）的新型Windows笔记本电脑/小型台式机，可在本地运行参数规模达1250亿的大模型。
+  - 微软同时宣布Microsoft Execution Containers（MXC）正式可用，这是一套操作系统级基础设施，让AI代理能够在Windows上安全、持续地运行，并配套推出Microsoft Security与Agent 365用于治理。
+  - 笔记本10月7日开启预购，10月16日正式开售，合作伙伴包括宏碁、华硕、戴尔、惠普、联想、微软、微星、技嘉；小型台式机11月上市；微软自家的Surface Laptop Ultra即基于RTX Spark打造。NVIDIA还预告了Windows版DGX Station（搭载GB300 Grace Blackwell Ultra，748GB一致性内存，最高20 petaFLOPS FP4），此前该产品仅支持Linux。
+- **背景与起因：**
+  - 黄仁勋与萨蒂亚·纳德拉将此次发布定位为GeForce与Windows数十年合作史上的"下一步"，把AI代理视为让PC变成"个人助理"的关键节点；微软方面指出，多数《财富》500强企业统一使用Windows办公，而此前NVIDIA的DGX硬件只支持Linux，迫使企业维护两套独立工具链。
+- **结果与进展：**
+  - NVIDIA特别点出游戏应用场景：RTX Spark系统面向1440p分辨率、配合DLSS 5、Reflex与G-SYNC，目标实现3A游戏100帧以上的体验，同时也可作为开发者的常驻本地AI代理硬件（兼容CUDA/DGX Station工作流）及创作者工具（第五代Tensor Core、NVFP4、AV1编码）。目前尚未公布定价；有分析人士对主流（非开发者/创作者）市场的需求持怀疑态度，理由是成本与显存供应仍存在制约。
