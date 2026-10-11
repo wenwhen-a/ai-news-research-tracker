@@ -1,194 +1,5 @@
 [
  {
-  "title": "爆料称AMD已完成PS6单芯片研发并流片，RDNA 5架构算力40 TFLOPS、AI性能较PS5大幅跃升",
-  "url": "https://en.gamegpu.com/news/zhelezo/kompaniya-amd-zavershila-razrabotku-odnokristalnogo-chipa-dlya-playstation-6",
-  "date": "2026-09-26",
-  "section": 1,
-  "posted": "2026-09-26"
- },
- {
-  "title": "英伟达获批AI性能诊断专利，拟用自然语言聊天工具缩短游戏优化周期",
-  "url": "https://www.ithome.com/1/007/339.htm",
-  "date": "2026-09-26",
-  "section": 1,
-  "posted": "2026-09-26"
- },
- {
-  "title": "AI图像公司Black Forest Labs发布开源世界行动模型FLUX 3 Action，无死亡通关《毁灭战士》",
-  "url": "https://venturebeat.com/infrastructure/black-forest-labs-debuts-flux-3-action-an-open-weights-ai-robotics-model-that-tops-the-leaderboard-at-half-the-size-of-its-competition",
-  "date": "2026-09-23",
-  "section": 1,
-  "posted": "2026-09-26"
- },
- {
-  "title": "IEEE Spectrum深度剖析NVIDIA DLSS 5神经渲染：从“打光”到“以假乱真”引发游戏美学争议",
-  "url": "https://spectrum.ieee.org/neural-rendering-nvidia-dlss-5",
-  "date": "2026-09-21",
-  "section": 1,
-  "posted": "2026-09-26"
- },
- {
-  "title": "YouTuber实测：Claude Opus 5.5单条提示词在虚幻引擎建游戏效果大幅超越GPT-6 Astra",
-  "url": "https://ixbt.games/en/news/2026/09/25/438160-ii-claude-opus-55-obosel-gpt-6-astra-v-sozdanii-igr-na-unreal-engine.html",
-  "date": "2026-09-25",
-  "section": 2,
-  "posted": "2026-09-26"
- },
- {
-  "title": "日本一软件/NIS America社长证实公司正在“研究”AI技术，但不认为用AI必然能加快开发",
-  "url": "https://kotaku.com/nippon-ichi-nis-america-head-company-researching-ai-2000737211",
-  "date": "2026-09-25",
-  "section": 2,
-  "posted": "2026-09-26"
- },
- {
-  "title": "Hasbro授权硬件EverBoard推出AI生成桌游触控主机，11月1日以约500美元独家登陆百思买",
-  "url": "https://pixelkin.org/2026/09/24/everboard-is-a-digital-tabletop-with-hasbro-licensed-board-games/",
-  "date": "2026-09-24",
-  "section": 2,
-  "posted": "2026-09-26"
- },
- {
-  "title": "游戏素材AI平台Ludo.ai推出纹理生成工具，秒级产出可直接投产的贴图",
-  "url": "https://mcvuk.com/development-news/industry-news-ludo-ai-helps-developers-create-game-ready-textures-in-seconds-with-new-ai-tool/",
-  "date": "2026-09-24",
-  "section": 2,
-  "posted": "2026-09-26"
- },
- {
-  "title": "EA反作弊系统Javelin将于9月29日接入《Apex英雄》PC端，加强对跨平台作弊的AI检测",
-  "url": "https://www.ea.com/games/apex-legends/apex-legends/news/javelin-anticheat-announcement",
-  "date": "2026-09-24",
-  "section": 2,
-  "posted": "2026-09-26"
- },
- {
-  "title": "马斯克展示Grok 4.7凭一条提示词生成“GTA风格”游戏，宣称AI可开发照片级写实游戏",
-  "url": "https://www.tweaktown.com/news/113703/forget-gta-6-ahem-grok-4-7-made-a-gta-style-game-from-one-prompt-as-musk-boasts-of-ai-developing-photo-realistic-games/index.html",
-  "date": "2026-09-22",
-  "section": 2,
-  "posted": "2026-09-26"
- },
- {
-  "title": "Xbox裁员268人并将《光环》新作移交动视开发，重组延伸至云与AI团队",
-  "url": "https://www.geekwire.com/2026/microsoft-cuts-hundreds-more-jobs-shifts-next-halo-game-to-activision-in-xbox-overhaul/",
-  "date": "2026-09-22",
-  "section": 2,
-  "posted": "2026-09-26"
- },
- {
-  "title": "据报道：《荒野兵器》精神续作《Armed Fantasia》开发已中止",
-  "url": "https://www.famitsu.com/article/202609/89101",
-  "date": "2026-09-26",
-  "section": 3,
-  "posted": "2026-09-26"
- },
- {
-  "title": "亚运电竞：11岁选手栗原悠輝夺得《比呀比呀萌》项目金牌，创史上最年轻纪录",
-  "url": "https://www.famitsu.com/article/202609/89215",
-  "date": "2026-09-26",
-  "section": 3,
-  "posted": "2026-09-26"
- },
- {
-  "title": "亚运电竞：日本格斗游戏团体队摘银，《街头霸王6》《铁拳8》《拳皇15》选手联合出战",
-  "url": "https://www.famitsu.com/article/202609/89231",
-  "date": "2026-09-26",
-  "section": 3,
-  "posted": "2026-09-26"
- },
- {
-  "title": "《A列车で行こう9 PRIME LINE》确认12月10日发售，新增自由曲线与环线轨道",
-  "url": "https://www.famitsu.com/article/202609/89228",
-  "date": "2026-09-26",
-  "section": 3,
-  "posted": "2026-09-26"
- },
- {
-  "title": "华为预告HarmonyOS游戏助手新功能：弹幕消息通知与退出手势优化",
-  "url": "https://www.ithome.com/1/007/319.htm",
-  "date": "2026-09-26",
-  "section": 3,
-  "posted": "2026-09-26"
- },
- {
-  "title": "车辆物理模拟游戏《BeamNG.drive》确认10月19日登陆PS5抢先体验",
-  "url": "https://www.ithome.com/1/007/337.htm",
-  "date": "2026-09-26",
-  "section": 3,
-  "posted": "2026-09-26"
- },
- {
-  "title": "德玛西亚杯升级为国际邀请赛，10月3日至17日举行，12支战队受邀参赛",
-  "url": "https://www.ithome.com/1/007/436.htm",
-  "date": "2026-09-26",
-  "section": 3,
-  "posted": "2026-09-26"
- },
- {
-  "title": "分析机构：《生化危机：安魂曲》全球营收破5亿美元，创系列最快纪录",
-  "url": "https://www.ithome.com/1/007/342.htm",
-  "date": "2026-09-25",
-  "section": 3,
-  "posted": "2026-09-26"
- },
- {
-  "title": "腾讯游戏发布国庆假期未成年人限玩安排，多数工作日禁止登录",
-  "url": "https://gp.qq.com/gicp/news/684/15040050.html",
-  "date": "2026-09-25",
-  "section": 3,
-  "posted": "2026-09-26"
- },
- {
-  "title": "微软CEO纳德拉力挺Xbox业务\"精简\"：对现有工作室阵容感觉\"棒极了\"",
-  "url": "https://www.videogameschronicle.com/news/microsoft-ceo-says-streamlining-of-xbox-business-is-great-to-see/",
-  "date": "2026-09-25",
-  "section": 3,
-  "posted": "2026-09-26"
- },
- {
-  "title": "任天堂胜诉：Reddit版主传播Switch盗版游戏被判赔450万美元",
-  "url": "https://www.nintendolife.com/news/2026/09/reddit-mod-ordered-to-cough-up-usd4500000-to-nintendo-in-long-running-switch-piracy-case",
-  "date": "2026-09-25",
-  "section": 3,
-  "posted": "2026-09-26"
- },
- {
-  "title": "科乐美庆祝《恶魔城》40周年：初代NES游戏移动端限时免费，系列最高降价80%",
-  "url": "https://www.videogameschronicle.com/news/konami-is-celebrating-the-40th-anniversary-of-castlevania-with-a-big-retro-sale-and-a-free-game/",
-  "date": "2026-09-25",
-  "section": 3,
-  "posted": "2026-09-26"
- },
- {
-  "title": "Rockstar公布399.99美元《GTA6》周边礼盒，含11件商品但不含游戏本体",
-  "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-is-getting-a-400-box-of-merch-with-11-items-including-a-figure-sunglasses-and-new-era-hat/",
-  "date": "2026-09-25",
-  "section": 3,
-  "posted": "2026-09-26"
- },
- {
-  "title": "动作射击新作《Valor Mortis》延期至10月13日，避开9月新游扎堆",
-  "url": "https://www.gamespot.com/articles/september-is-so-busy-for-games-that-one-of-them-just-got-delayed-to-avoid-the-others-and-gta-6/",
-  "date": "2026-09-25",
-  "section": 3,
-  "posted": "2026-09-26"
- },
- {
-  "title": "英特尔推送7092版驱动，修复《永劫无间》核显水域贴图缺失问题",
-  "url": "https://www.ithome.com/1/007/384.htm",
-  "date": "2026-09-25",
-  "section": 3,
-  "posted": "2026-09-26"
- },
- {
-  "title": "前育碧团队打造众筹RPG《Eldrem Kingdoms》公布，融合权游叙事与驯龙玩法",
-  "url": "https://simulationdaily.com/news/today-in-gaming-news-september-25-2026/",
-  "date": "2026-09-25",
-  "section": 3,
-  "posted": "2026-09-26"
- },
- {
   "title": "模组作者借NVIDIA RTX Remix为27年老游戏《GTA 2》加入全路径追踪与AI帧生成",
   "url": "https://www.dsogaming.com/mods/grand-theft-auto-2-rtx-remix-path-tracing-mod-released/；https://www.tomshardware.com/video-games/pc-gaming/27-year-old-gta-2-gets-full-path-tracing-and-60-fps-frame-generation-via-rtx-remix-custom-direct3d-9-wrapper-modernizes-classic-with-custom-direct3d-9-bridge-unlocks-dynamic-lighting",
   "date": "2026-09-25",
@@ -1965,5 +1776,110 @@
   "date": "2026-10-09",
   "section": 3,
   "posted": "2026-10-10"
+ },
+ {
+  "title": "AMD首席执行官苏姿丰出席韩国Gamer Day 2026：称目标用AI把3A游戏开发周期从10年压缩到3-4年",
+  "url": "https://www.invenglobal.com/articles/26900/gamers-are-the-driving-force-of-innovation-ceo-lisa-su-meets-korean-gamers",
+  "date": "2026-10-07",
+  "section": 1,
+  "posted": "2026-10-11"
+ },
+ {
+  "title": "游戏投资人谈AI对融资与创意判断力的影响：点名谷歌DeepMind入股《EVE Online》开发商Fenris Creations",
+  "url": "https://www.pocketgamer.biz/the-turkish-playbook-investors-talk-work-ethic-ai-funding-and-hybridcasual/",
+  "date": "2026-10-07",
+  "section": 2,
+  "posted": "2026-10-11"
+ },
+ {
+  "title": "快手可灵AI拟启动港股上市，估值约1228亿元，国家级AI产业基金入股",
+  "url": "https://www.cls.cn/detail/2498195",
+  "date": "2026-10-06",
+  "section": 2,
+  "posted": "2026-10-11"
+ },
+ {
+  "title": "黑客组织\"Cyberleek\"威胁公布完整《GTA6》构建版本，要求Rockstar提供实体光盘并公开道歉",
+  "url": "https://www.videogameschronicle.com/news/group-threatens-to-leak-full-gta-6-build-if-physical-plans-arent-reversed/",
+  "date": "2026-10-11",
+  "section": 3,
+  "posted": "2026-10-11"
+ },
+ {
+  "title": "微软旗下《地狱之刃》工作室Ninja Theory出售计划失败，裁员已落地",
+  "url": "https://www.youxituoluo.com/534946.html",
+  "date": "2026-10-10",
+  "section": 3,
+  "posted": "2026-10-11"
+ },
+ {
+  "title": "四人团队开发AI驾驶模拟游戏陷入负债，Steam试玩版AI算力成本每日超千美元",
+  "url": "https://kotaku.com/ai-driven-driving-simulator-developers-go-into-debt-just-to-maintain-steam-demo-2000743791",
+  "date": "2026-10-10",
+  "section": 3,
+  "posted": "2026-10-11"
+ },
+ {
+  "title": "《Deadlock》测试期打破Steam同时在线纪录，超越《军团要塞2》",
+  "url": "https://www.invenglobal.com/articles/27005/deadlock-surpasses-260000-concurrent-players-on-steam",
+  "date": "2026-10-10",
+  "section": 3,
+  "posted": "2026-10-11"
+ },
+ {
+  "title": "堀井雄二二用AI耗时30分钟做出推理游戏《取调室の小宫》",
+  "url": "https://www.famitsu.com/article/202610/90698",
+  "date": "2026-10-11",
+  "section": 3,
+  "posted": "2026-10-11"
+ },
+ {
+  "title": "Valve悄悄修改日本区Steam用户协议，钱包余额6个月未用将失效",
+  "url": "https://www.ithome.com/1/011/673.htm",
+  "date": "2026-10-11",
+  "section": 3,
+  "posted": "2026-10-11"
+ },
+ {
+  "title": "灵游坊梁其伟确认《影之刃零》含50个Boss、30种主武器与20种副武器",
+  "url": "https://www.ithome.com/1/011/640.htm",
+  "date": "2026-10-11",
+  "section": 3,
+  "posted": "2026-10-11"
+ },
+ {
+  "title": "Krafton公布《PUBG Ded.Net》玩法：大逃杀框架融合肉鸽与暴力真人秀设定",
+  "url": "https://www.ithome.com/1/011/666.htm",
+  "date": "2026-10-11",
+  "section": 3,
+  "posted": "2026-10-11"
+ },
+ {
+  "title": "万代南梦宫公布《火影忍者手游》全球版，作为\"Project Rasengan\"三年计划一环",
+  "url": "https://www.gematsu.com/2026/10/naruto-mobile-global-version-announced",
+  "date": "2026-10-10",
+  "section": 3,
+  "posted": "2026-10-11"
+ },
+ {
+  "title": "Arc System Works宣布《苍翼默示录：Central Fiction》移植PS5",
+  "url": "https://www.gematsu.com/2026/10/blazblue-central-fiction-coming-to-ps5",
+  "date": "2026-10-10",
+  "section": 3,
+  "posted": "2026-10-11"
+ },
+ {
+  "title": "《铁拳8》DLC角色Roger Jr定档11月上线，通行证玩家提前五天解锁",
+  "url": "https://www.gematsu.com/2026/10/tekken-8-dlc-character-roger-jr-launches-november-11-for-season-3-character-pass-owners-november-16-for-all",
+  "date": "2026-10-11",
+  "section": 3,
+  "posted": "2026-10-11"
+ },
+ {
+  "title": "《龙珠：Sparking! ZERO》公布新路线图，确认2027年夏季后加入跨平台联机测试",
+  "url": "https://www.nintendolife.com/news/2026/10/dragon-ball-sparking-zero-announces-cross-play-in-new-road-map",
+  "date": "2026-10-11",
+  "section": 3,
+  "posted": "2026-10-11"
  }
 ]

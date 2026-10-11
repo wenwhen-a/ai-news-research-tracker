@@ -1,0 +1,92 @@
+{
+  "as_of": "2026-10-11",
+  "cutoff": "2026-10-04",
+  "window_days": 7,
+  "summary": {
+    "input_items": 3,
+    "denied_source": 0,
+    "in_window": 3,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 3,
+    "duplicate_clusters": 0,
+    "section1_count": 1,
+    "section2_count": 2,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 3,
+    "previously_covered_count": 0
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "AMD首席执行官苏姿丰出席韩国Gamer Day 2026：游戏与AI深度融合，目标用AI把3A游戏开发周期从10年压缩到3-4年",
+        "url": "https://www.invenglobal.com/articles/26900/gamers-are-the-driving-force-of-innovation-ceo-lisa-su-meets-korean-gamers",
+        "date": "2026-10-07",
+        "summary": "10月7日，AMD在首尔龙山区Dragon City举行\"AMD Gamer Day 2026\"，CEO苏姿丰（Lisa Su）与计算图形事业部高级副总裁Jack Huynh出席。苏姿丰称游戏仍是AMD核心业务之一，且游戏与AI对算力需求正在加速融合，未来Ryzen新品将与AI更紧密结合。Huynh表示AMD计划将目前主要用于独立显卡的机器学习技术（如FSR升频、帧生成、光线重建）今年内扩展到APU与掌机平台；并以《GTA6》约耗时10年开发为例，提出目标是借助AI把此类3A大作的开发周期压缩到3-4年，同时帮助《黑色沙漠：绯红》等项目及初创团队以更小规模制作大型游戏。他同时强调AI应作为提升效率的工具而非替代创作者，需保留开发者的创作意图。此外AMD确认将AM5平台支持延长至2029年，并透露与Pearl Abyss等开发商的合作已持续约两年。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "AMD首席执行官苏姿丰出席韩国Gamer Day 2026：游戏与AI深度融合，目标用AI把3A游戏开发周期从10年压缩到3-4年",
+          "url": "https://www.invenglobal.com/articles/26900/gamers-are-the-driving-force-of-innovation-ceo-lisa-su-meets-korean-gamers",
+          "date": "2026-10-07",
+          "summary": "10月7日，AMD在首尔龙山区Dragon City举行\"AMD Gamer Day 2026\"，CEO苏姿丰（Lisa Su）与计算图形事业部高级副总裁Jack Huynh出席。苏姿丰称游戏仍是AMD核心业务之一，且游戏与AI对算力需求正在加速融合，未来Ryzen新品将与AI更紧密结合。Huynh表示AMD计划将目前主要用于独立显卡的机器学习技术（如FSR升频、帧生成、光线重建）今年内扩展到APU与掌机平台；并以《GTA6》约耗时10年开发为例，提出目标是借助AI把此类3A大作的开发周期压缩到3-4年，同时帮助《黑色沙漠：绯红》等项目及初创团队以更小规模制作大型游戏。他同时强调AI应作为提升效率的工具而非替代创作者，需保留开发者的创作意图。此外AMD确认将AM5平台支持延长至2029年，并透露与Pearl Abyss等开发商的合作已持续约两年。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "游戏投资人谈AI对融资与创意判断力的影响：点名谷歌DeepMind入股《EVE Online》开发商Fenris Creations（原CCP）",
+        "url": "https://www.pocketgamer.biz/the-turkish-playbook-investors-talk-work-ethic-ai-funding-and-hybridcasual/",
+        "date": "2026-10-07",
+        "summary": "PocketGamer.biz报道中，Arcadia Gaming Partners董事总经理Akin Babayigit谈及AI对游戏投资逻辑的影响：由于AI让更多人能把创意付诸实现，投资判断的重心正从\"执行能力\"转向\"判断力\"，经验丰富、品味更好的团队借助AI能做得更好，但AI本身并不会自动给小团队带来好创意。他还指出，由于移动游戏领域目前缺乏买方，AI公司未来可能出于获取数据与独特玩法经验的目的反向投资游戏公司，并举出谷歌DeepMind入股《EVE Online》开发商Fenris Creations（原CCP Games）为例。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "游戏投资人谈AI对融资与创意判断力的影响：点名谷歌DeepMind入股《EVE Online》开发商Fenris Creations（原CCP）",
+          "url": "https://www.pocketgamer.biz/the-turkish-playbook-investors-talk-work-ethic-ai-funding-and-hybridcasual/",
+          "date": "2026-10-07",
+          "summary": "PocketGamer.biz报道中，Arcadia Gaming Partners董事总经理Akin Babayigit谈及AI对游戏投资逻辑的影响：由于AI让更多人能把创意付诸实现，投资判断的重心正从\"执行能力\"转向\"判断力\"，经验丰富、品味更好的团队借助AI能做得更好，但AI本身并不会自动给小团队带来好创意。他还指出，由于移动游戏领域目前缺乏买方，AI公司未来可能出于获取数据与独特玩法经验的目的反向投资游戏公司，并举出谷歌DeepMind入股《EVE Online》开发商Fenris Creations（原CCP Games）为例。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "快手可灵AI拟启动港股上市，估值约1228亿元，国家级AI产业基金入股",
+        "url": "https://www.cls.cn/detail/2498195",
+        "date": "2026-10-06",
+        "summary": "财联社援引消息人士报道，快手旗下视频生成大模型可灵AI计划在未来12个月内启动港股上市程序，预计2027年初向港交所递交申请，融资至少10亿美元，已选定中金公司、高盛、瑞银为承销商。7月，北京可灵完成总规模204.47亿元（约30亿美元）的增资重组，8月底国家人工智能产业投资基金与正大机器人作为新投资者入股，据入股价格推算可灵AI估值约1228亿元，已超过快手自身港股市值。可灵AI上半年收入超15亿元，截至6月全球用户超1亿、企业客户近5万家。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "快手可灵AI拟启动港股上市，估值约1228亿元，国家级AI产业基金入股",
+          "url": "https://www.cls.cn/detail/2498195",
+          "date": "2026-10-06",
+          "summary": "财联社援引消息人士报道，快手旗下视频生成大模型可灵AI计划在未来12个月内启动港股上市程序，预计2027年初向港交所递交申请，融资至少10亿美元，已选定中金公司、高盛、瑞银为承销商。7月，北京可灵完成总规模204.47亿元（约30亿美元）的增资重组，8月底国家人工智能产业投资基金与正大机器人作为新投资者入股，据入股价格推算可灵AI估值约1228亿元，已超过快手自身港股市值。可灵AI上半年收入超15亿元，截至6月全球用户超1亿、企业客户近5万家。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

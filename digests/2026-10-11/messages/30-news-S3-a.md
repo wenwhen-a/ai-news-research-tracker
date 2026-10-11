@@ -1,0 +1,9 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **[黑客组织"Cyberleek"威胁公布完整《GTA6》构建版本，要求Rockstar提供实体光盘并公开道歉]**（2026-10-11）— 据报道，自称"Cyberleek"的黑客团体宣称若其加密货币市值达到3000万美元，将公开一份可完整游玩的《GTA6》构建版本，并要求Take-Two提供实体光盘及公开道歉；Take-Two截至发稿未回应。 <https://www.videogameschronicle.com/news/group-threatens-to-leak-full-gta-6-build-if-physical-plans-arent-reversed/>
+- **[微软旗下《地狱之刃》工作室Ninja Theory出售计划失败，裁员已落地]**（2026-10-10）— 微软Xbox首席内容官Matt Booty确认，两笔旨在拯救英国工作室Ninja Theory的收购协议均未达成，公司已启动关闭协商并对声音、程序、美术等部门裁员；同期重组中Compulsion Games、Double Fine已恢复独立，Undead Labs也完成所有权转让。 <https://www.youxituoluo.com/534946.html>
+- **[四人团队开发AI驾驶模拟游戏陷入负债，Steam试玩版AI算力成本每日超千美元]**（2026-10-10）— 四人团队Easy Fox开发的AI驱动驾驶模拟游戏《Teach My Little Sister How To Drive》Steam试玩版玩家数一个月内暴涨20余倍，导致AI算力费用激增，团队为维持试玩版运行已申请银行贷款，每日维护成本超千美元。 <https://kotaku.com/ai-driven-driving-simulator-developers-go-into-debt-just-to-maintain-steam-demo-2000743791>
+- **[《Deadlock》测试期打破Steam同时在线纪录，超越《军团要塞2》]**（2026-10-10）— 据SteamDB统计，Valve尚未正式发售的《Deadlock》于10月9日（UTC）同时在线玩家数达到26.2万，超过《军团要塞2》此前25.4万的历史纪录，但目前仍仅限受邀测试玩家游玩。 <https://www.invenglobal.com/articles/27005/deadlock-surpasses-260000-concurrent-players-on-steam>
+- **[堀井雄二二用AI耗时30分钟做出推理游戏《取调室の小宫》]**（2026-10-11）— 堀井雄二在X平台公布其用AI制作的免费网页推理游戏《取调室の小宫》，玩家需审讯嫌疑人并用证据戳穿谎言，他表示整个制作过程仅用约30分钟。 <https://www.famitsu.com/article/202610/90698>
+- **[Valve悄悄修改日本区Steam用户协议，钱包余额6个月未用将失效]**（2026-10-11）— 据外媒Automaton报道，Valve在日本版Steam用户协议中新增条款，规定充值钱包资金若6个月内未使用将失效，Steam客服称该规则尚未实际生效且未公布具体实施时间。 <https://www.ithome.com/1/011/673.htm>
+- **[灵游坊梁其伟确认《影之刃零》含50个Boss、30种主武器与20种副武器]**（2026-10-11）— 《影之刃零》开发商灵游坊创始人梁其伟接受4Gamer采访时透露，游戏至少包含50个Boss、30种主武器和20种副武器，所有武器均可通过击败对应Boss获得；游戏定于10月29日登陆PS5及PC平台。 <https://www.ithome.com/1/011/640.htm>
+- **[Krafton公布《PUBG Ded.Net》玩法：大逃杀框架融合肉鸽与暴力真人秀设定]**（2026-10-11）— Krafton披露新作《PUBG Ded.Net》玩法细节，游戏在大逃杀框架上加入肉鸽式赛后强化选择，玩家扮演暴力真人秀参赛者，美术与叙事借鉴90年代风格动作作品。 <https://www.ithome.com/1/011/666.htm>
