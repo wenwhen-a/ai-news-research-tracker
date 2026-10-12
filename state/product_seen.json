@@ -435,5 +435,29 @@
   "first_seen": "2026-10-09",
   "release_date": "2026-10-08",
   "summary": "Roblox added State Machine and Luau Expression nodes to its Animation Graph Editor, letting creators define animation states/transitions visually and write parameter math inline as Luau instead of in script; works only in Studio (not live games) and is an early beta ahead of full release."
+ },
+ "https://devforum.roblox.com/t/automatic-translation-for-text-to-speech/4922029": {
+  "name": "Automatic Translation for Text-to-Speech",
+  "company": "Roblox",
+  "tier": "GA",
+  "first_seen": "2026-10-12",
+  "release_date": "2026-10-08",
+  "summary": "Roblox's text-to-speech API now automatically translates spoken text into a player's local language across 11 supported languages, on by default via the new AutoLocalize property."
+ },
+ "https://devforum.roblox.com/t/collision-summaries-api-detailed-collision-data-from-the-engine/4918568": {
+  "name": "Collision Summaries API",
+  "company": "Roblox",
+  "tier": "GA",
+  "first_seen": "2026-10-12",
+  "release_date": "2026-10-06",
+  "summary": "Roblox added a new engine API, BasePart:BindToCollisionSummaries, exposing per-contact collision data (contact points, normals, relative/impact velocity) directly from the physics solver."
+ },
+ "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/": {
+  "name": "Gemini Enterprise Live Avatar",
+  "company": "Google / DeepMind",
+  "tier": "GA",
+  "first_seen": "2026-10-12",
+  "release_date": "2026-09-24",
+  "summary": "Google added \"Live Avatar\" to Gemini 3.8 Live, giving its real-time voice assistant a generated, animated on-screen persona that can listen, see and speak back with lip-sync and turn-taking cues."
  }
 }

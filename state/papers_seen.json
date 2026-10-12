@@ -14885,5 +14885,356 @@
   "first_seen": "2026-10-10",
   "submitted": "2026-10-08T05:01:30Z",
   "title": "LLM-IDEA: Identifiability-Driven Experimental Agent for Autonomous Discovery of Mechanistic World Models"
+ },
+ "2610.13947": {
+  "status": "qualified",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09",
+  "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
+  "affiliation": "Microsoft — Marc Pollefeys (listed jointly with ETH Zurich)",
+  "url": "https://arxiv.org/abs/2610.13947",
+  "summary": "The paper introduces Artisan, a multi-agent pipeline for generating articulated 3D assets, together with a new benchmark for evaluating spatial fidelity, physical plausibility, and downstream task performance."
+ },
+ "2610.13945": {
+  "status": "near-miss",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T17:59:06Z",
+  "title": "Splat2Act: From Captured Scenes to Personalized VLA Manipulation"
+ },
+ "2610.13941": {
+  "status": "near-miss",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T17:58:15Z",
+  "title": "Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback"
+ },
+ "2610.13860": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T17:08:02Z",
+  "title": "Make It Flow: Animating Water in 3D Gaussian Splatting Scenes"
+ },
+ "2610.13823": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T16:34:13Z",
+  "title": "Same Query, Different Answer: Run-to-Run Variance in Semantic Query Processing"
+ },
+ "2610.13816": {
+  "status": "near-miss",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T16:28:01Z",
+  "title": "Dream to Remember: Continual Steering of Generalist Robot Policies with World Models"
+ },
+ "2610.13781": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T16:01:09Z",
+  "title": "SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models"
+ },
+ "2610.13757": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T15:42:28Z",
+  "title": "Gaussian Splatting with Reflections Guided by What is Seen"
+ },
+ "2610.13750": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T15:39:42Z",
+  "title": "Studying the Effects of Task Diversity Using Small Mathematical Worlds"
+ },
+ "2610.13733": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T15:29:23Z",
+  "title": "KVeil: First-Place Solution to ECCV 2026 LifeGenIP Challenge on Unlearnable Videos"
+ },
+ "2610.13706": {
+  "status": "qualified",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09",
+  "title": "GLIMPSE: Global-Local Indexing with Multi-Precision Spectral Encoding for Explorable Video World Models",
+  "affiliation": "Kuaishou — Yikang Ding, Xiaoqiang Liu, Guoxin Zhang (affiliated with Kling AI, a Kuaishou Technology subsidiary)",
+  "url": "https://arxiv.org/abs/2610.13706",
+  "summary": "GLIMPSE is a memory architecture for camera-controlled, explorable video world models, designed to keep previously-seen regions of a scene consistent when the camera revisits them."
+ },
+ "2610.13681": {
+  "status": "near-miss",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T14:47:56Z",
+  "title": "PhysForge: Material-Controllable 3D Reconstruction with Separable Components"
+ },
+ "2610.13643": {
+  "status": "near-miss",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T14:21:41Z",
+  "title": "AutoBio+: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories"
+ },
+ "2610.13628": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T14:09:55Z",
+  "title": "JitterVLA: A Replay Benchmark for Motion Quality in VLA-Driven Human-Robot Manipulation"
+ },
+ "2610.13572": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T13:25:56Z",
+  "title": "ATHLETE: Learning Reactive Humanoid Tennis via Trajectory-Guided Motion Matching"
+ },
+ "2610.13549": {
+  "status": "qualified",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09",
+  "title": "ELMA: Benchmarking Anaphoric Compositions for Long-Term Text-to-Motion",
+  "affiliation": "Sony — authors affiliated with Sony Group Corporation (alongside Keio University / Keio AI Center); accepted at NeurIPS 2026 Evaluations & Datasets Track",
+  "url": "https://arxiv.org/abs/2610.13549",
+  "summary": "ELMA is a dataset and task for long-term text-to-motion generation that specifically targets \"anaphoric\" instructions — later text segments that refer back to and must remain consistent with earlier motion segments."
+ },
+ "2610.13541": {
+  "status": "qualified",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09",
+  "title": "Efficient Confidence-Aware Densification for 3DGS",
+  "affiliation": "Huawei Technologies (Austria) — Markus Steinberger; FLAG: borderline (Huawei is not on the primary qualified list but is treated as a comparable top-tier industry lab per tracking rules)",
+  "url": "https://arxiv.org/abs/2610.13541",
+  "summary": "The paper proposes a confidence-aware densification strategy for fixed-budget 3D Gaussian Splatting, operating within the 3DGS-MCMC framework."
+ },
+ "2610.13522": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T12:44:18Z",
+  "title": "Beyond Successful Robot Demonstrations: Learning from Human Interactions and Modeling Failure Dynamics"
+ },
+ "2610.13504": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T12:30:14Z",
+  "title": "Beyond Temporal Proximity: Explanatory World Models for Credit Assignment in Reinforcement Learning"
+ },
+ "2610.13503": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T12:30:13Z",
+  "title": "SplatQ: Interaction-Aware Pruning of 3D Gaussian Splatting via Quadratic Selection"
+ },
+ "2610.13498": {
+  "status": "near-miss",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T12:28:16Z",
+  "title": "A Hybrid and Hierarchical Ray Tracing Method for Efficient 3D Gaussian Rendering (H2-Ray)"
+ },
+ "2610.13438": {
+  "status": "near-miss",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T11:37:09Z",
+  "title": "Rollout-Time Intervention: Unlocking Agentic Reinforcement Learning Beyond Policy Limits"
+ },
+ "2610.13412": {
+  "status": "near-miss",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T11:21:17Z",
+  "title": "TextVBench: Evaluating Text Rendering and Preservation in Video Generation"
+ },
+ "2610.13409": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T11:20:55Z",
+  "title": "ManeuverFlow: Maneuver Hypothesis Generation with Future Evidence for Trajectory Evaluation and Refinement in End-to-End Autonomous Driving"
+ },
+ "2610.13338": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T10:11:04Z",
+  "title": "VideoAWR: Reinforcing Video Flow Models with Decoupled-Timestep Advantage-Weighted Rectification"
+ },
+ "2610.13333": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T10:08:39Z",
+  "title": "LETHE: Defending against Unauthorized Image-to-Video Generation via Value Diversity Collapse"
+ },
+ "2610.13309": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T09:54:00Z",
+  "title": "NovaSplat: Model-Free 6D Object Pose Estimation via 3D Gaussian Splatting Onboarding and Refinement"
+ },
+ "2610.13301": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T09:48:12Z",
+  "title": "PAGE: Parts-Aware Guidance for Co-Speech Gesture Portrait Video Generation"
+ },
+ "2610.13300": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T09:47:03Z",
+  "title": "Sonic-AMG: Streaming Human Motion Generation from Spatial Audio"
+ },
+ "2610.13281": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T09:30:15Z",
+  "title": "QCLR: A Plug-in Robustification Module via Quantization for Contrastive Learning in Self-Supervised Skeleton-Based Human Action Recognition"
+ },
+ "2610.13217": {
+  "status": "near-miss",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T08:34:54Z",
+  "title": "Golden Anchor Learning for Image-to-Video Anchor Optimization (\"Golden Anchor for Video Generation\")"
+ },
+ "2610.13216": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T08:34:02Z",
+  "title": "3DRAG: 3D-Native Object Drag Editing with Generative Models"
+ },
+ "2610.13194": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T08:13:28Z",
+  "title": "JANUS: Enhancing Long-Horizon Autonomous Research with Co-Evolving World Models"
+ },
+ "2610.13177": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T08:04:45Z",
+  "title": "CompactSplat: Spatially Adaptive Gaussian Distribution for Feedforward Scene Reconstruction"
+ },
+ "2610.13174": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T08:01:49Z",
+  "title": "PreCoG: Preview-Edit for Efficient Video Correction in Generation-Time"
+ },
+ "2610.13172": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T07:58:45Z",
+  "title": "RoleWorld: Knowledge Transfer in World Modeling with Functional Role Abstractions"
+ },
+ "2610.13164": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T07:53:20Z",
+  "title": "Grounded-Dreamer: Robot Learning from World Model Synthetic Data with Physical Grounding"
+ },
+ "2610.13143": {
+  "status": "near-miss",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T07:33:37Z",
+  "title": "Measurable Semantic 3D Gaussian Splatting with Joint Region and Depth"
+ },
+ "2610.13117": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T07:12:16Z",
+  "title": "Forward Dynamics Models"
+ },
+ "2610.13079": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T06:34:26Z",
+  "title": "VICAR: Video Imitation with Contact-Aware Retargeting for Humanoid Interactive Skills"
+ },
+ "2610.13035": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T05:46:54Z",
+  "title": "GeoGR: Spatial-Semantic Token Compression and Group Routing for Efficient 3D VLMs"
+ },
+ "2610.13024": {
+  "status": "near-miss",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T05:26:20Z",
+  "title": "What Visual Representations Do World Action Models Need?"
+ },
+ "2610.12910": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T03:01:00Z",
+  "title": "Sampling-based Kinodynamic Planning with World Models"
+ },
+ "2610.12886": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T02:21:19Z",
+  "title": "LeapBot-JAC: Joint Action Chains for World Action Models"
+ },
+ "2610.12881": {
+  "status": "near-miss",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-09T02:16:52Z",
+  "title": "Mind the Spatial Gap: A Benchmark for Geospatial Reasoning and Constrained Spatial Editing"
+ },
+ "2610.12818": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-08T23:58:36Z",
+  "title": "LeWAM: End-to-End World and Action Modeling with JEPAs"
+ },
+ "2610.12789": {
+  "status": "near-miss",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-08T22:46:14Z",
+  "title": "EvoBelief: Falsifiable World Models for Self-Improving LLM Agents"
+ },
+ "2610.12786": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-08T22:43:47Z",
+  "title": "Domain Adaptation of SAM 2.1 for Building-Component Segmentation in Image-Based 3D Reconstruction"
+ },
+ "2610.12772": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-08T22:24:03Z",
+  "title": "Reflex: Visually Grounded Reactive Humanoid Control"
+ },
+ "2610.12738": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-08T21:35:42Z",
+  "title": "KITE: A Knowledge-Injected Temporal Encoder for Time-Series Event Forecasting"
+ },
+ "2610.12642": {
+  "status": "qualified",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-08",
+  "title": "PriMoRetarget: Humanoid Motion Transfer Through Prioritized Motion Retargeting",
+  "affiliation": "NVIDIA — Xue Bin Peng (also affiliated with Simon Fraser University and the Alberta Machine Intelligence Institute)",
+  "url": "https://arxiv.org/abs/2610.12642",
+  "summary": "PriMoRetarget is a framework for retargeting human motion onto humanoid robots, covering single-character motion, human-object manipulation, and human-human interaction."
+ },
+ "2610.12625": {
+  "status": "near-miss",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-08T18:45:17Z",
+  "title": "ForcingBooster: Adaptive Patch-wise Denoising for Fast Autoregressive Video Diffusion"
+ },
+ "2610.12575": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-08T18:02:22Z",
+  "title": "Mind the Temporal Gap: Evaluating Video Models for Temporal Understanding in Driving"
+ },
+ "2610.12572": {
+  "status": "near-miss",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-08T18:01:44Z",
+  "title": "DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models"
+ },
+ "2610.12567": {
+  "status": "screened-out",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-08T18:00:55Z",
+  "title": "CASTER: Formalizing Zero-Shot Manipulation from Synthetic Videos as Constrained Optimization"
+ },
+ "2610.12514": {
+  "status": "near-miss",
+  "first_seen": "2026-10-12",
+  "submitted": "2026-10-07T18:20:42Z",
+  "title": "CORAL-KV: Compact Cross-Layer Prediction and Residual Coding for Autoregressive Video KV Caches"
  }
 }

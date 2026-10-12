@@ -1,0 +1,224 @@
+{
+  "as_of": "2026-10-12",
+  "cutoff": "2026-10-11",
+  "window_days": 1,
+  "summary": {
+    "input_items": 14,
+    "denied_source": 0,
+    "in_window": 5,
+    "out_of_window": 9,
+    "invalid_date": 0,
+    "unique_after_dedup": 5,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 5,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 2,
+    "previously_covered_count": 3
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Nvidia reportedly halts RTX 5090 production to prioritize AI data-center GPUs",
+        "url": "https://www.videogameschronicle.com/news/nvidia-has-reportedly-stopped-producing-rtx-5090-cards-to-focus-on-rtx-pro-gpus-for-ai-data-centers/",
+        "date": "2026-10-12",
+        "summary": "Hardware leakers cited by Tom's Hardware say Nvidia has stopped making the RTX 5090 (GB202 silicon) to redirect supply to pricier RTX Pro data-center GPUs, pushing street prices for the 5090 to $4,000-5,000+; unconfirmed officially by Nvidia.",
+        "section": 3,
+        "outlet": "Video Games Chronicle"
+      },
+      "members": [
+        {
+          "title": "Nvidia reportedly halts RTX 5090 production to prioritize AI data-center GPUs",
+          "url": "https://www.videogameschronicle.com/news/nvidia-has-reportedly-stopped-producing-rtx-5090-cards-to-focus-on-rtx-pro-gpus-for-ai-data-centers/",
+          "date": "2026-10-12",
+          "summary": "Hardware leakers cited by Tom's Hardware say Nvidia has stopped making the RTX 5090 (GB202 silicon) to redirect supply to pricier RTX Pro data-center GPUs, pushing street prices for the 5090 to $4,000-5,000+; unconfirmed officially by Nvidia.",
+          "section": 3,
+          "outlet": "Video Games Chronicle"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Gears of War: E-Day hit by DDoS attack causing connection issues",
+        "url": "https://www.videogameschronicle.com/news/gears-of-war-e-day-suffered-connection-issues-after-being-hit-by-a-ddos-attack-the-coalition-says/",
+        "date": "2026-10-12",
+        "summary": "Developer The Coalition says Gears of War: E-Day's online services suffered login and matchmaking problems over the weekend due to DDoS attacks, which it says it is monitoring and mitigating.",
+        "section": 3,
+        "outlet": "Video Games Chronicle"
+      },
+      "members": [
+        {
+          "title": "Gears of War: E-Day hit by DDoS attack causing connection issues",
+          "url": "https://www.videogameschronicle.com/news/gears-of-war-e-day-suffered-connection-issues-after-being-hit-by-a-ddos-attack-the-coalition-says/",
+          "date": "2026-10-12",
+          "summary": "Developer The Coalition says Gears of War: E-Day's online services suffered login and matchmaking problems over the weekend due to DDoS attacks, which it says it is monitoring and mitigating.",
+          "section": 3,
+          "outlet": "Video Games Chronicle"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Roblox brings AI audio startup Audioscape in-house for creator tools",
+        "url": "https://www.pocketgamer.biz/roblox-brings-audioscape-team-in-house-to-develop-ai-audio-tools/",
+        "date": "2026-10-12",
+        "summary": "Roblox has acquired/absorbed the team behind AI audio startup Audioscape, whose AI Audio Agent (sound search, design, mixing) will be folded into Roblox's creator tools; founder Sean Varah will lead audio/music strategy for the platform.",
+        "section": 3,
+        "outlet": "PocketGamer.biz"
+      },
+      "members": [
+        {
+          "title": "Roblox brings AI audio startup Audioscape in-house for creator tools",
+          "url": "https://www.pocketgamer.biz/roblox-brings-audioscape-team-in-house-to-develop-ai-audio-tools/",
+          "date": "2026-10-12",
+          "summary": "Roblox has acquired/absorbed the team behind AI audio startup Audioscape, whose AI Audio Agent (sound search, design, mixing) will be folded into Roblox's creator tools; founder Sean Varah will lead audio/music strategy for the platform.",
+          "section": 3,
+          "outlet": "PocketGamer.biz"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Silent Hill producer says Konami is planning further 'waves' of games in the franchise",
+        "url": "https://80.lv/articles/silent-hill-producer-says-konami-plans-second-and-third-waves-of-games",
+        "date": "2026-10-12",
+        "summary": "Series producer Motoi Okamoto said Konami is considering a second and third wave of Silent Hill projects following its recent remakes and spin-offs.",
+        "section": 3,
+        "outlet": "80.lv"
+      },
+      "members": [
+        {
+          "title": "Silent Hill producer says Konami is planning further 'waves' of games in the franchise",
+          "url": "https://80.lv/articles/silent-hill-producer-says-konami-plans-second-and-third-waves-of-games",
+          "date": "2026-10-12",
+          "summary": "Series producer Motoi Okamoto said Konami is considering a second and third wave of Silent Hill projects following its recent remakes and spin-offs.",
+          "section": 3,
+          "outlet": "80.lv"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "GTA 6 leaker threatens to release a full game build over physical-release demands",
+        "url": "https://80.lv/articles/gta-6-leaker-says-they-will-release-a-complete-game-build-if-demands-aren-t-met",
+        "date": "2026-10-12",
+        "summary": "A hacker/leaker group claims to hold a complete GTA 6 build and is threatening to release it unless Rockstar reverses unspecified physical-release plans; unconfirmed claim, reported alongside Rockstar's ongoing leaker hunt.",
+        "section": 3,
+        "outlet": "80.lv / Video Games Chronicle"
+      },
+      "members": [
+        {
+          "title": "GTA 6 leaker threatens to release a full game build over physical-release demands",
+          "url": "https://80.lv/articles/gta-6-leaker-says-they-will-release-a-complete-game-build-if-demands-aren-t-met",
+          "date": "2026-10-12",
+          "summary": "A hacker/leaker group claims to hold a complete GTA 6 build and is threatening to release it unless Rockstar reverses unspecified physical-release plans; unconfirmed claim, reported alongside Rockstar's ongoing leaker hunt.",
+          "section": 3,
+          "outlet": "80.lv / Video Games Chronicle"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [
+    {
+      "title": "US console hardware market at its most precarious point since the 1980s, says Circana",
+      "url": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/",
+      "date": "2026-10-10",
+      "summary": "Circana data shows US Xbox hardware unit sales down 33% YoY and PlayStation down 25% through August 2026 (record lows), with average console prices up 20-26% amid AI-driven component shortages; analyst flags GTA 6's November launch as a possible catalyst.",
+      "section": 3,
+      "outlet": "Video Games Chronicle",
+      "_date_parsed": "2026-10-10"
+    },
+    {
+      "title": "Double Fine's unionization drive collapsed amid miscommunication and internal conflict",
+      "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
+      "date": "2026-10-09",
+      "summary": "A Kotaku report says Double Fine's May 2026 NLRB union petition (with CWA) was withdrawn after roughly two weeks due to eligibility disputes (many staff had held manager roles) and internal hostility; all eight organizers were among staff later laid off.",
+      "section": 3,
+      "outlet": "Game Developer (via Kotaku)",
+      "_date_parsed": "2026-10-09"
+    },
+    {
+      "title": "Ubisoft to shut down Rainbow Six Mobile seven months after full launch",
+      "url": "https://www.videogameschronicle.com/news/ubisoft-is-shutting-down-rainbow-six-mobile-dev-team-releases-message/",
+      "date": "2026-10-09",
+      "summary": "Ubisoft is sunsetting Rainbow Six Mobile, which fully launched in February 2026; the game will stay playable until January 15, 2027, while Rainbow Six Siege continues to operate as the franchise's main live title.",
+      "section": 3,
+      "outlet": "Video Games Chronicle / Game Developer",
+      "_date_parsed": "2026-10-09"
+    },
+    {
+      "title": "MTG postpones PlaySimple's potential IPO, citing weak Indian capital-market conditions",
+      "url": "https://www.pocketgamer.biz/mtg-postpones-playsimples-potential-ipo/",
+      "date": "2026-10-09",
+      "summary": "Modern Times Group (MTG) has delayed a planned listing of casual-games studio PlaySimple to 2027, with CEO Maria Redin citing a 'challenging market backdrop' in India; PlaySimple will continue growing via operations and strategic M&A in the meantime.",
+      "section": 3,
+      "outlet": "PocketGamer.biz",
+      "_date_parsed": "2026-10-09"
+    },
+    {
+      "title": "EA's record $55bn leveraged buyout faces bondholder dispute over debt covenants",
+      "url": "https://www.gamedeveloper.com/business/electronic-arts-leveraged-buyout-faces-a-bondholder-battle",
+      "date": "2026-10-07",
+      "summary": "Bondholders holding $1.5bn of EA debt are pressing for repayment at a 101% premium after the $20bn loan backing EA's August 2026 take-private deal (PIF, Silver Lake, Affinity Partners) threatened EA's investment-grade rating; EA is reportedly restructuring bond terms in response, per the Wall Street Journal.",
+      "section": 3,
+      "outlet": "Game Developer",
+      "_date_parsed": "2026-10-07"
+    },
+    {
+      "title": "Xbox launches new 'XP' division to oversee film, products, events and partnerships",
+      "url": "https://www.gamedeveloper.com/console/xbox-ceo-unveils-new-xbox-division-for-game-adjacent-ventures-named-xp-",
+      "date": "2026-10-08",
+      "summary": "Xbox CEO Asha Sharma unveiled a new division, XP, covering Xbox Pictures, Products, Places and Partnerships; Mojang president Kayleen Walters will lead it, with former Reddit product chief Maria Angelidou-Smith succeeding her at Mojang.",
+      "section": 3,
+      "outlet": "Game Developer",
+      "_date_parsed": "2026-10-08"
+    },
+    {
+      "title": "Denuvo seeks to subpoena Discord, Valve and Reddit to identify an anti-cheat hacker",
+      "url": "https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker",
+      "date": "2026-10-08",
+      "summary": "Anti-tamper vendor Denuvo is seeking subpoenas against Discord, Valve and Reddit to unmask an individual allegedly responsible for cracking its DRM, part of a wider legal effort against crack distribution.",
+      "section": 3,
+      "outlet": "Game Developer",
+      "_date_parsed": "2026-10-08"
+    },
+    {
+      "title": "Pearl Abyss defends Crimson Desert's mixed review scores, blames limited critic access",
+      "url": "https://www.videogameschronicle.com/news/crimson-deserts-lower-review-scores-were-because-critics-didnt-get-a-fair-chance-to-explore-exec-says/",
+      "date": "2026-10-09",
+      "summary": "Pearl Abyss Europe CEO Lybee Park said Crimson Desert's Metacritic score of 77 stemmed from reviewers playing a non-final build with limited time to explore; the studio has since patched the game and plans a Switch 2 version for H1 2027.",
+      "section": 3,
+      "outlet": "Video Games Chronicle",
+      "_date_parsed": "2026-10-09"
+    },
+    {
+      "title": "Google opens defense in £1bn+ UK Play Store commission class-action trial",
+      "url": "https://www.pocketgamer.biz/google-faces-1bn-play-store-commission-trial-in-the-uk/",
+      "date": "2026-10-06",
+      "summary": "A London Competition Appeal Tribunal trial covering roughly 20 million UK consumers/developers over Google Play's up-to-30% commissions opened October 6 and runs to November 20, 2026; Google says the Play Store faces strong competition and charges some of the lowest fees in the market.",
+      "section": 3,
+      "outlet": "PocketGamer.biz",
+      "_date_parsed": "2026-10-06"
+    }
+  ],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

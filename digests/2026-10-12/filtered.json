@@ -1,0 +1,581 @@
+{
+  "as_of": "2026-10-12",
+  "cutoff": "2026-10-05",
+  "window_days": 7,
+  "summary": {
+    "input_items": 24,
+    "denied_source": 0,
+    "in_window": 24,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 23,
+    "duplicate_clusters": 1,
+    "section1_count": 4,
+    "section2_count": 19,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 6,
+    "previously_covered_count": 17
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Unity Spark + Google Playground: prompt-based game creation partnership",
+        "url": "https://unity.com/blog/why-we-built-unity-spark",
+        "url2": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
+        "date": "2026-10-07",
+        "summary": "Unity and Google announced a strategic partnership on October 7, 2026: Google launched Playground, an experimental Labs platform (playground.google, US users 18+) where people describe games in a chat interface and the system builds a playable 2D/3D version using Gemini, Nano Banana and Lyria models. Unity simultaneously unveiled Unity Spark, a browser-based, prompt-driven game creation tool that connects to the Unity Asset Store and will enter closed beta inside Playground later in 2026. Unity CEO Matthew Bromberg framed Spark as aimed at gamers, non-coding artists and modders, explicitly rejecting 'one-shotting' games as the goal, noting about 3 billion people play Unity-made games monthly but almost none have made one.",
+        "section": 1,
+        "outlet": "Unity / Google Developers (via Game Developer)"
+      },
+      "members": [
+        {
+          "title": "Unity Spark + Google Playground: prompt-based game creation partnership",
+          "url": "https://unity.com/blog/why-we-built-unity-spark",
+          "url2": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
+          "date": "2026-10-07",
+          "summary": "Unity and Google announced a strategic partnership on October 7, 2026: Google launched Playground, an experimental Labs platform (playground.google, US users 18+) where people describe games in a chat interface and the system builds a playable 2D/3D version using Gemini, Nano Banana and Lyria models. Unity simultaneously unveiled Unity Spark, a browser-based, prompt-driven game creation tool that connects to the Unity Asset Store and will enter closed beta inside Playground later in 2026. Unity CEO Matthew Bromberg framed Spark as aimed at gamers, non-coding artists and modders, explicitly rejecting 'one-shotting' games as the goal, noting about 3 billion people play Unity-made games monthly but almost none have made one.",
+          "section": 1,
+          "outlet": "Unity / Google Developers (via Game Developer)"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Capcom details AI-agent QA tooling and open-sources RE Engine's RE:Dox component",
+        "url": "https://kotaku.com/heres-what-capcom-said-about-using-generative-ai-in-the-re-engine-2000739690",
+        "url2": "https://gamefromscratch.com/capcom-open-source-re-engine-data-engine-redox/",
+        "date": "2026-10-05",
+        "summary": "At an engineers' conference on October 2, 2026 (reported October 5 by Kotaku via GameBiz), Capcom representatives detailed its 'REX' initiative to build 'an engine for the AI generation' for its in-house RE Engine, including planned AI agents that would play builds, log issues, and detect visual/gameplay/memory/performance bugs for human developers to fix, while stressing 'AI is not a replacement for humans.' Separately, on October 8, Capcom open-sourced RE:Dox, a high-performance token-based structured data engine (.NET, Apache 2.0) that is one of the REX components, with Capcom saying making tools like this public lets AI programs learn how they work. Capcom has said its shipped games will not contain AI-generated assets, with AI use focused on development efficiency.",
+        "section": 1,
+        "outlet": "Kotaku / GameFromScratch"
+      },
+      "members": [
+        {
+          "title": "Capcom details AI-agent QA tooling and open-sources RE Engine's RE:Dox component",
+          "url": "https://kotaku.com/heres-what-capcom-said-about-using-generative-ai-in-the-re-engine-2000739690",
+          "url2": "https://gamefromscratch.com/capcom-open-source-re-engine-data-engine-redox/",
+          "date": "2026-10-05",
+          "summary": "At an engineers' conference on October 2, 2026 (reported October 5 by Kotaku via GameBiz), Capcom representatives detailed its 'REX' initiative to build 'an engine for the AI generation' for its in-house RE Engine, including planned AI agents that would play builds, log issues, and detect visual/gameplay/memory/performance bugs for human developers to fix, while stressing 'AI is not a replacement for humans.' Separately, on October 8, Capcom open-sourced RE:Dox, a high-performance token-based structured data engine (.NET, Apache 2.0) that is one of the REX components, with Capcom saying making tools like this public lets AI programs learn how they work. Capcom has said its shipped games will not contain AI-generated assets, with AI use focused on development efficiency.",
+          "section": 1,
+          "outlet": "Kotaku / GameFromScratch"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "NVIDIA DLSS 4.5 and RTX Mega Geometry launch with Gears of War: E-Day",
+        "url": "https://www.nvidia.com/en-us/geforce/news/gears-of-war-e-day-dlss-4-5-ray-tracing-rtx-mega-geometry/",
+        "date": "2026-10-06",
+        "summary": "NVIDIA announced on October 6, 2026 that Gears of War: E-Day ships with DLSS 4.5 (Super Resolution, Frame Generation and Dynamic Multi Frame Generation up to 6X on RTX 50 Series) plus hardware ray-traced shadows/reflections and the new RTX Mega Geometry feature, which lets ray tracing use Unreal Engine 5 Nanite's full-detail meshes instead of simplified ray-tracing proxies (requires an RTX GPU with 12GB+ VRAM). NVIDIA reported an average 7.5X speedup over native rendering at 4K/Ultra ray tracing with a fixed 6X frame-gen multiplier, reaching up to 410 FPS on an RTX 5090.",
+        "section": 2,
+        "outlet": "NVIDIA"
+      },
+      "members": [
+        {
+          "title": "NVIDIA DLSS 4.5 and RTX Mega Geometry launch with Gears of War: E-Day",
+          "url": "https://www.nvidia.com/en-us/geforce/news/gears-of-war-e-day-dlss-4-5-ray-tracing-rtx-mega-geometry/",
+          "date": "2026-10-06",
+          "summary": "NVIDIA announced on October 6, 2026 that Gears of War: E-Day ships with DLSS 4.5 (Super Resolution, Frame Generation and Dynamic Multi Frame Generation up to 6X on RTX 50 Series) plus hardware ray-traced shadows/reflections and the new RTX Mega Geometry feature, which lets ray tracing use Unreal Engine 5 Nanite's full-detail meshes instead of simplified ray-tracing proxies (requires an RTX GPU with 12GB+ VRAM). NVIDIA reported an average 7.5X speedup over native rendering at 4K/Ultra ray tracing with a fixed 6X frame-gen multiplier, reaching up to 410 FPS on an RTX 5090.",
+          "section": 2,
+          "outlet": "NVIDIA"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "DLSS 4.5 coming to Call of Duty: Modern Warfare 4 campaign early access",
+        "url": "https://www.nvidia.com/en-us/geforce/news/call-of-duty-modern-warfare-4-dlss-4-5-available-october-16/",
+        "date": "2026-10-06",
+        "summary": "NVIDIA announced on October 6, 2026 that Call of Duty: Modern Warfare 4's campaign early access (starting October 16 for pre-order customers, full launch October 23) will support DLSS 4.5, including Super Resolution in all modes, Frame Generation on RTX 40 Series, and Dynamic Multi Frame Generation (up to 6X) on RTX 50 Series, alongside NVIDIA Reflex latency reduction, positioned to pair well with the game's optional ray-traced reflections.",
+        "section": 2,
+        "outlet": "NVIDIA"
+      },
+      "members": [
+        {
+          "title": "DLSS 4.5 coming to Call of Duty: Modern Warfare 4 campaign early access",
+          "url": "https://www.nvidia.com/en-us/geforce/news/call-of-duty-modern-warfare-4-dlss-4-5-available-october-16/",
+          "date": "2026-10-06",
+          "summary": "NVIDIA announced on October 6, 2026 that Call of Duty: Modern Warfare 4's campaign early access (starting October 16 for pre-order customers, full launch October 23) will support DLSS 4.5, including Super Resolution in all modes, Frame Generation on RTX 40 Series, and Dynamic Multi Frame Generation (up to 6X) on RTX 50 Series, alongside NVIDIA Reflex latency reduction, positioned to pair well with the game's optional ray-traced reflections.",
+          "section": 2,
+          "outlet": "NVIDIA"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "GeForce Game Ready driver adds DLSS 4.5 across four more titles",
+        "url": "https://www.nvidia.com/en-us/geforce/news/call-of-duty-modern-warfare-4-star-wars-galactic-racer-game-ready-driver/",
+        "date": "2026-10-06",
+        "summary": "NVIDIA released the GeForce Game Ready 617.42 WHQL driver on October 6, 2026, adding DLSS 4.5 support for STAR WARS: Galactic Racer (Dynamic Multi Frame Generation, Super Resolution, and DLSS 4.5 Ray Reconstruction for ray-traced Lumen lighting) and for Microsoft Flight Simulator 2024's Sim Update 7 (full DLSS suite upgraded to 4.5 with up to 6X Multi Frame Generation, releasing October 13). The same driver update brought a free DLSS 4.5 upgrade (Dynamic Multi Frame Generation plus Super Resolution) to Dragon's Dogma 2: Dark Arisen ahead of its October 9 expansion launch.",
+        "section": 2,
+        "outlet": "NVIDIA"
+      },
+      "members": [
+        {
+          "title": "GeForce Game Ready driver adds DLSS 4.5 across four more titles",
+          "url": "https://www.nvidia.com/en-us/geforce/news/call-of-duty-modern-warfare-4-star-wars-galactic-racer-game-ready-driver/",
+          "date": "2026-10-06",
+          "summary": "NVIDIA released the GeForce Game Ready 617.42 WHQL driver on October 6, 2026, adding DLSS 4.5 support for STAR WARS: Galactic Racer (Dynamic Multi Frame Generation, Super Resolution, and DLSS 4.5 Ray Reconstruction for ray-traced Lumen lighting) and for Microsoft Flight Simulator 2024's Sim Update 7 (full DLSS suite upgraded to 4.5 with up to 6X Multi Frame Generation, releasing October 13). The same driver update brought a free DLSS 4.5 upgrade (Dynamic Multi Frame Generation plus Super Resolution) to Dragon's Dogma 2: Dark Arisen ahead of its October 9 expansion launch.",
+          "section": 2,
+          "outlet": "NVIDIA"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Sega executive: generative AI will not be handed creative control of games",
+        "url": "https://kotaku.com/sega-genai-ai-crazy-taxi-world-tour-assets-tsuyoshi-saito-interview-2000740914",
+        "date": "2026-10-06",
+        "summary": "Reported October 6, 2026: Sega senior executive officer Tsuyoshi Saito told Nikkei that Sega is being cautious with AI in game development and 'we are not entrusting the creative aspects of games to AI,' while using AI internally to improve efficiency in publishing/corporate work and generate business ideas. The remarks followed controversy over Crazy Taxi: World Tour's Steam AI disclosure, after which Sega clarified to Kotaku that no in-game assets were AI-generated and genAI tools were used only for reference. Saito also said Sega is weighing ways to work with indie developers via its distribution and marketing, though it has no immediate plans for its own indie publishing label.",
+        "section": 2,
+        "outlet": "Kotaku (citing Nikkei)"
+      },
+      "members": [
+        {
+          "title": "Sega executive: generative AI will not be handed creative control of games",
+          "url": "https://kotaku.com/sega-genai-ai-crazy-taxi-world-tour-assets-tsuyoshi-saito-interview-2000740914",
+          "date": "2026-10-06",
+          "summary": "Reported October 6, 2026: Sega senior executive officer Tsuyoshi Saito told Nikkei that Sega is being cautious with AI in game development and 'we are not entrusting the creative aspects of games to AI,' while using AI internally to improve efficiency in publishing/corporate work and generate business ideas. The remarks followed controversy over Crazy Taxi: World Tour's Steam AI disclosure, after which Sega clarified to Kotaku that no in-game assets were AI-generated and genAI tools were used only for reference. Saito also said Sega is weighing ways to work with indie developers via its distribution and marketing, though it has no immediate plans for its own indie publishing label.",
+          "section": 2,
+          "outlet": "Kotaku (citing Nikkei)"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Hideo Kojima voices mixed feelings on NVIDIA DLSS 5 after seeing it applied to Death Stranding 2",
+        "url": "https://kotaku.com/hideo-kojima-has-mixed-feelings-on-dlss-5-because-ai-cant-understand-creators-intentions-i-dont-much-like-that-idea-2000739966",
+        "date": "2026-10-05",
+        "summary": "On his KOJI10 podcast (reported October 5, 2026), Hideo Kojima discussed NVIDIA's unreleased DLSS 5 after a leaked build was applied to Death Stranding 2 in August, saying it can make CG characters look closer to real people but that 'as a creator, I have mixed feelings about this technology' because AI cannot know why a creator chose a particular lighting or visual setup. He said he would not want his own work altered this way without his control, though he might feel differently if he directed the AI himself, and predicted AI-driven image enhancement will eventually be built into cameras and other everyday devices.",
+        "section": 2,
+        "outlet": "Kotaku"
+      },
+      "members": [
+        {
+          "title": "Hideo Kojima voices mixed feelings on NVIDIA DLSS 5 after seeing it applied to Death Stranding 2",
+          "url": "https://kotaku.com/hideo-kojima-has-mixed-feelings-on-dlss-5-because-ai-cant-understand-creators-intentions-i-dont-much-like-that-idea-2000739966",
+          "date": "2026-10-05",
+          "summary": "On his KOJI10 podcast (reported October 5, 2026), Hideo Kojima discussed NVIDIA's unreleased DLSS 5 after a leaked build was applied to Death Stranding 2 in August, saying it can make CG characters look closer to real people but that 'as a creator, I have mixed feelings about this technology' because AI cannot know why a creator chose a particular lighting or visual setup. He said he would not want his own work altered this way without his control, though he might feel differently if he directed the AI himself, and predicted AI-driven image enhancement will eventually be built into cameras and other everyday devices.",
+          "section": 2,
+          "outlet": "Kotaku"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "ModCraft raises seed round to train AI on game design via player-made Mods",
+        "url": "https://eu.36kr.com/en/p/4022737676259464",
+        "date": "2026-10-12",
+        "summary": "Chinese startup ModCraft, founded by game-industry veteran Li Shuo (ex-Tencent Blade & Soul, ex-Youzu), raised a seed round of 'tens of millions' of RMB from SenseTime Guoxiang Capital and L2F Lighthouse Founders' Fund, reported by 36Kr on October 12, 2026. ModCraft lets users create game Mods from natural-language prompts and discover/play Mods for 28 Steam titles (e.g. The Scroll of Taiwu, Clair Obscur: Expedition 33, PEAK), and plans to train AI models on real creation/feedback/gameplay data so AI can better understand game mechanics; it has already struck data-training cooperation with model makers including ByteDance.",
+        "section": 2,
+        "outlet": "36氪 (36Kr)"
+      },
+      "members": [
+        {
+          "title": "ModCraft raises seed round to train AI on game design via player-made Mods",
+          "url": "https://eu.36kr.com/en/p/4022737676259464",
+          "date": "2026-10-12",
+          "summary": "Chinese startup ModCraft, founded by game-industry veteran Li Shuo (ex-Tencent Blade & Soul, ex-Youzu), raised a seed round of 'tens of millions' of RMB from SenseTime Guoxiang Capital and L2F Lighthouse Founders' Fund, reported by 36Kr on October 12, 2026. ModCraft lets users create game Mods from natural-language prompts and discover/play Mods for 28 Steam titles (e.g. The Scroll of Taiwu, Clair Obscur: Expedition 33, PEAK), and plans to train AI models on real creation/feedback/gameplay data so AI can better understand game mechanics; it has already struck data-training cooperation with model makers including ByteDance.",
+          "section": 2,
+          "outlet": "36氪 (36Kr)"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "AI-agent web port of Call of Duty: Black Ops II taken down after Activision DMCA complaint",
+        "url": "https://www.ithome.com/1/012/048.htm",
+        "url2": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+        "date": "2026-10-12",
+        "summary": "Developer Luckey Faraday used AI coding agents ('vibe coding') and Three.js to rebuild Call of Duty: Black Ops II multiplayer (as 'Claude of Duty: Vibe Slops II', with AI bots on the Hijacked and Nuketown 2025 maps) and the Kino der Toten zombies map as browser games; Activision filed DMCA takedowns and both were removed, IT之家 reported October 12, 2026. It is part of a broader wave reported by Kotaku on October 9: using Anthropic's Claude Opus 5.5 for rapid decompilation, hobbyists produced browser ports of Halo: Combat Evolved, The Simpsons: Hit and Run and GTA: Vice City that reportedly ran 'borderline flawless,' raising expectations of further publisher cease-and-desist action.",
+        "section": 2,
+        "outlet": "IT之家 / Kotaku"
+      },
+      "members": [
+        {
+          "title": "AI-agent web port of Call of Duty: Black Ops II taken down after Activision DMCA complaint",
+          "url": "https://www.ithome.com/1/012/048.htm",
+          "url2": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+          "date": "2026-10-12",
+          "summary": "Developer Luckey Faraday used AI coding agents ('vibe coding') and Three.js to rebuild Call of Duty: Black Ops II multiplayer (as 'Claude of Duty: Vibe Slops II', with AI bots on the Hijacked and Nuketown 2025 maps) and the Kino der Toten zombies map as browser games; Activision filed DMCA takedowns and both were removed, IT之家 reported October 12, 2026. It is part of a broader wave reported by Kotaku on October 9: using Anthropic's Claude Opus 5.5 for rapid decompilation, hobbyists produced browser ports of Halo: Combat Evolved, The Simpsons: Hit and Run and GTA: Vice City that reportedly ran 'borderline flawless,' raising expectations of further publisher cease-and-desist action.",
+          "section": 2,
+          "outlet": "IT之家 / Kotaku"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "PlayStation co-creator Ken Kutaragi predicts AI will turn games into a vastly larger entertainment category",
+        "url": "https://www.4gamer.net/games/991/G999104/20261006020/",
+        "date": "2026-10-09",
+        "summary": "In a Famitsu/4Gamer interview published October 9, 2026, Ken Kutaragi, the 'father of the PlayStation,' argued the games industry looks stagnant relative to AI's progress and that AI will expand the games market from roughly 30 trillion yen toward a far larger entertainment category, forecasting real-time AI-generated video/music at console-level speed around 2028-2029. He said future design should become 'AI-centered' rather than human-centered, and compared people's future relationships with AI to relationships with family and friends.",
+        "section": 2,
+        "outlet": "4Gamer"
+      },
+      "members": [
+        {
+          "title": "PlayStation co-creator Ken Kutaragi predicts AI will turn games into a vastly larger entertainment category",
+          "url": "https://www.4gamer.net/games/991/G999104/20261006020/",
+          "date": "2026-10-09",
+          "summary": "In a Famitsu/4Gamer interview published October 9, 2026, Ken Kutaragi, the 'father of the PlayStation,' argued the games industry looks stagnant relative to AI's progress and that AI will expand the games market from roughly 30 trillion yen toward a far larger entertainment category, forecasting real-time AI-generated video/music at console-level speed around 2028-2029. He said future design should become 'AI-centered' rather than human-centered, and compared people's future relationships with AI to relationships with family and friends.",
+          "section": 2,
+          "outlet": "4Gamer"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Dragon Quest creator Yuji Horii builds a free AI-made detective game in about 30 minutes",
+        "url": "https://www.famitsu.com/article/202610/90698",
+        "date": "2026-10-11",
+        "summary": "Yuji Horii, creator of Dragon Quest and Portopia Serial Murder Case, released a free browser detective-adventure game, 'Interrogation Room Komiya,' built with AI (hosted as a Claude.ai artifact), Famitsu reported October 11, 2026. Horii said development took 'about 30 minutes' and that, unlike Portopia—which he wrote, drew and programmed entirely himself—AI now lets one person make a 'decent' game just by giving instructions, without drawing or programming skill, calling the result 'really surprising.'",
+        "section": 2,
+        "outlet": "Famitsu"
+      },
+      "members": [
+        {
+          "title": "Dragon Quest creator Yuji Horii builds a free AI-made detective game in about 30 minutes",
+          "url": "https://www.famitsu.com/article/202610/90698",
+          "date": "2026-10-11",
+          "summary": "Yuji Horii, creator of Dragon Quest and Portopia Serial Murder Case, released a free browser detective-adventure game, 'Interrogation Room Komiya,' built with AI (hosted as a Claude.ai artifact), Famitsu reported October 11, 2026. Horii said development took 'about 30 minutes' and that, unlike Portopia—which he wrote, drew and programmed entirely himself—AI now lets one person make a 'decent' game just by giving instructions, without drawing or programming skill, calling the result 'really surprising.'",
+          "section": 2,
+          "outlet": "Famitsu"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Unity, OpenAI and Meshy.ai back 24-hour 'Unity AI Game Jam' ahead of G-STAR 2026",
+        "url": "https://www.invenglobal.com/articles/27049/unity-opens-applications-for-unity-ai-game-jam-ahead-of-g-star",
+        "date": "2026-10-12",
+        "summary": "Unity and the Korea Association of Game Industry (K-GAMES) opened applications October 12-20, 2026 for the Unity AI Game Jam, a 24-hour AI-assisted game creation event on November 18-19 at BEXCO in Busan ahead of G-STAR 2026, Inven Global reported. OpenAI and Meshy.ai are official technical sponsors; 55 selected participants get $50 in Unity AI tool credits, OpenAI development credits and on-site engineer mentoring, and Meshy.ai credits for text/image-to-3D asset generation, with top teams eligible for a Unity G-STAR booth slot and a one-year ChatGPT Pro subscription.",
+        "section": 2,
+        "outlet": "Inven Global"
+      },
+      "members": [
+        {
+          "title": "Unity, OpenAI and Meshy.ai back 24-hour 'Unity AI Game Jam' ahead of G-STAR 2026",
+          "url": "https://www.invenglobal.com/articles/27049/unity-opens-applications-for-unity-ai-game-jam-ahead-of-g-star",
+          "date": "2026-10-12",
+          "summary": "Unity and the Korea Association of Game Industry (K-GAMES) opened applications October 12-20, 2026 for the Unity AI Game Jam, a 24-hour AI-assisted game creation event on November 18-19 at BEXCO in Busan ahead of G-STAR 2026, Inven Global reported. OpenAI and Meshy.ai are official technical sponsors; 55 selected participants get $50 in Unity AI tool credits, OpenAI development credits and on-site engineer mentoring, and Meshy.ai credits for text/image-to-3D asset generation, with top teams eligible for a Unity G-STAR booth slot and a one-year ChatGPT Pro subscription.",
+          "section": 2,
+          "outlet": "Inven Global"
+        },
+        {
+          "title": "Unity and OpenAI sponsor 24-hour 'Unity AI Game Jam' ahead of G-STAR 2026",
+          "url": "https://www.invenglobal.com/articles/27049/unity-opens-applications-for-unity-ai-game-jam-ahead-of-g-star",
+          "date": "2026-10-12",
+          "summary": "Unity and South Korea's Association of Game Industry (K-GAMES) opened applications (Oct 12-20) for a 24-hour 'Unity AI Game Jam' ahead of G-STAR 2026, held Nov 18-19 in Busan with OpenAI and Meshy.ai as sponsors. Selected participants get Unity AI tool credits, OpenAI development credits and on-site mentoring, and Meshy.ai 3D-asset generation credits; top teams can win G-STAR booth space and a year of ChatGPT Pro.",
+          "section": 2,
+          "outlet": "Inven Global"
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Google launches Playground AI game-creation platform, partners with Unity on Unity Spark",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+        "url2": "https://unity.com/blog/why-we-built-unity-spark",
+        "date": "2026-10-07",
+        "summary": "Google Labs launched Playground, an experimental browser platform (playground.google.com) that lets US users 18+ create, play and share games from text prompts, using Gemini, Nano Banana and Lyria models. The same day, Unity CEO Matt Bromberg announced Unity Spark, a browser-based, no-code-required game creation tool built 'together with our partners at Google' that will integrate into Playground via a closed beta later in 2026, connecting to the Unity Asset Store. Trade press (Game Developer, TechCrunch, PocketGamer.biz) covered the launch on Oct 6-7, framing it as a direct challenge to Roblox and Meta's Horizon Create.",
+        "section": 1,
+        "outlet": "Google / Unity (Game Developer, TechCrunch)"
+      },
+      "members": [
+        {
+          "title": "Google launches Playground AI game-creation platform, partners with Unity on Unity Spark",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+          "url2": "https://unity.com/blog/why-we-built-unity-spark",
+          "date": "2026-10-07",
+          "summary": "Google Labs launched Playground, an experimental browser platform (playground.google.com) that lets US users 18+ create, play and share games from text prompts, using Gemini, Nano Banana and Lyria models. The same day, Unity CEO Matt Bromberg announced Unity Spark, a browser-based, no-code-required game creation tool built 'together with our partners at Google' that will integrate into Playground via a closed beta later in 2026, connecting to the Unity Asset Store. Trade press (Game Developer, TechCrunch, PocketGamer.biz) covered the launch on Oct 6-7, framing it as a direct challenge to Roblox and Meta's Horizon Create.",
+          "section": 1,
+          "outlet": "Google / Unity (Game Developer, TechCrunch)"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Claude Opus 5.5 fuels wave of AI-decompiled classic game ports; Activision, Microsoft and ZeniMax issue takedowns",
+        "url": "https://36kr.com/p/4022814935289984",
+        "url2": "https://www.ithome.com/1/012/048.htm",
+        "date": "2026-10-12",
+        "summary": "Developers used Anthropic's Claude Opus 5.5 to decompile and rebuild classic games (Halo: Combat Evolved, GTA: Vice City, Tony Hawk's Pro Skater 3, The Simpsons: Hit & Run, and a Call of Duty: Black Ops 2-based project) as browser-playable versions, with Anthropic citing one tester migrating 680,000 lines of code in under a day. A web port of Halo drew nearly 20,000 play sessions from 115 countries within hours. Activision and Microsoft's legal teams filed DMCA takedowns against the Call of Duty-based 'Claude of Duty' and 'Kino der Toten' projects, and ZeniMax sent a cease-and-desist over a Fallout-based browser project, forcing both down despite developer disclaimers of no affiliation.",
+        "section": 1,
+        "outlet": "36氪 / IT之家"
+      },
+      "members": [
+        {
+          "title": "Claude Opus 5.5 fuels wave of AI-decompiled classic game ports; Activision, Microsoft and ZeniMax issue takedowns",
+          "url": "https://36kr.com/p/4022814935289984",
+          "url2": "https://www.ithome.com/1/012/048.htm",
+          "date": "2026-10-12",
+          "summary": "Developers used Anthropic's Claude Opus 5.5 to decompile and rebuild classic games (Halo: Combat Evolved, GTA: Vice City, Tony Hawk's Pro Skater 3, The Simpsons: Hit & Run, and a Call of Duty: Black Ops 2-based project) as browser-playable versions, with Anthropic citing one tester migrating 680,000 lines of code in under a day. A web port of Halo drew nearly 20,000 play sessions from 115 countries within hours. Activision and Microsoft's legal teams filed DMCA takedowns against the Call of Duty-based 'Claude of Duty' and 'Kino der Toten' projects, and ZeniMax sent a cease-and-desist over a Fallout-based browser project, forcing both down despite developer disclaimers of no affiliation.",
+          "section": 1,
+          "outlet": "36氪 / IT之家"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Roblox brings AI audio startup Audioscape's team in-house",
+        "url": "https://www.audioscape.ai/",
+        "url2": "https://pocketgamer.biz/roblox-brings-audioscape-team-in-house-to-develop-ai-audio-tools/",
+        "date": "2026-10-12",
+        "summary": "Roblox brought the team behind AI audio startup Audioscape in-house, confirmed via Audioscape's own site and a LinkedIn post from founder Sean Varah. Audioscape's AI lets creators search for sounds by how they sound rather than by name, and had developed an 'AI Audio Agent' covering sound discovery, design, programming, mixing and testing; Varah will now lead a broader audio/music roadmap across Roblox's creator tools.",
+        "section": 2,
+        "outlet": "Roblox / PocketGamer.biz"
+      },
+      "members": [
+        {
+          "title": "Roblox brings AI audio startup Audioscape's team in-house",
+          "url": "https://www.audioscape.ai/",
+          "url2": "https://pocketgamer.biz/roblox-brings-audioscape-team-in-house-to-develop-ai-audio-tools/",
+          "date": "2026-10-12",
+          "summary": "Roblox brought the team behind AI audio startup Audioscape in-house, confirmed via Audioscape's own site and a LinkedIn post from founder Sean Varah. Audioscape's AI lets creators search for sounds by how they sound rather than by name, and had developed an 'AI Audio Agent' covering sound discovery, design, programming, mixing and testing; Varah will now lead a broader audio/music roadmap across Roblox's creator tools.",
+          "section": 2,
+          "outlet": "Roblox / PocketGamer.biz"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Wizards of the Coast union expands to D&D and Magic teams, demands generative AI protections",
+        "url": "https://pocketgamer.biz/wizards-of-the-coast-union-expands-to-dandd-and-magic-teams/",
+        "date": "2026-10-08",
+        "summary": "The Wizards of the Coast-CWA union formally expanded on October 8 to include the Dungeons & Dragons and Magic: The Gathering teams, following the MTG Arena team's unionization earlier in 2026. Demands include that Wizards and parent Hasbro 'stop pushing generative AI' and adopt a clear AI policy protecting artists and other creative staff, plus letting employees retain ownership of work made in their own time. Wizards/Hasbro had until October 13 to voluntarily recognize the union before an NLRB filing.",
+        "section": 2,
+        "outlet": "PocketGamer.biz"
+      },
+      "members": [
+        {
+          "title": "Wizards of the Coast union expands to D&D and Magic teams, demands generative AI protections",
+          "url": "https://pocketgamer.biz/wizards-of-the-coast-union-expands-to-dandd-and-magic-teams/",
+          "date": "2026-10-08",
+          "summary": "The Wizards of the Coast-CWA union formally expanded on October 8 to include the Dungeons & Dragons and Magic: The Gathering teams, following the MTG Arena team's unionization earlier in 2026. Demands include that Wizards and parent Hasbro 'stop pushing generative AI' and adopt a clear AI policy protecting artists and other creative staff, plus letting employees retain ownership of work made in their own time. Wizards/Hasbro had until October 13 to voluntarily recognize the union before an NLRB filing.",
+          "section": 2,
+          "outlet": "PocketGamer.biz"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Nvidia reportedly halts RTX 5090 production to prioritize AI data-center and RTX Pro GPUs",
+        "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship",
+        "url2": "https://www.videogameschronicle.com/news/nvidia-has-reportedly-stopped-producing-rtx-5090-cards-to-focus-on-rtx-pro-gpus-for-ai-data-centers/",
+        "date": "2026-10-10",
+        "summary": "Citing hardware leakers, Tom's Hardware (Oct 10) and Video Games Chronicle (Oct 12) reported Nvidia has reportedly stopped producing the flagship GeForce RTX 5090 gaming GPU, redirecting GB202 chip supply toward pricier RTX Pro GPUs aimed at AI data centers. Reports say this is expected to create a gaming-GPU supply shortage and drive up prices, with an RTX 5080 24GB rumored as a replacement flagship; this is based on leaker claims, not an Nvidia confirmation.",
+        "section": 2,
+        "outlet": "Tom's Hardware / Video Games Chronicle"
+      },
+      "members": [
+        {
+          "title": "Nvidia reportedly halts RTX 5090 production to prioritize AI data-center and RTX Pro GPUs",
+          "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship",
+          "url2": "https://www.videogameschronicle.com/news/nvidia-has-reportedly-stopped-producing-rtx-5090-cards-to-focus-on-rtx-pro-gpus-for-ai-data-centers/",
+          "date": "2026-10-10",
+          "summary": "Citing hardware leakers, Tom's Hardware (Oct 10) and Video Games Chronicle (Oct 12) reported Nvidia has reportedly stopped producing the flagship GeForce RTX 5090 gaming GPU, redirecting GB202 chip supply toward pricier RTX Pro GPUs aimed at AI data centers. Reports say this is expected to create a gaming-GPU supply shortage and drive up prices, with an RTX 5080 24GB rumored as a replacement flagship; this is based on leaker claims, not an Nvidia confirmation.",
+          "section": 2,
+          "outlet": "Tom's Hardware / Video Games Chronicle"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Dragon Quest creator Yuji Horii says he made new mystery game in '30 minutes' using AI",
+        "url": "https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/",
+        "date": "2026-10-12",
+        "summary": "Dragon Quest creator Yuji Horii announced on X that he made a new game, 'Interrogation Room Komiya,' in about 30 minutes using generative AI. In the game, players choose text prompts to try to get a suspect to confess. Horii compared the quick, solo-made project to his earlier work on The Portopia Serial Murder Case, and had previously said at G-Star 2025 that AI could make conversational mystery/quiz games more interesting.",
+        "section": 2,
+        "outlet": "Video Games Chronicle"
+      },
+      "members": [
+        {
+          "title": "Dragon Quest creator Yuji Horii says he made new mystery game in '30 minutes' using AI",
+          "url": "https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/",
+          "date": "2026-10-12",
+          "summary": "Dragon Quest creator Yuji Horii announced on X that he made a new game, 'Interrogation Room Komiya,' in about 30 minutes using generative AI. In the game, players choose text prompts to try to get a suspect to confess. Horii compared the quick, solo-made project to his earlier work on The Portopia Serial Murder Case, and had previously said at G-Star 2025 that AI could make conversational mystery/quiz games more interesting.",
+          "section": 2,
+          "outlet": "Video Games Chronicle"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Roblox publishes evaluation framework behind its AI 'Build' game-creation tool",
+        "url": "https://about.roblox.com/newsroom/2026/10/how-roblox-evaluates-build-game-creation",
+        "date": "2026-10-08",
+        "summary": "Roblox's engineering blog detailed how it evaluates its AI-powered 'Build' tool, which turns text prompts into published mobile games. As of Sept 1, 2026, over 100,000 players had tried Build (after its New Zealand alpha) and about 9,000 games were published, with 71% of creators having never used Roblox Studio before; creator satisfaction rose 10% and unintended outputs fell from 18% to 3%. Roblox described four evaluation signals (spec quality, static game quality, automated playtesting, and visual/experiential quality) used to improve the tool.",
+        "section": 2,
+        "outlet": "Roblox (Newsroom)"
+      },
+      "members": [
+        {
+          "title": "Roblox publishes evaluation framework behind its AI 'Build' game-creation tool",
+          "url": "https://about.roblox.com/newsroom/2026/10/how-roblox-evaluates-build-game-creation",
+          "date": "2026-10-08",
+          "summary": "Roblox's engineering blog detailed how it evaluates its AI-powered 'Build' tool, which turns text prompts into published mobile games. As of Sept 1, 2026, over 100,000 players had tried Build (after its New Zealand alpha) and about 9,000 games were published, with 71% of creators having never used Roblox Studio before; creator satisfaction rose 10% and unintended outputs fell from 18% to 3%. Roblox described four evaluation signals (spec quality, static game quality, automated playtesting, and visual/experiential quality) used to improve the tool.",
+          "section": 2,
+          "outlet": "Roblox (Newsroom)"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "AI world-model startup Odyssey opens public preview of Odyssey-3, demos it playing GTA V and Red Dead Redemption 2",
+        "url": "https://odyssey.systems/",
+        "url2": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/",
+        "date": "2026-10-11",
+        "summary": "Odyssey opened a free public research preview of Odyssey-3, its generative 'world model' that creates explorable interactive 3D environments from text prompts and predicts how scenes change in response to user actions, alongside new API access applications. Odyssey demoed a controller trained on about two hours of GTA V footage that transferred, without extra training, to controlling a character on horseback in Red Dead Redemption 2, positioning the model as a foundation for game characters, robots and drones.",
+        "section": 2,
+        "outlet": "Odyssey / The Decoder"
+      },
+      "members": [
+        {
+          "title": "AI world-model startup Odyssey opens public preview of Odyssey-3, demos it playing GTA V and Red Dead Redemption 2",
+          "url": "https://odyssey.systems/",
+          "url2": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/",
+          "date": "2026-10-11",
+          "summary": "Odyssey opened a free public research preview of Odyssey-3, its generative 'world model' that creates explorable interactive 3D environments from text prompts and predicts how scenes change in response to user actions, alongside new API access applications. Odyssey demoed a controller trained on about two hours of GTA V footage that transferred, without extra training, to controlling a character on horseback in Red Dead Redemption 2, positioning the model as a foundation for game characters, robots and drones.",
+          "section": 2,
+          "outlet": "Odyssey / The Decoder"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Ex-Take-Two AI chief warns of AI 'bubble' and junior-hiring crisis in games industry",
+        "url": "https://pocketgamer.biz/in-the-hot-seat-ex-take-two-ai-chief-luke-dicken-on-the-2tn-bubble-junior-jobs-and-the-next-2008/",
+        "date": "2026-10-08",
+        "summary": "In a PocketGamer.biz interview, Dr. Luke Dicken -- former decade-long head of Zynga's applied AI group and Take-Two Interactive's head of AI until his team was cut in April 2026 -- called AI infrastructure spending 'one of the largest misallocations of capital' in the system and said there is 'no business math' supporting reported trillion-dollar AI valuations. He warned that studios cutting junior roles to show AI-driven efficiency are undermining a pipeline the industry will need as senior staff retire, and that AI tooling likely won't mature into real production standards for three to five years.",
+        "section": 2,
+        "outlet": "PocketGamer.biz"
+      },
+      "members": [
+        {
+          "title": "Ex-Take-Two AI chief warns of AI 'bubble' and junior-hiring crisis in games industry",
+          "url": "https://pocketgamer.biz/in-the-hot-seat-ex-take-two-ai-chief-luke-dicken-on-the-2tn-bubble-junior-jobs-and-the-next-2008/",
+          "date": "2026-10-08",
+          "summary": "In a PocketGamer.biz interview, Dr. Luke Dicken -- former decade-long head of Zynga's applied AI group and Take-Two Interactive's head of AI until his team was cut in April 2026 -- called AI infrastructure spending 'one of the largest misallocations of capital' in the system and said there is 'no business math' supporting reported trillion-dollar AI valuations. He warned that studios cutting junior roles to show AI-driven efficiency are undermining a pipeline the industry will need as senior staff retire, and that AI tooling likely won't mature into real production standards for three to five years.",
+          "section": 2,
+          "outlet": "PocketGamer.biz"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Chinese AI game-mod startup ModCraft raises tens of millions of yuan in seed funding",
+        "url": "https://36kr.com/p/4022737676259464",
+        "date": "2026-10-12",
+        "summary": "ModCraft, a Chinese platform where users create and share game mods via natural-language prompts across 28 listed games, raised a seed round of 'tens of millions' of RMB from SenseTime's Guoxiang Capital and the L2F Light Source Entrepreneurs Fund. Founder Li Shuo said the company plans to use mod-creation and player-feedback data to train AI models that understand game design, and that it has partnered with ByteDance and other model developers.",
+        "section": 2,
+        "outlet": "36氪"
+      },
+      "members": [
+        {
+          "title": "Chinese AI game-mod startup ModCraft raises tens of millions of yuan in seed funding",
+          "url": "https://36kr.com/p/4022737676259464",
+          "date": "2026-10-12",
+          "summary": "ModCraft, a Chinese platform where users create and share game mods via natural-language prompts across 28 listed games, raised a seed round of 'tens of millions' of RMB from SenseTime's Guoxiang Capital and the L2F Light Source Entrepreneurs Fund. Founder Li Shuo said the company plans to use mod-creation and player-feedback data to train AI models that understand game design, and that it has partnered with ByteDance and other model developers.",
+          "section": 2,
+          "outlet": "36氪"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Claude-assisted PS5SX2 emulator update lets jailbroken PS5s read physical PS2 discs",
+        "url": "https://kotaku.com/jailbroken-ps5s-can-now-emulate-ps2-games-using-physical-discs-2000743781",
+        "date": "2026-10-10",
+        "summary": "Kotaku reported that PS5SX2, described by its developer as an AI-assisted project with Anthropic's Claude listed as a contributor on its GitHub, released version 2.01, letting jailbroken PS5 consoles dump and run physical PS2 discs natively, with upscaling up to 6x resolution. The developer has also announced plans for a PS3-disc version (PS5SX3).",
+        "section": 2,
+        "outlet": "Kotaku"
+      },
+      "members": [
+        {
+          "title": "Claude-assisted PS5SX2 emulator update lets jailbroken PS5s read physical PS2 discs",
+          "url": "https://kotaku.com/jailbroken-ps5s-can-now-emulate-ps2-games-using-physical-discs-2000743781",
+          "date": "2026-10-10",
+          "summary": "Kotaku reported that PS5SX2, described by its developer as an AI-assisted project with Anthropic's Claude listed as a contributor on its GitHub, released version 2.01, letting jailbroken PS5 consoles dump and run physical PS2 discs natively, with upscaling up to 6x resolution. The developer has also announced plans for a PS3-disc version (PS5SX3).",
+          "section": 2,
+          "outlet": "Kotaku"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    }
+  ],
+  "duplicate_groups": [
+    [
+      {
+        "title": "Unity, OpenAI and Meshy.ai back 24-hour 'Unity AI Game Jam' ahead of G-STAR 2026",
+        "url": "https://www.invenglobal.com/articles/27049/unity-opens-applications-for-unity-ai-game-jam-ahead-of-g-star",
+        "date": "2026-10-12",
+        "summary": "Unity and the Korea Association of Game Industry (K-GAMES) opened applications October 12-20, 2026 for the Unity AI Game Jam, a 24-hour AI-assisted game creation event on November 18-19 at BEXCO in Busan ahead of G-STAR 2026, Inven Global reported. OpenAI and Meshy.ai are official technical sponsors; 55 selected participants get $50 in Unity AI tool credits, OpenAI development credits and on-site engineer mentoring, and Meshy.ai credits for text/image-to-3D asset generation, with top teams eligible for a Unity G-STAR booth slot and a one-year ChatGPT Pro subscription.",
+        "section": 2,
+        "outlet": "Inven Global"
+      },
+      {
+        "title": "Unity and OpenAI sponsor 24-hour 'Unity AI Game Jam' ahead of G-STAR 2026",
+        "url": "https://www.invenglobal.com/articles/27049/unity-opens-applications-for-unity-ai-game-jam-ahead-of-g-star",
+        "date": "2026-10-12",
+        "summary": "Unity and South Korea's Association of Game Industry (K-GAMES) opened applications (Oct 12-20) for a 24-hour 'Unity AI Game Jam' ahead of G-STAR 2026, held Nov 18-19 in Busan with OpenAI and Meshy.ai as sponsors. Selected participants get Unity AI tool credits, OpenAI development credits and on-site mentoring, and Meshy.ai 3D-asset generation credits; top teams can win G-STAR booth space and a year of ChatGPT Pro.",
+        "section": 2,
+        "outlet": "Inven Global"
+      }
+    ]
+  ],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

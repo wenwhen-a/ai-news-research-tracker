@@ -1,0 +1,12 @@
+**[新闻 1] 更新】Capcom "REX" 引擎AI化计划：开源RE:Dox与RE:Log工具**
+- **日期：** 2026-10-05（10月2日工程师大会内容，Kotaku于10月5日详细报道）
+- **来源链接：** <https://kotaku.com/heres-what-capcom-said-about-using-generative-ai-in-the-re-engine-2000739690>
+- **核心事实：**
+  - Capcom在10月2日的工程师大会上详细说明了"REX"（RE neXt Engine）计划的五大目标，该计划最早在2023年提出。
+  - 作为REX目标之一，Capcom已将RE:Dox和RE:Log两款工具在GitHub上开源；RE:Dox的作用是"将复杂代码简化为更简单的规则"，以便引擎更快处理代码。
+  - Capcom表示，公开这些工具是为了让AI程序学习引擎的运作方式，从而协助分析内部代码、辅助测试与查找漏洞。
+- **背景与起因：**
+  - 此前（10月3日）已有报道称Capcom公布RE引擎"AI化"规划REX，目标是与AI共同开发游戏，而非用AI生成最终美术素材；本次为该计划的具体落地动作。
+  - Capcom此前多次强调"AI不能替代人类"，并表示旗下游戏不会使用AI生成的最终美术资产。
+- **结果与进展：**
+  - RE:Dox与RE:Log已经作为开源工具发布在GitHub上，可供外部开发者和AI工具实际使用，这是对此前"规划"阶段的具体落实。
