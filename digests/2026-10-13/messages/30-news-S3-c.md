@@ -1,0 +1,4 @@
+- **Devsisters与Big Shot Pictures达成合作，推进《CookieRun》电影化**（2026-10-12）— 《CookieRun》开发商Devsisters宣布与制片公司Big Shot Pictures合作，推进该IP的真人或动画电影改编项目。 <https://www.pocketgamer.biz/devsisters-partners-with-big-shot-pictures-for-cookierun-film/>
+- **报告：今年无新作挤进畅销榜头部，手游内购收入同比下降7%**（2026-10-12）— 数据显示，由于今年尚无新发手游跻身畅销榜头部，全球手游内购（IAP）收入同比下滑7%，反映出头部格局固化的市场现状。 <https://www.pocketgamer.biz/mobile-game-iaps-down-7-as-no-new-releases-break-top-grossing-charts-this-year/>
+- **BAFTA拨款超27万英镑资助112名新锐游戏创作者**（2026-10-13）— 英国电影电视艺术学院（BAFTA）公布资助计划，向112名游戏行业新锐创作者发放总额超27万英镑的支持资金，助力人才培养。 <https://www.pocketgamer.biz/bafta-awards-over-270000-to-support-112-emerging-creatives/>
+- **苹果为"独立游戏周"活动上新七款独立游戏登陆iPhone、iPad**（2026-10-13）— 苹果宣布在App Store"独立游戏周"活动中推出七款新独立游戏，登陆iPhone与iPad平台。 <https://www.pocketgamer.biz/apple-brings-seven-indie-games-to-iphone-and-ipad-for-indie-games-week/>

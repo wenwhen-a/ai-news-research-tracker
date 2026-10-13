@@ -1,0 +1,12 @@
+**[新闻 2] 更新】NVIDIA RTX Spark AI PC平台10月16日发售，内置专用小模型驱动游戏内AI角色**
+- **日期：** 2026-10-13
+- **来源链接：** <https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/>
+- **核心事实：**
+  - RTX Spark搭载NVIDIA Blackwell RTX GPU（最高6144个CUDA核心）与Grace CPU（最高20核），经NVLink-C2C互联，最高128GB统一内存、1 petaflop AI算力
+  - 10月16日由OEM笔记本厂商全球发售，首发即支持数百款游戏，含《赛博朋克2077》《巫师3重制版》《魔兽世界》及ARC Raiders、CS2、Dota 2、Fortnite、Rust等反作弊对战游戏
+  - 开源Nemotron 3.5 Bolt 74B（74B参数MoE模型，9B激活参数）10月15日发布用于本地智能体，可2-bit量化压入24GB显存；更小的Nemotron 3.5 Bolt E4B将于10月23日发布，专供游戏内AI角色使用
+  - 新增个人AI路由器NVIDIA PAIR与开源本地/云端任务调度库NVIDIA Switchyard；决策模型推理速度比传统智能体快最高200倍；超130个创作应用已完成硬件加速适配
+- **背景与起因：**
+  - 此为NVIDIA与微软10月7日联合宣布的"本地AI+Windows PC"战略的落地产品（UPDATE：10月7日仅公布战略合作，本次披露具体硬件规格、10月16日发售日期及首发游戏/模型清单），旨在把DLSS神经渲染、生成式创作工具与本地大模型智能体整合进同一消费级硬件平台，抢占AI PC与游戏融合的入口
+- **结果与进展：**
+  - 首批数百款游戏与130多个创作应用已完成适配，标志着NVIDIA首次把面向游戏NPC的专用小模型（Nemotron 3.5 Bolt E4B）下放到消费级AI PC硬件本地运行，而非仅停留在云端演示阶段

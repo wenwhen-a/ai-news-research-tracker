@@ -344,10 +344,17 @@
  "https://unity.com/blog/unite-seoul-keynote-2026-recap": {
   "name": "Unity 7",
   "company": "Unity",
-  "tier": "Announced only",
+  "tier": "Public beta/preview",
   "first_seen": "2026-09-28",
   "release_date": "2026-07-21",
-  "summary": "Unity previewed Unity 7 at Unite Seoul 2026, a CoreCLR/.NET-modernized engine core with new 2D/3D graphics tooling and a free built-in MCP server and CLI; Unity states features and timing are still in development and availability could differ materially."
+  "summary": "Unity previewed Unity 7 at Unite Seoul 2026, a CoreCLR/.NET-modernized engine core with new 2D/3D graphics tooling and a free built-in MCP server and CLI; Unity states features and timing are still in development and availability could differ materially.",
+  "last_update": "2026-10-13",
+  "updates": [
+   {
+    "date": "2026-10-13",
+    "change": "Unity 7 moved from Announced-only to Public beta/preview: a downloadable public Alpha (build 7000.0.0a7) is now available to anyone via Unity's official alpha release page, with weekly builds, per Unity's alpha-program forum announcement dated 2026-10-05."
+   }
+  ]
  },
  "https://magicdawn.tencent.com/?lang=en": {
   "name": "MagicDawn (cross-engine global-illumination/rendering brand)",
@@ -459,5 +466,21 @@
   "first_seen": "2026-10-12",
   "release_date": "2026-09-24",
   "summary": "Google added \"Live Avatar\" to Gemini 3.8 Live, giving its real-time voice assistant a generated, animated on-screen persona that can listen, see and speak back with lip-sync and turn-taking cues."
+ },
+ "https://www.nvidia.com/en-us/geforce/news/dlss-4-5-crossout-remastered-modern-warfare-4-frame-gen-beta/": {
+  "name": "DLSS Frame Generation Performance Mode (\"Preset C\", beta)",
+  "company": "NVIDIA",
+  "tier": "Public beta/preview",
+  "first_seen": "2026-10-13",
+  "release_date": "2026-10-13",
+  "summary": "NVIDIA shipped an opt-in NVIDIA App beta preset (\"Preset C\") for DLSS Frame Generation / Multi Frame Generation / Dynamic Multi Frame Generation that swaps the optical-flow sub-model for a lighter algorithm, stated up to 35% faster on an RTX 5060, on GeForce RTX 40/50 Series GPUs and RTX Spark laptops."
+ },
+ "https://unity.com/blog/why-we-built-unity-spark": {
+  "name": "Unity Spark (browser-based, AI-assisted game creation, built with Google)",
+  "company": "Unity",
+  "tier": "Announced only",
+  "first_seen": "2026-10-13",
+  "release_date": "2026-10-07",
+  "summary": "Unity announced Unity Spark, a browser-based way to make and share games with no prior Unity or game-development experience required, connecting to the Unity Asset Store; access is waitlist-only with no GA/beta availability stated."
  }
 }

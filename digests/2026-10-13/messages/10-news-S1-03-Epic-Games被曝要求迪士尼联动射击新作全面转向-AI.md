@@ -1,0 +1,12 @@
+**[新闻 3] Epic Games被曝要求迪士尼联动射击新作全面转向"AI优先"开发，禁止手写代码**
+- **日期：** 2026-10-12
+- **来源链接：** <https://kotaku.com/epic-games-forces-shocked-developers-into-ai-first-mode-for-delayed-shooter-featuring-marvel-and-star-wars-characters-2000744620>
+- **核心事实：**
+  - 项目总监要求团队对该射击游戏采用"AI优先"生产模式，明确"不再手写代码"，美术资产要求"全AI工作流"生成，技术基础为Anthropic Claude模型
+  - 该游戏是迪士尼2024年向Epic投资15亿美元合作的一部分，含漫威与星球大战角色，原定2027年3月发售，现因进度缓慢、人手不足被推迟
+  - 据报道，多名开发者在上周一次视频会议上被这一决定"震惊"；Epic今年早些时候已裁员约1000人，并归因于《堡垒之夜》活跃度下滑及反垄断诉讼成本
+  - Epic发言人称公司正拥抱"AI加速开发"；CEO Tim Sweeney发帖称公司正经历"巨大转型"以实现AI加速；Epic此前已宣布虚幻引擎6将整合Claude与Gemini
+- **背景与起因：**
+  - Epic CEO Tim Sweeney长期公开支持生成式AI，并曾批评Steam的AI披露要求；此次被视为游戏行业内已知规模最大的一次把AI作为开发基础（而非辅助工具）的尝试
+- **结果与进展：**
+  - 报道未提及工会或SAG-AFTRA方面的回应，目前也不清楚Epic将如何为AI生成内容设置质量把关机制，事件引发业内对大厂"AI优先"策略及其对开发者岗位影响的进一步讨论

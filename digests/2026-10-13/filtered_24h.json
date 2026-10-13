@@ -1,0 +1,432 @@
+{
+  "as_of": "2026-10-13",
+  "cutoff": "2026-10-12",
+  "window_days": 1,
+  "summary": {
+    "input_items": 20,
+    "denied_source": 0,
+    "in_window": 20,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 20,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 20,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 19,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "据报道《GTA6》PC版将于2027年第一季度发售，创Rockstar双平台发售最短间隔纪录",
+        "url": "https://www.videogameschronicle.com/news/the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-before-the-end-of-march-2027/",
+        "date": "2026-10-13",
+        "summary": "据报道，Rockstar计划让《GTA6》PC版在2027财年结束前（即2027年3月底前）发售，若属实将是该公司主机版与PC版发售间隔最短的一次；消息来自单一爆料者，尚未获官方证实。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据报道《GTA6》PC版将于2027年第一季度发售，创Rockstar双平台发售最短间隔纪录",
+          "url": "https://www.videogameschronicle.com/news/the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-before-the-end-of-march-2027/",
+          "date": "2026-10-13",
+          "summary": "据报道，Rockstar计划让《GTA6》PC版在2027财年结束前（即2027年3月底前）发售，若属实将是该公司主机版与PC版发售间隔最短的一次；消息来自单一爆料者，尚未获官方证实。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "休闲游戏平台Legacy Games宣布关闭，此前\"永久保留\"购买承诺未能兑现",
+        "url": "https://www.videogameschronicle.com/news/casual-game-store-legacy-games-is-shutting-down-purchases-wont-be-re-downloadable-despite-keep-forever-slogan/",
+        "date": "2026-10-13",
+        "summary": "休闲游戏商店Legacy Games宣布关闭服务，尽管此前宣传购买游戏可\"永久保留\"，但关闭后用户将无法重新下载已购买的游戏。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "休闲游戏平台Legacy Games宣布关闭，此前\"永久保留\"购买承诺未能兑现",
+          "url": "https://www.videogameschronicle.com/news/casual-game-store-legacy-games-is-shutting-down-purchases-wont-be-re-downloadable-despite-keep-forever-slogan/",
+          "date": "2026-10-13",
+          "summary": "休闲游戏商店Legacy Games宣布关闭服务，尽管此前宣传购买游戏可\"永久保留\"，但关闭后用户将无法重新下载已购买的游戏。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "美国行业团体建议将预装盗版游戏的复古掌机列入\"恶名市场\"名单",
+        "url": "https://www.videogameschronicle.com/news/us-government-told-to-flag-retro-handhelds-loaded-with-pirated-games-as-a-notorious-market/",
+        "date": "2026-10-13",
+        "summary": "行业团体建议美国政府在年度\"恶名市场\"报告中，将内置大量盗版游戏ROM的廉价复古掌机列为重点打击对象。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "美国行业团体建议将预装盗版游戏的复古掌机列入\"恶名市场\"名单",
+          "url": "https://www.videogameschronicle.com/news/us-government-told-to-flag-retro-handhelds-loaded-with-pirated-games-as-a-notorious-market/",
+          "date": "2026-10-13",
+          "summary": "行业团体建议美国政府在年度\"恶名市场\"报告中，将内置大量盗版游戏ROM的廉价复古掌机列为重点打击对象。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Xbox CEO重申不会放弃原创IP：\"如果只靠啃老本，我们就完了\"",
+        "url": "https://www.videogameschronicle.com/news/xbox-insists-its-not-giving-up-on-original-ip-we-wont-survive-if-we-only-relive-the-past/",
+        "date": "2026-10-13",
+        "summary": "Xbox CEO Asha Sharma表示公司仍致力开发原创新IP，强调若只依赖旧作续写，公司难以生存，需保持创新勇气，该言论同时被ITHome等媒体转引。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Xbox CEO重申不会放弃原创IP：\"如果只靠啃老本，我们就完了\"",
+          "url": "https://www.videogameschronicle.com/news/xbox-insists-its-not-giving-up-on-original-ip-we-wont-survive-if-we-only-relive-the-past/",
+          "date": "2026-10-13",
+          "summary": "Xbox CEO Asha Sharma表示公司仍致力开发原创新IP，强调若只依赖旧作续写，公司难以生存，需保持创新勇气，该言论同时被ITHome等媒体转引。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "索尼发布\"午夜黑\"配色PS5，目前仅确认在日本发售",
+        "url": "https://www.videogameschronicle.com/news/sony-has-announced-a-midnight-black-ps5-but-its-only-confirmed-for-japan-so-far/",
+        "date": "2026-10-13",
+        "summary": "索尼公布新配色\"午夜黑\"PS5主机，目前仅确认将在日本市场发售，其他地区是否跟进尚未公布。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "索尼发布\"午夜黑\"配色PS5，目前仅确认在日本发售",
+          "url": "https://www.videogameschronicle.com/news/sony-has-announced-a-midnight-black-ps5-but-its-only-confirmed-for-japan-so-far/",
+          "date": "2026-10-13",
+          "summary": "索尼公布新配色\"午夜黑\"PS5主机，目前仅确认将在日本市场发售，其他地区是否跟进尚未公布。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "前索尼PlayStation业务负责人平井一夫自曝：任内常无视总部高管指示",
+        "url": "https://kotaku.com/former-playstation-head-reflects-on-his-time-at-the-company-what-headquarters-says-isnt-important-were-playstation-2000745235",
+        "date": "2026-10-13",
+        "summary": "前索尼互动娱乐负责人平井一夫回忆任内经历，透露自己当年常常无视索尼总部高管的指示，坚持\"我们就是PlayStation\"的独立决策风格，ITHome亦转引该访谈。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "前索尼PlayStation业务负责人平井一夫自曝：任内常无视总部高管指示",
+          "url": "https://kotaku.com/former-playstation-head-reflects-on-his-time-at-the-company-what-headquarters-says-isnt-important-were-playstation-2000745235",
+          "date": "2026-10-13",
+          "summary": "前索尼互动娱乐负责人平井一夫回忆任内经历，透露自己当年常常无视索尼总部高管的指示，坚持\"我们就是PlayStation\"的独立决策风格，ITHome亦转引该访谈。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据报道Epic Games要求团队对延期中的漫威/星战射击游戏采用\"AI优先\"开发模式",
+        "url": "https://www.videogameschronicle.com/news/epic-games-reportedly-orders-staff-to-implement-ai-first-development/",
+        "date": "2026-10-12",
+        "summary": "据报道，Epic Games内部下令旗下一款含漫威与星战角色、已经延期的射击游戏项目转向\"AI优先\"开发流程，令部分开发者感到意外和担忧，Kotaku同步报道了此事。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据报道Epic Games要求团队对延期中的漫威/星战射击游戏采用\"AI优先\"开发模式",
+          "url": "https://www.videogameschronicle.com/news/epic-games-reportedly-orders-staff-to-implement-ai-first-development/",
+          "date": "2026-10-12",
+          "summary": "据报道，Epic Games内部下令旗下一款含漫威与星战角色、已经延期的射击游戏项目转向\"AI优先\"开发流程，令部分开发者感到意外和担忧，Kotaku同步报道了此事。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《Marvel Tokon》公布\"首年\"DLC角色阵容，含毒液、雷神与朱碧丽",
+        "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
+        "date": "2026-10-12",
+        "summary": "开发商公布格斗游戏《Marvel Tokon》\"第一年\"DLC路线图，确认毒液、雷神、朱碧丽等新角色将陆续加入。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《Marvel Tokon》公布\"首年\"DLC角色阵容，含毒液、雷神与朱碧丽",
+          "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
+          "date": "2026-10-12",
+          "summary": "开发商公布格斗游戏《Marvel Tokon》\"第一年\"DLC路线图，确认毒液、雷神、朱碧丽等新角色将陆续加入。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《银河飞将3》30周年纪念版公布，采用修复母带重制全动态影像",
+        "url": "https://www.videogameschronicle.com/news/wing-commander-3-is-getting-a-30th-anniversary-edition-with-remastered-fmvs-from-the-restored-original-tapes/",
+        "date": "2026-10-12",
+        "summary": "经典太空战斗游戏《银河飞将3》将推出30周年纪念版，其全动态视频片段基于修复后的原始录像带重新制作。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《银河飞将3》30周年纪念版公布，采用修复母带重制全动态影像",
+          "url": "https://www.videogameschronicle.com/news/wing-commander-3-is-getting-a-30th-anniversary-edition-with-remastered-fmvs-from-the-restored-original-tapes/",
+          "date": "2026-10-12",
+          "summary": "经典太空战斗游戏《银河飞将3》将推出30周年纪念版，其全动态视频片段基于修复后的原始录像带重新制作。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《无人深空》确认登陆iOS平台，iPhone 11及以上机型可玩",
+        "url": "https://kotaku.com/no-mans-sky-ios-mobile-iphone-ipad-hello-games-port-apple-sean-murray-2000744598",
+        "date": "2026-10-12",
+        "summary": "Hello Games宣布开放世界太空探索游戏《无人深空》将登陆iPhone与iPad，支持iPhone 11及以上机型运行，ITHome同步报道了该消息。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《无人深空》确认登陆iOS平台，iPhone 11及以上机型可玩",
+          "url": "https://kotaku.com/no-mans-sky-ios-mobile-iphone-ipad-hello-games-port-apple-sean-murray-2000744598",
+          "date": "2026-10-12",
+          "summary": "Hello Games宣布开放世界太空探索游戏《无人深空》将登陆iPhone与iPad，支持iPhone 11及以上机型运行，ITHome同步报道了该消息。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "任天堂高管回应行业退出实体趋势：Switch 2无放弃实体游戏卡带计划",
+        "url": "https://kotaku.com/unlike-sony-nintendo-exec-says-switch-2-maker-has-no-plans-to-abandon-physical-we-know-how-much-fans-enjoy-it-2000744191",
+        "date": "2026-10-12",
+        "summary": "任天堂高管表示，与索尼近期出售VR专利等动作形成对比，公司没有放弃Switch 2实体游戏卡带的计划，强调深知玩家对实体收藏的喜爱。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "任天堂高管回应行业退出实体趋势：Switch 2无放弃实体游戏卡带计划",
+          "url": "https://kotaku.com/unlike-sony-nintendo-exec-says-switch-2-maker-has-no-plans-to-abandon-physical-we-know-how-much-fans-enjoy-it-2000744191",
+          "date": "2026-10-12",
+          "summary": "任天堂高管表示，与索尼近期出售VR专利等动作形成对比，公司没有放弃Switch 2实体游戏卡带的计划，强调深知玩家对实体收藏的喜爱。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Steam平台同时在线用户数突破4300万，创历史新纪录",
+        "url": "https://kotaku.com/steam-valve-concurrent-users-record-in-game-epic-fortnite-roblox-2000744564",
+        "date": "2026-10-12",
+        "summary": "Valve旗下Steam平台本月同时在线用户数突破4300万，刷新平台历史纪录，显示PC游戏平台整体活跃度持续攀升。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Steam平台同时在线用户数突破4300万，创历史新纪录",
+          "url": "https://kotaku.com/steam-valve-concurrent-users-record-in-game-epic-fortnite-roblox-2000744564",
+          "date": "2026-10-12",
+          "summary": "Valve旗下Steam平台本月同时在线用户数突破4300万，刷新平台历史纪录，显示PC游戏平台整体活跃度持续攀升。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "前Game Developer主编创办新游戏行业媒体Vertical Slice",
+        "url": "https://kotaku.com/former-editor-of-game-developer-launches-vertical-slice-a-fearless-new-trade-publication-2000743316",
+        "date": "2026-10-12",
+        "summary": "前游戏行业媒体Game Developer主编宣布创办新的行业媒体Vertical Slice，定位为\"敢于直言\"的游戏产业报道。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "前Game Developer主编创办新游戏行业媒体Vertical Slice",
+          "url": "https://kotaku.com/former-editor-of-game-developer-launches-vertical-slice-a-fearless-new-trade-publication-2000743316",
+          "date": "2026-10-12",
+          "summary": "前游戏行业媒体Game Developer主编宣布创办新的行业媒体Vertical Slice，定位为\"敢于直言\"的游戏产业报道。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "VRChat社区开发者呼吁抵制平台\"泛滥\"的AI生成内容",
+        "url": "https://kotaku.com/vr-chat-community-protests-an-influx-of-ai-slop-onto-platform-hurting-discoverability-2000742109",
+        "date": "2026-10-12",
+        "summary": "VRChat社区开发者发起抵制行动，抗议平台上AI生成内容\"泛滥成灾\"，认为其正在损害内容可发现性与社区生态。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "VRChat社区开发者呼吁抵制平台\"泛滥\"的AI生成内容",
+          "url": "https://kotaku.com/vr-chat-community-protests-an-influx-of-ai-slop-onto-platform-hurting-discoverability-2000742109",
+          "date": "2026-10-12",
+          "summary": "VRChat社区开发者发起抵制行动，抗议平台上AI生成内容\"泛滥成灾\"，认为其正在损害内容可发现性与社区生态。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "土耳其手游开发商Flow Games完成4600万美元融资，腾讯领投",
+        "url": "https://www.pocketgamer.biz/exclusive-turkish-developer-flow-games-raises-46m-in-funding-package-led-by-tencent/",
+        "date": "2026-10-13",
+        "summary": "伊斯坦布尔手游开发商Flow Games（代表作《Smash Fest》）完成总额4600万美元的融资包，据消息源透露腾讯领投并提供约四分之三资金。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "土耳其手游开发商Flow Games完成4600万美元融资，腾讯领投",
+          "url": "https://www.pocketgamer.biz/exclusive-turkish-developer-flow-games-raises-46m-in-funding-package-led-by-tencent/",
+          "date": "2026-10-13",
+          "summary": "伊斯坦布尔手游开发商Flow Games（代表作《Smash Fest》）完成总额4600万美元的融资包，据消息源透露腾讯领投并提供约四分之三资金。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《乐高登山冒险》将终止服务，但全体员工予以保留",
+        "url": "https://www.pocketgamer.biz/lego-hill-climb-adventures-to-end-service-but-all-staff-kept-on/",
+        "date": "2026-10-12",
+        "summary": "手游《乐高登山冒险》（Lego Hill Climb Adventures）宣布将停止运营，但开发商确认相关团队员工将被保留并转岗至其他项目。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《乐高登山冒险》将终止服务，但全体员工予以保留",
+          "url": "https://www.pocketgamer.biz/lego-hill-climb-adventures-to-end-service-but-all-staff-kept-on/",
+          "date": "2026-10-12",
+          "summary": "手游《乐高登山冒险》（Lego Hill Climb Adventures）宣布将停止运营，但开发商确认相关团队员工将被保留并转岗至其他项目。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Devsisters与Big Shot Pictures达成合作，推进《CookieRun》电影化",
+        "url": "https://www.pocketgamer.biz/devsisters-partners-with-big-shot-pictures-for-cookierun-film/",
+        "date": "2026-10-12",
+        "summary": "《CookieRun》开发商Devsisters宣布与制片公司Big Shot Pictures合作，推进该IP的真人或动画电影改编项目。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Devsisters与Big Shot Pictures达成合作，推进《CookieRun》电影化",
+          "url": "https://www.pocketgamer.biz/devsisters-partners-with-big-shot-pictures-for-cookierun-film/",
+          "date": "2026-10-12",
+          "summary": "《CookieRun》开发商Devsisters宣布与制片公司Big Shot Pictures合作，推进该IP的真人或动画电影改编项目。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "报告：今年无新作挤进畅销榜头部，手游内购收入同比下降7%",
+        "url": "https://www.pocketgamer.biz/mobile-game-iaps-down-7-as-no-new-releases-break-top-grossing-charts-this-year/",
+        "date": "2026-10-12",
+        "summary": "数据显示，由于今年尚无新发手游跻身畅销榜头部，全球手游内购（IAP）收入同比下滑7%，反映出头部格局固化的市场现状。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "报告：今年无新作挤进畅销榜头部，手游内购收入同比下降7%",
+          "url": "https://www.pocketgamer.biz/mobile-game-iaps-down-7-as-no-new-releases-break-top-grossing-charts-this-year/",
+          "date": "2026-10-12",
+          "summary": "数据显示，由于今年尚无新发手游跻身畅销榜头部，全球手游内购（IAP）收入同比下滑7%，反映出头部格局固化的市场现状。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "BAFTA拨款超27万英镑资助112名新锐游戏创作者",
+        "url": "https://www.pocketgamer.biz/bafta-awards-over-270000-to-support-112-emerging-creatives/",
+        "date": "2026-10-13",
+        "summary": "英国电影电视艺术学院（BAFTA）公布资助计划，向112名游戏行业新锐创作者发放总额超27万英镑的支持资金，助力人才培养。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "BAFTA拨款超27万英镑资助112名新锐游戏创作者",
+          "url": "https://www.pocketgamer.biz/bafta-awards-over-270000-to-support-112-emerging-creatives/",
+          "date": "2026-10-13",
+          "summary": "英国电影电视艺术学院（BAFTA）公布资助计划，向112名游戏行业新锐创作者发放总额超27万英镑的支持资金，助力人才培养。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "苹果为\"独立游戏周\"活动上新七款独立游戏登陆iPhone、iPad",
+        "url": "https://www.pocketgamer.biz/apple-brings-seven-indie-games-to-iphone-and-ipad-for-indie-games-week/",
+        "date": "2026-10-13",
+        "summary": "苹果宣布在App Store\"独立游戏周\"活动中推出七款新独立游戏，登陆iPhone与iPad平台。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "苹果为\"独立游戏周\"活动上新七款独立游戏登陆iPhone、iPad",
+          "url": "https://www.pocketgamer.biz/apple-brings-seven-indie-games-to-iphone-and-ipad-for-indie-games-week/",
+          "date": "2026-10-13",
+          "summary": "苹果宣布在App Store\"独立游戏周\"活动中推出七款新独立游戏，登陆iPhone与iPad平台。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

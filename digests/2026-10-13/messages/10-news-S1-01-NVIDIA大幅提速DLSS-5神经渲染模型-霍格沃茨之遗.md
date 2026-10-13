@@ -1,0 +1,12 @@
+**[新闻 1] NVIDIA大幅提速DLSS 5神经渲染模型，《霍格沃茨之遗》《NBA 2K27》等跟进支持**
+- **日期：** 2026-10-13
+- **来源链接：** <https://www.nvidia.com/en-us/geforce/news/dlss-5-faster-ai-model-hogwarts-legacy-rtx-spark-laptops/>
+- **核心事实：**
+  - DLSS 5「3D引导式神经渲染」模型完成一次效率升级：参数量从约1.55亿降至1.18亿，推理速度较9月版本提升约2倍，4K分辨率下显存占用降低20%
+  - 新模型10月16日起随《NBA 2K27》登陆GeForce RTX 50系列显卡、RTX Spark笔记本及GeForce NOW云平台，帧率最高提升1.4倍
+  - 《霍格沃茨之遗》11月5日、《燕云十六声》（Where Winds Meet）11月下旬将相继通过更新获得该技术，RTX Remix也将于10月23日为模组制作者开放DLSS 5支持
+  - 同时上线的测试版Frame Generation「性能模式」（Preset C）在RTX 5060上帧生成速度最高提升35%，但画质略有取舍
+- **背景与起因：**
+  - NVIDIA于2026年3月GTC上首次公布DLSS 5神经渲染技术，此后持续通过模型压缩与推理优化提升性能，是其应对AMD FSR、Intel XeSS等竞品AI图形技术、巩固GeForce生态竞争力的持续举措
+- **结果与进展：**
+  - 此次更新使DLSS 5在基本不牺牲画质的前提下进一步降低GPU开销，被视为NVIDIA为10月16日RTX Spark平台发售及更广泛AI PC游戏生态铺路的关键一步
