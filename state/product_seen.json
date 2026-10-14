@@ -13,7 +13,14 @@
   "tier": "GA",
   "first_seen": "2026-09-13",
   "release_date": "2026-09-03",
-  "summary": "NVIDIA states \"DLSS 5 is available now in the newly-released NBA 2K27\" and that DLSS 5 introduces \"3D-Guided Neural Rendering, infusing games with lifelike lighting and materials using advanced artist-guided AI models.\" It ships alongside Game Ready Driver 616.64."
+  "summary": "NVIDIA states \"DLSS 5 is available now in the newly-released NBA 2K27\" and that DLSS 5 introduces \"3D-Guided Neural Rendering, infusing games with lifelike lighting and materials using advanced artist-guided AI models.\" It ships alongside Game Ready Driver 616.64.",
+  "last_update": "2026-10-13",
+  "updates": [
+   {
+    "date": "2026-10-13",
+    "change": "October model update: 2X faster than September version, ~118M params (24% smaller), 20% less 4K VRAM, half GPU overhead, 10X faster than March 2026 debut; rolls out to NBA 2K27 and RTX Spark laptops 2026-10-16, RTX Remix 2026-10-23, Hogwarts Legacy 2026-11-05."
+   }
+  ]
  },
  "https://www.nvidia.com/en-us/geforce/news/gamescom-2026-dlss-4-5-ray-reconstruction-release-announcements-trailers/": {
   "name": "NVIDIA DLSS 4.5 Ray Reconstruction, 2nd-generation transformer model (early access)",

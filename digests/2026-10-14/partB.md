@@ -1,0 +1,40 @@
+# Part B — Research → Product
+Window: last 90 days (2026-07-16 to 2026-10-14). Products: 0 new, 1 updated.
+
+---
+## NVIDIA DLSS 5 — October model update (3D-Guided Neural Rendering, 2X faster)
+- **Company:** NVIDIA
+- **Status:** GA · **Released:** 2026-10-13 · **Update**
+- **Surface:** GeForce game-ready driver / NVIDIA App / RTX Remix — DLSS 5 Neural Rendering feature
+- **Primary source:** https://www.nvidia.com/en-us/geforce/news/dlss-5-faster-ai-model-hogwarts-legacy-rtx-spark-laptops/
+- **Underlying research:** no traceable paper
+- **Availability:** GeForce RTX 50 Series GPUs, RTX Spark laptops, and GeForce NOW; the faster NBA 2K27 model ships 2026-10-16, RTX Spark laptop availability 2026-10-16, RTX Remix support 2026-10-23, Hogwarts Legacy 2026-11-05. The related Frame Generation "Preset C" is a separate opt-in NVIDIA App beta on RTX 40/50 Series and RTX Spark.
+
+**What shipped (≤3 sentences):** Update since 2026-09-13 (NBA 2K27 DLSS 5 launch): NVIDIA shipped an "October update" to the DLSS 5 3D-Guided Neural Rendering model that it states is 2X faster than the September version, cuts the model to about 118 million parameters (a 24% reduction), and lowers 4K VRAM use by 20%, while claiming comparable visual fidelity and 10X the speed of the model NVIDIA first announced in March 2026. NVIDIA states the updated model raises frame rates in NBA 2K27 by up to 1.4X and will ship by default in future DLSS 5 titles.
+**What research it translates (≤3 sentences):** NVIDIA describes DLSS Neural Rendering as a final AI pass that infers lighting and material detail from the game engine's rendered frame (geometry, textures, lighting buffers), building on the DLSS 5 architecture first shown in March 2026. The article does not cite a specific paper or technical report for this October model revision; this remains an internal, closed architecture.
+**Practical significance (≤3 sentences):** NVIDIA states the smaller, faster model halves GPU overhead versus the prior version, which it frames as making DLSS 5 neural rendering practical on a wider range of RTX 50 Series/RTX Spark hardware without the fidelity cost typically expected from a feature this new. This is a performance/efficiency update to an already-GA feature (NBA 2K27), not a new product or platform expansion.
+**Engineering details (≤3 sentences):** Rollout is staged across titles and surfaces: NBA 2K27 and RTX Spark laptops on 2026-10-16, RTX Remix (modding platform, previewed in Fallout 4 and Mirror's Edge RTX) on 2026-10-23, and Hogwarts Legacy on 2026-11-05; a companion feature, DLSS Frame Generation "Preset C" (beta), swaps the optical-flow sub-model for a lighter algorithm and is opt-in via NVIDIA App beta settings, claimed up to 35% faster on an RTX 5060.
+**Limitation / caveats (≤3 sentences):** The article does not label the model update itself GA or beta (only Preset C is explicitly called beta), and gives no minimum hardware specs beyond listing supported GPU classes. All performance figures (2X faster, 24% fewer parameters, 20% less VRAM, 1.4X frame rate, 35% faster Preset C) are NVIDIA's own claims, not independently verified.
+
+### Announced only (not yet usable)
+(none newly found this window beyond items already in product_seen.json)
+
+Near-misses:
+- RTX Spark laptop DLSS 5 launch and "hundreds of top games" bundle — NVIDIA, announced 2026-10-13, ships 2026-10-16 (2 days after this check's window ends) — https://www.nvidia.com/en-us/geforce/news/ — not counted as it releases just outside the 7-day check window; will be in-window for the next check.
+- Epic Games — "UEFN Source assets are coming to Fab" (editable Verse/Scene Graph systems, incl. AI/NPC behaviors, sellable with 88% revenue share), forum post dated 2026-09-21 with assets going live 2026-10-15 — https://forums.unrealengine.com/t/uefn-source-assets-are-coming-to-fab-upload-yours-today — borderline on-topic (marketplace/licensing feature, not itself a 3D-gen/world-model/animation/rendering capability) and the stated ship date (10-15) is one day outside this window; flagged, not written up.
+- Alibaba Cloud Model Studio added `qwen-image-2.1-turbo` (image generation) on 2026-10-09 — not in scope (image generation, not 3D/world-model/animation/game-engine).
+
+Verification: All ten surfaces were checked via direct fetch of their index/listing pages (and, for NVIDIA, the specific article) plus targeted web search as a lead-finding supplement. The one item above was double-verified by fetching its primary-source article directly and confirming date, claimed figures, and rollout dates as stated by NVIDIA. Checked `state/product_seen.json` and confirmed this is a genuine dated update (new named model revision with quantified performance claims, 2026-10-13) to the existing GA "DLSS 5" entry, not a re-report of an unchanged item.
+
+Surfaces checked and notes:
+1. **NVIDIA Developer Blog** (developer.nvidia.com/blog) — fetched; no posts in window on the four tracked topics (closest was a robotics/SimReady-assets post, Oct 08, not game/rendering).
+2. **GeForce News** (nvidia.com/en-us/geforce/news) — fetched; found the DLSS 5 update above (Oct 13) and the RTX Spark launch announcement (Oct 13, near-miss).
+3. **Unreal Engine news** (unrealengine.com/en-US/news) — returned HTTP 403 on direct fetch; covered via **forums.unrealengine.com** announcements category instead, which was reachable. Nothing new and squarely on-topic in window beyond the Fab/UEFN near-miss; "Artist's Guide to Using MegaLights in UE 5.8" (Oct 13) is educational content on an already-shipped (5.8, first_seen 2026-09-13) feature, not a new release.
+4. **Unity news/blog** (unity.com/blog) and **unity.com/releases** — fetched both; no post dates are shown on the blog index and no October item is visible before "Games made with Unity: September 2026 in review"; releases page shows only LTS support-end dates, nothing new in window.
+5. **Roblox newsroom** (about.roblox.com/newsroom) — fetched; three October posts have no shown day and are not on the four topics (early-career hiring, Build evaluation process, platform security). **devforum.roblox.com** updates category was far more productive but every genuinely new, on-topic item dated in this window (Collision Summaries API, EditableMesh quad support, Animation Graph state machines, Auto-translate TTS) was already recorded in `product_seen.json` from the prior (Oct 9–12) run, so none is reported again here.
+6. **Adobe blog/newsroom** (blog.adobe.com, news.adobe.com) — fetched both; newest blog post is 2026-10-02 (KPop Demon Hunters / Substance 3D case study, outside this 7-day window), nothing dated 10-07 to 10-14.
+7. **Tencent Hunyuan** (hunyuan.tencent.com, cloud.tencent.com) — pages returned empty/JS-rendered content on direct fetch; web search turned up nothing newer than the 2025 Hunyuan 3D 3.0 / global-launch coverage. No October 2026 primary-source item found.
+8. **ByteDance Volcano Engine / Seed** (volcengine.com, seed.bytedance.com, bytepluses.com) — pages returned empty/JS-rendered content on direct fetch (bytepluses.com was unreachable by domain lookup); web search found only older Seed 2.1/Seedance 2.5 coverage (June–August 2026) and an unconfirmed Bloomberg report of a possible October world-model unveiling, not a primary-source release. No October 2026 primary-source item found.
+9. **Alibaba Model Studio** (help.aliyun.com, tongyi.aliyun.com) — fetched the newly-released-models table; only in-window entry is `qwen-image-2.1-turbo` (2026-10-09), an image-generation model outside the four tracked topics.
+10. **Kuaishou Kling** (klingai.com, redirects to kling.ai) — fetched; the site shows undated product marketing for Kling 4.0 / Kling Image 3.0 / Canvas with no visible changelog dates; could not confirm any October 7–14 release from the primary source.
+11. **PlayStation Blog** (blog.playstation.com) — fetched; all in-window posts (Oct 7–14) are game-release/DLC/podcast announcements with no AI, rendering, 3D-generation, or character-animation technology content.
