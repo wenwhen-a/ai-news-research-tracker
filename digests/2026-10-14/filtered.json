@@ -1,0 +1,344 @@
+{
+  "as_of": "2026-10-14",
+  "cutoff": "2026-10-07",
+  "window_days": 7,
+  "summary": {
+    "input_items": 10,
+    "denied_source": 0,
+    "in_window": 10,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 10,
+    "duplicate_clusters": 0,
+    "section1_count": 4,
+    "section2_count": 6,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 9,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "库洛游戏投资AI公司言之域科技，押注“会呼吸”的游戏角色技术",
+        "url": "https://www.youxituoluo.com/534962.html",
+        "date": "2026-10-14",
+        "summary": "《鸣潮》《战双帕弥什》开发商库洛科技以15%股权投资深圳AI初创公司言之域科技，创始人刘胜同时加入对方董事会；言之域专注多模态语音克隆与3D角色驱动技术，这是库洛被腾讯控股后首次公开的AI领域对外投资。",
+        "section": 1,
+        "facts": [
+          "据企查查工商变更记录，广州库洛科技有限公司新增为言之域科技（深圳）有限公司股东，持股15%，库洛创始人刘胜同时加入言之域科技董事会",
+          "言之域科技团队不足10人、核心成员3-4人，创始人谢维多（2002年生）于2024年6月从法国一所高校回国创业",
+          "言之域旗下产品包括语音克隆平台“Vocu悟声”（号称仅需3秒样本即可克隆声音，相似度超99.5%，并登顶HuggingFace TTS Arena榜单）和3D角色驱动系统“元语TalkiVerse”（可端到端生成语音、肢体动作与面部表情），后者前身是2022年的虚拟主播“木几萌”",
+          "报道称本轮为言之域科技的天使轮融资，投后估值约2亿元人民币，库洛为本轮唯一新增股东"
+        ],
+        "background": [
+          "伽马数据《2026中国游戏产业AI发展报告》显示，2026年上半年中国TOP50游戏公司对外AI相关投资达108笔，已超过2025年全年的89笔，游戏行业投融资中AI相关项目占比超过70%",
+          "库洛游戏目前由腾讯控股（持股51.4%），此前对外披露的投资动作较少，此次是其首次公开披露的AI领域投资"
+        ],
+        "results": [
+          "库洛借此押注AI驱动的拟真语音与角色表演技术，意在为旗下二次元游戏未来的“拟人化”NPC与角色交互体验打基础，但相关技术尚未应用于具体上线产品"
+        ]
+      },
+      "members": [
+        {
+          "title": "库洛游戏投资AI公司言之域科技，押注“会呼吸”的游戏角色技术",
+          "url": "https://www.youxituoluo.com/534962.html",
+          "date": "2026-10-14",
+          "summary": "《鸣潮》《战双帕弥什》开发商库洛科技以15%股权投资深圳AI初创公司言之域科技，创始人刘胜同时加入对方董事会；言之域专注多模态语音克隆与3D角色驱动技术，这是库洛被腾讯控股后首次公开的AI领域对外投资。",
+          "section": 1,
+          "facts": [
+            "据企查查工商变更记录，广州库洛科技有限公司新增为言之域科技（深圳）有限公司股东，持股15%，库洛创始人刘胜同时加入言之域科技董事会",
+            "言之域科技团队不足10人、核心成员3-4人，创始人谢维多（2002年生）于2024年6月从法国一所高校回国创业",
+            "言之域旗下产品包括语音克隆平台“Vocu悟声”（号称仅需3秒样本即可克隆声音，相似度超99.5%，并登顶HuggingFace TTS Arena榜单）和3D角色驱动系统“元语TalkiVerse”（可端到端生成语音、肢体动作与面部表情），后者前身是2022年的虚拟主播“木几萌”",
+            "报道称本轮为言之域科技的天使轮融资，投后估值约2亿元人民币，库洛为本轮唯一新增股东"
+          ],
+          "background": [
+            "伽马数据《2026中国游戏产业AI发展报告》显示，2026年上半年中国TOP50游戏公司对外AI相关投资达108笔，已超过2025年全年的89笔，游戏行业投融资中AI相关项目占比超过70%",
+            "库洛游戏目前由腾讯控股（持股51.4%），此前对外披露的投资动作较少，此次是其首次公开披露的AI领域投资"
+          ],
+          "results": [
+            "库洛借此押注AI驱动的拟真语音与角色表演技术，意在为旗下二次元游戏未来的“拟人化”NPC与角色交互体验打基础，但相关技术尚未应用于具体上线产品"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《幕府将军2:完整版》疑似未披露AI图像放大引发Steam差评潮",
+        "url": "https://kotaku.com/total-war-shogun-2-complete-edition-gen-ai-art-sega-creative-assembly-2000745877",
+        "date": "2026-10-14",
+        "summary": "SEGA与Creative Assembly于2026年10月13日发行《幕府将军2:完整版》,上线24小时内Steam好评率约18%,跌入『差评如潮』区间。媒体Kotaku对比新旧版本插画后发现多处疑似AI放大痕迹(细节丢失、徽标变形等),而Steam页面未按Valve规定标注AI内容使用情况,Creative Assembly未回应相关询问。",
+        "section": 1,
+        "facts": [
+          "SEGA与Creative Assembly于2026年10月13日发行《幕府将军2:完整版》(Total War: Shogun 2 – Complete Edition),上线24小时内Steam评价约82%为负面,跌入『差评如潮』区间",
+          "玩家反馈集中在性能低下、镜头运动卡顿、新旧Bug、模组支持被破坏、画面模糊过时,以及游戏内百科全书插画疑似被未经披露的AI算法放大处理",
+          "媒体Kotaku对比新旧版本插画发现多处AI放大痕迹:船只甲板木栏与背景融合、弓弦细节丢失、枪口烟雾渲染异常、部队旗帜徽记变得无法辨认、士兵疑似被『嵌入』木板缝隙、将领头盔与面部融合等",
+          "SEGA同时将原版游戏从Steam下架并上调新版本售价,进一步激怒玩家;游戏安装体积从约3.85GB暴增至45GB",
+          "Steam商店页面未按Valve政策标注AI内容使用情况,Kotaku联系Creative Assembly询问是否使用AI,截至报道发布未获回应"
+        ],
+        "background": [
+          "原版《幕府将军2》于2011年发行,长期被视为『全面战争』系列的代表作之一,此前口碑一直很高",
+          "Valve自2026年初修订Steam的AI披露政策后,要求开发者对玩家可见的AI生成内容进行标注,但执行与监督力度一直受到外界质疑"
+        ],
+        "results": [
+          "争议导致游戏评价迅速转差,引发社区对『未声明AI美术资产』问题的广泛讨论",
+          "舆论聚焦于部分发行商疑似使用AI工具处理高清重制美术却未作说明的现象;截至报道发布,事件尚未获得官方正式回应或整改"
+        ]
+      },
+      "members": [
+        {
+          "title": "《幕府将军2:完整版》疑似未披露AI图像放大引发Steam差评潮",
+          "url": "https://kotaku.com/total-war-shogun-2-complete-edition-gen-ai-art-sega-creative-assembly-2000745877",
+          "date": "2026-10-14",
+          "summary": "SEGA与Creative Assembly于2026年10月13日发行《幕府将军2:完整版》,上线24小时内Steam好评率约18%,跌入『差评如潮』区间。媒体Kotaku对比新旧版本插画后发现多处疑似AI放大痕迹(细节丢失、徽标变形等),而Steam页面未按Valve规定标注AI内容使用情况,Creative Assembly未回应相关询问。",
+          "section": 1,
+          "facts": [
+            "SEGA与Creative Assembly于2026年10月13日发行《幕府将军2:完整版》(Total War: Shogun 2 – Complete Edition),上线24小时内Steam评价约82%为负面,跌入『差评如潮』区间",
+            "玩家反馈集中在性能低下、镜头运动卡顿、新旧Bug、模组支持被破坏、画面模糊过时,以及游戏内百科全书插画疑似被未经披露的AI算法放大处理",
+            "媒体Kotaku对比新旧版本插画发现多处AI放大痕迹:船只甲板木栏与背景融合、弓弦细节丢失、枪口烟雾渲染异常、部队旗帜徽记变得无法辨认、士兵疑似被『嵌入』木板缝隙、将领头盔与面部融合等",
+            "SEGA同时将原版游戏从Steam下架并上调新版本售价,进一步激怒玩家;游戏安装体积从约3.85GB暴增至45GB",
+            "Steam商店页面未按Valve政策标注AI内容使用情况,Kotaku联系Creative Assembly询问是否使用AI,截至报道发布未获回应"
+          ],
+          "background": [
+            "原版《幕府将军2》于2011年发行,长期被视为『全面战争』系列的代表作之一,此前口碑一直很高",
+            "Valve自2026年初修订Steam的AI披露政策后,要求开发者对玩家可见的AI生成内容进行标注,但执行与监督力度一直受到外界质疑"
+          ],
+          "results": [
+            "争议导致游戏评价迅速转差,引发社区对『未声明AI美术资产』问题的广泛讨论",
+            "舆论聚焦于部分发行商疑似使用AI工具处理高清重制美术却未作说明的现象;截至报道发布,事件尚未获得官方正式回应或整改"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Xbox CEO Asha Sharma组建『Xbox Labs』应对AI驱动的游戏模组与移植热潮",
+        "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/",
+        "date": "2026-10-13",
+        "summary": "Xbox CEO Asha Sharma于2026年10月13日通过内部员工信宣布成立新部门『Xbox Labs』,由Xbox CTO Scott Van Vliet领导,以应对借助生成式AI(主要是Anthropic Claude Opus 5.5模型)对游戏进行反编译、重建与跨平台移植的热潮。她援引玩家每年在Xbox游戏上花费超过720亿小时的数据,论证游戏与AI编程工作负载的相似性,并表示该部门将『公开构建』,工具将向全行业开发者开放。",
+        "section": 1,
+        "facts": [
+          "Xbox CEO Asha Sharma于2026年10月13日(周二内部员工信)宣布成立新部门『Xbox Labs』,由Xbox CTO Scott Van Vliet领导",
+          "Sharma称成立该部门是为应对近期AI驱动的游戏模组与移植热潮,相关创作主要依靠Anthropic的Claude Opus 5.5模型完成游戏反编译、重建与跨平台移植",
+          "她列举的案例包括:《艾尔登法环》中出现马里奥式平台跳跃模组、《使命召唤》被移植到网页浏览器运行、Windows PC版游戏被转换至Apple Silicon运行,以及借助WebAssembly和WebGPU(目前全球浏览器支持率近90%)直接在浏览器中运行游戏",
+          "Sharma表示Xbox Labs将『公开构建』(build in the open),成功与否以『是否有更多人在玩和创造』来衡量,相关工具会向全行业开发者开放",
+          "她援引数据称玩家每年在Xbox游戏上花费超过720亿小时,约为全球写代码时间估计值的5倍,以此论证游戏与AI编程工作负载的相似性"
+        ],
+        "background": [
+          "此前Xbox已经历多轮重组与裁员(包括工作室出售、岗位削减),新任CEO上任后持续调整公司方向与品牌定位",
+          "AI辅助反编译/重建游戏的风潮近期因Claude等代码类AI模型能力提升而兴起,包括任天堂等第一方游戏也出现了未经官方授权的AI辅助PC移植版本"
+        ],
+        "results": [
+          "多家媒体(包括Kotaku)对声明提出质疑,指出Sharma的内部信全文未直接出现『AI』一词,被认为是对AI敏感话题的刻意淡化处理",
+          "Xbox Labs尚未公布具体产品、工具或上线时间表"
+        ]
+      },
+      "members": [
+        {
+          "title": "Xbox CEO Asha Sharma组建『Xbox Labs』应对AI驱动的游戏模组与移植热潮",
+          "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/",
+          "date": "2026-10-13",
+          "summary": "Xbox CEO Asha Sharma于2026年10月13日通过内部员工信宣布成立新部门『Xbox Labs』,由Xbox CTO Scott Van Vliet领导,以应对借助生成式AI(主要是Anthropic Claude Opus 5.5模型)对游戏进行反编译、重建与跨平台移植的热潮。她援引玩家每年在Xbox游戏上花费超过720亿小时的数据,论证游戏与AI编程工作负载的相似性,并表示该部门将『公开构建』,工具将向全行业开发者开放。",
+          "section": 1,
+          "facts": [
+            "Xbox CEO Asha Sharma于2026年10月13日(周二内部员工信)宣布成立新部门『Xbox Labs』,由Xbox CTO Scott Van Vliet领导",
+            "Sharma称成立该部门是为应对近期AI驱动的游戏模组与移植热潮,相关创作主要依靠Anthropic的Claude Opus 5.5模型完成游戏反编译、重建与跨平台移植",
+            "她列举的案例包括:《艾尔登法环》中出现马里奥式平台跳跃模组、《使命召唤》被移植到网页浏览器运行、Windows PC版游戏被转换至Apple Silicon运行,以及借助WebAssembly和WebGPU(目前全球浏览器支持率近90%)直接在浏览器中运行游戏",
+            "Sharma表示Xbox Labs将『公开构建』(build in the open),成功与否以『是否有更多人在玩和创造』来衡量,相关工具会向全行业开发者开放",
+            "她援引数据称玩家每年在Xbox游戏上花费超过720亿小时,约为全球写代码时间估计值的5倍,以此论证游戏与AI编程工作负载的相似性"
+          ],
+          "background": [
+            "此前Xbox已经历多轮重组与裁员(包括工作室出售、岗位削减),新任CEO上任后持续调整公司方向与品牌定位",
+            "AI辅助反编译/重建游戏的风潮近期因Claude等代码类AI模型能力提升而兴起,包括任天堂等第一方游戏也出现了未经官方授权的AI辅助PC移植版本"
+          ],
+          "results": [
+            "多家媒体(包括Kotaku)对声明提出质疑,指出Sharma的内部信全文未直接出现『AI』一词,被认为是对AI敏感话题的刻意淡化处理",
+            "Xbox Labs尚未公布具体产品、工具或上线时间表"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "开发者用AI智能体耗时3个月重建《使命召唤：现代战争2》源代码，83%逐字节匹配原版",
+        "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+        "date": "2026-10-09",
+        "summary": "独立开发者Maurice Heumann带领社区团队，用Claude Code、Codex等AI编程智能体将2009年发行的射击游戏反编译并重建为可编译运行的C++源代码，历时约3个月、消耗逾5000亿token，最终99%的函数被还原、其中83%与原始编译结果逐字节匹配。",
+        "section": 1,
+        "facts": [
+          "项目使用Claude Max（20倍速率）与Codex Pro订阅，通过Claude Code CLI与Codex CLI运行智能体，主力模型为Sonnet 5，另搭配Opus 5.5、Luna、Sol、Terra等模型，反编译阶段使用Hex-Rays的ida-mcp工具",
+          "团队用GitHub Issue追踪每个编译单元的任务、以Discord协作，并搭建了用原始编译器重新编译并与原始EXE/PDB逐字节比对的校验系统，为智能体提供客观的通过/失败反馈，同时禁止内联汇编、裸函数等“作弊”手段",
+          "项目第一个月仅投入4个智能体、完成约80%反编译（游戏可启动但逻辑存在语义错误），此后近两个月高峰期并行投入超过15个智能体（多为Luna模型）",
+          "作者估算整体消耗500-700亿token（标题称“超5000亿”），其中约3000亿为Luna模型token"
+        ],
+        "background": [
+          "该项目是近期一系列由AI智能体驱动的游戏反编译/移植社区实验之一，这类实验（包括将经典游戏移植到新硬件和浏览器）直接促成了微软于10月13日宣布成立“Xbox Labs”部门",
+          "作者在博客中强调“正确性远比生产效率重要”“现在生成代码很便宜，不好就扔掉重来”的工作方法论"
+        ],
+        "results": [
+          "最终重建代码中99%的函数被纳入、83%与原版逐字节匹配，游戏可完整运行且未发现明显bug；但作者表示不会公开发布代码，仅供个人研究使用，相关成果经IT之家等媒体转载报道"
+        ]
+      },
+      "members": [
+        {
+          "title": "开发者用AI智能体耗时3个月重建《使命召唤：现代战争2》源代码，83%逐字节匹配原版",
+          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+          "date": "2026-10-09",
+          "summary": "独立开发者Maurice Heumann带领社区团队，用Claude Code、Codex等AI编程智能体将2009年发行的射击游戏反编译并重建为可编译运行的C++源代码，历时约3个月、消耗逾5000亿token，最终99%的函数被还原、其中83%与原始编译结果逐字节匹配。",
+          "section": 1,
+          "facts": [
+            "项目使用Claude Max（20倍速率）与Codex Pro订阅，通过Claude Code CLI与Codex CLI运行智能体，主力模型为Sonnet 5，另搭配Opus 5.5、Luna、Sol、Terra等模型，反编译阶段使用Hex-Rays的ida-mcp工具",
+            "团队用GitHub Issue追踪每个编译单元的任务、以Discord协作，并搭建了用原始编译器重新编译并与原始EXE/PDB逐字节比对的校验系统，为智能体提供客观的通过/失败反馈，同时禁止内联汇编、裸函数等“作弊”手段",
+            "项目第一个月仅投入4个智能体、完成约80%反编译（游戏可启动但逻辑存在语义错误），此后近两个月高峰期并行投入超过15个智能体（多为Luna模型）",
+            "作者估算整体消耗500-700亿token（标题称“超5000亿”），其中约3000亿为Luna模型token"
+          ],
+          "background": [
+            "该项目是近期一系列由AI智能体驱动的游戏反编译/移植社区实验之一，这类实验（包括将经典游戏移植到新硬件和浏览器）直接促成了微软于10月13日宣布成立“Xbox Labs”部门",
+            "作者在博客中强调“正确性远比生产效率重要”“现在生成代码很便宜，不好就扔掉重来”的工作方法论"
+          ],
+          "results": [
+            "最终重建代码中99%的函数被纳入、83%与原版逐字节匹配，游戏可完整运行且未发现明显bug；但作者表示不会公开发布代码，仅供个人研究使用，相关成果经IT之家等媒体转载报道"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "网页游戏平台Playgama推出AI代理工具,支持AI智能体自动发布和迭代游戏",
+        "url": "https://www.pocketgamer.biz/playgama-launches-tools-for-ai-agents-to-publish-and-improve-games/",
+        "date": "2026-10-14",
+        "summary": "网页游戏公司Playgama于2026年10月14日推出一套新工具,包括Playgama MCP、Sandbox发现平台和升级版Bridge SDK,使Claude Code、Codex等AI编程代理可直接发布游戏并获取真实玩家数据以持续改进作品。创始人Dmitry Kachmar表示,下一步重点是帮助AI代理利用玩家数据做出更好的迭代决策。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "网页游戏平台Playgama推出AI代理工具,支持AI智能体自动发布和迭代游戏",
+          "url": "https://www.pocketgamer.biz/playgama-launches-tools-for-ai-agents-to-publish-and-improve-games/",
+          "date": "2026-10-14",
+          "summary": "网页游戏公司Playgama于2026年10月14日推出一套新工具,包括Playgama MCP、Sandbox发现平台和升级版Bridge SDK,使Claude Code、Codex等AI编程代理可直接发布游戏并获取真实玩家数据以持续改进作品。创始人Dmitry Kachmar表示,下一步重点是帮助AI代理利用玩家数据做出更好的迭代决策。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Google Play推出AI驱动的游戏推荐工具Game Finder,基于『玩家DNA』个性化推荐",
+        "url": "https://www.pocketgamer.biz/google-play-launches-discoverability-tool-game-finder-using-gamer-dna/",
+        "date": "2026-10-13",
+        "summary": "谷歌于2026年10月13日为Google Play上线新发现工具Game Finder,利用其所称的『最新Google AI技术』分析玩家的游玩习惯与偏好(即『玩家DNA』),据此推荐匹配类型的游戏、按好友游玩记录推荐游戏,并支持按内购倾向等条件过滤。该功能目前仅以英文在美国上线。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "Google Play推出AI驱动的游戏推荐工具Game Finder,基于『玩家DNA』个性化推荐",
+          "url": "https://www.pocketgamer.biz/google-play-launches-discoverability-tool-game-finder-using-gamer-dna/",
+          "date": "2026-10-13",
+          "summary": "谷歌于2026年10月13日为Google Play上线新发现工具Game Finder,利用其所称的『最新Google AI技术』分析玩家的游玩习惯与偏好(即『玩家DNA』),据此推荐匹配类型的游戏、按好友游玩记录推荐游戏,并支持按内购倾向等条件过滤。该功能目前仅以英文在美国上线。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "字节跳动Seedance模型撑起AI互动影像游戏《幸存者笔记》，6人团队4个月做出赛道标杆",
+        "url": "https://www.youxituoluo.com/534950.html",
+        "date": "2026-10-13",
+        "summary": "僵尸题材AI互动影像游戏《幸存者笔记》登陆Steam，画面主要由字节跳动Seedance系列模型生成的AI虚拟实拍素材构成；整部作品仅由导演编剧“西溟”加5名AI视频制作人员组成的6人团队耗时约4个月完成，目前Steam好评率88%，被业内视为继“AI漫剧”之后的新兴内容品类。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "字节跳动Seedance模型撑起AI互动影像游戏《幸存者笔记》，6人团队4个月做出赛道标杆",
+          "url": "https://www.youxituoluo.com/534950.html",
+          "date": "2026-10-13",
+          "summary": "僵尸题材AI互动影像游戏《幸存者笔记》登陆Steam，画面主要由字节跳动Seedance系列模型生成的AI虚拟实拍素材构成；整部作品仅由导演编剧“西溟”加5名AI视频制作人员组成的6人团队耗时约4个月完成，目前Steam好评率88%，被业内视为继“AI漫剧”之后的新兴内容品类。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "AI 3D资产生成平台Thrixel获300万美元种子轮融资，目标服务游戏开发AI智能体",
+        "url": "https://dealroom.co/news/160982-thrixel-raises-3m-to-build-3d-assets-ai-agents-can-actually-use",
+        "date": "2026-10-08",
+        "summary": "芝加哥AI初创公司Thrixel完成300万美元种子轮融资，由Sierra Ventures领投，MFV Partners、Harper Court Ventures、Z5 Capital等跟投。其平台生成的3D资产按部件拆分并带有逻辑层级，便于AI智能体在Roblox、Unity、Unreal引擎中识别、组装与制作动画，并推出配套的智能体工作流Build World。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "AI 3D资产生成平台Thrixel获300万美元种子轮融资，目标服务游戏开发AI智能体",
+          "url": "https://dealroom.co/news/160982-thrixel-raises-3m-to-build-3d-assets-ai-agents-can-actually-use",
+          "date": "2026-10-08",
+          "summary": "芝加哥AI初创公司Thrixel完成300万美元种子轮融资，由Sierra Ventures领投，MFV Partners、Harper Court Ventures、Z5 Capital等跟投。其平台生成的3D资产按部件拆分并带有逻辑层级，便于AI智能体在Roblox、Unity、Unreal引擎中识别、组装与制作动画，并推出配套的智能体工作流Build World。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "爆款多人小游戏遭AI换皮山寨围猎，Steam同类克隆产品泛滥",
+        "url": "https://www.youxituoluo.com/534959.html",
+        "date": "2026-10-14",
+        "summary": "社交平台爆红的多人游戏《Needle in a Haystack Simulator》预告片发布一个月内，Steam上涌现十余款高度相似的山寨作品，报道指出开发者借助AI工具快速量产克隆游戏，图标与封面带有明显AI生成痕迹，反映出生成式AI正在加剧多人小游戏品类的同质化竞争与玩家审美疲劳。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "爆款多人小游戏遭AI换皮山寨围猎，Steam同类克隆产品泛滥",
+          "url": "https://www.youxituoluo.com/534959.html",
+          "date": "2026-10-14",
+          "summary": "社交平台爆红的多人游戏《Needle in a Haystack Simulator》预告片发布一个月内，Steam上涌现十余款高度相似的山寨作品，报道指出开发者借助AI工具快速量产克隆游戏，图标与封面带有明显AI生成痕迹，反映出生成式AI正在加剧多人小游戏品类的同质化竞争与玩家审美疲劳。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "彭博社报告：云游戏与AI或将终结传统主机，腾讯、微软、索尼等被点名",
+        "url": "https://www.ithome.com/1/012/783.htm",
+        "date": "2026-10-14",
+        "summary": "一份彭博社相关行业分析报告预测，随着AI推动游戏对算力需求持续攀升，云端运行并流式传输游戏将比每隔数年发布更强硬件主机更高效，全球云游戏市场规模预计到2035年将达380亿美元；报告认为腾讯凭借中国领先的云游戏技术、微软凭借云基础设施投入将从中受益，传统主机则可能沦为小众爱好者产品。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "彭博社报告：云游戏与AI或将终结传统主机，腾讯、微软、索尼等被点名",
+          "url": "https://www.ithome.com/1/012/783.htm",
+          "date": "2026-10-14",
+          "summary": "一份彭博社相关行业分析报告预测，随着AI推动游戏对算力需求持续攀升，云端运行并流式传输游戏将比每隔数年发布更强硬件主机更高效，全球云游戏市场规模预计到2035年将达380亿美元；报告认为腾讯凭借中国领先的云游戏技术、微软凭借云基础设施投入将从中受益，传统主机则可能沦为小众爱好者产品。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

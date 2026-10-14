@@ -1,0 +1,272 @@
+{
+  "as_of": "2026-10-14",
+  "cutoff": "2026-10-13",
+  "window_days": 1,
+  "summary": {
+    "input_items": 12,
+    "denied_source": 0,
+    "in_window": 12,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 12,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 12,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 12,
+    "previously_covered_count": 0
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "索尼推出《GT赛车》主题限量版PS5 DualSense手柄",
+        "url": "https://www.videogameschronicle.com/news/gran-turismo-is-getting-a-new-limited-edition-ps5-dualsense-controller/",
+        "date": "2026-10-14",
+        "summary": "索尼公布了以《GT赛车》为主题的限量版DualSense手柄,采用赛车条纹和碳纤维风格前壳,售价84.99美元,10月22日开启预购,12月10日发售。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "索尼推出《GT赛车》主题限量版PS5 DualSense手柄",
+          "url": "https://www.videogameschronicle.com/news/gran-turismo-is-getting-a-new-limited-edition-ps5-dualsense-controller/",
+          "date": "2026-10-14",
+          "summary": "索尼公布了以《GT赛车》为主题的限量版DualSense手柄,采用赛车条纹和碳纤维风格前壳,售价84.99美元,10月22日开启预购,12月10日发售。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "爆款合作游戏《Peak》疑似将登陆PS5",
+        "url": "https://www.videogameschronicle.com/news/viral-co-op-hit-peak-is-seemingly-coming-to-ps5/",
+        "date": "2026-10-14",
+        "summary": "据北美ESRB分级信息显示,Aggro Crab与Landfall开发的爬山题材爆款合作游戏《Peak》可能将登陆PS5平台,官方尚未正式公布,该作自今年6月登陆Steam以来已售出超1000万份。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "爆款合作游戏《Peak》疑似将登陆PS5",
+          "url": "https://www.videogameschronicle.com/news/viral-co-op-hit-peak-is-seemingly-coming-to-ps5/",
+          "date": "2026-10-14",
+          "summary": "据北美ESRB分级信息显示,Aggro Crab与Landfall开发的爬山题材爆款合作游戏《Peak》可能将登陆PS5平台,官方尚未正式公布,该作自今年6月登陆Steam以来已售出超1000万份。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Rockstar称GTA6之后的新作不会再花八年开发",
+        "url": "https://www.videogameschronicle.com/news/rockstar-says-its-next-game-after-grand-theft-auto-6-wont-take-another-eight-years-to-make/",
+        "date": "2026-10-14",
+        "summary": "Rockstar工作室负责人Phil Hooker与Aaron Garbut在接受彭博社采访时表示,由于GTA6开发的引擎、工具和团队可以复用,公司下一款新作的开发周期将大幅缩短。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Rockstar称GTA6之后的新作不会再花八年开发",
+          "url": "https://www.videogameschronicle.com/news/rockstar-says-its-next-game-after-grand-theft-auto-6-wont-take-another-eight-years-to-make/",
+          "date": "2026-10-14",
+          "summary": "Rockstar工作室负责人Phil Hooker与Aaron Garbut在接受彭博社采访时表示,由于GTA6开发的引擎、工具和团队可以复用,公司下一款新作的开发周期将大幅缩短。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《战神:劳孚伊》149.99美元收藏礭盒公布,不含游戏本体",
+        "url": "https://www.videogameschronicle.com/news/god-of-war-laufeys-150-collector-box-has-been-revealed-doesnt-include-a-copy-of-the-game/",
+        "date": "2026-10-14",
+        "summary": "索尼公布《战神:劳孚伊》售价149.99美元的收藏礭盒,内含发光Faye雕像、51张塔罗牌组及迷你画集,但不包含游戏本体,需单独购买,游戏将于2027年2月16日发售。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《战神:劳孚伊》149.99美元收藏礭盒公布,不含游戏本体",
+          "url": "https://www.videogameschronicle.com/news/god-of-war-laufeys-150-collector-box-has-been-revealed-doesnt-include-a-copy-of-the-game/",
+          "date": "2026-10-14",
+          "summary": "索尼公布《战神:劳孚伊》售价149.99美元的收藏礭盒,内含发光Faye雕像、51张塔罗牌组及迷你画集,但不包含游戏本体,需单独购买,游戏将于2027年2月16日发售。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "育碧计划关闭《极限竞速》工作室RedLynx并裁减新加坡70个岗位",
+        "url": "https://www.videogameschronicle.com/news/ubisoft-is-planning-to-shut-down-trials-studio-redlynx-and-lay-off-70-ubisoft-singapore-staff/",
+        "date": "2026-10-14",
+        "summary": "育碧计划关闭旗下芬兰工作室RedLynx(《极限竞速》系列开发商),理由是该studio目前没有在研项目且规模调整难以维持运营,影响约52名员工;同时育碧新加坡工作室也将进行重组,预计裁减70个岗位。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "育碧计划关闭《极限竞速》工作室RedLynx并裁减新加坡70个岗位",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-is-planning-to-shut-down-trials-studio-redlynx-and-lay-off-70-ubisoft-singapore-staff/",
+          "date": "2026-10-14",
+          "summary": "育碧计划关闭旗下芬兰工作室RedLynx(《极限竞速》系列开发商),理由是该studio目前没有在研项目且规模调整难以维持运营,影响约52名员工;同时育碧新加坡工作室也将进行重组,预计裁减70个岗位。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "任天堂Switch Online新增三款GBA游戏,含《合金弹头 Advance》",
+        "url": "https://www.videogameschronicle.com/news/three-more-gba-games-come-to-switch-online-including-metal-slug-advance-and-a-previously-japan-only-title/",
+        "date": "2026-10-14",
+        "summary": "任天堂为Switch Online的GBA游戏库新增《合金弹头 Advance》《怪物农场 Advance》及此前仅限日本发行的《酷乐克鲁林 天堂》,后者首次正式登陆西方市场,使该服务西方版GBA游戏总数达到32款。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "任天堂Switch Online新增三款GBA游戏,含《合金弹头 Advance》",
+          "url": "https://www.videogameschronicle.com/news/three-more-gba-games-come-to-switch-online-including-metal-slug-advance-and-a-previously-japan-only-title/",
+          "date": "2026-10-14",
+          "summary": "任天堂为Switch Online的GBA游戏库新增《合金弹头 Advance》《怪物农场 Advance》及此前仅限日本发行的《酷乐克鲁林 天堂》,后者首次正式登陆西方市场,使该服务西方版GBA游戏总数达到32款。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Miniclip旗下移动广告平台AdSurge独立运营",
+        "url": "https://www.pocketgamer.biz/exclusive-miniclips-mobile-advertising-platform-adsurge-launches-as-standalone-company/",
+        "date": "2026-10-14",
+        "summary": "Miniclip推出面向外部游戏开发者的AI驱动广告工具AdSurge,整合用户获取与广告变现功能,初期面向以内购广告为主要收入来源的游戏,目前已作为独立公司运营,与Miniclip的数据相互隔离。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Miniclip旗下移动广告平台AdSurge独立运营",
+          "url": "https://www.pocketgamer.biz/exclusive-miniclips-mobile-advertising-platform-adsurge-launches-as-standalone-company/",
+          "date": "2026-10-14",
+          "summary": "Miniclip推出面向外部游戏开发者的AI驱动广告工具AdSurge,整合用户获取与广告变现功能,初期面向以内购广告为主要收入来源的游戏,目前已作为独立公司运营,与Miniclip的数据相互隔离。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "游戏内广告平台Anzu将广告形式拓展至游戏之外",
+        "url": "https://www.pocketgamer.biz/anzu-expands-ad-formats-beyond-games/",
+        "date": "2026-10-14",
+        "summary": "游戏内广告平台Anzu宣布将广告形式和库存拓展到游戏场景之外,以便广告主在玩家不玩游戏时也能触达他们,应用和手游发行商可通过SDK或无SDK方式接入。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "游戏内广告平台Anzu将广告形式拓展至游戏之外",
+          "url": "https://www.pocketgamer.biz/anzu-expands-ad-formats-beyond-games/",
+          "date": "2026-10-14",
+          "summary": "游戏内广告平台Anzu宣布将广告形式和库存拓展到游戏场景之外,以便广告主在玩家不玩游戏时也能触达他们,应用和手游发行商可通过SDK或无SDK方式接入。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Drake Star报告:2026年第三季度游戏业并购达24亿美元",
+        "url": "https://www.pocketgamer.biz/gaming-manda-reached-24bn-across-45-deals-in-q3-2026/",
+        "date": "2026-10-14",
+        "summary": "据Drake Star Partners最新《全球游戏报告》,2026年第三季度游戏行业并购交易额达24亿美元,涉及45笔交易,私募融资规模超16亿美元、涉及106轮;最大单笔交易为阿里巴巴将灵犀互娱出售给太盟投资集团(Trustar Capital),交易额超15亿美元,AI与工具类项目占私募融资总额逾八成。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Drake Star报告:2026年第三季度游戏业并购达24亿美元",
+          "url": "https://www.pocketgamer.biz/gaming-manda-reached-24bn-across-45-deals-in-q3-2026/",
+          "date": "2026-10-14",
+          "summary": "据Drake Star Partners最新《全球游戏报告》,2026年第三季度游戏行业并购交易额达24亿美元,涉及45笔交易,私募融资规模超16亿美元、涉及106轮;最大单笔交易为阿里巴巴将灵犀互娱出售给太盟投资集团(Trustar Capital),交易额超15亿美元,AI与工具类项目占私募融资总额逾八成。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "阿尔及利亚解除Roblox禁令并签署本地开发者培训合作",
+        "url": "https://www.pocketgamer.biz/algeria-lifts-ban-on-roblox-as-it-pens-new-partnership-to-train-local-game-developers/",
+        "date": "2026-10-14",
+        "summary": "阿尔及利亚与Roblox初步达成合作协议,将开展培训项目帮助本地开发者制作游戏并进入全球市场;该平台此前因2025年9月的禁令被下架,如今恢复后聊天功能仍将保持关闭,直至Roblox完善阿拉伯语内容监控等监管要求。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "阿尔及利亚解除Roblox禁令并签署本地开发者培训合作",
+          "url": "https://www.pocketgamer.biz/algeria-lifts-ban-on-roblox-as-it-pens-new-partnership-to-train-local-game-developers/",
+          "date": "2026-10-14",
+          "summary": "阿尔及利亚与Roblox初步达成合作协议,将开展培训项目帮助本地开发者制作游戏并进入全球市场;该平台此前因2025年9月的禁令被下架,如今恢复后聊天功能仍将保持关闭,直至Roblox完善阿拉伯语内容监控等监管要求。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Zynga联合Blue Cross慈善机构推出《FarmVille 2》公益活动",
+        "url": "https://www.pocketgamer.biz/zynga-launches-farmville-2-charity-event-with-blue-cross/",
+        "date": "2026-10-14",
+        "summary": "Zynga与英国动物慈善机构Blue Cross合作,在《FarmVille 2: Country Escape》中推出为期从10月14日至11月10日的公益活动,玩家共同达成目标进度后Zynga将向该机构的动物福利工作捐款。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Zynga联合Blue Cross慈善机构推出《FarmVille 2》公益活动",
+          "url": "https://www.pocketgamer.biz/zynga-launches-farmville-2-charity-event-with-blue-cross/",
+          "date": "2026-10-14",
+          "summary": "Zynga与英国动物慈善机构Blue Cross合作,在《FarmVille 2: Country Escape》中推出为期从10月14日至11月10日的公益活动,玩家共同达成目标进度后Zynga将向该机构的动物福利工作捐款。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Supercell确认《弹弹来战》将于12月14日关服",
+        "url": "https://mobilegamer.biz/supercell-confirms-squad-busters-will-shut-down-on-december-14/",
+        "date": "2026-10-14",
+        "summary": "Supercell确认旗下游戏《Squad Busters》将于2026年12月1日从App Store和Google Play下架,12月14日所有活动和计时器结束后彻底停止运营,官方表示多次调整后仍未找到清晰的发展方向,并排除了离线模式、私服及开源代码等方案。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Supercell确认《弹弹来战》将于12月14日关服",
+          "url": "https://mobilegamer.biz/supercell-confirms-squad-busters-will-shut-down-on-december-14/",
+          "date": "2026-10-14",
+          "summary": "Supercell确认旗下游戏《Squad Busters》将于2026年12月1日从App Store和Google Play下架,12月14日所有活动和计时器结束后彻底停止运营,官方表示多次调整后仍未找到清晰的发展方向,并排除了离线模式、私服及开源代码等方案。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
