@@ -1,0 +1,15 @@
+**[新闻 1] Xbox CEO Asha Sharma组建『Xbox Labs』应对AI驱动的游戏模组与移植热潮**
+- **日期：** 2026-10-13
+- **来源链接：** <https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/>
+- **核心事实：**
+  - Xbox CEO Asha Sharma于2026年10月13日（周二内部员工信）宣布成立新部门『Xbox Labs』，由Xbox CTO Scott Van Vliet领导
+  - Sharma称成立该部门是为应对近期AI驱动的游戏模组与移植热潮，相关创作主要依靠Anthropic的Claude Opus 5.5模型完成游戏反编译、重建与跨平台移植
+  - 她列举的案例包括：《艾尔登法环》中出现马里奥式平台跳跃模组、《使命召唤》被移植到网页浏览器运行、Windows PC版游戏被转换至Apple Silicon运行，以及借助WebAssembly和WebGPU（目前全球浏览器支持率近90%）直接在浏览器中运行游戏
+  - Sharma表示Xbox Labs将『公开构建』（build in the open），成功与否以『是否有更多人在玩和创造』来衡量，相关工具会向全行业开发者开放
+  - 她援引数据称玩家每年在Xbox游戏上花费超过720亿小时，约为全球写代码时间估计值的5倍，以此论证游戏与AI编程工作负载的相似性
+- **背景与起因：**
+  - 此前Xbox已经历多轮重组与裁员（包括工作室出售、岗位削减），新任CEO上任后持续调整公司方向与品牌定位
+  - AI辅助反编译/重建游戏的风潮近期因Claude等代码类AI模型能力提升而兴起，包括任天堂等第一方游戏也出现了未经官方授权的AI辅助PC移植版本
+- **结果与进展：**
+  - 多家媒体（包括Kotaku）对声明提出质疑，指出Sharma的内部信全文未直接出现『AI』一词，被认为是对AI敏感话题的刻意淡化处理
+  - Xbox Labs尚未公布具体产品、工具或上线时间表
