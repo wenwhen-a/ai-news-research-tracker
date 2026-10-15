@@ -1,0 +1,9 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **《GTA6》官方发售预告片正式公布**（2026-10-15）— Rockstar Games发布《Grand Theft Auto VI》官方发售预告片，画面基于PS5实机录制，游戏仍定于11月19日发售。 <https://www.pushsquare.com/news/2026/10/gta-6-launch-trailer-available-to-watch-right-now-captured-on-ps5>
+- **微软公布Xbox Nano Controller，主打小手玩家与更低售价**（2026-10-14）— 微软发布官方认证的Xbox Nano Controller，体积更小、售价更低且配备可充电电池，主要面向手部较小的玩家群体。 <https://www.purexbox.com/news/2026/10/xbox-unveils-new-nano-controller-perfect-for-smaller-hands>
+- **掌机ROG Xbox Ally X20首批评测出炉，1299美元定价引争议**（2026-10-15）— 华硕与微软联合打造的掌机ROG Xbox Ally X20首发评测集中公布，媒体普遍认可其OLED屏幕与手感升级，但1299.99美元售价较上代上涨300美元，多家媒体对其性价比表示存疑。 <https://www.purexbox.com/news/2026/10/the-reviews-are-flooding-in-for-the-rog-xbox-ally-x20>
+- **《SCUM》开发商Gamepires因"市场环境"进行裁员**（2026-10-14）— 生存游戏《SCUM》开发商、已被Splash Damage收购的Gamepires宣布裁员，具体人数未披露，官方称这是出于"长期可持续发展"的商业决定，而非对团队工作表现的否定。 <https://www.dualshockers.com/scum-developer-suffers-an-undisclosed-number-of-layoffs/>
+- **巴西总统签署法令落实电子游戏产业法律框架**（2026-10-14）— 巴西总统卢拉签署法令，细化落实2024年通过的电子游戏法律框架，将游戏正式认定为视听与文化产品，使开发者可申请原本面向其他文创产业的政府资金与信贷支持，并设立新游戏推广平台及约3500万美元的初创企业扶持基金。 <https://www.dualshockers.com/brazil-is-opening-new-doors-for-its-video-game-industry/>
+- **《极限脱出》制作人内田哲也成立新工作室CRASH KEYS**（2026-10-14）— 《极限脱出》《AI：梦境档案》制作人内田哲也宣布成立新公司CRASH KEYS并亲自担任代表董事兼CEO，致力开发不受传统套路束缚的原创项目并正寻找投资伙伴；此前他投入一年半参与的一个项目遭到取消。 <https://www.nintendolife.com/news/2026/10/kotaro-uchikoshi-creator-of-zero-escape-and-ai-the-somnium-files-launches-new-studio>
+- **《007：第一道光》Switch 2版终于锁定发售日期**（2026-10-15）— 历经多次跳票后，《007 First Light》Switch 2版终于确定发售日期为2027年3月18日。 <https://www.nintendolife.com/news/2026/10/youre-late-007-first-light-has-finally-locked-in-a-switch-2-release-date>
+- **Xbox发起调查，询问玩家是否愿意让《辐射》《上古卷轴》独占**（2026-10-15）— 微软向玩家发起问卷调查，询问是否支持将《辐射》《上古卷轴》甚至《我的世界》等第一方IP转为Xbox平台独占，引发关于主机独占战略走向的讨论。 <https://www.thegamer.com/xbox-survey-minecraft-elder-scrolls-minecraft-exclusive/>

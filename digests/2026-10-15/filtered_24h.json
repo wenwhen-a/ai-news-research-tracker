@@ -1,0 +1,332 @@
+{
+  "as_of": "2026-10-15",
+  "cutoff": "2026-10-14",
+  "window_days": 1,
+  "summary": {
+    "input_items": 15,
+    "denied_source": 0,
+    "in_window": 15,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 15,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 15,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 12,
+    "previously_covered_count": 3
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "育碧计划关闭Trials开发商RedLynx，新加坡工作室将裁70人",
+        "url": "https://www.videogameschronicle.com/news/ubisoft-is-planning-to-shut-down-trials-studio-redlynx-and-lay-off-70-ubisoft-singapore-staff/",
+        "date": "2026-10-14",
+        "summary": "育碧提议关闭芬兰Trials系列开发商RedLynx（影响约52个岗位），同时计划缩编新加坡工作室裁减70个职位以匹配未来制作需求；两项方案均需经过当地法定协商程序。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "育碧计划关闭Trials开发商RedLynx，新加坡工作室将裁70人",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-is-planning-to-shut-down-trials-studio-redlynx-and-lay-off-70-ubisoft-singapore-staff/",
+          "date": "2026-10-14",
+          "summary": "育碧提议关闭芬兰Trials系列开发商RedLynx（影响约52个岗位），同时计划缩编新加坡工作室裁减70个职位以匹配未来制作需求；两项方案均需经过当地法定协商程序。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《GTA6》官方发售预告片正式公布",
+        "url": "https://www.pushsquare.com/news/2026/10/gta-6-launch-trailer-available-to-watch-right-now-captured-on-ps5",
+        "date": "2026-10-15",
+        "summary": "Rockstar Games发布《Grand Theft Auto VI》官方发售预告片，画面基于PS5实机录制，游戏仍定于11月19日发售。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《GTA6》官方发售预告片正式公布",
+          "url": "https://www.pushsquare.com/news/2026/10/gta-6-launch-trailer-available-to-watch-right-now-captured-on-ps5",
+          "date": "2026-10-15",
+          "summary": "Rockstar Games发布《Grand Theft Auto VI》官方发售预告片，画面基于PS5实机录制，游戏仍定于11月19日发售。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Rockstar称GTA6技术积累将用于下一作，不会再耗时8年",
+        "url": "https://www.pushsquare.com/news/2026/10/gta-6-tech-will-help-create-the-next-rockstar-game-wont-be-another-8-year-wait",
+        "date": "2026-10-14",
+        "summary": "Rockstar高层表示，《GTA6》开发期间积累的技术与工具将延续用于公司下一款作品，意味着下一部新作开发周期不会像GTA6一样长达八年。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Rockstar称GTA6技术积累将用于下一作，不会再耗时8年",
+          "url": "https://www.pushsquare.com/news/2026/10/gta-6-tech-will-help-create-the-next-rockstar-game-wont-be-another-8-year-wait",
+          "date": "2026-10-14",
+          "summary": "Rockstar高层表示，《GTA6》开发期间积累的技术与工具将延续用于公司下一款作品，意味着下一部新作开发周期不会像GTA6一样长达八年。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "索尼公布2026年10月PS Plus会免游戏阵容",
+        "url": "https://www.pushsquare.com/news/2026/10/9-ps-plus-extra-premium-games-for-october-2026-announced",
+        "date": "2026-10-14",
+        "summary": "索尼公布10月PS Plus Extra与Premium会免游戏名单，共9款作品，包括《Mafia: The Old Country》和《Tales of Arise》等。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "索尼公布2026年10月PS Plus会免游戏阵容",
+          "url": "https://www.pushsquare.com/news/2026/10/9-ps-plus-extra-premium-games-for-october-2026-announced",
+          "date": "2026-10-14",
+          "summary": "索尼公布10月PS Plus Extra与Premium会免游戏名单，共9款作品，包括《Mafia: The Old Country》和《Tales of Arise》等。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "微软公布Xbox Nano Controller，主打小手玩家与更低售价",
+        "url": "https://www.purexbox.com/news/2026/10/xbox-unveils-new-nano-controller-perfect-for-smaller-hands",
+        "date": "2026-10-14",
+        "summary": "微软发布官方认证的Xbox Nano Controller，体积更小、售价更低且配备可充电电池，主要面向手部较小的玩家群体。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "微软公布Xbox Nano Controller，主打小手玩家与更低售价",
+          "url": "https://www.purexbox.com/news/2026/10/xbox-unveils-new-nano-controller-perfect-for-smaller-hands",
+          "date": "2026-10-14",
+          "summary": "微软发布官方认证的Xbox Nano Controller，体积更小、售价更低且配备可充电电池，主要面向手部较小的玩家群体。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "掌机ROG Xbox Ally X20首批评测出炉，1299美元定价引争议",
+        "url": "https://www.purexbox.com/news/2026/10/the-reviews-are-flooding-in-for-the-rog-xbox-ally-x20",
+        "date": "2026-10-15",
+        "summary": "华硕与微软联合打造的掌机ROG Xbox Ally X20首发评测集中公布，媒体普遍认可其OLED屏幕与手感升级，但1299.99美元售价较上代上涨300美元，多家媒体对其性价比表示存疑。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "掌机ROG Xbox Ally X20首批评测出炉，1299美元定价引争议",
+          "url": "https://www.purexbox.com/news/2026/10/the-reviews-are-flooding-in-for-the-rog-xbox-ally-x20",
+          "date": "2026-10-15",
+          "summary": "华硕与微软联合打造的掌机ROG Xbox Ally X20首发评测集中公布，媒体普遍认可其OLED屏幕与手感升级，但1299.99美元售价较上代上涨300美元，多家媒体对其性价比表示存疑。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《SCUM》开发商Gamepires因“市场环境”进行裁员",
+        "url": "https://www.dualshockers.com/scum-developer-suffers-an-undisclosed-number-of-layoffs/",
+        "date": "2026-10-14",
+        "summary": "生存游戏《SCUM》开发商、已被Splash Damage收购的Gamepires宣布裁员，具体人数未披露，官方称这是出于“长期可持续发展”的商业决定，而非对团队工作表现的否定。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《SCUM》开发商Gamepires因“市场环境”进行裁员",
+          "url": "https://www.dualshockers.com/scum-developer-suffers-an-undisclosed-number-of-layoffs/",
+          "date": "2026-10-14",
+          "summary": "生存游戏《SCUM》开发商、已被Splash Damage收购的Gamepires宣布裁员，具体人数未披露，官方称这是出于“长期可持续发展”的商业决定，而非对团队工作表现的否定。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "巴西总统签署法令落实电子游戏产业法律框架",
+        "url": "https://www.dualshockers.com/brazil-is-opening-new-doors-for-its-video-game-industry/",
+        "date": "2026-10-14",
+        "summary": "巴西总统卢拉签署法令，细化落实2024年通过的电子游戏法律框架，将游戏正式认定为视听与文化产品，使开发者可申请原本面向其他文创产业的政府资金与信贷支持，并设立新游戏推广平台及约3500万美元的初创企业扶持基金。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "巴西总统签署法令落实电子游戏产业法律框架",
+          "url": "https://www.dualshockers.com/brazil-is-opening-new-doors-for-its-video-game-industry/",
+          "date": "2026-10-14",
+          "summary": "巴西总统卢拉签署法令，细化落实2024年通过的电子游戏法律框架，将游戏正式认定为视听与文化产品，使开发者可申请原本面向其他文创产业的政府资金与信贷支持，并设立新游戏推广平台及约3500万美元的初创企业扶持基金。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《极限脱出》制作人内田哲也成立新工作室CRASH KEYS",
+        "url": "https://www.nintendolife.com/news/2026/10/kotaro-uchikoshi-creator-of-zero-escape-and-ai-the-somnium-files-launches-new-studio",
+        "date": "2026-10-14",
+        "summary": "《极限脱出》《AI：梦境档案》制作人内田哲也宣布成立新公司CRASH KEYS并亲自担任代表董事兼CEO，致力开发不受传统套路束缚的原创项目并正寻找投资伙伴；此前他投入一年半参与的一个项目遭到取消。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《极限脱出》制作人内田哲也成立新工作室CRASH KEYS",
+          "url": "https://www.nintendolife.com/news/2026/10/kotaro-uchikoshi-creator-of-zero-escape-and-ai-the-somnium-files-launches-new-studio",
+          "date": "2026-10-14",
+          "summary": "《极限脱出》《AI：梦境档案》制作人内田哲也宣布成立新公司CRASH KEYS并亲自担任代表董事兼CEO，致力开发不受传统套路束缚的原创项目并正寻找投资伙伴；此前他投入一年半参与的一个项目遭到取消。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《007：第一道光》Switch 2版终于锁定发售日期",
+        "url": "https://www.nintendolife.com/news/2026/10/youre-late-007-first-light-has-finally-locked-in-a-switch-2-release-date",
+        "date": "2026-10-15",
+        "summary": "历经多次跳票后，《007 First Light》Switch 2版终于确定发售日期为2027年3月18日。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《007：第一道光》Switch 2版终于锁定发售日期",
+          "url": "https://www.nintendolife.com/news/2026/10/youre-late-007-first-light-has-finally-locked-in-a-switch-2-release-date",
+          "date": "2026-10-15",
+          "summary": "历经多次跳票后，《007 First Light》Switch 2版终于确定发售日期为2027年3月18日。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Xbox发起调查，询问玩家是否愿意让《辐射》《上古卷轴》独占",
+        "url": "https://www.thegamer.com/xbox-survey-minecraft-elder-scrolls-minecraft-exclusive/",
+        "date": "2026-10-15",
+        "summary": "微软向玩家发起问卷调查，询问是否支持将《辐射》《上古卷轴》甚至《我的世界》等第一方IP转为Xbox平台独占，引发关于主机独占战略走向的讨论。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Xbox发起调查，询问玩家是否愿意让《辐射》《上古卷轴》独占",
+          "url": "https://www.thegamer.com/xbox-survey-minecraft-elder-scrolls-minecraft-exclusive/",
+          "date": "2026-10-15",
+          "summary": "微软向玩家发起问卷调查，询问是否支持将《辐射》《上古卷轴》甚至《我的世界》等第一方IP转为Xbox平台独占，引发关于主机独占战略走向的讨论。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《Big Walk》开发商因BDS抵制声明暂不登陆Xbox平台",
+        "url": "https://www.thegamer.com/big-walk-wont-come-to-xbox-while-bds-boycott-continues/",
+        "date": "2026-10-15",
+        "summary": "《大鹅模拟》开发商House House宣布旗下新作《Big Walk》不会登陆Xbox平台，以响应巴勒斯坦主导的BDS（抵制、撤资、制裁）运动对微软的抵制呼吁，理由是微软向以色列军方提供云计算与AI服务；该作8月已登陆PS5、PC及Switch 2并获媒体均分91分。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《Big Walk》开发商因BDS抵制声明暂不登陆Xbox平台",
+          "url": "https://www.thegamer.com/big-walk-wont-come-to-xbox-while-bds-boycott-continues/",
+          "date": "2026-10-15",
+          "summary": "《大鹅模拟》开发商House House宣布旗下新作《Big Walk》不会登陆Xbox平台，以响应巴勒斯坦主导的BDS（抵制、撤资、制裁）运动对微软的抵制呼吁，理由是微软向以色列军方提供云计算与AI服务；该作8月已登陆PS5、PC及Switch 2并获媒体均分91分。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "格斗游戏厂商Arc System Works将在东京新宿开设新工作室",
+        "url": "https://www.gematsu.com/2026/10/arc-system-works-to-establish-arc-system-works-tokyo-studio-takumi",
+        "date": "2026-10-15",
+        "summary": "Arc System Works宣布将于11月2日在东京新宿成立新工作室“Arc System Works Tokyo Studio TAKUMI”，该工作室将开发入选日本经济产业省“IP360”出海扶持项目的新格斗游戏，并作为公司海外合作枢纽，目前正大举招募创始团队成员。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "格斗游戏厂商Arc System Works将在东京新宿开设新工作室",
+          "url": "https://www.gematsu.com/2026/10/arc-system-works-to-establish-arc-system-works-tokyo-studio-takumi",
+          "date": "2026-10-15",
+          "summary": "Arc System Works宣布将于11月2日在东京新宿成立新工作室“Arc System Works Tokyo Studio TAKUMI”，该工作室将开发入选日本经济产业省“IP360”出海扶持项目的新格斗游戏，并作为公司海外合作枢纽，目前正大举招募创始团队成员。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "万代南梦宫公布高达题材放置类手游《Gundam Blitz Order》",
+        "url": "https://www.4gamer.net/games/050/G105040/20261015014/",
+        "date": "2026-10-15",
+        "summary": "万代南梦宫宣布面向iOS/Android推出高达系列放置模拟手游《Gundam Blitz Order》，将于11月18日开启测试。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "万代南梦宫公布高达题材放置类手游《Gundam Blitz Order》",
+          "url": "https://www.4gamer.net/games/050/G105040/20261015014/",
+          "date": "2026-10-15",
+          "summary": "万代南梦宫宣布面向iOS/Android推出高达系列放置模拟手游《Gundam Blitz Order》，将于11月18日开启测试。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "法国团队合作恐生存游戏《Invokyr》抢先体验4天销量破10万",
+        "url": "https://www.4gamer.net/games/040/G104086/20261014006/",
+        "date": "2026-10-14",
+        "summary": "法国工作室Ludogram与松竹联合发行的6人合作生存恐怖游戏《Invokyr》自10月8日登陆Steam抢先体验以来，4天内销量突破10万份，峰值同时在线玩家达1万，好评率94%。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "法国团队合作恐生存游戏《Invokyr》抢先体验4天销量破10万",
+          "url": "https://www.4gamer.net/games/040/G104086/20261014006/",
+          "date": "2026-10-14",
+          "summary": "法国工作室Ludogram与松竹联合发行的6人合作生存恐怖游戏《Invokyr》自10月8日登陆Steam抢先体验以来，4天内销量突破10万份，峰值同时在线玩家达1万，好评率94%。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

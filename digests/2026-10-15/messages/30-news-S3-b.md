@@ -1,0 +1,4 @@
+- **《Big Walk》开发商因BDS抵制声明暂不登陆Xbox平台**（2026-10-15）— 《大鹅模拟》开发商House House宣布旗下新作《Big Walk》不会登陆Xbox平台，以响应巴勒斯坦主导的BDS（抵制、撤资、制裁）运动对微软的抵制呼吁，理由是微软向以色列军方提供云计算与AI服务；该作8月已登陆PS5、PC及Switch 2并获媒体均分91分。 <https://www.thegamer.com/big-walk-wont-come-to-xbox-while-bds-boycott-continues/>
+- **格斗游戏厂商Arc System Works将在东京新宿开设新工作室**（2026-10-15）— Arc System Works宣布将于11月2日在东京新宿成立新工作室"Arc System Works Tokyo Studio TAKUMI"，该工作室将开发入选日本经济产业省"IP360"出海扶持项目的新格斗游戏，并作为公司海外合作枢纽，目前正大举招募创始团队成员。 <https://www.gematsu.com/2026/10/arc-system-works-to-establish-arc-system-works-tokyo-studio-takumi>
+- **万代南梦宫公布高达题材放置类手游《Gundam Blitz Order》**（2026-10-15）— 万代南梦宫宣布面向iOS/Android推出高达系列放置模拟手游《Gundam Blitz Order》，将于11月18日开启测试。 <https://www.4gamer.net/games/050/G105040/20261015014/>
+- **法国团队合作恐生存游戏《Invokyr》抢先体验4天销量破10万**（2026-10-14）— 法国工作室Ludogram与松竹联合发行的6人合作生存恐怖游戏《Invokyr》自10月8日登陆Steam抢先体验以来，4天内销量突破10万份，峰值同时在线玩家达1万，好评率94%。 <https://www.4gamer.net/games/040/G104086/20261014006/>

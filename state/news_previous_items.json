@@ -1,159 +1,5 @@
 [
  {
-  "title": "AI 游戏数据训练公司 General Intuition 完成 2.2 亿美元融资，估值达 62 亿美元",
-  "url": "https://www.pocketgamer.biz/general-intuition-raises-220m-at-62bn-valuation/",
-  "date": "2026-09-30",
-  "section": 1,
-  "posted": "2026-09-30"
- },
- {
-  "title": "北欧游戏集团 MTG：借助 AI 三到五年内实现规模翻倍，单团队年产游戏数量增至三款",
-  "url": "https://www.pocketgamer.biz/mtg-wants-to-double-its-size-while-leveraging-ai/",
-  "date": "2026-09-30",
-  "section": 1,
-  "posted": "2026-09-30"
- },
- {
-  "title": "更新】游戏配音演员津田健次郎起诉 TikTok AI 仿声案：东京地方法院裁定人声受\"公开权\"保护，本诉因账号已删除被驳回",
-  "url": "https://www.invenglobal.com/articles/26662/claim-dismissed-voice-rights-recognized-tokyo-court-issues-ruling-in-voice-actor-kenjiro-tsudas-ai-voice-cloning-lawsuit",
-  "date": "2026-09-30",
-  "section": 1,
-  "posted": "2026-09-30"
- },
- {
-  "title": "字节跳动朝夕光年 AI 修仙游戏《不问凡尘》上线 Steam，大量画面与角色由 Seedance 2.0 生成",
-  "url": "https://www.youxituoluo.com/534913.html",
-  "date": "2026-09-23",
-  "section": 1,
-  "posted": "2026-09-30"
- },
- {
-  "title": "BGIES 2026 调查：35% 游戏公司创始人因 AI 放弃招聘，欧洲设计师薪资两年内下降超两成",
-  "url": "https://www.youxituoluo.com/534930.html",
-  "date": "2026-09-30",
-  "section": 1,
-  "posted": "2026-09-30"
- },
- {
-  "title": "OpenAI 与复古主机厂商 ModRetro 合作推出 Game Studio 插件，可用自然语言 AI 制作可在实体 Game Boy 卡带运行的游戏",
-  "url": "https://www.ithome.com/1/008/656.htm",
-  "date": "2026-09-30",
-  "section": 1,
-  "posted": "2026-09-30"
- },
- {
-  "title": "Valve 将 Steam\"折扣与活动\"页面全面转向算法个性化推荐，人工排期模式退场",
-  "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
-  "date": "2026-09-29",
-  "section": 2,
-  "posted": "2026-09-30"
- },
- {
-  "title": "韩国 Com2uS Platform 推出 AI 游戏后端工具 Hive Axyl，可用自然语言生成后端接入代码",
-  "url": "https://www.invenglobal.com/articles/26642/com2us-platform-launches-ai-backend-hive-axyl",
-  "date": "2026-09-30",
-  "section": 2,
-  "posted": "2026-09-30"
- },
- {
-  "title": "云游戏行业观察：从业者称 AI 算力扩张正挤占云游戏所需的数据中心资源，基础设施瓶颈依旧未解",
-  "url": "https://www.pocketgamer.biz/the-technology-works-but-the-infrastructure-doesnt-the-mobile-mavens-on-the-future-of-cloud-gaming/",
-  "date": "2026-09-30",
-  "section": 2,
-  "posted": "2026-09-30"
- },
- {
-  "title": "罗马尼亚 AI 游戏陪伴初创公司 Kyndred 获 Early Game Ventures 50 万欧元天使轮融资",
-  "url": "https://pulse2.com/kyndred-raises-e500000-pre-seed-round-from-early-game-ventures-for-ai-companions/",
-  "date": "2026-09-29",
-  "section": 2,
-  "posted": "2026-09-30"
- },
- {
-  "title": "更新】须田刚一工作室 Grasshopper Manufacture 宣布脱离网易独立",
-  "url": "https://www.gematsu.com/2026/09/grasshopper-manufacture-splits-from-netease-games",
-  "date": "2026-09-30",
-  "section": 3,
-  "posted": "2026-09-30"
- },
- {
-  "title": "《马里奥赛车巡游》正式停运，7 年生涯创收约 2.7 亿美元",
-  "url": "https://mobilegamer.biz/mario-kart-tour-closes-after-seven-years-and-nearly-270m-in-revenue/",
-  "date": "2026-09-30",
-  "section": 3,
-  "posted": "2026-09-30"
- },
- {
-  "title": "AI 初创公司 General Intuition 完成 2.2 亿美元融资，估值达 62 亿美元",
-  "url": "https://mobilegamer.biz/general-intuition-raises-220m-at-6-2bn-valuation-trains-ai-on-gameplay-clips/",
-  "date": "2026-09-29",
-  "section": 3,
-  "posted": "2026-09-30"
- },
- {
-  "title": "《光环》前创意总监呼吁动视暴雪招募被裁的 Bungie 与 Halo Studios 员工",
-  "url": "https://www.videogameschronicle.com/news/halos-former-creative-director-urges-activision-to-hire-laid-off-bungie-halo-studios-devs/",
-  "date": "2026-09-30",
-  "section": 3,
-  "posted": "2026-09-30"
- },
- {
-  "title": "Xbox\"光盘转数字\"功能面向所有玩家全面推送",
-  "url": "https://www.videogameschronicle.com/news/after-being-tested-by-insider-members-xboxs-disc-to-digital-feature-is-now-rolling-out-to-all-players/",
-  "date": "2026-09-30",
-  "section": 3,
-  "posted": "2026-09-30"
- },
- {
-  "title": "自制《GTA5》Switch 移植版遭 Take-Two 律师叫停，模组作者称\"感激对方手下留情\"",
-  "url": "https://www.videogameschronicle.com/news/modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is-thankful-for-take-twos-mercy-as-lawyers-shut-it-down/",
-  "date": "2026-09-30",
-  "section": 3,
-  "posted": "2026-09-30"
- },
- {
-  "title": "国王数字（King）旗下《我的世界大爆炸》重启小范围测试",
-  "url": "https://mobilegamer.biz/kings-minecraft-blast-is-back-in-soft-launch/",
-  "date": "2026-09-30",
-  "section": 3,
-  "posted": "2026-09-30"
- },
- {
-  "title": "《最终幻想14》移动版在中国正式停运，史克威尔艾尼克斯终止与腾讯授权合作",
-  "url": "https://www.thegamer.com/final-fantasy-14-mobile-shuts-down-today-september-30/",
-  "date": "2026-09-30",
-  "section": 3,
-  "posted": "2026-09-30"
- },
- {
-  "title": "顽皮狗确认《最后生还者》系列两款新作已进入早期开发",
-  "url": "https://www.thegamer.com/the-last-of-us-officially-has-two-new-projects-in-the-early-stages/",
-  "date": "2026-09-29",
-  "section": 3,
-  "posted": "2026-09-30"
- },
- {
-  "title": "Rockstar\"打压工会\"劳动仲裁庭审理进入交叉质证阶段",
-  "url": "https://www.thegamer.com/inside-rockstars-union-busting-trial/",
-  "date": "2026-09-30",
-  "section": 3,
-  "posted": "2026-09-30"
- },
- {
-  "title": "索尼前高管吉田修平：在 Xbox 转向次世代之际，索尼与任天堂应尽量延续现有主机世代",
-  "url": "https://www.videogameschronicle.com/news/shuhei-yoshida-says-sony-and-nintendo-should-keep-the-current-generation-as-long-as-possible-as-xbox-goes-next-gen/",
-  "date": "2026-09-30",
-  "section": 3,
-  "posted": "2026-09-30"
- },
- {
-  "title": "据报道，《往日不再》开发商 Bend Studio 或正筹备公布新作",
-  "url": "https://www.thegamer.com/days-gone-studio-bend-could-be-gearing-up-to-announce-next-title/",
-  "date": "2026-09-30",
-  "section": 3,
-  "posted": "2026-09-30"
- },
- {
   "title": "AppLovin 起诉 Unity，指控其借广告数据训练 AI 模型预测自身竞价行为",
   "url": "https://mobilegamer.biz/applovin-sues-unity-over-alleged-data-collection-through-its-ad-quality-sdk/",
   "date": "2026-10-01",
@@ -1937,5 +1783,166 @@
   "date": "2026-10-14",
   "section": 3,
   "posted": "2026-10-14"
+ },
+ {
+  "title": "更新】Epic Games CEO公开证实全面转向\"AI优先\"开发，迪士尼合作射击游戏延期坐实",
+  "url": "https://www.gamedeveloper.com/programming/no-more-hand-written-code-epic-s-disney-project-reportedly-shifts-to-ai-first-development",
+  "date": "2026-10-14",
+  "section": 1,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "SEGA因AI美术争议及BUG下架《全面战争：幕府将军2完整版》",
+  "url": "https://www.videogameschronicle.com/news/sega-pulls-total-war-shogun-2-complete-edition-from-stores-over-bugs-and-ai-art/",
+  "date": "2026-10-15",
+  "section": 1,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "彭博社：《GTA6》庞大NPC制作规模是跳票原因之一，Rockstar增设新工作室应对",
+  "url": "https://80.lv/articles/enormous-number-of-smart-npcs-was-one-of-reasons-for-gta-6-delay",
+  "date": "2026-10-14",
+  "section": 1,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "米哈游《星布谷地》测试上线\"活人感\"AI NPC，娜洛拥有跨测试长期记忆",
+  "url": "http://www.chuapp.com/article/291678.html",
+  "date": "2026-10-15",
+  "section": 1,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "昆仑万维Skywork开源Matrix-Game 4.0，称为全球首个单卡RTX 5090实时运行的游戏世界模型",
+  "url": "https://www.qbitai.com/2026/10/503353.html",
+  "date": "2026-10-15",
+  "section": 1,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "微软成立XBOX LABS探索AI时代的游戏新技术",
+  "url": "https://news.xbox.com/en-us/2026/10/13/introducing-xbox-labs/",
+  "date": "2026-10-13",
+  "section": 2,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "Epic宣布用AI\"氛围编程\"（vibe coding）方式开发新版Epic Games Launcher",
+  "url": "https://www.videogameschronicle.com/news/epic-says-its-vibe-coded-its-new-epic-games-launcher-with-ai-because-programming-is-hard/",
+  "date": "2026-10-14",
+  "section": 2,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "Wooga设计总监谈AI加速原型制作，但拒绝用\"合成玩家\"替代真实用户研究",
+  "url": "https://www.pocketgamer.biz/holger-wurst-junes-journey-player-research-ai/",
+  "date": "2026-10-14",
+  "section": 2,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "AI Gamechangers Summit将重返2027年伦敦PG Connects",
+  "url": "https://www.pocketgamer.biz/the-ai-gamechangers-summit-returns-to-pg-connect-london-2027/",
+  "date": "2026-10-15",
+  "section": 2,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "完美世界、世纪华通等A股游戏公司加码认购AI与算力产业基金",
+  "url": "https://www.youxituoluo.com/534942.html",
+  "date": "2026-10-09",
+  "section": 2,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "可灵AI估值直逼180亿美元，快手股价创新低、于越接任CEO推进港股IPO",
+  "url": "https://36kr.com/p/4026996531287937",
+  "date": "2026-10-15",
+  "section": 2,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "《GTA6》官方发售预告片正式公布",
+  "url": "https://www.pushsquare.com/news/2026/10/gta-6-launch-trailer-available-to-watch-right-now-captured-on-ps5",
+  "date": "2026-10-15",
+  "section": 3,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "微软公布Xbox Nano Controller，主打小手玩家与更低售价",
+  "url": "https://www.purexbox.com/news/2026/10/xbox-unveils-new-nano-controller-perfect-for-smaller-hands",
+  "date": "2026-10-14",
+  "section": 3,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "掌机ROG Xbox Ally X20首批评测出炉，1299美元定价引争议",
+  "url": "https://www.purexbox.com/news/2026/10/the-reviews-are-flooding-in-for-the-rog-xbox-ally-x20",
+  "date": "2026-10-15",
+  "section": 3,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "《SCUM》开发商Gamepires因\"市场环境\"进行裁员",
+  "url": "https://www.dualshockers.com/scum-developer-suffers-an-undisclosed-number-of-layoffs/",
+  "date": "2026-10-14",
+  "section": 3,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "巴西总统签署法令落实电子游戏产业法律框架",
+  "url": "https://www.dualshockers.com/brazil-is-opening-new-doors-for-its-video-game-industry/",
+  "date": "2026-10-14",
+  "section": 3,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "《极限脱出》制作人内田哲也成立新工作室CRASH KEYS",
+  "url": "https://www.nintendolife.com/news/2026/10/kotaro-uchikoshi-creator-of-zero-escape-and-ai-the-somnium-files-launches-new-studio",
+  "date": "2026-10-14",
+  "section": 3,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "《007：第一道光》Switch 2版终于锁定发售日期",
+  "url": "https://www.nintendolife.com/news/2026/10/youre-late-007-first-light-has-finally-locked-in-a-switch-2-release-date",
+  "date": "2026-10-15",
+  "section": 3,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "Xbox发起调查，询问玩家是否愿意让《辐射》《上古卷轴》独占",
+  "url": "https://www.thegamer.com/xbox-survey-minecraft-elder-scrolls-minecraft-exclusive/",
+  "date": "2026-10-15",
+  "section": 3,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "《Big Walk》开发商因BDS抵制声明暂不登陆Xbox平台",
+  "url": "https://www.thegamer.com/big-walk-wont-come-to-xbox-while-bds-boycott-continues/",
+  "date": "2026-10-15",
+  "section": 3,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "格斗游戏厂商Arc System Works将在东京新宿开设新工作室",
+  "url": "https://www.gematsu.com/2026/10/arc-system-works-to-establish-arc-system-works-tokyo-studio-takumi",
+  "date": "2026-10-15",
+  "section": 3,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "万代南梦宫公布高达题材放置类手游《Gundam Blitz Order》",
+  "url": "https://www.4gamer.net/games/050/G105040/20261015014/",
+  "date": "2026-10-15",
+  "section": 3,
+  "posted": "2026-10-15"
+ },
+ {
+  "title": "法国团队合作恐生存游戏《Invokyr》抢先体验4天销量破10万",
+  "url": "https://www.4gamer.net/games/040/G104086/20261014006/",
+  "date": "2026-10-14",
+  "section": 3,
+  "posted": "2026-10-15"
  }
 ]
