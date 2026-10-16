@@ -1,0 +1,152 @@
+{
+  "as_of": "2026-10-16",
+  "cutoff": "2026-10-09",
+  "window_days": 7,
+  "summary": {
+    "input_items": 6,
+    "denied_source": 0,
+    "in_window": 6,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 6,
+    "duplicate_clusters": 0,
+    "section1_count": 1,
+    "section2_count": 5,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 6,
+    "previously_covered_count": 0
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "【更新】腾讯完成约18亿美元及26亿元离岸人民币票据定价，所得资金投向AI相关资本支出",
+        "url": "https://www.thestandard.com.hk/finance/article/345414/Tencent-prices-US18-billion-26-billion-yuan-notes-under-MTN-programme",
+        "date": "2026-10-14",
+        "section": 1,
+        "summary": "update"
+      },
+      "members": [
+        {
+          "title": "【更新】腾讯完成约18亿美元及26亿元离岸人民币票据定价，所得资金投向AI相关资本支出",
+          "url": "https://www.thestandard.com.hk/finance/article/345414/Tencent-prices-US18-billion-26-billion-yuan-notes-under-MTN-programme",
+          "date": "2026-10-14",
+          "section": 1,
+          "summary": "update"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "印度AI原生手游工作室Spill Games完成1050万美元A轮融资，Elevation Capital领投",
+        "url": "https://pocketgamer.biz/indias-spill-games-raises-105m-in-series-a-funding/",
+        "date": "2026-10-15",
+        "section": 2,
+        "summary": "funding"
+      },
+      "members": [
+        {
+          "title": "印度AI原生手游工作室Spill Games完成1050万美元A轮融资，Elevation Capital领投",
+          "url": "https://pocketgamer.biz/indias-spill-games-raises-105m-in-series-a-funding/",
+          "date": "2026-10-15",
+          "section": 2,
+          "summary": "funding"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Konami高管称AI不会显著改变游戏市场格局，强调创作者团队协作不可替代",
+        "url": "https://kotaku.com/silent-hill-and-metal-gear-publisher-konami-does-not-believe-the-market-will-shift-significantly-because-of-ai-2000746506",
+        "date": "2026-10-16",
+        "section": 2,
+        "summary": "konami"
+      },
+      "members": [
+        {
+          "title": "Konami高管称AI不会显著改变游戏市场格局，强调创作者团队协作不可替代",
+          "url": "https://kotaku.com/silent-hill-and-metal-gear-publisher-konami-does-not-believe-the-market-will-shift-significantly-because-of-ai-2000746506",
+          "date": "2026-10-16",
+          "section": 2,
+          "summary": "konami"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《战地6》第五赛季部分付费通行证皮肤被指AI生成，EA未回应争议",
+        "url": "https://kotaku.com/battlefield-6-gets-slammed-for-more-slop-slipping-through-charging-players-for-ai-generated-content-is-peak-disrespect-2000746452",
+        "date": "2026-10-15",
+        "section": 2,
+        "summary": "bf6"
+      },
+      "members": [
+        {
+          "title": "《战地6》第五赛季部分付费通行证皮肤被指AI生成，EA未回应争议",
+          "url": "https://kotaku.com/battlefield-6-gets-slammed-for-more-slop-slipping-through-charging-players-for-ai-generated-content-is-peak-disrespect-2000746452",
+          "date": "2026-10-15",
+          "section": 2,
+          "summary": "bf6"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "AI辅助反编译/移植浪潮波及任天堂多款经典游戏，《超级马力欧64》网页移植遭下架",
+        "url": "https://kotaku.com/the-vibe-coders-have-come-for-nintendo-and-obviously-this-wont-end-well-2000745258",
+        "date": "2026-10-13",
+        "section": 2,
+        "summary": "nintendo"
+      },
+      "members": [
+        {
+          "title": "AI辅助反编译/移植浪潮波及任天堂多款经典游戏，《超级马力欧64》网页移植遭下架",
+          "url": "https://kotaku.com/the-vibe-coders-have-come-for-nintendo-and-obviously-this-wont-end-well-2000745258",
+          "date": "2026-10-13",
+          "section": 2,
+          "summary": "nintendo"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Godot引擎负责人批评Steam放任AI克隆游戏泛滥，呼吁平台承担更多责任",
+        "url": "https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366",
+        "date": "2026-10-15",
+        "section": 2,
+        "summary": "godot"
+      },
+      "members": [
+        {
+          "title": "Godot引擎负责人批评Steam放任AI克隆游戏泛滥，呼吁平台承担更多责任",
+          "url": "https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366",
+          "date": "2026-10-15",
+          "section": 2,
+          "summary": "godot"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

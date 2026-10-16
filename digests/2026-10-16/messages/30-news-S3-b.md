@@ -1,0 +1,8 @@
+- **[Supercell 将《皇室战争》改编为桌游，登陆 Kickstarter 众筹]**（2026-10-16）— Supercell 与 Maestro Media 合作，将《皇室战争》改编为 2 至 4 人桌游《Clash Royale: The Grand Arena》，将于 10 月 20 日在 Kickstarter 上线众筹。 <https://www.pocketgamer.biz/supercell-brings-clash-royale-to-tabletop-with-new-kickstarter-board-game/>
+- **[《战争机器人》Steam 版终身收入突破 5000 万美元]**（2026-10-16）— 自 2018 年登陆 Steam 以来，《战争机器人（War Robots）》在该平台终身收入已突破 5000 万美元，目前手游、PC 与主机玩家已共享同一匹配池。 <https://www.pocketgamer.biz/war-robots-surpasses-50m-in-steam-lifetime-revenue/>
+- **[Remedy《心灵杀手2：共鸣》销量突破 100 万份]**（2026-10-15）— Remedy Entertainment 宣布《CONTROL Resonant》自 9 月 24 日在 PS5、Xbox Series 及 PC 数字首发以来，三周内销量已突破 100 万份。 <https://www.gematsu.com/2026/10/control-resonant-sales-top-one-million>
+- **[美国众议员提出《玩家权利法案》，要求数字游戏购买应获得真正所有权]**（2026-10-16）— 美国众议员 Ritchie Torres 提出「Power to the Players Act」草案，拟要求 FTC 规定数字游戏买家获得真正所有权而非可撤销许可，并要求游戏在联机服务器关闭前提供离线模式；该提案尚处早期阶段，尚未正式提交国会。 <https://www.ithome.com/1/014/116.htm>
+- **[券商预警《剑星》开发商 Shift Up 今明两年营收利润双降]**（2026-10-16）— 据 Meritz 证券预测，《剑星》与《胜利女神：妮姬》开发商 Shift Up 今年营业利润预计下滑超 40%，明年营收与利润将继续下降；两款游戏合计占其营收约 96%，公司正推进自主发行新续作。 <https://www.ithome.com/1/014/018.htm>
+- **[腾讯魔方《异人之下》手游定档 12 月，11 月 4 日开启限时付费测试]**（2026-10-15）— 腾讯魔方工作室群 3D 格斗手游《异人之下》宣布定档 12 月上线 iOS、安卓及鸿蒙平台，PC 与移动端账号独立但共享匹配；限时付费测试将于 11 月 4 日开启，报名将于 10 月 27 日截止。 <https://www.ithome.com/1/013/671.htm>
+- **[第三方开发者发布《GT 赛车 Sport》非官方 PC 移植版]**（2026-10-16）— 独立开发者 mlgprorektm8 在 GitHub 上发布了《GT Sport》的非官方 PC 移植版，支持 FSR 3.1 帧生成及多种着色器预编译选项，玩家需自行提供合法获取的游戏 ISO 文件；索尼官方目前并未将《GT 赛车》系列登陆 PC 平台。 <https://www.ithome.com/1/014/185.htm>
+- **[NCSoft《天堂 Classic》确定将登陆日本]**（2026-10-16）— NCSoft 宣布旗下《天堂 Classic（リネージュ クラシック）》确定将推出日本服务，具体上线时间等细节待公布。 <https://www.4gamer.net/games/579/G057943/20261016014/>

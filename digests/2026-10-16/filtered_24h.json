@@ -1,0 +1,332 @@
+{
+  "as_of": "2026-10-16",
+  "cutoff": "2026-10-15",
+  "window_days": 1,
+  "summary": {
+    "input_items": 15,
+    "denied_source": 0,
+    "in_window": 15,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 15,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 15,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 15,
+    "previously_covered_count": 0
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Steam 推出测试版「成就组」功能，改善成就获取体验",
+        "url": "https://www.videogameschronicle.com/news/steam-is-introducing-achievement-sets-designed-to-improve-the-achievement-earning-experience/",
+        "date": "2026-10-16",
+        "summary": "Valve 为 Steam 推出测试版 Achievement Sets 功能，允许开发者将游戏成就划分为多个分组，各自拥有独立进度条和完成奖杯；开发者还可将玩家已无法获得的成就（如限时或已关闭的联机成就）标记为「存档」。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Steam 推出测试版「成就组」功能，改善成就获取体验",
+          "url": "https://www.videogameschronicle.com/news/steam-is-introducing-achievement-sets-designed-to-improve-the-achievement-earning-experience/",
+          "date": "2026-10-16",
+          "summary": "Valve 为 Steam 推出测试版 Achievement Sets 功能，允许开发者将游戏成就划分为多个分组，各自拥有独立进度条和完成奖杯；开发者还可将玩家已无法获得的成就（如限时或已关闭的联机成就）标记为「存档」。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "疑似被取消的《刺客信条》中国题材新作画面曝光，传闻由腾讯天美主导",
+        "url": "https://www.videogameschronicle.com/news/footage-from-a-reportedly-cancelled-assassins-creed-game-set-in-china-has-leaked/",
+        "date": "2026-10-16",
+        "summary": "网络流出一款名为《Assassin's Creed Destiny》的秦末题材游戏实机画面，据称由腾讯天美工作室群主导开发，但已在起步阶段被取消；育碧另一款中国题材作品《刺客信条：悠舞剑姬》仍在开发中。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "疑似被取消的《刺客信条》中国题材新作画面曝光，传闻由腾讯天美主导",
+          "url": "https://www.videogameschronicle.com/news/footage-from-a-reportedly-cancelled-assassins-creed-game-set-in-china-has-leaked/",
+          "date": "2026-10-16",
+          "summary": "网络流出一款名为《Assassin's Creed Destiny》的秦末题材游戏实机画面，据称由腾讯天美工作室群主导开发，但已在起步阶段被取消；育碧另一款中国题材作品《刺客信条：悠舞剑姬》仍在开发中。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "动视：《使命召唤：现代战争 4》将为系列「终结这一篇章、开启新篇章」",
+        "url": "https://www.videogameschronicle.com/news/cod-modern-warfare-4-will-close-this-chapter-and-launch-a-new-one-for-the-series-activision-says/",
+        "date": "2026-10-16",
+        "summary": "动视官方表示，即将发售的《使命召唤：现代战争 4》将为系列现有故事线画上句点，并为后续新篇章铺路。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "动视：《使命召唤：现代战争 4》将为系列「终结这一篇章、开启新篇章」",
+          "url": "https://www.videogameschronicle.com/news/cod-modern-warfare-4-will-close-this-chapter-and-launch-a-new-one-for-the-series-activision-says/",
+          "date": "2026-10-16",
+          "summary": "动视官方表示，即将发售的《使命召唤：现代战争 4》将为系列现有故事线画上句点，并为后续新篇章铺路。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《WWE 2K26》将与卡普空合作推出 DLC，追加五名化身《街头霸王》人偶的摔角手",
+        "url": "https://www.videogameschronicle.com/news/wwe-2k26-is-collaborating-with-capcom-for-a-dlc-pack-adding-five-wwe-wrestlers-as-street-fighter-action-figures/",
+        "date": "2026-10-15",
+        "summary": "2K 宣布《WWE 2K26》将推出与卡普空《街头霸王》联动的 DLC 内容包，把五名 WWE 摔角手变装为《街头霸王》风格的动作人偶造型。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《WWE 2K26》将与卡普空合作推出 DLC，追加五名化身《街头霸王》人偶的摔角手",
+          "url": "https://www.videogameschronicle.com/news/wwe-2k26-is-collaborating-with-capcom-for-a-dlc-pack-adding-five-wwe-wrestlers-as-street-fighter-action-figures/",
+          "date": "2026-10-15",
+          "summary": "2K 宣布《WWE 2K26》将推出与卡普空《街头霸王》联动的 DLC 内容包，把五名 WWE 摔角手变装为《街头霸王》风格的动作人偶造型。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "加拿大手游厂商 East Side Games 获约 280 万美元信贷额度及 400 万美元贷款",
+        "url": "https://www.pocketgamer.biz/east-side-games-secures-28m-in-canadian-credit-and-a-4m-loan/",
+        "date": "2026-10-16",
+        "summary": "East Side Games 获加拿大国家银行约 280 万美元信贷额度，并通过加拿大出口发展局（EDC）直接贷款计划获得 400 万美元贷款，用于开发两款计划于 2027 年推出的新作，部分资金将用于偿还此前在加拿大皇家银行的信贷额度。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "加拿大手游厂商 East Side Games 获约 280 万美元信贷额度及 400 万美元贷款",
+          "url": "https://www.pocketgamer.biz/east-side-games-secures-28m-in-canadian-credit-and-a-4m-loan/",
+          "date": "2026-10-16",
+          "summary": "East Side Games 获加拿大国家银行约 280 万美元信贷额度，并通过加拿大出口发展局（EDC）直接贷款计划获得 400 万美元贷款，用于开发两款计划于 2027 年推出的新作，部分资金将用于偿还此前在加拿大皇家银行的信贷额度。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Netflix 裁员约 1000 人，游戏部门受到波及",
+        "url": "https://www.pocketgamer.biz/netflix-lays-off-around-1000-employees-with-cuts-affecting-games-division/",
+        "date": "2026-10-15",
+        "summary": "Netflix 进行约 1000 人规模的裁员，波及其游戏业务；旗下 2022 年收购的芬兰工作室 Next Games 一名人力资源员工已证实离职，但具体受影响人数尚未公布。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Netflix 裁员约 1000 人，游戏部门受到波及",
+          "url": "https://www.pocketgamer.biz/netflix-lays-off-around-1000-employees-with-cuts-affecting-games-division/",
+          "date": "2026-10-15",
+          "summary": "Netflix 进行约 1000 人规模的裁员，波及其游戏业务；旗下 2022 年收购的芬兰工作室 Next Games 一名人力资源员工已证实离职，但具体受影响人数尚未公布。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "因地区安全顾虑，FIFAe 2026 总决赛宣布延期",
+        "url": "https://www.pocketgamer.biz/fifae-finals-2026-postponed-amid-regional-security-concerns/",
+        "date": "2026-10-15",
+        "summary": "FIFA 与沙特电竞联合会宣布，原定 10 月 16 日至 25 日在吉达举行的 FIFAe 总决赛因地区安全顾虑及日本、巴西代表队退赛而延期，新日期尚未公布。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "因地区安全顾虑，FIFAe 2026 总决赛宣布延期",
+          "url": "https://www.pocketgamer.biz/fifae-finals-2026-postponed-amid-regional-security-concerns/",
+          "date": "2026-10-15",
+          "summary": "FIFA 与沙特电竞联合会宣布，原定 10 月 16 日至 25 日在吉达举行的 FIFAe 总决赛因地区安全顾虑及日本、巴西代表队退赛而延期，新日期尚未公布。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Supercell 将《皇室战争》改编为桌游，登陆 Kickstarter 众筹",
+        "url": "https://www.pocketgamer.biz/supercell-brings-clash-royale-to-tabletop-with-new-kickstarter-board-game/",
+        "date": "2026-10-16",
+        "summary": "Supercell 与 Maestro Media 合作，将《皇室战争》改编为 2 至 4 人桌游《Clash Royale: The Grand Arena》，将于 10 月 20 日在 Kickstarter 上线众筹。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Supercell 将《皇室战争》改编为桌游，登陆 Kickstarter 众筹",
+          "url": "https://www.pocketgamer.biz/supercell-brings-clash-royale-to-tabletop-with-new-kickstarter-board-game/",
+          "date": "2026-10-16",
+          "summary": "Supercell 与 Maestro Media 合作，将《皇室战争》改编为 2 至 4 人桌游《Clash Royale: The Grand Arena》，将于 10 月 20 日在 Kickstarter 上线众筹。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《战争机器人》Steam 版终身收入突破 5000 万美元",
+        "url": "https://www.pocketgamer.biz/war-robots-surpasses-50m-in-steam-lifetime-revenue/",
+        "date": "2026-10-16",
+        "summary": "自 2018 年登陆 Steam 以来，《战争机器人（War Robots）》在该平台终身收入已突破 5000 万美元，目前手游、PC 与主机玩家已共享同一匹配池。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《战争机器人》Steam 版终身收入突破 5000 万美元",
+          "url": "https://www.pocketgamer.biz/war-robots-surpasses-50m-in-steam-lifetime-revenue/",
+          "date": "2026-10-16",
+          "summary": "自 2018 年登陆 Steam 以来，《战争机器人（War Robots）》在该平台终身收入已突破 5000 万美元，目前手游、PC 与主机玩家已共享同一匹配池。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Remedy《心灵杀手2：共鸣》销量突破 100 万份",
+        "url": "https://www.gematsu.com/2026/10/control-resonant-sales-top-one-million",
+        "date": "2026-10-15",
+        "summary": "Remedy Entertainment 宣布《CONTROL Resonant》自 9 月 24 日在 PS5、Xbox Series 及 PC 数字首发以来，三周内销量已突破 100 万份。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Remedy《心灵杀手2：共鸣》销量突破 100 万份",
+          "url": "https://www.gematsu.com/2026/10/control-resonant-sales-top-one-million",
+          "date": "2026-10-15",
+          "summary": "Remedy Entertainment 宣布《CONTROL Resonant》自 9 月 24 日在 PS5、Xbox Series 及 PC 数字首发以来，三周内销量已突破 100 万份。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "美国众议员提出《玩家权利法案》，要求数字游戏购买应获得真正所有权",
+        "url": "https://www.ithome.com/1/014/116.htm",
+        "date": "2026-10-16",
+        "summary": "美国众议员 Ritchie Torres 提出「Power to the Players Act」草案，拟要求 FTC 规定数字游戏买家获得真正所有权而非可撤销许可，并要求游戏在联机服务器关闭前提供离线模式；该提案尚处早期阶段，尚未正式提交国会。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "美国众议员提出《玩家权利法案》，要求数字游戏购买应获得真正所有权",
+          "url": "https://www.ithome.com/1/014/116.htm",
+          "date": "2026-10-16",
+          "summary": "美国众议员 Ritchie Torres 提出「Power to the Players Act」草案，拟要求 FTC 规定数字游戏买家获得真正所有权而非可撤销许可，并要求游戏在联机服务器关闭前提供离线模式；该提案尚处早期阶段，尚未正式提交国会。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "券商预警《剑星》开发商 Shift Up 今明两年营收利润双降",
+        "url": "https://www.ithome.com/1/014/018.htm",
+        "date": "2026-10-16",
+        "summary": "据 Meritz 证券预测，《剑星》与《胜利女神：妮姬》开发商 Shift Up 今年营业利润预计下滑超 40%，明年营收与利润将继续下降；两款游戏合计占其营收约 96%，公司正推进自主发行新续作。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "券商预警《剑星》开发商 Shift Up 今明两年营收利润双降",
+          "url": "https://www.ithome.com/1/014/018.htm",
+          "date": "2026-10-16",
+          "summary": "据 Meritz 证券预测，《剑星》与《胜利女神：妮姬》开发商 Shift Up 今年营业利润预计下滑超 40%，明年营收与利润将继续下降；两款游戏合计占其营收约 96%，公司正推进自主发行新续作。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "腾讯魔方《异人之下》手游定档 12 月，11 月 4 日开启限时付费测试",
+        "url": "https://www.ithome.com/1/013/671.htm",
+        "date": "2026-10-15",
+        "summary": "腾讯魔方工作室群 3D 格斗手游《异人之下》宣布定档 12 月上线 iOS、安卓及鸿蒙平台，PC 与移动端账号独立但共享匹配；限时付费测试将于 11 月 4 日开启，报名将于 10 月 27 日截止。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "腾讯魔方《异人之下》手游定档 12 月，11 月 4 日开启限时付费测试",
+          "url": "https://www.ithome.com/1/013/671.htm",
+          "date": "2026-10-15",
+          "summary": "腾讯魔方工作室群 3D 格斗手游《异人之下》宣布定档 12 月上线 iOS、安卓及鸿蒙平台，PC 与移动端账号独立但共享匹配；限时付费测试将于 11 月 4 日开启，报名将于 10 月 27 日截止。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "第三方开发者发布《GT 赛车 Sport》非官方 PC 移植版",
+        "url": "https://www.ithome.com/1/014/185.htm",
+        "date": "2026-10-16",
+        "summary": "独立开发者 mlgprorektm8 在 GitHub 上发布了《GT Sport》的非官方 PC 移植版，支持 FSR 3.1 帧生成及多种着色器预编译选项，玩家需自行提供合法获取的游戏 ISO 文件；索尼官方目前并未将《GT 赛车》系列登陆 PC 平台。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "第三方开发者发布《GT 赛车 Sport》非官方 PC 移植版",
+          "url": "https://www.ithome.com/1/014/185.htm",
+          "date": "2026-10-16",
+          "summary": "独立开发者 mlgprorektm8 在 GitHub 上发布了《GT Sport》的非官方 PC 移植版，支持 FSR 3.1 帧生成及多种着色器预编译选项，玩家需自行提供合法获取的游戏 ISO 文件；索尼官方目前并未将《GT 赛车》系列登陆 PC 平台。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "NCSoft《天堂 Classic》确定将登陆日本",
+        "url": "https://www.4gamer.net/games/579/G057943/20261016014/",
+        "date": "2026-10-16",
+        "summary": "NCSoft 宣布旗下《天堂 Classic（リネージュ クラシック）》确定将推出日本服务，具体上线时间等细节待公布。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "NCSoft《天堂 Classic》确定将登陆日本",
+          "url": "https://www.4gamer.net/games/579/G057943/20261016014/",
+          "date": "2026-10-16",
+          "summary": "NCSoft 宣布旗下《天堂 Classic（リネージュ クラシック）》确定将推出日本服务，具体上线时间等细节待公布。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
