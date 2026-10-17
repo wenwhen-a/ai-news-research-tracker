@@ -1,0 +1,281 @@
+{
+  "as_of": "2026-10-17",
+  "cutoff": "2026-10-16",
+  "window_days": 1,
+  "summary": {
+    "input_items": 13,
+    "denied_source": 0,
+    "in_window": 12,
+    "out_of_window": 1,
+    "invalid_date": 0,
+    "unique_after_dedup": 12,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 12,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 11,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "前索尼PlayStation之父久多良木健谈玩家不愿放弃实体游戏盘，呼吁行业改变数字拥有权观念",
+        "url": "https://www.videogameschronicle.com/news/ken-kutaragi-understands-why-playstation-fans-dont-want-to-give-up-physical-games/",
+        "date": "2026-10-16",
+        "summary": "索尼PlayStation之父久多良木健表示，他理解玩家将实体游戏盘视为\"拥有游戏\"的象征，但继续生产光盘在经济上已不合理，呼吁行业改变对数字拥有权的态度；他还提到随着AI与云计算成熟，游戏或将不再需要主机。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "前索尼PlayStation之父久多良木健谈玩家不愿放弃实体游戏盘，呼吁行业改变数字拥有权观念",
+          "url": "https://www.videogameschronicle.com/news/ken-kutaragi-understands-why-playstation-fans-dont-want-to-give-up-physical-games/",
+          "date": "2026-10-16",
+          "summary": "索尼PlayStation之父久多良木健表示，他理解玩家将实体游戏盘视为\"拥有游戏\"的象征，但继续生产光盘在经济上已不合理，呼吁行业改变对数字拥有权的态度；他还提到随着AI与云计算成熟，游戏或将不再需要主机。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "据报道《幽灵之地》发售一年销量约540万份，营收逼近前作《对马岛之魂》",
+        "url": "https://www.invenglobal.com/articles/27324/ghost-of-y%C5%8Dtei-sales-estimated-at-54-million-copies-revenue-rivals-predecessor",
+        "date": "2026-10-17",
+        "summary": "据市场分析机构Alinea Analytics估算（非索尼官方数据），《幽灵之地》发售约一年来销量约540万份，比前作《对马岛之魂》少约150万份，但因定价更高、折扣较少，约4.07亿美元营收仅落后前作约3%。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据报道《幽灵之地》发售一年销量约540万份，营收逼近前作《对马岛之魂》",
+          "url": "https://www.invenglobal.com/articles/27324/ghost-of-y%C5%8Dtei-sales-estimated-at-54-million-copies-revenue-rivals-predecessor",
+          "date": "2026-10-17",
+          "summary": "据市场分析机构Alinea Analytics估算（非索尼官方数据），《幽灵之地》发售约一年来销量约540万份，比前作《对马岛之魂》少约150万份，但因定价更高、折扣较少，约4.07亿美元营收仅落后前作约3%。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "GameDiscoverCo调查：42.4%的Steam用户只在PC上玩游戏",
+        "url": "https://www.invenglobal.com/articles/27320/424-of-steam-users-play-pc-games-exclusively",
+        "date": "2026-10-17",
+        "summary": "GameDiscoverCo对超过1.6万名Steam用户的调查显示，42.4%的受访者只在PC上玩游戏，15.6%同时使用PC、主机与手机；该机构创始人Simon Carless提醒，受访群体为高度活跃的核心玩家，未必代表整体Steam用户。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "GameDiscoverCo调查：42.4%的Steam用户只在PC上玩游戏",
+          "url": "https://www.invenglobal.com/articles/27320/424-of-steam-users-play-pc-games-exclusively",
+          "date": "2026-10-17",
+          "summary": "GameDiscoverCo对超过1.6万名Steam用户的调查显示，42.4%的受访者只在PC上玩游戏，15.6%同时使用PC、主机与手机；该机构创始人Simon Carless提醒，受访群体为高度活跃的核心玩家，未必代表整体Steam用户。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "担忧遭AI换皮抢先上架，独立开发者取消公开试玩Demo",
+        "url": "https://www.invenglobal.com/articles/27321/fearing-ai-copycats-indie-developers-pull-public-demos",
+        "date": "2026-10-17",
+        "summary": "独立开发商Alliance Arts与WHO YOU因担忧AI辅助克隆游戏抢先登陆Steam，取消了原定10月19日的公开试玩，改为小范围抽签封闭测试；另一款游戏《Needle In A Haystack Simulator》发售前已遭遇至少8款仿品。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "担忧遭AI换皮抢先上架，独立开发者取消公开试玩Demo",
+          "url": "https://www.invenglobal.com/articles/27321/fearing-ai-copycats-indie-developers-pull-public-demos",
+          "date": "2026-10-17",
+          "summary": "独立开发商Alliance Arts与WHO YOU因担忧AI辅助克隆游戏抢先登陆Steam，取消了原定10月19日的公开试玩，改为小范围抽签封闭测试；另一款游戏《Needle In A Haystack Simulator》发售前已遭遇至少8款仿品。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "网易《漫威争锋》加大聊天辱骂处罚力度，公布新版运营处罚政策",
+        "url": "https://www.invenglobal.com/articles/27326/marvel-rivals-strengthens-penalties-for-text-and-voice-chat-abuse-unveils-operational-policy",
+        "date": "2026-10-17",
+        "summary": "网易游戏10月16日宣布加强对《漫威争锋》文字与语音聊天辱骂行为的处罚，并上线新版运营处罚政策页面，处罚范围从警告到最长365天禁言、匹配限制乃至长期封号，由自动检测结合人工审核执行。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "网易《漫威争锋》加大聊天辱骂处罚力度，公布新版运营处罚政策",
+          "url": "https://www.invenglobal.com/articles/27326/marvel-rivals-strengthens-penalties-for-text-and-voice-chat-abuse-unveils-operational-policy",
+          "date": "2026-10-17",
+          "summary": "网易游戏10月16日宣布加强对《漫威争锋》文字与语音聊天辱骂行为的处罚，并上线新版运营处罚政策页面，处罚范围从警告到最长365天禁言、匹配限制乃至长期封号，由自动检测结合人工审核执行。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Telltale《美女与狼人》重制版Switch版延期，PS5/Xbox/PC版10月29日如期发售",
+        "url": "https://www.gematsu.com/2026/10/the-wolf-among-us-remastered-for-switch-delayed-to-unannounced-date",
+        "date": "2026-10-16",
+        "summary": "Telltale Games宣布《美女与狼人》重制版Switch版将从原定10月29日延期至未公布的新日期，理由是该作首次登陆Switch平台，需要额外时间优化体验；PS5、Xbox与PC版本不受影响仍按期发售。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Telltale《美女与狼人》重制版Switch版延期，PS5/Xbox/PC版10月29日如期发售",
+          "url": "https://www.gematsu.com/2026/10/the-wolf-among-us-remastered-for-switch-delayed-to-unannounced-date",
+          "date": "2026-10-16",
+          "summary": "Telltale Games宣布《美女与狼人》重制版Switch版将从原定10月29日延期至未公布的新日期，理由是该作首次登陆Switch平台，需要额外时间优化体验；PS5、Xbox与PC版本不受影响仍按期发售。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "农场模拟游戏《珊瑚岛》确认登陆Switch 2，将伴随\"孩子成长\"1.4版本更新推出",
+        "url": "https://www.gematsu.com/2026/10/coral-island-coming-to-switch-2-this-winter-alongside-version-1-4-update",
+        "date": "2026-10-16",
+        "summary": "发行商Balor Games与开发商Stairway Games宣布《珊瑚岛》将于今年冬季登陆Switch 2平台，并同步推出名为\"孩子成长\"的1.4版本更新，玩家可抚养孩子并培养其个性发展。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "农场模拟游戏《珊瑚岛》确认登陆Switch 2，将伴随\"孩子成长\"1.4版本更新推出",
+          "url": "https://www.gematsu.com/2026/10/coral-island-coming-to-switch-2-this-winter-alongside-version-1-4-update",
+          "date": "2026-10-16",
+          "summary": "发行商Balor Games与开发商Stairway Games宣布《珊瑚岛》将于今年冬季登陆Switch 2平台，并同步推出名为\"孩子成长\"的1.4版本更新，玩家可抚养孩子并培养其个性发展。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《堪称邪恶的不得安宁》公布1.0版本内容：24个职业、362种特质，游戏体量近乎翻倍",
+        "url": "https://www.gematsu.com/2026/10/no-rest-for-the-wicked-details-new-class-systems-version-1-0-enhancements",
+        "date": "2026-10-16",
+        "summary": "开发商Moon Studios在\"Wicked Inside\"展示活动中公布《No Rest for the Wicked》1.0版本内容，将新增24个职业与362种特质、六大阵营及Cerim Cores系统，游戏体量近乎翻倍；该作将于2027年3月登陆PS5与Steam，Xbox Series与Switch 2版本随后跟进。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《堪称邪恶的不得安宁》公布1.0版本内容：24个职业、362种特质，游戏体量近乎翻倍",
+          "url": "https://www.gematsu.com/2026/10/no-rest-for-the-wicked-details-new-class-systems-version-1-0-enhancements",
+          "date": "2026-10-16",
+          "summary": "开发商Moon Studios在\"Wicked Inside\"展示活动中公布《No Rest for the Wicked》1.0版本内容，将新增24个职业与362种特质、六大阵营及Cerim Cores系统，游戏体量近乎翻倍；该作将于2027年3月登陆PS5与Steam，Xbox Series与Switch 2版本随后跟进。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "日本地区Switch与Switch 2维修费用上调",
+        "url": "https://www.siliconera.com/switch-and-switch-2-repairs-will-be-more-expensive-in-japan/",
+        "date": "2026-10-16",
+        "summary": "任天堂上调了日本地区Switch与Switch 2主机的官方维修费用，涉及多个维修项目的价格均有提升。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "日本地区Switch与Switch 2维修费用上调",
+          "url": "https://www.siliconera.com/switch-and-switch-2-repairs-will-be-more-expensive-in-japan/",
+          "date": "2026-10-16",
+          "summary": "任天堂上调了日本地区Switch与Switch 2主机的官方维修费用，涉及多个维修项目的价格均有提升。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《羔羊教派》Switch 2版本上线，老用户可免费升级",
+        "url": "https://www.siliconera.com/cult-of-the-lamb-switch-2-version-launches-with-free-upgrade/",
+        "date": "2026-10-16",
+        "summary": "《羔羊教派》（Cult of the Lamb）Switch 2版本已正式上线，原Switch版玩家可免费升级体验。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《羔羊教派》Switch 2版本上线，老用户可免费升级",
+          "url": "https://www.siliconera.com/cult-of-the-lamb-switch-2-version-launches-with-free-upgrade/",
+          "date": "2026-10-16",
+          "summary": "《羔羊教派》（Cult of the Lamb）Switch 2版本已正式上线，原Switch版玩家可免费升级体验。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《Deadlock》解锁新英雄\"Violet\"，加入\"永不眠之城\"版本",
+        "url": "https://www.invenglobal.com/articles/27313/deadlock-unlocks-artist-hero-violet-in-city-never-sleeps",
+        "date": "2026-10-16",
+        "summary": "Valve旗下《Deadlock》在\"City Never Sleeps\"版本更新中解锁了新英雄\"Violet\"，为设定中的艺术家角色。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《Deadlock》解锁新英雄\"Violet\"，加入\"永不眠之城\"版本",
+          "url": "https://www.invenglobal.com/articles/27313/deadlock-unlocks-artist-hero-violet-in-city-never-sleeps",
+          "date": "2026-10-16",
+          "summary": "Valve旗下《Deadlock》在\"City Never Sleeps\"版本更新中解锁了新英雄\"Violet\"，为设定中的艺术家角色。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "牛津大学研究：《动物园管理员》等经营模拟游戏玩家更积极参与野生动物保护",
+        "url": "https://www.invenglobal.com/articles/27323/zoo-management-planet-zoo-players-more-active-in-wildlife-conservation",
+        "date": "2026-10-17",
+        "summary": "牛津大学一项研究发现，《Planet Zoo》等动物园经营模拟游戏的玩家相较非玩家更倾向于参与野生动物保护相关活动。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "牛津大学研究：《动物园管理员》等经营模拟游戏玩家更积极参与野生动物保护",
+          "url": "https://www.invenglobal.com/articles/27323/zoo-management-planet-zoo-players-more-active-in-wildlife-conservation",
+          "date": "2026-10-17",
+          "summary": "牛津大学一项研究发现，《Planet Zoo》等动物园经营模拟游戏的玩家相较非玩家更倾向于参与野生动物保护相关活动。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [
+    {
+      "title": "印度手游工作室Spill Games完成1050万美元A轮融资，Elevation Capital领投",
+      "url": "https://www.pocketgamer.biz/indias-spill-games-raises-105m-in-series-a-funding/",
+      "date": "2026-10-15",
+      "summary": "印度班加罗尔手游工作室Spill Games宣布完成1050万美元A轮融资，由Elevation Capital领投，Centre Court Capital与PeerCapital等跟投，资金将用于游戏开发、用户获取及团队扩张。",
+      "section": 3,
+      "_date_parsed": "2026-10-15"
+    }
+  ],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

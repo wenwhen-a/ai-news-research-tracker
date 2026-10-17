@@ -1,0 +1,3 @@
+- **[《羔羊教派》Switch 2版本上线，老用户可免费升级]**（2026-10-16）— 《羔羊教派》（Cult of the Lamb）Switch 2版本已正式上线，原Switch版玩家可免费升级体验。 <https://www.siliconera.com/cult-of-the-lamb-switch-2-version-launches-with-free-upgrade/>
+- **[《Deadlock》解锁新英雄"Violet"，加入"永不眠之城"版本]**（2026-10-16）— Valve旗下《Deadlock》在"City Never Sleeps"版本更新中解锁了新英雄"Violet"，为设定中的艺术家角色。 <https://www.invenglobal.com/articles/27313/deadlock-unlocks-artist-hero-violet-in-city-never-sleeps>
+- **[牛津大学研究：《动物园管理员》等经营模拟游戏玩家更积极参与野生动物保护]**（2026-10-17）— 牛津大学一项研究发现，《Planet Zoo》等动物园经营模拟游戏的玩家相较非玩家更倾向于参与野生动物保护相关活动。 <https://www.invenglobal.com/articles/27323/zoo-management-planet-zoo-players-more-active-in-wildlife-conservation>

@@ -1,0 +1,569 @@
+{
+  "as_of": "2026-10-17",
+  "cutoff": "2026-10-10",
+  "window_days": 7,
+  "summary": {
+    "input_items": 24,
+    "denied_source": 0,
+    "in_window": 24,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 22,
+    "duplicate_clusters": 2,
+    "section1_count": 4,
+    "section2_count": 18,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 16,
+    "previously_covered_count": 6
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "【更新】NVIDIA RTX Spark正式发售,首发支持数百款游戏,DLSS 5新增“3D引导神经渲染”技术",
+        "url": "https://www.nvidia.com/en-us/geforce/news/rtx-spark-dlss-reflex-ray-tracing-games/",
+        "date": "2026-10-16",
+        "summary": "NVIDIA的AI PC平台RTX Spark于10月16日正式发售,首发即有数百款游戏支持,包括《堡垒之夜》《反恐精英2》《无主之地》《霍格沃茨之遗》《魔兽世界》等,《使命召唤》《PUBG》等将于2027年跟进;新机全面支持DLSS 5(超分辨率、光线重建、动态多帧生成),并新增利用AI生成光照与材质细节的“3D引导神经渲染”技术,同时与BattleEye、Easy Anti-Cheat、Vanguard等反作弊厂商合作以支持更多在线游戏。此前简报仅报道该平台计划于10月16日发售,此次为确认上市后的首发游戏阵容与新渲染技术细节。",
+        "section": 1,
+        "source_tier": "1"
+      },
+      "members": [
+        {
+          "title": "【更新】NVIDIA RTX Spark正式发售,首发支持数百款游戏,DLSS 5新增“3D引导神经渲染”技术",
+          "url": "https://www.nvidia.com/en-us/geforce/news/rtx-spark-dlss-reflex-ray-tracing-games/",
+          "date": "2026-10-16",
+          "summary": "NVIDIA的AI PC平台RTX Spark于10月16日正式发售,首发即有数百款游戏支持,包括《堡垒之夜》《反恐精英2》《无主之地》《霍格沃茨之遗》《魔兽世界》等,《使命召唤》《PUBG》等将于2027年跟进;新机全面支持DLSS 5(超分辨率、光线重建、动态多帧生成),并新增利用AI生成光照与材质细节的“3D引导神经渲染”技术,同时与BattleEye、Easy Anti-Cheat、Vanguard等反作弊厂商合作以支持更多在线游戏。此前简报仅报道该平台计划于10月16日发售,此次为确认上市后的首发游戏阵容与新渲染技术细节。",
+          "section": 1,
+          "source_tier": "1"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "NVIDIA公布DLSS 5最新动态:RTX Remix将于10月23日接入新模型,《使命召唤:现代战争4》战役提前体验同步支持DLSS 4.5",
+        "url": "https://www.nvidia.com/en-us/geforce/news/dlss-4-5-crossout-remastered-modern-warfare-4-frame-gen-beta/",
+        "date": "2026-10-13",
+        "summary": "NVIDIA宣布免费模组平台RTX Remix将于10月23日获得DLSS 5及其最新AI模型支持,用于老游戏的路径追踪重制;《使命召唤:现代战争4》战役提前体验版10月16日上线并支持DLSS 4.5超分辨率与帧生成,RTX 50系列可开启最高6倍动态多帧生成,全系列将于10月23日全面发售。NVIDIA应用商店同时为DLSS 4.5帧生成推出“Preset C”测试版,改用更轻量算法处理光流计算,在RTX 5060上帧生成速度最高提升35%。",
+        "section": 2,
+        "source_tier": "1"
+      },
+      "members": [
+        {
+          "title": "NVIDIA公布DLSS 5最新动态:RTX Remix将于10月23日接入新模型,《使命召唤:现代战争4》战役提前体验同步支持DLSS 4.5",
+          "url": "https://www.nvidia.com/en-us/geforce/news/dlss-4-5-crossout-remastered-modern-warfare-4-frame-gen-beta/",
+          "date": "2026-10-13",
+          "summary": "NVIDIA宣布免费模组平台RTX Remix将于10月23日获得DLSS 5及其最新AI模型支持,用于老游戏的路径追踪重制;《使命召唤:现代战争4》战役提前体验版10月16日上线并支持DLSS 4.5超分辨率与帧生成,RTX 50系列可开启最高6倍动态多帧生成,全系列将于10月23日全面发售。NVIDIA应用商店同时为DLSS 4.5帧生成推出“Preset C”测试版,改用更轻量算法处理光流计算,在RTX 5060上帧生成速度最高提升35%。",
+          "section": 2,
+          "source_tier": "1"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "日本游戏《PUKEY GODDESS SHOT TRICK》因担忧AI抄袭取消试玩版公测,改为抽选封闭测试",
+        "url": "https://www.famitsu.com/article/202610/91245",
+        "date": "2026-10-16",
+        "summary": "日本发行商Alliance Arts与开发商WHO YOU宣布取消原定10月19日公开发布的《PUKEY GODDESS SHOT TRICK》试玩版,原因包括难以妥善管理游玩视频传播规则,以及担忧生成式AI可能在游戏正式发售前快速复制、模仿其玩法与表现形式;替代方案是通过官方Discord抽选玩家参加封闭线上试玩会,游戏定于12月8日以666日元价格正式发售。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "日本游戏《PUKEY GODDESS SHOT TRICK》因担忧AI抄袭取消试玩版公测,改为抽选封闭测试",
+          "url": "https://www.famitsu.com/article/202610/91245",
+          "date": "2026-10-16",
+          "summary": "日本发行商Alliance Arts与开发商WHO YOU宣布取消原定10月19日公开发布的《PUKEY GODDESS SHOT TRICK》试玩版,原因包括难以妥善管理游玩视频传播规则,以及担忧生成式AI可能在游戏正式发售前快速复制、模仿其玩法与表现形式;替代方案是通过官方Discord抽选玩家参加封闭线上试玩会,游戏定于12月8日以666日元价格正式发售。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "索尼“生成式超采样”专利曝光:拟用控制器输入数据预测AI插帧效果",
+        "url": "https://www.ithome.com/1/014/310.htm",
+        "date": "2026-10-17",
+        "summary": "据IGN报道,索尼互动娱乐(SIE)申请了名为“Generation Super Sampling”的专利(编号US-20260320740-A1),利用玩家控制器输入数据预测画面变化,再由专有AI模型生成插帧画面,称可降低延迟与卡顿,且能在目标帧前后生成任意数量插帧,而非仅预测下一帧;文章同时提及索尼近期另两项专利,分别涉及监测主机健康状态的AI代理及手柄内置NFC读卡器,但专利申请本身不代表该技术必然会应用于未来主机。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "索尼“生成式超采样”专利曝光:拟用控制器输入数据预测AI插帧效果",
+          "url": "https://www.ithome.com/1/014/310.htm",
+          "date": "2026-10-17",
+          "summary": "据IGN报道,索尼互动娱乐(SIE)申请了名为“Generation Super Sampling”的专利(编号US-20260320740-A1),利用玩家控制器输入数据预测画面变化,再由专有AI模型生成插帧画面,称可降低延迟与卡顿,且能在目标帧前后生成任意数量插帧,而非仅预测下一帧;文章同时提及索尼近期另两项专利,分别涉及监测主机健康状态的AI代理及手柄内置NFC读卡器,但专利申请本身不代表该技术必然会应用于未来主机。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "民间移植DLSS 5神经渲染模型文件至未官方支持游戏,实测帧率提升30%-40%",
+        "url": "https://www.ithome.com/1/014/304.htm",
+        "date": "2026-10-17",
+        "summary": "据Wccftech报道,基于OptiScaler-DLSSNR-PreSR-Multipass分支的社区项目,从目前唯一官方支持DLSS 5的《NBA 2K27》更新文件中提取出新版nvngx_dlssnr.dll(310.9.16.0),并将其移植到其他未获官方支持的游戏中;测试者在RTX 4060上运行《极限竞速:地平线6》帧率提升近40%,《生化危机:圣体》提升约30%,RTX 4080 SUPER在4K路径追踪、DLSS性能模式叠加4倍多帧生成下帧率由108提升至150FPS。报道强调这仍是早期社区测试,效果因游戏、显卡与场景而异,与此前基于传统算法模拟DLSS效果的第三方工具原理不同。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "民间移植DLSS 5神经渲染模型文件至未官方支持游戏,实测帧率提升30%-40%",
+          "url": "https://www.ithome.com/1/014/304.htm",
+          "date": "2026-10-17",
+          "summary": "据Wccftech报道,基于OptiScaler-DLSSNR-PreSR-Multipass分支的社区项目,从目前唯一官方支持DLSS 5的《NBA 2K27》更新文件中提取出新版nvngx_dlssnr.dll(310.9.16.0),并将其移植到其他未获官方支持的游戏中;测试者在RTX 4060上运行《极限竞速:地平线6》帧率提升近40%,《生化危机:圣体》提升约30%,RTX 4080 SUPER在4K路径追踪、DLSS性能模式叠加4倍多帧生成下帧率由108提升至150FPS。报道强调这仍是早期社区测试,效果因游戏、显卡与场景而异,与此前基于传统算法模拟DLSS效果的第三方工具原理不同。",
+          "section": 2,
+          "source_tier": "2"
+        },
+        {
+          "title": "玩家移植英伟达DLSS 5神经渲染模型至旧版游戏，帧率最高提升近40%",
+          "url": "https://www.ithome.com/1/014/304.htm",
+          "date": "2026-10-17",
+          "summary": "IT之家10月17日报道，社区MOD项目从《NBA 2K27》更新文件中提取出全新DLSS 5神经渲染动态库（nvngx_dlssnr.dll），并移植到其他未官方支持该技术的游戏中：测试显示《极限竞速：地平线6》在RTX 4060上帧率提升约40%，《生化危机：安魂曲》提升约30%；另一测试者在RTX 4080 SUPER、4K路径追踪加DLSS性能档下，帧率由108帧提升至150帧（约39%）。文章提醒该移植为非官方操作，目前仅《NBA 2K27》获官方DLSS 5支持，效果可能因游戏、显卡与场景不同而有差异。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "开发者将破解版PS5改造为本地AI推理服务器,270亿参数模型推理速度达每秒约21个token",
+        "url": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram",
+        "date": "2026-10-16",
+        "summary": "开发者abhi245y基于Mert Cobanov的llama.cpp移植项目PS5LM制作出原生版“PS5LM Plus”,通过移植Mesa的AMD RADV驱动并使用Vulkan计算调用PS5 GPU,使Qwen3.8-27B模型推理速度从早期纯CPU方案的每分钟约1个token提升至约每秒20.9个token,可用内存也从约6GB提升至11.4GB;该方案提供网页聊天界面与局域网API,兼容OpenAI与Anthropic接口格式,可供Claude Code等工具连接,但运行需越狱主机,存在主机与PSN账号被封禁的风险。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "开发者将破解版PS5改造为本地AI推理服务器,270亿参数模型推理速度达每秒约21个token",
+          "url": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram",
+          "date": "2026-10-16",
+          "summary": "开发者abhi245y基于Mert Cobanov的llama.cpp移植项目PS5LM制作出原生版“PS5LM Plus”,通过移植Mesa的AMD RADV驱动并使用Vulkan计算调用PS5 GPU,使Qwen3.8-27B模型推理速度从早期纯CPU方案的每分钟约1个token提升至约每秒20.9个token,可用内存也从约6GB提升至11.4GB;该方案提供网页聊天界面与局域网API,兼容OpenAI与Anthropic接口格式,可供Claude Code等工具连接,但运行需越狱主机,存在主机与PSN账号被封禁的风险。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《模拟人生2》社区版规全面禁止“氛围编程”AI模组,称其质量低劣",
+        "url": "https://www.thegamer.com/the-sims-2-subreddit-bans-vibecoded-mods/",
+        "date": "2026-10-17",
+        "summary": "Reddit上的r/sims2版主团队宣布新规,全面禁止几乎完全由AI生成代码的“氛围编程”(vibe coding)模组,称其“质量低劣,不再被允许”,长期发布者将被封禁;常规模组作者如发布重大改动需申请“Modder”标签并确认作品未使用AI编程,过度使用AI修图的截图也可能被删除。文章同时提到r/skyrimmods等社区也出现过对Nexus Mods热门榜被AI内容充斥的类似担忧。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "《模拟人生2》社区版规全面禁止“氛围编程”AI模组,称其质量低劣",
+          "url": "https://www.thegamer.com/the-sims-2-subreddit-bans-vibecoded-mods/",
+          "date": "2026-10-17",
+          "summary": "Reddit上的r/sims2版主团队宣布新规,全面禁止几乎完全由AI生成代码的“氛围编程”(vibe coding)模组,称其“质量低劣,不再被允许”,长期发布者将被封禁;常规模组作者如发布重大改动需申请“Modder”标签并确认作品未使用AI编程,过度使用AI修图的截图也可能被删除。文章同时提到r/skyrimmods等社区也出现过对Nexus Mods热门榜被AI内容充斥的类似担忧。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "生成式AI公司员工称“不愿氛围编程的开发者应退出游戏行业”,引发社区争议",
+        "url": "https://www.thegamer.com/dev-of-abandoned-mostly-negative-steam-flop-wants-more-vibe-coded-games/",
+        "date": "2026-10-15",
+        "summary": "《Cine Tracer》开发者、现就职于一家生成式AI公司的Matt Workman在社交媒体表态,认为反对“氛围编程”或反对用生成式AI制作游戏美术的开发者应离开行业,并称“给真正的开发者让路”;他此前曾在2025年11月公开呼吁Steam等平台取消“AI制作”标签。其作品《Cine Tracer》与续作《Cine Tracer 2》目前在Steam评价分别为长期停留在抢先体验与“多半负面”,引来玩家对其言论的批评。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "生成式AI公司员工称“不愿氛围编程的开发者应退出游戏行业”,引发社区争议",
+          "url": "https://www.thegamer.com/dev-of-abandoned-mostly-negative-steam-flop-wants-more-vibe-coded-games/",
+          "date": "2026-10-15",
+          "summary": "《Cine Tracer》开发者、现就职于一家生成式AI公司的Matt Workman在社交媒体表态,认为反对“氛围编程”或反对用生成式AI制作游戏美术的开发者应离开行业,并称“给真正的开发者让路”;他此前曾在2025年11月公开呼吁Steam等平台取消“AI制作”标签。其作品《Cine Tracer》与续作《Cine Tracer 2》目前在Steam评价分别为长期停留在抢先体验与“多半负面”,引来玩家对其言论的批评。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《龙珠》孙悟空声优野泽雅子批AI克隆配音“不可原谅”,日本声优工会出台新规保护声优",
+        "url": "https://www.thegamer.com/dragon-ball-goku-voice-actor-masako-nozawa-ai-videos-reaction-unforgivable/",
+        "date": "2026-10-16",
+        "summary": "为《龙珠》系列孙悟空配音超40年的89岁日本声优野泽雅子在NHK采访中表示,AI“没有心”,即便是完美复刻也“不行”,并将AI克隆其配音制作的视频称为“偷窃”与“不可原谅”;此番言论发表于日本演员工会出台保护声优免受AI语音克隆新指引之后。英语版悟空声优Sean Schemmel此前也曾因怀疑自己的声音被AI克隆而不满,但后被证实只是真人高度模仿。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "《龙珠》孙悟空声优野泽雅子批AI克隆配音“不可原谅”,日本声优工会出台新规保护声优",
+          "url": "https://www.thegamer.com/dragon-ball-goku-voice-actor-masako-nozawa-ai-videos-reaction-unforgivable/",
+          "date": "2026-10-16",
+          "summary": "为《龙珠》系列孙悟空配音超40年的89岁日本声优野泽雅子在NHK采访中表示,AI“没有心”,即便是完美复刻也“不行”,并将AI克隆其配音制作的视频称为“偷窃”与“不可原谅”;此番言论发表于日本演员工会出台保护声优免受AI语音克隆新指引之后。英语版悟空声优Sean Schemmel此前也曾因怀疑自己的声音被AI克隆而不满,但后被证实只是真人高度模仿。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Epic Games称启动AI大转向：重新调配开发人员，与迪士尼合作项目据报延期",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-12/epic-games-delays-disney-project-asks-developers-to-use-more-ai",
+        "date": "2026-10-12",
+        "summary": "Epic Games CEO Tim Sweeney于10月12日在X上宣布公司进行\"巨大转向\"，正在重新调配开发人员以实现\"最大化AI加速\"，并表示目标不是用更少人做同样的事，而是让团队做得更多更好。彭博社同日报道称，Epic与迪士尼合作开发的一款漫威/星战题材未公布游戏已被要求转向\"AI优先\"开发模式，原定今年3月的上线计划据报已推迟。该转向发生在Epic半年前裁员逾千人之后，公司称裁员与AI无关。",
+        "section": 1,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Epic Games称启动AI大转向：重新调配开发人员，与迪士尼合作项目据报延期",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-12/epic-games-delays-disney-project-asks-developers-to-use-more-ai",
+          "date": "2026-10-12",
+          "summary": "Epic Games CEO Tim Sweeney于10月12日在X上宣布公司进行\"巨大转向\"，正在重新调配开发人员以实现\"最大化AI加速\"，并表示目标不是用更少人做同样的事，而是让团队做得更多更好。彭博社同日报道称，Epic与迪士尼合作开发的一款漫威/星战题材未公布游戏已被要求转向\"AI优先\"开发模式，原定今年3月的上线计划据报已推迟。该转向发生在Epic半年前裁员逾千人之后，公司称裁员与AI无关。",
+          "section": 1,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "米哈游生活模拟新游《星布谷地》终测上线首位\"继承记忆\"的AI NPC",
+        "url": "https://www.chuapp.com/article/291678.html",
+        "date": "2026-10-15",
+        "summary": "米哈游生活模拟游戏《星布谷地》于10月15日被触乐报道，其终测版本中的AI NPC\"娜洛\"成为业内首个可继承此前内测版本记忆的角色，玩家可自主选择是否保留记忆；另一NPC\"谷多曼\"则首次获得实体形象。报道称四个AI NPC共享同一套Agent架构与同一模型，采用\"多教师在线蒸馏\"方法训练，游戏计划于2026年冬季正式上线。文章还提到云端部署延迟与token消耗仍是AI团队需解决的成本难题。",
+        "section": 1,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "米哈游生活模拟新游《星布谷地》终测上线首位\"继承记忆\"的AI NPC",
+          "url": "https://www.chuapp.com/article/291678.html",
+          "date": "2026-10-15",
+          "summary": "米哈游生活模拟游戏《星布谷地》于10月15日被触乐报道，其终测版本中的AI NPC\"娜洛\"成为业内首个可继承此前内测版本记忆的角色，玩家可自主选择是否保留记忆；另一NPC\"谷多曼\"则首次获得实体形象。报道称四个AI NPC共享同一套Agent架构与同一模型，采用\"多教师在线蒸馏\"方法训练，游戏计划于2026年冬季正式上线。文章还提到云端部署延迟与token消耗仍是AI团队需解决的成本难题。",
+          "section": 1,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "昆仑万维旗下Skywork AI开源Matrix-Game 4.0，单张RTX 5090可实时生成可玩游戏画面",
+        "url": "https://github.com/SkyworkAI/Matrix-Game",
+        "date": "2026-10-15",
+        "summary": "昆仑万维AI团队Skywork AI于10月15日开源Matrix-Game 4.0，将传统游戏引擎与实时AI视频渲染结合：引擎负责世界状态、物理与交互规则，视频模型将简易低模画面实时渲染成精细画面，编码Agent可将玩家指令转化为新的游戏规则。据TechNode报道及GitHub官方页面，该系统在RTX 5090上可实现480p、60帧，输入到响应延迟低于150毫秒；10月16日进一步公开了技术报告，模型权重、推理代码与射击、驾驶场景的游戏素材均已开源（Apache-2.0协议）。",
+        "section": 1,
+        "source_tier": "1"
+      },
+      "members": [
+        {
+          "title": "昆仑万维旗下Skywork AI开源Matrix-Game 4.0，单张RTX 5090可实时生成可玩游戏画面",
+          "url": "https://github.com/SkyworkAI/Matrix-Game",
+          "date": "2026-10-15",
+          "summary": "昆仑万维AI团队Skywork AI于10月15日开源Matrix-Game 4.0，将传统游戏引擎与实时AI视频渲染结合：引擎负责世界状态、物理与交互规则，视频模型将简易低模画面实时渲染成精细画面，编码Agent可将玩家指令转化为新的游戏规则。据TechNode报道及GitHub官方页面，该系统在RTX 5090上可实现480p、60帧，输入到响应延迟低于150毫秒；10月16日进一步公开了技术报告，模型权重、推理代码与射击、驾驶场景的游戏素材均已开源（Apache-2.0协议）。",
+          "section": 1,
+          "source_tier": "1"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Epic宣布新版\"AI随性编写\"游戏商店启动器，自称启动速度快于Steam",
+        "url": "https://www.pcgamer.com/software/platforms/epic-says-its-new-vibe-coded-epic-games-store-launcher-is-faster-than-steam/",
+        "date": "2026-10-14",
+        "summary": "Epic于10月14日发布新版Epic Games Store启动器预览版，称其大量代码由AI\"随性编写\"（vibe coded）生成，这也是该启动器首次支持原生Linux。Epic委托第三方Keywords Studios测试，称冷启动仅需5.47秒，比Steam的10.07秒快46%；但报道指出该测试由Epic自行委托，且Valve随后在补丁说明中称已\"改进Steam客户端启动性能\"，用户实测启动时间约5.23秒，使Epic的领先优势很快被追平。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Epic宣布新版\"AI随性编写\"游戏商店启动器，自称启动速度快于Steam",
+          "url": "https://www.pcgamer.com/software/platforms/epic-says-its-new-vibe-coded-epic-games-store-launcher-is-faster-than-steam/",
+          "date": "2026-10-14",
+          "summary": "Epic于10月14日发布新版Epic Games Store启动器预览版，称其大量代码由AI\"随性编写\"（vibe coded）生成，这也是该启动器首次支持原生Linux。Epic委托第三方Keywords Studios测试，称冷启动仅需5.47秒，比Steam的10.07秒快46%；但报道指出该测试由Epic自行委托，且Valve随后在补丁说明中称已\"改进Steam客户端启动性能\"，用户实测启动时间约5.23秒，使Epic的领先优势很快被追平。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Drake Star三季度游戏行业报告：AI与工具类公司吸走八成私募融资，阿里出售灵犀互娱成最大并购案",
+        "url": "https://www.pocketgamer.biz/gaming-manda-reached-24bn-across-45-deals-in-q3-2026/",
+        "date": "2026-10-14",
+        "summary": "据Drake Star Partners发布并由PocketGamer.biz于10月14日报道的《全球游戏行业三季度报告》，2026年第三季度游戏行业并购总额达24亿美元（45笔交易），私募融资超16亿美元，其中AI与开发工具类公司吸纳逾八成私募资金，Meshy（4亿美元）、General Intuition（2.2亿美元）、VAST旗下Tripo AI（1.5亿美元）位列最大融资案。报告将阿里巴巴以超15亿美元出售灵犀互娱给信宸资本列为本季度最大并购交易，并预计AI、开发工具、3D内容生成等领域的投资将持续到年底。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Drake Star三季度游戏行业报告：AI与工具类公司吸走八成私募融资，阿里出售灵犀互娱成最大并购案",
+          "url": "https://www.pocketgamer.biz/gaming-manda-reached-24bn-across-45-deals-in-q3-2026/",
+          "date": "2026-10-14",
+          "summary": "据Drake Star Partners发布并由PocketGamer.biz于10月14日报道的《全球游戏行业三季度报告》，2026年第三季度游戏行业并购总额达24亿美元（45笔交易），私募融资超16亿美元，其中AI与开发工具类公司吸纳逾八成私募资金，Meshy（4亿美元）、General Intuition（2.2亿美元）、VAST旗下Tripo AI（1.5亿美元）位列最大融资案。报告将阿里巴巴以超15亿美元出售灵犀互娱给信宸资本列为本季度最大并购交易，并预计AI、开发工具、3D内容生成等领域的投资将持续到年底。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "报告称中国企业今年已采购逾百万张英伟达游戏及工作站显卡用于弥补AI算力缺口",
+        "url": "https://www.trendforce.com/news/2026/10/15/news-chinese-firms-reportedly-buy-over-1m-nvidia-gaming-workstation-chips-as-domestic-ai-supply-falls-short/",
+        "date": "2026-10-15",
+        "summary": "TrendForce于10月15日报道，据《经济日报》援引英国《金融时报》消息，中国企业今年已采购超过100万张英伟达RTX Pro 6000D、RTX Pro 5000及RTX 5090等游戏/工作站级显卡，用这些非专用AI芯片承担推理中的\"预填充\"等简单算力任务，以弥补国产AI芯片供给（预计350万片）与需求（超500万片）之间的缺口。报道称英伟达计划自12月起向中国出货约每季度50万张RTX Pro 5500，字节跳动据报正考虑订购约100万张。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "报告称中国企业今年已采购逾百万张英伟达游戏及工作站显卡用于弥补AI算力缺口",
+          "url": "https://www.trendforce.com/news/2026/10/15/news-chinese-firms-reportedly-buy-over-1m-nvidia-gaming-workstation-chips-as-domestic-ai-supply-falls-short/",
+          "date": "2026-10-15",
+          "summary": "TrendForce于10月15日报道，据《经济日报》援引英国《金融时报》消息，中国企业今年已采购超过100万张英伟达RTX Pro 6000D、RTX Pro 5000及RTX 5090等游戏/工作站级显卡，用这些非专用AI芯片承担推理中的\"预填充\"等简单算力任务，以弥补国产AI芯片供给（预计350万片）与需求（超500万片）之间的缺口。报道称英伟达计划自12月起向中国出货约每季度50万张RTX Pro 5500，字节跳动据报正考虑订购约100万张。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "游戏AI陪伴赛道洗牌：米哈游、网易旗下产品相继停运，腾讯\"鹅次元\"、快看\"Livo\"仍在内测",
+        "url": "https://news.pedaily.cn/202610/570383.shtml",
+        "date": "2026-10-16",
+        "summary": "投资界10月16日报道梳理游戏公司AI陪伴赛道现状：米哈游桌面AI陪伴软件《林离》及蔡浩宇旗下Anuttacon的AnuNeko已分别于8月、7月停止运营，网易云音乐AI情感陪伴应用\"妙时\"7月停服。与此同时，腾讯游戏陪伴产品\"鹅次元\"9月底曝光处于内测阶段，快手旗下快看漫画的\"Livo\"9月开启内测，上海继游\"代号：偏偏\"据10月13日报道正处内部测试阶段，均主打长期记忆与角色自主互动。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "游戏AI陪伴赛道洗牌：米哈游、网易旗下产品相继停运，腾讯\"鹅次元\"、快看\"Livo\"仍在内测",
+          "url": "https://news.pedaily.cn/202610/570383.shtml",
+          "date": "2026-10-16",
+          "summary": "投资界10月16日报道梳理游戏公司AI陪伴赛道现状：米哈游桌面AI陪伴软件《林离》及蔡浩宇旗下Anuttacon的AnuNeko已分别于8月、7月停止运营，网易云音乐AI情感陪伴应用\"妙时\"7月停服。与此同时，腾讯游戏陪伴产品\"鹅次元\"9月底曝光处于内测阶段，快手旗下快看漫画的\"Livo\"9月开启内测，上海继游\"代号：偏偏\"据10月13日报道正处内部测试阶段，均主打长期记忆与角色自主互动。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《创世online》开发者称AI工具已令游戏\"零Bug\"，每日修复问题仅需约一小时",
+        "url": "https://massivelyop.com/2026/10/15/richard-garriott-claims-that-shroud-of-the-avatar-has-no-bugs-whatsoever-thanks-to-ai-tools/",
+        "date": "2026-10-15",
+        "summary": "《创世online》（Shroud of the Avatar）创作者Richard Garriott在10月15日曝光的TechJesse播客访谈中称，该游戏长期维持约一千个未解决Bug，如今借助AI工具可在发现问题后约一小时内完成修复、重新编译并测试，目前已做到\"每天零Bug\"。他表示AI工具负责记录改动、比对并重新编译Bug报告，但每个修复方案仍由人工审核，并称团队是\"合乎道德\"地使用AI，将其定位为劳动工具而非创作主导。MassivelyOP指出该说法目前仅有Garriott本人的陈述，未见独立验证。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "《创世online》开发者称AI工具已令游戏\"零Bug\"，每日修复问题仅需约一小时",
+          "url": "https://massivelyop.com/2026/10/15/richard-garriott-claims-that-shroud-of-the-avatar-has-no-bugs-whatsoever-thanks-to-ai-tools/",
+          "date": "2026-10-15",
+          "summary": "《创世online》（Shroud of the Avatar）创作者Richard Garriott在10月15日曝光的TechJesse播客访谈中称，该游戏长期维持约一千个未解决Bug，如今借助AI工具可在发现问题后约一小时内完成修复、重新编译并测试，目前已做到\"每天零Bug\"。他表示AI工具负责记录改动、比对并重新编译Bug报告，但每个修复方案仍由人工审核，并称团队是\"合乎道德\"地使用AI，将其定位为劳动工具而非创作主导。MassivelyOP指出该说法目前仅有Garriott本人的陈述，未见独立验证。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《鸣潮》开发商库洛入股AI公司言之域科技，持股15%布局语音与数字人技术",
+        "url": "https://www.chuapp.com/article/291693.html",
+        "date": "2026-10-17",
+        "summary": "触乐10月17日的行业周报披露，《鸣潮》开发商库洛游戏已入股深圳多模态AI公司言之域科技，持股15%，该公司主要研发语音合成、实时对话与3D角色动画技术，目标是让虚拟角色能够\"开口说话\"而非仅有动作表现。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "《鸣潮》开发商库洛入股AI公司言之域科技，持股15%布局语音与数字人技术",
+          "url": "https://www.chuapp.com/article/291693.html",
+          "date": "2026-10-17",
+          "summary": "触乐10月17日的行业周报披露，《鸣潮》开发商库洛游戏已入股深圳多模态AI公司言之域科技，持股15%，该公司主要研发语音合成、实时对话与3D角色动画技术，目标是让虚拟角色能够\"开口说话\"而非仅有动作表现。",
+          "section": 2,
+          "source_tier": "2"
+        },
+        {
+          "title": "网易《燕云十六声》官方宣布11月支持英伟达DLSS 5并同步开放抢先体验",
+          "url": "https://www.chuapp.com/article/291693.html",
+          "date": "2026-10-17",
+          "summary": "据触乐10月17日行业周报转引官方介绍，网易旗下武侠游戏《燕云十六声》宣布预计将于11月正式支持NVIDIA DLSS 5神经渲染技术，并同步开放抢先体验，网易称已与英伟达联合调优该功能，使其成为国内首款官方支持DLSS 5的游戏。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Roblox将AI音频初创公司Audioscape团队收编，打造游戏内AI音频工具",
+        "url": "https://www.pocketgamer.biz/roblox-brings-audioscape-team-in-house-to-develop-ai-audio-tools/",
+        "date": "2026-10-12",
+        "summary": "PocketGamer.biz于10月12日报道，Roblox已将AI音频初创公司Audioscape团队收编至内部，其技术将并入Roblox创作者工具体系，创始人Sean Varah将主导平台音频与音乐方向的整体规划。双方未披露具体交易条款，但明确此前开发的\"AI音频Agent\"可协助创作者进行音效搜索、声音设计、音频编程与混音测试，目标是把接近3A级别的音频制作能力带给Roblox创作者。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Roblox将AI音频初创公司Audioscape团队收编，打造游戏内AI音频工具",
+          "url": "https://www.pocketgamer.biz/roblox-brings-audioscape-team-in-house-to-develop-ai-audio-tools/",
+          "date": "2026-10-12",
+          "summary": "PocketGamer.biz于10月12日报道，Roblox已将AI音频初创公司Audioscape团队收编至内部，其技术将并入Roblox创作者工具体系，创始人Sean Varah将主导平台音频与音乐方向的整体规划。双方未披露具体交易条款，但明确此前开发的\"AI音频Agent\"可协助创作者进行音效搜索、声音设计、音频编程与混音测试，目标是把接近3A级别的音频制作能力带给Roblox创作者。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "游戏发行平台Playgama推出AI Agent工具，支持Claude Code等编码Agent直接发布游戏",
+        "url": "https://www.pocketgamer.biz/playgama-launches-tools-for-ai-agents-to-publish-and-improve-games/",
+        "date": "2026-10-14",
+        "summary": "PocketGamer.biz于10月14日报道，游戏发行平台Playgama推出Playgama MCP、Playgama Sandbox与升级版Bridge SDK三件套工具，使Claude Code、Codex等AI编码Agent可直接上传、测试并迭代网页游戏，开发者可借助平台玩家数据持续优化游戏，并在表现良好后转入更广泛的分发渠道获取广告收入。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "游戏发行平台Playgama推出AI Agent工具，支持Claude Code等编码Agent直接发布游戏",
+          "url": "https://www.pocketgamer.biz/playgama-launches-tools-for-ai-agents-to-publish-and-improve-games/",
+          "date": "2026-10-14",
+          "summary": "PocketGamer.biz于10月14日报道，游戏发行平台Playgama推出Playgama MCP、Playgama Sandbox与升级版Bridge SDK三件套工具，使Claude Code、Codex等AI编码Agent可直接上传、测试并迭代网页游戏，开发者可借助平台玩家数据持续优化游戏，并在表现良好后转入更广泛的分发渠道获取广告收入。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《战地风云6》第五赛季付费皮肤被玩家指控系AI生成，装备细节与文字出现明显破绽",
+        "url": "https://www.ithome.com/1/014/119.htm",
+        "date": "2026-10-16",
+        "summary": "IT之家10月16日转引Kotaku报道称，EA《战地风云6》第五赛季\"维加斯围城\"战令中多款新角色付费皮肤被玩家质疑为AI生成：有角色战术背心上弹匣数量异常多，另一角色同时携带五把手枪，安全臂章上的\"Security\"被拼成\"Secuty\"，材质还出现AI生成图像常见的融合痕迹。截至报道时开发方尚未明确回应是否使用生成式AI制作这些付费内容，玩家对为疑似AI皮肤付费表达不满。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "《战地风云6》第五赛季付费皮肤被玩家指控系AI生成，装备细节与文字出现明显破绽",
+          "url": "https://www.ithome.com/1/014/119.htm",
+          "date": "2026-10-16",
+          "summary": "IT之家10月16日转引Kotaku报道称，EA《战地风云6》第五赛季\"维加斯围城\"战令中多款新角色付费皮肤被玩家质疑为AI生成：有角色战术背心上弹匣数量异常多，另一角色同时携带五把手枪，安全臂章上的\"Security\"被拼成\"Secuty\"，材质还出现AI生成图像常见的融合痕迹。截至报道时开发方尚未明确回应是否使用生成式AI制作这些付费内容，玩家对为疑似AI皮肤付费表达不满。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "开发者将破解版PS5改造成本地AI服务器，27B参数模型跑出20.9 token/s",
+        "url": "https://www.ithome.com/1/014/372.htm",
+        "date": "2026-10-17",
+        "summary": "IT之家10月17日转引Wccftech报道，开发者abhi245y基于PS5LM项目推出PS5LM Plus，通过移植开源Mesa项目的AMD RADV驱动并以Vulkan计算方式运行llama.cpp，让破解版PS5变成本地AI服务器，可用GPU加速运行高度量化的Qwen3.8-27B模型，速度约20.9 token/s，可用内存也从约6GB提升到11.4GB；该方案提供网页聊天界面及兼容OpenAI/Anthropic接口的局域网API，但需对主机进行破解，存在被封禁PSN账号的风险。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "开发者将破解版PS5改造成本地AI服务器，27B参数模型跑出20.9 token/s",
+          "url": "https://www.ithome.com/1/014/372.htm",
+          "date": "2026-10-17",
+          "summary": "IT之家10月17日转引Wccftech报道，开发者abhi245y基于PS5LM项目推出PS5LM Plus，通过移植开源Mesa项目的AMD RADV驱动并以Vulkan计算方式运行llama.cpp，让破解版PS5变成本地AI服务器，可用GPU加速运行高度量化的Qwen3.8-27B模型，速度约20.9 token/s，可用内存也从约6GB提升到11.4GB；该方案提供网页聊天界面及兼容OpenAI/Anthropic接口的局域网API，但需对主机进行破解，存在被封禁PSN账号的风险。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [
+    [
+      {
+        "title": "民间移植DLSS 5神经渲染模型文件至未官方支持游戏,实测帧率提升30%-40%",
+        "url": "https://www.ithome.com/1/014/304.htm",
+        "date": "2026-10-17",
+        "summary": "据Wccftech报道,基于OptiScaler-DLSSNR-PreSR-Multipass分支的社区项目,从目前唯一官方支持DLSS 5的《NBA 2K27》更新文件中提取出新版nvngx_dlssnr.dll(310.9.16.0),并将其移植到其他未获官方支持的游戏中;测试者在RTX 4060上运行《极限竞速:地平线6》帧率提升近40%,《生化危机:圣体》提升约30%,RTX 4080 SUPER在4K路径追踪、DLSS性能模式叠加4倍多帧生成下帧率由108提升至150FPS。报道强调这仍是早期社区测试,效果因游戏、显卡与场景而异,与此前基于传统算法模拟DLSS效果的第三方工具原理不同。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      {
+        "title": "玩家移植英伟达DLSS 5神经渲染模型至旧版游戏，帧率最高提升近40%",
+        "url": "https://www.ithome.com/1/014/304.htm",
+        "date": "2026-10-17",
+        "summary": "IT之家10月17日报道，社区MOD项目从《NBA 2K27》更新文件中提取出全新DLSS 5神经渲染动态库（nvngx_dlssnr.dll），并移植到其他未官方支持该技术的游戏中：测试显示《极限竞速：地平线6》在RTX 4060上帧率提升约40%，《生化危机：安魂曲》提升约30%；另一测试者在RTX 4080 SUPER、4K路径追踪加DLSS性能档下，帧率由108帧提升至150帧（约39%）。文章提醒该移植为非官方操作，目前仅《NBA 2K27》获官方DLSS 5支持，效果可能因游戏、显卡与场景不同而有差异。",
+        "section": 2,
+        "source_tier": "2"
+      }
+    ],
+    [
+      {
+        "title": "《鸣潮》开发商库洛入股AI公司言之域科技，持股15%布局语音与数字人技术",
+        "url": "https://www.chuapp.com/article/291693.html",
+        "date": "2026-10-17",
+        "summary": "触乐10月17日的行业周报披露，《鸣潮》开发商库洛游戏已入股深圳多模态AI公司言之域科技，持股15%，该公司主要研发语音合成、实时对话与3D角色动画技术，目标是让虚拟角色能够\"开口说话\"而非仅有动作表现。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      {
+        "title": "网易《燕云十六声》官方宣布11月支持英伟达DLSS 5并同步开放抢先体验",
+        "url": "https://www.chuapp.com/article/291693.html",
+        "date": "2026-10-17",
+        "summary": "据触乐10月17日行业周报转引官方介绍，网易旗下武侠游戏《燕云十六声》宣布预计将于11月正式支持NVIDIA DLSS 5神经渲染技术，并同步开放抢先体验，网易称已与英伟达联合调优该功能，使其成为国内首款官方支持DLSS 5的游戏。",
+        "section": 2,
+        "source_tier": "2"
+      }
+    ]
+  ],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
