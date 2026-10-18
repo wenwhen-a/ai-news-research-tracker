@@ -1,0 +1,1 @@
+- **前V社员工评Steam一直被当MMO运营，暗讽Epic"氛围编程"重做启动器**（2026-10-17）— 据GamesRadar报道，前V社撰稿人Chet Faliszek表示，Valve多年来一直将Steam视为一款MMO产品而非单纯商店来运营，并评价Epic Games Store方向不清、功能单薄，对Epic计划用"氛围编程"重做启动器反超Steam的说法表示怀疑。 <https://www.ithome.com/1/014/307.htm>

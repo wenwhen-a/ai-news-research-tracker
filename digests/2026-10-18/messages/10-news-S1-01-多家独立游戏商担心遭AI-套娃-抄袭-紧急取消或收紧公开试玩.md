@@ -1,0 +1,15 @@
+**[新闻 1] 多家独立游戏商担心遭AI"套娃"抄袭，紧急取消或收紧公开试玩计划**
+- **日期：** 2026-10-17
+- **来源链接：** <https://www.invenglobal.com/articles/27321/fearing-ai-copycats-indie-developers-pull-public-demos>
+- **核心事实：**
+  - Alliance Arts和WHO YOU工作室10月16日通过Steam官方社区公告，取消原定10月19日举行的《Drunken Goddess Reflux》公开试玩，改为邀请制的小范围封闭在线测试。
+  - 开发者给出两个理由：难以约束试玩画面的发布与直播规则；担心AI工具能快速复刻试玩呈现的画面与机制，使仿作抢先于正式版发布。
+  - Studio Bitdot制作的病毒式游戏《Needle In A Haystack Simulator》（在约500万根干草中寻找一根针）走红后，至少有8款名称与玩法高度相似的游戏抢先在Steam上架，工作室被迫在商店图片上加注"ORIGINAL"字样以示区分。
+  - 独立开发者"sgthale"制作的《Family Time》（与狼人伴侣共同抚养数千名孩子）登上Steam愿望单前列后，由Hilly Games制作的同名仿作随即出现（将狼人换成狐狸并加入联机要素），原作者已就商店页面文案与版式的高度相似性提交DMCA下架申请。
+- **背景与起因：**
+  - 报道指出，游戏创意被抄袭并非新现象，但生成式AI与各类开发工具大幅降低了将一个走红概念转化为可玩游戏所需的时间与成本。
+  - 这正在动摇独立游戏行业"尽早公开试玩以积累关注度"的传统营销策略，越来越多开发者转为推迟或限制游戏的早期曝光，以防被AI辅助的仿作抢跑。
+- **结果与进展：**
+  - 《Drunken Goddess Reflux》的试玩形式由公开改为通过Discord征集名额的小范围邀请制封闭测试。
+  - 《Needle In A Haystack Simulator》持续使用"ORIGINAL"标签帮助玩家在一众仿作中辨别正版。
+  - 《Family Time》原作者针对仿作商店页面提交的DMCA版权投诉已进入处理流程。

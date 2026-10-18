@@ -1,0 +1,140 @@
+{
+  "as_of": "2026-10-18",
+  "cutoff": "2026-10-11",
+  "window_days": 7,
+  "summary": {
+    "input_items": 6,
+    "denied_source": 0,
+    "in_window": 6,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 6,
+    "duplicate_clusters": 0,
+    "section1_count": 2,
+    "section2_count": 4,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 5,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "多家独立游戏商担心遭AI\"套娃\"抄袭，紧急取消或收紧公开试玩计划",
+        "url": "https://www.invenglobal.com/articles/27321/fearing-ai-copycats-indie-developers-pull-public-demos",
+        "date": "2026-10-17",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "多家独立游戏商担心遭AI\"套娃\"抄袭，紧急取消或收紧公开试玩计划",
+          "url": "https://www.invenglobal.com/articles/27321/fearing-ai-copycats-indie-developers-pull-public-demos",
+          "date": "2026-10-17",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "谷歌DeepMind Gemini 4 Argon智能体首次在无人类协助下通关《我的世界》并击败末影龙",
+        "url": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/",
+        "date": "2026-10-18",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "谷歌DeepMind Gemini 4 Argon智能体首次在无人类协助下通关《我的世界》并击败末影龙",
+          "url": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/",
+          "date": "2026-10-18",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "NVIDIA为GeForce NOW云游戏服务上线DLSS 4.5画质控制选项",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
+        "date": "2026-10-15",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "NVIDIA为GeForce NOW云游戏服务上线DLSS 4.5画质控制选项",
+          "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
+          "date": "2026-10-15",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "【更新】快手可灵AI新一代视频生成模型Kling 4.0正式全量上线，支持30秒生成、4K HDR及21:9超宽画幅",
+        "url": "https://kling.ai/",
+        "date": "2026-10-15",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "【更新】快手可灵AI新一代视频生成模型Kling 4.0正式全量上线，支持30秒生成、4K HDR及21:9超宽画幅",
+          "url": "https://kling.ai/",
+          "date": "2026-10-15",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "AI角色扮演应用Character.AI申请破产保护，中国游戏媒体借其案例警示\"AI游戏\"商业模式困境",
+        "url": "https://www.cbsnews.com/news/character-ai-files-bankruptcy-disney-license/",
+        "date": "2026-10-16",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "AI角色扮演应用Character.AI申请破产保护，中国游戏媒体借其案例警示\"AI游戏\"商业模式困境",
+          "url": "https://www.cbsnews.com/news/character-ai-files-bankruptcy-disney-license/",
+          "date": "2026-10-16",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "印度AI原生手游工作室Spill Games获Elevation Capital领投1050万美元A轮融资",
+        "url": "https://www.pocketgamer.biz/indias-spill-games-raises-105m-in-series-a-funding/",
+        "date": "2026-10-15",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "印度AI原生手游工作室Spill Games获Elevation Capital领投1050万美元A轮融资",
+          "url": "https://www.pocketgamer.biz/indias-spill-games-raises-105m-in-series-a-funding/",
+          "date": "2026-10-15",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

@@ -1,0 +1,767 @@
+{
+  "as_of": "2026-10-18",
+  "cutoff": "2026-10-17",
+  "window_days": 1,
+  "summary": {
+    "input_items": 33,
+    "denied_source": 0,
+    "in_window": 33,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 24,
+    "duplicate_clusters": 9,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 24,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 20,
+    "previously_covered_count": 4
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "《GTA》题材游戏《Samson》开发商Liquid Swords疑似破产",
+        "url": "https://www.videogameschronicle.com/news/samson-developer-liquid-swords-is-facing-bankruptcy/",
+        "date": "2026-10-18",
+        "summary": "据Break It报道，瑞典开发商Liquid Swords（由《正当防卫》系列前创意总监Christofer Sundberg联合创立）因员工数月被欠薪而被判定破产，约30名员工受影响，瑞典政府将介入垫付欠薪，工作室希望能找到买家接手。该工作室的首款开放世界动作游戏《Samson》今年4月已上线Steam与Epic平台（口碑褒贬不一，主要因存在大量Bug），9月推出主机版。",
+        "section": 3,
+        "source_note": "Video Games Chronicle（Tier 2）原创报道，引用Break It消息来源。"
+      },
+      "members": [
+        {
+          "title": "《GTA》题材游戏《Samson》开发商Liquid Swords疑似破产",
+          "url": "https://www.videogameschronicle.com/news/samson-developer-liquid-swords-is-facing-bankruptcy/",
+          "date": "2026-10-18",
+          "summary": "据Break It报道，瑞典开发商Liquid Swords（由《正当防卫》系列前创意总监Christofer Sundberg联合创立）因员工数月被欠薪而被判定破产，约30名员工受影响，瑞典政府将介入垫付欠薪，工作室希望能找到买家接手。该工作室的首款开放世界动作游戏《Samson》今年4月已上线Steam与Epic平台（口碑褒贬不一，主要因存在大量Bug），9月推出主机版。",
+          "section": 3,
+          "source_note": "Video Games Chronicle（Tier 2）原创报道，引用Break It消息来源。"
+        },
+        {
+          "title": "《Samson》开发商Liquid Swords因长期欠薪陷入破产",
+          "url": "https://www.videogameschronicle.com/news/samson-developer-liquid-swords-is-facing-bankruptcy/",
+          "date": "2026-10-18",
+          "summary": "据VGC及IT之家报道，瑞典独立游戏《Samson》开发商Liquid Swords因连续数月拖欠约30名员工薪资，已进入破产程序，当地政府将垫付员工薪酬，破产管理人正寻找买家接手。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《GTA6》疑似遭PEGI分级内容曝光：含随时吸毒、性爱场景与斩首画面",
+        "url": "https://www.invenglobal.com/articles/27330/gta-6-indeed-rated-18-depicts-carrying-and-snorting-drugs-sexual-activity-and-decapitation",
+        "date": "2026-10-18",
+        "summary": "据报道，欧洲PEGI分级机构曾于10月2日短暂发布又撤下《GTA6》的内容分级说明，其中披露游戏含玩家可随时携带并吸食可卡因、写实暴力（含斩首分尸）、裸露与性爱场景等内容；美国ESRB已将该作评为\"M（17岁以上）\"，韩国GCRB评定为\"成人专用\"级别，为该机构去年11月起接手限制级分级审核权后首部受到高度关注的分级作品。PEGI与Rockstar均未证实该分级说明的最终措辞。",
+        "section": 3,
+        "source_note": "Inven Global（Tier 2）报道。"
+      },
+      "members": [
+        {
+          "title": "《GTA6》疑似遭PEGI分级内容曝光：含随时吸毒、性爱场景与斩首画面",
+          "url": "https://www.invenglobal.com/articles/27330/gta-6-indeed-rated-18-depicts-carrying-and-snorting-drugs-sexual-activity-and-decapitation",
+          "date": "2026-10-18",
+          "summary": "据报道，欧洲PEGI分级机构曾于10月2日短暂发布又撤下《GTA6》的内容分级说明，其中披露游戏含玩家可随时携带并吸食可卡因、写实暴力（含斩首分尸）、裸露与性爱场景等内容；美国ESRB已将该作评为\"M（17岁以上）\"，韩国GCRB评定为\"成人专用\"级别，为该机构去年11月起接手限制级分级审核权后首部受到高度关注的分级作品。PEGI与Rockstar均未证实该分级说明的最终措辞。",
+          "section": 3,
+          "source_note": "Inven Global（Tier 2）报道。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据报道索尼PS6仅内存与存储成本已超680美元",
+        "url": "https://www.videogameschronicle.com/news/playstation-6s-memory-costs-alone-exceed-680-per-console-its-claimed/",
+        "date": "2026-10-18",
+        "summary": "据硬件爆料者KeplerL2在NeoGAF论坛的说法，索尼下一代主机PlayStation 6仅内存与存储（RAM及NAND闪存）部分的成本就已超过680美元，原因是AI数据中心需求持续推高相关芯片价格；该说法未经索尼证实，分析师对下一代主机是否会突破1000美元售价仍存在分歧。",
+        "section": 3,
+        "source_note": "Video Games Chronicle（Tier 2）报道，消息源自NeoGAF论坛未经证实的爆料。"
+      },
+      "members": [
+        {
+          "title": "据报道索尼PS6仅内存与存储成本已超680美元",
+          "url": "https://www.videogameschronicle.com/news/playstation-6s-memory-costs-alone-exceed-680-per-console-its-claimed/",
+          "date": "2026-10-18",
+          "summary": "据硬件爆料者KeplerL2在NeoGAF论坛的说法，索尼下一代主机PlayStation 6仅内存与存储（RAM及NAND闪存）部分的成本就已超过680美元，原因是AI数据中心需求持续推高相关芯片价格；该说法未经索尼证实，分析师对下一代主机是否会突破1000美元售价仍存在分歧。",
+          "section": 3,
+          "source_note": "Video Games Chronicle（Tier 2）报道，消息源自NeoGAF论坛未经证实的爆料。"
+        },
+        {
+          "title": "VGC曝料：PlayStation 6仅内存芯片成本就已超每台680美元",
+          "url": "https://www.videogameschronicle.com/news/playstation-6s-memory-costs-alone-exceed-680-per-console-its-claimed/",
+          "date": "2026-10-18",
+          "summary": "据VGC报道，有消息称下一代主机PlayStation 6单是内存芯片成本就已超过每台680美元，暗示新主机硬件成本压力显著上升；该说法尚未获索尼证实。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "微软确认8款游戏10月31日起退出Xbox Game Pass",
+        "url": "https://www.purexbox.com/news/2026/10/eight-games-are-leaving-xbox-game-pass-in-late-october-2026",
+        "date": "2026-10-18",
+        "summary": "微软公布《Day of the Tentacle Remastered》《Full Throttle Remastered》《废土浩劫：深岩银河》《乐高星球大战：天行者传说》等8款游戏将于10月31日起退出Xbox Game Pass（覆盖主机、PC与云端），其中两款Double Fine作品因该工作室今年恢复独立运营而被下架；多数下架游戏在此前提供至少两折优惠。",
+        "section": 3,
+        "source_note": "Pure Xbox报道，可与微软Xbox Game Pass官方公告对照核实。"
+      },
+      "members": [
+        {
+          "title": "微软确认8款游戏10月31日起退出Xbox Game Pass",
+          "url": "https://www.purexbox.com/news/2026/10/eight-games-are-leaving-xbox-game-pass-in-late-october-2026",
+          "date": "2026-10-18",
+          "summary": "微软公布《Day of the Tentacle Remastered》《Full Throttle Remastered》《废土浩劫：深岩银河》《乐高星球大战：天行者传说》等8款游戏将于10月31日起退出Xbox Game Pass（覆盖主机、PC与云端），其中两款Double Fine作品因该工作室今年恢复独立运营而被下架；多数下架游戏在此前提供至少两折优惠。",
+          "section": 3,
+          "source_note": "Pure Xbox报道，可与微软Xbox Game Pass官方公告对照核实。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "民间团队Insignia为初代Xbox多款老游戏恢复在线联机功能",
+        "url": "https://www.purexbox.com/news/2026/10/insignia-brings-back-online-multiplayer-for-lots-more-xbox-games-including-burnout-3",
+        "date": "2026-10-18",
+        "summary": "与微软无关的民间非官方联机服务Insignia近期为初代Xbox平台多款老游戏新增在线联机与排行榜支持，包括《极品飞车：复仇3》《三角洲部队：黑鹰坠落》等十余款作品。该服务约有3.5万注册用户，但仅支持原初代Xbox主机，且需玩家自行在主机上运行破解程序接入，风险自担。",
+        "section": 3,
+        "source_note": "Pure Xbox报道。"
+      },
+      "members": [
+        {
+          "title": "民间团队Insignia为初代Xbox多款老游戏恢复在线联机功能",
+          "url": "https://www.purexbox.com/news/2026/10/insignia-brings-back-online-multiplayer-for-lots-more-xbox-games-including-burnout-3",
+          "date": "2026-10-18",
+          "summary": "与微软无关的民间非官方联机服务Insignia近期为初代Xbox平台多款老游戏新增在线联机与排行榜支持，包括《极品飞车：复仇3》《三角洲部队：黑鹰坠落》等十余款作品。该服务约有3.5万注册用户，但仅支持原初代Xbox主机，且需玩家自行在主机上运行破解程序接入，风险自担。",
+          "section": 3,
+          "source_note": "Pure Xbox报道。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "【更新】《Deadlock》测试期并发玩家数突破30万，再破自身纪录",
+        "url": "https://www.destructoid.com/deadlock-new-record/",
+        "date": "2026-10-17",
+        "summary": "V社仍处邀请制测试阶段的团队对战游戏《Deadlock》因新英雄Violet随\"永不眠之城\"版本更新上线，据SteamDB数据，其Steam同时在线人数达303347人，较本月初突破26万的纪录进一步刷新，目前稳居Steam最多人同时在线游戏榜单第四位，并已超过《军团要塞2》历史峰值。",
+        "section": 3,
+        "source_note": "Destructoid报道，数据引自SteamDB。"
+      },
+      "members": [
+        {
+          "title": "【更新】《Deadlock》测试期并发玩家数突破30万，再破自身纪录",
+          "url": "https://www.destructoid.com/deadlock-new-record/",
+          "date": "2026-10-17",
+          "summary": "V社仍处邀请制测试阶段的团队对战游戏《Deadlock》因新英雄Violet随\"永不眠之城\"版本更新上线，据SteamDB数据，其Steam同时在线人数达303347人，较本月初突破26万的纪录进一步刷新，目前稳居Steam最多人同时在线游戏榜单第四位，并已超过《军团要塞2》历史峰值。",
+          "section": 3,
+          "source_note": "Destructoid报道，数据引自SteamDB。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《使命召唤：现代战争4》抢先体验期Steam玩家破10万，战役口碑走高",
+        "url": "https://www.destructoid.com/modern-warfare-4-player-counts/",
+        "date": "2026-10-17",
+        "summary": "动视新作《使命召唤：现代战争4》在仅限预购玩家的抢先体验阶段上线数日内，Steam玩家数已突破10.8万，获得超1000条评测、86%好评率；多家媒体对其单人战役评价较高，认为是近年系列中较为出色的一部。",
+        "section": 3,
+        "source_note": "Destructoid报道，玩家数据引自Steam。"
+      },
+      "members": [
+        {
+          "title": "《使命召唤：现代战争4》抢先体验期Steam玩家破10万，战役口碑走高",
+          "url": "https://www.destructoid.com/modern-warfare-4-player-counts/",
+          "date": "2026-10-17",
+          "summary": "动视新作《使命召唤：现代战争4》在仅限预购玩家的抢先体验阶段上线数日内，Steam玩家数已突破10.8万，获得超1000条评测、86%好评率；多家媒体对其单人战役评价较高，认为是近年系列中较为出色的一部。",
+          "section": 3,
+          "source_note": "Destructoid报道，玩家数据引自Steam。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "微软Xbox招聘“实体游戏供应策略师”职位，引发玩家对实体游戏业务动向的猜测",
+        "url": "https://www.ithome.com/1/014/583.htm",
+        "date": "2026-10-18",
+        "summary": "IT之家报道，微软Xbox近期上线一则“实体游戏供应策略师”招聘信息，引发玩家对其实体游戏供应链布局的猜测。",
+        "section": 3,
+        "source_note": "IT之家（Tier 2）"
+      },
+      "members": [
+        {
+          "title": "微软Xbox招聘“实体游戏供应策略师”职位，引发玩家对实体游戏业务动向的猜测",
+          "url": "https://www.ithome.com/1/014/583.htm",
+          "date": "2026-10-18",
+          "summary": "IT之家报道，微软Xbox近期上线一则“实体游戏供应策略师”招聘信息，引发玩家对其实体游戏供应链布局的猜测。",
+          "section": 3,
+          "source_note": "IT之家（Tier 2）"
+        },
+        {
+          "title": "微软一则\"Xbox实体游戏供应策略师\"招聘引发玩家对主机光驱去留猜测",
+          "url": "https://www.ithome.com/1/014/583.htm",
+          "date": "2026-10-18",
+          "summary": "据Windows Central报道，微软近期发布的\"Xbox实体游戏供应策略师\"职位未明确提及光盘业务，叠加此前Xbox裁员、索尼宣布PS停产实体光盘等背景，引发外界对下一代主机\"Project Helix\"是否保留光驱的猜测，微软未就此置评。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《使命召唤：现代战争4》单人战役媒体评分解禁，IGN打出8分",
+        "url": "https://www.ithome.com/1/014/582.htm",
+        "date": "2026-10-18",
+        "summary": "动视《使命召唤：现代战争4》单人战役模式媒体评分解禁，IGN给出8分评价。",
+        "section": 3,
+        "source_note": "IT之家（Tier 2）"
+      },
+      "members": [
+        {
+          "title": "《使命召唤：现代战争4》单人战役媒体评分解禁，IGN打出8分",
+          "url": "https://www.ithome.com/1/014/582.htm",
+          "date": "2026-10-18",
+          "summary": "动视《使命召唤：现代战争4》单人战役模式媒体评分解禁，IGN给出8分评价。",
+          "section": 3,
+          "source_note": "IT之家（Tier 2）"
+        },
+        {
+          "title": "《使命召唤：现代战争4》战役评分解禁，IGN打出8分",
+          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review-in-progress-a-campaign-you-shouldnt-skip/",
+          "date": "2026-10-17",
+          "summary": "随着数字预购版抢先体验开启，《使命召唤：现代战争4》战役媒体评测解禁，IGN给出8/10、GameSpot给出7/10，多数评测认为是系列近年来质量最高的战役之一。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "【更新】数毛社分析《GTA6》发售预告片：未采用QSSR技术，原始素材应为1440P分辨率",
+        "url": "https://www.ithome.com/1/014/580.htm",
+        "date": "2026-10-18",
+        "summary": "数字铸造厂（Digital Foundry，“数毛社”）对Rockstar近日公布的《GTA6》发售预告片进行技术分析，认为其并未采用QSSR技术，游戏原始剪辑素材分辨率应为1440P。",
+        "section": 3,
+        "source_note": "IT之家转引数毛社分析（Tier 2）。与此前简报“《GTA6》官方发售预告片正式公布”（10-15）为同一预告片的后续技术解读，故加【更新】前缀。"
+      },
+      "members": [
+        {
+          "title": "【更新】数毛社分析《GTA6》发售预告片：未采用QSSR技术，原始素材应为1440P分辨率",
+          "url": "https://www.ithome.com/1/014/580.htm",
+          "date": "2026-10-18",
+          "summary": "数字铸造厂（Digital Foundry，“数毛社”）对Rockstar近日公布的《GTA6》发售预告片进行技术分析，认为其并未采用QSSR技术，游戏原始剪辑素材分辨率应为1440P。",
+          "section": 3,
+          "source_note": "IT之家转引数毛社分析（Tier 2）。与此前简报“《GTA6》官方发售预告片正式公布”（10-15）为同一预告片的后续技术解读，故加【更新】前缀。"
+        },
+        {
+          "title": "Digital Foundry分析：《GTA6》预告片未使用索尼QSSR神经渲染技术",
+          "url": "https://www.ithome.com/1/014/580.htm",
+          "date": "2026-10-18",
+          "summary": "知名技术分析团队Digital Foundry认为《GTA6》发售预告片并未使用索尼新推出的AI超分技术QSSR，推测原始素材约为1440p、后期加工升至4K，不排除后续正式版加入该技术的可能。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《艾希：续》制作人确认游戏不会跳票，计划上市后推出免费DLC",
+        "url": "https://www.ithome.com/1/014/571.htm",
+        "date": "2026-10-18",
+        "summary": "《艾希：续》（Hades II 续作语境下的中文译名，实指独立游戏新作）制作人确认游戏开发进度不会导致跳票，并计划在正式上市后推出免费DLC内容。",
+        "section": 3,
+        "source_note": "IT之家（Tier 2）"
+      },
+      "members": [
+        {
+          "title": "《艾希：续》制作人确认游戏不会跳票，计划上市后推出免费DLC",
+          "url": "https://www.ithome.com/1/014/571.htm",
+          "date": "2026-10-18",
+          "summary": "《艾希：续》（Hades II 续作语境下的中文译名，实指独立游戏新作）制作人确认游戏开发进度不会导致跳票，并计划在正式上市后推出免费DLC内容。",
+          "section": 3,
+          "source_note": "IT之家（Tier 2）"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《控制：共振》发售三周销量突破100万份",
+        "url": "https://www.ithome.com/1/014/547.htm",
+        "date": "2026-10-18",
+        "summary": "Remedy旗下《控制：共振》（Control: Resonance）在发售三周后，官方公布销量已突破100万份。",
+        "section": 3,
+        "source_note": "IT之家（Tier 2）"
+      },
+      "members": [
+        {
+          "title": "《控制：共振》发售三周销量突破100万份",
+          "url": "https://www.ithome.com/1/014/547.htm",
+          "date": "2026-10-18",
+          "summary": "Remedy旗下《控制：共振》（Control: Resonance）在发售三周后，官方公布销量已突破100万份。",
+          "section": 3,
+          "source_note": "IT之家（Tier 2）"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《GTA6》将包含数百个可探索室内空间，叙事手法被指更接近《荒野大镖客：救赎2》",
+        "url": "https://www.ithome.com/1/014/544.htm",
+        "date": "2026-10-18",
+        "summary": "据报道，《GTA6》将包含数百个可探索的室内空间，部分媒体认为其叙事手法相较前作更接近Rockstar另一作品《荒野大镖客：救赎2》。",
+        "section": 3,
+        "source_note": "IT之家（Tier 2）"
+      },
+      "members": [
+        {
+          "title": "《GTA6》将包含数百个可探索室内空间，叙事手法被指更接近《荒野大镖客：救赎2》",
+          "url": "https://www.ithome.com/1/014/544.htm",
+          "date": "2026-10-18",
+          "summary": "据报道，《GTA6》将包含数百个可探索的室内空间，部分媒体认为其叙事手法相较前作更接近Rockstar另一作品《荒野大镖客：救赎2》。",
+          "section": 3,
+          "source_note": "IT之家（Tier 2）"
+        },
+        {
+          "title": "据彭博社：《GTA6》内含数百个可探索室内场景，故事基调更接近《荒野大镖客2》",
+          "url": "https://www.ithome.com/1/014/544.htm",
+          "date": "2026-10-18",
+          "summary": "据彭博社探访Rockstar报道，开发者Rob Nelson展示游戏中多达数百个可进入探索的小型室内场景，并称主角杰森与露西亚的故事基调比起前作《GTA5》更接近《荒野大镖客：救赎2》。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《使命召唤：现代战争4》抢先体验版Steam在线峰值超10.8万，已超前作《黑色行动7》",
+        "url": "https://www.ithome.com/1/014/539.htm",
+        "date": "2026-10-18",
+        "summary": "《使命召唤：现代战争4》抢先体验版上线后，Steam同时在线玩家峰值超过10.8万人，已超越前作《黑色行动7》同期表现。",
+        "section": 3,
+        "source_note": "IT之家（Tier 2）"
+      },
+      "members": [
+        {
+          "title": "《使命召唤：现代战争4》抢先体验版Steam在线峰值超10.8万，已超前作《黑色行动7》",
+          "url": "https://www.ithome.com/1/014/539.htm",
+          "date": "2026-10-18",
+          "summary": "《使命召唤：现代战争4》抢先体验版上线后，Steam同时在线玩家峰值超过10.8万人，已超越前作《黑色行动7》同期表现。",
+          "section": 3,
+          "source_note": "IT之家（Tier 2）"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《GTA6》获日本CERO Z评级，部分媒体担忧内容可能遭删减",
+        "url": "https://www.ithome.com/1/014/516.htm",
+        "date": "2026-10-18",
+        "summary": "《GTA6》在日本获得CERO Z评级（18禁），部分媒体担忧这一分级可能意味着日版内容会有所删减。",
+        "section": 3,
+        "source_note": "IT之家（Tier 2）"
+      },
+      "members": [
+        {
+          "title": "《GTA6》获日本CERO Z评级，部分媒体担忧内容可能遭删减",
+          "url": "https://www.ithome.com/1/014/516.htm",
+          "date": "2026-10-18",
+          "summary": "《GTA6》在日本获得CERO Z评级（18禁），部分媒体担忧这一分级可能意味着日版内容会有所删减。",
+          "section": 3,
+          "source_note": "IT之家（Tier 2）"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "米哈游《绝区零》3.3版本将适配苹果新机型",
+        "url": "https://www.ithome.com/1/014/520.htm",
+        "date": "2026-10-18",
+        "summary": "米哈游宣布旗下《绝区零》即将上线的3.3版本将针对苹果最新机型进行适配优化。",
+        "section": 3,
+        "source_note": "IT之家（Tier 2），米哈游官方公告转述"
+      },
+      "members": [
+        {
+          "title": "米哈游《绝区零》3.3版本将适配苹果新机型",
+          "url": "https://www.ithome.com/1/014/520.htm",
+          "date": "2026-10-18",
+          "summary": "米哈游宣布旗下《绝区零》即将上线的3.3版本将针对苹果最新机型进行适配优化。",
+          "section": 3,
+          "source_note": "IT之家（Tier 2），米哈游官方公告转述"
+        },
+        {
+          "title": "苹果CEO库克时隔三年再访米哈游上海总部，《绝区零》3.3版将适配iPhone 17",
+          "url": "https://www.ithome.com/1/014/520.htm",
+          "date": "2026-10-18",
+          "summary": "据IT之家报道，苹果CEO蒂姆·库克近期到访米哈游上海总部，由创始人刘伟接待，这是库克三年来首次公开到访米哈游总部；米哈游同期宣布旗下《绝区零》将在3.3版本中加入对苹果iPhone 17机型的适配支持。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《战地风云6》回应第五赛季争议皮肤：拼写错误将修复，“五枪套装”设计为刻意为之",
+        "url": "https://www.ithome.com/1/014/430.htm",
+        "date": "2026-10-18",
+        "summary": "EA旗下《战地风云6》官方回应第五赛季付费皮肤引发的争议，称其中拼写错误将予以修复，而被质疑的“五枪套装”设计为团队刻意为之，并非失误。",
+        "section": 3,
+        "source_note": "IT之家（Tier 2）"
+      },
+      "members": [
+        {
+          "title": "《战地风云6》回应第五赛季争议皮肤：拼写错误将修复，“五枪套装”设计为刻意为之",
+          "url": "https://www.ithome.com/1/014/430.htm",
+          "date": "2026-10-18",
+          "summary": "EA旗下《战地风云6》官方回应第五赛季付费皮肤引发的争议，称其中拼写错误将予以修复，而被质疑的“五枪套装”设计为团队刻意为之，并非失误。",
+          "section": 3,
+          "source_note": "IT之家（Tier 2）"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "类魂动作FPS《末世神枪》试玩Demo上架Steam，游戏定档12月8日发售",
+        "url": "https://www.ithome.com/1/014/600.htm",
+        "date": "2026-10-18",
+        "summary": "一款融合“类魂”元素的动作FPS游戏《末世神枪》试玩Demo已上架Steam，正式版本定档12月8日发售。",
+        "section": 3,
+        "source_note": "IT之家（Tier 2）"
+      },
+      "members": [
+        {
+          "title": "类魂动作FPS《末世神枪》试玩Demo上架Steam，游戏定档12月8日发售",
+          "url": "https://www.ithome.com/1/014/600.htm",
+          "date": "2026-10-18",
+          "summary": "一款融合“类魂”元素的动作FPS游戏《末世神枪》试玩Demo已上架Steam，正式版本定档12月8日发售。",
+          "section": 3,
+          "source_note": "IT之家（Tier 2）"
+        },
+        {
+          "title": "《半条命2》美术总监新作《末世神枪》公开试玩Demo，12月8日发售",
+          "url": "https://www.ithome.com/1/014/600.htm",
+          "date": "2026-10-18",
+          "summary": "由《半条命2》《辐射4》等知名美术设计师Viktor Antonov操刀的魂系FPS新作《Guns of Eschaton》（末世神枪）在Steam上线试玩Demo，游戏预计12月8日登陆PS5、Xbox Series X|S及PC平台。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "任天堂承认低估《塞尔达传说：时之笛》重制版市场反响，预售需求已触及供应上限",
+        "url": "https://www.ithome.com/1/014/593.htm",
+        "date": "2026-10-18",
+        "summary": "任天堂方面承认此前低估了《塞尔达传说：时之笛》重制版的市场需求，目前预售量已触及供应上限。",
+        "section": 3,
+        "source_note": "IT之家（Tier 2）"
+      },
+      "members": [
+        {
+          "title": "任天堂承认低估《塞尔达传说：时之笛》重制版市场反响，预售需求已触及供应上限",
+          "url": "https://www.ithome.com/1/014/593.htm",
+          "date": "2026-10-18",
+          "summary": "任天堂方面承认此前低估了《塞尔达传说：时之笛》重制版的市场需求，目前预售量已触及供应上限。",
+          "section": 3,
+          "source_note": "IT之家（Tier 2）"
+        },
+        {
+          "title": "任天堂高管就《塞尔达传说：时之笛》重制版预售爆满致歉：低估了玩家热情",
+          "url": "https://www.ithome.com/1/014/593.htm",
+          "date": "2026-10-18",
+          "summary": "任天堂拉美区副总裁Bill van Zyll表示，公司低估了《塞尔达传说：时之笛》重制版及限定版Switch 2主机的市场反响，目前全球多地预售量已达上限、现货短缺，他为此致歉并确认将对限定版主机补货，但未透露具体时间。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "任天堂宣布11月16日起上调日本Switch/Switch 2主机维修费，最高涨69%",
+        "url": "https://www.invenglobal.com/articles/27329/take-care-of-your-console-nintendo-japan-raises-switch-2-repair-fees-by-up-to-9900-yen",
+        "date": "2026-10-18",
+        "summary": "任天堂宣布自11月16日起上调日本地区主机维修费用，其中Switch/Switch Lite主板维修费涨幅达69%、Switch 2主板维修费涨36%，官方称原因是零部件成本上涨，手柄等配件维修费不变。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "任天堂宣布11月16日起上调日本Switch/Switch 2主机维修费，最高涨69%",
+          "url": "https://www.invenglobal.com/articles/27329/take-care-of-your-console-nintendo-japan-raises-switch-2-repair-fees-by-up-to-9900-yen",
+          "date": "2026-10-18",
+          "summary": "任天堂宣布自11月16日起上调日本地区主机维修费用，其中Switch/Switch Lite主板维修费涨幅达69%、Switch 2主板维修费涨36%，官方称原因是零部件成本上涨，手柄等配件维修费不变。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "担忧被AI快速换皮抄袭，多名独立开发者下架Steam试玩演示",
+        "url": "https://www.invenglobal.com/articles/27321/fearing-ai-copycats-indie-developers-pull-public-demos",
+        "date": "2026-10-17",
+        "summary": "据Inven Global报道，由于担心作品创意被AI工具迅速「复刻」抄袭并抢先上架，部分独立游戏开发者选择撤下此前已公开的Steam试玩演示版本。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "担忧被AI快速换皮抄袭，多名独立开发者下架Steam试玩演示",
+          "url": "https://www.invenglobal.com/articles/27321/fearing-ai-copycats-indie-developers-pull-public-demos",
+          "date": "2026-10-17",
+          "summary": "据Inven Global报道，由于担心作品创意被AI工具迅速「复刻」抄袭并抢先上架，部分独立游戏开发者选择撤下此前已公开的Steam试玩演示版本。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "网易《逆水寒：新世界》公布\"苗疆蛊事\"资料片，10月30日上线",
+        "url": "https://www.ithome.com/1/014/409.htm",
+        "date": "2026-10-17",
+        "summary": "网易正式公布《逆水寒：新世界》首个大型资料片\"苗疆蛊事\"，将于10月30日上线，采用\"双线更新\"框架，新增阅鉴岭地图、大理线终章等剧情内容及多项系统优化。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "网易《逆水寒：新世界》公布\"苗疆蛊事\"资料片，10月30日上线",
+          "url": "https://www.ithome.com/1/014/409.htm",
+          "date": "2026-10-17",
+          "summary": "网易正式公布《逆水寒：新世界》首个大型资料片\"苗疆蛊事\"，将于10月30日上线，采用\"双线更新\"框架，新增阅鉴岭地图、大理线终章等剧情内容及多项系统优化。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "国产动作游戏《艾希：续》众筹突破3700万元，制作组确认Steam不跳票",
+        "url": "https://www.ithome.com/1/014/284.htm",
+        "date": "2026-10-18",
+        "summary": "国产横版动作游戏《艾希》续作众筹金额已达约3700万元，制作人在B站问答中确认游戏将于2027年5月1日如期登陆Steam，众筹所得主要用于弥补Steam分成结算周期带来的资金缺口，游戏定价48元且不含付费DLC。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "国产动作游戏《艾希：续》众筹突破3700万元，制作组确认Steam不跳票",
+          "url": "https://www.ithome.com/1/014/284.htm",
+          "date": "2026-10-18",
+          "summary": "国产横版动作游戏《艾希》续作众筹金额已达约3700万元，制作人在B站问答中确认游戏将于2027年5月1日如期登陆Steam，众筹所得主要用于弥补Steam分成结算周期带来的资金缺口，游戏定价48元且不含付费DLC。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "前V社员工：Valve一直把Steam当成一款大型多人在线游戏来运营，暗讽Epic\"氛围编程\"重做启动器",
+        "url": "https://www.ithome.com/1/014/307.htm",
+        "date": "2026-10-17",
+        "summary": "据GamesRadar报道，前V社撰稿人Chet Faliszek表示，Valve多年来一直将Steam视为一款MMO产品而非单纯商店来运营，并评价Epic Games Store方向不清、功能单薄，对Epic计划用\"氛围编程\"重做启动器反超Steam的说法表示怀疑。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "前V社员工：Valve一直把Steam当成一款大型多人在线游戏来运营，暗讽Epic\"氛围编程\"重做启动器",
+          "url": "https://www.ithome.com/1/014/307.htm",
+          "date": "2026-10-17",
+          "summary": "据GamesRadar报道，前V社撰稿人Chet Faliszek表示，Valve多年来一直将Steam视为一款MMO产品而非单纯商店来运营，并评价Epic Games Store方向不清、功能单薄，对Epic计划用\"氛围编程\"重做启动器反超Steam的说法表示怀疑。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [
+    [
+      {
+        "title": "《GTA》题材游戏《Samson》开发商Liquid Swords疑似破产",
+        "url": "https://www.videogameschronicle.com/news/samson-developer-liquid-swords-is-facing-bankruptcy/",
+        "date": "2026-10-18",
+        "summary": "据Break It报道，瑞典开发商Liquid Swords（由《正当防卫》系列前创意总监Christofer Sundberg联合创立）因员工数月被欠薪而被判定破产，约30名员工受影响，瑞典政府将介入垫付欠薪，工作室希望能找到买家接手。该工作室的首款开放世界动作游戏《Samson》今年4月已上线Steam与Epic平台（口碑褒贬不一，主要因存在大量Bug），9月推出主机版。",
+        "section": 3,
+        "source_note": "Video Games Chronicle（Tier 2）原创报道，引用Break It消息来源。"
+      },
+      {
+        "title": "《Samson》开发商Liquid Swords因长期欠薪陷入破产",
+        "url": "https://www.videogameschronicle.com/news/samson-developer-liquid-swords-is-facing-bankruptcy/",
+        "date": "2026-10-18",
+        "summary": "据VGC及IT之家报道，瑞典独立游戏《Samson》开发商Liquid Swords因连续数月拖欠约30名员工薪资，已进入破产程序，当地政府将垫付员工薪酬，破产管理人正寻找买家接手。",
+        "section": 3
+      }
+    ],
+    [
+      {
+        "title": "据报道索尼PS6仅内存与存储成本已超680美元",
+        "url": "https://www.videogameschronicle.com/news/playstation-6s-memory-costs-alone-exceed-680-per-console-its-claimed/",
+        "date": "2026-10-18",
+        "summary": "据硬件爆料者KeplerL2在NeoGAF论坛的说法，索尼下一代主机PlayStation 6仅内存与存储（RAM及NAND闪存）部分的成本就已超过680美元，原因是AI数据中心需求持续推高相关芯片价格；该说法未经索尼证实，分析师对下一代主机是否会突破1000美元售价仍存在分歧。",
+        "section": 3,
+        "source_note": "Video Games Chronicle（Tier 2）报道，消息源自NeoGAF论坛未经证实的爆料。"
+      },
+      {
+        "title": "VGC曝料：PlayStation 6仅内存芯片成本就已超每台680美元",
+        "url": "https://www.videogameschronicle.com/news/playstation-6s-memory-costs-alone-exceed-680-per-console-its-claimed/",
+        "date": "2026-10-18",
+        "summary": "据VGC报道，有消息称下一代主机PlayStation 6单是内存芯片成本就已超过每台680美元，暗示新主机硬件成本压力显著上升；该说法尚未获索尼证实。",
+        "section": 3
+      }
+    ],
+    [
+      {
+        "title": "微软Xbox招聘“实体游戏供应策略师”职位，引发玩家对实体游戏业务动向的猜测",
+        "url": "https://www.ithome.com/1/014/583.htm",
+        "date": "2026-10-18",
+        "summary": "IT之家报道，微软Xbox近期上线一则“实体游戏供应策略师”招聘信息，引发玩家对其实体游戏供应链布局的猜测。",
+        "section": 3,
+        "source_note": "IT之家（Tier 2）"
+      },
+      {
+        "title": "微软一则\"Xbox实体游戏供应策略师\"招聘引发玩家对主机光驱去留猜测",
+        "url": "https://www.ithome.com/1/014/583.htm",
+        "date": "2026-10-18",
+        "summary": "据Windows Central报道，微软近期发布的\"Xbox实体游戏供应策略师\"职位未明确提及光盘业务，叠加此前Xbox裁员、索尼宣布PS停产实体光盘等背景，引发外界对下一代主机\"Project Helix\"是否保留光驱的猜测，微软未就此置评。",
+        "section": 3
+      }
+    ],
+    [
+      {
+        "title": "《使命召唤：现代战争4》单人战役媒体评分解禁，IGN打出8分",
+        "url": "https://www.ithome.com/1/014/582.htm",
+        "date": "2026-10-18",
+        "summary": "动视《使命召唤：现代战争4》单人战役模式媒体评分解禁，IGN给出8分评价。",
+        "section": 3,
+        "source_note": "IT之家（Tier 2）"
+      },
+      {
+        "title": "《使命召唤：现代战争4》战役评分解禁，IGN打出8分",
+        "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review-in-progress-a-campaign-you-shouldnt-skip/",
+        "date": "2026-10-17",
+        "summary": "随着数字预购版抢先体验开启，《使命召唤：现代战争4》战役媒体评测解禁，IGN给出8/10、GameSpot给出7/10，多数评测认为是系列近年来质量最高的战役之一。",
+        "section": 3
+      }
+    ],
+    [
+      {
+        "title": "【更新】数毛社分析《GTA6》发售预告片：未采用QSSR技术，原始素材应为1440P分辨率",
+        "url": "https://www.ithome.com/1/014/580.htm",
+        "date": "2026-10-18",
+        "summary": "数字铸造厂（Digital Foundry，“数毛社”）对Rockstar近日公布的《GTA6》发售预告片进行技术分析，认为其并未采用QSSR技术，游戏原始剪辑素材分辨率应为1440P。",
+        "section": 3,
+        "source_note": "IT之家转引数毛社分析（Tier 2）。与此前简报“《GTA6》官方发售预告片正式公布”（10-15）为同一预告片的后续技术解读，故加【更新】前缀。"
+      },
+      {
+        "title": "Digital Foundry分析：《GTA6》预告片未使用索尼QSSR神经渲染技术",
+        "url": "https://www.ithome.com/1/014/580.htm",
+        "date": "2026-10-18",
+        "summary": "知名技术分析团队Digital Foundry认为《GTA6》发售预告片并未使用索尼新推出的AI超分技术QSSR，推测原始素材约为1440p、后期加工升至4K，不排除后续正式版加入该技术的可能。",
+        "section": 3
+      }
+    ],
+    [
+      {
+        "title": "《GTA6》将包含数百个可探索室内空间，叙事手法被指更接近《荒野大镖客：救赎2》",
+        "url": "https://www.ithome.com/1/014/544.htm",
+        "date": "2026-10-18",
+        "summary": "据报道，《GTA6》将包含数百个可探索的室内空间，部分媒体认为其叙事手法相较前作更接近Rockstar另一作品《荒野大镖客：救赎2》。",
+        "section": 3,
+        "source_note": "IT之家（Tier 2）"
+      },
+      {
+        "title": "据彭博社：《GTA6》内含数百个可探索室内场景，故事基调更接近《荒野大镖客2》",
+        "url": "https://www.ithome.com/1/014/544.htm",
+        "date": "2026-10-18",
+        "summary": "据彭博社探访Rockstar报道，开发者Rob Nelson展示游戏中多达数百个可进入探索的小型室内场景，并称主角杰森与露西亚的故事基调比起前作《GTA5》更接近《荒野大镖客：救赎2》。",
+        "section": 3
+      }
+    ],
+    [
+      {
+        "title": "米哈游《绝区零》3.3版本将适配苹果新机型",
+        "url": "https://www.ithome.com/1/014/520.htm",
+        "date": "2026-10-18",
+        "summary": "米哈游宣布旗下《绝区零》即将上线的3.3版本将针对苹果最新机型进行适配优化。",
+        "section": 3,
+        "source_note": "IT之家（Tier 2），米哈游官方公告转述"
+      },
+      {
+        "title": "苹果CEO库克时隔三年再访米哈游上海总部，《绝区零》3.3版将适配iPhone 17",
+        "url": "https://www.ithome.com/1/014/520.htm",
+        "date": "2026-10-18",
+        "summary": "据IT之家报道，苹果CEO蒂姆·库克近期到访米哈游上海总部，由创始人刘伟接待，这是库克三年来首次公开到访米哈游总部；米哈游同期宣布旗下《绝区零》将在3.3版本中加入对苹果iPhone 17机型的适配支持。",
+        "section": 3
+      }
+    ],
+    [
+      {
+        "title": "类魂动作FPS《末世神枪》试玩Demo上架Steam，游戏定档12月8日发售",
+        "url": "https://www.ithome.com/1/014/600.htm",
+        "date": "2026-10-18",
+        "summary": "一款融合“类魂”元素的动作FPS游戏《末世神枪》试玩Demo已上架Steam，正式版本定档12月8日发售。",
+        "section": 3,
+        "source_note": "IT之家（Tier 2）"
+      },
+      {
+        "title": "《半条命2》美术总监新作《末世神枪》公开试玩Demo，12月8日发售",
+        "url": "https://www.ithome.com/1/014/600.htm",
+        "date": "2026-10-18",
+        "summary": "由《半条命2》《辐射4》等知名美术设计师Viktor Antonov操刀的魂系FPS新作《Guns of Eschaton》（末世神枪）在Steam上线试玩Demo，游戏预计12月8日登陆PS5、Xbox Series X|S及PC平台。",
+        "section": 3
+      }
+    ],
+    [
+      {
+        "title": "任天堂承认低估《塞尔达传说：时之笛》重制版市场反响，预售需求已触及供应上限",
+        "url": "https://www.ithome.com/1/014/593.htm",
+        "date": "2026-10-18",
+        "summary": "任天堂方面承认此前低估了《塞尔达传说：时之笛》重制版的市场需求，目前预售量已触及供应上限。",
+        "section": 3,
+        "source_note": "IT之家（Tier 2）"
+      },
+      {
+        "title": "任天堂高管就《塞尔达传说：时之笛》重制版预售爆满致歉：低估了玩家热情",
+        "url": "https://www.ithome.com/1/014/593.htm",
+        "date": "2026-10-18",
+        "summary": "任天堂拉美区副总裁Bill van Zyll表示，公司低估了《塞尔达传说：时之笛》重制版及限定版Switch 2主机的市场反响，目前全球多地预售量已达上限、现货短缺，他为此致歉并确认将对限定版主机补货，但未透露具体时间。",
+        "section": 3
+      }
+    ]
+  ],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

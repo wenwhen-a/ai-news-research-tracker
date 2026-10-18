@@ -1,159 +1,5 @@
 [
  {
-  "title": "卡普空公布RE引擎\"AI化\"规划REX：目标是与AI共同开发游戏，而非用AI生成最终美术",
-  "url": "https://www.videogameschronicle.com/news/capcom-details-plans-to-evolve-re-engine-into-an-ai-generation-game-engine/",
-  "date": "2026-10-03",
-  "section": 1,
-  "posted": "2026-10-03"
- },
- {
-  "title": "迪士尼聘请Character.AI CEO出任公司史上首位首席AI官，娱乐/游戏巨头转向自建AI粉丝经济",
-  "url": "https://naavik.co/digest/from-disney-to-mihoyo-the-road-toward-ai-enabled-fandom/",
-  "date": "2026-09-29",
-  "section": 1,
-  "posted": "2026-10-03"
- },
- {
-  "title": "阿里云栖大会游戏AI专场：网易《我的世界》上线AI智能伙伴，《明日方舟：终末地》全球版依托阿里云基础设施",
-  "url": "https://eu.36kr.com/zh/p/4002939061981062",
-  "date": "2026-09-28",
-  "section": 1,
-  "posted": "2026-10-03"
- },
- {
-  "title": "【更新】Unity上线第三款官方AI编程插件，适配马斯克xAI旗下Grok Build编码代理",
-  "url": "https://unity.com/blog/unity-plugin-grok",
-  "date": "2026-10-01",
-  "section": 2,
-  "posted": "2026-10-03"
- },
- {
-  "title": "曝腾讯租用甲骨文东南亚数据中心约10万块先进AI芯片，五年合约金额约70亿美元",
-  "url": "https://www.ithome.com/1/009/100.htm",
-  "date": "2026-10-01",
-  "section": 2,
-  "posted": "2026-10-03"
- },
- {
-  "title": "快手高管调整：程一笑兼任社科线负责人，于越转任可灵AI公司董事长兼CEO，可灵4.0将于10月推出",
-  "url": "https://www.ithome.com/1/008/870.htm",
-  "date": "2026-09-30",
-  "section": 2,
-  "posted": "2026-10-03"
- },
- {
-  "title": "SLG新游《三国：战策长河》开发者：AI使程序效率提升50%-60%，地图制作周期从一月缩短至一周",
-  "url": "https://www.youxituoluo.com/534928.html",
-  "date": "2026-09-30",
-  "section": 2,
-  "posted": "2026-10-03"
- },
- {
-  "title": "前Guerrilla Games/Crytek AI程序员开源\"htn_planner\"，复刻3A级分层任务网络游戏AI框架",
-  "url": "https://gamefromscratch.com/htn_planner-aaa-inspired-game-ai-framework/",
-  "date": "2026-09-30",
-  "section": 2,
-  "posted": "2026-10-03"
- },
- {
-  "title": "《塞尔达传说：风之杖》重编译版重度借助AI开发引争议，上线数日即现卡顿问题",
-  "url": "https://www.thegamer.com/wind-waker-decomp-lets-fans-play-it-like-never-before/",
-  "date": "2026-10-01",
-  "section": 2,
-  "posted": "2026-10-03"
- },
- {
-  "title": "社区整理\"无AI\"反编译/重编译项目清单，应对氛围编程劣质游戏移植泛滥",
-  "url": "https://www.thegamer.com/list-non-vibecoded-decomps-recomps-majoras-mask-perfect-dark-sonic-mania/",
-  "date": "2026-10-02",
-  "section": 2,
-  "posted": "2026-10-03"
- },
- {
-  "title": "开发者借Claude AI疯狂\"套娃\"拼接游戏，社交媒体掀起缝合模组热潮却质量堪忧",
-  "url": "https://kotaku.com/i-dont-want-to-play-your-ai-generated-mod-that-puts-skate-3-inside-of-modern-warfare-2-inside-of-minecraft-2000738660",
-  "date": "2026-10-02",
-  "section": 2,
-  "posted": "2026-10-03"
- },
- {
-  "title": "画师Loish被误指用AI作画，本人回应：\"别忘了是什么让我们成为人类\"",
-  "url": "https://kotaku.com/artist-accused-using-genai-ai-loish-instagram-deviantart-creatives-2000739342",
-  "date": "2026-10-02",
-  "section": 2,
-  "posted": "2026-10-03"
- },
- {
-  "title": "欧洲PEGI评级机构意外泄露《GTA6》评级内容，披露大量吸毒与性爱场景细节",
-  "url": "https://www.videogameschronicle.com/news/gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use/",
-  "date": "2026-10-03",
-  "section": 3,
-  "posted": "2026-10-03"
- },
- {
-  "title": "Rockstar联合创始人丹·豪斯称至今刻意不看《GTA6》预告，以免影响自己新项目创作",
-  "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
-  "date": "2026-10-03",
-  "section": 3,
-  "posted": "2026-10-03"
- },
- {
-  "title": "ATLUS公开《女神异闻录4：Revival》\"暗影\"（Shadow）预告片",
-  "url": "https://www.gematsu.com/2026/10/persona-4-revival-shadow-trailer",
-  "date": "2026-10-03",
-  "section": 3,
-  "posted": "2026-10-03"
- },
- {
-  "title": "据报道，越南对Steam的封锁进一步升级，游戏下载与更新功能也被阻断",
-  "url": "https://www.invenglobal.com/articles/26798/steam-effectively-blocked-in-vietnam-issues-extend-to-downloads-and-updates",
-  "date": "2026-10-02",
-  "section": 3,
-  "posted": "2026-10-03"
- },
- {
-  "title": "Epic Games Store公布10月免费游戏阵容，含《网络奇兵2》25周年重制版",
-  "url": "https://www.videogameschronicle.com/news/epics-october-free-games-include-system-shock-2s-25th-anniversary-remaster/",
-  "date": "2026-10-02",
-  "section": 3,
-  "posted": "2026-10-03"
- },
- {
-  "title": "NBA迈阿密热火队将于11月18日以《GTA6》\"罪恶都市\"主题进行比赛",
-  "url": "https://www.gematsu.com/2026/10/miami-heat-to-play-as-grand-theft-auto-vis-vice-city-on-november-18",
-  "date": "2026-10-02",
-  "section": 3,
-  "posted": "2026-10-03"
- },
- {
-  "title": "世嘉《STRANGER THAN HEAVEN》公开\"1943年南大阪\"深度演示",
-  "url": "https://www.gematsu.com/2026/10/stranger-than-heaven-1943-minami-osaka-in-depth-look-gameplay",
-  "date": "2026-10-02",
-  "section": 3,
-  "posted": "2026-10-03"
- },
- {
-  "title": "万代南梦宫系列30周年新作《皇牌空战8：西弗之翼》正式发售",
-  "url": "https://www.4gamer.net/games/969/G096901/20261002012/",
-  "date": "2026-10-02",
-  "section": 3,
-  "posted": "2026-10-03"
- },
- {
-  "title": "《皇牌空战8》热销但万代南梦宫股价10月2日反而下跌",
-  "url": "https://gamebiz.jp/news/433528",
-  "date": "2026-10-02",
-  "section": 3,
-  "posted": "2026-10-03"
- },
- {
-  "title": "日本游戏运营支持公司Witone公布财报：年收入增47%、经常利润增195%",
-  "url": "https://gamebiz.jp/news/433504",
-  "date": "2026-10-02",
-  "section": 3,
-  "posted": "2026-10-03"
- },
- {
   "title": "日本CESA调查：85.8%的游戏开发者已在使用生成式AI，一年前仅为51%",
   "url": "https://kotaku.com/over-85-percent-of-japanese-game-developers-are-using-ai-2000736041",
   "date": "2026-09-30",
@@ -1965,5 +1811,159 @@
   "date": "2026-10-17",
   "section": 3,
   "posted": "2026-10-17"
+ },
+ {
+  "title": "多家独立游戏商担心遭AI\"套娃\"抄袭，紧急取消或收紧公开试玩计划",
+  "url": "https://www.invenglobal.com/articles/27321/fearing-ai-copycats-indie-developers-pull-public-demos",
+  "date": "2026-10-17",
+  "section": 1,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "谷歌DeepMind Gemini 4 Argon智能体首次在无人类协助下通关《我的世界》并击败末影龙",
+  "url": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/",
+  "date": "2026-10-18",
+  "section": 1,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "NVIDIA为GeForce NOW云游戏服务上线DLSS 4.5画质控制选项",
+  "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
+  "date": "2026-10-15",
+  "section": 2,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "更新】快手可灵AI新一代视频生成模型Kling 4.0正式全量上线，支持30秒生成、4K HDR及21:9超宽画幅",
+  "url": "https://kling.ai/",
+  "date": "2026-10-15",
+  "section": 2,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "AI角色扮演应用Character.AI申请破产保护，中国游戏媒体借其案例警示\"AI游戏\"商业模式困境",
+  "url": "https://www.cbsnews.com/news/character-ai-files-bankruptcy-disney-license/",
+  "date": "2026-10-16",
+  "section": 2,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "印度AI原生手游工作室Spill Games获Elevation Capital领投1050万美元A轮融资",
+  "url": "https://www.pocketgamer.biz/indias-spill-games-raises-105m-in-series-a-funding/",
+  "date": "2026-10-15",
+  "section": 2,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "《Samson》开发商Liquid Swords因长期欠薪陷入破产",
+  "url": "https://www.videogameschronicle.com/news/samson-developer-liquid-swords-is-facing-bankruptcy/",
+  "date": "2026-10-18",
+  "section": 3,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "更新】《GTA6》分级进展：韩国游戏内容评级委员会确认\"成人专用\"评级",
+  "url": "https://www.invenglobal.com/articles/27330/gta-6-indeed-rated-18-depicts-carrying-and-snorting-drugs-sexual-activity-and-decapitation",
+  "date": "2026-10-18",
+  "section": 3,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "VGC曝料：PlayStation 6仅内存与存储成本就已超每台680美元",
+  "url": "https://www.videogameschronicle.com/news/playstation-6s-memory-costs-alone-exceed-680-per-console-its-claimed/",
+  "date": "2026-10-18",
+  "section": 3,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "民间团队Insignia为初代Xbox多款老游戏恢复在线联机功能",
+  "url": "https://www.purexbox.com/news/2026/10/insignia-brings-back-online-multiplayer-for-lots-more-xbox-games-including-burnout-3",
+  "date": "2026-10-18",
+  "section": 3,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "更新】《Deadlock》测试期并发玩家数突破30万，再破自身纪录",
+  "url": "https://www.destructoid.com/deadlock-new-record/",
+  "date": "2026-10-17",
+  "section": 3,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "《使命召唤：现代战争4》抢先体验Steam峰值超10.8万，单人战役口碑走高、IGN打出8分",
+  "url": "https://www.destructoid.com/modern-warfare-4-player-counts/",
+  "date": "2026-10-17",
+  "section": 3,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "微软一则\"Xbox实体游戏供应策略师\"招聘引发主机光驱去留猜测",
+  "url": "https://www.ithome.com/1/014/583.htm",
+  "date": "2026-10-18",
+  "section": 3,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "国产动作游戏《艾希：续》众筹突破3700万元，制作组确认Steam不跳票并计划上市后推免费DLC",
+  "url": "https://www.ithome.com/1/014/284.htm",
+  "date": "2026-10-18",
+  "section": 3,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "据彭博社：《GTA6》将包含数百个可探索室内空间，叙事基调被指更接近《荒野大镖客：救赎2》",
+  "url": "https://www.ithome.com/1/014/544.htm",
+  "date": "2026-10-18",
+  "section": 3,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "《GTA6》获日本CERO Z评级，部分媒体担忧内容可能遭删减",
+  "url": "https://www.ithome.com/1/014/516.htm",
+  "date": "2026-10-18",
+  "section": 3,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "苹果CEO库克时隔三年再访米哈游上海总部，《绝区零》3.3版将适配iPhone 17",
+  "url": "https://www.ithome.com/1/014/520.htm",
+  "date": "2026-10-18",
+  "section": 3,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "《战地风云6》回应第五赛季争议皮肤：拼写错误将修复，\"五枪套装\"设计为刻意为之",
+  "url": "https://www.ithome.com/1/014/430.htm",
+  "date": "2026-10-18",
+  "section": 3,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "《半条命2》美术总监新作《末世神枪》公开Steam试玩Demo，12月8日发售",
+  "url": "https://www.ithome.com/1/014/600.htm",
+  "date": "2026-10-18",
+  "section": 3,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "任天堂为《塞尔达传说：时之笛》重制版预售爆满致歉，坦言低估市场需求",
+  "url": "https://www.ithome.com/1/014/593.htm",
+  "date": "2026-10-18",
+  "section": 3,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "网易《逆水寒：新世界》公布\"苗疆蛊事\"资料片，10月30日上线",
+  "url": "https://www.ithome.com/1/014/409.htm",
+  "date": "2026-10-17",
+  "section": 3,
+  "posted": "2026-10-18"
+ },
+ {
+  "title": "前V社员工评Steam一直被当MMO运营，暗讽Epic\"氛围编程\"重做启动器",
+  "url": "https://www.ithome.com/1/014/307.htm",
+  "date": "2026-10-17",
+  "section": 3,
+  "posted": "2026-10-18"
  }
 ]
