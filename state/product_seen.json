@@ -14,11 +14,15 @@
     "first_seen": "2026-09-13",
     "release_date": "2026-09-03",
     "summary": "NVIDIA states \"DLSS 5 is available now in the newly-released NBA 2K27\" and that DLSS 5 introduces \"3D-Guided Neural Rendering, infusing games with lifelike lighting and materials using advanced artist-guided AI models.\" It ships alongside Game Ready Driver 616.64.",
-    "last_update": "2026-10-13",
+    "last_update": "2026-10-16",
     "updates": [
       {
         "date": "2026-10-13",
         "change": "October model update: 2X faster than September version, ~118M params (24% smaller), 20% less 4K VRAM, half GPU overhead, 10X faster than March 2026 debut; rolls out to NBA 2K27 and RTX Spark laptops 2026-10-16, RTX Remix 2026-10-23, Hogwarts Legacy 2026-11-05."
+      },
+      {
+        "date": "2026-10-16",
+        "change": "Faster/smaller (~118M param) DLSS 5 model + RTX Spark laptop platform launch went live for NBA 2K27 on RTX 50-series, RTX Spark laptops, and GeForce NOW; Hogwarts Legacy (2026-11-05) and Where Winds Meet (late Nov 2026) rollouts still pending."
       }
     ]
   },
@@ -225,10 +229,17 @@
   "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5": {
     "name": "Seedance 2.5",
     "company": "ByteDance",
-    "tier": "GA (consumer surface); API coming soon",
+    "tier": "GA (consumer surface + API)",
     "release_date": "2026-07-31",
     "summary": "ByteDance shipped Seedance 2.5, a video-generation model producing a single continuous 30-second clip, accepting up to 30 images/10 video clips/10 audio clips as reference, and adding timestamp-level regional editing.",
-    "first_seen": "2026-09-21"
+    "first_seen": "2026-09-21",
+    "last_update": "2026-10-17",
+    "updates": [
+      {
+        "date": "2026-10-17",
+        "change": "BytePlus ModelArk API documentation (tutorial + prompt guide) and an active pricing/plan page went live, moving the API from \"coming soon\" to developer-accessible."
+      }
+    ]
   },
   "https://finance.yahoo.com/technology/ai/articles/alibabas-amap-unveils-abot-world-072100723.html": {
     "name": "ABot-World (ABot-World-0 / ABot-3DWorld-0)",
@@ -418,12 +429,19 @@
     "summary": "NVIDIA states Gears of War: E-Day is the first shipped game to support RTX Mega Geometry, letting it ray-trace its full-detail Unreal Engine 5 Nanite geometry instead of a simplified proxy mesh, alongside the full DLSS 4.5 feature set."
   },
   "https://kling.ai/": {
-    "name": "Kling 4.0 Flash (early access)",
+    "name": "Kling 4.0 (full global launch)",
     "company": "Kuaishou (Kling)",
-    "tier": "Public beta/preview",
+    "tier": "GA",
     "first_seen": "2026-10-04",
-    "release_date": "2026-09-28",
-    "summary": "Kuaishou's Kling unit opened early access to Kling 4.0 Flash, the fast/low-cost tier of its next video-generation model, to subscribers on its Black Gold Annual plan on 2026-09-28."
+    "release_date": "2026-10-15",
+    "summary": "Kuaishou globally launched Kling 4.0, a next-generation video-generation model superseding the earlier Kling 4.0 Flash early access.",
+    "last_update": "2026-10-15",
+    "updates": [
+      {
+        "date": "2026-10-15",
+        "change": "Kling 4.0 Flash early access superseded by full global launch of Kling 4.0: native 30s single-pass generation, Omni Reference (up to 15 refs), up to 10 keyframes, 10-bit HDR, 8000-token prompts, Kling MCP/CLI for agent workflows. 4K/1080p/21:9 output and 2-min extensions still future-tense."
+      }
+    ]
   },
   "https://devforum.roblox.com/t/studio-beta-expanding-the-character-controller-library-new-default-abilities-custom-abilities-api/4863739": {
     "name": "Roblox Studio — Expanding the Character Controller Library (Custom Abilities API)",
@@ -496,5 +514,21 @@
     "first_seen": "2026-10-13",
     "release_date": "2026-10-07",
     "summary": "Unity announced Unity Spark, a browser-based way to make and share games with no prior Unity or game-development experience required, connecting to the Unity Asset Store; access is waitlist-only with no GA/beta availability stated."
+  },
+  "https://devforum.roblox.com/t/full-release-editablemesh-batching-apis-parallel-queries": {
+    "name": "EditableMesh Batching APIs & Parallel Queries",
+    "company": "Roblox",
+    "tier": "GA (Full Release)",
+    "first_seen": "2026-10-19",
+    "release_date": "2026-09-15",
+    "summary": "Roblox shipped ten new batch methods for the EditableMesh API, plus parallel-safe query methods usable from parallel Luau after task.desynchronize()."
+  },
+  "https://gpuopen.com/news/asd-compiler-launch/": {
+    "name": "AMD Advanced Shader Delivery (ASD) State Object Compiler",
+    "company": "AMD (borderline)",
+    "tier": "GA",
+    "first_seen": "2026-10-19",
+    "release_date": "2026-10-01",
+    "summary": "AMD shipped a Direct3D 12 State Object Compiler plugin that converts a game's shader State Object Database into a Precompiled Shader Database for Microsoft's Advanced Shader Delivery system."
   }
 }

@@ -18926,5 +18926,200 @@
   "first_seen": "2026-10-16",
   "submitted": "2026-09-28T12:11:31Z",
   "title": "Decoupling Appearance and Geometry in Diffusion World Models"
+ },
+ "2610.23795": {
+  "status": "qualified",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16",
+  "title": "Persistent Planar Memory for Video World Models",
+  "affiliation": "Ant Group — Bin Tan, Zelin Gao, Yujun Shen, Nan Xue, Yinghao Xu (He and Liu are Tsinghua University). FLAG: borderline — screen matched \"Alibaba,\" but the actual industry affiliation is Ant Group (a separate fintech/AI affiliate), which is on the borderline-company watch list.",
+  "url": "https://arxiv.org/abs/2610.23795",
+  "summary": "PPMem is a video world model that maintains a persistent, compact 3D memory built from plane primitives rather than point clouds, enabling long, geometrically consistent video generation under large camera motion."
+ },
+ "2610.23722": {
+  "status": "near-miss",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16T16:42:11Z",
+  "title": "Beyond Large Language Models: A Mental World Model Framework for Mental Modeling, Simulation, Evolution, and Interpretability"
+ },
+ "2610.23677": {
+  "status": "qualified",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16",
+  "title": "Agentic Physics-Grounded Video Generation via Memory-Augmented In-Context Reasoning",
+  "affiliation": "Horizon Robotics — Yanqi Bao, Zhengqing Chen (other authors are from Nanjing University, University of Hong Kong, Shenzhen University). FLAG: borderline — Horizon Robotics is a major Chinese autonomous-driving AI/chip company not on the explicit qualified list; kept per the \"comparable-standing industry lab\" allowance.",
+  "url": "https://arxiv.org/abs/2610.23677",
+  "summary": "PhysRepair reframes physics-grounded video generation as \"generate-diagnose-repair\" rather than enforcing physics only before generation, using an agent to find and fix implausible dynamics after a video is produced via targeted local regeneration."
+ },
+ "2610.23659": {
+  "status": "qualified",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16",
+  "title": "FlexPart: Text-Controlled Semantics-Aware 3D Part Segmentation at Flexible Granularity",
+  "affiliation": "Tencent Hunyuan — Jiachen Xu, Yunfei Zhao, Zibo Zhao, Xintong Han, Chunchao Guo (others are University of Hong Kong / CUHK-Shenzhen)",
+  "url": "https://arxiv.org/abs/2610.23659",
+  "summary": "FlexPart segments 3D meshes into parts chosen and described by the user in free text, at whatever granularity the prompt implies, rather than following one fixed artist partition."
+ },
+ "2610.23622": {
+  "status": "near-miss",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16T15:32:09Z",
+  "title": "Foundation-Model-Driven 3D Scene Graphs for Mobile Manipulation"
+ },
+ "2610.23615": {
+  "status": "screened-out",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16T15:26:24Z",
+  "title": "Beyond Action Prediction: Learning Search-Free Planning in Latent Space"
+ },
+ "2610.23542": {
+  "status": "screened-out",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16T14:37:13Z",
+  "title": "Execution Before Memory: Diagnosing Memory Failures in Video World Models"
+ },
+ "2610.23496": {
+  "status": "screened-out",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16T14:07:19Z",
+  "title": "FLoTS-SLAM: Optical Flow-Derived Uncertainty for Monocular Dynamic SLAM with Two-Stage Optimization"
+ },
+ "2610.23423": {
+  "status": "near-miss",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16T13:09:55Z",
+  "title": "Momentum: Persistent Dynamics for Video World Models"
+ },
+ "2610.23408": {
+  "status": "screened-out",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16T13:04:13Z",
+  "title": "LithoWorld: An Endpoint World Model for Lithography Process-Window Recovery"
+ },
+ "2610.23396": {
+  "status": "screened-out",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16T12:53:08Z",
+  "title": "AWAM: Active Trajectory-Conditioned View Imagination for Robust Robot Manipulation"
+ },
+ "2610.23344": {
+  "status": "screened-out",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16T11:51:00Z",
+  "title": "Language Models Learn to Improve Language Models"
+ },
+ "2610.23334": {
+  "status": "near-miss",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16T11:39:21Z",
+  "title": "LAW: Unifying Language, Action, and World Modeling for Agentic Physical Intelligence"
+ },
+ "2610.23287": {
+  "status": "screened-out",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16T10:55:41Z",
+  "title": "I2V-DETACH: Source Grounding Detachment for Unauthorized Image-to-Video Generation"
+ },
+ "2610.23250": {
+  "status": "screened-out",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16T10:24:17Z",
+  "title": "LonGaussian: Tracking Foundation Priors for Long-Context Feedforward Gaussian Reconstruction"
+ },
+ "2610.23156": {
+  "status": "screened-out",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16T08:54:15Z",
+  "title": "ORD-WM: Learning Object-Centric Rigid Dynamics for 3D World Modeling in Robotic Manipulation"
+ },
+ "2610.23127": {
+  "status": "screened-out",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16T08:33:08Z",
+  "title": "BeJEPA: A Goal-Conditioned Humanoid Behavior World Model via Unsupervised RL"
+ },
+ "2610.23050": {
+  "status": "qualified",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16",
+  "title": "TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation",
+  "affiliation": "Alibaba Group (AMAP) — Chiyu Wang, Fan Jiang, Ziyu Zhu, Zhaoxu Sun, Mu Xu (Yun Wang interned at AMAP; Wang and Wu are City University of Hong Kong)",
+  "url": "https://arxiv.org/abs/2610.23050",
+  "summary": "TriFold is a variational autoencoder that folds the irregular, variable-count primitives of a 3D Gaussian Splatting scene into a fixed-size triplane latent, enabling standard latent generative modeling over 3DGS scenes."
+ },
+ "2610.23039": {
+  "status": "screened-out",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16T07:15:54Z",
+  "title": "Frame-Consistent Feed-Forward 3D Gaussian Splatting from Sparse Unposed Images"
+ },
+ "2610.22975": {
+  "status": "screened-out",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16T05:50:56Z",
+  "title": "Sink-Sparse Hybrid Attention for Efficient Inference in T2I/T2V Diffusion Transformers"
+ },
+ "2610.22825": {
+  "status": "screened-out",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16T02:05:03Z",
+  "title": "World Action Critic (WAC) Model: Joint Foresight and Criticism for Policy Learning"
+ },
+ "2610.22778": {
+  "status": "screened-out",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-16T00:39:55Z",
+  "title": "Direct Conditional Parameterization for N-Dimensional Splatting"
+ },
+ "2610.22720": {
+  "status": "screened-out",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-15T22:45:52Z",
+  "title": "HilbertGen-3D:Hilbert--Multifractal Conditioning for Topology-Aware 3D Generation"
+ },
+ "2610.22708": {
+  "status": "near-miss",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-15T22:24:56Z",
+  "title": "GlobeBench: Evaluating Text-Based World Model Capabilities for Scalable Environment Simulations"
+ },
+ "2610.22655": {
+  "status": "screened-out",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-15T21:16:23Z",
+  "title": "Is a Linear Probe Evidence of a Linear Representation?"
+ },
+ "2610.22608": {
+  "status": "screened-out",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-15T20:14:11Z",
+  "title": "ProactGen: Learning Proactive Clarification for Video Generation"
+ },
+ "2610.22505": {
+  "status": "screened-out",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-15T18:02:25Z",
+  "title": "KFS$^4$LAM: Adaptive KeyFrame Selection with Structure-Aware Mapping for Endoscopic Gaussian Splatting SLAM"
+ },
+ "2610.22457": {
+  "status": "screened-out",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-15T16:36:32Z",
+  "title": "Erase the Mark, Preserve the Motion: Temporally Consistent Removal of Video Watermarks"
+ },
+ "2610.22450": {
+  "status": "near-miss",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-15T15:48:11Z",
+  "title": "DriveWorld3D: Evidence Constrained 3D World Modeling and Generative Simulation for Real-World Autonomous Driving"
+ },
+ "2610.23732": {
+  "status": "qualified",
+  "first_seen": "2026-10-19",
+  "submitted": "2026-10-14",
+  "title": "ESC: Escaping 2D Diffusion Ambiguity with Geometric Constraints for Consistent Novel View Synthesis",
+  "affiliation": "Meta (FAIR) — Daniel Severo, Brian Karrer, Michal Drozdzal, Adriana Romero-Soriano (joint last author); Ge Ya Luo's work was done at Meta. Pal is Mila/Polytechnique Montréal.",
+  "url": "https://arxiv.org/abs/2610.23732",
+  "summary": "ESC targets single-image novel view synthesis under large camera changes, where 2D diffusion models can produce plausible but geometrically invalid views that standard 2D or pose metrics fail to catch."
  }
 }
