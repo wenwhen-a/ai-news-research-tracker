@@ -1,0 +1,236 @@
+{
+  "as_of": "2026-10-19",
+  "cutoff": "2026-10-18",
+  "window_days": 1,
+  "summary": {
+    "input_items": 11,
+    "denied_source": 0,
+    "in_window": 8,
+    "out_of_window": 3,
+    "invalid_date": 0,
+    "unique_after_dedup": 8,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 8,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 2,
+    "previously_covered_count": 6
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "土耳其手游厂商Flow Games获腾讯领投4600万美元融资,累计融资达4900万美元",
+        "title_en": "Turkish developer Flow Games secures $46m funding package led by Tencent, confirms $49m total funding",
+        "url": "https://www.pocketgamer.biz/exclusive-turkish-developer-flow-games-raises-46m-in-funding-package-led-by-tencent/",
+        "date": "2026-10-19",
+        "summary": "据PocketGamer.biz独家报道,土耳其手游开发商Flow Games获得一笔4600万美元的融资,约四分之三来自腾讯;随后该工作室确认累计融资已达4900万美元,投资方包括腾讯及多家风投机构。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "土耳其手游厂商Flow Games获腾讯领投4600万美元融资,累计融资达4900万美元",
+          "title_en": "Turkish developer Flow Games secures $46m funding package led by Tencent, confirms $49m total funding",
+          "url": "https://www.pocketgamer.biz/exclusive-turkish-developer-flow-games-raises-46m-in-funding-package-led-by-tencent/",
+          "date": "2026-10-19",
+          "summary": "据PocketGamer.biz独家报道,土耳其手游开发商Flow Games获得一笔4600万美元的融资,约四分之三来自腾讯;随后该工作室确认累计融资已达4900万美元,投资方包括腾讯及多家风投机构。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Supercell确认《Squad Busters》将于12月14日停服",
+        "title_en": "Supercell set to shut down Squad Busters on December 14th",
+        "url": "https://www.pocketgamer.biz/supercell-set-to-shut-down-squad-busters-on-december-14th/",
+        "date": "2026-10-19",
+        "summary": "Supercell确认手游《Squad Busters》将于12月1日从App Store和Google Play下架,已安装用户可继续游玩至12月14日服务器正式关停,这是Supercell首次关闭一款已全球上线的手游。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Supercell确认《Squad Busters》将于12月14日停服",
+          "title_en": "Supercell set to shut down Squad Busters on December 14th",
+          "url": "https://www.pocketgamer.biz/supercell-set-to-shut-down-squad-busters-on-december-14th/",
+          "date": "2026-10-19",
+          "summary": "Supercell确认手游《Squad Busters》将于12月1日从App Store和Google Play下架,已安装用户可继续游玩至12月14日服务器正式关停,这是Supercell首次关闭一款已全球上线的手游。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "报告:今年三季度手游内购收入同比下滑7%,无新作进入全球畅销榜",
+        "title_en": "Mobile game IAPs down 7% as no new releases break top-grossing charts this year",
+        "url": "https://www.pocketgamer.biz/mobile-game-iaps-down-7-as-no-new-releases-break-top-grossing-charts-this-year/",
+        "date": "2026-10-19",
+        "summary": "据Aream & Co报告,2026年第三季度全球手游内购收入同比下降7%至196亿美元,下载量下降10%,且今年以来没有一款新发行游戏进入全球畅销榜前列。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "报告:今年三季度手游内购收入同比下滑7%,无新作进入全球畅销榜",
+          "title_en": "Mobile game IAPs down 7% as no new releases break top-grossing charts this year",
+          "url": "https://www.pocketgamer.biz/mobile-game-iaps-down-7-as-no-new-releases-break-top-grossing-charts-this-year/",
+          "date": "2026-10-19",
+          "summary": "据Aream & Co报告,2026年第三季度全球手游内购收入同比下降7%至196亿美元,下载量下降10%,且今年以来没有一款新发行游戏进入全球畅销榜前列。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Google Play推出AI游戏发现工具Game Finder,依据\"玩家DNA\"推荐游戏",
+        "title_en": "Google Play launches discoverability tool Game Finder using 'gamer DNA'",
+        "url": "https://www.pocketgamer.biz/google-play-launches-discoverability-tool-game-finder-using-gamer-dna/",
+        "date": "2026-10-19",
+        "summary": "Google Play上线新发现工具Game Finder,基于用户关注的玩法、题材偏好及好友在玩的游戏进行AI推荐,并允许用户屏蔽主打内购的游戏类型。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Google Play推出AI游戏发现工具Game Finder,依据\"玩家DNA\"推荐游戏",
+          "title_en": "Google Play launches discoverability tool Game Finder using 'gamer DNA'",
+          "url": "https://www.pocketgamer.biz/google-play-launches-discoverability-tool-game-finder-using-gamer-dna/",
+          "date": "2026-10-19",
+          "summary": "Google Play上线新发现工具Game Finder,基于用户关注的玩法、题材偏好及好友在玩的游戏进行AI推荐,并允许用户屏蔽主打内购的游戏类型。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "因地区安全局势,2026年FIFAe总决赛宣布推迟",
+        "title_en": "FIFAe Finals 2026 postponed amid regional security concerns",
+        "url": "https://www.pocketgamer.biz/fifae-finals-2026-postponed-amid-regional-security-concerns/",
+        "date": "2026-10-19",
+        "summary": "国际足联与沙特电竞联合会宣布推迟原定10月16日至25日举行的2026年FIFAe总决赛,原因是对该地区局势影响出行、住宿和赛事运营的评估,此前日本、巴西代表队已宣布退赛。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "因地区安全局势,2026年FIFAe总决赛宣布推迟",
+          "title_en": "FIFAe Finals 2026 postponed amid regional security concerns",
+          "url": "https://www.pocketgamer.biz/fifae-finals-2026-postponed-amid-regional-security-concerns/",
+          "date": "2026-10-19",
+          "summary": "国际足联与沙特电竞联合会宣布推迟原定10月16日至25日举行的2026年FIFAe总决赛,原因是对该地区局势影响出行、住宿和赛事运营的评估,此前日本、巴西代表队已宣布退赛。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "2026年10月Steam Next Fest今日开幕",
+        "title_en": "Steam Next Fest October 2026 edition begins today",
+        "url": "https://www.pocketgamer.biz/events/steam-next-fest-october-2026/",
+        "date": "2026-10-19",
+        "summary": "Valve官方日程显示,2026年10月的Steam新品节(Next Fest)于10月19日开幕,持续至10月26日,期间大量未发行PC游戏提供限时试玩Demo及开发者直播问答。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "2026年10月Steam Next Fest今日开幕",
+          "title_en": "Steam Next Fest October 2026 edition begins today",
+          "url": "https://www.pocketgamer.biz/events/steam-next-fest-october-2026/",
+          "date": "2026-10-19",
+          "summary": "Valve官方日程显示,2026年10月的Steam新品节(Next Fest)于10月19日开幕,持续至10月26日,期间大量未发行PC游戏提供限时试玩Demo及开发者直播问答。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Epic游戏商店推出\"AI写码\"新启动器,称冷启动速度比Steam快46%,Valve随即更新客户端反驳",
+        "title_en": "Epic claims new 'vibe coded' PC launcher is faster than Steam, but Valve updated Steam the day before",
+        "url": "https://hothardware.com/news/epic-claims-vibe-coded-pc-launcher-dusts-steam-speed-tests",
+        "date": "2026-10-19",
+        "summary": "Epic Games本周推出预览版新启动器,称其由AI大量参与编码(\"vibe coded\"),冷启动用时5.47秒,比Steam的10.07秒快约46%;但Valve在该测试结果公布前一天更新了Steam客户端,第三方实测显示更新后Steam启动速度已与Epic数据相当甚至更快,相关说法仍存在争议。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Epic游戏商店推出\"AI写码\"新启动器,称冷启动速度比Steam快46%,Valve随即更新客户端反驳",
+          "title_en": "Epic claims new 'vibe coded' PC launcher is faster than Steam, but Valve updated Steam the day before",
+          "url": "https://hothardware.com/news/epic-claims-vibe-coded-pc-launcher-dusts-steam-speed-tests",
+          "date": "2026-10-19",
+          "summary": "Epic Games本周推出预览版新启动器,称其由AI大量参与编码(\"vibe coded\"),冷启动用时5.47秒,比Steam的10.07秒快约46%;但Valve在该测试结果公布前一天更新了Steam客户端,第三方实测显示更新后Steam启动速度已与Epic数据相当甚至更快,相关说法仍存在争议。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "ID@Xbox独立游戏展将于10月20日举行,与IGN联合呈现约18-20款游戏",
+        "title_en": "ID@Xbox Showcase announced for October 20th, features around 20 games",
+        "url": "https://gamingbolt.com/?p=654831",
+        "date": "2026-10-19",
+        "summary": "微软与IGN宣布将于10月20日联合举办ID@Xbox独立游戏展示会,预计展出18至20款独立游戏,此前确认将包含《The Wolf Among Us》重制版的新演示内容,完整阵容尚未公布,主办方预告将有多款世界首秀。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "ID@Xbox独立游戏展将于10月20日举行,与IGN联合呈现约18-20款游戏",
+          "title_en": "ID@Xbox Showcase announced for October 20th, features around 20 games",
+          "url": "https://gamingbolt.com/?p=654831",
+          "date": "2026-10-19",
+          "summary": "微软与IGN宣布将于10月20日联合举办ID@Xbox独立游戏展示会,预计展出18至20款独立游戏,此前确认将包含《The Wolf Among Us》重制版的新演示内容,完整阵容尚未公布,主办方预告将有多款世界首秀。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [
+    {
+      "title": "据报道Epic Games全面转向AI开发,未公布的迪士尼漫威/星战射击游戏延期",
+      "title_en": "Epic Games reportedly pivots to AI-first development, delays unannounced Disney Marvel/Star Wars shooter",
+      "url": "https://www.gamedeveloper.com/programming/no-more-hand-written-code-epic-s-disney-project-reportedly-shifts-to-ai-first-development",
+      "date": "2026-10-12",
+      "summary": "据彭博社报道,Epic Games已将原计划2027年3月发布的未公布迪士尼漫威/星战射击游戏无限期推迟,项目团队被要求转向\"AI优先\"开发流程、减少手写代码;Epic CEO Tim Sweeney随后在X平台确认公司正进行\"重大转型\",将人员重新调配以加速AI相关工作,但未直接回应该项目延期的消息。",
+      "section": 3,
+      "_date_parsed": "2026-10-12"
+    },
+    {
+      "title": "据报道《GTA 6》PC版或于2027年第一季度推出,Rockstar尚未证实",
+      "title_en": "GTA 6 PC release date rumored for Q1 2027, Rockstar hasn't confirmed",
+      "url": "https://www.pcworld.com/article/3260660/we-guessed-late-2027-for-gta-6-on-pc-a-report-says-q1-2027.html",
+      "date": "2026-10-13",
+      "summary": "据GamesBeat援引四名行业信源报道,Rockstar计划在2027年第一季度推出《GTA 6》PC版,但未给出具体日期,官方也未对此作出回应;该作主机版已确定于2026年11月19日在PS5和Xbox Series X|S上发售。",
+      "section": 3,
+      "_date_parsed": "2026-10-13"
+    },
+    {
+      "title": "派拉蒙完成对华纳兄弟探索频道收购,华纳游戏并入新公司Skydance",
+      "title_en": "Paramount completes Warner Bros. Discovery acquisition, Warner Bros. Games now part of combined company Skydance",
+      "url": "https://cordcuttersnews.com/?p=257429",
+      "date": "2026-10-06",
+      "summary": "派拉蒙对华纳兄弟探索频道的并购已于10月6日完成,交易金额约1100亿美元,合并后公司以Skydance名义在纽交所上市;Avalanche Software、NetherRealm Studios、Rocksteady Studios、TT Games、WB Games Montreal等华纳游戏工作室均并入新公司,目前尚未公布华纳游戏业务的具体重组安排。",
+      "section": 3,
+      "_date_parsed": "2026-10-06"
+    }
+  ],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

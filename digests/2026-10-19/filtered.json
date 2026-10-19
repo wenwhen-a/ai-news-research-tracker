@@ -1,0 +1,422 @@
+{
+  "as_of": "2026-10-19",
+  "cutoff": "2026-10-12",
+  "window_days": 7,
+  "summary": {
+    "input_items": 15,
+    "denied_source": 0,
+    "in_window": 15,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 15,
+    "duplicate_clusters": 0,
+    "section1_count": 7,
+    "section2_count": 8,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": true,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 6,
+    "previously_covered_count": 9
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "NVIDIA推出提速2倍的DLSS 5新模型,同步发售RTX Spark AI超级计算机",
+        "title_en": "NVIDIA Ships 2X Faster DLSS 5 Model, Launches RTX Spark AI Superchip Laptops",
+        "url": "https://www.nvidia.com/en-us/geforce/news/dlss-5-faster-ai-model-hogwarts-legacy-rtx-spark-laptops/",
+        "secondary_url": "https://www.nvidia.com/en-us/geforce/news/rtx-spark-dlss-reflex-ray-tracing-games/",
+        "date": "2026-10-13",
+        "summary": "NVIDIA发布新一代DLSS 5神经渲染模型,相比9月版本性能提升约2倍,参数量削减24%、显存占用降低20%,首先应用于《NBA 2K27》。同时,搭载Blackwell GPU与Grace CPU的RTX Spark AI超级计算机笔记本于10月16日全球开售,首发支持DLSS 5、Reflex及多款主流反作弊系统。《霍格沃茨之遗》《燕云十六声》等游戏将于11月陆续获得DLSS 5支持。",
+        "section": 1,
+        "notes": "核心事实:DLSS 5基于“3D-Guided Neural Rendering”技术,是DLSS首次直接用AI生成引擎因性能限制被阉割的光照与材质细节,而非单纯做图像放大或补帧;9月随《NBA 2K27》首发。10月13日官方公布的新模型比3月发布时快10倍、比9月版本快2倍;参数量降至约1.18亿(减少24%),4K分辨率显存占用降低20%,GPU开销减半且画质相当;使《NBA 2K27》帧率最高提升1.4倍。新模型10月16日随NBA 2K27第二赛季上线,覆盖RTX 50系列显卡、RTX Spark笔记本及GeForce NOW云游戏。同期推出测试版“帧生成性能模式”(Preset C),以更轻量算法替换第二光流AI模型,在RTX 5060上最高提速35%,画质略有取舍,适用于RTX 40/50系列及RTX Spark。\n背景:RTX Spark是NVIDIA全新的内容创作/AI/游戏笔记本平台,经OEM渠道销售,搭载最高6144个CUDA核心的Blackwell架构GPU、第五代Tensor Core,以及最高20核的NVIDIA Grace CPU,通过NVLink-C2C芯片间互联,主打轻薄长续航设计,10月16日起全球开售(此前已开放预订)。\n结果/现状:RTX Spark首发即支持DLSS(含DLSS 5全套:超分辨率、光线重建、动态多帧生成、3D引导神经渲染)、Reflex、G-SYNC、光线追踪及RTX Remix模组平台,并已与BattleEye、EA Javelin、Easy Anti-Cheat、RICOCHET、Vanguard等主流反作弊厂商合作以保证跨平台联机(《使命召唤》反作弊支持排至2027年,PUBG排至2027上半年)。首发游戏阵容涵盖《赛博朋克2077》《无主之地4》《原神》《崩坏:星穹铁道》《NBA 2K27》等数十款作品。后续排期:RTX Remix模组平台10月23日加入DLSS 5支持(已在《辐射4》《镜之边缘》模组项目中预览);《霍格沃茨之遗》11月5日获得DLSS 5;《燕云十六声》11月底升级。"
+      },
+      "members": [
+        {
+          "title": "NVIDIA推出提速2倍的DLSS 5新模型,同步发售RTX Spark AI超级计算机",
+          "title_en": "NVIDIA Ships 2X Faster DLSS 5 Model, Launches RTX Spark AI Superchip Laptops",
+          "url": "https://www.nvidia.com/en-us/geforce/news/dlss-5-faster-ai-model-hogwarts-legacy-rtx-spark-laptops/",
+          "secondary_url": "https://www.nvidia.com/en-us/geforce/news/rtx-spark-dlss-reflex-ray-tracing-games/",
+          "date": "2026-10-13",
+          "summary": "NVIDIA发布新一代DLSS 5神经渲染模型,相比9月版本性能提升约2倍,参数量削减24%、显存占用降低20%,首先应用于《NBA 2K27》。同时,搭载Blackwell GPU与Grace CPU的RTX Spark AI超级计算机笔记本于10月16日全球开售,首发支持DLSS 5、Reflex及多款主流反作弊系统。《霍格沃茨之遗》《燕云十六声》等游戏将于11月陆续获得DLSS 5支持。",
+          "section": 1,
+          "notes": "核心事实:DLSS 5基于“3D-Guided Neural Rendering”技术,是DLSS首次直接用AI生成引擎因性能限制被阉割的光照与材质细节,而非单纯做图像放大或补帧;9月随《NBA 2K27》首发。10月13日官方公布的新模型比3月发布时快10倍、比9月版本快2倍;参数量降至约1.18亿(减少24%),4K分辨率显存占用降低20%,GPU开销减半且画质相当;使《NBA 2K27》帧率最高提升1.4倍。新模型10月16日随NBA 2K27第二赛季上线,覆盖RTX 50系列显卡、RTX Spark笔记本及GeForce NOW云游戏。同期推出测试版“帧生成性能模式”(Preset C),以更轻量算法替换第二光流AI模型,在RTX 5060上最高提速35%,画质略有取舍,适用于RTX 40/50系列及RTX Spark。\n背景:RTX Spark是NVIDIA全新的内容创作/AI/游戏笔记本平台,经OEM渠道销售,搭载最高6144个CUDA核心的Blackwell架构GPU、第五代Tensor Core,以及最高20核的NVIDIA Grace CPU,通过NVLink-C2C芯片间互联,主打轻薄长续航设计,10月16日起全球开售(此前已开放预订)。\n结果/现状:RTX Spark首发即支持DLSS(含DLSS 5全套:超分辨率、光线重建、动态多帧生成、3D引导神经渲染)、Reflex、G-SYNC、光线追踪及RTX Remix模组平台,并已与BattleEye、EA Javelin、Easy Anti-Cheat、RICOCHET、Vanguard等主流反作弊厂商合作以保证跨平台联机(《使命召唤》反作弊支持排至2027年,PUBG排至2027上半年)。首发游戏阵容涵盖《赛博朋克2077》《无主之地4》《原神》《崩坏:星穹铁道》《NBA 2K27》等数十款作品。后续排期:RTX Remix模组平台10月23日加入DLSS 5支持(已在《辐射4》《镜之边缘》模组项目中预览);《霍格沃茨之遗》11月5日获得DLSS 5;《燕云十六声》11月底升级。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Epic Games CEO斯维尼宣布“AI大转型”,迪士尼星战/漫威游戏传因“全AI优先”流程延期",
+        "title_en": "Epic Games CEO Announces \"Huge AI Pivot\" as Disney Star Wars/Marvel Shooter Reportedly Delayed Over \"AI-First\" Mandate",
+        "url": "https://www.gamedeveloper.com/programming/no-more-hand-written-code-epic-s-disney-project-reportedly-shifts-to-ai-first-development",
+        "secondary_url": "https://www.mediapost.com/publications/article/418720/epic-games-pivots-to-drive-ai-acceleration.html",
+        "date": "2026-10-14",
+        "summary": "Epic Games CEO蒂姆·斯维尼10月12日在X平台宣布公司正进行“巨大转型”,重新调配开发者以实现“最大化AI加速”,并强调目的是提升产出而非裁员。此前彭博社报道,Epic与迪士尼合作、尚未公布的星球大战/漫威射击游戏因转向“AI优先”开发模式而推迟原定2027年3月的发布计划,内部邮件称美术需“以全AI工作流生成”、“不再有手写代码”。截至10月15日,Epic和迪士尼均未正式确认该项目延期的具体细节。",
+        "section": 1,
+        "notes": "核心事实:10月12日(周一),斯维尼在X发帖称“We have a huge pivot underway here at Epic, moving developers around to retool for maximum AI acceleration”(我们正在进行一场巨大转型,重新调配开发者以实现最大化AI加速),并表示“目的不是用更少的人做同样的事,而是让每个人都能做得更多、更好”(The aim isn't to do the same stuff with fewer people, but to enable everyone here to build MORE and BETTER stuff)。他称Epic的“适度目标”是“在AI革命中存活下来,并帮助其他开发者做到同样的事”。\n背景:彭博社10月12日报道,Epic与迪士尼合作开发的一款未公开的星球大战与漫威题材射击游戏原计划2027年3月发布,因产能评估等问题推迟,新档期未公布;据彭博社看到的内部邮件,该项目总监要求团队转向“AI优先”生产模式(涉及Anthropic Claude等工具),美术资源需“以全AI工作流生成”,且“不再有手写代码”。该消息发生在Epic此前约6个月裁员逾1000人之后(官方将裁员归因于增长放缓等因素,而非AI)。德国媒体此前报道,Epic去年10月的立场还相对谨慎。\n结果/现状:斯维尼的公开声明仅谈及Epic整体AI战略,并未直接证实或回应迪士尼项目的具体细节;Epic通讯总监Jake Jones回应称AI加速开发“由Epic的开发者主导,他们才是愿景与创意的驱动者”。此事件被视为西方3A游戏行业内目前为止最高调的一次“AI优先”生产模式公开化事件,引发游戏开发者和玩家社群对“AI是否取代手写代码与手绘美术”的广泛讨论。该转型发生在Epic今年5月宣布UE6将把LLM、生成式AI与Claude、Codex等编码代理深度集成的战略背景之下。"
+      },
+      "members": [
+        {
+          "title": "Epic Games CEO斯维尼宣布“AI大转型”,迪士尼星战/漫威游戏传因“全AI优先”流程延期",
+          "title_en": "Epic Games CEO Announces \"Huge AI Pivot\" as Disney Star Wars/Marvel Shooter Reportedly Delayed Over \"AI-First\" Mandate",
+          "url": "https://www.gamedeveloper.com/programming/no-more-hand-written-code-epic-s-disney-project-reportedly-shifts-to-ai-first-development",
+          "secondary_url": "https://www.mediapost.com/publications/article/418720/epic-games-pivots-to-drive-ai-acceleration.html",
+          "date": "2026-10-14",
+          "summary": "Epic Games CEO蒂姆·斯维尼10月12日在X平台宣布公司正进行“巨大转型”,重新调配开发者以实现“最大化AI加速”,并强调目的是提升产出而非裁员。此前彭博社报道,Epic与迪士尼合作、尚未公布的星球大战/漫威射击游戏因转向“AI优先”开发模式而推迟原定2027年3月的发布计划,内部邮件称美术需“以全AI工作流生成”、“不再有手写代码”。截至10月15日,Epic和迪士尼均未正式确认该项目延期的具体细节。",
+          "section": 1,
+          "notes": "核心事实:10月12日(周一),斯维尼在X发帖称“We have a huge pivot underway here at Epic, moving developers around to retool for maximum AI acceleration”(我们正在进行一场巨大转型,重新调配开发者以实现最大化AI加速),并表示“目的不是用更少的人做同样的事,而是让每个人都能做得更多、更好”(The aim isn't to do the same stuff with fewer people, but to enable everyone here to build MORE and BETTER stuff)。他称Epic的“适度目标”是“在AI革命中存活下来,并帮助其他开发者做到同样的事”。\n背景:彭博社10月12日报道,Epic与迪士尼合作开发的一款未公开的星球大战与漫威题材射击游戏原计划2027年3月发布,因产能评估等问题推迟,新档期未公布;据彭博社看到的内部邮件,该项目总监要求团队转向“AI优先”生产模式(涉及Anthropic Claude等工具),美术资源需“以全AI工作流生成”,且“不再有手写代码”。该消息发生在Epic此前约6个月裁员逾1000人之后(官方将裁员归因于增长放缓等因素,而非AI)。德国媒体此前报道,Epic去年10月的立场还相对谨慎。\n结果/现状:斯维尼的公开声明仅谈及Epic整体AI战略,并未直接证实或回应迪士尼项目的具体细节;Epic通讯总监Jake Jones回应称AI加速开发“由Epic的开发者主导,他们才是愿景与创意的驱动者”。此事件被视为西方3A游戏行业内目前为止最高调的一次“AI优先”生产模式公开化事件,引发游戏开发者和玩家社群对“AI是否取代手写代码与手绘美术”的广泛讨论。该转型发生在Epic今年5月宣布UE6将把LLM、生成式AI与Claude、Codex等编码代理深度集成的战略背景之下。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《全面战争:幕府将军2:完整版》因AI升频贴图口碑崩盘,SEGA临时下架重制版",
+        "title_en": "Total War: Shogun 2 Complete Edition Pulled From Stores After Backlash Over AI-Upscaled Art",
+        "url": "https://www.kitguru.net/gaming/mustafa-mahmoud/total-war-shogun-2-complete-edition-has-been-pulled-from-stores-following-contentious-launch/",
+        "secondary_url": "",
+        "date": "2026-10-16",
+        "summary": "由英国Creative Assembly开发、SEGA发行的《全面战争:幕府将军2:完整版》重制版上线后遭玩家强烈抨击,主要原因是原始低分辨率美术资源经生成式AI升频处理后呈现“糊状”失真效果,叠加新旧bug问题。SEGA在官方Bluesky声明中承认成品未达到玩家期待及自身标准,已协调各平台方将该版本从商店临时下架、恢复可购买2011年原版,现有购买者仍可访问重制版内容。",
+        "section": 1,
+        "notes": "核心事实:重制版使用生成式AI对2011年原版的低分辨率美术贴图进行升频放大处理,结果呈现出细节糜烂、“soupy”(糊状)的视觉效果,被Steam评论区大量玩家批评为偷工减料式的“AI糊图”;重制版还保留了原版的多项老bug,并引入了新的bug。原版《全面战争:幕府将军2》在该系列历代作品中口碑排名居前,使此次落差对比更加突出,加剧玩家不满。\n背景/经过:SEGA在官方Bluesky账号发布声明,承认“成品未达到玩家期待及自身标准”,目前正在调查问题根源;声明提到一个未具名的“开发合作方”负责此次重制美术升频工作,但未点名具体执行方(该系列一贯由Creative Assembly开发)。这是2026年内又一起因生成式AI使用不当引发公开争议的游戏案例,此前已有SEGA旗下《疯狂出租车》预告片、Ubisoft“首款GenAI游戏”计划、Capcom表态等多起同类GenAI争议事件。\n结果/现状:SEGA已与各平台方协作,将《幕府将军2:完整版》重制版从Steam等商店临时下架,恢复2011年原始版本上架销售,已购买重制版的玩家不受影响、仍可访问游戏;SEGA尚未公布具体复原或修复时间表,也未直接逐条回应玩家对AI贴图的具体批评。此事是本周内少数因AI使用问题导致发行商采取“下架”这一实质性商业处置(而非仅发声明)的案例。"
+      },
+      "members": [
+        {
+          "title": "《全面战争:幕府将军2:完整版》因AI升频贴图口碑崩盘,SEGA临时下架重制版",
+          "title_en": "Total War: Shogun 2 Complete Edition Pulled From Stores After Backlash Over AI-Upscaled Art",
+          "url": "https://www.kitguru.net/gaming/mustafa-mahmoud/total-war-shogun-2-complete-edition-has-been-pulled-from-stores-following-contentious-launch/",
+          "secondary_url": "",
+          "date": "2026-10-16",
+          "summary": "由英国Creative Assembly开发、SEGA发行的《全面战争:幕府将军2:完整版》重制版上线后遭玩家强烈抨击,主要原因是原始低分辨率美术资源经生成式AI升频处理后呈现“糊状”失真效果,叠加新旧bug问题。SEGA在官方Bluesky声明中承认成品未达到玩家期待及自身标准,已协调各平台方将该版本从商店临时下架、恢复可购买2011年原版,现有购买者仍可访问重制版内容。",
+          "section": 1,
+          "notes": "核心事实:重制版使用生成式AI对2011年原版的低分辨率美术贴图进行升频放大处理,结果呈现出细节糜烂、“soupy”(糊状)的视觉效果,被Steam评论区大量玩家批评为偷工减料式的“AI糊图”;重制版还保留了原版的多项老bug,并引入了新的bug。原版《全面战争:幕府将军2》在该系列历代作品中口碑排名居前,使此次落差对比更加突出,加剧玩家不满。\n背景/经过:SEGA在官方Bluesky账号发布声明,承认“成品未达到玩家期待及自身标准”,目前正在调查问题根源;声明提到一个未具名的“开发合作方”负责此次重制美术升频工作,但未点名具体执行方(该系列一贯由Creative Assembly开发)。这是2026年内又一起因生成式AI使用不当引发公开争议的游戏案例,此前已有SEGA旗下《疯狂出租车》预告片、Ubisoft“首款GenAI游戏”计划、Capcom表态等多起同类GenAI争议事件。\n结果/现状:SEGA已与各平台方协作,将《幕府将军2:完整版》重制版从Steam等商店临时下架,恢复2011年原始版本上架销售,已购买重制版的玩家不受影响、仍可访问游戏;SEGA尚未公布具体复原或修复时间表,也未直接逐条回应玩家对AI贴图的具体批评。此事是本周内少数因AI使用问题导致发行商采取“下架”这一实质性商业处置(而非仅发声明)的案例。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "微软成立“Xbox Labs”部门,探索AI编码代理在游戏开发中的应用",
+        "title_en": "Microsoft Launches \"Xbox Labs\" to Explore AI-Based Game Coding",
+        "url": "https://news.xbox.com/en-us/2026/10/13/introducing-xbox-labs/",
+        "secondary_url": "https://www.kitguru.net/gaming/mustafa-mahmoud/microsoft-announces-new-xbox-labs-division-seemingly-focused-on-exploring-ai-based-game-coding/",
+        "date": "2026-10-13",
+        "summary": "Xbox CEO Asha Sharma通过Xbox Wire内部信宣布成立新部门“Xbox Labs”,由游戏制作人、工程师与科学家组成,旨在将新兴技术创意转化为玩家与开发者可体验的产品,并计划“公开构建”。备忘录提及近期游戏反编译重建、Windows游戏移植至Apple芯片、通过WebAssembly/WebGPU在浏览器运行游戏等实验,并将“代码”与“游戏”类比为AI智能体的两大核心工作负载,暗示该部门方向涉及AI辅助游戏开发。Xbox强调其4C战略、自有硬件及IP运营优先级保持不变。",
+        "section": 2,
+        "notes": ""
+      },
+      "members": [
+        {
+          "title": "微软成立“Xbox Labs”部门,探索AI编码代理在游戏开发中的应用",
+          "title_en": "Microsoft Launches \"Xbox Labs\" to Explore AI-Based Game Coding",
+          "url": "https://news.xbox.com/en-us/2026/10/13/introducing-xbox-labs/",
+          "secondary_url": "https://www.kitguru.net/gaming/mustafa-mahmoud/microsoft-announces-new-xbox-labs-division-seemingly-focused-on-exploring-ai-based-game-coding/",
+          "date": "2026-10-13",
+          "summary": "Xbox CEO Asha Sharma通过Xbox Wire内部信宣布成立新部门“Xbox Labs”,由游戏制作人、工程师与科学家组成,旨在将新兴技术创意转化为玩家与开发者可体验的产品,并计划“公开构建”。备忘录提及近期游戏反编译重建、Windows游戏移植至Apple芯片、通过WebAssembly/WebGPU在浏览器运行游戏等实验,并将“代码”与“游戏”类比为AI智能体的两大核心工作负载,暗示该部门方向涉及AI辅助游戏开发。Xbox强调其4C战略、自有硬件及IP运营优先级保持不变。",
+          "section": 2,
+          "notes": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "NVIDIA“本周DLSS”更新:《使命召唤:现代战争4》等多款游戏接入DLSS 4.5",
+        "title_en": "NVIDIA \"DLSS This Week\": Call of Duty Modern Warfare 4 and More Games Add DLSS 4.5",
+        "url": "https://www.nvidia.com/en-us/geforce/news/dlss-4-5-crossout-remastered-modern-warfare-4-frame-gen-beta/",
+        "secondary_url": "",
+        "date": "2026-10-13",
+        "summary": "NVIDIA公布本周DLSS支持更新:《使命召唤:现代战争4》预购玩家10月16日可提前体验单人战役(支持DLSS 4.5及RTX 50系列最高6倍多帧生成),10月23日全球上线多人及DMZ模式;《破坏者:重制版》10月22日更新将引入DLSS 4.5全套技术(超分辨率、DLAA、补帧、多帧生成及Reflex);《ARC掠夺者》“冰封之路”更新、赛车游戏《尊享俱乐部3》等多款新游戏同步加入DLSS 4.5支持。",
+        "section": 2,
+        "notes": ""
+      },
+      "members": [
+        {
+          "title": "NVIDIA“本周DLSS”更新:《使命召唤:现代战争4》等多款游戏接入DLSS 4.5",
+          "title_en": "NVIDIA \"DLSS This Week\": Call of Duty Modern Warfare 4 and More Games Add DLSS 4.5",
+          "url": "https://www.nvidia.com/en-us/geforce/news/dlss-4-5-crossout-remastered-modern-warfare-4-frame-gen-beta/",
+          "secondary_url": "",
+          "date": "2026-10-13",
+          "summary": "NVIDIA公布本周DLSS支持更新:《使命召唤:现代战争4》预购玩家10月16日可提前体验单人战役(支持DLSS 4.5及RTX 50系列最高6倍多帧生成),10月23日全球上线多人及DMZ模式;《破坏者:重制版》10月22日更新将引入DLSS 4.5全套技术(超分辨率、DLAA、补帧、多帧生成及Reflex);《ARC掠夺者》“冰封之路”更新、赛车游戏《尊享俱乐部3》等多款新游戏同步加入DLSS 4.5支持。",
+          "section": 2,
+          "notes": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Drake Star报告:2026年第三季度AI工具吸引超八成游戏行业私募融资",
+        "title_en": "Drake Star Report: AI and Tools Captured Over 80% of Q3 2026 Private Gaming Funding",
+        "url": "https://www.pocketgamer.biz/gaming-manda-reached-24bn-across-45-deals-in-q3-2026/",
+        "secondary_url": "",
+        "date": "2026-10-14",
+        "summary": "投行Drake Star Partners发布的2026年第三季度全球游戏行业报告显示,游戏业并购交易总额约24亿美元(共45笔),私募融资总额超16亿美元(共106轮),其中AI与开发工具类公司吸纳了超过80%的私募资金,3D内容生成公司Meshy以4亿美元融资位居榜首,General Intuition、Blacknut、Tripo AI等紧随其后。Drake Star预计AI、开发工具及3D内容生成领域的投融资热度将持续至2026年底。",
+        "section": 2,
+        "notes": ""
+      },
+      "members": [
+        {
+          "title": "Drake Star报告:2026年第三季度AI工具吸引超八成游戏行业私募融资",
+          "title_en": "Drake Star Report: AI and Tools Captured Over 80% of Q3 2026 Private Gaming Funding",
+          "url": "https://www.pocketgamer.biz/gaming-manda-reached-24bn-across-45-deals-in-q3-2026/",
+          "secondary_url": "",
+          "date": "2026-10-14",
+          "summary": "投行Drake Star Partners发布的2026年第三季度全球游戏行业报告显示,游戏业并购交易总额约24亿美元(共45笔),私募融资总额超16亿美元(共106轮),其中AI与开发工具类公司吸纳了超过80%的私募资金,3D内容生成公司Meshy以4亿美元融资位居榜首,General Intuition、Blacknut、Tripo AI等紧随其后。Drake Star预计AI、开发工具及3D内容生成领域的投融资热度将持续至2026年底。",
+          "section": 2,
+          "notes": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Meta发布Immersive Web SDK 1.0,为VR游戏开发内置AI编码代理工具",
+        "title_en": "Meta Ships Immersive Web SDK 1.0 With Built-In AI Coding Agent Tools for VR Development",
+        "url": "https://developers.meta.com/vr/blog/immersive-web-sdk-1-0/",
+        "secondary_url": "",
+        "date": "2026-10-14",
+        "summary": "Meta发布开源沉浸式网页开发框架Immersive Web SDK(IWSDK)1.0版本,基于Three.js构建,面向手机、PC、头显及未来的Meta智能眼镜。新版本为每个项目内置MCP服务器与智能体技能,使AI编码代理可查看游戏场景、操控头显/手柄/手势输入、暂停调试引擎,并首次支持在联机的Meta Quest真机上自动运行测试与性能调优(官方示例展示AI代理将一款Quest 3游戏自动优化稳定在90帧)。",
+        "section": 2,
+        "notes": ""
+      },
+      "members": [
+        {
+          "title": "Meta发布Immersive Web SDK 1.0,为VR游戏开发内置AI编码代理工具",
+          "title_en": "Meta Ships Immersive Web SDK 1.0 With Built-In AI Coding Agent Tools for VR Development",
+          "url": "https://developers.meta.com/vr/blog/immersive-web-sdk-1-0/",
+          "secondary_url": "",
+          "date": "2026-10-14",
+          "summary": "Meta发布开源沉浸式网页开发框架Immersive Web SDK(IWSDK)1.0版本,基于Three.js构建,面向手机、PC、头显及未来的Meta智能眼镜。新版本为每个项目内置MCP服务器与智能体技能,使AI编码代理可查看游戏场景、操控头显/手柄/手势输入、暂停调试引擎,并首次支持在联机的Meta Quest真机上自动运行测试与性能调优(官方示例展示AI代理将一款Quest 3游戏自动优化稳定在90帧)。",
+          "section": 2,
+          "notes": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "印度AI驱动移动游戏工作室Spill Games完成1050万美元A轮融资",
+        "title_en": "India's AI-Led Mobile Game Studio Spill Games Raises $10.5M Series A",
+        "url": "https://india.entrepreneur.com/?p=100442",
+        "secondary_url": "",
+        "date": "2026-10-14",
+        "summary": "总部位于班加罗尔的移动游戏工作室Spill Games完成由Elevation Capital领投的1050万美元A轮融资。该公司将自身定位为“AI主导型”工作室,通过内部系统Compass快速测试创意并依据玩家数据决定项目取舍,数月内上线游戏数量由3款扩展至6款,新资金将用于扩大头部产品规模并建设更多AI工具。",
+        "section": 2,
+        "notes": ""
+      },
+      "members": [
+        {
+          "title": "印度AI驱动移动游戏工作室Spill Games完成1050万美元A轮融资",
+          "title_en": "India's AI-Led Mobile Game Studio Spill Games Raises $10.5M Series A",
+          "url": "https://india.entrepreneur.com/?p=100442",
+          "secondary_url": "",
+          "date": "2026-10-14",
+          "summary": "总部位于班加罗尔的移动游戏工作室Spill Games完成由Elevation Capital领投的1050万美元A轮融资。该公司将自身定位为“AI主导型”工作室,通过内部系统Compass快速测试创意并依据玩家数据决定项目取舍,数月内上线游戏数量由3款扩展至6款,新资金将用于扩大头部产品规模并建设更多AI工具。",
+          "section": 2,
+          "notes": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "快手可灵AI正式上线Kling 4.0视频生成模型,股价应声上涨",
+        "title_en": "Kuaishou's Kling AI officially launches Kling 4.0 video generation model",
+        "url": "https://www.cls.cn/detail/2506683",
+        "secondary_url": "https://m.sohu.com/a/1082038114_114760",
+        "date": "2026-10-15",
+        "summary": "快手旗下可灵AI于10月15日正式上线新一代视频生成模型Kling 4.0,支持单次最长30秒原生视频生成、4K/1080p 10bit HDR输出、21:9超宽画幅,并可组合最多10张图片、5段视频及7个主体进行“全能参考”生成。消息带动快手股价(01024.HK)当日盘中一度上涨超6%,截至发稿涨3.99%报29.72港元。该模型此前于9月28日先开放Flash轻量版小范围内测,10月中旬完整版正式上线。",
+        "section": 1,
+        "notes": "核心事实:可灵AI(Kling)是快手旗下的视频生成大模型产品。Kling 4.0于2026年9月28日先开放Flash轻量版(限720p、20秒)小范围内测,完整版于10月15日正式上线。新版本功能:单次原生生成最长30秒并支持续拍、长镜头叙事;画质支持4K、1080p 10-bit HDR及21:9超宽画幅(HDR输出和2分钟续拍功能标注“即将上线”);单次输入最多10张图片、5段视频、7个主体,“全能参考”最多组合15项素材;文本输入上限提升至8000 tokens;对推拉摇移等运镜理解增强;支持立体声音频和唇形同步、多语言及口音支持。背景:快手可灵AI业务增长迅速,2026年上半年合计营收超15亿元,第二季度收入超8.5亿元,同比增长超200%;据10月初报道,可灵AI估值已突破1200亿元人民币,且有消息称其计划最早于2027年赴港分拆上市,拟募资至少10亿美元,已选定中金、高盛、瑞银作为承销商(该上市消息尚未经公司正式确认)。结果:10月15日上线当天,财联社报道快手股价(01024.HK)盘中一度上涨超6%,收盘涨3.99%至29.72港元,市场将此解读为对其AI商业化前景的正面反应。"
+      },
+      "members": [
+        {
+          "title": "快手可灵AI正式上线Kling 4.0视频生成模型,股价应声上涨",
+          "title_en": "Kuaishou's Kling AI officially launches Kling 4.0 video generation model",
+          "url": "https://www.cls.cn/detail/2506683",
+          "secondary_url": "https://m.sohu.com/a/1082038114_114760",
+          "date": "2026-10-15",
+          "summary": "快手旗下可灵AI于10月15日正式上线新一代视频生成模型Kling 4.0,支持单次最长30秒原生视频生成、4K/1080p 10bit HDR输出、21:9超宽画幅,并可组合最多10张图片、5段视频及7个主体进行“全能参考”生成。消息带动快手股价(01024.HK)当日盘中一度上涨超6%,截至发稿涨3.99%报29.72港元。该模型此前于9月28日先开放Flash轻量版小范围内测,10月中旬完整版正式上线。",
+          "section": 1,
+          "notes": "核心事实:可灵AI(Kling)是快手旗下的视频生成大模型产品。Kling 4.0于2026年9月28日先开放Flash轻量版(限720p、20秒)小范围内测,完整版于10月15日正式上线。新版本功能:单次原生生成最长30秒并支持续拍、长镜头叙事;画质支持4K、1080p 10-bit HDR及21:9超宽画幅(HDR输出和2分钟续拍功能标注“即将上线”);单次输入最多10张图片、5段视频、7个主体,“全能参考”最多组合15项素材;文本输入上限提升至8000 tokens;对推拉摇移等运镜理解增强;支持立体声音频和唇形同步、多语言及口音支持。背景:快手可灵AI业务增长迅速,2026年上半年合计营收超15亿元,第二季度收入超8.5亿元,同比增长超200%;据10月初报道,可灵AI估值已突破1200亿元人民币,且有消息称其计划最早于2027年赴港分拆上市,拟募资至少10亿美元,已选定中金、高盛、瑞银作为承销商(该上市消息尚未经公司正式确认)。结果:10月15日上线当天,财联社报道快手股价(01024.HK)盘中一度上涨超6%,收盘涨3.99%至29.72港元,市场将此解读为对其AI商业化前景的正面反应。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "腾讯系库洛科技首次公开投资AI公司,押注“让角色会呼吸”的多模态技术",
+        "title_en": "Tencent-backed Kuro Games makes first public AI investment in multimodal character-animation startup",
+        "url": "https://www.youxituoluo.com/534962.html",
+        "secondary_url": "",
+        "date": "2026-10-14",
+        "summary": "《鸣潮》《战双帕弥什》开发商库洛科技(广州,其母公司为腾讯)通过企查查工商信息被曝出以15%股权投资深圳AI公司言之域科技,为该公司天使轮唯一新增投资方,对应估值约2亿元人民币。言之域主营多模态大模型技术,产品包括AI音频平台“Vocu悟声”(号称3秒样音可克隆声音、相似度超99.5%,曾登顶HuggingFace TTS Arena)和3D角色驱动系统“元语TalkiVerse”。库洛创始人刘胜已加入该公司董事会。",
+        "section": 1,
+        "notes": "核心事实:投资方为广州库洛科技有限公司(库洛游戏,代表作《战双帕弥什》《鸣潮》《库街区》,母公司为腾讯);被投企业为言之域科技(深圳)有限公司,团队不足10人(核心成员3-4人),创始人谢伟铎(2002年生)于2024年6月从巴黎大学退学创业。交易为天使轮,库洛为唯一新增投资方,持股15%,对应公司估值约2亿元人民币,具体投资金额未在报道正文披露。库洛创始人刘胜已加入言之域董事会。言之域两款核心产品:1)Vocu悟声——AI语音平台,官方宣称3秒声音样本即可克隆、相似度超99.5%,并在HuggingFace TTS Arena(社区盲测+Elo评分)登顶;2)元语TalkiVerse——3D角色驱动系统,目标是将文本、语音、肢体动作与面部表情端到端同步生成,早期形态为2022年的虚拟主播“木几萌”。背景:据伽马数据《2026年游戏产业AI发展报告》,2026年上半年中国TOP50游戏公司共发生108起AI相关投资,已超过2025年全年的89起,AI相关项目占游戏行业上半年融资金额的70%以上,库洛此次为其首次公开披露的AI投资。结果/未决问题:报道明确指出,该语音与3D模型技术是否会被整合进库洛自有游戏(《战双帕弥什》《鸣潮》)尚待验证,媒体将标题中的“让角色会呼吸”定义为对该技术实现语音、动作、表情同步的比喻性描述,并非官方给出的具体功能名称。"
+      },
+      "members": [
+        {
+          "title": "腾讯系库洛科技首次公开投资AI公司,押注“让角色会呼吸”的多模态技术",
+          "title_en": "Tencent-backed Kuro Games makes first public AI investment in multimodal character-animation startup",
+          "url": "https://www.youxituoluo.com/534962.html",
+          "secondary_url": "",
+          "date": "2026-10-14",
+          "summary": "《鸣潮》《战双帕弥什》开发商库洛科技(广州,其母公司为腾讯)通过企查查工商信息被曝出以15%股权投资深圳AI公司言之域科技,为该公司天使轮唯一新增投资方,对应估值约2亿元人民币。言之域主营多模态大模型技术,产品包括AI音频平台“Vocu悟声”(号称3秒样音可克隆声音、相似度超99.5%,曾登顶HuggingFace TTS Arena)和3D角色驱动系统“元语TalkiVerse”。库洛创始人刘胜已加入该公司董事会。",
+          "section": 1,
+          "notes": "核心事实:投资方为广州库洛科技有限公司(库洛游戏,代表作《战双帕弥什》《鸣潮》《库街区》,母公司为腾讯);被投企业为言之域科技(深圳)有限公司,团队不足10人(核心成员3-4人),创始人谢伟铎(2002年生)于2024年6月从巴黎大学退学创业。交易为天使轮,库洛为唯一新增投资方,持股15%,对应公司估值约2亿元人民币,具体投资金额未在报道正文披露。库洛创始人刘胜已加入言之域董事会。言之域两款核心产品:1)Vocu悟声——AI语音平台,官方宣称3秒声音样本即可克隆、相似度超99.5%,并在HuggingFace TTS Arena(社区盲测+Elo评分)登顶;2)元语TalkiVerse——3D角色驱动系统,目标是将文本、语音、肢体动作与面部表情端到端同步生成,早期形态为2022年的虚拟主播“木几萌”。背景:据伽马数据《2026年游戏产业AI发展报告》,2026年上半年中国TOP50游戏公司共发生108起AI相关投资,已超过2025年全年的89起,AI相关项目占游戏行业上半年融资金额的70%以上,库洛此次为其首次公开披露的AI投资。结果/未决问题:报道明确指出,该语音与3D模型技术是否会被整合进库洛自有游戏(《战双帕弥什》《鸣潮》)尚待验证,媒体将标题中的“让角色会呼吸”定义为对该技术实现语音、动作、表情同步的比喻性描述,并非官方给出的具体功能名称。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "字节跳动旗下朝夕光年用Seedance打造“全AI”修仙游戏《不问凡尘》,早期测试评价两极",
+        "title_en": "ByteDance's Nuverse studio builds 'fully AI' cultivation game Bu Wen Fanchen with Seedance model",
+        "url": "https://m.163.com/news/article/L94MGINA05118DFD.html",
+        "secondary_url": "",
+        "date": "2026-10-13",
+        "summary": "字节跳动朝夕光年旗下江南工作室(20人团队、开发约一年)制作的修仙题材游戏《不问凡尘》已于9月23日在Steam推出抢先体验版,定价19.9元,好评率88%。据报道该作美术、语音、代码、战斗动画均大量依托字节自研视频大模型Seedance 2.0生成,NPC被设计为可独立响应玩家对话的AI智能体,但复杂镜头生成废片率高达98%,团队在上线前一个月还曾用更新模型重做全部内容。",
+        "section": 1,
+        "notes": "核心事实:开发商为字节跳动朝夕光年旗下江南工作室(此前作品为《老板模拟器》《穿书游戏》《导演模拟器》),执行制作人昕玠,团队规模20人,开发周期约一年。游戏《不问凡尘》于2026年9月23日在Steam以抢先体验(EA)形式上线,定价19.9元,文章撰写时(10月13日)好评率88%,EA内容进度到“筑基”境界。技术路径:核心生成工具为字节自研视频大模型Seedance,文章称Seedance 2.0是该系列首个能处理角色表演的版本,团队用其生成动画场景后拆解为游戏素材(包括战斗动画);玩家可通过“豆包”类对话方式与NPC互动,NPC被设计为独立响应玩家指令的AI智能体。玩法设计:角色成长采用“道途”与“灵根”(五行灵根)两套系统;玩家可对NPC行窃或通过对话说服;游戏设有限时事件与NPC随时间“变老”机制;并提供创意工坊供玩家分享内容。成本与过程:文章未给出具体token消耗数字,标题“百万token做赌注”为修辞性说法;复杂镜头废片率达98%,部分复杂镜头需重新生成上百次才能达标;团队在上线前一个月用更新换代的模型重做了整款游戏。局限/争议:报道也指出该作NPC开场白重复、多以提问句式呈现,商贩议价不影响实际价格,对话内容与好感度不匹配,部分女性角色缺乏专属战斗立绘且在特定场景台词雷同,文章认为其核心吸引力仍主要来自同人向内容而非技术本身。背景:这是字节跳动在2026年出售沐瞳科技、转向“AI+游戏”战略后,其游戏业务线首个被媒体详细拆解的“全AI”产品案例。"
+      },
+      "members": [
+        {
+          "title": "字节跳动旗下朝夕光年用Seedance打造“全AI”修仙游戏《不问凡尘》,早期测试评价两极",
+          "title_en": "ByteDance's Nuverse studio builds 'fully AI' cultivation game Bu Wen Fanchen with Seedance model",
+          "url": "https://m.163.com/news/article/L94MGINA05118DFD.html",
+          "secondary_url": "",
+          "date": "2026-10-13",
+          "summary": "字节跳动朝夕光年旗下江南工作室(20人团队、开发约一年)制作的修仙题材游戏《不问凡尘》已于9月23日在Steam推出抢先体验版,定价19.9元,好评率88%。据报道该作美术、语音、代码、战斗动画均大量依托字节自研视频大模型Seedance 2.0生成,NPC被设计为可独立响应玩家对话的AI智能体,但复杂镜头生成废片率高达98%,团队在上线前一个月还曾用更新模型重做全部内容。",
+          "section": 1,
+          "notes": "核心事实:开发商为字节跳动朝夕光年旗下江南工作室(此前作品为《老板模拟器》《穿书游戏》《导演模拟器》),执行制作人昕玠,团队规模20人,开发周期约一年。游戏《不问凡尘》于2026年9月23日在Steam以抢先体验(EA)形式上线,定价19.9元,文章撰写时(10月13日)好评率88%,EA内容进度到“筑基”境界。技术路径:核心生成工具为字节自研视频大模型Seedance,文章称Seedance 2.0是该系列首个能处理角色表演的版本,团队用其生成动画场景后拆解为游戏素材(包括战斗动画);玩家可通过“豆包”类对话方式与NPC互动,NPC被设计为独立响应玩家指令的AI智能体。玩法设计:角色成长采用“道途”与“灵根”(五行灵根)两套系统;玩家可对NPC行窃或通过对话说服;游戏设有限时事件与NPC随时间“变老”机制;并提供创意工坊供玩家分享内容。成本与过程:文章未给出具体token消耗数字,标题“百万token做赌注”为修辞性说法;复杂镜头废片率达98%,部分复杂镜头需重新生成上百次才能达标;团队在上线前一个月用更新换代的模型重做了整款游戏。局限/争议:报道也指出该作NPC开场白重复、多以提问句式呈现,商贩议价不影响实际价格,对话内容与好感度不匹配,部分女性角色缺乏专属战斗立绘且在特定场景台词雷同,文章认为其核心吸引力仍主要来自同人向内容而非技术本身。背景:这是字节跳动在2026年出售沐瞳科技、转向“AI+游戏”战略后,其游戏业务线首个被媒体详细拆解的“全AI”产品案例。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "游戏NPC长期记忆成本几何?米哈游《星布谷地》NPC“记住玩家”引发行业算账",
+        "title_en": "The cost of giving game NPCs long-term memory: industry crunches the numbers, citing miHoYo's Star Cloud Valley",
+        "url": "https://www.youxituoluo.com/534970.html",
+        "secondary_url": "",
+        "date": "2026-10-19",
+        "summary": "游戏陀螺文章探讨为游戏NPC加入AI长期记忆的技术与成本问题,以米哈游模拟经营游戏《星布谷地》中会记住玩家的咖啡店老板NPC“纳洛”为例,并引用米哈游在2026云栖大会上披露的统一智能体架构“超智记忆系统”。文章还测算称,以10万月活、每月1000万轮对话估算,采用豆包Seed 2.0 Mini模型实现带记忆的NPC对话,月成本约6000元人民币。",
+        "section": 1,
+        "notes": "核心案例:米哈游模拟经营类游戏《星布谷地》中,咖啡店老板NPC“纳洛”在测试中能回忆此前对话,并在玩家再次登场时表现出“认识”而非陌生反应;米哈游还让该角色运营小红书账号,文章称这是米哈游首次尝试让游戏角色在游戏外与玩家互动。技术背景:在2026年阿里云栖大会上,米哈游AI负责人李言冉披露了一套统一智能体架构,其中包含“超智记忆系统”,可让部分事件在不同角色间社交式传播扩散。成本测算模型(文章自建,非官方数据):以10万月活玩家、人均每月100轮对话(合计每月1000万轮)、平均每轮输入1500 tokens估算,使用模型与记忆处理的综合成本约每月6908美元(约每轮0.0007美元);若替换为字节跳动豆包Seed 2.0 Mini模型,同等假设下月成本约6000元人民币;该测算不含数据库、服务器、安全审核、人力及语音(识别与合成)成本,且成本大致随玩家数线性增长。其他对比案例:国产游戏《代号:云端》(Mnemo)制作人提出“选择性记忆与遗忘”设计理念,并声称常见智能体产品中超过90%的token可能被低效使用(此为团队自身工程观察,非行业统计数据);Convai的记忆/对话API定价为29美元/月(3000次交互)、99美元/月(1万次)、499美元/月(5万次),作为成本对比基准。行业结论:文章认为,有效的NPC记忆关键在于筛选保留内容、对旧对话做摘要、仅检索相关细节并追踪“谁知道什么”,记忆功能只在恰当语境中出现才有价值,需要在成本、隐私与体验之间权衡。"
+      },
+      "members": [
+        {
+          "title": "游戏NPC长期记忆成本几何?米哈游《星布谷地》NPC“记住玩家”引发行业算账",
+          "title_en": "The cost of giving game NPCs long-term memory: industry crunches the numbers, citing miHoYo's Star Cloud Valley",
+          "url": "https://www.youxituoluo.com/534970.html",
+          "secondary_url": "",
+          "date": "2026-10-19",
+          "summary": "游戏陀螺文章探讨为游戏NPC加入AI长期记忆的技术与成本问题,以米哈游模拟经营游戏《星布谷地》中会记住玩家的咖啡店老板NPC“纳洛”为例,并引用米哈游在2026云栖大会上披露的统一智能体架构“超智记忆系统”。文章还测算称,以10万月活、每月1000万轮对话估算,采用豆包Seed 2.0 Mini模型实现带记忆的NPC对话,月成本约6000元人民币。",
+          "section": 1,
+          "notes": "核心案例:米哈游模拟经营类游戏《星布谷地》中,咖啡店老板NPC“纳洛”在测试中能回忆此前对话,并在玩家再次登场时表现出“认识”而非陌生反应;米哈游还让该角色运营小红书账号,文章称这是米哈游首次尝试让游戏角色在游戏外与玩家互动。技术背景:在2026年阿里云栖大会上,米哈游AI负责人李言冉披露了一套统一智能体架构,其中包含“超智记忆系统”,可让部分事件在不同角色间社交式传播扩散。成本测算模型(文章自建,非官方数据):以10万月活玩家、人均每月100轮对话(合计每月1000万轮)、平均每轮输入1500 tokens估算,使用模型与记忆处理的综合成本约每月6908美元(约每轮0.0007美元);若替换为字节跳动豆包Seed 2.0 Mini模型,同等假设下月成本约6000元人民币;该测算不含数据库、服务器、安全审核、人力及语音(识别与合成)成本,且成本大致随玩家数线性增长。其他对比案例:国产游戏《代号:云端》(Mnemo)制作人提出“选择性记忆与遗忘”设计理念,并声称常见智能体产品中超过90%的token可能被低效使用(此为团队自身工程观察,非行业统计数据);Convai的记忆/对话API定价为29美元/月(3000次交互)、99美元/月(1万次)、499美元/月(5万次),作为成本对比基准。行业结论:文章认为,有效的NPC记忆关键在于筛选保留内容、对旧对话做摘要、仅检索相关细节并追踪“谁知道什么”,记忆功能只在恰当语境中出现才有价值,需要在成本、隐私与体验之间权衡。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "米哈游参投AI芯片公司铭芯启睿超4亿元A轮融资",
+        "title_en": "miHoYo co-invests in AI chip startup MemSilicon's over-RMB-400-million Series A",
+        "url": "https://news.10jqka.com.cn/20261019/c680852418.shtml",
+        "secondary_url": "",
+        "date": "2026-10-19",
+        "summary": "AI智算与存储芯片公司铭芯启睿(由前Graphcore大中华区总裁卢涛出任CEO)完成由博原资本领投的超4亿元人民币A轮融资,米哈游、博世创投、创领资本、兆易创新等参与跟投。该公司主要业务为RRAM存储技术产业化及面向大模型推理的第一代LPU(语言处理单元)研发。",
+        "section": 2,
+        "notes": ""
+      },
+      "members": [
+        {
+          "title": "米哈游参投AI芯片公司铭芯启睿超4亿元A轮融资",
+          "title_en": "miHoYo co-invests in AI chip startup MemSilicon's over-RMB-400-million Series A",
+          "url": "https://news.10jqka.com.cn/20261019/c680852418.shtml",
+          "secondary_url": "",
+          "date": "2026-10-19",
+          "summary": "AI智算与存储芯片公司铭芯启睿(由前Graphcore大中华区总裁卢涛出任CEO)完成由博原资本领投的超4亿元人民币A轮融资,米哈游、博世创投、创领资本、兆易创新等参与跟投。该公司主要业务为RRAM存储技术产业化及面向大模型推理的第一代LPU(语言处理单元)研发。",
+          "section": 2,
+          "notes": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "三七互娱联合南方日报推出国内首部电竞题材粤语AI漫剧",
+        "title_en": "37 Interactive and Southern Daily launch China's first esports-themed Cantonese AI comic drama",
+        "url": "https://stock.10jqka.com.cn/20261013/c680632619.shtml",
+        "secondary_url": "",
+        "date": "2026-10-13",
+        "summary": "三七互娱与《南方日报》联合制作的《从祠堂打到名古屋赛场》于10月13日至15日分三集上线,被称为国内首部原创电竞题材粤语AI漫剧,由广东省电子竞技运动协会指导。三七互娱使用自研“一站式AI视频创作与交付平台”灵栩栩将剧本转化为连续视频,南方日报负责剧本与资源统筹,故事讲述广东少年通过电竞选拔赛融入团队并结合岭南醒狮文化。",
+        "section": 2,
+        "notes": ""
+      },
+      "members": [
+        {
+          "title": "三七互娱联合南方日报推出国内首部电竞题材粤语AI漫剧",
+          "title_en": "37 Interactive and Southern Daily launch China's first esports-themed Cantonese AI comic drama",
+          "url": "https://stock.10jqka.com.cn/20261013/c680632619.shtml",
+          "secondary_url": "",
+          "date": "2026-10-13",
+          "summary": "三七互娱与《南方日报》联合制作的《从祠堂打到名古屋赛场》于10月13日至15日分三集上线,被称为国内首部原创电竞题材粤语AI漫剧,由广东省电子竞技运动协会指导。三七互娱使用自研“一站式AI视频创作与交付平台”灵栩栩将剧本转化为连续视频,南方日报负责剧本与资源统筹,故事讲述广东少年通过电竞选拔赛融入团队并结合岭南醒狮文化。",
+          "section": 2,
+          "notes": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "腾讯游戏安全ACE为《鹅鸭杀》提供AI内容风控,打击黑产引流",
+        "title_en": "Tencent's ACE anti-cheat/security system deploys AI content moderation for Goose Goose Duck",
+        "url": "https://www.youxituoluo.com/534961.html",
+        "secondary_url": "",
+        "date": "2026-10-14",
+        "summary": "腾讯游戏安全ACE为《鹅鸭杀》提供文本与图像内容安全检测,覆盖聊天、玩家资料及互动消息,主要目的是打击黑产在游戏内发布引流广告和骚扰信息。该系统采用上下文语义识别和自研的群体言论行为分析专利技术,预上线压力测试中请求成功率达100%、检测结果一致性超99.9%,且可针对不同游戏场景(包括特定术语)调整检测策略。",
+        "section": 2,
+        "notes": ""
+      },
+      "members": [
+        {
+          "title": "腾讯游戏安全ACE为《鹅鸭杀》提供AI内容风控,打击黑产引流",
+          "title_en": "Tencent's ACE anti-cheat/security system deploys AI content moderation for Goose Goose Duck",
+          "url": "https://www.youxituoluo.com/534961.html",
+          "secondary_url": "",
+          "date": "2026-10-14",
+          "summary": "腾讯游戏安全ACE为《鹅鸭杀》提供文本与图像内容安全检测,覆盖聊天、玩家资料及互动消息,主要目的是打击黑产在游戏内发布引流广告和骚扰信息。该系统采用上下文语义识别和自研的群体言论行为分析专利技术,预上线压力测试中请求成功率达100%、检测结果一致性超99.9%,且可针对不同游戏场景(包括特定术语)调整检测策略。",
+          "section": 2,
+          "notes": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
