@@ -19121,5 +19121,581 @@
   "affiliation": "Meta (FAIR) — Daniel Severo, Brian Karrer, Michal Drozdzal, Adriana Romero-Soriano (joint last author); Ge Ya Luo's work was done at Meta. Pal is Mila/Polytechnique Montréal.",
   "url": "https://arxiv.org/abs/2610.23732",
   "summary": "ESC targets single-image novel view synthesis under large camera changes, where 2D diffusion models can produce plausible but geometrically invalid views that standard 2D or pose metrics fail to catch."
+ },
+ "2610.26855": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T17:59:55Z",
+  "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience"
+ },
+ "2610.26853": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T17:59:51Z",
+  "title": "InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation"
+ },
+ "2610.26851": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T17:59:46Z",
+  "title": "Manga2Animate: An Agentic Framework for Faithful Manga Animation with Script and Storyboard Planning"
+ },
+ "2610.26845": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T17:59:12Z",
+  "title": "Train An Imaginative Agent"
+ },
+ "2610.26844": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T17:59:05Z",
+  "title": "AnyGoal: On World Model Generalization Beyond Expert Rollouts"
+ },
+ "2610.26837": {
+  "status": "near-miss",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T17:58:04Z",
+  "title": "SpecKCast: Spectral Kalman Forecasting for Diffusion Acceleration"
+ },
+ "2610.26828": {
+  "status": "near-miss",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T17:55:35Z",
+  "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis"
+ },
+ "2610.26811": {
+  "status": "qualified",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19",
+  "title": "State World Models: Execute the Rules, Generate the Pixels",
+  "affiliation": "GigaAI (co-affiliation alongside Dept. of Automation, Tsinghua University); FLAG: borderline",
+  "url": "https://arxiv.org/abs/2610.26811",
+  "summary": "The paper introduces a \"Stateful Harness\" that separates world-state evolution from video rendering so that identical visible actions produce outcomes consistent with hidden state and explicit rules, plus WorldState-Bench, a set of 50 counterfactual pairs sharing a first frame and action but differi"
+ },
+ "2610.26801": {
+  "status": "qualified",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19",
+  "title": "Mise-en-Video: Fine-Grained 3D Control for Multi-Shot Video Generation",
+  "affiliation": "Kuaishou — KlingAI Research (Xintao Wang, Pengfei Wan, Kun Gai)",
+  "url": "https://arxiv.org/abs/2610.26801",
+  "summary": "Mise-en-Video (MeV) is a framework for multi-shot video generation in which creators stage each shot in 3D before generation, combining hierarchical attention for cross-shot narrative consistency with 3D-aware layout guidance for per-shot spatial control."
+ },
+ "2610.26762": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T17:20:10Z",
+  "title": "DexOAK: Object-Aware Kinematic Retargeting"
+ },
+ "2610.26757": {
+  "status": "qualified",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19",
+  "title": "Simulation Priors for Rapid Adaptation in Model-Based RL for Autonomous Racing",
+  "affiliation": "Toyota Research Institute (Los Altos, CA); FLAG: borderline",
+  "url": "https://arxiv.org/abs/2610.26757",
+  "summary": "The paper proposes Prior-Informed Adaptation (PIA), an offline-to-online model-based RL framework for autonomous racing that pretrains a world model on low- and high-fidelity simulated trajectories, then adapts it online with limited real interaction."
+ },
+ "2610.26711": {
+  "status": "qualified",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19",
+  "title": "PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements",
+  "affiliation": "Tencent — Tencent Youtu Lab",
+  "url": "https://arxiv.org/abs/2610.26711",
+  "summary": "PVBench scores the physical plausibility of generated videos across 46 dimensions spanning seven domains, using 600 paired text-to-video/image-to-video prompt groups (30% involving embodied agents such as robot arms and humanoids)."
+ },
+ "2610.26585": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T15:34:28Z",
+  "title": "Drive2Gauss: FeedForward 4D Gaussian Reconstruction from Multimodal Generative Driving Videos"
+ },
+ "2610.26583": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T15:32:54Z",
+  "title": "DenseHap: Dense Hand Haptic Estimation from Monocular Images"
+ },
+ "2610.26564": {
+  "status": "qualified",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19",
+  "title": "PrismWAM: Decoupling State Representations in World Action Models",
+  "affiliation": "NVIDIA (co-affiliation alongside Tsinghua University)",
+  "url": "https://arxiv.org/abs/2610.26564",
+  "summary": "PrismWAM argues that the video latents used by World Action Models (WAMs) conflate appearance (texture, color) with physical configuration (occupancy, pose), which is a poor state representation for action."
+ },
+ "2610.26508": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T14:44:16Z",
+  "title": "Learning Geometry-Aware Planning Representations for Monocular Flight with Cross-Modal Supervision"
+ },
+ "2610.26414": {
+  "status": "near-miss",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T13:47:43Z",
+  "title": "RoboMMT: Learning Stable Tracking of Modulated Expressive and Interactive Robot Motion"
+ },
+ "2610.26262": {
+  "status": "near-miss",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T12:19:05Z",
+  "title": "Dynamics-Aware Sparse Attention for Efficient Autoregressive Video Diffusion"
+ },
+ "2610.26189": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T11:18:11Z",
+  "title": "Wan-Alpha++: Animating a Single RGBA Asset into Controllable Transparent Video Effects"
+ },
+ "2610.26179": {
+  "status": "near-miss",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T11:13:02Z",
+  "title": "Learning Goal-Conditioned Subgoals through Frozen Hierarchical World Models"
+ },
+ "2610.26170": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T11:02:15Z",
+  "title": "Data-Efficient Learning from Demonstration for Humanoid Robots via Feature-Level Perception and Prompt-Based Object Detection"
+ },
+ "2610.26165": {
+  "status": "near-miss",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T10:56:32Z",
+  "title": "TriTD: Tri-Partite Trajectory-Distribution Distillation for Real-Time Autoregressive Video Generation"
+ },
+ "2610.26067": {
+  "status": "qualified",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19",
+  "title": "PhysSkin++: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning",
+  "affiliation": "Ant Group — Yujun Shen; FLAG: borderline",
+  "url": "https://arxiv.org/abs/2610.26067",
+  "summary": "PhysSkin++ is a physics-informed framework that learns continuous neural skinning fields from static 3D geometry to build compact deformation subspaces for real-time, generalizable physics-based animation, supporting meshes, point clouds, and 3D Gaussians as well as rig-complementary animation."
+ },
+ "2610.26025": {
+  "status": "near-miss",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T08:48:14Z",
+  "title": "TamedFlow: Trajectory-Aware Distillation for Teacher-Assisted Diffusion Sampling"
+ },
+ "2610.25959": {
+  "status": "qualified",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T07:52:01Z",
+  "title": "EmbodiedWorld-200K: Toward Embodied World Agents via Embodied-Planning Dataset and Interactive World Models",
+  "affiliation": "Tencent Hunyuan — Xiaokun Feng, Junshu Tang, Zeyi Lin, Ling-Hao Chen, Shuai Shao, Qinglin Lu, Kaiqi Huang (paper states the work was done during an internship at Tencent Hunyuan)",
+  "url": "https://arxiv.org/abs/2610.25959",
+  "summary": "The paper introduces \"Embodied World Agents\" (EWAs) and instantiates them as open-world embodied navigation planning."
+ },
+ "2610.25887": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T06:44:19Z",
+  "title": "Rethinking Sparse-View 3D Gaussian Splatting: A Few-Shot Learning Perspective on Overfitting Prevention"
+ },
+ "2610.25861": {
+  "status": "qualified",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T06:16:50Z",
+  "title": "ActionRoPE: action as coordinates for spatially consistent control in planar-camera game world models",
+  "affiliation": "Tencent — all four authors list Tencent as a primary affiliation, alongside National University of Singapore (Deng, Wu, Jin) and Nanyang Technological University (Lin)",
+  "url": "https://arxiv.org/abs/2610.25861",
+  "summary": "The paper targets action control in \"planar-camera\" game world models (top-down/isometric games), where existing feature-based action conditioning fits poorly because it gives the model no explicit world coordinate system."
+ },
+ "2610.25840": {
+  "status": "near-miss",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T05:51:41Z",
+  "title": "OV-PEAR: Observation-Verified Pose-Scale Estimation and Reconstruction for Unknown Industrial Manipulation Objects"
+ },
+ "2610.25781": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T04:48:23Z",
+  "title": "See the Future, Classify the Present: Stochastic Latent World Modeling for Hyperspectral Images"
+ },
+ "2610.25764": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T04:24:17Z",
+  "title": "ActTime: Action-Conditioned World Modeling for Time Series"
+ },
+ "2610.25734": {
+  "status": "near-miss",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T03:37:38Z",
+  "title": "Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving"
+ },
+ "2610.25681": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T02:31:17Z",
+  "title": "RxGS: Relightable Gaussian Stylization via BRDF Decomposition"
+ },
+ "2610.25666": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T02:12:39Z",
+  "title": "Frechet Forcing: Training Long-Horizon Streaming World Models from Short Clips"
+ },
+ "2610.25664": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T02:11:29Z",
+  "title": "PoSTCache: From Forecasting to Postdictive Smoothing for Revisable Diffusion Caching"
+ },
+ "2610.25660": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T02:07:51Z",
+  "title": "FluidGen: Physics-Aware Fluid Video Generation via Motion-Guided Post-Training"
+ },
+ "2610.25634": {
+  "status": "qualified",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T01:25:31Z",
+  "title": "Clean Forcing: Drift-Resistant Autoregressive Video Diffusion with a Frozen Base",
+  "affiliation": "NVIDIA — Jonathan Tremblay, Chan Hee Song (affiliation block lists NVIDIA alongside Seoul National University and Northeastern University; footnote states one author's work was done during an NVIDIA internship and two authors are co-last authors)",
+  "url": "https://arxiv.org/abs/2610.25634",
+  "summary": "Autoregressive video diffusion models generate streaming video by conditioning each chunk on previously generated (imperfect) frames, which causes compounding \"drift\" that degrades quality within seconds."
+ },
+ "2610.25600": {
+  "status": "qualified",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-19T00:06:44Z",
+  "title": "Vector-Quantized World Model: Latent Feedback Motion Planning for Robot Manipulation",
+  "affiliation": "NVIDIA — affiliation block lists \"New York University\" and \"NVIDIA\" without an explicit per-author mapping in the fetched HTML",
+  "url": "https://arxiv.org/abs/2610.25600",
+  "summary": "The paper proposes VQ-WM, a latent feedback motion planner that searches over vector-quantized latent states (using a learned world model) for short paths to a goal, while a separate continuous visual-feedback controller tracks each planned state and corrects drift."
+ },
+ "2610.25595": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18T23:54:19Z",
+  "title": "ViMoLa: Discrete Motion Tokens for Language-Guided Video Generation"
+ },
+ "2610.25517": {
+  "status": "qualified",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18T20:17:29Z",
+  "title": "ReDT: Resolution-Decoupled Visual Geometry Transformer",
+  "affiliation": "Huawei Noah's Ark Lab — Abteen Arab (also University of British Columbia; footnote says work done during an internship at Huawei Canada), Guile Wu, Dongfeng Bai; FLAG: borderline",
+  "url": "https://arxiv.org/abs/2610.25517",
+  "summary": "ReDT is a feed-forward transformer for multi-view 3D reconstruction built on the VGGT family (specifically VGGT-Ω), designed to handle high-definition inputs without the quality degradation and quadratic cost that standard-definition-trained models show at higher resolutions."
+ },
+ "2610.25437": {
+  "status": "qualified",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18T17:59:45Z",
+  "title": "DragonMoCap: Monocular Video-based Motion Capture for Diverse Dragon Topologies",
+  "affiliation": "Tencent — Zhongfei Qing, Xiaoxiang Zhao, Yifan Wu, Wei Zeng, Bo Hu, Songnan Li",
+  "url": "https://arxiv.org/abs/2610.25437",
+  "summary": "DragonMoCap is a monocular video motion-capture framework for dragon-type game/film characters, whose production rigs vary widely in joint count (20–60+) and naming, breaking fixed-template regressors."
+ },
+ "2610.25414": {
+  "status": "near-miss",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18T17:12:56Z",
+  "title": "UniState: Unifying Memory and Intervention for Controllable World Simulation"
+ },
+ "2610.25401": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18T16:55:02Z",
+  "title": "Energy-Score Stabilized Attentive Mixture-Density Policy: A Lightweight Approach to Multimodal Robot Motion"
+ },
+ "2610.25395": {
+  "status": "near-miss",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18T16:47:27Z",
+  "title": "A 3D-Driven Framework for Moving-Camera Perspective-to-360° Video Generation"
+ },
+ "2610.25369": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18T16:15:14Z",
+  "title": "Painting Change Map as guidance for generating painting processes"
+ },
+ "2610.25360": {
+  "status": "near-miss",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18T16:04:29Z",
+  "title": "Operator-Mismatch Contrastive Learning for World-Relative Trajectory Coherence"
+ },
+ "2610.25345": {
+  "status": "qualified",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18",
+  "title": "MCSplat: Multi-View Photometric and Geometric Consistent Feed-Forward Gaussian Splatting for Driving Scenes",
+  "affiliation": "Zaofu Intelligent Technology Co., Ltd. — Yifei Wang (internship), Wenhua Bao, and other co-authors; project leaders are drawn from this company per the paper's footnote. FLAG: borderline — Zaofu is a Shanghai L4 autonomous-driving/robotaxi joint venture (founded 2025 by Hello, Ant Group and CATL, reportedly >RMB 3B initial investment) and not on the explicit qualifying list.",
+  "url": "https://arxiv.org/abs/2610.25345",
+  "summary": "MCSplat is a feed-forward 3D Gaussian Splatting method for reconstructing driving scenes from sparse surround-view camera images."
+ },
+ "2610.25333": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18T15:25:09Z",
+  "title": "CoRe-WM: Conditioned Response-State World Modeling for Longitudinal Treatment-Response Prediction in Breast DCE-MRI"
+ },
+ "2610.25296": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18T14:29:13Z",
+  "title": "World Model Interpretability: From Decoding Representations to Understanding Latent Worlds"
+ },
+ "2610.25289": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18T14:10:50Z",
+  "title": "The Explainability Illusion: Must ViTs Exhibit Patch-Decoding Interpretability?"
+ },
+ "2610.25288": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18T14:10:39Z",
+  "title": "Vision as Proprioception: Estimating Humanoid Robot Pose from Video"
+ },
+ "2610.25276": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18T13:47:01Z",
+  "title": "Holo4D: Holistic 4D Reconstruction as Geometric Control for Video Diffusion"
+ },
+ "2610.25261": {
+  "status": "near-miss",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18T13:31:50Z",
+  "title": "GOFusion: Real-Time Gaussian-Occupancy Submap Fusion for Fisher-Informed Autonomous Robot Navigation"
+ },
+ "2610.25245": {
+  "status": "near-miss",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18T13:05:08Z",
+  "title": "GeoV2V: Geometry-Grounded Video Diffusion Model for Driving Scene Generation"
+ },
+ "2610.25223": {
+  "status": "qualified",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18",
+  "title": "Map2Vid: Embodied Navigation Video Generation with Human-Friendly Motion Control",
+  "affiliation": "Alibaba Group — Zhen Xing (Qwen Team, Alibaba Group, Hangzhou)",
+  "url": "https://arxiv.org/abs/2610.25223",
+  "summary": "Map2Vid frames embodied-navigation video generation as turning a bird's-eye-view (BEV) map of a scene and intended route into an egocentric video, as an alternative to vague text prompts or low-level camera-trajectory controls."
+ },
+ "2610.25170": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18T10:50:36Z",
+  "title": "World Models, Trees and Foundation Models for Retail Forecasting: Evidence from Four Public Data Sets"
+ },
+ "2610.25068": {
+  "status": "near-miss",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18T07:18:24Z",
+  "title": "Localization and Neural Splatting on the Edge: An FPGA Scene Memory for Robots"
+ },
+ "2610.25013": {
+  "status": "qualified",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18",
+  "title": "Latent World Models Should Plan with Distances Along the Latent Manifold",
+  "affiliation": "Apple — Linwei Tao (Machine Learning Research, Apple, in addition to University of Sydney)",
+  "url": "https://arxiv.org/abs/2610.25013",
+  "summary": "The paper studies latent world models (e.g., LeWM) that plan by picking action sequences whose predicted latent is closest to a goal latent under Euclidean (L2) distance."
+ },
+ "2610.25011": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18T04:44:10Z",
+  "title": "FineSplat: Fine Patches, Local Groups, Detailed Splats"
+ },
+ "2610.24970": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18T02:53:23Z",
+  "title": "PRECOCIAL: Pretraining with Code Curriculums via Iterative Search for Accelerated Learning"
+ },
+ "2610.24965": {
+  "status": "near-miss",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-18T02:35:17Z",
+  "title": "Meta Inverse Prompting for Video Generative Models"
+ },
+ "2610.24869": {
+  "status": "near-miss",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-17T21:18:56Z",
+  "title": "SpriteStage: Long Horizon Animation Generation via Progressive Scene Programming and Replay"
+ },
+ "2610.24847": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-17T19:51:59Z",
+  "title": "DiPLO: Self-distilled Diffusion Planning for Loco-manipulation"
+ },
+ "2610.24812": {
+  "status": "qualified",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-17",
+  "title": "SwitchSplat: Learning Discrete Object States from Casually Captured Scenes",
+  "affiliation": "Wayve Labs (Vancouver) — Daniel Rebain, Shrisudhan Govindarajan, Andrea Tagliasacchi. FLAG: borderline — Wayve is a UK autonomous-driving software company (backed by $1B+ rounds from NVIDIA, Microsoft and SoftBank) not on the explicit qualifying list, though comparable in standing.",
+  "url": "https://arxiv.org/abs/2610.24812",
+  "summary": "SwitchSplat extends 3D Gaussian Splatting to casually captured scenes containing discrete object-state interactions (e.g., opening a door, toggling a switch), which standard static 3DGS and time-conditioned 4DGS methods can't model without tying state to a specific recorded timestamp."
+ },
+ "2610.24811": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-17T18:35:02Z",
+  "title": "Directionally Factorized Illumination with Spherical Harmonic Rotation"
+ },
+ "2610.24767": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-17T16:19:40Z",
+  "title": "DialogMem: Evaluating Dialogue-Grounded Embodied Memory in 3D Environments"
+ },
+ "2610.24750": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-17T15:35:25Z",
+  "title": "CorrFlow: Self-Correcting Flow Matching"
+ },
+ "2610.24662": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-17T12:34:53Z",
+  "title": "From Prediction to Action: Population Health World Model for Digital Medicine"
+ },
+ "2610.24605": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-17T10:15:41Z",
+  "title": "RoMo-GS: Efficient Online 3D Gaussian Splatting for Robot Mapping via Exposure-Integrated Motion Blur"
+ },
+ "2610.24571": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-17T09:01:20Z",
+  "title": "Representations Have Trajectories: Characterizing Temporal Representation Dynamics in Neural Networks"
+ },
+ "2610.24534": {
+  "status": "near-miss",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-17T07:54:17Z",
+  "title": "Structured Latent Dynamics for Long-Horizon Embodied World Models"
+ },
+ "2610.24522": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-17T07:31:54Z",
+  "title": "MOMO: Human Motion from Moving Sounds"
+ },
+ "2610.24519": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-17T07:29:46Z",
+  "title": "Axiomatic World Modeling for Physics Reasoning"
+ },
+ "2610.24462": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-17T05:04:05Z",
+  "title": "O-SCD++: Replay-Free Online Scene Change Detection via Recursive Evidence Fusion"
+ },
+ "2610.24452": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-17T04:43:01Z",
+  "title": "HumanSkill-4D: Training-Free Language Querying of Animatable Gaussian Avatars in Space and Time"
+ },
+ "2610.24392": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-17T02:50:59Z",
+  "title": "Gen2Dex: Learning Dexterous Manipulation from Simulation-Initialized Generated Video Demonstrations"
+ },
+ "2610.24372": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-17T02:03:20Z",
+  "title": "Beyond Next-Screen Prediction: The Decision Value of GUI World Models"
+ },
+ "2610.24312": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-16T23:20:53Z",
+  "title": "Beyond Human-Derived Motion: Exploring Robot-Specific Execution for Construction Humanoids"
+ },
+ "2610.24286": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-16T22:37:39Z",
+  "title": "ULIFLOW: Unified Latent Human-Object Interaction Flow"
+ },
+ "2610.24285": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-16T22:33:18Z",
+  "title": "ACTS: Learning Visuo-Tactile World Models from Human Physical Interaction"
+ },
+ "2610.24177": {
+  "status": "near-miss",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-16T19:53:39Z",
+  "title": "Self-Improving Video-to-Action Models"
+ },
+ "2610.24129": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-16T19:01:12Z",
+  "title": "Rollbot 2: Agile Locomotion by a Single-Actuator Spherical Robot"
+ },
+ "2610.23984": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-14T09:00:41Z",
+  "title": "Pretrained Features as Teachers, Not States: Compact Latent World Models for Visual Planning"
+ },
+ "2610.23982": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-14T07:29:36Z",
+  "title": "Time-JEPA: Grounding Video World Models with Physical Time Series"
+ },
+ "2610.23968": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-12T08:42:53Z",
+  "title": "IMPULSE: Push First, Then Predict in V-JEPA 2 Feature Space"
+ },
+ "2610.23959": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-09T17:54:57Z",
+  "title": "Same Space or Not: Benchmarking Spatial Intelligence Through Cross-View Contradictions"
+ },
+ "2610.23953": {
+  "status": "near-miss",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-10-09T08:37:03Z",
+  "title": "Functionalizing AI-Generated 3D Shapes via Interior Geometry Construction"
+ },
+ "2610.23899": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-09-28T19:49:19Z",
+  "title": "MicroSplat: Towards Automating 3D Small-Scale Reconstruction"
+ },
+ "2610.23895": {
+  "status": "screened-out",
+  "first_seen": "2026-10-20",
+  "submitted": "2026-09-28T15:14:48Z",
+  "title": "GeoForward: Geometry-Guided Cross-View Alignment for Feedforward 3D Gaussian Splatting"
  }
 }

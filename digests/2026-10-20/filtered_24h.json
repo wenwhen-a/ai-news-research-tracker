@@ -1,0 +1,292 @@
+{
+  "as_of": "2026-10-20",
+  "cutoff": "2026-10-19",
+  "window_days": 1,
+  "summary": {
+    "input_items": 13,
+    "denied_source": 0,
+    "in_window": 13,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 13,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 13,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 12,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Griffin Gaming Partners与Entertainment 360联合推出游戏影视化改编新公司HITpoint Entertainment",
+        "url": "https://www.pocketgamer.biz/griffin-gaming-partners-and-entertainment-360-launch-game-adaptation-venture/",
+        "date": "2026-10-20",
+        "summary": "游戏投资机构Griffin Gaming Partners（管理资产超16亿美元）与娱乐制作公司Entertainment 360联合成立HITpoint Entertainment，专注于将电子游戏改编为影视作品，覆盖动作、恐怖、爱情、喜剧等多种类型，面向大IP与独立游戏均有涉及。未披露具体资金规模。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Griffin Gaming Partners与Entertainment 360联合推出游戏影视化改编新公司HITpoint Entertainment",
+          "url": "https://www.pocketgamer.biz/griffin-gaming-partners-and-entertainment-360-launch-game-adaptation-venture/",
+          "date": "2026-10-20",
+          "summary": "游戏投资机构Griffin Gaming Partners（管理资产超16亿美元）与娱乐制作公司Entertainment 360联合成立HITpoint Entertainment，专注于将电子游戏改编为影视作品，覆盖动作、恐怖、爱情、喜剧等多种类型，面向大IP与独立游戏均有涉及。未披露具体资金规模。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Supercell完成对《梅林的奇妙庄园》开发商Metacore的全面收购",
+        "url": "https://www.pocketgamer.biz/supercell-completes-full-acquisition-of-metacore/",
+        "date": "2026-10-19",
+        "summary": "Supercell正式完成对芬兰工作室Metacore（《Merge Mansion》开发商）的全资收购；此前Supercell已是其最大股东，交易于今年5月宣布，原计划9月底完成，交易金额未披露。收购完成的同时，Metacore宣布芬兰地区最多裁减160个岗位。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Supercell完成对《梅林的奇妙庄园》开发商Metacore的全面收购",
+          "url": "https://www.pocketgamer.biz/supercell-completes-full-acquisition-of-metacore/",
+          "date": "2026-10-19",
+          "summary": "Supercell正式完成对芬兰工作室Metacore（《Merge Mansion》开发商）的全资收购；此前Supercell已是其最大股东，交易于今年5月宣布，原计划9月底完成，交易金额未披露。收购完成的同时，Metacore宣布芬兰地区最多裁减160个岗位。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "电竞世界杯（Esports World Cup）开放2027赛季全新资格赛通道，目标触达180万名选手",
+        "url": "https://www.pocketgamer.biz/esports-world-cup-opens-new-global-pathways-to-2027-event/",
+        "date": "2026-10-19",
+        "summary": "电竞世界杯基金会（Esports Foundation）开放2027年资格赛申请，计划通过400余场赛事触达180万名选手，设立\"直通资格赛\"与\"外卡资格赛\"两类通道，首批适用项目包括国际象棋、CS2、拳皇/饿狼传说新作及《街头霸王6》。申请截止12月20日。文中提及电竞世界杯已于今年由利雅得迁至巴黎、电竞国家杯赛延期至2027年11月。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "电竞世界杯（Esports World Cup）开放2027赛季全新资格赛通道，目标触达180万名选手",
+          "url": "https://www.pocketgamer.biz/esports-world-cup-opens-new-global-pathways-to-2027-event/",
+          "date": "2026-10-19",
+          "summary": "电竞世界杯基金会（Esports Foundation）开放2027年资格赛申请，计划通过400余场赛事触达180万名选手，设立\"直通资格赛\"与\"外卡资格赛\"两类通道，首批适用项目包括国际象棋、CS2、拳皇/饿狼传说新作及《街头霸王6》。申请截止12月20日。文中提及电竞世界杯已于今年由利雅得迁至巴黎、电竞国家杯赛延期至2027年11月。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "蜀光游戏（Lilith Games）《Clash of Critters》海外上线不到五个月流水突破5000万美元",
+        "url": "https://www.pocketgamer.biz/clash-of-critters-surpasses-50m-in-under-five-months/",
+        "date": "2026-10-19",
+        "summary": "Lilith Games旗下集卡养成手游《Clash of Critters》自2026年5月21日海外上线以来，Google Play与App Store合计玩家消费已突破5000万美元（约5380万美元），不到五个月达成这一流水里程碑。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "蜀光游戏（Lilith Games）《Clash of Critters》海外上线不到五个月流水突破5000万美元",
+          "url": "https://www.pocketgamer.biz/clash-of-critters-surpasses-50m-in-under-five-months/",
+          "date": "2026-10-19",
+          "summary": "Lilith Games旗下集卡养成手游《Clash of Critters》自2026年5月21日海外上线以来，Google Play与App Store合计玩家消费已突破5000万美元（约5380万美元），不到五个月达成这一流水里程碑。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《赛马娘》厂商Cygames成立新游戏厂牌CygamesEdge，计划每年推出2-3款小体量原创作品",
+        "url": "https://kotaku.com/umamusume-pretty-derby-maker-cygames-wants-to-release-three-games-per-year-under-new-small-games-label-2000747683",
+        "date": "2026-10-20",
+        "summary": "Cygames宣布新厂牌CygamesEdge，主打小团队开发的独立游戏体量作品，首作《Where the Seeds Fall》预计11月发售、流程约3小时。公司称目标是每年推出两到三款此类作品、每款3年内完成开发，以应对玩家偏好多元化及Steam销量中老游戏占比过半的行业趋势。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《赛马娘》厂商Cygames成立新游戏厂牌CygamesEdge，计划每年推出2-3款小体量原创作品",
+          "url": "https://kotaku.com/umamusume-pretty-derby-maker-cygames-wants-to-release-three-games-per-year-under-new-small-games-label-2000747683",
+          "date": "2026-10-20",
+          "summary": "Cygames宣布新厂牌CygamesEdge，主打小团队开发的独立游戏体量作品，首作《Where the Seeds Fall》预计11月发售、流程约3小时。公司称目标是每年推出两到三款此类作品、每款3年内完成开发，以应对玩家偏好多元化及Steam销量中老游戏占比过半的行业趋势。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "VAIA行业报告：94%游戏工作室已使用AI，但半数以上称尚未深度融入生产流程",
+        "url": "https://www.videogameschronicle.com/news/report-finds-that-94-of-studios-use-ai-but-more-than-half-say-it-isnt-deeply-embedded-into-production/",
+        "date": "2026-10-20",
+        "summary": "游戏咨询机构Vivrato发布的VAIA报告基于101位北美与欧洲工作室高层的匿名访谈：97%受访者表示用过AI、94%称已用于至少一个生产环节；但在10分制评分中52%认为AI融入深度仅为3分或更低，欧洲工作室（70%用于美术/动画）比北美工作室（53%）融入更深。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "VAIA行业报告：94%游戏工作室已使用AI，但半数以上称尚未深度融入生产流程",
+          "url": "https://www.videogameschronicle.com/news/report-finds-that-94-of-studios-use-ai-but-more-than-half-say-it-isnt-deeply-embedded-into-production/",
+          "date": "2026-10-20",
+          "summary": "游戏咨询机构Vivrato发布的VAIA报告基于101位北美与欧洲工作室高层的匿名访谈：97%受访者表示用过AI、94%称已用于至少一个生产环节；但在10分制评分中52%认为AI融入深度仅为3分或更低，欧洲工作室（70%用于美术/动画）比北美工作室（53%）融入更深。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《绝地潜兵2》PC版正式弃用GameGuard反作弊，改用Easy Anti-Cheat",
+        "url": "https://www.ithome.com/1/015/602.htm",
+        "date": "2026-10-20",
+        "summary": "开发商Arrowhead在Steam公告中承认GameGuard\"未能达到预期防护效果\"，7.2.0更新将其替换为被200余款游戏采用的Easy Anti-Cheat，原因是作弊Mod篡改了战役掉落率与银河战争进度并影响其他玩家；纯美术类Mod不受影响，但部分需适配更新。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《绝地潜兵2》PC版正式弃用GameGuard反作弊，改用Easy Anti-Cheat",
+          "url": "https://www.ithome.com/1/015/602.htm",
+          "date": "2026-10-20",
+          "summary": "开发商Arrowhead在Steam公告中承认GameGuard\"未能达到预期防护效果\"，7.2.0更新将其替换为被200余款游戏采用的Easy Anti-Cheat，原因是作弊Mod篡改了战役掉落率与银河战争进度并影响其他玩家；纯美术类Mod不受影响，但部分需适配更新。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Sensor Tower：《GTA6》数字版预购已突破600万份，销售额约5.94亿美元",
+        "url": "https://www.ithome.com/1/015/595.htm",
+        "date": "2026-10-20",
+        "summary": "据Sensor Tower估算，截至10月13日《GTA6》全球数字版预购已超600万份，PS5占约74%（451万份，营收约4.41亿美元）、Xbox占约26%（157万份，营收约1.53亿美元），美国市场预购规模远超近六年同期发售游戏，较《使命召唤：现代战争2》同期高148%。Rockstar/Take-Two官方未公布具体销量数字。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Sensor Tower：《GTA6》数字版预购已突破600万份，销售额约5.94亿美元",
+          "url": "https://www.ithome.com/1/015/595.htm",
+          "date": "2026-10-20",
+          "summary": "据Sensor Tower估算，截至10月13日《GTA6》全球数字版预购已超600万份，PS5占约74%（451万份，营收约4.41亿美元）、Xbox占约26%（157万份，营收约1.53亿美元），美国市场预购规模远超近六年同期发售游戏，较《使命召唤：现代战争2》同期高148%。Rockstar/Take-Two官方未公布具体销量数字。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Steam全球周销量榜：《使命召唤：现代战争4》凭预购登顶",
+        "url": "https://www.ithome.com/1/015/572.htm",
+        "date": "2026-10-20",
+        "summary": "Steam公布10月13日至20日周销量榜，《使命召唤：现代战争4》凭预购销量登顶全球榜首；中国区榜单中该作同样第一，《影之刃零》《战地风云6》分列二、三位；上周榜首《永恒之塔2》跌出本期榜单。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Steam全球周销量榜：《使命召唤：现代战争4》凭预购登顶",
+          "url": "https://www.ithome.com/1/015/572.htm",
+          "date": "2026-10-20",
+          "summary": "Steam公布10月13日至20日周销量榜，《使命召唤：现代战争4》凭预购销量登顶全球榜首；中国区榜单中该作同样第一，《影之刃零》《战地风云6》分列二、三位；上周榜首《永恒之塔2》跌出本期榜单。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "史克威尔艺莫警告FFXIV等Square Enix账号遭第三方撞库攻击，呼吁用户修改密码",
+        "url": "https://www.4gamer.net/games/999/G999905/20261019018/",
+        "date": "2026-10-19",
+        "summary": "Square Enix在《最终幻想14》官网发布公告，称检测到第三方利用从其他网站泄露的邮箱/账号与密码组合尝试登录Square Enix账号管理系统，已限制疑似受影响账号并发送重置邮件，建议用户修改重复使用或易猜的密码并启用一次性密码（OTP）；若攻击持续，可能对全部账号发起强制重置密码。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "史克威尔艺莫警告FFXIV等Square Enix账号遭第三方撞库攻击，呼吁用户修改密码",
+          "url": "https://www.4gamer.net/games/999/G999905/20261019018/",
+          "date": "2026-10-19",
+          "summary": "Square Enix在《最终幻想14》官网发布公告，称检测到第三方利用从其他网站泄露的邮箱/账号与密码组合尝试登录Square Enix账号管理系统，已限制疑似受影响账号并发送重置邮件，建议用户修改重复使用或易猜的密码并启用一次性密码（OTP）；若攻击持续，可能对全部账号发起强制重置密码。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "日本游戏QA公司Polyscape与C&R集团旗下LivAI达成合作，助力游戏/IP企业落地AI应用",
+        "url": "https://www.4gamer.net/games/999/G999905/20261019014/",
+        "date": "2026-10-19",
+        "summary": "以AI自动化游戏QA服务\"PolyQA\"著称的Polyscape宣布与C&R集团子公司LivAI合作，面向游戏与IP企业提供AI咨询、人才培养与治理设计，用例包括用AI反复游玩采集日志以核对主数据、检查广告法/支付服务法等合规问题。Polyscape称其AI QA可将测试工作量降低75%、策划成本降至1/100；文中引用2026年CESA调查显示85.8%日本游戏开发者已在工作中使用生成式AI。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "日本游戏QA公司Polyscape与C&R集团旗下LivAI达成合作，助力游戏/IP企业落地AI应用",
+          "url": "https://www.4gamer.net/games/999/G999905/20261019014/",
+          "date": "2026-10-19",
+          "summary": "以AI自动化游戏QA服务\"PolyQA\"著称的Polyscape宣布与C&R集团子公司LivAI合作，面向游戏与IP企业提供AI咨询、人才培养与治理设计，用例包括用AI反复游玩采集日志以核对主数据、检查广告法/支付服务法等合规问题。Polyscape称其AI QA可将测试工作量降低75%、策划成本降至1/100；文中引用2026年CESA调查显示85.8%日本游戏开发者已在工作中使用生成式AI。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "墨西哥总统令要求数字平台一个月内加强未成年人网络内容保护，游戏媒体视其波及游戏/应用商店生态",
+        "url": "https://www.pocketgamer.biz/mexico-orders-digital-platforms-to-shield-minors-from-harmful-content/",
+        "date": "2026-10-19",
+        "summary": "墨西哥总统辛鲍姆签署总统令，要求社交媒体与流媒体平台在一个月内采取措施保护青少年免受有害内容侵害，政府已与苹果、谷歌、Meta、微软、TikTok、X、华为等公司代表会面，并计划推动配套立法处罚不合规企业；PocketGamer.biz将其与欧盟拟议的《儿童法案》、加州新规、澳大利亚算法推荐新规并列报道，视为可能波及游戏平台监管的政策动向。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "墨西哥总统令要求数字平台一个月内加强未成年人网络内容保护，游戏媒体视其波及游戏/应用商店生态",
+          "url": "https://www.pocketgamer.biz/mexico-orders-digital-platforms-to-shield-minors-from-harmful-content/",
+          "date": "2026-10-19",
+          "summary": "墨西哥总统辛鲍姆签署总统令，要求社交媒体与流媒体平台在一个月内采取措施保护青少年免受有害内容侵害，政府已与苹果、谷歌、Meta、微软、TikTok、X、华为等公司代表会面，并计划推动配套立法处罚不合规企业；PocketGamer.biz将其与欧盟拟议的《儿童法案》、加州新规、澳大利亚算法推荐新规并列报道，视为可能波及游戏平台监管的政策动向。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Cygames因签证未获批，取消《赛马娘》洛杉矶世界巡回演出站",
+        "url": "https://www.4gamer.net/games/554/G055489/20261020019/",
+        "date": "2026-10-20",
+        "summary": "Cygames宣布原定举行的《赛马娘：Pretty Derby》洛杉矶世界巡回演出场次因演出相关签证未能及时获批而取消，此前一天公司已表示该场演出\"存在不确定性\"；此为近期该系列海外线下活动遭遇的运营波折之一。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Cygames因签证未获批，取消《赛马娘》洛杉矶世界巡回演出站",
+          "url": "https://www.4gamer.net/games/554/G055489/20261020019/",
+          "date": "2026-10-20",
+          "summary": "Cygames宣布原定举行的《赛马娘：Pretty Derby》洛杉矶世界巡回演出场次因演出相关签证未能及时获批而取消，此前一天公司已表示该场演出\"存在不确定性\"；此为近期该系列海外线下活动遭遇的运营波折之一。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

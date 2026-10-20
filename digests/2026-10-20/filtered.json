@@ -1,0 +1,192 @@
+{
+  "as_of": "2026-10-20",
+  "cutoff": "2026-10-13",
+  "window_days": 7,
+  "summary": {
+    "input_items": 8,
+    "denied_source": 0,
+    "in_window": 8,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 8,
+    "duplicate_clusters": 0,
+    "section1_count": 3,
+    "section2_count": 5,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 6,
+    "previously_covered_count": 2
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Video game decompilation hub decomp.dev shuts down, blaming AI-driven \"hostile forks\"",
+        "url": "https://kotaku.com/video-game-decomp-hub-closes-due-to-ai-the-community-aspect-of-decompilation-has-been-broken-2000747302",
+        "date": "2026-10-15",
+        "summary": "decomp.dev shutdown",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "Video game decompilation hub decomp.dev shuts down, blaming AI-driven \"hostile forks\"",
+          "url": "https://kotaku.com/video-game-decomp-hub-closes-due-to-ai-the-community-aspect-of-decompilation-has-been-broken-2000747302",
+          "date": "2026-10-15",
+          "summary": "decomp.dev shutdown",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Activision QA union votes to authorize a strike, citing stalled bargaining over AI guardrails and wages",
+        "url": "https://cwa-union.org/news/releases/activision-quality-assurance-workers-vote-authorize-strike",
+        "date": "2026-10-15",
+        "summary": "Activision QA strike vote",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "Activision QA union votes to authorize a strike, citing stalled bargaining over AI guardrails and wages",
+          "url": "https://cwa-union.org/news/releases/activision-quality-assurance-workers-vote-authorize-strike",
+          "date": "2026-10-15",
+          "summary": "Activision QA strike vote",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "VAST开源实时世界模型EdenLive，单消费级显卡RTX 5090实现720P超24FPS游戏渲染",
+        "url": "https://www.qbitai.com/2026/10/504136.html",
+        "date": "2026-10-18",
+        "summary": "VAST EdenLive open source",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "VAST开源实时世界模型EdenLive，单消费级显卡RTX 5090实现720P超24FPS游戏渲染",
+          "url": "https://www.qbitai.com/2026/10/504136.html",
+          "date": "2026-10-18",
+          "summary": "VAST EdenLive open source",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Moonlighter studio Digital Sun cancels public Steam playtest of ReVamp, citing fear of AI clones",
+        "url": "https://kotaku.com/revamp-public-playtest-cancelled-digital-sun-claude-ai-clones-2000747558",
+        "date": "2026-10-19",
+        "summary": "Digital Sun ReVamp playtest pulled",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "Moonlighter studio Digital Sun cancels public Steam playtest of ReVamp, citing fear of AI clones",
+          "url": "https://kotaku.com/revamp-public-playtest-cancelled-digital-sun-claude-ai-clones-2000747558",
+          "date": "2026-10-19",
+          "summary": "Digital Sun ReVamp playtest pulled",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "UKIE and law firm Sheridans launch AI Compliance and Accreditation Service for UK game studios",
+        "url": "https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly",
+        "date": "2026-10-16",
+        "summary": "UKIE Sheridans AI compliance service",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "UKIE and law firm Sheridans launch AI Compliance and Accreditation Service for UK game studios",
+          "url": "https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly",
+          "date": "2026-10-16",
+          "summary": "UKIE Sheridans AI compliance service",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Steam Next Fest players ask Valve for a filter to hide AI-generated games from recommendations",
+        "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+        "date": "2026-10-19",
+        "summary": "Steam Next Fest AI filter request",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "Steam Next Fest players ask Valve for a filter to hide AI-generated games from recommendations",
+          "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+          "date": "2026-10-19",
+          "summary": "Steam Next Fest AI filter request",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "半个月内两次出手，腾讯领投土耳其休闲游戏商Circle Games，看重其内部AI营销与关卡生成工具",
+        "url": "https://www.youxituoluo.com/534963.html",
+        "date": "2026-10-14",
+        "summary": "Tencent Circle Games investment",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "半个月内两次出手，腾讯领投土耳其休闲游戏商Circle Games，看重其内部AI营销与关卡生成工具",
+          "url": "https://www.youxituoluo.com/534963.html",
+          "date": "2026-10-14",
+          "summary": "Tencent Circle Games investment",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "中国游戏大厂招聘岗位分析：AI岗位权重上升，从“概念炒作”转向核心研发职能",
+        "url": "https://www.youxituoluo.com/534972.html",
+        "date": "2026-10-20",
+        "summary": "China gaming hiring trend AI roles",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "中国游戏大厂招聘岗位分析：AI岗位权重上升，从“概念炒作”转向核心研发职能",
+          "url": "https://www.youxituoluo.com/534972.html",
+          "date": "2026-10-20",
+          "summary": "China gaming hiring trend AI roles",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

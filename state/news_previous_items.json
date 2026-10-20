@@ -1,124 +1,5 @@
 [
  {
-  "title": "NVIDIA发布RTX Mega Geometry技术，解决UE5 Nanite光追难题并将纳入DirectX标准",
-  "url": "https://www.nvidia.com/en-us/geforce/news/gears-of-war-e-day-dlss-4-5-ray-tracing-rtx-mega-geometry/",
-  "date": "2026-10-01",
-  "section": 1,
-  "posted": "2026-10-05"
- },
- {
-  "title": "AI算力需求推高内存价格，美光警告缺货将持续至2028年，PS5/Xbox/Switch 2等主机已多次涨价",
-  "url": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
-  "date": "2026-10-03",
-  "section": 1,
-  "posted": "2026-10-05"
- },
- {
-  "title": "PocketGamer汇总多家厂商高管谈AI在游戏业的实际应用现状",
-  "url": "https://www.pocketgamer.biz/how-developers-are-using-ai-right-now/",
-  "date": "2026-10-05",
-  "section": 2,
-  "posted": "2026-10-05"
- },
- {
-  "title": "Mod作者故意\"自毁\"人气Mod以抵制AI未授权转载，呼吁\"支持modder而非AI\"",
-  "url": "https://www.rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads",
-  "date": "2026-10-02",
-  "section": 2,
-  "posted": "2026-10-05"
- },
- {
-  "title": "《RuneScape》开发商Jagex就预告片中出现生成式AI内容道歉，启动内部审查流程",
-  "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
-  "date": "2026-10-05",
-  "section": 2,
-  "posted": "2026-10-05"
- },
- {
-  "title": "用Claude生成\"游戏混搭\"视频走红社交媒体，遭Mod社区强烈抵制",
-  "url": "https://www.videogameschronicle.com/news/ai-game-mashup-videos-on-social-media-spark-debate-and-backlash-among-players-and-modders/",
-  "date": "2026-10-05",
-  "section": 2,
-  "posted": "2026-10-05"
- },
- {
-  "title": "Hellblade 工作室 Ninja Theory 在 Xbox 宣布其面临关闭后开始裁员",
-  "url": "https://www.videogameschronicle.com/news/hellblade-studio-ninja-theory-has-started-laying-off-staff-following-xboxs-announcement-that-it-faces-closure/",
-  "date": "2026-10-05",
-  "section": 3,
-  "posted": "2026-10-05"
- },
- {
-  "title": "《NBA 2K25》将于10月30日下架，服务器12月31日关停",
-  "url": "https://www.videogameschronicle.com/news/nba-2k25-is-being-delisted-later-this-month-servers-including-single-player-story-mode-shut-down-at-the-end-of-the-year/",
-  "date": "2026-10-05",
-  "section": 3,
-  "posted": "2026-10-05"
- },
- {
-  "title": "谷歌在英国面临高达10亿英镑的 Play 商店佣金集体诉讼",
-  "url": "https://www.pocketgamer.biz/google-faces-1bn-play-store-commission-trial-in-the-uk/",
-  "date": "2026-10-05",
-  "section": 3,
-  "posted": "2026-10-05"
- },
- {
-  "title": "《巫师3：狂猎》重制版带动 Steam 同时在线人数创历史新高",
-  "url": "https://www.invenglobal.com/articles/26812/powered-by-remaster-the-witcher-3-sets-new-all-time-peak-concurrent-player-record-on-steam",
-  "date": "2026-10-05",
-  "section": 3,
-  "posted": "2026-10-05"
- },
- {
-  "title": "NCSoft《永恒之塔2》全球正式上线，Steam 同时在线峰值超17万",
-  "url": "https://www.famitsu.com/article/202610/90092",
-  "date": "2026-10-05",
-  "section": 3,
-  "posted": "2026-10-05"
- },
- {
-  "title": "Rockstar：《GTA6》刻意避免直接影射现实政治人物与事件",
-  "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
-  "date": "2026-10-05",
-  "section": 3,
-  "posted": "2026-10-05"
- },
- {
-  "title": "史克威尔艺莫《最终幻想7：永恒危机》将于10月7日停止服务",
-  "url": "https://www.ithome.com/1/009/857.htm",
-  "date": "2026-10-04",
-  "section": 3,
-  "posted": "2026-10-05"
- },
- {
-  "title": "《恋与深空》国际服官方账号因分享含毒植物\"鸡尾酒配方\"引发争议",
-  "url": "https://www.ithome.com/1/009/866.htm",
-  "date": "2026-10-04",
-  "section": 3,
-  "posted": "2026-10-05"
- },
- {
-  "title": "《新电波人》手游将于12月6日停止运营",
-  "url": "https://www.gematsu.com/2026/10/the-new-denpa-men-to-end-service-on-december-6",
-  "date": "2026-10-04",
-  "section": 3,
-  "posted": "2026-10-05"
- },
- {
-  "title": "据报道Behaviour Interactive招聘广告意外曝光一款神秘3A科幻射击新作",
-  "url": "https://www.ithome.com/1/009/859.htm",
-  "date": "2026-10-04",
-  "section": 3,
-  "posted": "2026-10-05"
- },
- {
-  "title": "大阪独立游戏峰会2026举行，多款独立新作亮相",
-  "url": "https://www.4gamer.net/",
-  "date": "2026-10-04",
-  "section": 3,
-  "posted": "2026-10-05"
- },
- {
   "title": "SEGA回应生成式AI争议：称态度\"非常谨慎\"，不会用于游戏创意内容",
   "url": "https://www.videogameschronicle.com/news/sega-claims-its-being-very-cautious-about-ai-and-wont-use-it-for-creative-work/",
   "date": "2026-10-06",
@@ -1902,5 +1783,145 @@
   "date": "2026-10-19",
   "section": 3,
   "posted": "2026-10-19"
+ },
+ {
+  "title": "游戏反编译枢纽网站decomp.dev宣布关闭，创始人称AI已\"破坏了社区属性\"",
+  "url": "https://kotaku.com/video-game-decomp-hub-closes-due-to-ai-the-community-aspect-of-decompilation-has-been-broken-2000747302",
+  "date": "2026-10-15",
+  "section": 1,
+  "posted": "2026-10-20"
+ },
+ {
+  "title": "动视QA工会投票授权罢工，指控劳资谈判在AI使用\"护栏\"等议题上陷入停滞",
+  "url": "https://cwa-union.org/news/releases/activision-quality-assurance-workers-vote-authorize-strike",
+  "date": "2026-10-15",
+  "section": 1,
+  "posted": "2026-10-20"
+ },
+ {
+  "title": "VAST开源实时世界模型EdenLive，单消费级显卡RTX 5090实现720P超24FPS游戏渲染",
+  "url": "https://www.qbitai.com/2026/10/504136.html",
+  "date": "2026-10-18",
+  "section": 1,
+  "posted": "2026-10-20"
+ },
+ {
+  "title": "更新】《月光商人》开发商Digital Sun取消新作《ReVamp》公开Steam试玩，担忧AI加速克隆",
+  "url": "https://kotaku.com/revamp-public-playtest-cancelled-digital-sun-claude-ai-clones-2000747558",
+  "date": "2026-10-19",
+  "section": 2,
+  "posted": "2026-10-20"
+ },
+ {
+  "title": "UKIE与律所Sheridans联合推出\"AI合规与认证服务\"，面向英国游戏工作室",
+  "url": "https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly",
+  "date": "2026-10-16",
+  "section": 2,
+  "posted": "2026-10-20"
+ },
+ {
+  "title": "Steam新品节玩家请求Valve推出过滤器，屏蔽推荐中的AI生成游戏",
+  "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+  "date": "2026-10-19",
+  "section": 2,
+  "posted": "2026-10-20"
+ },
+ {
+  "title": "半个月内两次出手，腾讯领投土耳其休闲游戏商Circle Games，看重其内部AI营销与关卡生成工具",
+  "url": "https://www.youxituoluo.com/534963.html",
+  "date": "2026-10-14",
+  "section": 2,
+  "posted": "2026-10-20"
+ },
+ {
+  "title": "中国游戏大厂招聘岗位分析：AI岗位权重上升，从\"概念炒作\"转向核心研发职能",
+  "url": "https://www.youxituoluo.com/534972.html",
+  "date": "2026-10-20",
+  "section": 2,
+  "posted": "2026-10-20"
+ },
+ {
+  "title": "Griffin Gaming Partners与Entertainment 360联合推出游戏影视化改编新公司HITpoint Entertainment",
+  "url": "https://www.pocketgamer.biz/griffin-gaming-partners-and-entertainment-360-launch-game-adaptation-venture/",
+  "date": "2026-10-20",
+  "section": 3,
+  "posted": "2026-10-20"
+ },
+ {
+  "title": "Supercell完成对《梅林的奇妙庄园》开发商Metacore的全面收购",
+  "url": "https://www.pocketgamer.biz/supercell-completes-full-acquisition-of-metacore/",
+  "date": "2026-10-19",
+  "section": 3,
+  "posted": "2026-10-20"
+ },
+ {
+  "title": "电竞世界杯（Esports World Cup）开放2027赛季全新资格赛通道，目标触达180万名选手",
+  "url": "https://www.pocketgamer.biz/esports-world-cup-opens-new-global-pathways-to-2027-event/",
+  "date": "2026-10-19",
+  "section": 3,
+  "posted": "2026-10-20"
+ },
+ {
+  "title": "蜀光游戏（Lilith Games）《Clash of Critters》海外上线不到五个月流水突破5000万美元",
+  "url": "https://www.pocketgamer.biz/clash-of-critters-surpasses-50m-in-under-five-months/",
+  "date": "2026-10-19",
+  "section": 3,
+  "posted": "2026-10-20"
+ },
+ {
+  "title": "《赛马娘》厂商Cygames成立新游戏厂牌CygamesEdge，计划每年推出2-3款小体量原创作品",
+  "url": "https://kotaku.com/umamusume-pretty-derby-maker-cygames-wants-to-release-three-games-per-year-under-new-small-games-label-2000747683",
+  "date": "2026-10-20",
+  "section": 3,
+  "posted": "2026-10-20"
+ },
+ {
+  "title": "VAIA行业报告：94%游戏工作室已使用AI，但半数以上称尚未深度融入生产流程",
+  "url": "https://www.videogameschronicle.com/news/report-finds-that-94-of-studios-use-ai-but-more-than-half-say-it-isnt-deeply-embedded-into-production/",
+  "date": "2026-10-20",
+  "section": 3,
+  "posted": "2026-10-20"
+ },
+ {
+  "title": "《绝地潜兵2》PC版正式弃用GameGuard反作弊，改用Easy Anti-Cheat",
+  "url": "https://www.ithome.com/1/015/602.htm",
+  "date": "2026-10-20",
+  "section": 3,
+  "posted": "2026-10-20"
+ },
+ {
+  "title": "Sensor Tower：《GTA6》数字版预购已突破600万份，销售额约5.94亿美元",
+  "url": "https://www.ithome.com/1/015/595.htm",
+  "date": "2026-10-20",
+  "section": 3,
+  "posted": "2026-10-20"
+ },
+ {
+  "title": "史克威尔艺莫警告FFXIV等Square Enix账号遭第三方撞库攻击，呼吁用户修改密码",
+  "url": "https://www.4gamer.net/games/999/G999905/20261019018/",
+  "date": "2026-10-19",
+  "section": 3,
+  "posted": "2026-10-20"
+ },
+ {
+  "title": "日本游戏QA公司Polyscape与C&R集团旗下LivAI达成合作，助力游戏/IP企业落地AI应用",
+  "url": "https://www.4gamer.net/games/999/G999905/20261019014/",
+  "date": "2026-10-19",
+  "section": 3,
+  "posted": "2026-10-20"
+ },
+ {
+  "title": "墨西哥总统令要求数字平台一个月内加强未成年人网络内容保护，游戏媒体视其波及游戏/应用商店生态",
+  "url": "https://www.pocketgamer.biz/mexico-orders-digital-platforms-to-shield-minors-from-harmful-content/",
+  "date": "2026-10-19",
+  "section": 3,
+  "posted": "2026-10-20"
+ },
+ {
+  "title": "Cygames因签证未获批，取消《赛马娘》洛杉矶世界巡回演出站",
+  "url": "https://www.4gamer.net/games/554/G055489/20261020019/",
+  "date": "2026-10-20",
+  "section": 3,
+  "posted": "2026-10-20"
  }
 ]

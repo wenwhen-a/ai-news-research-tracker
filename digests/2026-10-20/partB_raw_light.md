@@ -1,0 +1,33 @@
+# Part B — Research → Product (Daily Light Check)
+Window: last 7 days (2026-10-13 to 2026-10-20). Mode: light check — ~10 primary surfaces, not the full 90-day sweep.
+
+## No new or materially-updated products/features qualified in this window.
+
+All genuinely on-topic items dated 2026-10-13 through 2026-10-20 that surfaced on the checked surfaces were already present in `state/product_seen.json` with the same tier and release date (no tier change, no new platform/region, no pricing/licensing change observed beyond what's already recorded):
+- NVIDIA DLSS 5 "October model update" (2x faster / 118M params) + RTX Spark laptop rollout — release 2026-10-13/2026-10-16 — already recorded under the DLSS 5 entry's `updates` list.
+- NVIDIA DLSS Frame Generation Performance Mode ("Preset C", beta) — release 2026-10-13 — already a standalone entry, unchanged.
+- Kling 4.0 full global launch — release 2026-10-15 — already a standalone entry (superseding the Kling 4.0 Flash early access), unchanged since last recorded update (2026-10-15).
+- Unity 7 public Alpha — release/update 2026-10-13 — already recorded as the Unity 7 entry's tier-change update (Announced-only → Public beta/preview).
+
+No new tier changes, new major versions, new platform/region availability, or pricing/licensing changes were found for these beyond what is already on file.
+
+## Surfaces checked
+1. NVIDIA Developer Blog (developer.nvidia.com/blog) — Oct 13–19 posts are all general AI/compute/CUDA/agent topics (Mamba-2 kernels, Nemotron 3.5, NeMo Gym, Run:ai open source, Spark workflow post); none on 3D, world models, character animation or game engines.
+2. NVIDIA GeForce News (nvidia.com/en-us/geforce/news) — three Oct 13 posts (DLSS 5 faster model / Hogwarts Legacy & RTX Spark rollout; RTX Spark game-lineup launch; "DLSS This Week" incl. Preset C beta) — all already reflected in `product_seen.json`. No Oct 14–20 posts on these topics found.
+3. Unreal Engine News / forums.unrealengine.com announcements — Oct 8–13 threads found (Fab free content, Fab October Flash Sale, Fab publisher-access update, Discover redesign/spam enforcement) are marketplace/content-moderation items, not 3D/animation/engine-tech features; no UEFN version bump beyond v42.20 (already recorded) found; dev.epicgames.com changelog shows no new Fortnite/UEFN release in the window.
+4. Unity Blog/Releases (unity.com/blog, unity.com/releases) — no dated release items in the window beyond the already-recorded Unity 7 Alpha (2026-10-13) and Unity Spark (announced-only, 2026-10-07/13, already recorded).
+5. Roblox Newsroom / DevForum announcements — reviewed Oct 13–20 DevForum activity: "New Transaction Refunded Webhook" (Oct 16), "Players Can Now Find In-Game Items Outside Your Game" (Oct 14), "[Early Access] Player Support" (Oct 19), "[Live] Unified Roles & Permissions" (Oct 14), "Roblox-Provided Discounts" (Oct 15), "[Full Release] New Device Simulator Toolbar and Network Simulator" (Oct 20) — none are on the four tracked topics (3D/world models/character animation/game engines). "Terrain Updates: Object Scattering, Path Splines, Projected Terrain Decals" is on-topic (3D terrain tooling) but was originally posted 2026-09-11, remains Announced-only (application-based Terrain Early Access Program, no beta/GA date), and is outside this run's 7-day window — recorded below as a near-miss, not an item.
+6. Adobe Blog / Substance 3D (blog.adobe.com, helpx.adobe.com/substance-3d) — no October items found beyond the already-recorded July 21 SIGGRAPH update; one listing showed an "Oct 2" date that appears to be a duplicate/listing artifact of the same July post, not a new release.
+7. Tencent Hunyuan (hunyuan.tencent.com, 3d.hunyuan.tencent.com) — no dated updates found in the window; page returned no new news items.
+8. ByteDance Volcano Engine / Seed (volcengine.com, seed.bytedance.com) — Seedance 2.5 / Doubao Video Generation Model 2.5 promotional banners present but undated and already recorded (2026-07-31 release, 2026-10-17 BytePlus API-docs update already on file); no new dated item in the window.
+9. Alibaba Model Studio release notes (help.aliyun.com/zh/model-studio/newly-released-models) — only new listing in window is `xiaomi/mimo-v2.6-pro-ultraspeed` (2026-10-19, Beijing region), a text/reasoning/vision-understanding speed variant — off-topic (not 3D/world model/character animation/game engine).
+10. Kuaishou Kling release notes (klingai.com / kling.ai, release-note/release-history) — release-history page returned no visible dated entries; no update beyond the already-recorded 2026-10-15 full launch found via search.
+11. PlayStation Blog (blog.playstation.com) — Oct 13–20 posts are all game-content/editorial (Final Fantasy, The Saros: Zenith, podcast, Share of the Week, Peak, PS Plus catalog, Gran Turismo 7 Spec IV, Helldivers 2, Escape Academy 2); none on PSSR/AI upscaling or other on-topic platform features.
+
+## Near-misses
+- Roblox "Terrain Updates: Object Scattering, Path Splines, Projected Terrain Decals, and More" · Roblox · posted 2026-09-11 (outside the 7-day window) · Announced-only, application/survey-gated Terrain Early Access Program, no GA/beta date — https://devforum.roblox.com/t/terrain-updates-object-scattering-path-splines-projected-terrain-decals-and-more/4865617
+- Roblox "[Full Release] New Device Simulator Toolbar and Network Simulator" · Roblox · 2026-10-20 · on-topic surface (Studio tool) but not one of the four tracked topics (device/network simulation testing, not 3D/world-model/animation/engine-tech) — https://devforum.roblox.com (full release, Oct 20)
+- ByteDance real-time 3D/world model (reported tied to Pico, "as early as October 2026") · ByteDance · unverifiable — trade-press speculation only (tech-insider.org), no primary-source ByteDance/Seed announcement found; not included per primary-source rule.
+- Alibaba `xiaomi/mimo-v2.6-pro-ultraspeed` · Alibaba Model Studio (listing) / Xiaomi (model) · 2026-10-19 · off-topic (text/reasoning/vision model, not 3D/world-model/character-animation/game-engine) and borderline org (Xiaomi, not a tracked company) — not pursued further.
+
+**Verification pass:** Checked each in-window lead above against the corresponding primary source (NVIDIA GeForce news page, Unreal forums, Roblox DevForum thread pages, Alibaba Model Studio release-notes page, PlayStation Blog front page) before excluding it; none met the "new or materially updated, dated 2026-10-13 to 2026-10-20, verified on a primary source" bar. No changes were made to `state/product_seen.json` this run (no new keys, no tier/date changes to existing keys).
