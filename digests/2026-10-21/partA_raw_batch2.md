@@ -4,7 +4,7 @@ Window: last 30 days (2026-09-21 to 2026-10-21). Categories: cs.GR, cs.CV, cs.LG
 ---
 ## GALA: Geometry-Aware Language Model for Controllable Object Arrangement
 - **arXiv:** 2610.28280 · https://arxiv.org/abs/2610.28280
-- **Submitted:** 20 Oct 2026 (v1)
+- **Submitted:** 2026-10-20 (v1)
 - **Authors:** Chucheng Xiang, Runze Wang, Zhi Deng, Ruchao Bao, Yuanwei Zhang, Yuxuan Xie, Hanliu Wang, Liangzhen Fei, Wenzheng Wu, Cheng Wan, Peifeng Li, Zhongyuan Liu, Ligang Liu
 - **Qualifying affiliation(s):** Tencent — Zhi Deng (listed as corresponding author, Tencent, Shenzhen) and several co-authors (e.g. Chucheng Xiang, Runze Wang, Yuxuan Xie, Hanliu Wang) carry dual Tencent + university (USTC / Tsinghua) affiliations per the paper's affiliation block. Not borderline — direct Tencent affiliation confirmed.
 - **Categories:** cs.GR (primary); cs.AI; cs.CV
@@ -24,7 +24,7 @@ Window: last 30 days (2026-09-21 to 2026-10-21). Categories: cs.GR, cs.CV, cs.LG
 ---
 ## Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds
 - **arXiv:** 2610.27999 · https://arxiv.org/abs/2610.27999
-- **Submitted:** 20 Oct 2026 (v1)
+- **Submitted:** 2026-10-20 (v1)
 - **Authors:** Jihai Zhang, Runjia Qian, Kaiqin Kong, Biao Jiang, Puyi Wang, Siru Chen, Tianle Li, Guanjie Chen, Junyi Wu, Chubin Chen, Yuanhang Li, Kaichen Huang, Haobo Zhang, Yangguang Li, Wei Yu, Guibin Chen, Yu Cheng, Yahui Zhou
 - **Qualifying affiliation(s):** SkyworkAI — listed affiliation for Jihai Zhang, Puyi Wang/Siru Chen/Tianle Li/Guanjie Chen/Junyi Wu, Chubin Chen/Yuanhang Li/Kaichen Huang/Haobo Zhang/Yangguang Li, and Wei Yu/Guibin Chen/Yu Cheng/Yahui Zhou (the latter is "Project Lead and Corresponding Author"). **FLAG: borderline** — SkyworkAI (the AI lab of publicly-listed Kunlun Tech) is not on the tracker's default company list, but is kept per the tracker's "clearly comparable top-tier lab" rule given it is the originating lab of the prior Matrix-Game releases.
 - **Categories:** cs.CV (primary); cs.GR
@@ -44,7 +44,7 @@ Window: last 30 days (2026-09-21 to 2026-10-21). Categories: cs.GR, cs.CV, cs.LG
 ---
 ## Decoupling Action from Egocentric Observation for World Simulation
 - **arXiv:** 2610.27946 · https://arxiv.org/abs/2610.27946
-- **Submitted:** 20 Oct 2026 (v1)
+- **Submitted:** 2026-10-20 (v1)
 - **Authors:** Yue Ma, Pengjie Song, Xinyu Wang, Yi He, Zeqian Long, Fangneng Zhan, Kaichen Zhou, Hongyu Liu, Hongfa Wang, Peihao Li, Haoyang Huang, Nan Duan, Qifeng Chen
 - **Qualifying affiliation(s):** JD Explore Academy (JD.com) — appears in the paper's combined institution line ("HKUST, Tsinghua University, Stanford University, MIT, JD Explore Academy") attached to the author group that includes Haoyang Huang and Nan Duan; the arXiv HTML source renders affiliations as one block rather than mapped per author, so the exact author-to-institution pairing within that group is not separable from the source. **FLAG: borderline** — JD.com is named explicitly in the tracker's own guidance as an example company to flag rather than silently drop.
 - **Categories:** cs.CV
@@ -64,7 +64,7 @@ Window: last 30 days (2026-09-21 to 2026-10-21). Categories: cs.GR, cs.CV, cs.LG
 ---
 ## EGGHead: Efficient Generalizable Gaussian Heads from a Single Image
 - **arXiv:** 2610.26898 · https://arxiv.org/abs/2610.26898
-- **Submitted:** 16 Oct 2026 (v1)
+- **Submitted:** 2026-10-16 (v1)
 - **Authors:** Pilseo Park, Andrew Hou, Michel Sarkis, Ning Bi, Yiying Tong, Xiaoming Liu
 - **Qualifying affiliation(s):** Qualcomm Technologies, Inc. — Ning Bi (listed with current Qualcomm Technologies, Inc. affiliation); Michel Sarkis is listed as "Formerly of Qualcomm Technologies." Qualcomm is on the tracker's default list, so no borderline flag on the company itself.
 - **Categories:** cs.CV

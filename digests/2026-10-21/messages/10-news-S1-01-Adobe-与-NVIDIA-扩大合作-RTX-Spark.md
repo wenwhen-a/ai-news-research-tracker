@@ -1,0 +1,14 @@
+**[新闻 1] Adobe 与 NVIDIA 扩大合作，RTX Spark 加速 Photoshop、Premiere 及 Substance 3D 等创作工具 AI 性能**
+- **日期：** 2026-10-15
+- **来源链接：** <https://news.adobe.com/news/2026/10/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation>
+- **核心事实：**
+  - Adobe 与 NVIDIA 宣布扩大合作，联合优化 Photoshop、Premiere、Substance 3D、Frame.io 及 Brand Concierge 等产品，使其在 NVIDIA RTX Spark 超级芯片上获得更快的 AI 处理能力，官方称相关 AI 处理、编辑、调色及特效速度最高提升 2 倍。
+  - Photoshop 以"移除工具"、高斯模糊、Light Leaks 为例，Premiere 以"增强语音"、"对象遮罩"为例；游戏资产制作常用工具 Substance 3D Painter 的贴图制作中最繁重的步骤同样获得加速。
+  - Frame.io 云端工作流改用 NVIDIA NVDEC 硬件解码及 TensorRT + CUDA 做内容预处理与嵌入生成，官方在部分转码与搜索工作负载的早期测试中观察到嵌入生成速度提升约 5 倍、P95 处理延迟改善 4-5 倍、搜索代理文件体积缩小约 80%。
+  - 企业级对话产品 Brand Concierge 将基于 NVIDIA Nemotron 开放模型运行，计划 2026 年晚些时候向企业客户开放。
+- **背景与起因：**
+  - 此次合作是 Adobe 与 NVIDIA 今年 3 月已宣布的战略合作的延伸，此前内容包括 Frame.io 媒体导入与智能分析的 GPU 加速，以及 Substance 3D、Adobe Firefly Foundry 和企业级 3D 数字孪生工作流的持续开发。
+  - NVIDIA 方面称，创意工作流正日益走向多模态，AI 智能体正在帮助创作者在已经在用的 Adobe 应用内完成更多工作，因此需要底层性能进一步优化配合。
+- **结果与进展：**
+  - 双方计划在 11 月 10 日至 12 日举行的 Adobe MAX 大会上，与硬件合作伙伴一起展示创作者相关的更多进展。
+  - Adobe 创意专业产品营销副总裁 Deepa Subramaniam 表示性能提升能帮助创作者专注于自己的创意与技艺；NVIDIA 本地 AI 副总裁 Jason Paul 表示"搭载 RTX Spark 的 Adobe 优化工具可实现最高 2 倍的性能提升，加速这些新工作流程"。

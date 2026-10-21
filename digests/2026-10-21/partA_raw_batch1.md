@@ -1,7 +1,7 @@
 ---
 ## Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs
 - **arXiv:** 2610.28632 · https://arxiv.org/abs/2610.28632
-- **Submitted:** Tue, 20 Oct 2026 17:59:56 UTC (v1)
+- **Submitted:** 2026-10-20 (v1)
 - **Authors:** Noam Rotstein, Yoad Tewel, Chen Tessler, Haggai Maron, Gal Chechik, Or Litany, Yoni Kasten, Yuval Atzmon
 - **Qualifying affiliation(s):** NVIDIA — all eight authors carry an NVIDIA affiliation marker in the paper's author block; several also hold secondary academic affiliations (Technion — Rotstein, Maron, Litany, Kasten; Bar-Ilan University — Chechik)
 - **Categories:** cs.CV (primary); cs.AI, cs.GR, cs.LG, cs.RO (cross-listed)
@@ -21,7 +21,7 @@
 ---
 ## SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images
 - **arXiv:** 2610.28585 · https://arxiv.org/abs/2610.28585
-- **Submitted:** Tue, 20 Oct 2026 17:39:42 UTC (v1); accepted at the CoRL 2026 Agentic Robotics Workshop per the abstract page
+- **Submitted:** 2026-10-20 (v1)
 - **Authors:** Rundong Luo, Yunong Liu, Di Cao, Matthew Tancik, Shyamal Buch, Colton Stearns, Wenqi Xian
 - **Qualifying affiliation(s):** Luma AI — the paper's affiliation block lists "Luma AI" and "Cornell University," with a footnote "Work done during an internship at Luma AI," confirming at least one author is Luma AI-affiliated (individual author-to-institution mapping was not resolvable from the extracted HTML). **FLAG: borderline** — Luma AI is not on the tracked-company list; it is a well-known applied-AI company for generative 3D/video (Genie, Dream Machine/Ray2). Kept per the skill's "when unsure, flag rather than drop" rule, for a human to judge.
 - **Categories:** cs.RO (primary); cs.AI, cs.CV
@@ -41,7 +41,7 @@
 ---
 ## OverSeer: Multi-Agent World Models Beyond What Agents See
 - **arXiv:** 2610.28554 · https://arxiv.org/abs/2610.28554
-- **Submitted:** Tue, 20 Oct 2026 17:17:59 UTC (v1)
+- **Submitted:** 2026-10-20 (v1)
 - **Authors:** Runjia Li, Kam Woh Ng, Minghao Chen, Junlin Han, Jianyuan Wang, Zhaochong An, Juan-Manuel Perez-Rua, Andrea Vedaldi, Shikun Liu
 - **Qualifying affiliation(s):** Meta (Meta AI) — Li, Ng, Han, Wang, An, Perez-Rua, Vedaldi, and Liu are listed with a Meta AI affiliation (Li, Han, Wang, and Vedaldi also list University of Oxford); Chen is listed with University of Oxford only
 - **Categories:** cs.CV
@@ -61,7 +61,7 @@
 ---
 ## Latent Bridge: From Video Latents to 3D Geometry via Feature Alignment
 - **arXiv:** 2610.28521 · https://arxiv.org/abs/2610.28521
-- **Submitted:** Tue, 20 Oct 2026 16:57:49 UTC (v1)
+- **Submitted:** 2026-10-20 (v1)
 - **Authors:** Shuai Zhang, Zhanpeng Ouyang, Zhengqing Chen, Ruohong Mei, Shaoyu Chen, Weiqiang Ren, Hui Sun, Qian Zhang, Wenyu Liu, Xinggang Wang
 - **Qualifying affiliation(s):** Horizon Robotics — the paper gives one joint affiliation block ("Huazhong University of Science and Technology, Horizon Robotics") without mapping individual authors to either institution. **FLAG: borderline** — Horizon Robotics is not on the tracked-company list; it is a Chinese autonomous-driving/robotics AI chip and software company (publicly listed), kept here per the skill's "when unsure, flag rather than drop" rule for a human to judge as a possibly comparable industry lab.
 - **Categories:** cs.CV
@@ -81,7 +81,7 @@
 ---
 ## StreamEval: Evaluating Interactive Streaming Video Generation Models
 - **arXiv:** 2610.28402 · https://arxiv.org/abs/2610.28402
-- **Submitted:** Tue, 20 Oct 2026 15:47:43 UTC (v1)
+- **Submitted:** 2026-10-20 (v1)
 - **Authors:** Credited collectively on the abstract page as "StreamEval Team"; named in the paper's Contributions section as Jungang Li, Ziqi Huang, Tian Ye, Haocheng Xi, Yuezhou Hu, Kai Jiang, Zhifei Li, Yichuan Wang, Shuo Yang, Zhiqiu Lin, Zian Zheng, Alberto Taiuti, Jintao Zhang
 - **Qualifying affiliation(s):** NVIDIA — the paper's institutional-logo credit block lists seven affiliations (Tsinghua University, NVIDIA, CMU, UC Berkeley, Princeton, NUS, Reactor); this affiliation is confirmed directly from the primary source (the paper's own affiliation block), not the pre-screen keyword hit, but the HTML rendering does not map any specific named author to NVIDIA individually.
 - **Categories:** cs.CV
