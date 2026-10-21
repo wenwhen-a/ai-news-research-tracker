@@ -1,0 +1,292 @@
+{
+  "as_of": "2026-10-21",
+  "cutoff": "2026-10-20",
+  "window_days": 1,
+  "summary": {
+    "input_items": 13,
+    "denied_source": 0,
+    "in_window": 13,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 13,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 13,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 12,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "据报道私募股权机构曾探讨收购Xbox业务，估值高达1500亿美元",
+        "url": "https://www.invenglobal.com/articles/27491/private-equity-firms-reportedly-explored-xbox-acquisition-valuation-up-to-200-trillion-won",
+        "date": "2026-10-21",
+        "summary": "据The Information报道，多家私募股权机构近几个月曾联合探讨收购微软Xbox业务，估值在1000亿至1500亿美元之间，但谈判未进入与微软的正式接触阶段；微软发言人回应称\"Xbox不出售\"。若成真将是游戏行业史上最大规模的并购案，超过微软此前687亿美元收购动视暴雪的交易。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据报道私募股权机构曾探讨收购Xbox业务，估值高达1500亿美元",
+          "url": "https://www.invenglobal.com/articles/27491/private-equity-firms-reportedly-explored-xbox-acquisition-valuation-up-to-200-trillion-won",
+          "date": "2026-10-21",
+          "summary": "据The Information报道，多家私募股权机构近几个月曾联合探讨收购微软Xbox业务，估值在1000亿至1500亿美元之间，但谈判未进入与微软的正式接触阶段；微软发言人回应称\"Xbox不出售\"。若成真将是游戏行业史上最大规模的并购案，超过微软此前687亿美元收购动视暴雪的交易。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "外媒报道称下一代Xbox主机\"Project Helix\"或定档2028年，售价1200至1800美元",
+        "url": "https://www.videogameschronicle.com/news/report-claims-next-xbox-is-targeting-2028-and-could-cost-between-1200-and-1800/",
+        "date": "2026-10-20",
+        "summary": "据Fortune对Xbox CEO Asha Sharma的专访报道，微软下一代主机代号\"Project Helix\"内部定价预估在1200至1800美元之间（除非微软选择补贴成本），目标于2028年假期季发售；另一款新掌机则计划2027年假期季推出，Game Pass也可能改为可选菜单式订阅。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "外媒报道称下一代Xbox主机\"Project Helix\"或定档2028年，售价1200至1800美元",
+          "url": "https://www.videogameschronicle.com/news/report-claims-next-xbox-is-targeting-2028-and-could-cost-between-1200-and-1800/",
+          "date": "2026-10-20",
+          "summary": "据Fortune对Xbox CEO Asha Sharma的专访报道，微软下一代主机代号\"Project Helix\"内部定价预估在1200至1800美元之间（除非微软选择补贴成本），目标于2028年假期季发售；另一款新掌机则计划2027年假期季推出，Game Pass也可能改为可选菜单式订阅。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "PEGI收紧氪金抽卡机制评级标准，《EA Sports FC》《Pokémon GO》等评级升至16岁",
+        "url": "https://www.videogameschronicle.com/news/ea-sports-fc-and-pokemon-go-age-ratings-bumped-to-16-in-pegi-loot-box-crackdown/",
+        "date": "2026-10-21",
+        "summary": "欧洲泛欧游戏信息组织（PEGI）开始对部分含付费随机道具（loot box）的既有数字版游戏重新评级至16岁，受影响作品包括《EA Sports FC》系列、《Pokémon GO》、《Pokémon TCG Pocket》和《Zenless Zone Zero》等，调整将在10月内陆续推行，此举意在与德国USK等机构的标准看齐。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "PEGI收紧氪金抽卡机制评级标准，《EA Sports FC》《Pokémon GO》等评级升至16岁",
+          "url": "https://www.videogameschronicle.com/news/ea-sports-fc-and-pokemon-go-age-ratings-bumped-to-16-in-pegi-loot-box-crackdown/",
+          "date": "2026-10-21",
+          "summary": "欧洲泛欧游戏信息组织（PEGI）开始对部分含付费随机道具（loot box）的既有数字版游戏重新评级至16岁，受影响作品包括《EA Sports FC》系列、《Pokémon GO》、《Pokémon TCG Pocket》和《Zenless Zone Zero》等，调整将在10月内陆续推行，此举意在与德国USK等机构的标准看齐。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "EA Sports官方宣布拳击游戏系列《Fight Night》将回归",
+        "url": "https://www.videogameschronicle.com/news/ea-sports-is-officially-reviving-its-fight-night-boxing-series/",
+        "date": "2026-10-20",
+        "summary": "EA Sports通过社交媒体宣布将重启沉寂十余年的拳击游戏系列《Fight Night》，上一部作品为2011年的《Fight Night Champion》；该消息恰逢EA被沙特公共投资基金（PIF）私有化收购交易完成之际。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "EA Sports官方宣布拳击游戏系列《Fight Night》将回归",
+          "url": "https://www.videogameschronicle.com/news/ea-sports-is-officially-reviving-its-fight-night-boxing-series/",
+          "date": "2026-10-20",
+          "summary": "EA Sports通过社交媒体宣布将重启沉寂十余年的拳击游戏系列《Fight Night》，上一部作品为2011年的《Fight Night Champion》；该消息恰逢EA被沙特公共投资基金（PIF）私有化收购交易完成之际。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "游戏风投机构Griffin Gaming Partners与好莱坞经纪公司Entertainment 360联合成立影视化公司Hitpoint Entertainment",
+        "url": "https://www.gamedeveloper.com/business/griffin-gaming-partners-entertainment-360-jointly-unveil-production-company-hitpoint-entertainment",
+        "date": "2026-10-20",
+        "summary": "游戏行业风险投资机构Griffin Gaming Partners与好莱坞人才管理及制片公司Entertainment 360合资成立新公司Hitpoint Entertainment，专注于将电子游戏IP开发改编为影视作品，涵盖动作、喜剧等多种类型，运作模式类似此前参与《刺猬索尼克》改编的Story Kitchen。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "游戏风投机构Griffin Gaming Partners与好莱坞经纪公司Entertainment 360联合成立影视化公司Hitpoint Entertainment",
+          "url": "https://www.gamedeveloper.com/business/griffin-gaming-partners-entertainment-360-jointly-unveil-production-company-hitpoint-entertainment",
+          "date": "2026-10-20",
+          "summary": "游戏行业风险投资机构Griffin Gaming Partners与好莱坞人才管理及制片公司Entertainment 360合资成立新公司Hitpoint Entertainment，专注于将电子游戏IP开发改编为影视作品，涵盖动作、喜剧等多种类型，运作模式类似此前参与《刺猬索尼克》改编的Story Kitchen。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Wargaming联合创始人新设立的Mika Games获Flint Capital领投1000万美元融资",
+        "url": "https://mobilegamer.biz/wargaming-cofounders-mika-games-raises-10m-to-back-studios-beyond-soft-launch/",
+        "date": "2026-10-21",
+        "summary": "由Wargaming联合创始人Nick Katselapov创立的Mika Games完成由Flint Capital领投的1000万美元融资，用于帮助移动游戏工作室跨过\"软发布后扩张\"的资金瓶颈，其投资组合已包括Legendale、Punko等五个工作室，目标总投放资金达5000万美元。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Wargaming联合创始人新设立的Mika Games获Flint Capital领投1000万美元融资",
+          "url": "https://mobilegamer.biz/wargaming-cofounders-mika-games-raises-10m-to-back-studios-beyond-soft-launch/",
+          "date": "2026-10-21",
+          "summary": "由Wargaming联合创始人Nick Katselapov创立的Mika Games完成由Flint Capital领投的1000万美元融资，用于帮助移动游戏工作室跨过\"软发布后扩张\"的资金瓶颈，其投资组合已包括Legendale、Punko等五个工作室，目标总投放资金达5000万美元。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Nexon将举办\"FC Mobile家庭杯\"，联合韩国职业足球联赛12家俱乐部",
+        "url": "https://www.invenglobal.com/articles/27478/nexon-hosts-fc-mobile-family-cup-featuring-12-k-league-clubs",
+        "date": "2026-10-20",
+        "summary": "Nexon宣布将与韩国职业足球联盟（K League）合作举办\"EA SPORTS FC Mobile家庭杯\"赛事，联动K League下属12家俱乐部，面向家庭用户推广该手游产品，属于电竞商业化合作的新尝试。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Nexon将举办\"FC Mobile家庭杯\"，联合韩国职业足球联赛12家俱乐部",
+          "url": "https://www.invenglobal.com/articles/27478/nexon-hosts-fc-mobile-family-cup-featuring-12-k-league-clubs",
+          "date": "2026-10-20",
+          "summary": "Nexon宣布将与韩国职业足球联盟（K League）合作举办\"EA SPORTS FC Mobile家庭杯\"赛事，联动K League下属12家俱乐部，面向家庭用户推广该手游产品，属于电竞商业化合作的新尝试。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《Among Us》开发商Innersloth联合创始人警告开发者\"市面上存在很糟糕的发行合约\"",
+        "url": "https://www.gamedeveloper.com/business/outersloth-co-founder-warns-devs-there-are-some-very-bad-deals-out-there-",
+        "date": "2026-10-20",
+        "summary": "《Among Us》开发商Innersloth联合创始人公开提醒独立游戏开发者警惕市面上条款苛刻的发行及融资合约，呼吁开发者在签约前仔细评估合作方提供的条件。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《Among Us》开发商Innersloth联合创始人警告开发者\"市面上存在很糟糕的发行合约\"",
+          "url": "https://www.gamedeveloper.com/business/outersloth-co-founder-warns-devs-there-are-some-very-bad-deals-out-there-",
+          "date": "2026-10-20",
+          "summary": "《Among Us》开发商Innersloth联合创始人公开提醒独立游戏开发者警惕市面上条款苛刻的发行及融资合约，呼吁开发者在签约前仔细评估合作方提供的条件。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Fuse Games CEO详解《星球大战：银河赛车手》的联合开发框架",
+        "url": "https://www.gamedeveloper.com/production/fuse-games-ceo-breaks-down-codev-framework-for-star-wars-galactic-racer",
+        "date": "2026-10-20",
+        "summary": "《Star Wars: Galactic Racer》开发商Fuse Games的CEO Matt Webster介绍了该作采用的分布式协作开发模式，由约75人的核心团队联合外包、外部开发及联合开发三类合作伙伴共同完成，制作名单涉及约1100个职位；该游戏Steam同时在线人数常达约1.8万。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Fuse Games CEO详解《星球大战：银河赛车手》的联合开发框架",
+          "url": "https://www.gamedeveloper.com/production/fuse-games-ceo-breaks-down-codev-framework-for-star-wars-galactic-racer",
+          "date": "2026-10-20",
+          "summary": "《Star Wars: Galactic Racer》开发商Fuse Games的CEO Matt Webster介绍了该作采用的分布式协作开发模式，由约75人的核心团队联合外包、外部开发及联合开发三类合作伙伴共同完成，制作名单涉及约1100个职位；该游戏Steam同时在线人数常达约1.8万。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "DreamWorks《怪物史瑞克2》高清重制版公布，将登陆多平台",
+        "url": "https://www.videogameschronicle.com/news/a-remaster-of-the-shrek-2-game-from-2004-has-been-announced-via-a-gta-like-trailer/",
+        "date": "2026-10-20",
+        "summary": "2004年游戏《怪物史瑞克2》的高清重制版正式公布，将登陆PS5、Xbox Series、Switch 2、Switch及PC平台，官方以仿《GTA》风格预告片进行宣传造势。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "DreamWorks《怪物史瑞克2》高清重制版公布，将登陆多平台",
+          "url": "https://www.videogameschronicle.com/news/a-remaster-of-the-shrek-2-game-from-2004-has-been-announced-via-a-gta-like-trailer/",
+          "date": "2026-10-20",
+          "summary": "2004年游戏《怪物史瑞克2》的高清重制版正式公布，将登陆PS5、Xbox Series、Switch 2、Switch及PC平台，官方以仿《GTA》风格预告片进行宣传造势。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "育碧开放世界赛车游戏《Riders Republic》将于12月9日登陆Switch 2，新增离线模式",
+        "url": "https://www.gematsu.com/2026/10/riders-republic-coming-to-switch-2-on-december-9-alongside-offline-play",
+        "date": "2026-10-20",
+        "summary": "育碧宣布开放世界极限运动游戏《Riders Republic》将于12月9日登陆Nintendo Switch 2平台，并同步为游戏新增离线游玩模式。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "育碧开放世界赛车游戏《Riders Republic》将于12月9日登陆Switch 2，新增离线模式",
+          "url": "https://www.gematsu.com/2026/10/riders-republic-coming-to-switch-2-on-december-9-alongside-offline-play",
+          "date": "2026-10-20",
+          "summary": "育碧宣布开放世界极限运动游戏《Riders Republic》将于12月9日登陆Nintendo Switch 2平台，并同步为游戏新增离线游玩模式。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Pearl Abyss公布《crimson Desert》付费DLC\"Charting the Unknown\"新预告",
+        "url": "https://www.gematsu.com/2026/10/crimson-desert-dlc-charting-the-unknown-features-overview-trailer",
+        "date": "2026-10-20",
+        "summary": "Pearl Abyss开发的开放世界动作游戏《Crimson Desert》发布其首个付费DLC\"Charting the Unknown\"的\"内容概览\"预告片，展示新增玩法要素。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Pearl Abyss公布《crimson Desert》付费DLC\"Charting the Unknown\"新预告",
+          "url": "https://www.gematsu.com/2026/10/crimson-desert-dlc-charting-the-unknown-features-overview-trailer",
+          "date": "2026-10-20",
+          "summary": "Pearl Abyss开发的开放世界动作游戏《Crimson Desert》发布其首个付费DLC\"Charting the Unknown\"的\"内容概览\"预告片，展示新增玩法要素。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "CD Projekt Red《赛博朋克2077》2.5版本更新将于10月22日推出",
+        "url": "https://www.gematsu.com/2026/10/cyberpunk-2077-version-2-5-update-launches-october-22",
+        "date": "2026-10-20",
+        "summary": "CD Projekt Red宣布《赛博朋克2077》2.5版本更新将于10月22日正式上线，为这款上市多年的开放世界RPG带来新一轮内容与体验优化。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "CD Projekt Red《赛博朋克2077》2.5版本更新将于10月22日推出",
+          "url": "https://www.gematsu.com/2026/10/cyberpunk-2077-version-2-5-update-launches-october-22",
+          "date": "2026-10-20",
+          "summary": "CD Projekt Red宣布《赛博朋克2077》2.5版本更新将于10月22日正式上线，为这款上市多年的开放世界RPG带来新一轮内容与体验优化。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

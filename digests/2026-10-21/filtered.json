@@ -1,0 +1,212 @@
+{
+  "as_of": "2026-10-21",
+  "cutoff": "2026-10-14",
+  "window_days": 7,
+  "summary": {
+    "input_items": 9,
+    "denied_source": 0,
+    "in_window": 9,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 9,
+    "duplicate_clusters": 0,
+    "section1_count": 4,
+    "section2_count": 5,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 2,
+    "previously_covered_count": 7
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "NVIDIA发布DLSS 4.5/5升级浪潮,《使命召唤:现代战争4》《赛博朋克2077》等多款大作同步跟进",
+        "url": "https://www.nvidia.com/en-us/geforce/news/dlss-4-5-cyberpunk-2077-planet-zoo-2-modern-warfare-4/",
+        "date": "2026-10-21",
+        "summary": "NVIDIA宣布新一批游戏接入DLSS 4.5和DLSS 5技术:《使命召唤:现代战争4》上线支持DLSS Super Resolution、Frame Generation及RTX 50系列专属的动态多帧生成(最高6倍插帧);《赛博朋克2077》10月22日更新将把现有多帧生成、光线重构和超分辨率升级为第二代AI模型;《幻影之刃:零》《动物园之星2》《王国之心:荒野传说》(Crimson Desert)和《THE FINALS》也相继加入DLSS 4.5或RTXGI全局光照支持。文中还提到,《NBA 2K27》第二赛季换装的DLSS 5神经渲染模型比今年3月发布时整体提速10倍,在RTX 50系列、RTX Spark笔记本和GeForce NOW上帧率最高提升1.4倍。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "NVIDIA发布DLSS 4.5/5升级浪潮,《使命召唤:现代战争4》《赛博朋克2077》等多款大作同步跟进",
+          "url": "https://www.nvidia.com/en-us/geforce/news/dlss-4-5-cyberpunk-2077-planet-zoo-2-modern-warfare-4/",
+          "date": "2026-10-21",
+          "summary": "NVIDIA宣布新一批游戏接入DLSS 4.5和DLSS 5技术:《使命召唤:现代战争4》上线支持DLSS Super Resolution、Frame Generation及RTX 50系列专属的动态多帧生成(最高6倍插帧);《赛博朋克2077》10月22日更新将把现有多帧生成、光线重构和超分辨率升级为第二代AI模型;《幻影之刃:零》《动物园之星2》《王国之心:荒野传说》(Crimson Desert)和《THE FINALS》也相继加入DLSS 4.5或RTXGI全局光照支持。文中还提到,《NBA 2K27》第二赛季换装的DLSS 5神经渲染模型比今年3月发布时整体提速10倍,在RTX 50系列、RTX Spark笔记本和GeForce NOW上帧率最高提升1.4倍。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Meta发布沉浸式Web SDK 1.0,内置AI原生开发工具支持编程智能体直接构建VR场景",
+        "url": "https://developers.meta.com/vr/blog/immersive-web-sdk-1-0/",
+        "date": "2026-10-14",
+        "summary": "Meta发布开源的Immersive Web SDK(IWSDK)1.0版本,面向手机、电脑、头显及Meta VR Glasses构建沉浸式网页应用,基于Three.js和高性能ECS架构。新版本每个项目都自带MCP服务器和智能体技能,允许编程智能体(coding agent)查看场景、操控手柄与手势输入、暂停检查引擎状态,并首次支持智能体直接连接Meta Quest设备运行测试(例如在Quest 3上实机调优帧率至90FPS);1.0还新增“智能体场景编辑器”(Agentic Scene Composer),让开发者与AI智能体共同编辑同一个可交互3D场景,并为尚未发售的Meta VR Glasses提供注视+手势交互适配方案。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "Meta发布沉浸式Web SDK 1.0,内置AI原生开发工具支持编程智能体直接构建VR场景",
+          "url": "https://developers.meta.com/vr/blog/immersive-web-sdk-1-0/",
+          "date": "2026-10-14",
+          "summary": "Meta发布开源的Immersive Web SDK(IWSDK)1.0版本,面向手机、电脑、头显及Meta VR Glasses构建沉浸式网页应用,基于Three.js和高性能ECS架构。新版本每个项目都自带MCP服务器和智能体技能,允许编程智能体(coding agent)查看场景、操控手柄与手势输入、暂停检查引擎状态,并首次支持智能体直接连接Meta Quest设备运行测试(例如在Quest 3上实机调优帧率至90FPS);1.0还新增“智能体场景编辑器”(Agentic Scene Composer),让开发者与AI智能体共同编辑同一个可交互3D场景,并为尚未发售的Meta VR Glasses提供注视+手势交互适配方案。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "NVIDIA为GeForce NOW云游戏上线DLSS 4.5画质控制选项",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
+        "date": "2026-10-15",
+        "summary": "NVIDIA宣布GeForce NOW云游戏服务新增DLSS 4.5控制选项,会员无需本地高端硬件即可调节超分辨率、动态多帧生成和光线重构三项参数;使用RTX 5080云端配置的Ultimate会员可获得包括最高4倍动态多帧生成的完整选项,相关设置已在Windows、macOS、Chrome OS和SteamOS客户端上线,007 First Light、《控制:共鸣》等游戏为早期支持案例。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "NVIDIA为GeForce NOW云游戏上线DLSS 4.5画质控制选项",
+          "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
+          "date": "2026-10-15",
+          "summary": "NVIDIA宣布GeForce NOW云游戏服务新增DLSS 4.5控制选项,会员无需本地高端硬件即可调节超分辨率、动态多帧生成和光线重构三项参数;使用RTX 5080云端配置的Ultimate会员可获得包括最高4倍动态多帧生成的完整选项,相关设置已在Windows、macOS、Chrome OS和SteamOS客户端上线,007 First Light、《控制:共鸣》等游戏为早期支持案例。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Adobe与NVIDIA扩大合作,加速Photoshop、Premiere及Substance 3D等创作工具的AI处理速度",
+        "url": "https://news.adobe.com/news/2026/10/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+        "date": "2026-10-15",
+        "summary": "Adobe与NVIDIA宣布扩大合作,针对NVIDIA RTX Spark超级芯片优化Photoshop、Premiere和Substance 3D(游戏资产制作常用工具),据称AI处理、编辑、调色等效果最高可提速2倍;企业级对话产品Brand Concierge将基于NVIDIA Nemotron开放模型运行,并将在NVIDIA.com上部署;此次合作是双方今年3月达成的战略合作的延伸,双方计划在11月的Adobe MAX大会上展示更多进展。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "Adobe与NVIDIA扩大合作,加速Photoshop、Premiere及Substance 3D等创作工具的AI处理速度",
+          "url": "https://news.adobe.com/news/2026/10/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+          "date": "2026-10-15",
+          "summary": "Adobe与NVIDIA宣布扩大合作,针对NVIDIA RTX Spark超级芯片优化Photoshop、Premiere和Substance 3D(游戏资产制作常用工具),据称AI处理、编辑、调色等效果最高可提速2倍;企业级对话产品Brand Concierge将基于NVIDIA Nemotron开放模型运行,并将在NVIDIA.com上部署;此次合作是双方今年3月达成的战略合作的延伸,双方计划在11月的Adobe MAX大会上展示更多进展。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "库洛科技投资AI公司言之域科技，占股15%押注\"会呼吸\"的虚拟角色技术",
+        "url": "https://www.youxituoluo.com/534962.html",
+        "date": "2026-10-14",
+        "summary": "据游戏陀螺报道，《鸣潮》《战双帕弥什》开发商广州库洛科技对深圳AI创业公司言之域科技完成天使轮投资，持股15%，库洛创始人刘胜加入对方董事会，这是库洛首次公开投资AI企业。言之域旗下AI配音平台Vocu（悟声）称可用3秒音频以超99.5%的相似度克隆声音，并在HuggingFace TTS Arena测试中排名第一；其3D角色驱动系统TalkiVerse（元语）致力于语音、动作与表情的端到端联合生成。据伽马数据统计，2026年上半年中国TOP50游戏公司共发生108起AI相关投资，已超过2025全年总量。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "库洛科技投资AI公司言之域科技，占股15%押注\"会呼吸\"的虚拟角色技术",
+          "url": "https://www.youxituoluo.com/534962.html",
+          "date": "2026-10-14",
+          "summary": "据游戏陀螺报道，《鸣潮》《战双帕弥什》开发商广州库洛科技对深圳AI创业公司言之域科技完成天使轮投资，持股15%，库洛创始人刘胜加入对方董事会，这是库洛首次公开投资AI企业。言之域旗下AI配音平台Vocu（悟声）称可用3秒音频以超99.5%的相似度克隆声音，并在HuggingFace TTS Arena测试中排名第一；其3D角色驱动系统TalkiVerse（元语）致力于语音、动作与表情的端到端联合生成。据伽马数据统计，2026年上半年中国TOP50游戏公司共发生108起AI相关投资，已超过2025全年总量。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "游戏NPC\"记忆\"成本几何：从米哈游云栖演讲到《不问凡尘》，游戏陀螺拆解技术与账单",
+        "url": "https://www.youxituoluo.com/534970.html",
+        "date": "2026-10-19",
+        "summary": "游戏陀螺文章深度拆解\"让NPC记住玩家\"的技术实现与真实成本：米哈游在2026年云栖大会上介绍《星布谷地》采用统一Agent架构与\"超智记忆系统\"，使部分事件可在角色之间通过社交传播；文章还提到字节跳动《不问凡尘》中NPC对话会随亲密度与过往事件变化，以及\"代号：云端\"团队自研的Mnemo记忆系统。文章以公开API价格估算，10万月活、人均每月100轮对话规模的NPC记忆系统，每月模型推理与记忆处理成本约6908美元，若换用豆包Seed 2.0 Mini则约合6000元人民币，凸显AI NPC长期记忆规模化背后的真实成本与工程取舍（如保留近期对话、压缩旧记忆、按重要性检索等）。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "游戏NPC\"记忆\"成本几何：从米哈游云栖演讲到《不问凡尘》，游戏陀螺拆解技术与账单",
+          "url": "https://www.youxituoluo.com/534970.html",
+          "date": "2026-10-19",
+          "summary": "游戏陀螺文章深度拆解\"让NPC记住玩家\"的技术实现与真实成本：米哈游在2026年云栖大会上介绍《星布谷地》采用统一Agent架构与\"超智记忆系统\"，使部分事件可在角色之间通过社交传播；文章还提到字节跳动《不问凡尘》中NPC对话会随亲密度与过往事件变化，以及\"代号：云端\"团队自研的Mnemo记忆系统。文章以公开API价格估算，10万月活、人均每月100轮对话规模的NPC记忆系统，每月模型推理与记忆处理成本约6908美元，若换用豆包Seed 2.0 Mini则约合6000元人民币，凸显AI NPC长期记忆规模化背后的真实成本与工程取舍（如保留近期对话、压缩旧记忆、按重要性检索等）。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "AI换皮、山寨泛滥：游戏陀螺揭秘多人小游戏爆款背后的克隆乱象",
+        "url": "https://www.youxituoluo.com/534959.html",
+        "date": "2026-10-14",
+        "summary": "游戏陀螺报道称，多人合作游戏《Needle in a Haystack Simulator》预告片在X平台获5000万播放后一个月内，Steam上涌现十余款借助AI工具快速\"换皮\"而成的山寨作品，图标与封面带有明显AI生成痕迹，其中一款甚至登上Steam新品测试榜前十。文章指出，AI正在加速多人小游戏品类的同质化与内卷，低价、低门槛、低面数卡通美术已成为该品类标配，玩家兴趣消退速度也在加快。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "AI换皮、山寨泛滥：游戏陀螺揭秘多人小游戏爆款背后的克隆乱象",
+          "url": "https://www.youxituoluo.com/534959.html",
+          "date": "2026-10-14",
+          "summary": "游戏陀螺报道称，多人合作游戏《Needle in a Haystack Simulator》预告片在X平台获5000万播放后一个月内，Steam上涌现十余款借助AI工具快速\"换皮\"而成的山寨作品，图标与封面带有明显AI生成痕迹，其中一款甚至登上Steam新品测试榜前十。文章指出，AI正在加速多人小游戏品类的同质化与内卷，低价、低门槛、低面数卡通美术已成为该品类标配，玩家兴趣消退速度也在加快。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "腾讯游戏人生发布AI服务体系，助力合作伙伴提效、景德镇瓷都文化传播",
+        "url": "https://www.yzwb.net/news/ty/202610/t20261019_404182.html",
+        "date": "2026-10-19",
+        "summary": "腾讯游戏人生2026全球合作伙伴大会于10月15日线上举行，发布覆盖需求识别、方案生成、赛事运营与门店经营的全链路AI服务体系，包括合作方案定制助手、AI赛事运营助手和网咖\"小卡\"经营助手，并预告即将上线可通过微信/企微自然语言交互的AI合作经理。腾讯方面称该体系可将合作需求匹配时间从1-2周缩短至1小时以内；大会还展示了利用AI数字人与AI 3D生成技术呈现景德镇陶瓷文化遗产的案例，并联动10款游戏推出主题皮肤与活动。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "腾讯游戏人生发布AI服务体系，助力合作伙伴提效、景德镇瓷都文化传播",
+          "url": "https://www.yzwb.net/news/ty/202610/t20261019_404182.html",
+          "date": "2026-10-19",
+          "summary": "腾讯游戏人生2026全球合作伙伴大会于10月15日线上举行，发布覆盖需求识别、方案生成、赛事运营与门店经营的全链路AI服务体系，包括合作方案定制助手、AI赛事运营助手和网咖\"小卡\"经营助手，并预告即将上线可通过微信/企微自然语言交互的AI合作经理。腾讯方面称该体系可将合作需求匹配时间从1-2周缩短至1小时以内；大会还展示了利用AI数字人与AI 3D生成技术呈现景德镇陶瓷文化遗产的案例，并联动10款游戏推出主题皮肤与活动。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "印度AI游戏工作室Spill Games完成1050万美元A轮融资",
+        "url": "https://www.pocketgamer.biz/indias-spill-games-raises-105m-in-series-a-funding/",
+        "date": "2026-10-15",
+        "summary": "印度手游工作室Spill Games完成1050万美元A轮融资。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "印度AI游戏工作室Spill Games完成1050万美元A轮融资",
+          "url": "https://www.pocketgamer.biz/indias-spill-games-raises-105m-in-series-a-funding/",
+          "date": "2026-10-15",
+          "summary": "印度手游工作室Spill Games完成1050万美元A轮融资。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
