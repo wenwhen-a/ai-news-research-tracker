@@ -1,0 +1,392 @@
+{
+  "as_of": "2026-10-22",
+  "cutoff": "2026-10-21",
+  "window_days": 1,
+  "summary": {
+    "input_items": 18,
+    "denied_source": 0,
+    "in_window": 18,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 18,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 18,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 17,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "EA关闭BioWare工作室并取消新《质量效应》项目",
+        "url": "https://www.videogameschronicle.com/news/ea-is-closing-bioware-and-cancelling-the-next-mass-effect/",
+        "date": "2026-10-21",
+        "summary": "EA closing BioWare, ~400 EA layoffs, next Mass Effect cancelled.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "EA关闭BioWare工作室并取消新《质量效应》项目",
+          "url": "https://www.videogameschronicle.com/news/ea-is-closing-bioware-and-cancelling-the-next-mass-effect/",
+          "date": "2026-10-21",
+          "summary": "EA closing BioWare, ~400 EA layoffs, next Mass Effect cancelled.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Capcom确认数据泄露影响超1177万个Capcom ID账号",
+        "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/",
+        "date": "2026-10-22",
+        "summary": "Capcom data breach, 11,774,247 accounts, no credit card data exposed.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Capcom确认数据泄露影响超1177万个Capcom ID账号",
+          "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/",
+          "date": "2026-10-22",
+          "summary": "Capcom data breach, 11,774,247 accounts, no credit card data exposed.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《赛博朋克2077》两年后再推重大更新",
+        "url": "https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-yet-another-big-update-2-years-cd-projekt-claimed-it-was-finished/",
+        "date": "2026-10-21",
+        "summary": "CD Projekt releases new major Cyberpunk 2077 update plus free Edgerunners 2 tie-in content.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《赛博朋克2077》两年后再推重大更新",
+          "url": "https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-yet-another-big-update-2-years-cd-projekt-claimed-it-was-finished/",
+          "date": "2026-10-21",
+          "summary": "CD Projekt releases new major Cyberpunk 2077 update plus free Edgerunners 2 tie-in content.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Side收购精品美术工作室Roboto Entertainment，在成都开设新工作室",
+        "url": "https://gamesbeat.com/side-opens-chengdu-studio-after-buying-boutique-art-house-roboto-entertainment/",
+        "date": "2026-10-21",
+        "summary": "Side acquires Roboto Entertainment, opens Chengdu studio.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Side收购精品美术工作室Roboto Entertainment，在成都开设新工作室",
+          "url": "https://gamesbeat.com/side-opens-chengdu-studio-after-buying-boutique-art-house-roboto-entertainment/",
+          "date": "2026-10-21",
+          "summary": "Side acquires Roboto Entertainment, opens Chengdu studio.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "游戏DTC平台Appcharge任命首位首席运营官，拓展应用经济业务",
+        "url": "https://gamesbeat.com/appcharge-appoints-first-coo-as-gaming-dtc-platform-eyes-broader-app-economy-exclusive/",
+        "date": "2026-10-21",
+        "summary": "Appcharge appoints first COO, expanding into broader app economy.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "游戏DTC平台Appcharge任命首位首席运营官，拓展应用经济业务",
+          "url": "https://gamesbeat.com/appcharge-appoints-first-coo-as-gaming-dtc-platform-eyes-broader-app-economy-exclusive/",
+          "date": "2026-10-21",
+          "summary": "Appcharge appoints first COO, expanding into broader app economy.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "RayNeo推出《使命召唤：现代战争4》联名限定款智能眼镜",
+        "url": "https://gamesbeat.com/rayneo-unveils-call-of-duty-modern-warfare-4-limited-edition-gaming-glasses/",
+        "date": "2026-10-22",
+        "summary": "RayNeo unveils COD MW4 limited-edition smart glasses.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "RayNeo推出《使命召唤：现代战争4》联名限定款智能眼镜",
+          "url": "https://gamesbeat.com/rayneo-unveils-call-of-duty-modern-warfare-4-limited-edition-gaming-glasses/",
+          "date": "2026-10-22",
+          "summary": "RayNeo unveils COD MW4 limited-edition smart glasses.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "挪威拟出台社交媒体禁令，Roblox、Snapchat、TikTok在列",
+        "url": "https://pocketgamer.biz/norway-social-media-ban-to-target-roblox-snapchat-and-tiktok/",
+        "date": "2026-10-21",
+        "summary": "Norway proposes social media ban targeting Roblox, Snapchat, TikTok.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "挪威拟出台社交媒体禁令，Roblox、Snapchat、TikTok在列",
+          "url": "https://pocketgamer.biz/norway-social-media-ban-to-target-roblox-snapchat-and-tiktok/",
+          "date": "2026-10-21",
+          "summary": "Norway proposes social media ban targeting Roblox, Snapchat, TikTok.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《堡垒之夜》重返澳大利亚App Store",
+        "url": "https://pocketgamer.biz/fortnite-returns-to-the-app-store-in-australia-today/",
+        "date": "2026-10-22",
+        "summary": "Fortnite returns to Australia App Store.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《堡垒之夜》重返澳大利亚App Store",
+          "url": "https://pocketgamer.biz/fortnite-returns-to-the-app-store-in-australia-today/",
+          "date": "2026-10-22",
+          "summary": "Fortnite returns to Australia App Store.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Nebula Studios《Rotate Rings》手游下载量突破1000万",
+        "url": "https://pocketgamer.biz/nebula-studios-rotate-rings-surpasses-10m-mobile-installs/",
+        "date": "2026-10-21",
+        "summary": "Nebula Studios' Rotate Rings surpasses 10M mobile installs.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Nebula Studios《Rotate Rings》手游下载量突破1000万",
+          "url": "https://pocketgamer.biz/nebula-studios-rotate-rings-surpasses-10m-mobile-installs/",
+          "date": "2026-10-21",
+          "summary": "Nebula Studios' Rotate Rings surpasses 10M mobile installs.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Xbox裁员比例预计达约20%，幸存员工返岗要求收紧",
+        "url": "https://kotaku.com/xbox-employees-who-survive-upcoming-layoffs-will-be-rewarded-with-more-mandatory-time-in-the-office-if-they-live-within-50-miles-2000748473",
+        "date": "2026-10-21",
+        "summary": "Xbox cutting ~20% headcount, tightening RTO rules for survivors.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Xbox裁员比例预计达约20%，幸存员工返岗要求收紧",
+          "url": "https://kotaku.com/xbox-employees-who-survive-upcoming-layoffs-will-be-rewarded-with-more-mandatory-time-in-the-office-if-they-live-within-50-miles-2000748473",
+          "date": "2026-10-21",
+          "summary": "Xbox cutting ~20% headcount, tightening RTO rules for survivors.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "任天堂Switch 2首次被破解（Jailbreak）",
+        "url": "https://kotaku.com/nintendo-switch-2-jailbreak-hack-exploit-piracy-homebrew-emulation-modding-2000748784",
+        "date": "2026-10-22",
+        "summary": "Nintendo Switch 2 jailbroken for the first time.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "任天堂Switch 2首次被破解（Jailbreak）",
+          "url": "https://kotaku.com/nintendo-switch-2-jailbreak-hack-exploit-piracy-homebrew-emulation-modding-2000748784",
+          "date": "2026-10-22",
+          "summary": "Nintendo Switch 2 jailbroken for the first time.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "一个严重的PS5漏洞可能已被悄然修补",
+        "url": "https://kotaku.com/a-ps5-exploit-so-bad-the-hacker-who-discovered-it-was-too-afraid-to-release-it-may-have-just-been-patched-2000748354",
+        "date": "2026-10-21",
+        "summary": "Severe PS5 exploit the discoverer was afraid to release may have been quietly patched.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "一个严重的PS5漏洞可能已被悄然修补",
+          "url": "https://kotaku.com/a-ps5-exploit-so-bad-the-hacker-who-discovered-it-was-too-afraid-to-release-it-may-have-just-been-patched-2000748354",
+          "date": "2026-10-21",
+          "summary": "Severe PS5 exploit the discoverer was afraid to release may have been quietly patched.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "微软Xbox向Xbox Insider会员开放\"云端试玩\"（Cloud Playtime）测试",
+        "url": "https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/",
+        "date": "2026-10-21",
+        "summary": "Xbox opens Cloud Playtime beta testing to Xbox Insiders.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "微软Xbox向Xbox Insider会员开放\"云端试玩\"（Cloud Playtime）测试",
+          "url": "https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/",
+          "date": "2026-10-21",
+          "summary": "Xbox opens Cloud Playtime beta testing to Xbox Insiders.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《幻刀百兵：零》公布发售预告片，PS5实体版将于2027年推出",
+        "url": "https://www.gematsu.com/2026/10/phantom-blade-zero-launch-trailer-ps5-physical-editions-launch-in-2027",
+        "date": "2026-10-21",
+        "summary": "Phantom Blade Zero launch trailer, PS5 physical editions launching 2027.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《幻刀百兵：零》公布发售预告片，PS5实体版将于2027年推出",
+          "url": "https://www.gematsu.com/2026/10/phantom-blade-zero-launch-trailer-ps5-physical-editions-launch-in-2027",
+          "date": "2026-10-21",
+          "summary": "Phantom Blade Zero launch trailer, PS5 physical editions launching 2027.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "PHP严重漏洞冲击日本游戏行业，多款游戏因\"无法修复\"而停服",
+        "url": "https://www.invenglobal.com/articles/27562/shutting-down-because-we-cant-fix-it-critical-php-vulnerability-sparks-aftershocks-in-japanese-game-industry",
+        "date": "2026-10-22",
+        "summary": "Critical PHP vulnerability forces shutdowns across Japanese game industry.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "PHP严重漏洞冲击日本游戏行业，多款游戏因\"无法修复\"而停服",
+          "url": "https://www.invenglobal.com/articles/27562/shutting-down-because-we-cant-fix-it-critical-php-vulnerability-sparks-aftershocks-in-japanese-game-industry",
+          "date": "2026-10-22",
+          "summary": "Critical PHP vulnerability forces shutdowns across Japanese game industry.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Epic Seven世界冠军赛（E7WC）2026淘汰赛将于10月24日开打",
+        "url": "https://www.invenglobal.com/articles/27557/epic-seven-e7wc-2026-knockout-stage-kicks-off-on-october-24",
+        "date": "2026-10-21",
+        "summary": "Epic Seven World Championship 2026 knockout stage starts Oct 24.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Epic Seven世界冠军赛（E7WC）2026淘汰赛将于10月24日开打",
+          "url": "https://www.invenglobal.com/articles/27557/epic-seven-e7wc-2026-knockout-stage-kicks-off-on-october-24",
+          "date": "2026-10-21",
+          "summary": "Epic Seven World Championship 2026 knockout stage starts Oct 24.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "裁员潮冲击游戏行业，独立游戏作曲人面临生计压力",
+        "url": "https://www.chuapp.com/article/291705.html",
+        "date": "2026-10-21",
+        "summary": "Industry layoff wave hits indie game composers' livelihoods.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "裁员潮冲击游戏行业，独立游戏作曲人面临生计压力",
+          "url": "https://www.chuapp.com/article/291705.html",
+          "date": "2026-10-21",
+          "summary": "Industry layoff wave hits indie game composers' livelihoods.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "协作恐怖钓鱼游戏《GONE Fishing》正式发售，支持最多8人联机",
+        "url": "https://www.4gamer.net/games/908/G090881/20261021032/",
+        "date": "2026-10-21",
+        "summary": "Co-op horror fishing game GONE Fishing launches, supports up to 8 players.",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "协作恐怖钓鱼游戏《GONE Fishing》正式发售，支持最多8人联机",
+          "url": "https://www.4gamer.net/games/908/G090881/20261021032/",
+          "date": "2026-10-21",
+          "summary": "Co-op horror fishing game GONE Fishing launches, supports up to 8 players.",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

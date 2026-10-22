@@ -1,0 +1,9 @@
+- **Nebula Studios《Rotate Rings》手游下载量突破1000万**（2026-10-21）— Nebula Studios手游《Rotate Rings》下载量突破1000万次。 <https://pocketgamer.biz/nebula-studios-rotate-rings-surpasses-10m-mobile-installs/>
+- **Xbox裁员比例预计达约20%，幸存员工返岗要求收紧**（2026-10-21）— 据Kotaku报道，Xbox正在进行的"重组"预计裁减约20%员工，Fortune称本月、下月及2027年初还将有进一步裁员；Xbox人力官Jacinda Chislum Pearson宣布，自2027年2月1日起，居住在普吉特湾Studio D通勤50英里范围内的员工须每周至少4天到岗，较此前3天有所提高。 <https://kotaku.com/xbox-employees-who-survive-upcoming-layoffs-will-be-rewarded-with-more-mandatory-time-in-the-office-if-they-live-within-50-miles-2000748473>
+- **任天堂Switch 2首次被破解（Jailbreak）**（2026-10-22）— 据Kotaku报道，黑客首次实现了对任天堂Switch 2的破解，为盗版、自制软件及模拟器打开了可能性。 <https://kotaku.com/nintendo-switch-2-jailbreak-hack-exploit-piracy-homebrew-emulation-modding-2000748784>
+- **一个严重的PS5漏洞可能已被悄然修补**（2026-10-21）— 据Kotaku报道，一个被发现者认为过于严重、曾不敢公开发布的PS5漏洞，疑似已在近期系统更新中被索尼悄然修补。 <https://kotaku.com/a-ps5-exploit-so-bad-the-hacker-who-discovered-it-was-too-afraid-to-release-it-may-have-just-been-patched-2000748354>
+- **微软为Xbox Insider会员开放"云端试玩"（Cloud Playtime）功能测试**（2026-10-21）— 微软为Xbox Insider会员开放"云端试玩"功能测试，作为平台持续Beta测试的一部分。 <https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/>
+- **《幻刀百兵：零》公布发售预告片，PS5实体版将于2027年推出**（2026-10-21）— 《幻刀百兵：零》公布发售预告片，确认PS5实体版将于2027年推出。 <https://www.gematsu.com/2026/10/phantom-blade-zero-launch-trailer-ps5-physical-editions-launch-in-2027>
+- **PHP严重漏洞冲击日本游戏行业，多款游戏因"无法修复"而停服**（2026-10-22）— 据InvenGlobal报道，一个严重的PHP漏洞正冲击日本游戏行业，多款游戏因"无法修复"而被迫停止服务。 <https://www.invenglobal.com/articles/27562/shutting-down-because-we-cant-fix-it-critical-php-vulnerability-sparks-aftershocks-in-japanese-game-industry>
+- **Epic Seven世界冠军赛（E7WC）2026淘汰赛将于10月24日开打**（2026-10-21）— Epic Seven世界冠军赛2026淘汰赛阶段将于10月24日开打。 <https://www.invenglobal.com/articles/27557/epic-seven-e7wc-2026-knockout-stage-kicks-off-on-october-24>
+- **裁员潮冲击游戏行业，独立游戏作曲人面临生计压力**（2026-10-21）— 据触乐报道，行业裁员潮正冲击游戏行业，独立游戏作曲人面临生计压力。 <https://www.chuapp.com/article/291705.html>

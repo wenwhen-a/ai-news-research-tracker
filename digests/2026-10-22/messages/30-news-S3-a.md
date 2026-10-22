@@ -1,0 +1,9 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **EA关闭BioWare工作室，取消新《质量效应》项目**（2026-10-21）— EA宣布关闭《质量效应》开发商BioWare，新一代《质量效应》的早期开发已终止；据Bloomberg报道，EA此次将裁减约400个职位（约占员工总数3%，含BioWare约50人），发生在EA完成由沙特公共投资基金（PIF）主导的550亿美元私有化收购、背负约180亿美元债务两个月后。 <https://www.videogameschronicle.com/news/ea-is-closing-bioware-and-cancelling-the-next-mass-effect/>
+- **Capcom确认数据泄露，影响逾1177万个Capcom ID账号**（2026-10-22）— Capcom证实遭外部数据泄露，波及11,774,247个Capcom ID账号的邮箱地址及系统识别信息，其中196个账号密码遭未授权修改；官方称信用卡信息未受影响，并正在通知用户及持续调查。 <https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/>
+- **《金刚狼》成为美国9月最畊销游戏，PS5版销量环比增长43%**（2026-10-22）— 据VGC报道，漫威游戏《金刚狼》成为美国9月最畊销游戏，其PS5版本销量环比8月增长约43%。 <https://www.videogameschronicle.com/news/wolverine-was-uss-best-selling-game-in-september-with-ps5-sales-up-43/>
+- **Side收购精品美术工作室Roboto Entertainment，在成都开设新工作室**（2026-10-21）— 游戏服务公司Side收购精品美术工作室Roboto Entertainment，并借此在成都开设新工作室。 <https://gamesbeat.com/side-opens-chengdu-studio-after-buying-boutique-art-house-roboto-entertainment/>
+- **游戏DTC平台Appcharge任命首位首席运营官，拓展应用经济业务**（2026-10-21）— 游戏直面消费者（DTC）平台Appcharge任命公司首位首席运营官，意在将业务拓展至更广泛的应用经济领域。 <https://gamesbeat.com/appcharge-appoints-first-coo-as-gaming-dtc-platform-eyes-broader-app-economy-exclusive/>
+- **RayNeo推出《使命召唤：现代战争4》联名限定款智能眼镜**（2026-10-22）— 智能眼镜厂商RayNeo推出《使命召唤：现代战争4》联名限定款智能眼镜。 <https://gamesbeat.com/rayneo-unveils-call-of-duty-modern-warfare-4-limited-edition-gaming-glasses/>
+- **挪威拟出台社交媒体禁令，Roblox、Snapchat、TikTok在列**（2026-10-21）— 挪威计划推出社交媒体禁令，Roblox、Snapchat、TikTok均被列入限制名单。 <https://pocketgamer.biz/norway-social-media-ban-to-target-roblox-snapchat-and-tiktok/>
+- **《堡垒之夜》今日重返澳大利亚App Store**（2026-10-22）— 《堡垒之夜》于今日重新上架澳大利亚App Store。 <https://pocketgamer.biz/fortnite-returns-to-the-app-store-in-australia-today/>

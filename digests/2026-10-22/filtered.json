@@ -1,0 +1,132 @@
+{
+  "as_of": "2026-10-22",
+  "cutoff": "2026-10-15",
+  "window_days": 7,
+  "summary": {
+    "input_items": 5,
+    "denied_source": 0,
+    "in_window": 5,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 5,
+    "duplicate_clusters": 0,
+    "section1_count": 3,
+    "section2_count": 2,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 3,
+    "previously_covered_count": 2
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "【更新】RTX Spark 正式发售，数十款热门游戏首发支持 DLSS 5 套件",
+        "url": "https://www.nvidia.com/en-us/geforce/news/rtx-spark-dlss-reflex-ray-tracing-games/",
+        "date": "2026-10-16",
+        "summary": "NVIDIA RTX Spark laptop platform launch with DLSS 5 suite across dozens of games.",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "【更新】RTX Spark 正式发售，数十款热门游戏首发支持 DLSS 5 套件",
+          "url": "https://www.nvidia.com/en-us/geforce/news/rtx-spark-dlss-reflex-ray-tracing-games/",
+          "date": "2026-10-16",
+          "summary": "NVIDIA RTX Spark laptop platform launch with DLSS 5 suite across dozens of games.",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "【更新】DLSS 4.5 推广至《使命召唤：现代战争4》《赛博朋克2077》等多款新作，NBA 2K27 迎来提速10倍的新模型",
+        "url": "https://www.nvidia.com/en-us/geforce/news/dlss-4-5-cyberpunk-2077-planet-zoo-2-modern-warfare-4/",
+        "date": "2026-10-21",
+        "summary": "DLSS 4.5 rollout to COD MW4, Cyberpunk 2077, Phantom Blade Zero, Crimson Desert Enhanced, Planet Zoo 2, THE FINALS; NBA 2K27 new DLSS5 model 10x faster.",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "【更新】DLSS 4.5 推广至《使命召唤：现代战争4》《赛博朋克2077》等多款新作，NBA 2K27 迎来提速10倍的新模型",
+          "url": "https://www.nvidia.com/en-us/geforce/news/dlss-4-5-cyberpunk-2077-planet-zoo-2-modern-warfare-4/",
+          "date": "2026-10-21",
+          "summary": "DLSS 4.5 rollout to COD MW4, Cyberpunk 2077, Phantom Blade Zero, Crimson Desert Enhanced, Planet Zoo 2, THE FINALS; NBA 2K27 new DLSS5 model 10x faster.",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "B站掀起AI\"复活\"腾讯、网易等公司停运游戏热潮",
+        "url": "https://eu.36kr.com/zh/p/4029739008938372",
+        "date": "2026-10-19",
+        "summary": "Bilibili uploaders use AI to revive discontinued Tencent/NetEase/etc games, copyright and infra risk noted; Xbox Labs formed same period.",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "B站掀起AI\"复活\"腾讯、网易等公司停运游戏热潮",
+          "url": "https://eu.36kr.com/zh/p/4029739008938372",
+          "date": "2026-10-19",
+          "summary": "Bilibili uploaders use AI to revive discontinued Tencent/NetEase/etc games, copyright and infra risk noted; Xbox Labs formed same period.",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "小岛秀夫谈AI游戏充斥Steam：真正有创造力的开发者将更加重要",
+        "url": "https://www.videogameschronicle.com/news/masahiro-sakurai-says-as-ai-games-dominate-steam-developers-who-are-truly-creative-will-become-even-more-important/",
+        "date": "2026-10-22",
+        "summary": "Masahiro Sakurai interview on AI flooding Steam with mass-produced games, creative developers more valuable.",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "小岛秀夫谈AI游戏充斥Steam：真正有创造力的开发者将更加重要",
+          "url": "https://www.videogameschronicle.com/news/masahiro-sakurai-says-as-ai-games-dominate-steam-developers-who-are-truly-creative-will-become-even-more-important/",
+          "date": "2026-10-22",
+          "summary": "Masahiro Sakurai interview on AI flooding Steam with mass-produced games, creative developers more valuable.",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "格斗游戏选手SonicFox因AI生成宣传图退出游戏展会Nexcon 2026",
+        "url": "https://kotaku.com/sonicfox-reminds-everyone-theyre-based-backing-out-of-a-gaming-convention-over-an-ai-generated-promo-2000748466",
+        "date": "2026-10-21",
+        "summary": "SonicFox withdraws from Nexcon 2026 over AI-generated promo flyer controversy.",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "格斗游戏选手SonicFox因AI生成宣传图退出游戏展会Nexcon 2026",
+          "url": "https://kotaku.com/sonicfox-reminds-everyone-theyre-based-backing-out-of-a-gaming-convention-over-an-ai-generated-promo-2000748466",
+          "date": "2026-10-21",
+          "summary": "SonicFox withdraws from Nexcon 2026 over AI-generated promo flyer controversy.",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

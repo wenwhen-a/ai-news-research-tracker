@@ -1,131 +1,5 @@
 [
  {
-  "title": "谷歌推出实验性AI游戏创作平台\"Playground\"，将与Unity Spark整合",
-  "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
-  "date": "2026-10-06",
-  "section": 1,
-  "posted": "2026-10-07"
- },
- {
-  "title": "Unity公布\"Unity Spark\"：面向谷歌Playground的提示词建游戏工具",
-  "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
-  "date": "2026-10-07",
-  "section": 1,
-  "posted": "2026-10-07"
- },
- {
-  "title": "韩国AGF 2026\"以人为本\"宣传片被曝用AI生成，引发粉丝强烈反弹",
-  "url": "https://www.invenglobal.com/articles/26883/after-promising-a-human-centered-festival-agf-sparks-fan-backlash-with-ai-generated-teaser-video",
-  "date": "2026-10-06",
-  "section": 2,
-  "posted": "2026-10-07"
- },
- {
-  "title": "更新】RuneScape开发商Jagex因AI预告片一周内二度违规下架宣传片",
-  "url": "https://www.videogameschronicle.com/news/runescape-studio-pulls-trailer-says-a-partner-broke-its-anti-ai-rule-without-its-knowledge-and-its-happened-before/",
-  "date": "2026-10-07",
-  "section": 2,
-  "posted": "2026-10-07"
- },
- {
-  "title": "NVIDIA公布DLSS 4.5本周起扩展至《使命召唤：现代战争4》等多款新作",
-  "url": "https://www.nvidia.com/en-us/geforce/news/call-of-duty-modern-warfare-4-dlss-4-5-available-october-16/",
-  "date": "2026-10-06",
-  "section": 2,
-  "posted": "2026-10-07"
- },
- {
-  "title": "更新】《永恒之塔2》Steam同时在线飙升至近40万，AI资产引发评价两极",
-  "url": "https://www.thegamer.com/aion-2-huge-steam-launch/",
-  "date": "2026-10-06",
-  "section": 2,
-  "posted": "2026-10-07"
- },
- {
-  "title": "Denuvo向法院申请传唤Discord、Valve、Reddit以追查DRM破解者身份",
-  "url": "https://www.ithome.com/1/010/234.htm",
-  "date": "2026-10-06",
-  "section": 3,
-  "posted": "2026-10-07"
- },
- {
-  "title": "Xbox CEO称Xbox PC商店已是中国排名第一的PC游戏平台，重申次世代Helix为\"设备家族\"",
-  "url": "https://www.ithome.com/1/010/223.htm",
-  "date": "2026-10-07",
-  "section": 3,
-  "posted": "2026-10-07"
- },
- {
-  "title": "《四海兄弟2》《四海兄弟3》终极版获ESRB\"M\"级评级，暗示主机版临近发售",
-  "url": "https://www.ithome.com/1/010/291.htm",
-  "date": "2026-10-07",
-  "section": 3,
-  "posted": "2026-10-07"
- },
- {
-  "title": "Skydance宣布整合派拉蒙与华纳兄弟游戏部门，《霍格沃茨之遗2》等项目在列",
-  "url": "https://www.videogameschronicle.com/news/paramount-and-warner-bros-combine-video-game-divisions-after-110bn-skydance-merger/",
-  "date": "2026-10-07",
-  "section": 3,
-  "posted": "2026-10-07"
- },
- {
-  "title": "据报道Xbox CEO告知员工：第一方业务已从\"历史最低点\"恢复增长",
-  "url": "https://www.videogameschronicle.com/news/xbox-has-started-to-return-to-growth-in-first-party-following-an-all-time-low-ceo-asha-sharma-reportedly-tells-staff/",
-  "date": "2026-10-07",
-  "section": 3,
-  "posted": "2026-10-07"
- },
- {
-  "title": "GameStop将二手PS5 Pro标价上调至1400美元，应对《GTA6》发售前需求",
-  "url": "https://www.videogameschronicle.com/news/gamestop-hikes-used-ps5-pro-price-to-1400-as-gta-6-demand-looms/",
-  "date": "2026-10-07",
-  "section": 3,
-  "posted": "2026-10-07"
- },
- {
-  "title": "据报道：《索尼克：狂热》团队Evening Star正在为索尼开发新版《Ape Escape》",
-  "url": "https://www.gematsu.com/2026/10/rumor-ape-escape-revival-in-development-at-evening-star",
-  "date": "2026-10-07",
-  "section": 3,
-  "posted": "2026-10-07"
- },
- {
-  "title": "美国圣迭戈县起诉AppLovin，指控其违规向儿童精准投放广告",
-  "url": "https://www.pocketgamer.biz/san-diego-county-sues-applovin-over-alleged-child-ad-targeting-4195351/",
-  "date": "2026-10-07",
-  "section": 3,
-  "posted": "2026-10-07"
- },
- {
-  "title": "移动游戏公司FIRY（原Skillz）以5500万美元现金出售Exit Games股份",
-  "url": "https://www.pocketgamer.biz/firy-sells-exit-games-stake-for-55m-in-cash/",
-  "date": "2026-10-06",
-  "section": 3,
-  "posted": "2026-10-07"
- },
- {
-  "title": "动视暴雪前CEO鲍比·科蒂克加入Skydance公司董事会",
-  "url": "https://kotaku.com/hes-back-2000741866",
-  "date": "2026-10-07",
-  "section": 3,
-  "posted": "2026-10-07"
- },
- {
-  "title": "Xbox否认《GTA6》主机首发享有独家云端串流权的报道",
-  "url": "https://kotaku.com/xbox-lands-exclusive-streaming-rights-for-gta-6-at-launch-2000741146",
-  "date": "2026-10-06",
-  "section": 3,
-  "posted": "2026-10-07"
- },
- {
-  "title": "经典MMORPG手游改编《Mabinogi Mobile》10月7日在日本正式上线",
-  "url": "https://www.famitsu.com/article/202610/90301",
-  "date": "2026-10-07",
-  "section": 3,
-  "posted": "2026-10-07"
- },
- {
   "title": "巫师之海岸工会扩大至DND与万智牌团队，要求生成式AI保护条款",
   "url": "https://www.pocketgamer.biz/wizards-of-the-coast-union-expands-to-dandd-and-magic-teams/",
   "date": "2026-10-08",
@@ -1916,5 +1790,159 @@
   "date": "2026-10-19",
   "section": 1,
   "posted": "2026-10-21"
+ },
+ {
+  "title": "更新】DLSS 4.5 推广至《使命召唤：现代战争4》《赛博朋克2077》等多款新作，NBA 2K27 迎来提速10倍的新模型",
+  "url": "https://www.nvidia.com/en-us/geforce/news/dlss-4-5-cyberpunk-2077-planet-zoo-2-modern-warfare-4/",
+  "date": "2026-10-21",
+  "section": 1,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "B站掀起AI\"复活\"腾讯、网易等公司停运游戏热潮",
+  "url": "https://eu.36kr.com/zh/p/4029739008938372",
+  "date": "2026-10-19",
+  "section": 1,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "樱井政博谈AI游戏充斥Steam：真正有创造力的开发者将更加重要",
+  "url": "https://www.videogameschronicle.com/news/masahiro-sakurai-says-as-ai-games-dominate-steam-developers-who-are-truly-creative-will-become-even-more-important/",
+  "date": "2026-10-22",
+  "section": 2,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "格斗游戏选手SonicFox因AI生成宣传图退出游戏展会Nexcon 2026",
+  "url": "https://kotaku.com/sonicfox-reminds-everyone-theyre-based-backing-out-of-a-gaming-convention-over-an-ai-generated-promo-2000748466",
+  "date": "2026-10-21",
+  "section": 2,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "EA关闭BioWare工作室，取消新《质量效应》项目",
+  "url": "https://www.videogameschronicle.com/news/ea-is-closing-bioware-and-cancelling-the-next-mass-effect/",
+  "date": "2026-10-21",
+  "section": 3,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "Capcom确认数据泄露，影响逾1177万个Capcom ID账号",
+  "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/",
+  "date": "2026-10-22",
+  "section": 3,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "《金刚狼》成为美国9月最畊销游戏，PS5版销量环比增长43%",
+  "url": "https://www.videogameschronicle.com/news/wolverine-was-uss-best-selling-game-in-september-with-ps5-sales-up-43/",
+  "date": "2026-10-22",
+  "section": 3,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "Side收购精品美术工作室Roboto Entertainment，在成都开设新工作室",
+  "url": "https://gamesbeat.com/side-opens-chengdu-studio-after-buying-boutique-art-house-roboto-entertainment/",
+  "date": "2026-10-21",
+  "section": 3,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "游戏DTC平台Appcharge任命首位首席运营官，拓展应用经济业务",
+  "url": "https://gamesbeat.com/appcharge-appoints-first-coo-as-gaming-dtc-platform-eyes-broader-app-economy-exclusive/",
+  "date": "2026-10-21",
+  "section": 3,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "RayNeo推出《使命召唤：现代战争4》联名限定款智能眼镜",
+  "url": "https://gamesbeat.com/rayneo-unveils-call-of-duty-modern-warfare-4-limited-edition-gaming-glasses/",
+  "date": "2026-10-22",
+  "section": 3,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "挪威拟出台社交媒体禁令，Roblox、Snapchat、TikTok在列",
+  "url": "https://pocketgamer.biz/norway-social-media-ban-to-target-roblox-snapchat-and-tiktok/",
+  "date": "2026-10-21",
+  "section": 3,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "《堡垒之夜》今日重返澳大利亚App Store",
+  "url": "https://pocketgamer.biz/fortnite-returns-to-the-app-store-in-australia-today/",
+  "date": "2026-10-22",
+  "section": 3,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "Nebula Studios《Rotate Rings》手游下载量突破1000万",
+  "url": "https://pocketgamer.biz/nebula-studios-rotate-rings-surpasses-10m-mobile-installs/",
+  "date": "2026-10-21",
+  "section": 3,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "Xbox裁员比例预计达约20%，幸存员工返岗要求收紧",
+  "url": "https://kotaku.com/xbox-employees-who-survive-upcoming-layoffs-will-be-rewarded-with-more-mandatory-time-in-the-office-if-they-live-within-50-miles-2000748473",
+  "date": "2026-10-21",
+  "section": 3,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "任天堂Switch 2首次被破解（Jailbreak）",
+  "url": "https://kotaku.com/nintendo-switch-2-jailbreak-hack-exploit-piracy-homebrew-emulation-modding-2000748784",
+  "date": "2026-10-22",
+  "section": 3,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "一个严重的PS5漏洞可能已被悄然修补",
+  "url": "https://kotaku.com/a-ps5-exploit-so-bad-the-hacker-who-discovered-it-was-too-afraid-to-release-it-may-have-just-been-patched-2000748354",
+  "date": "2026-10-21",
+  "section": 3,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "微软为Xbox Insider会员开放\"云端试玩\"（Cloud Playtime）功能测试",
+  "url": "https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/",
+  "date": "2026-10-21",
+  "section": 3,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "《幻刀百兵：零》公布发售预告片，PS5实体版将于2027年推出",
+  "url": "https://www.gematsu.com/2026/10/phantom-blade-zero-launch-trailer-ps5-physical-editions-launch-in-2027",
+  "date": "2026-10-21",
+  "section": 3,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "PHP严重漏洞冲击日本游戏行业，多款游戏因\"无法修复\"而停服",
+  "url": "https://www.invenglobal.com/articles/27562/shutting-down-because-we-cant-fix-it-critical-php-vulnerability-sparks-aftershocks-in-japanese-game-industry",
+  "date": "2026-10-22",
+  "section": 3,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "Epic Seven世界冠军赛（E7WC）2026淘汰赛将于10月24日开打",
+  "url": "https://www.invenglobal.com/articles/27557/epic-seven-e7wc-2026-knockout-stage-kicks-off-on-october-24",
+  "date": "2026-10-21",
+  "section": 3,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "裁员潮冲击游戏行业，独立游戏作曲人面临生计压力",
+  "url": "https://www.chuapp.com/article/291705.html",
+  "date": "2026-10-21",
+  "section": 3,
+  "posted": "2026-10-22"
+ },
+ {
+  "title": "协作恐怖钓鱼游戏《GONE Fishing》正式发售，支持最多8人联机",
+  "url": "https://www.4gamer.net/games/908/G090881/20261021032/",
+  "date": "2026-10-21",
+  "section": 3,
+  "posted": "2026-10-22"
  }
 ]

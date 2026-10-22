@@ -4,7 +4,7 @@ Window: last 30 days (2026-09-22 to 2026-10-22). Categories: cs.GR, cs.CV, cs.LG
 ---
 ## Agentic World Action Models
 - **arXiv:** 2610.30136 · https://arxiv.org/abs/2610.30136
-- **Submitted:** 21 Oct 2026 (v1, 17:59:56 UTC)
+- **Submitted:** 2026-10-21 (v1)
 - **Authors:** Zhuoyang Liu, Dantong Niu, Botong Zhang, Boning Shao, Jing Wang, Ruijie Zheng, Yuvan Sharma, Runyu Lu, Jiaming Liu, Renrui Zhang, Roei Herzig, Yutong Bai, Ken Goldberg, Danfei Xu, Yuke Zhu, Guanzhi Wang, Linxi "Jim" Fan, Trevor Darrell
 - **Qualifying affiliation(s):** NVIDIA — Jing Wang, Ruijie Zheng, Yuvan Sharma, Runyu Lu, Jiaming Liu, Danfei Xu, Yuke Zhu, Guanzhi Wang, Linxi "Jim" Fan (per paper's own numbered affiliation footnotes: 1=UC Berkeley, 2=NVIDIA, 3=UPenn; Dantong Niu is 1,2)
 - **Categories:** cs.RO
@@ -20,7 +20,7 @@ Window: last 30 days (2026-09-22 to 2026-10-22). Categories: cs.GR, cs.CV, cs.LG
 ---
 ## ALPS: Visual State Encoders for World Models
 - **arXiv:** 2610.30120 · https://arxiv.org/abs/2610.30120
-- **Submitted:** 21 Oct 2026 (v1, 17:57:11 UTC)
+- **Submitted:** 2026-10-21 (v1)
 - **Authors:** Yanqing Liu, Letian Zhang, Chengzhi Liu, Zijun Wang, Jieru Mei, Hongliang Fei, Yuyin Zhou, Cihang Xie
 - **Qualifying affiliation(s):** Google — Jieru Mei, Hongliang Fei
 - **Categories:** cs.CV
@@ -36,7 +36,7 @@ Window: last 30 days (2026-09-22 to 2026-10-22). Categories: cs.GR, cs.CV, cs.LG
 ---
 ## Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation
 - **arXiv:** 2610.29989 · https://arxiv.org/abs/2610.29989
-- **Submitted:** 21 Oct 2026 (v1, 16:28:46 UTC)
+- **Submitted:** 2026-10-21 (v1)
 - **Authors:** Ruopeng Gao, Yukun Huang, Jiarui Hu, Shuai Wang, Wenbo Hu, Ying Shan, Limin Wang
 - **Qualifying affiliation(s):** Tencent — Yukun Huang, Wenbo Hu, Ying Shan (ARC Lab, Tencent IEG)
 - **Categories:** cs.CV
@@ -52,7 +52,7 @@ Window: last 30 days (2026-09-22 to 2026-10-22). Categories: cs.GR, cs.CV, cs.LG
 ---
 ## CausalAlign: Causal Alignment of Video Generation Models for Consistent Ego-Motion
 - **arXiv:** 2610.29915 · https://arxiv.org/abs/2610.29915
-- **Submitted:** 21 Oct 2026 (v1, 15:54:57 UTC)
+- **Submitted:** 2026-10-21 (v1)
 - **Authors:** Kai Zhu, Yintianrun Zhang, Shuwei Jiang, Ruolin Zuo, Yixin Chen, Duomin Wang, Miao Liu, Yin Li, Daquan Zhou, Yiwu Zhong
 - **Qualifying affiliation(s):** NVIDIA — Duomin Wang. FLAG: borderline — core contribution is camera-ego-motion consistency in general-purpose video generation models (VGMs), not a world-model paper per se, though the authors tie results to world action model (WAM) gains on a robotics benchmark.
 - **Categories:** cs.CV
@@ -68,7 +68,7 @@ Window: last 30 days (2026-09-22 to 2026-10-22). Categories: cs.GR, cs.CV, cs.LG
 ---
 ## JointLight: Human-Centric Video Relighting with Asynchronous RGB-Irradiance Joint Modeling
 - **arXiv:** 2610.29780 · https://arxiv.org/abs/2610.29780
-- **Submitted:** 21 Oct 2026 (v1, 14:08:01 UTC)
+- **Submitted:** 2026-10-21 (v1)
 - **Authors:** Henglei Lv, Bailin Deng, Xiaoqiang Liu, Yichen Wang, Haoxian Zhang, Pengfei Wan, Lin Gao
 - **Qualifying affiliation(s):** Kuaishou Technology — Xiaoqiang Liu, Haoxian Zhang, Pengfei Wan
 - **Categories:** cs.CV; accepted to SIGGRAPH Asia 2026 Conference Papers (DOI 10.1145/3829340.3842252)
@@ -84,7 +84,7 @@ Window: last 30 days (2026-09-22 to 2026-10-22). Categories: cs.GR, cs.CV, cs.LG
 ---
 ## LiveAct: Towards Real-Time Multi-Agent World Models with Heterogeneous Action Interfaces
 - **arXiv:** 2610.29408 · https://arxiv.org/abs/2610.29408
-- **Submitted:** 21 Oct 2026 (v1, 08:34:03 UTC)
+- **Submitted:** 2026-10-21 (v1)
 - **Authors:** Xinyu Wang, Huafeng Shi, Yue Ma, Zijie Meng, Teng Xi, Yuzhuo Chen, Yucheng Wang, Ruicheng Zhang, Guoxin Zhang, Pengfei Wan, Xiu Li, Fangneng Zhan
 - **Qualifying affiliation(s):** Kuaishou Technology — Huafeng Shi, Teng Xi, Guoxin Zhang, Pengfei Wan (listed as "Kling Team," Kuaishou's video-generation research group)
 - **Categories:** cs.CV
@@ -100,7 +100,7 @@ Window: last 30 days (2026-09-22 to 2026-10-22). Categories: cs.GR, cs.CV, cs.LG
 ---
 ## Pair-Free Coarse-to-Real Video Generation via Real-to-Coarse Image Supervision
 - **arXiv:** 2610.28954 · https://arxiv.org/abs/2610.28954
-- **Submitted:** 20 Oct 2026 (v1, 22:09:29 UTC)
+- **Submitted:** 2026-10-20 (v1)
 - **Authors:** Gonzalo Gómez-Nogales, Daohan Lu, Peiye Zhuang, Tinghui Zhou, Yi Zhou
 - **Qualifying affiliation(s):** Roblox and Adobe — both listed among the author team's affiliations (Universidad Rey Juan Carlos, New York University, Roblox, Adobe); the arXiv HTML markup lists these four institutions together in one note without marking which exact author maps to which, though a footnote confirms at least one author did "work done while at Roblox"
 - **Categories:** cs.CV
