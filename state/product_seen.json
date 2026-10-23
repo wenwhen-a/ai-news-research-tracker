@@ -530,5 +530,13 @@
     "first_seen": "2026-10-19",
     "release_date": "2026-10-01",
     "summary": "AMD shipped a Direct3D 12 State Object Compiler plugin that converts a game's shader State Object Database into a Precompiled Shader Database for Microsoft's Advanced Shader Delivery system."
+  },
+  "https://devforum.roblox.com/t/beta-introducing-quality-mode-for-texture-generation/4938282": {
+    "name": "Quality Mode for Texture Generation (Roblox Studio AI texture tool)",
+    "company": "Roblox",
+    "tier": "Public beta/preview",
+    "first_seen": "2026-10-23",
+    "release_date": "2026-10-16",
+    "summary": "Roblox Studio's AI Texture Generation feature added a \"Quality\" mode alongside the existing \"Fast\" mode, producing 4K PBR textures (color, roughness, metalness maps) in about 2 minutes versus Fast mode's 1K color-only output in about 30 seconds."
   }
 }

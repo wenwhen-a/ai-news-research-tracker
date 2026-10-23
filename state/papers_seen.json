@@ -20339,5 +20339,317 @@
   "first_seen": "2026-10-22",
   "submitted": "2026-10-20T18:01:16Z",
   "title": "Understanding the Inner Workings of a State-Space Foundation Model for Limit Order Books"
+ },
+ "2610.31668": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T17:59:50Z",
+  "title": "Reading, Writing, Sharing, and Interacting with the World through Video"
+ },
+ "2610.31649": {
+  "status": "qualified",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22",
+  "title": "Gate3DGen: A Pre-processing Model that Selectively Purifies Real-World Images for 3D Generation",
+  "affiliation": "Huawei Inc. — Xiaolin Li, Zihao Huang, Fanpeng Meng, Chen Yang, Guanjun Wu, Jiemin Fang, Qi Tian (FLAG: Huawei is not on the default qualified-company list but is a comparable large-scale tech company — kept and flagged)",
+  "url": "https://arxiv.org/abs/2610.31649",
+  "summary": "Gate3DGen is a pre-processing \"gate\" model for 3D-generation pipelines: clean input images pass through unchanged, while degraded ones are purified by a one-step, 3D-oriented restoration model that preserves object identity and edges."
+ },
+ "2610.31645": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T17:55:30Z",
+  "title": "OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields"
+ },
+ "2610.31640": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T17:53:03Z",
+  "title": "WorldForge V2: Eliciting Camera-Trajectory Alignment in Video Diffusion Models"
+ },
+ "2610.31635": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T17:51:10Z",
+  "title": "HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction"
+ },
+ "2610.31617": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T17:41:13Z",
+  "title": "DiffDreamer: Coupling World Models with Differentiable Simulation for Agile Quadrotor Control"
+ },
+ "2610.31494": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T16:13:35Z",
+  "title": "AgentVQA: A Unified Benchmark for Agentic Visual Understanding"
+ },
+ "2610.31474": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T16:01:33Z",
+  "title": "Skeleton-Grounded Latent Action Model for Robot World Models"
+ },
+ "2610.31466": {
+  "status": "qualified",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22",
+  "title": "AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark",
+  "affiliation": "Alaya Lab (affiliated with Shanda AI Research) — all authors (FLAG: Alaya Lab/Shanda AI Research is not on the default qualified-company list; kept and flagged as a comparable industry lab)",
+  "url": "https://arxiv.org/abs/2610.31466",
+  "summary": "AnyGameRenderer is a video-to-video generative renderer that converts rough game footage — gray blockouts or wireframes — into detailed, game-like visuals while preserving the original layout, camera motion, and entity positions and timing."
+ },
+ "2610.31302": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T14:01:21Z",
+  "title": "Whole-Body Motion Guided Reference Generation for Uncertainty-Aware Compliant Assistance"
+ },
+ "2610.31299": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T13:59:19Z",
+  "title": "PiHand: Latent Hand-Object Interaction Priors for Physics-Based Policy Learning"
+ },
+ "2610.31293": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T13:55:31Z",
+  "title": "RecallGS: Geometry-Grounded Recall for Online Semantic Gaussian Splatting"
+ },
+ "2610.31275": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T13:43:47Z",
+  "title": "Learning Robot Behavior Priors from Non-Robotic Synthetic Data"
+ },
+ "2610.31194": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T12:43:03Z",
+  "title": "Inside-JEPA: From Prediction to Relational Grounding in Latent World Models"
+ },
+ "2610.31162": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T12:17:45Z",
+  "title": "HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games"
+ },
+ "2610.31121": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T11:39:01Z",
+  "title": "RGraph-Eval: Task-Grounded Scene Graphs for Evaluating Robot Video Generation"
+ },
+ "2610.31113": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T11:27:22Z",
+  "title": "Can AI Co-Design Structures? An AI Agent for Early-Stage Structural Design"
+ },
+ "2610.31080": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T10:55:15Z",
+  "title": "nnInteractive Agent: General-Purpose AI Agents as 3D Image Annotators"
+ },
+ "2610.31066": {
+  "status": "near-miss",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T10:44:35Z",
+  "title": "Dual Exam: Controlled Evaluation of Multimodal Agents and World Models"
+ },
+ "2610.31020": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T09:54:38Z",
+  "title": "Demonstration-Based Robotic Feeding Using Dynamic Movement Primitives"
+ },
+ "2610.30991": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T09:35:56Z",
+  "title": "UniFlowWAM: A Unified World-Action Model with Visual Semantics and 4D Geometry"
+ },
+ "2610.30988": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T09:34:18Z",
+  "title": "In-Context Learning World Models for Robot Dual-Arm Manipulation of Soft Garment with Partial Observations"
+ },
+ "2610.30926": {
+  "status": "qualified",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22",
+  "title": "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation",
+  "affiliation": "Tencent Video — Xiaotong Zhao, Ran Zhang, Shuai Li, Taiyi Wu, Songlian Li, Eric Liu, Alan Zhao",
+  "url": "https://arxiv.org/abs/2610.30926",
+  "summary": "The paper proposes Factor-Aware Predictive Learning (FAPL), a training method that makes latent representations from multimodal large language models (MLLMs) directly usable to condition video diffusion transformers for cinematic video generation."
+ },
+ "2610.30910": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T08:33:14Z",
+  "title": "H-2DGS: Height-Field Gaussian Splatting for Sharp and Deformable Neurosurgical Surface Reconstruction"
+ },
+ "2610.30876": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T07:56:54Z",
+  "title": "LocoManiLab: A Unified Testbed for Data, Policies, Controllers, and Deployment in Humanoid Loco-Manipulation"
+ },
+ "2610.30866": {
+  "status": "near-miss",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T07:44:36Z",
+  "title": "Verus-Insight: Towards Explainable Artifact Detection in AI-Generated Videos"
+ },
+ "2610.30861": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T07:41:41Z",
+  "title": "Direct Forcing: A Single-Stage Training Recipe for Few-Step Autoregressive Text-to-Video Generation"
+ },
+ "2610.30817": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T06:45:34Z",
+  "title": "Robot Motion Transition with Human Motion Prior"
+ },
+ "2610.30814": {
+  "status": "qualified",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22",
+  "title": "DRILL: Training World Models to Improve Policies, Not Predict Pixels",
+  "affiliation": "Hunyuan, Tencent — Zhaolu Kang, Richeng Xuan, Zhichao Hu",
+  "url": "https://arxiv.org/abs/2610.30814",
+  "summary": "DRILL is a world-model training framework for reinforcement learning of vision-language-action (VLA) policies, built on the view that world models trained to predict next-frame pixels are misaligned with their real job of producing a useful learning signal for the policy."
+ },
+ "2610.30789": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T06:08:25Z",
+  "title": "An Introduction to World Models for Generalist Agents"
+ },
+ "2610.30781": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T06:02:09Z",
+  "title": "DeXplicit: Making Physical State Explicit in Dexterous Manipulation World Models"
+ },
+ "2610.30724": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T04:46:49Z",
+  "title": "Learning from Next-Frame Prediction: Towards Unified and Scalable Visual Representation Learning"
+ },
+ "2610.30717": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T04:33:35Z",
+  "title": "PhyEvolve: Multi-Agent State-Evolution Planning for Physics-Aware Video Generation"
+ },
+ "2610.30657": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T03:19:50Z",
+  "title": "Anticipating Social Consequences with Distributional World Models"
+ },
+ "2610.30619": {
+  "status": "qualified",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22",
+  "title": "GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis",
+  "affiliation": "Kuaishou Technology — Jianzhu Guo, Xiaoqiang Liu, Pengfei Wan, Di Zhang",
+  "url": "https://arxiv.org/abs/2610.30619",
+  "summary": "GSHeadRelight addresses relighting and novel-view synthesis of human head portraits — producing photorealistic results in real time, for subjects unseen during training — using generative 3D Gaussians combined with a lighting model based on neural radiance transfer that responds linearly to incident"
+ },
+ "2610.30606": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-22T02:13:52Z",
+  "title": "CMAR-search: Commonsense and Memory Augmented Reasoning for Object Search in Dynamic Interactive Environments"
+ },
+ "2610.30540": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-21T23:54:17Z",
+  "title": "Motion Retargeting with Spatiotemporal Preferences for Humanoid Loco-Manipulation"
+ },
+ "2610.30519": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-21T22:57:56Z",
+  "title": "Unified Trajectory and 3D Pose Forecasting for Multi-Agent Sports Analysis"
+ },
+ "2610.30500": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-21T22:31:27Z",
+  "title": "PhysibleMDM: Enforcing Inference-Time Physical Feasibility Constraints on Motion Diffusion Models via Noise Optimization"
+ },
+ "2610.30488": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-21T22:14:15Z",
+  "title": "From Single-Actor Environments to Multi-Actor Event Worlds: Can LLMs Be Event World Models?"
+ },
+ "2610.30485": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-21T22:08:49Z",
+  "title": "Why Bother Me Again? Benchmarking Personal Agent Memory for Interaction Preferences"
+ },
+ "2610.30468": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-21T21:30:32Z",
+  "title": "SplatLab: Autonomous Scientific Discovery for 3DGS Research"
+ },
+ "2610.30390": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-21T19:48:57Z",
+  "title": "Latent Space Jam: Layout Guided Video Synthesis"
+ },
+ "2610.30337": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-21T18:55:12Z",
+  "title": "MoRE: Motion-Regularized Encoding for Articulated 3D Generation"
+ },
+ "2610.30326": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-21T18:42:09Z",
+  "title": "R4DGS: Referring Segmentation in 4D Gaussian Splatting"
+ },
+ "2610.30320": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-21T18:33:13Z",
+  "title": "Self-Distilling Future Video Representations for World Action Models"
+ },
+ "2610.30319": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-21T18:31:28Z",
+  "title": "TerraTransfer++: Demonstration-Free End-to-End Planner"
+ },
+ "2610.30313": {
+  "status": "screened-out",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-21T18:27:16Z",
+  "title": "SciFusion: Physics-Guided Compositional Diffusion for Multimodal 3D Scientific Image Generation"
+ },
+ "2610.30293": {
+  "status": "qualified",
+  "first_seen": "2026-10-23",
+  "submitted": "2026-10-21",
+  "title": "EgoHand: Monocular 3D Hand Reconstruction from Egocentric Video",
+  "affiliation": "NVIDIA — all listed core contributors (confirmed via the paper's Appendix A, \"Contributors and Acknowledgments\")",
+  "url": "https://arxiv.org/abs/2610.30293",
+  "summary": "EgoHand is a model for reconstructing 3D hand poses from monocular egocentric (head-worn-camera) video, aimed at hand-tracking for XR/AR and motion-capture-style applications."
  }
 }
