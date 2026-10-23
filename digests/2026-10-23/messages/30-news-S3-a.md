@@ -1,0 +1,9 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **[据报道Arkane Studios须在11月13日前找到买家，否则面临关闭]**（2026-10-23）— 据报道，微软旗下《疑案追声》《Dishonored》开发商Arkane Studios被设定了11月13日的最后期限以寻找买家，若未能找到买家该工作室或将被关闭。 <https://www.gematsu.com/2026/10/report-arkane-studios-has-until-november-13-to-find-a-buyer>
+- **[《原神》7.2版本「浮焰之刻」定档11月4日上线]**（2026-10-23）— 官方宣布《原神》7.2版本「浮焰之刻」将于11月4日正式上线。 <https://www.gematsu.com/2026/10/genshin-impact-version-version-7-2-update-hour-of-ruin-launches-november-4>
+- **[《萤火之森SaGa2:复仇者七人》实体与数字销量合计突破100万份]**（2026-10-23）— 史克威尔艾尼克斯宣布《萤火之森SaGa2:复仇者七人》实体出货与数字销量合计突破100万份。 <https://www.gematsu.com/2026/10/romancing-saga-2-revenge-of-the-seven-shipments-and-digital-sales-top-one-million>
+- **[Stillfront任命King前高管Marcus Jacobs为新任CEO]**（2026-10-23）— 瑞典手游集团Stillfront宣布任命曾任职于EA、King与Embark的高管Marcus Jacobs为新任首席执行官。 <https://www.pocketgamer.biz/stillfront-names-former-king-executive-marcus-jacobs-as-ceo/>
+- **[雅达利宣布停止支持2021年发布的VCS主机，将推出Homebrew应用供玩家自制游戏]**（2026-10-22）— 雅达利宣布将结束对其2021年发布的VCS主机的官方支持，但将发布一款Homebrew应用，让玩家可以继续自制并添加游戏内容。 <https://www.videogameschronicle.com/news/atari-is-ending-support-for-its-2021-vcs-console-will-release-a-homebrew-app-to-let-players-keep-making-and-adding-games/>
+- **[剧情手游《Dispatch》玩家数突破500万，开发商AdHoc宣布拓展移动端业务]**（2026-10-22）— 互动剧情游戏《Dispatch》玩家数已突破500万，开发商AdHoc同时宣布将进一步拓展移动端业务布局。 <https://gamesbeat.com/dispatch-surpasses-5-million-players-as-adhoc-announces-mobile-expansion/>
+- **[Circana数据：《漫威金刚狼》登顶美国9月销量榜，带动PS5销量增长]**（2026-10-22）— 市场调研机构Circana数据显示，《漫威金刚狼》成为美国9月最畅销游戏，并带动PS5主机9月销量同比增长43%。 <https://gamesbeat.com/marvels-wolverine-tops-september-sales-drives-ps5-numbers-up-circana/>
+- **[《GTA6》临近发售，广告商正加紧制定借势营销方案]**（2026-10-23）— 随着《侠盗猎车手6》11月19日发售日期临近，各大广告商正加紧筹备借助其热度展开营销的方案。 <https://gamesbeat.com/as-gta-vi-approaches-advertisers-are-building-a-playbook-to-capitalize-on-the-hype/>

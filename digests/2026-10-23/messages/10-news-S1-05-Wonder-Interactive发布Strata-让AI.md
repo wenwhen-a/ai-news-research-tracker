@@ -1,0 +1,13 @@
+**[新闻 5] Wonder Interactive发布Strata:让AI编程代理把Unreal Engine游戏一键搬上浏览器**
+- **日期：** 2026-10-22
+- **来源链接：** <https://gamesbeat.com/wonder-interactives-strata-uses-ai-to-take-unreal-engine-games-to-browsers-using-webassembly-and-webgpu/>
+- **核心事实：**
+  - Wonder Interactive(同时运营浏览器端Unreal Engine应用运行平台SimplyStream)发布开发者工具Strata,可将Unreal Engine项目打包为WebAssembly/WebGPU版本,并生成可分享的浏览器链接。
+  - 开发者可通过Claude Code、Codex、Cursor等AI编程助手,借助Model Context Protocol(MCP),用一句自然语言提示触发完整的构建与部署流程;公司同时提供不依赖AI代理的命令行(CLI)方案。
+  - Strata会在真实GPU环境中自动执行构建检查,并对项目文件及大型二进制资源保留版本历史。
+  - 公司联合创始人兼COO Alex St. Louis表示'AI就是游戏开发的未来',称目标是让浏览器成为Unreal Engine的'一等平台',并表示AI代理'需要合适的基础设施才能真正构建、测试和发布游戏'。
+  - 团队已实现将Epic的City Sample范例在浏览器中运行,支持WebGPU版Lumen和Nanite效果,玩家仅需下载约3%的数据即可开始在场景中移动,其余内容实时流式加载。
+- **背景与起因：**
+  - Wonder Interactive是Epic MegaGrant资助对象,同时也是Unreal Engine认证服务合作伙伴(Unreal Engine Authorized Service Partner)。
+- **结果与进展：**
+  - Strata与SimplyStream已上线并开放开发者注册;St. Louis透露公司正考虑推出面向消费者的'网页版Steam'式直销市场,但尚未公布具体细节或时间表。

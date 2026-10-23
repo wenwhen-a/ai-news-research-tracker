@@ -1,0 +1,362 @@
+{
+  "as_of": "2026-10-23",
+  "cutoff": "2026-10-22",
+  "window_days": 1,
+  "summary": {
+    "input_items": 15,
+    "denied_source": 0,
+    "in_window": 15,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 15,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 15,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 11,
+    "previously_covered_count": 4
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "据报道Arkane Studios须在11月13日前找到买家，否则面临关闭",
+        "url": "https://www.gematsu.com/2026/10/report-arkane-studios-has-until-november-13-to-find-a-buyer",
+        "source_name": "Gematsu",
+        "date": "2026-10-23",
+        "section": 3,
+        "summary": "据报道，微软旗下《疑案追声》《Dishonored》开发商Arkane Studios被设定了11月13日的最后期限以寻找买家，若未能找到买家该工作室或将被关闭。"
+      },
+      "members": [
+        {
+          "title": "据报道Arkane Studios须在11月13日前找到买家，否则面临关闭",
+          "url": "https://www.gematsu.com/2026/10/report-arkane-studios-has-until-november-13-to-find-a-buyer",
+          "source_name": "Gematsu",
+          "date": "2026-10-23",
+          "section": 3,
+          "summary": "据报道，微软旗下《疑案追声》《Dishonored》开发商Arkane Studios被设定了11月13日的最后期限以寻找买家，若未能找到买家该工作室或将被关闭。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《原神》7.2版本「浮焰之刻」定档11月4日上线",
+        "url": "https://www.gematsu.com/2026/10/genshin-impact-version-version-7-2-update-hour-of-ruin-launches-november-4",
+        "source_name": "Gematsu",
+        "date": "2026-10-23",
+        "section": 3,
+        "summary": "官方宣布《原神》7.2版本「浮焰之刻」将于11月4日正式上线。"
+      },
+      "members": [
+        {
+          "title": "《原神》7.2版本「浮焰之刻」定档11月4日上线",
+          "url": "https://www.gematsu.com/2026/10/genshin-impact-version-version-7-2-update-hour-of-ruin-launches-november-4",
+          "source_name": "Gematsu",
+          "date": "2026-10-23",
+          "section": 3,
+          "summary": "官方宣布《原神》7.2版本「浮焰之刻」将于11月4日正式上线。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《萤火之森SaGa2:复仇者七人》实体与数字销量合计突破100万份",
+        "url": "https://www.gematsu.com/2026/10/romancing-saga-2-revenge-of-the-seven-shipments-and-digital-sales-top-one-million",
+        "source_name": "Gematsu",
+        "date": "2026-10-23",
+        "section": 3,
+        "summary": "史克威尔艾尼克斯宣布《萤火之森SaGa2:复仇者七人》实体出货与数字销量合计突破100万份。"
+      },
+      "members": [
+        {
+          "title": "《萤火之森SaGa2:复仇者七人》实体与数字销量合计突破100万份",
+          "url": "https://www.gematsu.com/2026/10/romancing-saga-2-revenge-of-the-seven-shipments-and-digital-sales-top-one-million",
+          "source_name": "Gematsu",
+          "date": "2026-10-23",
+          "section": 3,
+          "summary": "史克威尔艾尼克斯宣布《萤火之森SaGa2:复仇者七人》实体出货与数字销量合计突破100万份。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Side收购美术工作室Roboto Entertainment以拓展中国业务",
+        "url": "https://www.pocketgamer.biz/side-acquires-art-studio-roboto-entertainment-to-expand-presence-in-china/",
+        "source_name": "PocketGamer.biz",
+        "date": "2026-10-22",
+        "section": 3,
+        "summary": "游戏外包服务商Side宣布收购美术工作室Roboto Entertainment，以借此扩大其在中国市场的业务布局。"
+      },
+      "members": [
+        {
+          "title": "Side收购美术工作室Roboto Entertainment以拓展中国业务",
+          "url": "https://www.pocketgamer.biz/side-acquires-art-studio-roboto-entertainment-to-expand-presence-in-china/",
+          "source_name": "PocketGamer.biz",
+          "date": "2026-10-22",
+          "section": 3,
+          "summary": "游戏外包服务商Side宣布收购美术工作室Roboto Entertainment，以借此扩大其在中国市场的业务布局。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Wargaming联合创始人新成立的Mika Games获1000万美元投资，用于扶持手游工作室",
+        "url": "https://www.pocketgamer.biz/mika-games-raises-10m-to-fund-mobile-game-studios/",
+        "source_name": "PocketGamer.biz",
+        "date": "2026-10-22",
+        "section": 3,
+        "summary": "由Wargaming联合创始人创立的Mika Games完成1000万美元融资，资金将用于资助手游工作室在软启动阶段之后的持续开发。"
+      },
+      "members": [
+        {
+          "title": "Wargaming联合创始人新成立的Mika Games获1000万美元投资，用于扶持手游工作室",
+          "url": "https://www.pocketgamer.biz/mika-games-raises-10m-to-fund-mobile-game-studios/",
+          "source_name": "PocketGamer.biz",
+          "date": "2026-10-22",
+          "section": 3,
+          "summary": "由Wargaming联合创始人创立的Mika Games完成1000万美元融资，资金将用于资助手游工作室在软启动阶段之后的持续开发。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Stillfront任命King前高管Marcus Jacobs为新任CEO",
+        "url": "https://www.pocketgamer.biz/stillfront-names-former-king-executive-marcus-jacobs-as-ceo/",
+        "source_name": "PocketGamer.biz",
+        "date": "2026-10-23",
+        "section": 3,
+        "summary": "瑞典手游集团Stillfront宣布任命曾任职于EA、King与Embark的高管Marcus Jacobs为新任首席执行官。"
+      },
+      "members": [
+        {
+          "title": "Stillfront任命King前高管Marcus Jacobs为新任CEO",
+          "url": "https://www.pocketgamer.biz/stillfront-names-former-king-executive-marcus-jacobs-as-ceo/",
+          "source_name": "PocketGamer.biz",
+          "date": "2026-10-23",
+          "section": 3,
+          "summary": "瑞典手游集团Stillfront宣布任命曾任职于EA、King与Embark的高管Marcus Jacobs为新任首席执行官。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Capcom确认超1100万个Capcom ID账户数据遭泄露，信用卡信息未受影响",
+        "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/",
+        "source_name": "Video Games Chronicle",
+        "date": "2026-10-22",
+        "section": 3,
+        "summary": "Capcom公司确认一起数据泄露事件影响了超过1100万个Capcom ID账户，但表示用户的信用卡信息未受影响。"
+      },
+      "members": [
+        {
+          "title": "Capcom确认超1100万个Capcom ID账户数据遭泄露，信用卡信息未受影响",
+          "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/",
+          "source_name": "Video Games Chronicle",
+          "date": "2026-10-22",
+          "section": 3,
+          "summary": "Capcom公司确认一起数据泄露事件影响了超过1100万个Capcom ID账户，但表示用户的信用卡信息未受影响。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《质量效应：宇宙》预告片泄露，曝光BioWare关闭前最后项目内容",
+        "url": "https://www.videogameschronicle.com/news/mass-effect-universe-trailer-leaks-online-showcases-what-bioware-was-working-on-before-being-shut-down/",
+        "source_name": "Video Games Chronicle",
+        "date": "2026-10-22",
+        "section": 3,
+        "summary": "据报道，已被EA关闭的BioWare工作室原本在开发的《质量效应：宇宙》(Mass Effect Universe)项目预告片在网络上泄露，展示了该工作室停工前的最后成果。"
+      },
+      "members": [
+        {
+          "title": "《质量效应：宇宙》预告片泄露，曝光BioWare关闭前最后项目内容",
+          "url": "https://www.videogameschronicle.com/news/mass-effect-universe-trailer-leaks-online-showcases-what-bioware-was-working-on-before-being-shut-down/",
+          "source_name": "Video Games Chronicle",
+          "date": "2026-10-22",
+          "section": 3,
+          "summary": "据报道，已被EA关闭的BioWare工作室原本在开发的《质量效应：宇宙》(Mass Effect Universe)项目预告片在网络上泄露，展示了该工作室停工前的最后成果。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "雅达利宣布停止支持2021年发布的VCS主机，将推出Homebrew应用供玩家自制游戏",
+        "url": "https://www.videogameschronicle.com/news/atari-is-ending-support-for-its-2021-vcs-console-will-release-a-homebrew-app-to-let-players-keep-making-and-adding-games/",
+        "source_name": "Video Games Chronicle",
+        "date": "2026-10-22",
+        "section": 3,
+        "summary": "雅达利宣布将结束对其2021年发布的VCS主机的官方支持，但将发布一款Homebrew应用，让玩家可以继续自制并添加游戏内容。"
+      },
+      "members": [
+        {
+          "title": "雅达利宣布停止支持2021年发布的VCS主机，将推出Homebrew应用供玩家自制游戏",
+          "url": "https://www.videogameschronicle.com/news/atari-is-ending-support-for-its-2021-vcs-console-will-release-a-homebrew-app-to-let-players-keep-making-and-adding-games/",
+          "source_name": "Video Games Chronicle",
+          "date": "2026-10-22",
+          "section": 3,
+          "summary": "雅达利宣布将结束对其2021年发布的VCS主机的官方支持，但将发布一款Homebrew应用，让玩家可以继续自制并添加游戏内容。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "剧情手游《Dispatch》玩家数突破500万，开发商AdHoc宣布拓展移动端业务",
+        "url": "https://gamesbeat.com/dispatch-surpasses-5-million-players-as-adhoc-announces-mobile-expansion/",
+        "source_name": "GamesBeat",
+        "date": "2026-10-22",
+        "section": 3,
+        "summary": "互动剧情游戏《Dispatch》玩家数已突破500万，开发商AdHoc同时宣布将进一步拓展移动端业务布局。"
+      },
+      "members": [
+        {
+          "title": "剧情手游《Dispatch》玩家数突破500万，开发商AdHoc宣布拓展移动端业务",
+          "url": "https://gamesbeat.com/dispatch-surpasses-5-million-players-as-adhoc-announces-mobile-expansion/",
+          "source_name": "GamesBeat",
+          "date": "2026-10-22",
+          "section": 3,
+          "summary": "互动剧情游戏《Dispatch》玩家数已突破500万，开发商AdHoc同时宣布将进一步拓展移动端业务布局。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Circana数据：《漫威金刚狼》登顶美国9月销量榜，带动PS5销量增长",
+        "url": "https://gamesbeat.com/marvels-wolverine-tops-september-sales-drives-ps5-numbers-up-circana/",
+        "source_name": "GamesBeat",
+        "date": "2026-10-22",
+        "section": 3,
+        "summary": "市场调研机构Circana数据显示，《漫威金刚狼》成为美国9月最畅销游戏，并带动PS5主机9月销量同比增长43%。"
+      },
+      "members": [
+        {
+          "title": "Circana数据：《漫威金刚狼》登顶美国9月销量榜，带动PS5销量增长",
+          "url": "https://gamesbeat.com/marvels-wolverine-tops-september-sales-drives-ps5-numbers-up-circana/",
+          "source_name": "GamesBeat",
+          "date": "2026-10-22",
+          "section": 3,
+          "summary": "市场调研机构Circana数据显示，《漫威金刚狼》成为美国9月最畅销游戏，并带动PS5主机9月销量同比增长43%。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《GTA6》临近发售，广告商正加紧制定借势营销方案",
+        "url": "https://gamesbeat.com/as-gta-vi-approaches-advertisers-are-building-a-playbook-to-capitalize-on-the-hype/",
+        "source_name": "GamesBeat",
+        "date": "2026-10-23",
+        "section": 3,
+        "summary": "随着《侠盗猎车手6》11月19日发售日期临近，各大广告商正加紧筹备借助其热度展开营销的方案。"
+      },
+      "members": [
+        {
+          "title": "《GTA6》临近发售，广告商正加紧制定借势营销方案",
+          "url": "https://gamesbeat.com/as-gta-vi-approaches-advertisers-are-building-a-playbook-to-capitalize-on-the-hype/",
+          "source_name": "GamesBeat",
+          "date": "2026-10-23",
+          "section": 3,
+          "summary": "随着《侠盗猎车手6》11月19日发售日期临近，各大广告商正加紧筹备借助其热度展开营销的方案。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Supercell确认遭遇网络攻击，内部会议录像平台数据被非法访问，称玩家数据未受影响",
+        "url": "https://mobilegamer.biz/supercell-hit-by-cyberattack-but-says-no-player-data-was-affected/",
+        "source_name": "MobileGamer.biz",
+        "date": "2026-10-22",
+        "section": 3,
+        "summary": "Supercell公司确认其用于内部会议录制的视频平台遭未授权访问，公司已报警并依据欧盟《网络韧性法案》进行了通报，初步调查显示玩家数据未受影响。"
+      },
+      "members": [
+        {
+          "title": "Supercell确认遭遇网络攻击，内部会议录像平台数据被非法访问，称玩家数据未受影响",
+          "url": "https://mobilegamer.biz/supercell-hit-by-cyberattack-but-says-no-player-data-was-affected/",
+          "source_name": "MobileGamer.biz",
+          "date": "2026-10-22",
+          "section": 3,
+          "summary": "Supercell公司确认其用于内部会议录制的视频平台遭未授权访问，公司已报警并依据欧盟《网络韧性法案》进行了通报，初步调查显示玩家数据未受影响。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "VR先驱Owlchemy Labs转向XR领域开发新作",
+        "url": "https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release",
+        "source_name": "Game Developer",
+        "date": "2026-10-22",
+        "section": 3,
+        "summary": "VR游戏开发商Owlchemy Labs宣布其下一款新作将转向XR（扩展现实）领域开发。"
+      },
+      "members": [
+        {
+          "title": "VR先驱Owlchemy Labs转向XR领域开发新作",
+          "url": "https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release",
+          "source_name": "Game Developer",
+          "date": "2026-10-22",
+          "section": 3,
+          "summary": "VR游戏开发商Owlchemy Labs宣布其下一款新作将转向XR（扩展现实）领域开发。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《率土之滨》开服十一周年：日活创近11年新高，畅销榜升至第2",
+        "url": "https://www.chuapp.com/article/291708.html",
+        "source_name": "触乐",
+        "date": "2026-10-23",
+        "section": 3,
+        "summary": "SLG手游《率土之滨》在运营十一周年之际，日活跃用户数创下近11年来新高，并一度冲上App Store畅销榜第2位。"
+      },
+      "members": [
+        {
+          "title": "《率土之滨》开服十一周年：日活创近11年新高，畅销榜升至第2",
+          "url": "https://www.chuapp.com/article/291708.html",
+          "source_name": "触乐",
+          "date": "2026-10-23",
+          "section": 3,
+          "summary": "SLG手游《率土之滨》在运营十一周年之际，日活跃用户数创下近11年来新高，并一度冲上App Store畅销榜第2位。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

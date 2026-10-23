@@ -1,0 +1,12 @@
+**[新闻 2] Konami社长:生成式AI不会大幅降低游戏开发门槛,人与创作者仍是关键**
+- **日期：** 2026-10-18
+- **来源链接：** <https://www.videogameschronicle.com/news/konami-boss-says-ai-cant-replace-the-human-chemistry-behind-great-games/>
+- **核心事实：**
+  - Konami Digital Entertainment社长早川英树(Hideki Hayakawa)在公司截至2026年3月财年的统合报告(Integrated Report)中就生成式AI对游戏产业的影响发表看法,该言论首先由日本媒体Dengeki Online报道。
+  - 他反对'生成式AI将大幅降低游戏开发门槛'的观点,理由是游戏引擎与UGC(用户生成内容)工具早已降低了入行门槛。
+  - 他表示:'即便AI能提升生产效率,制作有趣且具有创新性电子游戏最重要的因素仍然是人和创作者。'
+  - 他将开发团队成员之间的互动比喻为催生新创意与玩法的'化学反应',称'这不是能被轻易取代的东西'。
+- **背景与起因：**
+  - 该表态出现在Konami面向投资者发布的年度统合报告中,是公司高层对行业内AI讨论热潮的正式回应。
+- **结果与进展：**
+  - Konami表示将继续为旗下创作者提供学习新技术、评估风险并安全应用的支持,但报告未说明《合金装备》《寂静岭》等具体IP是否会使用AI。

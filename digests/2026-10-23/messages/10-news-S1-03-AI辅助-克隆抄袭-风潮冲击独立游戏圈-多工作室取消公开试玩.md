@@ -1,0 +1,12 @@
+**[新闻 3] AI辅助'克隆抄袭'风潮冲击独立游戏圈,多工作室取消公开试玩**
+- **日期：** 2026-10-19
+- **来源链接：** <https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning>（背景补充来源：<https://kotaku.com/devs-behind-needle-in-a-haystack-clone-complain-their-clone-has-been-cloned-by-vibe-coder-2000747284>）
+- **核心事实：**
+  - 《月光商人》(Moonlighter)开发商Digital Sun Games宣布取消新作《ReVamp》原定于Steam的大型公开试玩,原因是担忧AI工具能让他人迅速逆向工程并复制游戏核心玩法,改为10月29日起在自家Discord举行规模更小、更可控的试玩。
+  - 10月17日,开发者NoGlyph在Steam上指控另一款名为《A Game About Needle In A Haystack》(10月16日上线)的游戏抄袭其代码,称在对方代码中发现13个与自家游戏完全同名的类,以及超过一半逐字匹配的函数,甚至包含一条指向自家游戏中并不存在的着色器的报错信息。
+  - 该抄袭模式被认为与'借助Claude等AI工具对已编译游戏进行逆向解包(decompile)后进行复制'的方式相似。
+  - 同期,Alliance Arts与Who's You工作室也以担忧AI抄袭为由,取消了《Drunken Goddess Reflux》在本届Steam Next Fest的试玩演示。
+- **背景与起因：**
+  - 相关担忧源于此前走红的原创爆款游戏《Needle In A Haystack Simulator》(Studio Bitdot制作)在今年8月走红后,Steam上迅速涌现出大量同名或相似的克隆作品。
+- **结果与进展：**
+  - 多家独立工作室因担忧AI克隆而缩减或取消了原定的公开试玩与演示发布规模,业内担忧此举将减少独立游戏惯常依赖的早期曝光与引流机会。

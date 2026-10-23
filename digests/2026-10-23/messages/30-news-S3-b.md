@@ -1,0 +1,3 @@
+- **[Supercell确认遭遇网络攻击，内部会议录像平台数据被非法访问，称玩家数据未受影响]**（2026-10-22）— Supercell公司确认其用于内部会议录制的视频平台遭未授权访问，公司已报警并依据欧盟《网络韧性法案》进行了通报，初步调查显示玩家数据未受影响。 <https://mobilegamer.biz/supercell-hit-by-cyberattack-but-says-no-player-data-was-affected/>
+- **[VR先驱Owlchemy Labs转向XR领域开发新作]**（2026-10-22）— VR游戏开发商Owlchemy Labs宣布其下一款新作将转向XR（扩展现实）领域开发。 <https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release>
+- **[《率土之滨》开服十一周年：日活创近11年新高，畅销榜升至第2]**（2026-10-23）— SLG手游《率土之滨》在运营十一周年之际，日活跃用户数创下近11年来新高，并一度冲上App Store畅销榜第2位。 <https://www.chuapp.com/article/291708.html>

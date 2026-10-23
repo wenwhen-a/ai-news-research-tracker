@@ -1,0 +1,760 @@
+{
+  "as_of": "2026-10-23",
+  "cutoff": "2026-10-16",
+  "window_days": 7,
+  "summary": {
+    "input_items": 26,
+    "denied_source": 0,
+    "in_window": 26,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 26,
+    "duplicate_clusters": 0,
+    "section1_count": 7,
+    "section2_count": 19,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": true,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 16,
+    "previously_covered_count": 10
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "宫本茂谈AI与创作:不知AI能否取代创造力,但这是重新思考'创作'本质的机会",
+        "url": "https://kotaku.com/shigeru-miyamoto-doesnt-know-if-ai-can-take-over-creativity-but-it-could-become-an-opportunity-to-define-what-it-means-to-create-2000749074",
+        "source_name": "Kotaku",
+        "date": "2026-10-23",
+        "section": 1,
+        "core_facts": [
+          "任天堂宫本茂在日本政府颁发的'文化日'表彰仪式上获文化勋章,肯定其在电子游戏领域的贡献;新闻发布会上记者就AI话题提问(发言由Denfaminico Gamer记录)。",
+          "宫本茂表示:'我不知道AI将进化到什么程度,也不知道是否有一天它会处理一切,包括创作本身这一行为。'",
+          "他认为AI的出现反而'更是一个深入思考创作真正含义的机会',并称'设计是个人想要制造某物的意图,计算机只是辅助完成这个设计'。",
+          "他将文字处理器等工具曾实现的技术自动化与生成式AI作类比,认为AI是同一趋势的延续,并区分'创造'(搭建整体结构)与'打磨'(填充与修饰细节)两个概念,提醒不要把后者误当成真正的创作成果。"
+        ],
+        "background": [
+          "此表态发生在宫本茂获颁日本政府文化勋章、回顾游戏产业50年历史的新闻发布会上。"
+        ],
+        "outcome": [
+          "宫本茂未给出明确结论,仅表示'目前,我认为还有很多事情需要我们去做';他的发言代表个人观点,文章未提及任天堂公司层面的官方AI政策。"
+        ]
+      },
+      "members": [
+        {
+          "title": "宫本茂谈AI与创作:不知AI能否取代创造力,但这是重新思考'创作'本质的机会",
+          "url": "https://kotaku.com/shigeru-miyamoto-doesnt-know-if-ai-can-take-over-creativity-but-it-could-become-an-opportunity-to-define-what-it-means-to-create-2000749074",
+          "source_name": "Kotaku",
+          "date": "2026-10-23",
+          "section": 1,
+          "core_facts": [
+            "任天堂宫本茂在日本政府颁发的'文化日'表彰仪式上获文化勋章,肯定其在电子游戏领域的贡献;新闻发布会上记者就AI话题提问(发言由Denfaminico Gamer记录)。",
+            "宫本茂表示:'我不知道AI将进化到什么程度,也不知道是否有一天它会处理一切,包括创作本身这一行为。'",
+            "他认为AI的出现反而'更是一个深入思考创作真正含义的机会',并称'设计是个人想要制造某物的意图,计算机只是辅助完成这个设计'。",
+            "他将文字处理器等工具曾实现的技术自动化与生成式AI作类比,认为AI是同一趋势的延续,并区分'创造'(搭建整体结构)与'打磨'(填充与修饰细节)两个概念,提醒不要把后者误当成真正的创作成果。"
+          ],
+          "background": [
+            "此表态发生在宫本茂获颁日本政府文化勋章、回顾游戏产业50年历史的新闻发布会上。"
+          ],
+          "outcome": [
+            "宫本茂未给出明确结论,仅表示'目前,我认为还有很多事情需要我们去做';他的发言代表个人观点,文章未提及任天堂公司层面的官方AI政策。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Konami社长:生成式AI不会大幅降低游戏开发门槛,人与创作者仍是关键",
+        "url": "https://www.videogameschronicle.com/news/konami-boss-says-ai-cant-replace-the-human-chemistry-behind-great-games/",
+        "source_name": "Video Games Chronicle (VGC)",
+        "date": "2026-10-18",
+        "section": 1,
+        "core_facts": [
+          "Konami Digital Entertainment社长早川英树(Hideki Hayakawa)在公司截至2026年3月财年的统合报告(Integrated Report)中就生成式AI对游戏产业的影响发表看法,该言论首先由日本媒体Dengeki Online报道。",
+          "他反对'生成式AI将大幅降低游戏开发门槛'的观点,理由是游戏引擎与UGC(用户生成内容)工具早已降低了入行门槛。",
+          "他表示:'即便AI能提升生产效率,制作有趣且具有创新性电子游戏最重要的因素仍然是人和创作者。'",
+          "他将开发团队成员之间的互动比喻为催生新创意与玩法的'化学反应',称'这不是能被轻易取代的东西'。"
+        ],
+        "background": [
+          "该表态出现在Konami面向投资者发布的年度统合报告中,是公司高层对行业内AI讨论热潮的正式回应。"
+        ],
+        "outcome": [
+          "Konami表示将继续为旗下创作者提供学习新技术、评估风险并安全应用的支持,但报告未说明《合金装备》《寂静岭》等具体IP是否会使用AI。"
+        ]
+      },
+      "members": [
+        {
+          "title": "Konami社长:生成式AI不会大幅降低游戏开发门槛,人与创作者仍是关键",
+          "url": "https://www.videogameschronicle.com/news/konami-boss-says-ai-cant-replace-the-human-chemistry-behind-great-games/",
+          "source_name": "Video Games Chronicle (VGC)",
+          "date": "2026-10-18",
+          "section": 1,
+          "core_facts": [
+            "Konami Digital Entertainment社长早川英树(Hideki Hayakawa)在公司截至2026年3月财年的统合报告(Integrated Report)中就生成式AI对游戏产业的影响发表看法,该言论首先由日本媒体Dengeki Online报道。",
+            "他反对'生成式AI将大幅降低游戏开发门槛'的观点,理由是游戏引擎与UGC(用户生成内容)工具早已降低了入行门槛。",
+            "他表示:'即便AI能提升生产效率,制作有趣且具有创新性电子游戏最重要的因素仍然是人和创作者。'",
+            "他将开发团队成员之间的互动比喻为催生新创意与玩法的'化学反应',称'这不是能被轻易取代的东西'。"
+          ],
+          "background": [
+            "该表态出现在Konami面向投资者发布的年度统合报告中,是公司高层对行业内AI讨论热潮的正式回应。"
+          ],
+          "outcome": [
+            "Konami表示将继续为旗下创作者提供学习新技术、评估风险并安全应用的支持,但报告未说明《合金装备》《寂静岭》等具体IP是否会使用AI。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Steam Next Fest本届AI制作游戏数量激增,玩家不满情绪升温",
+        "url": "https://gamerant.com/steam-next-fest-october-2026-generative-ai-games/",
+        "source_name": "GameRant",
+        "date": "2026-10-22",
+        "section": 1,
+        "core_facts": [
+          "2026年10月的Steam Next Fest参展游戏数量约为同年6月上一届的两倍,其中包含大量使用生成式AI制作的作品。",
+          "大量玩家在社交媒体上表达对AI制作游戏数量激增的不满,认为这使浏览展会变得更加困难。",
+          "Valve现行政策允许使用生成式AI的游戏参展,但要求开发者在Steam商店页面披露AI使用情况。",
+          "文章指出,AI制作的项目在Steam分类上同样被归为'独立游戏',但其性质与经过数年打磨的小型团队作品不同,受冲击最大的是传统独立开发者。"
+        ],
+        "background": [
+          "Valve自2026年1月起更新了AI内容披露政策,要求开发者披露面向玩家可见的AI生成内容(营销素材、概念图及玩家可直接接触的游戏内容)。"
+        ],
+        "outcome": [
+          "文章建议Valve考虑为Steam Next Fest设立单独的AI内容专区,让排斥此类内容的玩家可以选择跳过;2027年首届Steam Next Fest已定于2月举行。"
+        ]
+      },
+      "members": [
+        {
+          "title": "Steam Next Fest本届AI制作游戏数量激增,玩家不满情绪升温",
+          "url": "https://gamerant.com/steam-next-fest-october-2026-generative-ai-games/",
+          "source_name": "GameRant",
+          "date": "2026-10-22",
+          "section": 1,
+          "core_facts": [
+            "2026年10月的Steam Next Fest参展游戏数量约为同年6月上一届的两倍,其中包含大量使用生成式AI制作的作品。",
+            "大量玩家在社交媒体上表达对AI制作游戏数量激增的不满,认为这使浏览展会变得更加困难。",
+            "Valve现行政策允许使用生成式AI的游戏参展,但要求开发者在Steam商店页面披露AI使用情况。",
+            "文章指出,AI制作的项目在Steam分类上同样被归为'独立游戏',但其性质与经过数年打磨的小型团队作品不同,受冲击最大的是传统独立开发者。"
+          ],
+          "background": [
+            "Valve自2026年1月起更新了AI内容披露政策,要求开发者披露面向玩家可见的AI生成内容(营销素材、概念图及玩家可直接接触的游戏内容)。"
+          ],
+          "outcome": [
+            "文章建议Valve考虑为Steam Next Fest设立单独的AI内容专区,让排斥此类内容的玩家可以选择跳过;2027年首届Steam Next Fest已定于2月举行。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "AI辅助'克隆抄袭'风潮冲击独立游戏圈,多工作室取消公开试玩",
+        "url": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning",
+        "secondary_url": "https://kotaku.com/devs-behind-needle-in-a-haystack-clone-complain-their-clone-has-been-cloned-by-vibe-coder-2000747284",
+        "source_name": "Game Developer / Kotaku",
+        "date": "2026-10-19",
+        "section": 1,
+        "core_facts": [
+          "《月光商人》(Moonlighter)开发商Digital Sun Games宣布取消新作《ReVamp》原定于Steam的大型公开试玩,原因是担忧AI工具能让他人迅速逆向工程并复制游戏核心玩法,改为10月29日起在自家Discord举行规模更小、更可控的试玩。",
+          "10月17日,开发者NoGlyph在Steam上指控另一款名为《A Game About Needle In A Haystack》(10月16日上线)的游戏抄袭其代码,称在对方代码中发现13个与自家游戏完全同名的类,以及超过一半逐字匹配的函数,甚至包含一条指向自家游戏中并不存在的着色器的报错信息。",
+          "该抄袭模式被认为与'借助Claude等AI工具对已编译游戏进行逆向解包(decompile)后进行复制'的方式相似。",
+          "同期,Alliance Arts与Who's You工作室也以担忧AI抄袭为由,取消了《Drunken Goddess Reflux》在本届Steam Next Fest的试玩演示。"
+        ],
+        "background": [
+          "相关担忧源于此前走红的原创爆款游戏《Needle In A Haystack Simulator》(Studio Bitdot制作)在今年8月走红后,Steam上迅速涌现出大量同名或相似的克隆作品。"
+        ],
+        "outcome": [
+          "多家独立工作室因担忧AI克隆而缩减或取消了原定的公开试玩与演示发布规模,业内担忧此举将减少独立游戏惯常依赖的早期曝光与引流机会。"
+        ]
+      },
+      "members": [
+        {
+          "title": "AI辅助'克隆抄袭'风潮冲击独立游戏圈,多工作室取消公开试玩",
+          "url": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning",
+          "secondary_url": "https://kotaku.com/devs-behind-needle-in-a-haystack-clone-complain-their-clone-has-been-cloned-by-vibe-coder-2000747284",
+          "source_name": "Game Developer / Kotaku",
+          "date": "2026-10-19",
+          "section": 1,
+          "core_facts": [
+            "《月光商人》(Moonlighter)开发商Digital Sun Games宣布取消新作《ReVamp》原定于Steam的大型公开试玩,原因是担忧AI工具能让他人迅速逆向工程并复制游戏核心玩法,改为10月29日起在自家Discord举行规模更小、更可控的试玩。",
+            "10月17日,开发者NoGlyph在Steam上指控另一款名为《A Game About Needle In A Haystack》(10月16日上线)的游戏抄袭其代码,称在对方代码中发现13个与自家游戏完全同名的类,以及超过一半逐字匹配的函数,甚至包含一条指向自家游戏中并不存在的着色器的报错信息。",
+            "该抄袭模式被认为与'借助Claude等AI工具对已编译游戏进行逆向解包(decompile)后进行复制'的方式相似。",
+            "同期,Alliance Arts与Who's You工作室也以担忧AI抄袭为由,取消了《Drunken Goddess Reflux》在本届Steam Next Fest的试玩演示。"
+          ],
+          "background": [
+            "相关担忧源于此前走红的原创爆款游戏《Needle In A Haystack Simulator》(Studio Bitdot制作)在今年8月走红后,Steam上迅速涌现出大量同名或相似的克隆作品。"
+          ],
+          "outcome": [
+            "多家独立工作室因担忧AI克隆而缩减或取消了原定的公开试玩与演示发布规模,业内担忧此举将减少独立游戏惯常依赖的早期曝光与引流机会。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "悟空声优野沢雅子谴责AI盗用声音'如同偷窃',日本声优工会公布AI使用准则草案",
+        "url": "https://kotaku.com/voice-of-goku-responds-to-ai-stealing-her-voice-i-cant-forgive-them-it-makes-me-really-angry-its-no-different-than-theft-2000747356",
+        "source_name": "Kotaku",
+        "date": "2026-10-19",
+        "section": 1,
+        "core_facts": [
+          "《龙珠》孙悟空配音演员野沢雅子(Masako Nozawa)在接受NHK采访时表示,有未经授权的AI生成版本使用了她的声音。",
+          "她表示该AI声音'缺乏感情',并称'我无法原谅他们,这让我非常生气,这和偷窃没有区别',强调自己的声音与表演属于本人,即便是很小的用途也需获得许可。",
+          "代表约2600名声优的日本演员工会(Japan Actors Union)就此召开新闻发布会,公布了首版生成式AI使用准则草案。",
+          "准则草案规定:任何复刻演员声音的AI音频制作(包括未经授权的合成及用作训练素材)须在每一环节获得当事演员同意;经授权的AI语音工作应被视为一次'表演',相关公司需支付相应薪酬和/或版税。"
+        ],
+        "background": [
+          "2024年已有一批日本声优成立组织抗议AI滥用声音问题;声优津田健次郎此前曾因TikTok上出现未经许可使用其声音的视频提起诉讼,该案后因视频被下架而被撤销。"
+        ],
+        "outcome": [
+          "日本声优工会已正式公布AI使用准则草案;日本政府仍在就生成式AI相关的版权等法律问题制定应对方案,尚无最终结论。"
+        ]
+      },
+      "members": [
+        {
+          "title": "悟空声优野沢雅子谴责AI盗用声音'如同偷窃',日本声优工会公布AI使用准则草案",
+          "url": "https://kotaku.com/voice-of-goku-responds-to-ai-stealing-her-voice-i-cant-forgive-them-it-makes-me-really-angry-its-no-different-than-theft-2000747356",
+          "source_name": "Kotaku",
+          "date": "2026-10-19",
+          "section": 1,
+          "core_facts": [
+            "《龙珠》孙悟空配音演员野沢雅子(Masako Nozawa)在接受NHK采访时表示,有未经授权的AI生成版本使用了她的声音。",
+            "她表示该AI声音'缺乏感情',并称'我无法原谅他们,这让我非常生气,这和偷窃没有区别',强调自己的声音与表演属于本人,即便是很小的用途也需获得许可。",
+            "代表约2600名声优的日本演员工会(Japan Actors Union)就此召开新闻发布会,公布了首版生成式AI使用准则草案。",
+            "准则草案规定:任何复刻演员声音的AI音频制作(包括未经授权的合成及用作训练素材)须在每一环节获得当事演员同意;经授权的AI语音工作应被视为一次'表演',相关公司需支付相应薪酬和/或版税。"
+          ],
+          "background": [
+            "2024年已有一批日本声优成立组织抗议AI滥用声音问题;声优津田健次郎此前曾因TikTok上出现未经许可使用其声音的视频提起诉讼,该案后因视频被下架而被撤销。"
+          ],
+          "outcome": [
+            "日本声优工会已正式公布AI使用准则草案;日本政府仍在就生成式AI相关的版权等法律问题制定应对方案,尚无最终结论。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "游戏反编译社区网站decomp.dev因AI冲击社区协作生态宣布关闭",
+        "url": "https://kotaku.com/video-game-decomp-hub-closes-due-to-ai-the-community-aspect-of-decompilation-has-been-broken-2000747302",
+        "source_name": "Kotaku",
+        "date": "2026-10-18",
+        "section": 1,
+        "core_facts": [
+          "2024年创立的游戏反编译(decompilation)社区协作平台decomp.dev团队宣布关闭该网站。",
+          "团队表示核心问题并非AI技术本身,而是AI改变了社区性质:'在适当的引导、人工把关和代码审查下,AI可以加快反编译进程',但'反编译的社区协作属性已经被破坏'。",
+          "团队指出,如今的AI模型十分擅长完成反编译任务,使任何拥有足够算力/token额度的人都能在不深入参与社区的情况下产出贡献,导致大量低质量的'过路式贡献'(drive-by contributions)涌入,稀释了原有的协作氛围。"
+        ],
+        "background": [
+          "decomp.dev此前随着玩家社区的模组制作(modding)、汉化移植补丁和反编译活动日益增多而逐渐发展壮大。"
+        ],
+        "outcome": [
+          "decomp.dev运营团队已正式关闭该平台。"
+        ]
+      },
+      "members": [
+        {
+          "title": "游戏反编译社区网站decomp.dev因AI冲击社区协作生态宣布关闭",
+          "url": "https://kotaku.com/video-game-decomp-hub-closes-due-to-ai-the-community-aspect-of-decompilation-has-been-broken-2000747302",
+          "source_name": "Kotaku",
+          "date": "2026-10-18",
+          "section": 1,
+          "core_facts": [
+            "2024年创立的游戏反编译(decompilation)社区协作平台decomp.dev团队宣布关闭该网站。",
+            "团队表示核心问题并非AI技术本身,而是AI改变了社区性质:'在适当的引导、人工把关和代码审查下,AI可以加快反编译进程',但'反编译的社区协作属性已经被破坏'。",
+            "团队指出,如今的AI模型十分擅长完成反编译任务,使任何拥有足够算力/token额度的人都能在不深入参与社区的情况下产出贡献,导致大量低质量的'过路式贡献'(drive-by contributions)涌入,稀释了原有的协作氛围。"
+          ],
+          "background": [
+            "decomp.dev此前随着玩家社区的模组制作(modding)、汉化移植补丁和反编译活动日益增多而逐渐发展壮大。"
+          ],
+          "outcome": [
+            "decomp.dev运营团队已正式关闭该平台。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Wonder Interactive发布Strata:让AI编程代理把Unreal Engine游戏一键搬上浏览器",
+        "url": "https://gamesbeat.com/wonder-interactives-strata-uses-ai-to-take-unreal-engine-games-to-browsers-using-webassembly-and-webgpu/",
+        "source_name": "GamesBeat",
+        "date": "2026-10-22",
+        "section": 1,
+        "core_facts": [
+          "Wonder Interactive(同时运营浏览器端Unreal Engine应用运行平台SimplyStream)发布开发者工具Strata,可将Unreal Engine项目打包为WebAssembly/WebGPU版本,并生成可分享的浏览器链接。",
+          "开发者可通过Claude Code、Codex、Cursor等AI编程助手,借助Model Context Protocol(MCP),用一句自然语言提示触发完整的构建与部署流程;公司同时提供不依赖AI代理的命令行(CLI)方案。",
+          "Strata会在真实GPU环境中自动执行构建检查,并对项目文件及大型二进制资源保留版本历史。",
+          "公司联合创始人兼COO Alex St. Louis表示'AI就是游戏开发的未来',称目标是让浏览器成为Unreal Engine的'一等平台',并表示AI代理'需要合适的基础设施才能真正构建、测试和发布游戏'。",
+          "团队已实现将Epic的City Sample范例在浏览器中运行,支持WebGPU版Lumen和Nanite效果,玩家仅需下载约3%的数据即可开始在场景中移动,其余内容实时流式加载。"
+        ],
+        "background": [
+          "Wonder Interactive是Epic MegaGrant资助对象,同时也是Unreal Engine认证服务合作伙伴(Unreal Engine Authorized Service Partner)。"
+        ],
+        "outcome": [
+          "Strata与SimplyStream已上线并开放开发者注册;St. Louis透露公司正考虑推出面向消费者的'网页版Steam'式直销市场,但尚未公布具体细节或时间表。"
+        ]
+      },
+      "members": [
+        {
+          "title": "Wonder Interactive发布Strata:让AI编程代理把Unreal Engine游戏一键搬上浏览器",
+          "url": "https://gamesbeat.com/wonder-interactives-strata-uses-ai-to-take-unreal-engine-games-to-browsers-using-webassembly-and-webgpu/",
+          "source_name": "GamesBeat",
+          "date": "2026-10-22",
+          "section": 1,
+          "core_facts": [
+            "Wonder Interactive(同时运营浏览器端Unreal Engine应用运行平台SimplyStream)发布开发者工具Strata,可将Unreal Engine项目打包为WebAssembly/WebGPU版本,并生成可分享的浏览器链接。",
+            "开发者可通过Claude Code、Codex、Cursor等AI编程助手,借助Model Context Protocol(MCP),用一句自然语言提示触发完整的构建与部署流程;公司同时提供不依赖AI代理的命令行(CLI)方案。",
+            "Strata会在真实GPU环境中自动执行构建检查,并对项目文件及大型二进制资源保留版本历史。",
+            "公司联合创始人兼COO Alex St. Louis表示'AI就是游戏开发的未来',称目标是让浏览器成为Unreal Engine的'一等平台',并表示AI代理'需要合适的基础设施才能真正构建、测试和发布游戏'。",
+            "团队已实现将Epic的City Sample范例在浏览器中运行,支持WebGPU版Lumen和Nanite效果,玩家仅需下载约3%的数据即可开始在场景中移动,其余内容实时流式加载。"
+          ],
+          "background": [
+            "Wonder Interactive是Epic MegaGrant资助对象,同时也是Unreal Engine认证服务合作伙伴(Unreal Engine Authorized Service Partner)。"
+          ],
+          "outcome": [
+            "Strata与SimplyStream已上线并开放开发者注册;St. Louis透露公司正考虑推出面向消费者的'网页版Steam'式直销市场,但尚未公布具体细节或时间表。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "行业报告：97%游戏工作室已用AI，但多数尚未深度融入生产流程",
+        "url": "https://www.videogameschronicle.com/news/report-finds-that-94-of-studios-use-ai-but-more-than-half-say-it-isnt-deeply-embedded-into-production/",
+        "source_name": "Video Games Chronicle (VGC)",
+        "date": "2026-10-20",
+        "section": 2,
+        "summary": "游戏行业咨询机构Vivrato基于101位欧美工作室高管访谈发布的VAIA报告显示，97%受访者称已在某种程度使用AI，94%称AI已用于至少一个生产环节。但52%受访者为AI融入生产流程深度打分不超过10分制的3分，欧洲工作室在美术动画环节的AI使用率(70%)明显高于北美(53%)。"
+      },
+      "members": [
+        {
+          "title": "行业报告：97%游戏工作室已用AI，但多数尚未深度融入生产流程",
+          "url": "https://www.videogameschronicle.com/news/report-finds-that-94-of-studios-use-ai-but-more-than-half-say-it-isnt-deeply-embedded-into-production/",
+          "source_name": "Video Games Chronicle (VGC)",
+          "date": "2026-10-20",
+          "section": 2,
+          "summary": "游戏行业咨询机构Vivrato基于101位欧美工作室高管访谈发布的VAIA报告显示，97%受访者称已在某种程度使用AI，94%称AI已用于至少一个生产环节。但52%受访者为AI融入生产流程深度打分不超过10分制的3分，欧洲工作室在美术动画环节的AI使用率(70%)明显高于北美(53%)。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "樱井政博谈Steam被AI游戏“淹没”：真正有创意的开发者将更受重视",
+        "url": "https://www.videogameschronicle.com/news/masahiro-sakurai-says-as-ai-games-dominate-steam-developers-who-are-truly-creative-will-become-even-more-important/",
+        "source_name": "Video Games Chronicle (VGC)",
+        "date": "2026-10-22",
+        "section": 2,
+        "summary": "《任天堂明星大乱斗》制作人樱井政博接受采访时表示，Steam上AI驱动或批量生产的游戏数量仍将持续增长，但多数难以实现商业成功，且容易相互模仿已有玩法。他认为AI可以模仿已有创作者的风格，却无法创造该创作者“下一步”真正原创的作品，因此独具风格的开发者价值将更加凸显。"
+      },
+      "members": [
+        {
+          "title": "樱井政博谈Steam被AI游戏“淹没”：真正有创意的开发者将更受重视",
+          "url": "https://www.videogameschronicle.com/news/masahiro-sakurai-says-as-ai-games-dominate-steam-developers-who-are-truly-creative-will-become-even-more-important/",
+          "source_name": "Video Games Chronicle (VGC)",
+          "date": "2026-10-22",
+          "section": 2,
+          "summary": "《任天堂明星大乱斗》制作人樱井政博接受采访时表示，Steam上AI驱动或批量生产的游戏数量仍将持续增长，但多数难以实现商业成功，且容易相互模仿已有玩法。他认为AI可以模仿已有创作者的风格，却无法创造该创作者“下一步”真正原创的作品，因此独具风格的开发者价值将更加凸显。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "NVIDIA DLSS 4.5升级覆盖《赛博朋克2077》《动物园之星2》及《使命召唤：现代战争4》",
+        "url": "https://www.nvidia.com/en-us/geforce/news/dlss-4-5-cyberpunk-2077-planet-zoo-2-modern-warfare-4/",
+        "source_name": "NVIDIA",
+        "date": "2026-10-21",
+        "section": 2,
+        "summary": "NVIDIA宣布《赛博朋克2077》将通过10月22日更新支持DLSS 4.5动态多帧生成技术，并把现有多帧生成、光线重构和超分辨率功能升级至第二代AI模型；新发售的《动物园之星2》已原生支持DLSS 4.5全套功能；《使命召唤：现代战争4》多人模式也将在10月23日正式上线时加入DLSS 4.5支持，RTX 50系列显卡帧率最高可提升6倍。"
+      },
+      "members": [
+        {
+          "title": "NVIDIA DLSS 4.5升级覆盖《赛博朋克2077》《动物园之星2》及《使命召唤：现代战争4》",
+          "url": "https://www.nvidia.com/en-us/geforce/news/dlss-4-5-cyberpunk-2077-planet-zoo-2-modern-warfare-4/",
+          "source_name": "NVIDIA",
+          "date": "2026-10-21",
+          "section": 2,
+          "summary": "NVIDIA宣布《赛博朋克2077》将通过10月22日更新支持DLSS 4.5动态多帧生成技术，并把现有多帧生成、光线重构和超分辨率功能升级至第二代AI模型；新发售的《动物园之星2》已原生支持DLSS 4.5全套功能；《使命召唤：现代战争4》多人模式也将在10月23日正式上线时加入DLSS 4.5支持，RTX 50系列显卡帧率最高可提升6倍。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Xbox成立“Xbox Labs”团队探索智能体等新型游戏技术",
+        "url": "https://pocketgamer.biz/xbox-launches-labs-group-to-explore-new-gaming-technology/",
+        "source_name": "PocketGamer.biz",
+        "date": "2026-10-16",
+        "section": 2,
+        "summary": "Xbox宣布成立由游戏制作人、工程师和科学家组成的“Xbox Labs”团队，专注探索能让游戏更易被创作和获取的新兴技术，并以能否带来更多玩家和创作者作为成效标准。负责人提到“编码是智能体最先承担的主要工作负载”，暗示团队将围绕AI智能体等技术开展跨平台移植等实验，并计划把成果开放给行业开发者。"
+      },
+      "members": [
+        {
+          "title": "Xbox成立“Xbox Labs”团队探索智能体等新型游戏技术",
+          "url": "https://pocketgamer.biz/xbox-launches-labs-group-to-explore-new-gaming-technology/",
+          "source_name": "PocketGamer.biz",
+          "date": "2026-10-16",
+          "section": 2,
+          "summary": "Xbox宣布成立由游戏制作人、工程师和科学家组成的“Xbox Labs”团队，专注探索能让游戏更易被创作和获取的新兴技术，并以能否带来更多玩家和创作者作为成效标准。负责人提到“编码是智能体最先承担的主要工作负载”，暗示团队将围绕AI智能体等技术开展跨平台移植等实验，并计划把成果开放给行业开发者。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Take-Two前AI负责人：警惕AI炒作，应聚焦真正创造新可能的场景",
+        "url": "https://pocketgamer.biz/pgc-nordics-2026-live-ops-d2c-ai-ip-talks/",
+        "source_name": "PocketGamer.biz",
+        "date": "2026-10-21",
+        "section": 2,
+        "summary": "在Pocket Gamer Connects Nordics大会上，Take-Two前AI负责人、现LuDic AI创始人Luke Dicken提出应理性看待四年来的生成式AI炒作，既不该全盘否定AI，也不该因单一成功案例就认为行业已被颠覆。他认为许多被归咎于AI的问题实际是企业为省钱做出的商业决策，单纯追求“AI提效”如同“在跑步机上空转”。"
+      },
+      "members": [
+        {
+          "title": "Take-Two前AI负责人：警惕AI炒作，应聚焦真正创造新可能的场景",
+          "url": "https://pocketgamer.biz/pgc-nordics-2026-live-ops-d2c-ai-ip-talks/",
+          "source_name": "PocketGamer.biz",
+          "date": "2026-10-21",
+          "section": 2,
+          "summary": "在Pocket Gamer Connects Nordics大会上，Take-Two前AI负责人、现LuDic AI创始人Luke Dicken提出应理性看待四年来的生成式AI炒作，既不该全盘否定AI，也不该因单一成功案例就认为行业已被颠覆。他认为许多被归咎于AI的问题实际是企业为省钱做出的商业决策，单纯追求“AI提效”如同“在跑步机上空转”。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "AI应用泛滥致苹果App Store审核时间明显拖慢",
+        "url": "https://mobilegamer.biz/app-store-review-times-are-being-dragged-down-by-a-flood-of-ai-made-apps-and-games/",
+        "source_name": "MobileGamer.biz",
+        "date": "2026-10-20",
+        "section": 2,
+        "summary": "多家中小开发商反映，苹果App Store对新提交应用的审核时间近期明显拉长，部分案例需等待数周，而老应用更新审核受影响较小；Google Play审核时间则基本保持稳定。业内普遍认为今年AI辅助制作的应用和游戏数量激增是主因，苹果回应称正在扩大自动化审核与滥用检测，并强调所有应用无论制作方式都适用同一审核标准。"
+      },
+      "members": [
+        {
+          "title": "AI应用泛滥致苹果App Store审核时间明显拖慢",
+          "url": "https://mobilegamer.biz/app-store-review-times-are-being-dragged-down-by-a-flood-of-ai-made-apps-and-games/",
+          "source_name": "MobileGamer.biz",
+          "date": "2026-10-20",
+          "section": 2,
+          "summary": "多家中小开发商反映，苹果App Store对新提交应用的审核时间近期明显拉长，部分案例需等待数周，而老应用更新审核受影响较小；Google Play审核时间则基本保持稳定。业内普遍认为今年AI辅助制作的应用和游戏数量激增是主因，苹果回应称正在扩大自动化审核与滥用检测，并强调所有应用无论制作方式都适用同一审核标准。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "米哈游团队联合高校开源游戏操控大模型GameScaling",
+        "url": "https://technode.com/2026/10/23/mihoyo-team-open-sources-gamescaling-models/",
+        "source_name": "TechNode",
+        "date": "2026-10-23",
+        "section": 2,
+        "summary": "由米哈游Honkai AI团队成员与清华、北大等高校研究者组成的团队开源了GameScaling系列模型，基于Qwen3.5视觉语言模型持续预训练，能通过观察游戏画面直接输出键鼠操作指令，共发布参数规模从8亿到270亿的8个版本。团队在《我的世界》采矿合成、《毁灭战士》战斗导航及解谜密室等任务中进行了演示，并以Apache 2.0协议开源模型权重与推理代码。"
+      },
+      "members": [
+        {
+          "title": "米哈游团队联合高校开源游戏操控大模型GameScaling",
+          "url": "https://technode.com/2026/10/23/mihoyo-team-open-sources-gamescaling-models/",
+          "source_name": "TechNode",
+          "date": "2026-10-23",
+          "section": 2,
+          "summary": "由米哈游Honkai AI团队成员与清华、北大等高校研究者组成的团队开源了GameScaling系列模型，基于Qwen3.5视觉语言模型持续预训练，能通过观察游戏画面直接输出键鼠操作指令，共发布参数规模从8亿到270亿的8个版本。团队在《我的世界》采矿合成、《毁灭战士》战斗导航及解谜密室等任务中进行了演示，并以Apache 2.0协议开源模型权重与推理代码。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "库洛首次公开投资AI公司，腾讯半月内在土耳其投入近6000万美元",
+        "url": "https://www.youxituoluo.com/534971.html",
+        "source_name": "游戏陀螺",
+        "date": "2026-10-19",
+        "section": 2,
+        "summary": "据企查查信息，广州库洛科技成为专注多模态AI（超拟人语音、音乐音效生成、3D角色驱动等）的深圳言之域科技新增股东，持股15%，这是库洛首次公开投资AI公司。同期，腾讯在半个月内领投土耳其手游厂商FlowGames和Circle Games，合计出资近6000万美元，显示其海外游戏投资节奏明显加快。"
+      },
+      "members": [
+        {
+          "title": "库洛首次公开投资AI公司，腾讯半月内在土耳其投入近6000万美元",
+          "url": "https://www.youxituoluo.com/534971.html",
+          "source_name": "游戏陀螺",
+          "date": "2026-10-19",
+          "section": 2,
+          "summary": "据企查查信息，广州库洛科技成为专注多模态AI（超拟人语音、音乐音效生成、3D角色驱动等）的深圳言之域科技新增股东，持股15%，这是库洛首次公开投资AI公司。同期，腾讯在半个月内领投土耳其手游厂商FlowGames和Circle Games，合计出资近6000万美元，显示其海外游戏投资节奏明显加快。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "测算：让游戏AI NPC“记住”百万玩家，每月模型成本可达数千美元",
+        "url": "https://www.youxituoluo.com/534970.html",
+        "source_name": "游戏陀螺",
+        "date": "2026-10-19",
+        "section": 2,
+        "summary": "文章以10万月活、每人每月100轮对话为假设测算，仅AI NPC对话与记忆处理环节的模型调用成本约为每月6900美元，且成本随玩家规模近似线性增长，未计入服务器、合规审核及实时语音等额外开支。文章指出，如《inZOI》采用的端侧推理方案可将部分成本转移至硬件，但无法从根本上消除，缓存与规则引擎等优化手段仍是控制成本的关键。"
+      },
+      "members": [
+        {
+          "title": "测算：让游戏AI NPC“记住”百万玩家，每月模型成本可达数千美元",
+          "url": "https://www.youxituoluo.com/534970.html",
+          "source_name": "游戏陀螺",
+          "date": "2026-10-19",
+          "section": 2,
+          "summary": "文章以10万月活、每人每月100轮对话为假设测算，仅AI NPC对话与记忆处理环节的模型调用成本约为每月6900美元，且成本随玩家规模近似线性增长，未计入服务器、合规审核及实时语音等额外开支。文章指出，如《inZOI》采用的端侧推理方案可将部分成本转移至硬件，但无法从根本上消除，缓存与规则引擎等优化手段仍是控制成本的关键。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "深圳职业技术大学成立“AI+游戏”人才培养工坊",
+        "url": "https://www.youxituoluo.com/534988.html",
+        "source_name": "游戏陀螺",
+        "date": "2026-10-21",
+        "section": 2,
+        "summary": "深圳职业技术大学数字媒体学院与深圳市游戏产业协会联合成立“极智游戏设计工坊”，南山区游戏创新发展中心协办，13家企业及4家南山人才基地企业参与校企合作签约。该工坊是“AI+游戏经典文化共创计划”的实践平台，旨在培养兼具创意、审美判断与AI提示及快速原型能力的复合型人才，并讨论行业对内容同质化、合规与算力成本等方面的担忧。"
+      },
+      "members": [
+        {
+          "title": "深圳职业技术大学成立“AI+游戏”人才培养工坊",
+          "url": "https://www.youxituoluo.com/534988.html",
+          "source_name": "游戏陀螺",
+          "date": "2026-10-21",
+          "section": 2,
+          "summary": "深圳职业技术大学数字媒体学院与深圳市游戏产业协会联合成立“极智游戏设计工坊”，南山区游戏创新发展中心协办，13家企业及4家南山人才基地企业参与校企合作签约。该工坊是“AI+游戏经典文化共创计划”的实践平台，旨在培养兼具创意、审美判断与AI提示及快速原型能力的复合型人才，并讨论行业对内容同质化、合规与算力成本等方面的担忧。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "前Sony Online高管团队推出AI驱动卡牌游戏Valesong，Discord率先上线",
+        "url": "https://gamesbeat.com/distinct-possibility-studios-comes-back-with-valesong-4-player-online-card-game-for-discord-activities/",
+        "source_name": "GamesBeat",
+        "date": "2026-10-23",
+        "section": 2,
+        "summary": "由John Smedley领导的Distinct Possibility Studios宣布旗下四人线上奇幻卡牌游戏《Valesong》将于10月29日作为Discord Activities抢先体验上线，之后计划登陆Steam。游戏卡图与配音均由AI生成（配音基于专业声优并向其支付报酬），特效与版面设计则由人工完成，工作室表示所有创意决策仍由人类把控，AI仅用于执行层面的辅助。"
+      },
+      "members": [
+        {
+          "title": "前Sony Online高管团队推出AI驱动卡牌游戏Valesong，Discord率先上线",
+          "url": "https://gamesbeat.com/distinct-possibility-studios-comes-back-with-valesong-4-player-online-card-game-for-discord-activities/",
+          "source_name": "GamesBeat",
+          "date": "2026-10-23",
+          "section": 2,
+          "summary": "由John Smedley领导的Distinct Possibility Studios宣布旗下四人线上奇幻卡牌游戏《Valesong》将于10月29日作为Discord Activities抢先体验上线，之后计划登陆Steam。游戏卡图与配音均由AI生成（配音基于专业声优并向其支付报酬），特效与版面设计则由人工完成，工作室表示所有创意决策仍由人类把控，AI仅用于执行层面的辅助。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "英国游戏行业推出“AI认证标志”规范工作室AI合规",
+        "url": "https://www.ukie.org.uk/ai-certification-mark/",
+        "source_name": "Ukie",
+        "date": "2026-10-20",
+        "section": 2,
+        "summary": "英国游戏行业协会Ukie联合律所Sheridans推出“AI合规与认证服务”，工作室通过问卷调查、专业评估及制定AI使用政策等步骤后可获得“AI认证标志”。该标志可用于在融资、尽职调查或商务洽谈中证明工作室的AI使用已经过专业审查，被视为行业应对版权归属与AI生成内容权属风险的自律举措。"
+      },
+      "members": [
+        {
+          "title": "英国游戏行业推出“AI认证标志”规范工作室AI合规",
+          "url": "https://www.ukie.org.uk/ai-certification-mark/",
+          "source_name": "Ukie",
+          "date": "2026-10-20",
+          "section": 2,
+          "summary": "英国游戏行业协会Ukie联合律所Sheridans推出“AI合规与认证服务”，工作室通过问卷调查、专业评估及制定AI使用政策等步骤后可获得“AI认证标志”。该标志可用于在融资、尽职调查或商务洽谈中证明工作室的AI使用已经过专业审查，被视为行业应对版权归属与AI生成内容权属风险的自律举措。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "AMD新驱动将AI超分技术FSR 4.1扩展至更多GPU及APU",
+        "url": "https://www.4gamer.net/games/022/G002212/20261022035/",
+        "source_name": "4Gamer.net",
+        "date": "2026-10-22",
+        "section": 2,
+        "summary": "AMD发布经WHQL认证的Adrenalin Edition 26.10.1驱动，将AI超分技术FSR Upscaling 4.1的支持范围扩展至Radeon RX 6000系列显卡，以及Ryzen AI Max 400/300系列和Ryzen AI 9 400/300系列的部分内置GPU，较原计划的2027年1月提前实现RX 6000系列适配。新驱动同时为《使命召唤：现代战争4》、《星球大战：银河赛车手》和《最终幻想：共鸣》新增FSR支持。"
+      },
+      "members": [
+        {
+          "title": "AMD新驱动将AI超分技术FSR 4.1扩展至更多GPU及APU",
+          "url": "https://www.4gamer.net/games/022/G002212/20261022035/",
+          "source_name": "4Gamer.net",
+          "date": "2026-10-22",
+          "section": 2,
+          "summary": "AMD发布经WHQL认证的Adrenalin Edition 26.10.1驱动，将AI超分技术FSR Upscaling 4.1的支持范围扩展至Radeon RX 6000系列显卡，以及Ryzen AI Max 400/300系列和Ryzen AI 9 400/300系列的部分内置GPU，较原计划的2027年1月提前实现RX 6000系列适配。新驱动同时为《使命召唤：现代战争4》、《星球大战：银河赛车手》和《最终幻想：共鸣》新增FSR支持。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "宝可梦卷入AI反编译热潮，大量AI辅助移植作品涌现",
+        "url": "https://kotaku.com/of-course-pokemons-been-pulled-into-the-ai-decompilation-frenzy-2000748316",
+        "source_name": "Kotaku",
+        "date": "2026-10-21",
+        "section": 2,
+        "summary": "游戏反编译平台decomp.dev相关人士表示，生成式AI让曾经“极度困难”的反编译工作变得迅速简单，大量宝可梦相关反编译与移植项目（如《晶钻》《珍珠》及金银复刻）随之涌现，还衍生出多款同人新作。报道同时提到有调查指出，部分AI生成的反编译代码与原版不一致、可能存在漏洞，若用于关键硬件可能带来安全隐患。"
+      },
+      "members": [
+        {
+          "title": "宝可梦卷入AI反编译热潮，大量AI辅助移植作品涌现",
+          "url": "https://kotaku.com/of-course-pokemons-been-pulled-into-the-ai-decompilation-frenzy-2000748316",
+          "source_name": "Kotaku",
+          "date": "2026-10-21",
+          "section": 2,
+          "summary": "游戏反编译平台decomp.dev相关人士表示，生成式AI让曾经“极度困难”的反编译工作变得迅速简单，大量宝可梦相关反编译与移植项目（如《晶钻》《珍珠》及金银复刻）随之涌现，还衍生出多款同人新作。报道同时提到有调查指出，部分AI生成的反编译代码与原版不一致、可能存在漏洞，若用于关键硬件可能带来安全隐患。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "2026年10月Steam Next Fest被低质量AI生成游戏“淹没”，策展缺失引发质疑",
+        "url": "https://kotaku.com/steam-next-fest-has-become-a-massive-disaster-and-a-grim-look-at-the-future-2000747008",
+        "source_name": "Kotaku",
+        "date": "2026-10-20",
+        "section": 2,
+        "summary": "2026年10月的Steam Next Fest参展演示数量激增至近7100个，Kotaku报道称其中大量为低质量、AI生成或快速“氛围编程”出来的克隆作品，令活动难以浏览、整体口碑下滑。文章批评Valve过度依赖用户标签和算法排序而缺乏人工策展，并预测随着AI工具降低制作门槛，未来几届活动规模会进一步膨胀、质量继续下滑。"
+      },
+      "members": [
+        {
+          "title": "2026年10月Steam Next Fest被低质量AI生成游戏“淹没”，策展缺失引发质疑",
+          "url": "https://kotaku.com/steam-next-fest-has-become-a-massive-disaster-and-a-grim-look-at-the-future-2000747008",
+          "source_name": "Kotaku",
+          "date": "2026-10-20",
+          "section": 2,
+          "summary": "2026年10月的Steam Next Fest参展演示数量激增至近7100个，Kotaku报道称其中大量为低质量、AI生成或快速“氛围编程”出来的克隆作品，令活动难以浏览、整体口碑下滑。文章批评Valve过度依赖用户标签和算法排序而缺乏人工策展，并预测随着AI工具降低制作门槛，未来几届活动规模会进一步膨胀、质量继续下滑。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Unity官方数据：AI编程代理已占其命令行工具98%的使用量",
+        "url": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
+        "source_name": "Unity（官方博客）",
+        "date": "2026-10-22",
+        "section": 2,
+        "summary": "Unity官方博客披露，自7月以来超过22.6万名登录用户运行过Unity CLI，累计记录逾2亿次事件，几乎全部为命令执行。数据显示7月20日至10月13日期间约98%的CLI运行来自Claude Code、Codex、Grok等AI编程代理和自动化工具，人工在终端直接输入的比例仅0.2%，其中Claude Code是使用最多的代理，美国、日本、韩国为最大登录用户群体。"
+      },
+      "members": [
+        {
+          "title": "Unity官方数据：AI编程代理已占其命令行工具98%的使用量",
+          "url": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
+          "source_name": "Unity（官方博客）",
+          "date": "2026-10-22",
+          "section": 2,
+          "summary": "Unity官方博客披露，自7月以来超过22.6万名登录用户运行过Unity CLI，累计记录逾2亿次事件，几乎全部为命令执行。数据显示7月20日至10月13日期间约98%的CLI运行来自Claude Code、Codex、Grok等AI编程代理和自动化工具，人工在终端直接输入的比例仅0.2%，其中Claude Code是使用最多的代理，美国、日本、韩国为最大登录用户群体。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "裁员潮叠加AI音乐冲击，独立游戏作曲人求生存",
+        "url": "https://www.chuapp.com/article/291705.html",
+        "source_name": "触乐",
+        "date": "2026-10-21",
+        "section": 2,
+        "summary": "触乐报道称，据ASGC统计2026年全球游戏业失业人数预计超过1.45万，自由作曲人的委托机会明显萎缩，Douze Dixièmes、Big Bad Wolf、ZA/UM等多家工作室相继关停或裁撤音频团队。文章指出部分工作室开始用AI生成配乐以压缩成本，但也有不少独立工作室主动在合同中加入“禁止使用生成式AI”条款，作曲人Alpha Chrome Yayo称这类条款让他感到安心。"
+      },
+      "members": [
+        {
+          "title": "裁员潮叠加AI音乐冲击，独立游戏作曲人求生存",
+          "url": "https://www.chuapp.com/article/291705.html",
+          "source_name": "触乐",
+          "date": "2026-10-21",
+          "section": 2,
+          "summary": "触乐报道称，据ASGC统计2026年全球游戏业失业人数预计超过1.45万，自由作曲人的委托机会明显萎缩，Douze Dixièmes、Big Bad Wolf、ZA/UM等多家工作室相继关停或裁撤音频团队。文章指出部分工作室开始用AI生成配乐以压缩成本，但也有不少独立工作室主动在合同中加入“禁止使用生成式AI”条款，作曲人Alpha Chrome Yayo称这类条款让他感到安心。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "破产工作室Liquid Swords创始人筹备新工作室，拟谨慎使用AI辅助开发",
+        "url": "https://www.pcgamer.com/gaming-industry/founder-of-bankrupt-samson-studio-mulls-how-to-use-ai-for-his-next-attempt-cutting-corners-in-game-development-has-a-habit-of-coming-back-to-bite-you-in-the-ass/",
+        "source_name": "PC Gamer",
+        "date": "2026-10-21",
+        "section": 2,
+        "summary": "《Samson》开发商兼发行商Liquid Swords已于10月12日被瑞典斯德哥尔摩地区法院宣告破产，创始人Christofer Sundberg告诉PC Gamer他计划筹建新工作室，团队更小、成本更低、财务预测更谨慎。他表示计划将AI主要用于原型制作、自动化重复性任务和测试，强调AI不会被用来替代员工，也不保证能削减成本。"
+      },
+      "members": [
+        {
+          "title": "破产工作室Liquid Swords创始人筹备新工作室，拟谨慎使用AI辅助开发",
+          "url": "https://www.pcgamer.com/gaming-industry/founder-of-bankrupt-samson-studio-mulls-how-to-use-ai-for-his-next-attempt-cutting-corners-in-game-development-has-a-habit-of-coming-back-to-bite-you-in-the-ass/",
+          "source_name": "PC Gamer",
+          "date": "2026-10-21",
+          "section": 2,
+          "summary": "《Samson》开发商兼发行商Liquid Swords已于10月12日被瑞典斯德哥尔摩地区法院宣告破产，创始人Christofer Sundberg告诉PC Gamer他计划筹建新工作室，团队更小、成本更低、财务预测更谨慎。他表示计划将AI主要用于原型制作、自动化重复性任务和测试，强调AI不会被用来替代员工，也不保证能削减成本。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "AMD与微软宣布FSR 4.1超分辨率技术将登陆Xbox Series X|S及ROG Xbox Ally掌机",
+        "url": "https://www.videogameschronicle.com/news/xbox-series-x-s-and-xbox-rog-ally-x-are-getting-amd-fsr-4-1-upscaling-to-improve-performance/",
+        "source_name": "Video Games Chronicle",
+        "date": "2026-10-21",
+        "section": 2,
+        "summary": "AMD宣布其AI超分辨率技术FSR 4.1将通过后续更新登陆Xbox Series X|S主机及华硕ROG Xbox Ally X掌机，开发者可借此以更低分辨率渲染游戏并升频至4K、画质损失有限，从而提升帧率。Xbox首席技术官Scott Van Vliet称这是继索尼PS5 Pro的PSSR和标准版PS5的QSSR之后，微软与AMD合作的又一步。"
+      },
+      "members": [
+        {
+          "title": "AMD与微软宣布FSR 4.1超分辨率技术将登陆Xbox Series X|S及ROG Xbox Ally掌机",
+          "url": "https://www.videogameschronicle.com/news/xbox-series-x-s-and-xbox-rog-ally-x-are-getting-amd-fsr-4-1-upscaling-to-improve-performance/",
+          "source_name": "Video Games Chronicle",
+          "date": "2026-10-21",
+          "section": 2,
+          "summary": "AMD宣布其AI超分辨率技术FSR 4.1将通过后续更新登陆Xbox Series X|S主机及华硕ROG Xbox Ally X掌机，开发者可借此以更低分辨率渲染游戏并升频至4K、画质损失有限，从而提升帧率。Xbox首席技术官Scott Van Vliet称这是继索尼PS5 Pro的PSSR和标准版PS5的QSSR之后，微软与AMD合作的又一步。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
