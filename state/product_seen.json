@@ -538,5 +538,13 @@
     "first_seen": "2026-10-23",
     "release_date": "2026-10-16",
     "summary": "Roblox Studio's AI Texture Generation feature added a \"Quality\" mode alongside the existing \"Fast\" mode, producing 4K PBR textures (color, roughness, metalness maps) in about 2 minutes versus Fast mode's 1K color-only output in about 30 seconds."
+  },
+  "https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620": {
+    "name": "Custom Terrain Materials (Roblox Studio/engine — full launch)",
+    "company": "Roblox",
+    "tier": "GA",
+    "first_seen": "2026-10-24",
+    "release_date": "2026-10-22",
+    "summary": "Roblox moved Custom Terrain Materials, letting creators define up to 62 paintable terrain materials, out of Early Access to full launch, alongside the first round of terrain rendering, storage and delivery performance improvements."
   }
 }
