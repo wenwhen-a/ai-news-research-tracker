@@ -1,0 +1,276 @@
+{
+  "as_of": "2026-10-24",
+  "cutoff": "2026-10-23",
+  "window_days": 1,
+  "summary": {
+    "input_items": 12,
+    "denied_source": 0,
+    "in_window": 12,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 11,
+    "duplicate_clusters": 1,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 11,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 10,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "据报道微软向Netflix索要8亿美元换取7年Xbox角色独家影视改编权，谈判破裂",
+        "url": "https://www.videogameschronicle.com/news/xbox-wanted-800-million-from-netflix-for-7-years-of-its-biggest-characters-its-claimed/",
+        "date": "2026-10-23",
+        "summary": "据Puck报道，微软曾要求Netflix支付8亿美元以获得Xbox旗下角色7年独家影视改编权，Netflix仅出价5亿美元，交易最终告吹；Xbox回应称其IP正受到\"创纪录\"的关注，并将转向与更多合作方签订小型协议。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据报道微软向Netflix索要8亿美元换取7年Xbox角色独家影视改编权，谈判破裂",
+          "url": "https://www.videogameschronicle.com/news/xbox-wanted-800-million-from-netflix-for-7-years-of-its-biggest-characters-its-claimed/",
+          "date": "2026-10-23",
+          "summary": "据Puck报道，微软曾要求Netflix支付8亿美元以获得Xbox旗下角色7年独家影视改编权，Netflix仅出价5亿美元，交易最终告吹；Xbox回应称其IP正受到\"创纪录\"的关注，并将转向与更多合作方签订小型协议。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Xbox首席运营官Helen Chiang履职三个月后离职",
+        "url": "https://gamesbeat.com/helen-chiang-reportedly-departs-xbox-coo-role-after-three-months/",
+        "date": "2026-10-23",
+        "summary": "据内部备忘录及The Verge报道，Xbox负责人Asha Sharma任命的首任首席运营官Helen Chiang在任职约三个月后离职，此前她曾在微软工作21年并负责过Mojang的Minecraft业务，其职责暂由其他高管分担。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Xbox首席运营官Helen Chiang履职三个月后离职",
+          "url": "https://gamesbeat.com/helen-chiang-reportedly-departs-xbox-coo-role-after-three-months/",
+          "date": "2026-10-23",
+          "summary": "据内部备忘录及The Verge报道，Xbox负责人Asha Sharma任命的首任首席运营官Helen Chiang在任职约三个月后离职，此前她曾在微软工作21年并负责过Mojang的Minecraft业务，其职责暂由其他高管分担。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "宫本茂谈AI：生成式AI不会让人类创造力过时",
+        "url": "https://www.videogameschronicle.com/news/shigeru-miyamoto-explains-why-ai-wont-make-human-creativity-obsolete/",
+        "date": "2026-10-23",
+        "summary": "任天堂创意研究员宫本茂在获颁日本文化勋章的记者会上表示，随着AI承担更多执行层面的工作，创作者个人的构思愿景将变得更加重要，他也提醒创作者不应将劳动过程中的满足感误认为作品本身的质量。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "宫本茂谈AI：生成式AI不会让人类创造力过时",
+          "url": "https://www.videogameschronicle.com/news/shigeru-miyamoto-explains-why-ai-wont-make-human-creativity-obsolete/",
+          "date": "2026-10-23",
+          "summary": "任天堂创意研究员宫本茂在获颁日本文化勋章的记者会上表示，随着AI承担更多执行层面的工作，创作者个人的构思愿景将变得更加重要，他也提醒创作者不应将劳动过程中的满足感误认为作品本身的质量。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Valve员工舞台演讲中提及代号\"HLX\"，引发《半条命3》猜测",
+        "url": "https://www.videogameschronicle.com/news/half-life-3-speculation-grows-as-valve-developer-mentions-hlx-during-stage-panel/",
+        "date": "2026-10-23",
+        "summary": "Valve音效设计师Mike Morasky在GameSoundCon 2026的一场面板讨论中提到代号\"HLX\"，外界猜测其指向下一部《半条命》作品；此前已有爆料称该作已进入抛光阶段且可从头玩到尾，但Valve官方未予确认。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Valve员工舞台演讲中提及代号\"HLX\"，引发《半条命3》猜测",
+          "url": "https://www.videogameschronicle.com/news/half-life-3-speculation-grows-as-valve-developer-mentions-hlx-during-stage-panel/",
+          "date": "2026-10-23",
+          "summary": "Valve音效设计师Mike Morasky在GameSoundCon 2026的一场面板讨论中提到代号\"HLX\"，外界猜测其指向下一部《半条命》作品；此前已有爆料称该作已进入抛光阶段且可从头玩到尾，但Valve官方未予确认。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "任天堂Switch Online将新增三款Game Boy游戏，含宫本茂监制的《鼹鼠的烦恼》",
+        "url": "https://www.videogameschronicle.com/news/three-more-game-boy-games-are-coming-to-switch-online-including-one-produced-by-shigeru-miyamoto/",
+        "date": "2026-10-23",
+        "summary": "任天堂宣布10月27日起《鼹鼠的烦恼》（宫本茂监制）、《复仇之魂》与《鳄鱼的报复》三款Game Boy游戏加入Switch Online经典游戏库，届时该库的Game Boy/Game Boy Color游戏数量将达到49款。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "任天堂Switch Online将新增三款Game Boy游戏，含宫本茂监制的《鼹鼠的烦恼》",
+          "url": "https://www.videogameschronicle.com/news/three-more-game-boy-games-are-coming-to-switch-online-including-one-produced-by-shigeru-miyamoto/",
+          "date": "2026-10-23",
+          "summary": "任天堂宣布10月27日起《鼹鼠的烦恼》（宫本茂监制）、《复仇之魂》与《鳄鱼的报复》三款Game Boy游戏加入Switch Online经典游戏库，届时该库的Game Boy/Game Boy Color游戏数量将达到49款。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "GameMaker宣布运行时GMRT将于2027年起对商业项目免费",
+        "url": "https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs",
+        "date": "2026-10-23",
+        "summary": "游戏引擎GameMaker开发商公布，其新一代运行时GMRT将从2027年起向所有开发者免费开放商业使用授权，此前商业发行仍需购买专业版许可证，该变化被视为对中小开发者降低门槛的举措。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "GameMaker宣布运行时GMRT将于2027年起对商业项目免费",
+          "url": "https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs",
+          "date": "2026-10-23",
+          "summary": "游戏引擎GameMaker开发商公布，其新一代运行时GMRT将从2027年起向所有开发者免费开放商业使用授权，此前商业发行仍需购买专业版许可证，该变化被视为对中小开发者降低门槛的举措。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Gamecom Team公布动作喜剧游戏《捣蛋鬼3：陨落王朝》PC版",
+        "url": "https://www.gematsu.com/2026/10/troublemaker-3-fallen-dynasty-announced-for-pc",
+        "date": "2026-10-23",
+        "summary": "印尼开发商Gamecom Team公布开放世界动作喜剧游戏《捣蛋鬼3：陨落王朝》登陆PC，官方称其为三部曲完结篇，世界规模为系列最大，具体发售日期与其他平台安排将于2027年公布。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Gamecom Team公布动作喜剧游戏《捣蛋鬼3：陨落王朝》PC版",
+          "url": "https://www.gematsu.com/2026/10/troublemaker-3-fallen-dynasty-announced-for-pc",
+          "date": "2026-10-23",
+          "summary": "印尼开发商Gamecom Team公布开放世界动作喜剧游戏《捣蛋鬼3：陨落王朝》登陆PC，官方称其为三部曲完结篇，世界规模为系列最大，具体发售日期与其他平台安排将于2027年公布。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据触乐报道：本届Steam新品节披露使用生成式AI的参展游戏比例升至36.4%",
+        "url": "https://www.chuapp.com/article/291712.html",
+        "date": "2026-10-24",
+        "summary": "据触乐援引SteamDB数据，本届Steam新品节共7145款参展游戏中约2596款在开发信息中披露使用了生成式AI，占比约36.4%，相比6月同类活动的19%上升约16个百分点。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据触乐报道：本届Steam新品节披露使用生成式AI的参展游戏比例升至36.4%",
+          "url": "https://www.chuapp.com/article/291712.html",
+          "date": "2026-10-24",
+          "summary": "据触乐援引SteamDB数据，本届Steam新品节共7145款参展游戏中约2596款在开发信息中披露使用了生成式AI，占比约36.4%，相比6月同类活动的19%上升约16个百分点。",
+          "section": 3
+        },
+        {
+          "title": "蛮啾网络《蓝色星原：旅谣》定档11月26日公测",
+          "url": "https://www.chuapp.com/article/291712.html",
+          "date": "2026-10-23",
+          "summary": "据触乐报道，蛮啾网络宣布旗下游戏《蓝色星原：旅谣》将于11月26日开启公测，此前9月结束的「旅迹测试」全球预约量已突破2500万。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《Flyff Universe》世界锦标赛FWC 2026落幕，Astral战队三连冠",
+        "url": "https://www.invenglobal.com/articles/27665/fwc-2026-draws-7000-on-site-attendees-astral-claims-three-peat-full-story",
+        "date": "2026-10-24",
+        "summary": "由Gala Lab开发、Wemade Connect发行的《Flyff Universe》世界锦标赛总决赛在菲律宾马尼拉举行，吸引约7000名现场观众及约5万人次直播观看，Astral战队以3比1击败SUPAHOTCREWXD夺得队史第三连冠。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《Flyff Universe》世界锦标赛FWC 2026落幕，Astral战队三连冠",
+          "url": "https://www.invenglobal.com/articles/27665/fwc-2026-draws-7000-on-site-attendees-astral-claims-three-peat-full-story",
+          "date": "2026-10-24",
+          "summary": "由Gala Lab开发、Wemade Connect发行的《Flyff Universe》世界锦标赛总决赛在菲律宾马尼拉举行，吸引约7000名现场观众及约5万人次直播观看，Astral战队以3比1击败SUPAHOTCREWXD夺得队史第三连冠。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《Look Outside》确认10月30日登陆PS5、Switch 2、PS4及Switch",
+        "url": "https://www.gematsu.com/2026/10/look-outside-coming-to-ps5-switch-2-ps4-and-switch-on-october-30",
+        "date": "2026-10-23",
+        "summary": "独立恐怖游戏《Look Outside》确认将于10月30日登陆PlayStation 5、Switch 2、PlayStation 4及Nintendo Switch平台，此前该作已在PC平台发售。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《Look Outside》确认10月30日登陆PS5、Switch 2、PS4及Switch",
+          "url": "https://www.gematsu.com/2026/10/look-outside-coming-to-ps5-switch-2-ps4-and-switch-on-october-30",
+          "date": "2026-10-23",
+          "summary": "独立恐怖游戏《Look Outside》确认将于10月30日登陆PlayStation 5、Switch 2、PlayStation 4及Nintendo Switch平台，此前该作已在PC平台发售。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《赛博朋克2》联合总监透露：小队近半数任务策划出身于模组制作者",
+        "url": "https://www.videogameschronicle.com/news/cyberpunk-2-associate-director-says-half-the-quest-team-were-hired-for-their-modding-work-on-other-cdpr-games/",
+        "date": "2026-10-23",
+        "summary": "CDPR《赛博朋克2》联合总监Paweł Sasko在介绍《赛博朋克2077》2.5版新增跨平台模组支持的直播中表示，该作任务团队中约有一半成员此前是《巫师3》等游戏的模组制作者，模组制作被其视为进入游戏行业的\"敲门砖\"。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《赛博朋克2》联合总监透露：小队近半数任务策划出身于模组制作者",
+          "url": "https://www.videogameschronicle.com/news/cyberpunk-2-associate-director-says-half-the-quest-team-were-hired-for-their-modding-work-on-other-cdpr-games/",
+          "date": "2026-10-23",
+          "summary": "CDPR《赛博朋克2》联合总监Paweł Sasko在介绍《赛博朋克2077》2.5版新增跨平台模组支持的直播中表示，该作任务团队中约有一半成员此前是《巫师3》等游戏的模组制作者，模组制作被其视为进入游戏行业的\"敲门砖\"。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [
+    [
+      {
+        "title": "据触乐报道：本届Steam新品节披露使用生成式AI的参展游戏比例升至36.4%",
+        "url": "https://www.chuapp.com/article/291712.html",
+        "date": "2026-10-24",
+        "summary": "据触乐援引SteamDB数据，本届Steam新品节共7145款参展游戏中约2596款在开发信息中披露使用了生成式AI，占比约36.4%，相比6月同类活动的19%上升约16个百分点。",
+        "section": 3
+      },
+      {
+        "title": "蛮啾网络《蓝色星原：旅谣》定档11月26日公测",
+        "url": "https://www.chuapp.com/article/291712.html",
+        "date": "2026-10-23",
+        "summary": "据触乐报道，蛮啾网络宣布旗下游戏《蓝色星原：旅谣》将于11月26日开启公测，此前9月结束的「旅迹测试」全球预约量已突破2500万。",
+        "section": 3
+      }
+    ]
+  ],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

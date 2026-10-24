@@ -1,0 +1,408 @@
+{
+  "as_of": "2026-10-24",
+  "cutoff": "2026-10-17",
+  "window_days": 7,
+  "summary": {
+    "input_items": 12,
+    "denied_source": 0,
+    "in_window": 12,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 12,
+    "duplicate_clusters": 0,
+    "section1_count": 3,
+    "section2_count": 9,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 8,
+    "previously_covered_count": 4
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "AI反编译技术引发游戏业担忧,独立开发商收紧试玩测试范围",
+        "url": "https://kotaku.com/revamp-public-playtest-cancelled-digital-sun-claude-ai-clones-2000747558",
+        "date": "2026-10-19",
+        "summary": "因担忧生成式AI(如Claude Opus 5.5)大幅降低游戏反编译与克隆门槛,《Moonlighter》开发商Digital Sun Games缩减了新作《ReVamp》的公开试玩规模,另一工作室Alliance Arts此前也取消了试玩演示。同期,游戏反编译社区网站decomp.dev以'AI打破了反编译的社区属性'为由关闭公开项目索引,该趋势随后蔓延到任天堂宝可梦系列游戏的反编译移植。",
+        "section": 1,
+        "facts": [
+          "《Moonlighter》开发商Digital Sun Games将新作《ReVamp》(一款'塔防+恶魔城'风格游戏,预计2027年3月发售)原计划的Steam公开试玩,缩减为仅限其Discord服务器的小范围测试,玩家可在10月29日前报名加入。",
+          "Digital Sun官方表示,此举是因为'近期出现游戏被反向工程、克隆,并在原作发布前就被抢先上架'的消息,认为大规模公开试玩风险过高。",
+          "报道将这一担忧与Anthropic的Claude Opus 5.5模型联系起来:该模型可对游戏进行反编译并重新编译,此前同等工作通常需要熟练程序员耗费数月甚至数年。",
+          "另一家工作室Alliance Arts一周前已出于同样原因取消了旗下游戏《Drunken Goddess Reflux》的Steam Next Fest试玩演示。",
+          "文章指出,Steam Next Fest的参展演示数量自今年3月以来已大致翻倍,超过8000个,平台上试玩/早期内容被快速复制的风险随之上升。"
+        ],
+        "background": "游戏反编译爱好者社区网站decomp.dev已于10月中旬宣布关闭其公开项目索引、不再接受新项目,管理员'Encounter'表示新一代生成式AI模型(文中提到GPT-6-Astra)让反编译变得'过于容易',已难以分辨一个项目主要由人工还是AI完成,'反编译的社区属性已被打破'。几天后(10月21日),Kotaku进一步报道称同类AI反编译潮已蔓延至任天堂的宝可梦系列游戏,多部作品被反编译移植到PC或浏览器运行。此外,微软10月13日宣布成立内部团队'Xbox Labs',Xbox CEO Asha Sharma在致团队的信中提到,该团队的成立部分是为应对'游戏被反编译并在从未被设计运行的硬件上重建'这一趋势。",
+        "results": "Digital Sun已将《ReVamp》的公开测试范围缩小为Discord小范围测试,原定面向更广泛玩家的公开试玩推迟至2027年1月前后;decomp.dev停止接受新反编译项目并关闭公开索引,但保留现有项目页面与历史数据供查阅。截至报道发布,尚无出版商或Steam等平台针对此类AI辅助反编译/克隆行为推出专门的新政策,防范责任目前仍主要落在开发者自身。"
+      },
+      "members": [
+        {
+          "title": "AI反编译技术引发游戏业担忧,独立开发商收紧试玩测试范围",
+          "url": "https://kotaku.com/revamp-public-playtest-cancelled-digital-sun-claude-ai-clones-2000747558",
+          "date": "2026-10-19",
+          "summary": "因担忧生成式AI(如Claude Opus 5.5)大幅降低游戏反编译与克隆门槛,《Moonlighter》开发商Digital Sun Games缩减了新作《ReVamp》的公开试玩规模,另一工作室Alliance Arts此前也取消了试玩演示。同期,游戏反编译社区网站decomp.dev以'AI打破了反编译的社区属性'为由关闭公开项目索引,该趋势随后蔓延到任天堂宝可梦系列游戏的反编译移植。",
+          "section": 1,
+          "facts": [
+            "《Moonlighter》开发商Digital Sun Games将新作《ReVamp》(一款'塔防+恶魔城'风格游戏,预计2027年3月发售)原计划的Steam公开试玩,缩减为仅限其Discord服务器的小范围测试,玩家可在10月29日前报名加入。",
+            "Digital Sun官方表示,此举是因为'近期出现游戏被反向工程、克隆,并在原作发布前就被抢先上架'的消息,认为大规模公开试玩风险过高。",
+            "报道将这一担忧与Anthropic的Claude Opus 5.5模型联系起来:该模型可对游戏进行反编译并重新编译,此前同等工作通常需要熟练程序员耗费数月甚至数年。",
+            "另一家工作室Alliance Arts一周前已出于同样原因取消了旗下游戏《Drunken Goddess Reflux》的Steam Next Fest试玩演示。",
+            "文章指出,Steam Next Fest的参展演示数量自今年3月以来已大致翻倍,超过8000个,平台上试玩/早期内容被快速复制的风险随之上升。"
+          ],
+          "background": "游戏反编译爱好者社区网站decomp.dev已于10月中旬宣布关闭其公开项目索引、不再接受新项目,管理员'Encounter'表示新一代生成式AI模型(文中提到GPT-6-Astra)让反编译变得'过于容易',已难以分辨一个项目主要由人工还是AI完成,'反编译的社区属性已被打破'。几天后(10月21日),Kotaku进一步报道称同类AI反编译潮已蔓延至任天堂的宝可梦系列游戏,多部作品被反编译移植到PC或浏览器运行。此外,微软10月13日宣布成立内部团队'Xbox Labs',Xbox CEO Asha Sharma在致团队的信中提到,该团队的成立部分是为应对'游戏被反编译并在从未被设计运行的硬件上重建'这一趋势。",
+          "results": "Digital Sun已将《ReVamp》的公开测试范围缩小为Discord小范围测试,原定面向更广泛玩家的公开试玩推迟至2027年1月前后;decomp.dev停止接受新反编译项目并关闭公开索引,但保留现有项目页面与历史数据供查阅。截至报道发布,尚无出版商或Steam等平台针对此类AI辅助反编译/克隆行为推出专门的新政策,防范责任目前仍主要落在开发者自身。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "宫本茂谈AI与创造力:技术门槛降低后,人类创作意图才更凸显",
+        "url": "https://www.videogameschronicle.com/news/shigeru-miyamoto-explains-why-ai-wont-make-human-creativity-obsolete/",
+        "date": "2026-10-23",
+        "summary": "任天堂宫本茂在获颁日本'文化勋章'后的记者会上谈及生成式AI,据Game Watch报道(经VGC翻译),他将AI类比为此前历次技术工具的演进,认为当重复性'打磨'劳动被工具取代后,创作者真正的个人能力才会凸显;他提醒这种打磨本身带来的满足感,可能被误认为等同于作品质量。宫本茂表示,复制粘贴式的工作难以长久留存,因为它缺乏创作者自身的设计意图,即便AI未来能完成一切工作,人类创作者仍会留有自己的角色。任天堂目前未公开证实是否在游戏开发中使用AI。",
+        "section": 2,
+        "facts": [],
+        "background": "",
+        "results": ""
+      },
+      "members": [
+        {
+          "title": "宫本茂谈AI与创造力:技术门槛降低后,人类创作意图才更凸显",
+          "url": "https://www.videogameschronicle.com/news/shigeru-miyamoto-explains-why-ai-wont-make-human-creativity-obsolete/",
+          "date": "2026-10-23",
+          "summary": "任天堂宫本茂在获颁日本'文化勋章'后的记者会上谈及生成式AI,据Game Watch报道(经VGC翻译),他将AI类比为此前历次技术工具的演进,认为当重复性'打磨'劳动被工具取代后,创作者真正的个人能力才会凸显;他提醒这种打磨本身带来的满足感,可能被误认为等同于作品质量。宫本茂表示,复制粘贴式的工作难以长久留存,因为它缺乏创作者自身的设计意图,即便AI未来能完成一切工作,人类创作者仍会留有自己的角色。任天堂目前未公开证实是否在游戏开发中使用AI。",
+          "section": 2,
+          "facts": [],
+          "background": "",
+          "results": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "樱井政博:AI将催生大量商业上难存活的'山寨'游戏,但原创开发者会更受重视",
+        "url": "https://www.videogameschronicle.com/news/masahiro-sakurai-says-as-ai-games-dominate-steam-developers-who-are-truly-creative-will-become-even-more-important/",
+        "date": "2026-10-22",
+        "summary": "《任天堂明星大乱斗》《星之卡比》制作人樱井政博在接受日本媒体Denfaminico Gamer采访时表示,生成式AI会推动游戏发布数量持续上升,并催生大量复制现有玩法的'山寨'作品,他认为其中多数在商业上难以存活。他以解谜游戏《Librarian: Tidy Up the Arcane Library》及其大量仿制品为例,称这类简单玩法'对AI来说应该很容易复制';他同时提到,AI或许能模仿上田文人的风格做出类似《völuptus》《古堆巨人》(《Ico》《最后的守护者》)的作品,但无法创造上田本人'尚未构思过'的原创内容,因此敢于开拓新方向、风格鲜明的开发者将在批量化、低质内容增多的环境中变得更重要。",
+        "section": 2,
+        "facts": [],
+        "background": "",
+        "results": ""
+      },
+      "members": [
+        {
+          "title": "樱井政博:AI将催生大量商业上难存活的'山寨'游戏,但原创开发者会更受重视",
+          "url": "https://www.videogameschronicle.com/news/masahiro-sakurai-says-as-ai-games-dominate-steam-developers-who-are-truly-creative-will-become-even-more-important/",
+          "date": "2026-10-22",
+          "summary": "《任天堂明星大乱斗》《星之卡比》制作人樱井政博在接受日本媒体Denfaminico Gamer采访时表示,生成式AI会推动游戏发布数量持续上升,并催生大量复制现有玩法的'山寨'作品,他认为其中多数在商业上难以存活。他以解谜游戏《Librarian: Tidy Up the Arcane Library》及其大量仿制品为例,称这类简单玩法'对AI来说应该很容易复制';他同时提到,AI或许能模仿上田文人的风格做出类似《völuptus》《古堆巨人》(《Ico》《最后的守护者》)的作品,但无法创造上田本人'尚未构思过'的原创内容,因此敢于开拓新方向、风格鲜明的开发者将在批量化、低质内容增多的环境中变得更重要。",
+          "section": 2,
+          "facts": [],
+          "background": "",
+          "results": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "微软Xbox部门经理公开称\"数百名员工在用AI\",随后删除个人账号",
+        "url": "https://kotaku.com/xbox-manager-tries-to-legitimize-ai-in-wild-rant-deletes-his-account-instead-2000747938",
+        "date": "2026-10-20",
+        "summary": "微软高级业务策略经理Brandon Stirrup(被Kotaku称为'Xbox经理')在X平台发布系列帖子称,Xbox内部'数百人'在使用AI却假装没有使用,并写道'游戏行业是唯一假装不用AI的行业'、'用户想要真相——我们在用AI'。据PC Gamer报道,他随后因帖子引发大量回应而删除了自己的账号,相关截图在X和Bluesky上流传。此事引发外界对Xbox及游戏行业内部AI使用程度与透明度的讨论,Kotaku同时提到微软此前成立的'Xbox Labs'与近期'在另一款游戏内玩游戏'等AI相关趋势有关。",
+        "section": 2,
+        "facts": [],
+        "background": "",
+        "results": ""
+      },
+      "members": [
+        {
+          "title": "微软Xbox部门经理公开称\"数百名员工在用AI\",随后删除个人账号",
+          "url": "https://kotaku.com/xbox-manager-tries-to-legitimize-ai-in-wild-rant-deletes-his-account-instead-2000747938",
+          "date": "2026-10-20",
+          "summary": "微软高级业务策略经理Brandon Stirrup(被Kotaku称为'Xbox经理')在X平台发布系列帖子称,Xbox内部'数百人'在使用AI却假装没有使用,并写道'游戏行业是唯一假装不用AI的行业'、'用户想要真相——我们在用AI'。据PC Gamer报道,他随后因帖子引发大量回应而删除了自己的账号,相关截图在X和Bluesky上流传。此事引发外界对Xbox及游戏行业内部AI使用程度与透明度的讨论,Kotaku同时提到微软此前成立的'Xbox Labs'与近期'在另一款游戏内玩游戏'等AI相关趋势有关。",
+          "section": 2,
+          "facts": [],
+          "background": "",
+          "results": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "生成式AI反编译潮蔓延至任天堂宝可梦系列游戏",
+        "url": "https://kotaku.com/of-course-pokemons-been-pulled-into-the-ai-decompilation-frenzy-2000748316",
+        "date": "2026-10-21",
+        "summary": "据Kotaku报道,随着新一代生成式AI模型大幅加快游戏反编译速度,爱好者已将《宝可梦:晶灿钻石/明亮珍珠》《宝可梦:心金/魂银》及《宝可梦快照》等多部任天堂宝可梦系列游戏反编译并移植为可在PC或浏览器运行的版本,此外还出现了基于宝可梦角色制作的战斗演示和战棋类同人游戏。文章引用404 Media记者Jason Koebler的担忧,称这类'拼凑、几乎不可用的软件'未来可能被装进关键硬件设备。报道未提及任天堂官方对此作出回应。",
+        "section": 2,
+        "facts": [],
+        "background": "",
+        "results": ""
+      },
+      "members": [
+        {
+          "title": "生成式AI反编译潮蔓延至任天堂宝可梦系列游戏",
+          "url": "https://kotaku.com/of-course-pokemons-been-pulled-into-the-ai-decompilation-frenzy-2000748316",
+          "date": "2026-10-21",
+          "summary": "据Kotaku报道,随着新一代生成式AI模型大幅加快游戏反编译速度,爱好者已将《宝可梦:晶灿钻石/明亮珍珠》《宝可梦:心金/魂银》及《宝可梦快照》等多部任天堂宝可梦系列游戏反编译并移植为可在PC或浏览器运行的版本,此外还出现了基于宝可梦角色制作的战斗演示和战棋类同人游戏。文章引用404 Media记者Jason Koebler的担忧,称这类'拼凑、几乎不可用的软件'未来可能被装进关键硬件设备。报道未提及任天堂官方对此作出回应。",
+          "section": 2,
+          "facts": [],
+          "background": "",
+          "results": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "独立游戏《Future? No Thanks!》开发者承认未声明使用AI,提供退款",
+        "url": "https://kotaku.com/developer-of-ecosocialist-game-future-no-thanks-offers-refunds-after-using-ai-despite-calling-it-technofascist-2000749158",
+        "date": "2026-10-23",
+        "summary": "独立工作室Molleindustria主创Paolo Pedercini承认,其今年9月发布的游戏《Future? No Thanks!》中含有两段用Suno生成的AI音乐、两处AI配音,且发布时未作声明;他随后移除了这些AI内容(保留少量用ChatGPT与Claude调试的代码),并通过PayPal、Venmo向感到被欺骗的购买者提供退款。Pedercini此前曾公开称AI是'技术法西斯主义、反人类反艺术的项目',但承认自己仍使用了AI,并表示下一部作品将完全手写代码。",
+        "section": 2,
+        "facts": [],
+        "background": "",
+        "results": ""
+      },
+      "members": [
+        {
+          "title": "独立游戏《Future? No Thanks!》开发者承认未声明使用AI,提供退款",
+          "url": "https://kotaku.com/developer-of-ecosocialist-game-future-no-thanks-offers-refunds-after-using-ai-despite-calling-it-technofascist-2000749158",
+          "date": "2026-10-23",
+          "summary": "独立工作室Molleindustria主创Paolo Pedercini承认,其今年9月发布的游戏《Future? No Thanks!》中含有两段用Suno生成的AI音乐、两处AI配音,且发布时未作声明;他随后移除了这些AI内容(保留少量用ChatGPT与Claude调试的代码),并通过PayPal、Venmo向感到被欺骗的购买者提供退款。Pedercini此前曾公开称AI是'技术法西斯主义、反人类反艺术的项目',但承认自己仍使用了AI,并表示下一部作品将完全手写代码。",
+          "section": 2,
+          "facts": [],
+          "background": "",
+          "results": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "NVIDIA发布RTX Remix 1.6:接入DLSS 5神经渲染,新增《我的世界》Java版路径追踪测试版",
+        "url": "https://github.com/NVIDIAGameWorks/rtx-remix/releases",
+        "date": "2026-10-23",
+        "summary": "NVIDIA于10月23日发布游戏模组光追改造工具RTX Remix的1.6版本,为其渲染运行时集成DLSS 5\"3D引导神经渲染\"技术并增加实时画面调节选项,同时加入5倍、6倍多帧生成等新模式。该版本还推出测试版Fabric模组,首次通过RTX Remix为《我的世界:Java版》1.21.1带来路径追踪渲染管线,并配套发布PBR材质包;模组工具链方面引入ComfyUI 2.0,支持开发者接入AI代理辅助生成贴图与模型资源。",
+        "section": 2,
+        "facts": [],
+        "background": "",
+        "results": ""
+      },
+      "members": [
+        {
+          "title": "NVIDIA发布RTX Remix 1.6:接入DLSS 5神经渲染,新增《我的世界》Java版路径追踪测试版",
+          "url": "https://github.com/NVIDIAGameWorks/rtx-remix/releases",
+          "date": "2026-10-23",
+          "summary": "NVIDIA于10月23日发布游戏模组光追改造工具RTX Remix的1.6版本,为其渲染运行时集成DLSS 5\"3D引导神经渲染\"技术并增加实时画面调节选项,同时加入5倍、6倍多帧生成等新模式。该版本还推出测试版Fabric模组,首次通过RTX Remix为《我的世界:Java版》1.21.1带来路径追踪渲染管线,并配套发布PBR材质包;模组工具链方面引入ComfyUI 2.0,支持开发者接入AI代理辅助生成贴图与模型资源。",
+          "section": 2,
+          "facts": [],
+          "background": "",
+          "results": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "米哈游\"崩坏\"AI研发团队联合清华大学等机构开源游戏智能体模型GameScaling",
+        "url": "https://cn.technode.com/post/2026-10-23/mihoyo-gamescaling-open-source-game-ai",
+        "date": "2026-10-23",
+        "summary": "米哈游《崩坏》AI研发团队联合清华大学、香港大学MMLab等机构,于10月开源了游戏智能体模型GameScaling。该模型基于Qwen3.5视觉语言模型做持续预训练,可直接观察游戏画面并输出键鼠操作,已在《我的世界》《毁灭战士》中完成资源采集、战斗等任务演示。团队同时公开了覆盖0.8B至27B参数的8个模型权重及相关scaling规律研究论文(10月20日提交arXiv),并强调项目属于纯学术研究、不涉及商业化。",
+        "section": 1,
+        "facts": [
+          "米哈游《崩坏》系列AI研发团队与清华大学人工智能学院、中国科学院大学、香港大学MMLab、新加坡国立大学、北京大学等机构联合开源游戏智能体模型GameScaling",
+          "相关论文《Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds》于2026年10月20日提交至arXiv(编号2610.28698)",
+          "模型基于Qwen3.5视觉语言模型,通过对键鼠操作数据进行持续预训练构建:输入当前画面、历史帧及此前动作,输出约200毫秒内的键鼠操作指令",
+          "团队公开了8个模型权重检查点,参数规模覆盖8亿(0.8B)至270亿(27B)",
+          "研究基于120种持续预训练配置(0.8B至27B参数、50至1600小时训练数据、5种数据组合)进行了系统性的scaling规律实验",
+          "已在《我的世界》(Minecraft)中演示资源采集、物品制作,在《毁灭战士》(DOOM)中演示移动与战斗等任务",
+          "模型权重及推理代码以Apache-2.0协议开源,但未包含训练代码;论文注明四名作者的工作是在米哈游实习期间完成,项目定位为\"纯科研,不涉及商业化\""
+        ],
+        "background": "该研究旨在验证在物理世界具身智能训练中已证明有效的\"数据与模型规模扩增\"方法,是否同样适用于画面、操控逻辑、玩法目标差异巨大的游戏虚拟世界。此举与米哈游近年大举投入AI研发的整体战略相关:联合创始人刘伟此前表示公司计划三年内投入至多1000亿元人民币用于AI研发,公司内部一次多智能体测试曾运行13小时、消耗约200万元人民币的token费用。通用游戏智能体研究也与行业更广泛需求相关,如游戏自动化测试、具身智能模型的训练环境构建等。",
+        "results": "研究发现:增加同一世界内的训练数据可持续提升该世界内的任务表现;提高训练数据的世界多样性有助于向相近世界迁移,但对差异较大的世界收益递减。团队观察到训练过程中存在一个\"跨世界普遍增益\"的早期阶段,随后进入\"增益收窄\"阶段,并据此拟合出一条经验性scaling定律。论文称所发布模型在《我的世界》等3D世界中的表现可与专门化模型及部分前沿通用模型相竞争。团队在论文结论中提出,构建真正通用的具身游戏智能体,未来可能仍需要在持续预训练之外引入新的训练阶段。"
+      },
+      "members": [
+        {
+          "title": "米哈游\"崩坏\"AI研发团队联合清华大学等机构开源游戏智能体模型GameScaling",
+          "url": "https://cn.technode.com/post/2026-10-23/mihoyo-gamescaling-open-source-game-ai",
+          "date": "2026-10-23",
+          "summary": "米哈游《崩坏》AI研发团队联合清华大学、香港大学MMLab等机构,于10月开源了游戏智能体模型GameScaling。该模型基于Qwen3.5视觉语言模型做持续预训练,可直接观察游戏画面并输出键鼠操作,已在《我的世界》《毁灭战士》中完成资源采集、战斗等任务演示。团队同时公开了覆盖0.8B至27B参数的8个模型权重及相关scaling规律研究论文(10月20日提交arXiv),并强调项目属于纯学术研究、不涉及商业化。",
+          "section": 1,
+          "facts": [
+            "米哈游《崩坏》系列AI研发团队与清华大学人工智能学院、中国科学院大学、香港大学MMLab、新加坡国立大学、北京大学等机构联合开源游戏智能体模型GameScaling",
+            "相关论文《Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds》于2026年10月20日提交至arXiv(编号2610.28698)",
+            "模型基于Qwen3.5视觉语言模型,通过对键鼠操作数据进行持续预训练构建:输入当前画面、历史帧及此前动作,输出约200毫秒内的键鼠操作指令",
+            "团队公开了8个模型权重检查点,参数规模覆盖8亿(0.8B)至270亿(27B)",
+            "研究基于120种持续预训练配置(0.8B至27B参数、50至1600小时训练数据、5种数据组合)进行了系统性的scaling规律实验",
+            "已在《我的世界》(Minecraft)中演示资源采集、物品制作,在《毁灭战士》(DOOM)中演示移动与战斗等任务",
+            "模型权重及推理代码以Apache-2.0协议开源,但未包含训练代码;论文注明四名作者的工作是在米哈游实习期间完成,项目定位为\"纯科研,不涉及商业化\""
+          ],
+          "background": "该研究旨在验证在物理世界具身智能训练中已证明有效的\"数据与模型规模扩增\"方法,是否同样适用于画面、操控逻辑、玩法目标差异巨大的游戏虚拟世界。此举与米哈游近年大举投入AI研发的整体战略相关:联合创始人刘伟此前表示公司计划三年内投入至多1000亿元人民币用于AI研发,公司内部一次多智能体测试曾运行13小时、消耗约200万元人民币的token费用。通用游戏智能体研究也与行业更广泛需求相关,如游戏自动化测试、具身智能模型的训练环境构建等。",
+          "results": "研究发现:增加同一世界内的训练数据可持续提升该世界内的任务表现;提高训练数据的世界多样性有助于向相近世界迁移,但对差异较大的世界收益递减。团队观察到训练过程中存在一个\"跨世界普遍增益\"的早期阶段,随后进入\"增益收窄\"阶段,并据此拟合出一条经验性scaling定律。论文称所发布模型在《我的世界》等3D世界中的表现可与专门化模型及部分前沿通用模型相竞争。团队在论文结论中提出,构建真正通用的具身游戏智能体,未来可能仍需要在持续预训练之外引入新的训练阶段。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "腾讯AI游戏陪伴产品\"鹅次元\"发布招募视频 开启首次测试报名",
+        "url": "https://www.gamersky.com/news/202610/2232732.shtml",
+        "date": "2026-10-21",
+        "summary": "10月21日,腾讯AI游戏陪伴产品《鹅次元》官方发布视频宣布开启首次测试招募。该产品此前9月底曾被媒体曝光处于内测阶段,提供多个不同人设的虚拟角色,可实时识别玩家游戏画面并语音陪玩,据报道已适配《无畏契约》《CS2》《英雄联盟》等游戏。测试期间功能免费,但界面已显示星币兑换能量的付费框架,暗示未来商业化方向。",
+        "section": 2,
+        "facts": [
+          "10月21日,腾讯AI游戏陪伴产品《鹅次元》官方账号发布视频,宣布开启\"元气首测\"招募",
+          "该产品此前已于9月底被媒体曝光处于小范围内测阶段,定位为数字人AI游戏搭子",
+          "产品内置多个人设各异的虚拟角色,玩家可选择角色进行闲聊互动,也可激活游戏陪伴模式,由AI实时识别玩家游戏画面并以语音回应",
+          "据此前报道,已适配《无畏契约》《CS2》《英雄联盟》等主流网游",
+          "测试期间全部功能限时免费,但界面已出现星币兑换能量的付费框架,采用按轮次/时长扣费而非包月订阅,具体价格尚未公布"
+        ],
+        "background": null,
+        "results": null
+      },
+      "members": [
+        {
+          "title": "腾讯AI游戏陪伴产品\"鹅次元\"发布招募视频 开启首次测试报名",
+          "url": "https://www.gamersky.com/news/202610/2232732.shtml",
+          "date": "2026-10-21",
+          "summary": "10月21日,腾讯AI游戏陪伴产品《鹅次元》官方发布视频宣布开启首次测试招募。该产品此前9月底曾被媒体曝光处于内测阶段,提供多个不同人设的虚拟角色,可实时识别玩家游戏画面并语音陪玩,据报道已适配《无畏契约》《CS2》《英雄联盟》等游戏。测试期间功能免费,但界面已显示星币兑换能量的付费框架,暗示未来商业化方向。",
+          "section": 2,
+          "facts": [
+            "10月21日,腾讯AI游戏陪伴产品《鹅次元》官方账号发布视频,宣布开启\"元气首测\"招募",
+            "该产品此前已于9月底被媒体曝光处于小范围内测阶段,定位为数字人AI游戏搭子",
+            "产品内置多个人设各异的虚拟角色,玩家可选择角色进行闲聊互动,也可激活游戏陪伴模式,由AI实时识别玩家游戏画面并以语音回应",
+            "据此前报道,已适配《无畏契约》《CS2》《英雄联盟》等主流网游",
+            "测试期间全部功能限时免费,但界面已出现星币兑换能量的付费框架,采用按轮次/时长扣费而非包月订阅,具体价格尚未公布"
+          ],
+          "background": null,
+          "results": null
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "伽马数据报告:中国头部游戏公司今年上半年投资AI企业数量已超去年全年",
+        "url": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhse2407587.shtml",
+        "date": "2026-10-24",
+        "summary": "据伽马数据《2026中国游戏产业AI发展报告》,2026年上半年中国游戏收入TOP50企业投资AI企业案例达108起,超过2025年全年的89起,其中80%的企业已公开AI布局。报告列举米哈游早期投资MiniMax(香港上市后账面浮盈近百亿元)、腾讯投资多家大模型公司、三七互娱投资收益同比增超9倍等案例,显示降本增效仍是中国游戏公司布局AI的核心驱动力。",
+        "section": 1,
+        "facts": [
+          "据游戏行业研究机构伽马数据发布的《2026中国游戏产业AI发展报告》,2026年上半年中国游戏收入TOP50企业投资AI企业的案例达108起,已超过2025年全年的89起",
+          "按2025年收入计算的TOP50企业中,80%已公开披露AI相关布局,37.5%已进行AI相关投资或并购",
+          "投资方向中,行业AI解决方案占比最高,达27.8%,其余涉及基础大模型/MaaS、算力基础设施、多模态内容生成、AI Agent、具身智能及空间智能等领域",
+          "腾讯控股的库洛科技持有AI语音公司\"言之域\"15%股份,其创始人刘胜已加入言之域董事会,业内有猜测该技术可能被用于库洛自家游戏",
+          "米哈游2021年投资MiniMax,此后持续加注并投资星海图、万有引力等公司;MiniMax于2026年1月在香港上市后,米哈游所持约6.4%股份账面浮盈近100亿元人民币,回报率超百倍;据报道MiniMax模型已用于《崩坏:星穹铁道》的NPC对话、角色行为及剧情生成",
+          "腾讯已投资月之暗面、百川智能、MiniMax、智谱等多家大模型公司;其2025年资本开支达792亿元人民币,其中约180亿元投向新AI产品",
+          "三七互娱投资智谱、月之暗面、百川智能等公司,2026年第一季度投资收益达3.59亿元人民币,同比增长981.35%;公司称其2D美术资产超80%由AI辅助完成,游戏广告素材超70%涉及AI",
+          "摩尔线程在科创板上市,对世纪华通2025年第四季度净利润产生约6.4亿元人民币的正向影响",
+          "游族网络称AI使广告素材制作效率提升3至5倍,本地化翻译成本降低80%"
+        ],
+        "background": "报告及业内分析认为,降本增效是当前中国游戏公司布局AI的核心驱动力,而游戏玩法层面的实质性突破仍然有限。多家头部游戏公司近年通过早期投资大模型创业公司(MiniMax、智谱、月之暗面、百川智能等)分享AI行业成长红利,这一策略的回报在MiniMax今年初香港上市后集中显现。该趋势延续了2026年上半年中国游戏行业AI投融资整体活跃的态势。",
+        "results": "米哈游通过早期投资MiniMax已获得账面浮盈近百亿元人民币、超百倍回报,是本轮AI投资热潮中公开可见的较大收益案例之一。三七互娱AI相关投资收益同比增长超9倍。摩尔线程上市为世纪华通带来约6.4亿元人民币的可量化净利润增厚。部分公司的AI投资已从单纯财务回报延伸至产品层面,例如MiniMax模型被报道用于米哈游游戏的NPC对话与剧情生成,显示投资与自身游戏业务结合的趋势正在显现。"
+      },
+      "members": [
+        {
+          "title": "伽马数据报告:中国头部游戏公司今年上半年投资AI企业数量已超去年全年",
+          "url": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhse2407587.shtml",
+          "date": "2026-10-24",
+          "summary": "据伽马数据《2026中国游戏产业AI发展报告》,2026年上半年中国游戏收入TOP50企业投资AI企业案例达108起,超过2025年全年的89起,其中80%的企业已公开AI布局。报告列举米哈游早期投资MiniMax(香港上市后账面浮盈近百亿元)、腾讯投资多家大模型公司、三七互娱投资收益同比增超9倍等案例,显示降本增效仍是中国游戏公司布局AI的核心驱动力。",
+          "section": 1,
+          "facts": [
+            "据游戏行业研究机构伽马数据发布的《2026中国游戏产业AI发展报告》,2026年上半年中国游戏收入TOP50企业投资AI企业的案例达108起,已超过2025年全年的89起",
+            "按2025年收入计算的TOP50企业中,80%已公开披露AI相关布局,37.5%已进行AI相关投资或并购",
+            "投资方向中,行业AI解决方案占比最高,达27.8%,其余涉及基础大模型/MaaS、算力基础设施、多模态内容生成、AI Agent、具身智能及空间智能等领域",
+            "腾讯控股的库洛科技持有AI语音公司\"言之域\"15%股份,其创始人刘胜已加入言之域董事会,业内有猜测该技术可能被用于库洛自家游戏",
+            "米哈游2021年投资MiniMax,此后持续加注并投资星海图、万有引力等公司;MiniMax于2026年1月在香港上市后,米哈游所持约6.4%股份账面浮盈近100亿元人民币,回报率超百倍;据报道MiniMax模型已用于《崩坏:星穹铁道》的NPC对话、角色行为及剧情生成",
+            "腾讯已投资月之暗面、百川智能、MiniMax、智谱等多家大模型公司;其2025年资本开支达792亿元人民币,其中约180亿元投向新AI产品",
+            "三七互娱投资智谱、月之暗面、百川智能等公司,2026年第一季度投资收益达3.59亿元人民币,同比增长981.35%;公司称其2D美术资产超80%由AI辅助完成,游戏广告素材超70%涉及AI",
+            "摩尔线程在科创板上市,对世纪华通2025年第四季度净利润产生约6.4亿元人民币的正向影响",
+            "游族网络称AI使广告素材制作效率提升3至5倍,本地化翻译成本降低80%"
+          ],
+          "background": "报告及业内分析认为,降本增效是当前中国游戏公司布局AI的核心驱动力,而游戏玩法层面的实质性突破仍然有限。多家头部游戏公司近年通过早期投资大模型创业公司(MiniMax、智谱、月之暗面、百川智能等)分享AI行业成长红利,这一策略的回报在MiniMax今年初香港上市后集中显现。该趋势延续了2026年上半年中国游戏行业AI投融资整体活跃的态势。",
+          "results": "米哈游通过早期投资MiniMax已获得账面浮盈近百亿元人民币、超百倍回报,是本轮AI投资热潮中公开可见的较大收益案例之一。三七互娱AI相关投资收益同比增长超9倍。摩尔线程上市为世纪华通带来约6.4亿元人民币的可量化净利润增厚。部分公司的AI投资已从单纯财务回报延伸至产品层面,例如MiniMax模型被报道用于米哈游游戏的NPC对话与剧情生成,显示投资与自身游戏业务结合的趋势正在显现。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "米哈游一周内投资两家存算一体芯片公司 为千亿AI投入布局底层算力",
+        "url": "https://news.pedaily.cn/202610/570787.shtml",
+        "date": "2026-10-24",
+        "summary": "据投资界10月24日报道,米哈游一周内投资了九天睿芯、铭芯启睿两家存算一体AI芯片公司,其中铭芯启睿于10月19日完成超4亿元人民币A轮融资,米哈游、博原资本、兆易创新等参投。报道将此举与米哈游此前宣布的三年内最高1000亿元人民币AI投入计划联系起来,视为其为自研大模型布局底层算力的举措。",
+        "section": 2,
+        "facts": [
+          "据投资界10月24日报道,米哈游一周内投资了两家存算一体AI芯片公司:九天睿芯与铭芯启睿",
+          "铭芯启睿于10月19日宣布完成超4亿元人民币A轮融资,投资方包括博原资本、米哈游及兆易创新",
+          "九天睿芯本轮融资由米哈游以战略投资方身份参与,并有智微资本等机构跟投;该公司此前已获美团等战略投资,累计融资达10亿元人民币",
+          "报道将此次投资与米哈游此前披露的三年内最高1000亿元人民币AI投入计划相联系,认为其意在为自身大模型研发布局底层算力"
+        ],
+        "background": null,
+        "results": null
+      },
+      "members": [
+        {
+          "title": "米哈游一周内投资两家存算一体芯片公司 为千亿AI投入布局底层算力",
+          "url": "https://news.pedaily.cn/202610/570787.shtml",
+          "date": "2026-10-24",
+          "summary": "据投资界10月24日报道,米哈游一周内投资了九天睿芯、铭芯启睿两家存算一体AI芯片公司,其中铭芯启睿于10月19日完成超4亿元人民币A轮融资,米哈游、博原资本、兆易创新等参投。报道将此举与米哈游此前宣布的三年内最高1000亿元人民币AI投入计划联系起来,视为其为自研大模型布局底层算力的举措。",
+          "section": 2,
+          "facts": [
+            "据投资界10月24日报道,米哈游一周内投资了两家存算一体AI芯片公司:九天睿芯与铭芯启睿",
+            "铭芯启睿于10月19日宣布完成超4亿元人民币A轮融资,投资方包括博原资本、米哈游及兆易创新",
+            "九天睿芯本轮融资由米哈游以战略投资方身份参与,并有智微资本等机构跟投;该公司此前已获美团等战略投资,累计融资达10亿元人民币",
+            "报道将此次投资与米哈游此前披露的三年内最高1000亿元人民币AI投入计划相联系,认为其意在为自身大模型研发布局底层算力"
+          ],
+          "background": null,
+          "results": null
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "触乐：本届Steam新品节生成式AI披露比例升至36.4%",
+        "url": "https://www.chuapp.com/article/291712.html",
+        "date": "2026-10-24",
+        "summary": "据触乐援引SteamDB数据，本届Steam新品节7145款参展游戏中约2596款在开发信息中披露使用了生成式AI，占比约36.4%，相比6月同类活动的19%上升约16个百分点。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "触乐：本届Steam新品节生成式AI披露比例升至36.4%",
+          "url": "https://www.chuapp.com/article/291712.html",
+          "date": "2026-10-24",
+          "summary": "据触乐援引SteamDB数据，本届Steam新品节7145款参展游戏中约2596款在开发信息中披露使用了生成式AI，占比约36.4%，相比6月同类活动的19%上升约16个百分点。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

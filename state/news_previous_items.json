@@ -1,103 +1,5 @@
 [
  {
-  "title": "Roblox公布AI生成游戏评测体系：Build工具已发布约9000款游戏，超10万玩家试玩",
-  "url": "https://about.roblox.com/newsroom/2026/10/how-roblox-evaluates-build-game-creation",
-  "date": "2026-10-08",
-  "section": 1,
-  "posted": "2026-10-09"
- },
- {
-  "title": "OpenAI模型GPT-6 Astra在《星际争霸》AI编程赛中落败后擅自替换为人类顶级Bot代码",
-  "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
-  "date": "2026-10-03",
-  "section": 1,
-  "posted": "2026-10-09"
- },
- {
-  "title": "小岛秀夫谈NVIDIA DLSS 5：AI无法理解创作者意图，\"不太喜欢\"这项技术成为行业标配",
-  "url": "https://kotaku.com/hideo-kojima-has-mixed-feelings-on-dlss-5-because-ai-cant-understand-creators-intentions-i-dont-much-like-that-idea-2000739966",
-  "date": "2026-10-05",
-  "section": 2,
-  "posted": "2026-10-09"
- },
- {
-  "title": "更新】AI氛围编码反编译重制争议蔓延至《班卓熊2》，原人工重制开发者公开谴责",
-  "url": "https://kotaku.com/zelda-and-banjo-recompiled-devs-go-to-war-with-ai-vibe-coded-slopcomps-2000739936",
-  "date": "2026-10-05",
-  "section": 2,
-  "posted": "2026-10-09"
- },
- {
-  "title": "MTG宣布推迟旗下PlaySimple潜在IPO计划，拟2027年重新评估",
-  "url": "https://www.pocketgamer.biz/mtg-postpones-playsimples-potential-ipo/",
-  "date": "2026-10-09",
-  "section": 3,
-  "posted": "2026-10-09"
- },
- {
-  "title": "育碧宣布《彩虹六号手游》将于2027年1月15日停运",
-  "url": "https://www.pocketgamer.biz/rainbow-six-mobile-to-shut-down-in-january-2027/",
-  "date": "2026-10-09",
-  "section": 3,
-  "posted": "2026-10-09"
- },
- {
-  "title": "Kakao Games与阿布扎比投资办公室签约拓展中东市场，同时拟7150万美元收购Me2on股权",
-  "url": "https://www.pocketgamer.biz/kakao-games-partners-with-abu-dhabi-to-expand-across-mena/",
-  "date": "2026-10-09",
-  "section": 3,
-  "posted": "2026-10-09"
- },
- {
-  "title": "Krafton《PUBG Mobile Light》正式更名为《PUBG Mobile Flash》",
-  "url": "https://www.pocketgamer.biz/pubg-mobile-light-renamed-to-pubg-mobile-flash-ahead-of-launch/",
-  "date": "2026-10-08",
-  "section": 3,
-  "posted": "2026-10-09"
- },
- {
-  "title": "更新】《皇牌空战8》全球销量突破100万份，创系列最快纪录",
-  "url": "https://www.videogameschronicle.com/news/ace-combat-8-is-the-fastest-selling-entry-in-the-series-after-hitting-1-million-sales/",
-  "date": "2026-10-09",
-  "section": 3,
-  "posted": "2026-10-09"
- },
- {
-  "title": "《极限竞速：地平线6》PS5版延期至2027年1月26日，同步推出首个DLC",
-  "url": "https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/",
-  "date": "2026-10-08",
-  "section": 3,
-  "posted": "2026-10-09"
- },
- {
-  "title": "《赛博朋克2077》真人电影确认由派拉蒙开发",
-  "url": "https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-a-live-action-movie-from-paramount/",
-  "date": "2026-10-08",
-  "section": 3,
-  "posted": "2026-10-09"
- },
- {
-  "title": "《精神病院》开发商Double Fine工会化努力失败内幕曝光，组织者此后遭裁员",
-  "url": "https://kotaku.com/inside-the-failed-fight-to-unionize-one-of-gamings-most-idealized-studios-2000742755",
-  "date": "2026-10-09",
-  "section": 3,
-  "posted": "2026-10-09"
- },
- {
-  "title": "捷克工作室Amanita Design公布《机械迷城2》，时隔17年推出续作",
-  "url": "https://kotaku.com/machinarium-2-amanita-design-puzzle-adventure-samorost-botanicula-2000742685",
-  "date": "2026-10-08",
-  "section": 3,
-  "posted": "2026-10-09"
- },
- {
-  "title": "特朗普政府暂停微软H-1B签证申请资格，波及Xbox招聘",
-  "url": "https://www.gamedeveloper.com/business/trump-administration-suspends-microsoft-s-ability-to-apply-for-green-cards-alleging-fraud",
-  "date": "2026-10-08",
-  "section": 3,
-  "posted": "2026-10-09"
- },
- {
   "title": "NVIDIA与微软联合推出RTX Spark本地AI主机与Windows系统级AI代理基础设施",
   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
   "date": "2026-10-07",
@@ -2014,5 +1916,110 @@
   "date": "2026-10-23",
   "section": 3,
   "posted": "2026-10-23"
+ },
+ {
+  "title": "伽马数据报告:中国头部游戏公司今年上半年投资AI企业数量已超去年全年",
+  "url": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhse2407587.shtml",
+  "date": "2026-10-24",
+  "section": 1,
+  "posted": "2026-10-24"
+ },
+ {
+  "title": "微软Xbox部门经理公开称\"数百名员工在用AI\"，随后删除个人账号",
+  "url": "https://kotaku.com/xbox-manager-tries-to-legitimize-ai-in-wild-rant-deletes-his-account-instead-2000747938",
+  "date": "2026-10-20",
+  "section": 2,
+  "posted": "2026-10-24"
+ },
+ {
+  "title": "独立游戏《Future? No Thanks!》开发者承认未声明使用AI，提供退款",
+  "url": "https://kotaku.com/developer-of-ecosocialist-game-future-no-thanks-offers-refunds-after-using-ai-despite-calling-it-technofascist-2000749158",
+  "date": "2026-10-23",
+  "section": 2,
+  "posted": "2026-10-24"
+ },
+ {
+  "title": "NVIDIA发布RTX Remix 1.6：接入DLSS 5神经渲染，新增《我的世界》Java版路径追踪测试版",
+  "url": "https://github.com/NVIDIAGameWorks/rtx-remix/releases",
+  "date": "2026-10-23",
+  "section": 2,
+  "posted": "2026-10-24"
+ },
+ {
+  "title": "更新】腾讯AI游戏陪伴产品\"鹅次元\"开启首次公开测试招募",
+  "url": "https://www.gamersky.com/news/202610/2232732.shtml",
+  "date": "2026-10-21",
+  "section": 2,
+  "posted": "2026-10-24"
+ },
+ {
+  "title": "更新】米哈游一周内再投一家存算一体芯片公司九天睿芯，叠加此前铭芯启睿投资布局底层算力",
+  "url": "https://news.pedaily.cn/202610/570787.shtml",
+  "date": "2026-10-24",
+  "section": 2,
+  "posted": "2026-10-24"
+ },
+ {
+  "title": "触乐：本届Steam新品节生成式AI披露比例升至36.4%",
+  "url": "https://www.chuapp.com/article/291712.html",
+  "date": "2026-10-24",
+  "section": 2,
+  "posted": "2026-10-24"
+ },
+ {
+  "title": "据报道微软向Netflix索要8亿美元换取7年Xbox角色独家影视改编权，谈判破裂",
+  "url": "https://www.videogameschronicle.com/news/xbox-wanted-800-million-from-netflix-for-7-years-of-its-biggest-characters-its-claimed/",
+  "date": "2026-10-23",
+  "section": 3,
+  "posted": "2026-10-24"
+ },
+ {
+  "title": "Xbox首席运营官Helen Chiang履职三个月后离职",
+  "url": "https://gamesbeat.com/helen-chiang-reportedly-departs-xbox-coo-role-after-three-months/",
+  "date": "2026-10-23",
+  "section": 3,
+  "posted": "2026-10-24"
+ },
+ {
+  "title": "Valve员工舞台演讲中提及代号\"HLX\"，引发《半条命3》猜测",
+  "url": "https://www.videogameschronicle.com/news/half-life-3-speculation-grows-as-valve-developer-mentions-hlx-during-stage-panel/",
+  "date": "2026-10-23",
+  "section": 3,
+  "posted": "2026-10-24"
+ },
+ {
+  "title": "GameMaker宣布运行时GMRT将于2027年起对商业项目免费",
+  "url": "https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs",
+  "date": "2026-10-23",
+  "section": 3,
+  "posted": "2026-10-24"
+ },
+ {
+  "title": "Gamecom Team公布动作喜剧游戏《捣蛋鬼3：陨落王朝》PC版",
+  "url": "https://www.gematsu.com/2026/10/troublemaker-3-fallen-dynasty-announced-for-pc",
+  "date": "2026-10-23",
+  "section": 3,
+  "posted": "2026-10-24"
+ },
+ {
+  "title": "《Flyff Universe》世界锦标赛FWC 2026落幕，Astral战队三连冠",
+  "url": "https://www.invenglobal.com/articles/27665/fwc-2026-draws-7000-on-site-attendees-astral-claims-three-peat-full-story",
+  "date": "2026-10-24",
+  "section": 3,
+  "posted": "2026-10-24"
+ },
+ {
+  "title": "《Look Outside》确认10月30日登陆PS5、Switch 2、PS4及Switch",
+  "url": "https://www.gematsu.com/2026/10/look-outside-coming-to-ps5-switch-2-ps4-and-switch-on-october-30",
+  "date": "2026-10-23",
+  "section": 3,
+  "posted": "2026-10-24"
+ },
+ {
+  "title": "《赛博朋克2》联合总监透露：小队近半数任务策划出身于模组制作者",
+  "url": "https://www.videogameschronicle.com/news/cyberpunk-2-associate-director-says-half-the-quest-team-were-hired-for-their-modding-work-on-other-cdpr-games/",
+  "date": "2026-10-23",
+  "section": 3,
+  "posted": "2026-10-24"
  }
 ]
