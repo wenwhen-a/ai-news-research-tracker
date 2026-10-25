@@ -1,0 +1,9 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **《塞尔达传说》制作人青沼英二获法国文化部授予艺术与文学骑士勋章**（2026-10-24）— 法国文化部长凡妮莎·佩加尔向青沼英二颁发该荣誉，以表彰其作为"为玩家想象力留出空间的讲故事者"的创作贡献。 <https://kotaku.com/legend-of-zelda-producer-eiji-aonuma-knighted-by-french-ministry-of-culture-2000749331>
+- **泄露内部预告片曝光已取消的《质量效应：宇宙》剧情设计**（2026-10-24）— 据报道，EA关闭BioWare后一段内部预告片遭泄露，技术总监证实游戏原计划支持自定义主角及让三部曲选择延续并"生成"对应结局时间线。 <https://kotaku.com/mass-effect-universe-would-have-allowed-players-to-generate-timelines-that-acknowledged-multiple-choices-from-the-trilogy-2000749344>
+- **《异星探险家》开发商System Era Softworks裁员30余人**（2026-10-24）— 因衍生新作《StarSeeker: Astroneer Expeditions》表现不及预期，公司裁撤美术、设计、工程等岗位，称原版《异星探险家》表现依旧良好。 <https://www.invenglobal.com/articles/27670/astroneer-developer-lays-off-over-30-staff-following-underperformance-of-new-title>
+- **《蔚蓝档案》日服发行商2027年起由Yostar转为Nexon**（2026-10-25）— Yostar日本CEO直播宣布日服运营将于2027年1月移交Nexon，中国服务器仍由Yostar负责，账号迁移细节11月公布。 <https://www.invenglobal.com/articles/27680/nexon-to-service-japanese-server-for-blue-archive-starting-2027>
+- **据报道真人电影版《艾尔登法环》预算逼近2亿美元**（2026-10-25）— 《华尔街日报》援引消息人士报道，A24与万代南梦宫联合制作的该片预算将创A24史上投资纪录，已于7月杀青，定档2028年3月3日上映。 <https://www.invenglobal.com/articles/27679/live-action-elden-ring-movie-budget-nears-200-million>
+- **英国经典儿童节目《Knightmare》官方授权独立游戏开发中**（2026-10-24）— 设计师Ewen Watson团队获原节目创作者Tim Child授权，开发基于该1987-1994年英国ITV节目的免费PC独立游戏，预计2027年发售。 <https://www.videogameschronicle.com/news/a-free-officially-licensed-game-based-on-classic-uk-childrens-tv-show-knightmare-is-in-development/>
+- **中东欧游戏大奖CEEGA 2026公布**（2026-10-24）— Sad Cat Studios的《REPLACED》包揽最佳游戏、设计与叙事三项大奖，Bloober Team的《Cronos: The New Dawn》获最佳音效，Techland的《消逝的光芒：野兽》获最佳技术奖。 <https://www.4gamer.net/games/577/G057752/20261024001/>
+- **《暗黑地牢2》推出Switch 2版本**（2026-10-25）— Red Hook Studios的肉鸽地牢游戏现已登陆Nintendo Switch 2平台。 <https://www.nintendolife.com/news/2026/10/forward-now-into-oblivions-inky-embrace-darkest-dungeon-ii-now-has-a-switch-2-edition>

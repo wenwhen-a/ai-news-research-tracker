@@ -1,0 +1,13 @@
+**[新闻 3] 更新】Creative Assembly首次回应《全面战争：幕府将军2完整版》AI美术翻车事件，归咎外包方未经内部审查**
+- **日期：** 2026-10-23
+- **来源链接：** <https://kotaku.com/total-war-shogun-2-complete-edition-ai-creative-assembly-mataboo-2000749108>
+- **核心事实：**
+  - 继SEGA因AI美术争议及BUG下架《全面战争：幕府将军2完整版》后，Creative Assembly副总裁Roger Collum在官方论坛首次公开回应此事。
+  - Collum承认该重制版"未达标准"，并披露实际开发方为外部工作室——波兰Mataboo，该外包项目绕开了Creative Assembly内部的质量审查流程。
+  - Collum强调Creative Assembly本身在游戏资产制作中不使用生成式AI，并要求外部合作方同样遵守该原则；公司已成立专门团队与SEGA及涉事工作室展开调查。
+- **背景与起因：**
+  - 此前SEGA已因重制版AI美术争议及BUG将该作从商店下架，引发玩家和媒体对AI生成内容质量及厂商审查流程的广泛质疑。
+  - 外包流程绕开内部审查、缺乏对AI使用的统一把控，被指为本次事件的直接制度原因。
+- **结果与进展：**
+  - Creative Assembly目前已成立专门调查团队，与SEGA及Mataboo共同核查涉事资产的具体问题范围。
+  - 公司公开重申内部不使用生成式AI资产的立场，并要求外部合作方遵守同一标准，后续审查结果及该作是否重新上架仍待官方进一步说明。

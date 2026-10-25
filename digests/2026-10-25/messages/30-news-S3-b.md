@@ -1,0 +1,1 @@
+- **《使命召唤：现代战争4》Switch 2版本更新上线**（2026-10-25）— 动视为该平台版本推送最新更新，带来性能与内容调整。 <https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live-here-are-the-details>

@@ -1,0 +1,212 @@
+{
+  "as_of": "2026-10-25",
+  "cutoff": "2026-10-24",
+  "window_days": 1,
+  "summary": {
+    "input_items": 9,
+    "denied_source": 0,
+    "in_window": 9,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 9,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 9,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 8,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "《塞尔达传说》制作人青沼英二获法国文化部授予艺术与文学骑士勋章",
+        "url": "https://kotaku.com/legend-of-zelda-producer-eiji-aonuma-knighted-by-french-ministry-of-culture-2000749331",
+        "date": "2026-10-24",
+        "summary": "法国文化部长凡妮莎·佩加尔向《塞尔达传说》系列制作人青沼英二颁发艺术与文学骑士勋章，以表彰其作为\"为玩家想象力留出空间的讲故事者\"的创作贡献。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《塞尔达传说》制作人青沼英二获法国文化部授予艺术与文学骑士勋章",
+          "url": "https://kotaku.com/legend-of-zelda-producer-eiji-aonuma-knighted-by-french-ministry-of-culture-2000749331",
+          "date": "2026-10-24",
+          "summary": "法国文化部长凡妮莎·佩加尔向《塞尔达传说》系列制作人青沼英二颁发艺术与文学骑士勋章，以表彰其作为\"为玩家想象力留出空间的讲故事者\"的创作贡献。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "泄露内部预告片曝光已取消的《质量效应：宇宙》剧情设计，玩家可\"生成\"多结局时间线",
+        "url": "https://kotaku.com/mass-effect-universe-would-have-allowed-players-to-generate-timelines-that-acknowledged-multiple-choices-from-the-trilogy-2000749344",
+        "date": "2026-10-24",
+        "summary": "据报道，EA关闭BioWare后，一段原本仅供内部使用的《质量效应：宇宙》预告片遭泄露，技术总监Romain Toutain证实游戏原计划支持自定义主角、徒手格斗机制，并通过一套逻辑校验系统让初代三部曲的选择都能延续并\"生成\"对应时间线。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "泄露内部预告片曝光已取消的《质量效应：宇宙》剧情设计，玩家可\"生成\"多结局时间线",
+          "url": "https://kotaku.com/mass-effect-universe-would-have-allowed-players-to-generate-timelines-that-acknowledged-multiple-choices-from-the-trilogy-2000749344",
+          "date": "2026-10-24",
+          "summary": "据报道，EA关闭BioWare后，一段原本仅供内部使用的《质量效应：宇宙》预告片遭泄露，技术总监Romain Toutain证实游戏原计划支持自定义主角、徒手格斗机制，并通过一套逻辑校验系统让初代三部曲的选择都能延续并\"生成\"对应时间线。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《异星探险家》开发商System Era Softworks因衍生新作遇冷裁员30余人",
+        "url": "https://www.invenglobal.com/articles/27670/astroneer-developer-lays-off-over-30-staff-following-underperformance-of-new-title",
+        "date": "2026-10-24",
+        "summary": "《异星探险家》（Astroneer）开发商System Era Softworks裁员30余人，涉及美术、设计、工程、制作人及QA等岗位，原因是今年6月上线抢先体验的衍生新作《StarSeeker: Astroneer Expeditions》表现未达预期；公司称原版《异星探险家》表现依旧良好，部分员工将转回原版团队。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《异星探险家》开发商System Era Softworks因衍生新作遇冷裁员30余人",
+          "url": "https://www.invenglobal.com/articles/27670/astroneer-developer-lays-off-over-30-staff-following-underperformance-of-new-title",
+          "date": "2026-10-24",
+          "summary": "《异星探险家》（Astroneer）开发商System Era Softworks裁员30余人，涉及美术、设计、工程、制作人及QA等岗位，原因是今年6月上线抢先体验的衍生新作《StarSeeker: Astroneer Expeditions》表现未达预期；公司称原版《异星探险家》表现依旧良好，部分员工将转回原版团队。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《蔚蓝档案》日服发行商2027年起由Yostar转为Nexon",
+        "url": "https://www.invenglobal.com/articles/27680/nexon-to-service-japanese-server-for-blue-archive-starting-2027",
+        "date": "2026-10-25",
+        "summary": "Yostar日本CEO李恒达在10月25日的直播中宣布，经双方协商，《蔚蓝档案》日服运营将于2027年1月随游内更新及周年庆活动移交给Nexon，中国服务器仍由Yostar负责；Yostar将在11月公布账号迁移细节及玩家补偿。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《蔚蓝档案》日服发行商2027年起由Yostar转为Nexon",
+          "url": "https://www.invenglobal.com/articles/27680/nexon-to-service-japanese-server-for-blue-archive-starting-2027",
+          "date": "2026-10-25",
+          "summary": "Yostar日本CEO李恒达在10月25日的直播中宣布，经双方协商，《蔚蓝档案》日服运营将于2027年1月随游内更新及周年庆活动移交给Nexon，中国服务器仍由Yostar负责；Yostar将在11月公布账号迁移细节及玩家补偿。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据报道真人电影版《艾尔登法环》预算逼近2亿美元，创A24新高",
+        "url": "https://www.invenglobal.com/articles/27679/live-action-elden-ring-movie-budget-nears-200-million",
+        "date": "2026-10-25",
+        "summary": "据《华尔街日报》援引消息人士报道，A24与万代南梦宫联合制作、Alex Garland执导、乔治·R·R·马丁参与制片的真人电影版《艾尔登法环》预算逼近2亿美元，将刷新A24史上投资纪录，影片已于今年7月杀青，定档2028年3月3日上映。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据报道真人电影版《艾尔登法环》预算逼近2亿美元，创A24新高",
+          "url": "https://www.invenglobal.com/articles/27679/live-action-elden-ring-movie-budget-nears-200-million",
+          "date": "2026-10-25",
+          "summary": "据《华尔街日报》援引消息人士报道，A24与万代南梦宫联合制作、Alex Garland执导、乔治·R·R·马丁参与制片的真人电影版《艾尔登法环》预算逼近2亿美元，将刷新A24史上投资纪录，影片已于今年7月杀青，定档2028年3月3日上映。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "英国经典儿童节目《Knightmare》官方授权独立游戏开发中",
+        "url": "https://www.videogameschronicle.com/news/a-free-officially-licensed-game-based-on-classic-uk-childrens-tv-show-knightmare-is-in-development/",
+        "date": "2026-10-24",
+        "summary": "由设计师Ewen Watson带领的团队获得原节目创作者Tim Child授权，正在开发一款基于1987-1994年英国ITV经典儿童节目《Knightmare》的免费PC独立游戏，预计2027年发售，暂无主机版计划。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "英国经典儿童节目《Knightmare》官方授权独立游戏开发中",
+          "url": "https://www.videogameschronicle.com/news/a-free-officially-licensed-game-based-on-classic-uk-childrens-tv-show-knightmare-is-in-development/",
+          "date": "2026-10-24",
+          "summary": "由设计师Ewen Watson带领的团队获得原节目创作者Tim Child授权，正在开发一款基于1987-1994年英国ITV经典儿童节目《Knightmare》的免费PC独立游戏，预计2027年发售，暂无主机版计划。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "中东欧游戏大奖CEEGA 2026公布：《REPLACED》斩获最佳游戏等三项大奖",
+        "url": "https://www.4gamer.net/games/577/G057752/20261024001/",
+        "date": "2026-10-24",
+        "summary": "中东欧游戏大奖（CEEGA）2026于10月23日在波兰波兹南游戏展颁出，Sad Cat Studios开发的《REPLACED》包揽最佳游戏、设计与叙事三项大奖，Bloober Team的《Cronos: The New Dawn》获最佳音效、Techland的《消逝的光芒：野兽》获最佳技术奖。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "中东欧游戏大奖CEEGA 2026公布：《REPLACED》斩获最佳游戏等三项大奖",
+          "url": "https://www.4gamer.net/games/577/G057752/20261024001/",
+          "date": "2026-10-24",
+          "summary": "中东欧游戏大奖（CEEGA）2026于10月23日在波兰波兹南游戏展颁出，Sad Cat Studios开发的《REPLACED》包揽最佳游戏、设计与叙事三项大奖，Bloober Team的《Cronos: The New Dawn》获最佳音效、Techland的《消逝的光芒：野兽》获最佳技术奖。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《暗黑地牢2》推出Switch 2版本",
+        "url": "https://www.nintendolife.com/news/2026/10/forward-now-into-oblivions-inky-embrace-darkest-dungeon-ii-now-has-a-switch-2-edition",
+        "date": "2026-10-25",
+        "summary": "Red Hook Studios的肉鸽地牢游戏《暗黑地牢2》（Darkest Dungeon II）现已登陆Nintendo Switch 2平台。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《暗黑地牢2》推出Switch 2版本",
+          "url": "https://www.nintendolife.com/news/2026/10/forward-now-into-oblivions-inky-embrace-darkest-dungeon-ii-now-has-a-switch-2-edition",
+          "date": "2026-10-25",
+          "summary": "Red Hook Studios的肉鸽地牢游戏《暗黑地牢2》（Darkest Dungeon II）现已登陆Nintendo Switch 2平台。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《使命召唤：现代战争4》Switch 2版本更新上线",
+        "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live-here-are-the-details",
+        "date": "2026-10-25",
+        "summary": "动视为《使命召唤：现代战争4》Switch 2版本推送最新更新，带来性能与内容调整。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《使命召唤：现代战争4》Switch 2版本更新上线",
+          "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live-here-are-the-details",
+          "date": "2026-10-25",
+          "summary": "动视为《使命召唤：现代战争4》Switch 2版本推送最新更新，带来性能与内容调整。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
