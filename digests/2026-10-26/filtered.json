@@ -1,0 +1,414 @@
+{
+  "as_of": "2026-10-26",
+  "cutoff": "2026-10-19",
+  "window_days": 7,
+  "summary": {
+    "input_items": 14,
+    "denied_source": 0,
+    "in_window": 14,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 14,
+    "duplicate_clusters": 0,
+    "section1_count": 3,
+    "section2_count": 11,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 5,
+    "previously_covered_count": 9
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "NVIDIA为《使命召唤:现代战争4》《赛博朋克2077》等多款游戏推出DLSS 4.5/DLSS 5更新",
+        "url": "https://www.nvidia.com/en-us/geforce/news/dlss-4-5-cyberpunk-2077-planet-zoo-2-modern-warfare-4/",
+        "second_url": "https://www.nvidia.com/en-us/geforce/news/phantom-blade-zero-nvidia-geforce-game-ready-driver/",
+        "date": "2026-10-21",
+        "section": 1,
+        "facts": [
+          "NVIDIA于10月21日发布官方博客,宣布DLSS 4.5登陆《使命召唤:现代战争4》(战役10月16日提前体验、DMZ 10月20日提前体验、含多人模式的完整版10月23日上线)、《赛博朋克2077》(10月22日更新)、已上线的《太空动物园2》,以及即将于10月28日发售的《影之刃零》和10月29日发售的《黑色沙漠:增强版》。",
+          "同步发布GeForce Game Ready 621.01 WHQL驱动,首次为PC游戏引入微软的Advanced Shader Delivery(高级着色器分发)云端预编译技术,《使命召唤:现代战争4》《战争机器:E日》等游戏率先支持。",
+          "《赛博朋克2077》10月22日更新新增DLSS 4.5动态多帧生成(Dynamic Multi Frame Generation),并将原有多帧生成、光线重建、超分辨率全部升级为第二代AI模型。",
+          "《NBA 2K27》第二赛季率先采用新一代DLSS 5神经渲染模型,NVIDIA称其整体速度比今年3月发布的版本快10倍,在RTX 50系列、RTX Spark笔记本及GeForce NOW上帧率最高提升1.4倍;RTX 50系列显卡在《现代战争4》中通过动态多帧生成最高可实现6倍帧数倍增。"
+        ],
+        "background": [
+          "DLSS 5最早于2026年3月GTC大会上公布,是NVIDIA基于神经渲染技术构建的3D-Guided Neural Rendering模型,用于在渲染管线末端提升光照与材质细节真实感,官方原计划2026年秋季正式推广。",
+          "10月16日NVIDIA已推出RTX Spark系列笔记本并带来DLSS 5首批游戏支持,本次更新是该推广计划的延续,覆盖范围进一步扩大到多款新发及热门在运营游戏。",
+          "Advanced Shader Delivery由微软开发,通过云端为海量硬件与驱动组合预先编译着色器数据库,配套下载包随游戏经Xbox PC应用一同分发,目标是消除游戏启动或更新后常见的着色器编译卡顿,NVIDIA称命中率接近100%。"
+        ],
+        "results": [
+          "多款2026年秋季重磅游戏在发布首周或更新当周即获得DLSS 4.5支持,成为NVIDIA今年秋季规模最大的一轮游戏画质与性能更新。",
+          "DLSS 5神经渲染模型通过《NBA 2K27》率先验证了官方宣称的大幅性能提升,后续《霍格沃茨之遗》《风起长安(Where Winds Meet)》及RTX Remix模组工具也将在10月下旬至11月陆续获得支持。",
+          "Advanced Shader Delivery作为微软与NVIDIA的联合技术方案开始在《使命召唤:现代战争4》等首发大作中落地,若效果达到预期,有望成为后续更多Xbox PC应用游戏的标配。"
+        ]
+      },
+      "members": [
+        {
+          "title": "NVIDIA为《使命召唤:现代战争4》《赛博朋克2077》等多款游戏推出DLSS 4.5/DLSS 5更新",
+          "url": "https://www.nvidia.com/en-us/geforce/news/dlss-4-5-cyberpunk-2077-planet-zoo-2-modern-warfare-4/",
+          "second_url": "https://www.nvidia.com/en-us/geforce/news/phantom-blade-zero-nvidia-geforce-game-ready-driver/",
+          "date": "2026-10-21",
+          "section": 1,
+          "facts": [
+            "NVIDIA于10月21日发布官方博客,宣布DLSS 4.5登陆《使命召唤:现代战争4》(战役10月16日提前体验、DMZ 10月20日提前体验、含多人模式的完整版10月23日上线)、《赛博朋克2077》(10月22日更新)、已上线的《太空动物园2》,以及即将于10月28日发售的《影之刃零》和10月29日发售的《黑色沙漠:增强版》。",
+            "同步发布GeForce Game Ready 621.01 WHQL驱动,首次为PC游戏引入微软的Advanced Shader Delivery(高级着色器分发)云端预编译技术,《使命召唤:现代战争4》《战争机器:E日》等游戏率先支持。",
+            "《赛博朋克2077》10月22日更新新增DLSS 4.5动态多帧生成(Dynamic Multi Frame Generation),并将原有多帧生成、光线重建、超分辨率全部升级为第二代AI模型。",
+            "《NBA 2K27》第二赛季率先采用新一代DLSS 5神经渲染模型,NVIDIA称其整体速度比今年3月发布的版本快10倍,在RTX 50系列、RTX Spark笔记本及GeForce NOW上帧率最高提升1.4倍;RTX 50系列显卡在《现代战争4》中通过动态多帧生成最高可实现6倍帧数倍增。"
+          ],
+          "background": [
+            "DLSS 5最早于2026年3月GTC大会上公布,是NVIDIA基于神经渲染技术构建的3D-Guided Neural Rendering模型,用于在渲染管线末端提升光照与材质细节真实感,官方原计划2026年秋季正式推广。",
+            "10月16日NVIDIA已推出RTX Spark系列笔记本并带来DLSS 5首批游戏支持,本次更新是该推广计划的延续,覆盖范围进一步扩大到多款新发及热门在运营游戏。",
+            "Advanced Shader Delivery由微软开发,通过云端为海量硬件与驱动组合预先编译着色器数据库,配套下载包随游戏经Xbox PC应用一同分发,目标是消除游戏启动或更新后常见的着色器编译卡顿,NVIDIA称命中率接近100%。"
+          ],
+          "results": [
+            "多款2026年秋季重磅游戏在发布首周或更新当周即获得DLSS 4.5支持,成为NVIDIA今年秋季规模最大的一轮游戏画质与性能更新。",
+            "DLSS 5神经渲染模型通过《NBA 2K27》率先验证了官方宣称的大幅性能提升,后续《霍格沃茨之遗》《风起长安(Where Winds Meet)》及RTX Remix模组工具也将在10月下旬至11月陆续获得支持。",
+            "Advanced Shader Delivery作为微软与NVIDIA的联合技术方案开始在《使命召唤:现代战争4》等首发大作中落地,若效果达到预期,有望成为后续更多Xbox PC应用游戏的标配。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "AMD将FSR 4.1超分技术提前扩展至Radeon RX 6000显卡、Ryzen AI处理器及掌机,Xbox支持即将到来",
+        "url": "https://www.invenglobal.com/articles/27423/amd-brings-fsr-41-to-radeon-rx-6000-cards-apus-and-xbox",
+        "second_url": "https://www.pcgamer.com/hardware/graphics-cards/amd-has-shipped-fsr-4-1-early-for-rx-6000-graphics-cards-and-its-coming-to-ryzen-apus-vulkan-and-xbox-too/",
+        "date": "2026-10-20",
+        "section": 1,
+        "facts": [
+          "AMD高级副总裁兼计算与图形业务总经理Jack Huynh于10月20日通过X宣布,FSR Upscaling 4.1已随AMD Software: Adrenalin Edition 26.10.1驱动扩展支持Radeon RX 6000系列显卡,并针对从RX 6900系列到RX 6400级别做了专门调优。",
+          "这是FSR 4.1首次登陆AMD的APU产品线,覆盖Ryzen AI Max 300/400系列、Ryzen AI 9 300/400系列笔记本芯片,以及搭载Z2E、Z2A芯片的掌机设备。",
+          "AMD确认FSR 4.1将登陆Xbox主机,针对华硕ROG Xbox掌机及Xbox Series X|S进行优化,但尚未公布具体上线时间。",
+          "FSR对Vulkan图形接口的支持也将在\"未来几周\"内上线,便于开发者将FSR集成进更多游戏;驱动同时修复了《使命召唤:现代战争4》在RX 6000及更新显卡上的卡顿问题。"
+        ],
+        "background": [
+          "AMD此前曾表示Radeon RX 6000系列要到2027年初才会获得FSR 4.1支持,本次通过Adrenalin 26.10.1驱动提前了数月实现。",
+          "FSR 4.1此前已于2026年上半年陆续登陆RX 9000系列及RX 7000系列显卡,此次更新进一步把AI超分体验下放到更老旧、保有量更大的硬件及掌机市场。",
+          "该驱动新增支持《使命召唤:现代战争4》《星球大战:银河赛车手》及《Final Fantasy Resonance》等游戏的FSR 4.1特性。"
+        ],
+        "results": [
+          "AMD借此将AI图像重建技术的覆盖面扩大到数年前发售的中低端显卡及掌机设备,被视为与NVIDIA DLSS争夺主流PC及掌机玩家的关键举措。",
+          "由于AMD尚未公布RX 6000系列的具体性能提升数据,独立测试结果仍待业界验证;Xbox Series X|S及华硕等掌机厂商的具体上线时间也尚未确定。"
+        ]
+      },
+      "members": [
+        {
+          "title": "AMD将FSR 4.1超分技术提前扩展至Radeon RX 6000显卡、Ryzen AI处理器及掌机,Xbox支持即将到来",
+          "url": "https://www.invenglobal.com/articles/27423/amd-brings-fsr-41-to-radeon-rx-6000-cards-apus-and-xbox",
+          "second_url": "https://www.pcgamer.com/hardware/graphics-cards/amd-has-shipped-fsr-4-1-early-for-rx-6000-graphics-cards-and-its-coming-to-ryzen-apus-vulkan-and-xbox-too/",
+          "date": "2026-10-20",
+          "section": 1,
+          "facts": [
+            "AMD高级副总裁兼计算与图形业务总经理Jack Huynh于10月20日通过X宣布,FSR Upscaling 4.1已随AMD Software: Adrenalin Edition 26.10.1驱动扩展支持Radeon RX 6000系列显卡,并针对从RX 6900系列到RX 6400级别做了专门调优。",
+            "这是FSR 4.1首次登陆AMD的APU产品线,覆盖Ryzen AI Max 300/400系列、Ryzen AI 9 300/400系列笔记本芯片,以及搭载Z2E、Z2A芯片的掌机设备。",
+            "AMD确认FSR 4.1将登陆Xbox主机,针对华硕ROG Xbox掌机及Xbox Series X|S进行优化,但尚未公布具体上线时间。",
+            "FSR对Vulkan图形接口的支持也将在\"未来几周\"内上线,便于开发者将FSR集成进更多游戏;驱动同时修复了《使命召唤:现代战争4》在RX 6000及更新显卡上的卡顿问题。"
+          ],
+          "background": [
+            "AMD此前曾表示Radeon RX 6000系列要到2027年初才会获得FSR 4.1支持,本次通过Adrenalin 26.10.1驱动提前了数月实现。",
+            "FSR 4.1此前已于2026年上半年陆续登陆RX 9000系列及RX 7000系列显卡,此次更新进一步把AI超分体验下放到更老旧、保有量更大的硬件及掌机市场。",
+            "该驱动新增支持《使命召唤:现代战争4》《星球大战:银河赛车手》及《Final Fantasy Resonance》等游戏的FSR 4.1特性。"
+          ],
+          "results": [
+            "AMD借此将AI图像重建技术的覆盖面扩大到数年前发售的中低端显卡及掌机设备,被视为与NVIDIA DLSS争夺主流PC及掌机玩家的关键举措。",
+            "由于AMD尚未公布RX 6000系列的具体性能提升数据,独立测试结果仍待业界验证;Xbox Series X|S及华硕等掌机厂商的具体上线时间也尚未确定。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Unity公布CLI使用数据:超九成调用来自AI编程智能体,Claude Code居首",
+        "url": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
+        "date": "2026-10-22",
+        "section": 2,
+        "summary": "Unity在10月22日的官方博客中披露,自7月以来已有超过22.6万名登录用户使用Unity CLI,累计产生超过2亿次事件,其中约98%的调用来自编程智能体等自动化工具,人工终端输入仅占0.2%、CI流水线占0.3%。在接入Unity CLI的各类AI智能体中,Anthropic的Claude Code使用量最高,其后依次为Codex、Cursor和Grok,Unity已为Claude Code、Codex和Grok推出官方插件。"
+      },
+      "members": [
+        {
+          "title": "Unity公布CLI使用数据:超九成调用来自AI编程智能体,Claude Code居首",
+          "url": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
+          "date": "2026-10-22",
+          "section": 2,
+          "summary": "Unity在10月22日的官方博客中披露,自7月以来已有超过22.6万名登录用户使用Unity CLI,累计产生超过2亿次事件,其中约98%的调用来自编程智能体等自动化工具,人工终端输入仅占0.2%、CI流水线占0.3%。在接入Unity CLI的各类AI智能体中,Anthropic的Claude Code使用量最高,其后依次为Codex、Cursor和Grok,Unity已为Claude Code、Codex和Grok推出官方插件。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《Moonlighter》开发商因AI克隆风险缩减新作《ReVamp》公测范围",
+        "url": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning",
+        "second_url": "https://kotaku.com/revamp-public-playtest-cancelled-digital-sun-claude-ai-clones-2000747558",
+        "date": "2026-10-19",
+        "section": 2,
+        "summary": "《Moonlighter》开发商Digital Sun在10月19日通过Steam和Bluesky宣布,原计划面向所有Steam用户开放的新作《ReVamp》公测将改为仅限Discord内小范围测试,大规模公测推迟至2027年1月前后。工作室表示,近期频现\"游戏在正式发售前就被逆向工程、克隆并上架\"的现象令其担忧,相关报道将这一趋势与利用Claude、ChatGPT等大模型快速反编译、重建游戏核心玩法联系在一起。此前《Drunken Goddess Reflux》开发商Alliance Arts也因同样担忧取消了Steam Next Fest演示。"
+      },
+      "members": [
+        {
+          "title": "《Moonlighter》开发商因AI克隆风险缩减新作《ReVamp》公测范围",
+          "url": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning",
+          "second_url": "https://kotaku.com/revamp-public-playtest-cancelled-digital-sun-claude-ai-clones-2000747558",
+          "date": "2026-10-19",
+          "section": 2,
+          "summary": "《Moonlighter》开发商Digital Sun在10月19日通过Steam和Bluesky宣布,原计划面向所有Steam用户开放的新作《ReVamp》公测将改为仅限Discord内小范围测试,大规模公测推迟至2027年1月前后。工作室表示,近期频现\"游戏在正式发售前就被逆向工程、克隆并上架\"的现象令其担忧,相关报道将这一趋势与利用Claude、ChatGPT等大模型快速反编译、重建游戏核心玩法联系在一起。此前《Drunken Goddess Reflux》开发商Alliance Arts也因同样担忧取消了Steam Next Fest演示。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "\"反AI\"题材游戏《Future? No Thanks!》开发者承认用AI后提供退款",
+        "url": "https://kotaku.com/developer-of-ecosocialist-game-future-no-thanks-offers-refunds-after-using-ai-despite-calling-it-technofascist-2000749158",
+        "date": "2026-10-23",
+        "section": 2,
+        "summary": "Molleindustria旗下、曾将AI称为\"技术法西斯主义\"项目的生态社会主义题材游戏《Future? No Thanks!》,其开发者Paolo Pedercini在10月23日承认游戏此前未声明使用了Suno制作的两段配乐、文本转语音配音,以及ChatGPT/Claude辅助调试的少量代码。他随后删除了除代码外的AI生成内容,并向感到\"被欺骗\"的购买者提供PayPal/Venmo退款,但同时为最初使用AI进行了辩护,并表示下一部作品将完全手写代码。"
+      },
+      "members": [
+        {
+          "title": "\"反AI\"题材游戏《Future? No Thanks!》开发者承认用AI后提供退款",
+          "url": "https://kotaku.com/developer-of-ecosocialist-game-future-no-thanks-offers-refunds-after-using-ai-despite-calling-it-technofascist-2000749158",
+          "date": "2026-10-23",
+          "section": 2,
+          "summary": "Molleindustria旗下、曾将AI称为\"技术法西斯主义\"项目的生态社会主义题材游戏《Future? No Thanks!》,其开发者Paolo Pedercini在10月23日承认游戏此前未声明使用了Suno制作的两段配乐、文本转语音配音,以及ChatGPT/Claude辅助调试的少量代码。他随后删除了除代码外的AI生成内容,并向感到\"被欺骗\"的购买者提供PayPal/Venmo退款,但同时为最初使用AI进行了辩护,并表示下一部作品将完全手写代码。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Anthropic被指\"悄悄削弱\"Claude逆向还原游戏代码的能力",
+        "url": "https://kotaku.com/claudes-reverse-engineering-capabilities-used-to-recompile-games-may-have-been-quietly-nerfed-2000749320",
+        "date": "2026-10-24",
+        "section": 2,
+        "summary": "多名Reddit用户10月下旬反映,此前曾被用于将《光环》《辛普森一家:暴走猎车手》等游戏逆向反编译并移植为网页版的Claude Opus 5.5,其逆向工程能力明显下降,部分相关请求会在回答中途触发安全防护拦截。Anthropic并未就此发布新版本公告,也未证实或否认存在未公开调整,但10月21日确实对多款Claude产品发布过一系列更新;部分用户认为该能力本就不稳定,但多数反馈倾向认为这是被刻意收紧所致。"
+      },
+      "members": [
+        {
+          "title": "Anthropic被指\"悄悄削弱\"Claude逆向还原游戏代码的能力",
+          "url": "https://kotaku.com/claudes-reverse-engineering-capabilities-used-to-recompile-games-may-have-been-quietly-nerfed-2000749320",
+          "date": "2026-10-24",
+          "section": 2,
+          "summary": "多名Reddit用户10月下旬反映,此前曾被用于将《光环》《辛普森一家:暴走猎车手》等游戏逆向反编译并移植为网页版的Claude Opus 5.5,其逆向工程能力明显下降,部分相关请求会在回答中途触发安全防护拦截。Anthropic并未就此发布新版本公告,也未证实或否认存在未公开调整,但10月21日确实对多款Claude产品发布过一系列更新;部分用户认为该能力本就不稳定,但多数反馈倾向认为这是被刻意收紧所致。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Roblox、Fortnite、Google Playground等UGC平台竞相用AI降低游戏创作门槛",
+        "url": "https://gamesbeat.com/ugc-platforms-are-turning-to-ai-to-make-game-developers-out-of-everyday-players/",
+        "date": "2026-10-26",
+        "section": 2,
+        "summary": "GamesBeat于10月26日报道,Roblox在其移动端推出可将文本提示转化为可玩游戏的Build功能,官方称目前超70%的Build用户从未打开过Roblox Studio;Epic Games已在Unreal Engine 5.8中为UEFN创作者提供连接Claude、Gemini的实验性MCP服务器,The Sandbox推出面向智能体编程的Sandbox Studio,Google的Playground也在筹划与Unity的Spark AI打通。行业人士同时警示,创作门槛骤降可能导致平台被低质量AI生成游戏淹没。"
+      },
+      "members": [
+        {
+          "title": "Roblox、Fortnite、Google Playground等UGC平台竞相用AI降低游戏创作门槛",
+          "url": "https://gamesbeat.com/ugc-platforms-are-turning-to-ai-to-make-game-developers-out-of-everyday-players/",
+          "date": "2026-10-26",
+          "section": 2,
+          "summary": "GamesBeat于10月26日报道,Roblox在其移动端推出可将文本提示转化为可玩游戏的Build功能,官方称目前超70%的Build用户从未打开过Roblox Studio;Epic Games已在Unreal Engine 5.8中为UEFN创作者提供连接Claude、Gemini的实验性MCP服务器,The Sandbox推出面向智能体编程的Sandbox Studio,Google的Playground也在筹划与Unity的Spark AI打通。行业人士同时警示,创作门槛骤降可能导致平台被低质量AI生成游戏淹没。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Wonder Interactive推出AI工具Strata,一键将Unreal Engine项目搬上浏览器",
+        "url": "https://gamesbeat.com/wonder-interactives-strata-uses-ai-to-take-unreal-engine-games-to-browsers-using-webassembly-and-webgpu/",
+        "date": "2026-10-22",
+        "section": 2,
+        "summary": "SimplyStream母公司Wonder Interactive于10月22日发布AI开发工具Strata,开发者只需输入一句自然语言提示,即可通过WebAssembly和WebGPU将Unreal Engine项目打包为可分享的浏览器链接,并支持与Claude Code、Codex等AI编程助手经由MCP协同工作。该公司是Epic MegaGrant受资助方及Unreal Engine授权服务合作商,并披露已实现Epic官方City Sample场景在浏览器中的运行。"
+      },
+      "members": [
+        {
+          "title": "Wonder Interactive推出AI工具Strata,一键将Unreal Engine项目搬上浏览器",
+          "url": "https://gamesbeat.com/wonder-interactives-strata-uses-ai-to-take-unreal-engine-games-to-browsers-using-webassembly-and-webgpu/",
+          "date": "2026-10-22",
+          "section": 2,
+          "summary": "SimplyStream母公司Wonder Interactive于10月22日发布AI开发工具Strata,开发者只需输入一句自然语言提示,即可通过WebAssembly和WebGPU将Unreal Engine项目打包为可分享的浏览器链接,并支持与Claude Code、Codex等AI编程助手经由MCP协同工作。该公司是Epic MegaGrant受资助方及Unreal Engine授权服务合作商,并披露已实现Epic官方City Sample场景在浏览器中的运行。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "AI制作应用泛滥拖慢App Store审核速度,开发者抱怨等待数周",
+        "url": "https://mobilegamer.biz/app-store-review-times-are-being-dragged-down-by-a-flood-of-ai-made-apps-and-games/",
+        "date": "2026-10-20",
+        "section": 2,
+        "summary": "MobileGamer.biz10月20日报道,多家中小游戏工作室反映苹果App Store的审核时间已从通常的24-48小时延长至数周,开发者将原因归咎于AI制作应用和游戏数量激增导致审核资源紧张,而Google Play的审核速度未受明显影响。苹果回应称已加强自动化流程与滥用检测机制,过去12周平均每周处理约37.8万次提交,所有应用的平均审核时间为1.5天。"
+      },
+      "members": [
+        {
+          "title": "AI制作应用泛滥拖慢App Store审核速度,开发者抱怨等待数周",
+          "url": "https://mobilegamer.biz/app-store-review-times-are-being-dragged-down-by-a-flood-of-ai-made-apps-and-games/",
+          "date": "2026-10-20",
+          "section": 2,
+          "summary": "MobileGamer.biz10月20日报道,多家中小游戏工作室反映苹果App Store的审核时间已从通常的24-48小时延长至数周,开发者将原因归咎于AI制作应用和游戏数量激增导致审核资源紧张,而Google Play的审核速度未受明显影响。苹果回应称已加强自动化流程与滥用检测机制,过去12周平均每周处理约37.8万次提交,所有应用的平均审核时间为1.5天。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "前Take-Two AI负责人在PGC Nordics呼吁业界理性看待AI炒作",
+        "url": "https://www.pocketgamer.biz/pgc-nordics-2026-live-ops-d2c-ai-ip-talks/",
+        "date": "2026-10-21",
+        "section": 2,
+        "summary": "在10月20至21日于赫尔辛基举行的Pocket Gamer Connects Nordics大会上,前Take-Two AI负责人Luke Dicken表示,业界既不应全盘否定生成式AI的价值,也不该因单一成功案例就断言行业已被彻底改变,他认为许多被归咎于AI的问题实际是企业为节省成本而做出的商业决策。PocketGamer.biz于10月21日报道了相关内容。"
+      },
+      "members": [
+        {
+          "title": "前Take-Two AI负责人在PGC Nordics呼吁业界理性看待AI炒作",
+          "url": "https://www.pocketgamer.biz/pgc-nordics-2026-live-ops-d2c-ai-ip-talks/",
+          "date": "2026-10-21",
+          "section": 2,
+          "summary": "在10月20至21日于赫尔辛基举行的Pocket Gamer Connects Nordics大会上,前Take-Two AI负责人Luke Dicken表示,业界既不应全盘否定生成式AI的价值,也不该因单一成功案例就断言行业已被彻底改变,他认为许多被归咎于AI的问题实际是企业为节省成本而做出的商业决策。PocketGamer.biz于10月21日报道了相关内容。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《使命召唤:现代战争4》引入AI武器配装推荐系统\"Gunny\"",
+        "url": "https://gamesbeat.com/infinity-wards-improvements-to-call-of-duty-modern-warfare-4-multiplayer-exclusive-interview/",
+        "date": "2026-10-23",
+        "section": 2,
+        "summary": "GamesBeat在10月23日的独家专访中披露,Infinity Ward为《使命召唤:现代战争4》加入名为\"Gunny\"的AI系统,可根据玩家等级及已持有的武器配件自动推荐最佳武器搭配,旨在降低Gunsmith武器改装系统的学习门槛,同时保留原有的深度自定义玩法。开发者Hoppus还提到,单人战役中的敌人AI与工作室其他项目共用同一套底层AI技术。"
+      },
+      "members": [
+        {
+          "title": "《使命召唤:现代战争4》引入AI武器配装推荐系统\"Gunny\"",
+          "url": "https://gamesbeat.com/infinity-wards-improvements-to-call-of-duty-modern-warfare-4-multiplayer-exclusive-interview/",
+          "date": "2026-10-23",
+          "section": 2,
+          "summary": "GamesBeat在10月23日的独家专访中披露,Infinity Ward为《使命召唤:现代战争4》加入名为\"Gunny\"的AI系统,可根据玩家等级及已持有的武器配件自动推荐最佳武器搭配,旨在降低Gunsmith武器改装系统的学习门槛,同时保留原有的深度自定义玩法。开发者Hoppus还提到,单人战役中的敌人AI与工作室其他项目共用同一套底层AI技术。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "米哈游崩坏AI团队联合高校开源游戏智能体模型GameScaling",
+        "url": "https://gamescaling.github.io",
+        "second_url": "https://www.ithome.com/1/016/575.htm",
+        "date": "2026-10-20",
+        "section": 1,
+        "facts": [
+          "米哈游崩坏AI研发团队联合清华大学人工智能学院、中国科学院大学、香港大学MMLab、新加坡国立大学、北京大学的多名学生（部分为米哈游实习生），开源了游戏智能体模型系列GameScaling，论文《Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds》于10月20日提交至arXiv（编号2610.28698）。",
+          "模型基于Qwen3.5系列视觉语言模型进行持续预训练（continued pre-training），参数规模覆盖0.8B、2B、9B、27B四档，每档各含S1（仅Minecraft数据）与S3（多游戏混合数据）两个版本，共8个开源权重。",
+          "训练语料总计1600小时游戏录像，覆盖约80款游戏（以Minecraft、DOOM及密室逃脱类3D具身场景为主）；模型以当前画面、历史帧及动作历史为输入，每次输出约200毫秒（6步×33毫秒）的键鼠操作序列，并支持鼠标移动与滚轮指令。",
+          "代码、权重及基于vLLM的推理服务方案均以Apache 2.0协议开源在GitHub（THUSI-Lab/GameScaling）与Hugging Face；0.8B、2B、9B版本可单GPU运行，27B版本需双GPU张量并行推理。",
+          "在MCU基准测试中，将单次推理步数上限从600提升到3000后，GameScaling-9B-S1准确率从50.9%升至69.3%，0.8B-S1从42.3%升至59.3%；同条件下未经训练的Qwen3.5-9B仅从约2%升至4.0%，Qwen3.5-0.8B在任何步数预算下均无法完成任务。",
+          "推理速度上，前沿通用大模型完成单步推理需4至24秒，而GameScaling仅需0.13至0.69秒，更适合游戏所需的实时交互。"
+        ],
+        "background": [
+          "该研究旨在验证\"扩展定律\"（scaling laws）——即数据量、数据多样性与模型规模的提升，是否也能像在物理世界具身智能（机器人）研究中一样，有效提升AI在虚拟游戏世界中的操作与泛化能力。",
+          "团队设计了120种对照配置，变化模型规模（0.8B-27B）、训练数据量（50-1600小时）与5种数据混合比例（从单一Minecraft语料到跨度广泛的多游戏语料，Minecraft占比低至27%），总训练算力约2.2×10^22 FLOPs。",
+          "评测采用四个基准：训练语料内的MCU与ViZDoom，以及未见过的OmniGameArena（相关场景）与GameWorld（差异较大的陌生场景），用以区分模型在\"见过\"与\"未见过\"世界中的表现差异。"
+        ],
+        "results": [
+          "研究发现：更多数据能提升模型在训练语料\"见过\"的游戏世界中的表现；数据多样性有助于迁移到相关的新世界，但对差异较大的陌生世界帮助有限；模型规模越大，利用数据的效率越高，但若仅用单一世界数据训练，对陌生世界的泛化反而更差。",
+          "训练过程呈现两阶段现象：早期\"界面阶段\"（interface phase）带来广泛的跨世界通用收益，随后进入\"世界阶段\"（world phase），收益逐渐收窄至训练语料内及相关世界。团队据此拟合了一条将验证损失（validation loss）与数据量、数据多样性、模型规模相关联的经验性扩展定律。",
+          "作者认为，单纯的模仿学习（imitation learning）存在上限，通用型游戏具身智能体未来需要在持续预训练之外引入更丰富的训练阶段，这也是该研究对后续工作提出的方向。"
+        ]
+      },
+      "members": [
+        {
+          "title": "米哈游崩坏AI团队联合高校开源游戏智能体模型GameScaling",
+          "url": "https://gamescaling.github.io",
+          "second_url": "https://www.ithome.com/1/016/575.htm",
+          "date": "2026-10-20",
+          "section": 1,
+          "facts": [
+            "米哈游崩坏AI研发团队联合清华大学人工智能学院、中国科学院大学、香港大学MMLab、新加坡国立大学、北京大学的多名学生（部分为米哈游实习生），开源了游戏智能体模型系列GameScaling，论文《Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds》于10月20日提交至arXiv（编号2610.28698）。",
+            "模型基于Qwen3.5系列视觉语言模型进行持续预训练（continued pre-training），参数规模覆盖0.8B、2B、9B、27B四档，每档各含S1（仅Minecraft数据）与S3（多游戏混合数据）两个版本，共8个开源权重。",
+            "训练语料总计1600小时游戏录像，覆盖约80款游戏（以Minecraft、DOOM及密室逃脱类3D具身场景为主）；模型以当前画面、历史帧及动作历史为输入，每次输出约200毫秒（6步×33毫秒）的键鼠操作序列，并支持鼠标移动与滚轮指令。",
+            "代码、权重及基于vLLM的推理服务方案均以Apache 2.0协议开源在GitHub（THUSI-Lab/GameScaling）与Hugging Face；0.8B、2B、9B版本可单GPU运行，27B版本需双GPU张量并行推理。",
+            "在MCU基准测试中，将单次推理步数上限从600提升到3000后，GameScaling-9B-S1准确率从50.9%升至69.3%，0.8B-S1从42.3%升至59.3%；同条件下未经训练的Qwen3.5-9B仅从约2%升至4.0%，Qwen3.5-0.8B在任何步数预算下均无法完成任务。",
+            "推理速度上，前沿通用大模型完成单步推理需4至24秒，而GameScaling仅需0.13至0.69秒，更适合游戏所需的实时交互。"
+          ],
+          "background": [
+            "该研究旨在验证\"扩展定律\"（scaling laws）——即数据量、数据多样性与模型规模的提升，是否也能像在物理世界具身智能（机器人）研究中一样，有效提升AI在虚拟游戏世界中的操作与泛化能力。",
+            "团队设计了120种对照配置，变化模型规模（0.8B-27B）、训练数据量（50-1600小时）与5种数据混合比例（从单一Minecraft语料到跨度广泛的多游戏语料，Minecraft占比低至27%），总训练算力约2.2×10^22 FLOPs。",
+            "评测采用四个基准：训练语料内的MCU与ViZDoom，以及未见过的OmniGameArena（相关场景）与GameWorld（差异较大的陌生场景），用以区分模型在\"见过\"与\"未见过\"世界中的表现差异。"
+          ],
+          "results": [
+            "研究发现：更多数据能提升模型在训练语料\"见过\"的游戏世界中的表现；数据多样性有助于迁移到相关的新世界，但对差异较大的陌生世界帮助有限；模型规模越大，利用数据的效率越高，但若仅用单一世界数据训练，对陌生世界的泛化反而更差。",
+            "训练过程呈现两阶段现象：早期\"界面阶段\"（interface phase）带来广泛的跨世界通用收益，随后进入\"世界阶段\"（world phase），收益逐渐收窄至训练语料内及相关世界。团队据此拟合了一条将验证损失（validation loss）与数据量、数据多样性、模型规模相关联的经验性扩展定律。",
+            "作者认为，单纯的模仿学习（imitation learning）存在上限，通用型游戏具身智能体未来需要在持续预训练之外引入更丰富的训练阶段，这也是该研究对后续工作提出的方向。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "网易《逆水寒：新世界》上线自拍模式，玩家可与AI门客NPC合拍",
+        "url": "https://h.163.com/news/official/20261024/37231_1317633.html",
+        "second_url": "https://www.ithome.com/1/018/172.htm",
+        "date": "2026-10-24",
+        "section": 2,
+        "summary": "网易官方10月24日公告，《逆水寒：新世界》将在10月30日上线的4.2.1版本中推出\"自拍模式\"，玩家可自定义走姿、视角与表情，还能让宠物或NPC伙伴入镜互动。配套新增的\"门客站\"允许玩家发布与自定义AI门客（NPC）的合拍作品，设置门客的开场白、动作、声音与人设，并可通过\"面谈\"按IP或人设标签检索门客，或通过\"委托\"邀请其作为24小时旅伴参与合拍乃至永久招募；原有\"剧组站\"同步升级，新增脚印特效与分段变速剪辑等功能。"
+      },
+      "members": [
+        {
+          "title": "网易《逆水寒：新世界》上线自拍模式，玩家可与AI门客NPC合拍",
+          "url": "https://h.163.com/news/official/20261024/37231_1317633.html",
+          "second_url": "https://www.ithome.com/1/018/172.htm",
+          "date": "2026-10-24",
+          "section": 2,
+          "summary": "网易官方10月24日公告，《逆水寒：新世界》将在10月30日上线的4.2.1版本中推出\"自拍模式\"，玩家可自定义走姿、视角与表情，还能让宠物或NPC伙伴入镜互动。配套新增的\"门客站\"允许玩家发布与自定义AI门客（NPC）的合拍作品，设置门客的开场白、动作、声音与人设，并可通过\"面谈\"按IP或人设标签检索门客，或通过\"委托\"邀请其作为24小时旅伴参与合拍乃至永久招募；原有\"剧组站\"同步升级，新增脚印特效与分段变速剪辑等功能。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "游戏陀螺：腾讯开放世界新项目设AI策划岗，米哈游新方向招聘强调AI工作流能力",
+        "url": "https://www.youxituoluo.com/534972.html",
+        "date": "2026-10-20",
+        "section": 2,
+        "summary": "游戏陀螺10月20日报道，通过分析国内约60家游戏公司、截至10月8日累计约8500个招聘岗位发现，腾讯未公开的UE5\"现代战争\"射击新项目（内部代号RAID PROJECT）招聘信息中包含\"AI游戏策划\"岗位；米哈游除深耕二次元RPG外，也在社交模拟MMO、UE5动作射击及MOBA等多个新方向的招聘中，对AI与UE5相关能力提出了越来越高的权重要求。报道同时指出，字节跳动旗下多个工作室正同时探索卡牌、回合制及主机射击等不同品类，但招聘信息中未见明确的AI相关岗位。"
+      },
+      "members": [
+        {
+          "title": "游戏陀螺：腾讯开放世界新项目设AI策划岗，米哈游新方向招聘强调AI工作流能力",
+          "url": "https://www.youxituoluo.com/534972.html",
+          "date": "2026-10-20",
+          "section": 2,
+          "summary": "游戏陀螺10月20日报道，通过分析国内约60家游戏公司、截至10月8日累计约8500个招聘岗位发现，腾讯未公开的UE5\"现代战争\"射击新项目（内部代号RAID PROJECT）招聘信息中包含\"AI游戏策划\"岗位；米哈游除深耕二次元RPG外，也在社交模拟MMO、UE5动作射击及MOBA等多个新方向的招聘中，对AI与UE5相关能力提出了越来越高的权重要求。报道同时指出，字节跳动旗下多个工作室正同时探索卡牌、回合制及主机射击等不同品类，但招聘信息中未见明确的AI相关岗位。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

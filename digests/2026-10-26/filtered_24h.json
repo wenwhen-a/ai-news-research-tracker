@@ -1,0 +1,406 @@
+{
+  "as_of": "2026-10-26",
+  "cutoff": "2026-10-25",
+  "window_days": 1,
+  "summary": {
+    "input_items": 17,
+    "denied_source": 0,
+    "in_window": 17,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 17,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 17,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 15,
+    "previously_covered_count": 2
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "微软将Arkane寻找买家的最后期限延至12月中旬",
+        "url": "https://www.pushsquare.com/news/2026/10/microsoft-gives-dishonored-dev-more-time-to-find-a-buyer-needs-a-partner-to-finish-blade",
+        "date": "2026-10-26",
+        "section": 3,
+        "summary": "微软将《Dishonored》开发商Arkane寻找新买家的截止日期从11月13日推迟到12月13日，根据法国\"Florange法\"该工作室若找不到买家将面临关闭，逾200个岗位受影响。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "微软将Arkane寻找买家的最后期限延至12月中旬",
+          "url": "https://www.pushsquare.com/news/2026/10/microsoft-gives-dishonored-dev-more-time-to-find-a-buyer-needs-a-partner-to-finish-blade",
+          "date": "2026-10-26",
+          "section": 3,
+          "summary": "微软将《Dishonored》开发商Arkane寻找新买家的截止日期从11月13日推迟到12月13日，根据法国\"Florange法\"该工作室若找不到买家将面临关闭，逾200个岗位受影响。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "EA在关闭BioWare后开始从其他游戏中抹去《质量效应》元素",
+        "url": "https://www.pushsquare.com/news/2026/10/ea-scrubbing-mass-effect-from-other-games-as-series-starts-to-die-off",
+        "date": "2026-10-26",
+        "section": 3,
+        "summary": "继本月早些时候关闭BioWare并取消下一部《质量效应》项目后，EA被曝正从包括《战地6》联动活动等其他游戏中移除质量效应相关品牌元素。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "EA在关闭BioWare后开始从其他游戏中抹去《质量效应》元素",
+          "url": "https://www.pushsquare.com/news/2026/10/ea-scrubbing-mass-effect-from-other-games-as-series-starts-to-die-off",
+          "date": "2026-10-26",
+          "section": 3,
+          "summary": "继本月早些时候关闭BioWare并取消下一部《质量效应》项目后，EA被曝正从包括《战地6》联动活动等其他游戏中移除质量效应相关品牌元素。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "请愿留住《质量效应》系列联署突破20万人",
+        "url": "https://www.videogameschronicle.com/news/save-mass-effect-petition-cracks-200000-signatures-as-fans-plead-for-the-series-to-continue/",
+        "date": "2026-10-26",
+        "section": 3,
+        "summary": "在EA宣布关闭BioWare并取消下一部《质量效应》项目后，一份要求EA继续开发该系列或将其授权给其他工作室的Change.org请愿联署人数已突破20万。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "请愿留住《质量效应》系列联署突破20万人",
+          "url": "https://www.videogameschronicle.com/news/save-mass-effect-petition-cracks-200000-signatures-as-fans-plead-for-the-series-to-continue/",
+          "date": "2026-10-26",
+          "section": 3,
+          "summary": "在EA宣布关闭BioWare并取消下一部《质量效应》项目后，一份要求EA继续开发该系列或将其授权给其他工作室的Change.org请愿联署人数已突破20万。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《索尼克X暗影世代》销量突破300万份",
+        "url": "https://www.pushsquare.com/news/2026/10/sonic-x-shadow-generations-speeds-past-3-million-sales-as-it-turns-two-years-old",
+        "date": "2026-10-26",
+        "section": 3,
+        "summary": "世嘉宣布《索尼克X暗影世代》重制版发售两周年之际销量已突破300万份。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "《索尼克X暗影世代》销量突破300万份",
+          "url": "https://www.pushsquare.com/news/2026/10/sonic-x-shadow-generations-speeds-past-3-million-sales-as-it-turns-two-years-old",
+          "date": "2026-10-26",
+          "section": 3,
+          "summary": "世嘉宣布《索尼克X暗影世代》重制版发售两周年之际销量已突破300万份。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "亚马逊将《辐射避难所》改编为真人竞技真人秀",
+        "url": "https://www.pushsquare.com/news/2026/10/amazon-prime-turns-fallout-shelter-into-a-competition-tv-show",
+        "date": "2026-10-26",
+        "section": 3,
+        "summary": "亚马逊Prime宣布将基于手游《辐射避难所》打造一部真人竞技真人秀节目，定于2027年1月13日首播。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "亚马逊将《辐射避难所》改编为真人竞技真人秀",
+          "url": "https://www.pushsquare.com/news/2026/10/amazon-prime-turns-fallout-shelter-into-a-competition-tv-show",
+          "date": "2026-10-26",
+          "section": 3,
+          "summary": "亚马逊Prime宣布将基于手游《辐射避难所》打造一部真人竞技真人秀节目，定于2027年1月13日首播。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "PS5九月销量逆势上涨22%",
+        "url": "https://www.pushsquare.com/features/ps5-answers-bleakest-month-with-a-22percent-upswing-in-sales",
+        "date": "2026-10-25",
+        "section": 3,
+        "summary": "尽管9月对索尼形象而言被认为是艰难的一个月，但报道显示PS5主机销量当月实际环比上涨了22%。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "PS5九月销量逆势上涨22%",
+          "url": "https://www.pushsquare.com/features/ps5-answers-bleakest-month-with-a-22percent-upswing-in-sales",
+          "date": "2026-10-25",
+          "section": 3,
+          "summary": "尽管9月对索尼形象而言被认为是艰难的一个月，但报道显示PS5主机销量当月实际环比上涨了22%。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《莎木3》PS5强化版重新定档至2027年初",
+        "url": "https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027",
+        "date": "2026-10-25",
+        "section": 3,
+        "summary": "ININ Games公布的《莎木3》PS5强化重制版发售日期由原定2026年推迟至2027年初。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "《莎木3》PS5强化版重新定档至2027年初",
+          "url": "https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027",
+          "date": "2026-10-25",
+          "section": 3,
+          "summary": "ININ Games公布的《莎木3》PS5强化重制版发售日期由原定2026年推迟至2027年初。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Netflix与Xbox的大额影视改编授权谈判告吹",
+        "url": "https://gamesbeat.com/deal-falls-apart-after-netflix-offers-500m-to-license-xbox-games-for-motion-picture-adaptations/",
+        "date": "2026-10-25",
+        "section": 3,
+        "summary": "据Puck报道，Netflix曾提出以5亿美元获得Xbox旗下游戏角色多年影视改编授权，微软开价8亿美元后谈判破裂，Xbox转而寻求与更多合作方分别签约。",
+        "unconfirmed": true
+      },
+      "members": [
+        {
+          "title": "Netflix与Xbox的大额影视改编授权谈判告吹",
+          "url": "https://gamesbeat.com/deal-falls-apart-after-netflix-offers-500m-to-license-xbox-games-for-motion-picture-adaptations/",
+          "date": "2026-10-25",
+          "section": 3,
+          "summary": "据Puck报道，Netflix曾提出以5亿美元获得Xbox旗下游戏角色多年影视改编授权，微软开价8亿美元后谈判破裂，Xbox转而寻求与更多合作方分别签约。",
+          "unconfirmed": true
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《寂静岭》系列总监证实Konami让各工作室互相保密项目内容",
+        "url": "https://www.videogameschronicle.com/news/konami-deliberately-kept-its-multiple-silent-hill-games-secret-from-each-studio-to-avoid-crossover/",
+        "date": "2026-10-26",
+        "section": 3,
+        "summary": "《寂静岭：暴雨将至》导演透露，Konami故意让旗下多个《寂静岭》开发团队互不知晓彼此项目内容，由制作人统一把关以避免创意撞车。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "《寂静岭》系列总监证实Konami让各工作室互相保密项目内容",
+          "url": "https://www.videogameschronicle.com/news/konami-deliberately-kept-its-multiple-silent-hill-games-secret-from-each-studio-to-avoid-crossover/",
+          "date": "2026-10-26",
+          "section": 3,
+          "summary": "《寂静岭：暴雨将至》导演透露，Konami故意让旗下多个《寂静岭》开发团队互不知晓彼此项目内容，由制作人统一把关以避免创意撞车。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Arrowhead首席创意官解释为何《绝地潜兵3》未在开发",
+        "url": "https://www.videogameschronicle.com/news/helldivers-3-isnt-in-development-because-its-biggest-competitor-would-be-helldivers-2-arrowhead-cco-says/",
+        "date": "2026-10-26",
+        "section": 3,
+        "summary": "Arrowhead工作室首席创意官Johan Pilestedt表示，公司95%人力仍投入《绝地潜兵2》，因为推出续作只会让其与自家前作直接竞争。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "Arrowhead首席创意官解释为何《绝地潜兵3》未在开发",
+          "url": "https://www.videogameschronicle.com/news/helldivers-3-isnt-in-development-because-its-biggest-competitor-would-be-helldivers-2-arrowhead-cco-says/",
+          "date": "2026-10-26",
+          "section": 3,
+          "summary": "Arrowhead工作室首席创意官Johan Pilestedt表示，公司95%人力仍投入《绝地潜兵2》，因为推出续作只会让其与自家前作直接竞争。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "金摇杆奖公布年度终极游戏12强提名",
+        "url": "https://gamerant.com/golden-joysticks-game-of-the-year-nominees/",
+        "date": "2026-10-26",
+        "section": 3,
+        "summary": "第44届金摇杆奖公布\"年度终极游戏\"12部提名作品，包括《GTA6前作007：首战》《GTA6》《鬼泣：共鸣失格》等，颁奖典礼定于11月11日举行。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "金摇杆奖公布年度终极游戏12强提名",
+          "url": "https://gamerant.com/golden-joysticks-game-of-the-year-nominees/",
+          "date": "2026-10-26",
+          "section": 3,
+          "summary": "第44届金摇杆奖公布\"年度终极游戏\"12部提名作品，包括《GTA6前作007：首战》《GTA6》《鬼泣：共鸣失格》等，颁奖典礼定于11月11日举行。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "调查显示超半数玩家因《GTA6》售价选择等待打折",
+        "url": "https://gamesbeat.com/how-the-release-of-gta-vi-is-rewriting-the-playbook-for-gaming-retail-and-marketing/",
+        "date": "2026-10-26",
+        "section": 3,
+        "summary": "二手交易平台G2A的调查显示，《GTA6》普通版79.99美元、豪华版99.99美元的定价让超过50%受访者表示无法承受原价，愿意等待最多近5个月以等待折扣。",
+        "unconfirmed": true
+      },
+      "members": [
+        {
+          "title": "调查显示超半数玩家因《GTA6》售价选择等待打折",
+          "url": "https://gamesbeat.com/how-the-release-of-gta-vi-is-rewriting-the-playbook-for-gaming-retail-and-marketing/",
+          "date": "2026-10-26",
+          "section": 3,
+          "summary": "二手交易平台G2A的调查显示，《GTA6》普通版79.99美元、豪华版99.99美元的定价让超过50%受访者表示无法承受原价，愿意等待最多近5个月以等待折扣。",
+          "unconfirmed": true
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "史克威尔艾尼克斯公布《最终幻想》40周年纪念专辑",
+        "url": "https://www.pushsquare.com/news/2026/10/final-fantasys-40th-anniversary-album-picks-just-one-track-from-each-main-game-and-itll-split-fan-opinion",
+        "date": "2026-10-26",
+        "section": 3,
+        "summary": "史克威尔艾尼克斯宣布将推出《最终幻想》40周年纪念专辑，每部主系列作品仅选取一首曲目收录，预计明年1月发布。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "史克威尔艾尼克斯公布《最终幻想》40周年纪念专辑",
+          "url": "https://www.pushsquare.com/news/2026/10/final-fantasys-40th-anniversary-album-picks-just-one-track-from-each-main-game-and-itll-split-fan-opinion",
+          "date": "2026-10-26",
+          "section": 3,
+          "summary": "史克威尔艾尼克斯宣布将推出《最终幻想》40周年纪念专辑，每部主系列作品仅选取一首曲目收录，预计明年1月发布。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "PS5打击破解固件更新引发新一轮玩家不满",
+        "url": "https://www.pushsquare.com/news/2026/10/ps5s-war-against-jailbreaks-triggers-fresh-wave-of-criticism",
+        "date": "2026-10-25",
+        "section": 3,
+        "summary": "索尼近期针对PS5破解设备推出的系统固件更新再度引发玩家社群批评，被指进一步限制主机自由度。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "PS5打击破解固件更新引发新一轮玩家不满",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5s-war-against-jailbreaks-triggers-fresh-wave-of-criticism",
+          "date": "2026-10-25",
+          "section": 3,
+          "summary": "索尼近期针对PS5破解设备推出的系统固件更新再度引发玩家社群批评，被指进一步限制主机自由度。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "传闻称索尼PS6掌机性能可能超越市面所有同类设备",
+        "url": "https://www.pushsquare.com/news/2026/10/sonys-ps6-handheld-may-be-more-capable-than-every-other-device-on-the-market",
+        "date": "2026-10-26",
+        "section": 3,
+        "summary": "据爆料称索尼正在开发的PS6掌机设备性能可能强于市面上现有的所有掌机产品，但索尼官方尚未证实相关信息。",
+        "unconfirmed": true
+      },
+      "members": [
+        {
+          "title": "传闻称索尼PS6掌机性能可能超越市面所有同类设备",
+          "url": "https://www.pushsquare.com/news/2026/10/sonys-ps6-handheld-may-be-more-capable-than-every-other-device-on-the-market",
+          "date": "2026-10-26",
+          "section": 3,
+          "summary": "据爆料称索尼正在开发的PS6掌机设备性能可能强于市面上现有的所有掌机产品，但索尼官方尚未证实相关信息。",
+          "unconfirmed": true
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《Fate/Grand Order》真人密室逃脱游戏12月在东京开启",
+        "url": "https://www.siliconera.com/fate-grand-order-real-escape-room-game-starts-in-december/",
+        "date": "2026-10-26",
+        "section": 3,
+        "summary": "基于手游《Fate/Grand Order》打造的线下真人密室逃脱活动将于12月先在东京推出，随后扩展至名古屋和大阪。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "《Fate/Grand Order》真人密室逃脱游戏12月在东京开启",
+          "url": "https://www.siliconera.com/fate-grand-order-real-escape-room-game-starts-in-december/",
+          "date": "2026-10-26",
+          "section": 3,
+          "summary": "基于手游《Fate/Grand Order》打造的线下真人密室逃脱活动将于12月先在东京推出，随后扩展至名古屋和大阪。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《龙珠异战2》10周年\"最终庆典\"活动10月开启",
+        "url": "https://www.siliconera.com/dragon-ball-xenoverse-2-10th-anniversary-final-festival-starts-in-october/",
+        "date": "2026-10-26",
+        "section": 3,
+        "summary": "万代南梦宫为《龙珠异战2》推出10周年纪念更新及\"最终庆典\"活动，为这款长线运营游戏带来新一轮内容。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "《龙珠异战2》10周年\"最终庆典\"活动10月开启",
+          "url": "https://www.siliconera.com/dragon-ball-xenoverse-2-10th-anniversary-final-festival-starts-in-october/",
+          "date": "2026-10-26",
+          "section": 3,
+          "summary": "万代南梦宫为《龙珠异战2》推出10周年纪念更新及\"最终庆典\"活动，为这款长线运营游戏带来新一轮内容。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

@@ -221,10 +221,17 @@
   "https://news.qq.com/rain/a/20260806A0E2YY00": {
     "name": "Wan 3.0 (通义万相 3.0)",
     "company": "Alibaba",
-    "tier": "Public beta/preview",
+    "tier": "GA",
     "release_date": "2026-08-06",
     "summary": "Alibaba opened public beta testing for Wan 3.0, a video-generation model generating single-shot continuous video up to 30 seconds and, for the first time in the Wan line, accepting document formats as generation input.",
-    "first_seen": "2026-09-21"
+    "first_seen": "2026-09-21",
+    "last_update": "2026-10-26",
+    "updates": [
+      {
+        "date": "2026-10-26",
+        "change": "Confirmed GA (not just public beta) via Alibaba Cloud's own blog (https://www.alibabacloud.com/blog/wan3-0-at-general-availability-capabilities-benchmarks-pricing-and-the-workflows-it-changes_603505), published 2026-08-27, stating GA was announced 2026-08-24 with resolution-tiered API pricing ($0.05/0.10/0.20 per sec at 480P/720P/1080P). This GA transition predates the original Sept 21 first_seen; tier corrected from Public beta/preview to GA."
+      }
+    ]
   },
   "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5": {
     "name": "Seedance 2.5",
@@ -546,5 +553,53 @@
     "first_seen": "2026-10-24",
     "release_date": "2026-10-22",
     "summary": "Roblox moved Custom Terrain Materials, letting creators define up to 62 paintable terrain materials, out of Early Access to full launch, alongside the first round of terrain rendering, storage and delivery performance improvements."
+  },
+  "https://cloud.tencent.com/product/hunyuan": {
+    "name": "Tencent Hunyuan 3D Cloud API — HY-3D 3.1 full pipeline (generation, rigging, retopology, texture, text-to-motion)",
+    "company": "Tencent",
+    "tier": "GA",
+    "first_seen": "2026-10-26",
+    "release_date": "2026-09-29",
+    "summary": "Tencent Cloud's Hunyuan product page lists hy-3d-3.1 (higher-precision successor to hy-3d-3.0) plus a self-serve API suite covering 3D generation, rigging, retopology, texturing, UV unwrapping, part/format conversion, and text-to-3D-character-motion (HY-3D-Motion, FBX output), distinct from the consumer 3d.hunyuan.tencent.com site. No explicit launch-announcement or pricing was found; dates are inferred from docs 'last updated' timestamps (2026-09-09 to 2026-09-29)."
+  },
+  "https://github.com/NVIDIAGameWorks/rtx-remix/releases/tag/remix-1.6.1": {
+    "name": "RTX Remix 1.6.1 — DLSS 5 3D-Guided Neural Rendering in the modding toolkit",
+    "company": "NVIDIA",
+    "tier": "GA",
+    "first_seen": "2026-10-26",
+    "release_date": "2026-10-23",
+    "summary": "NVIDIA shipped RTX Remix 1.6.1, bringing DLSS 5 with 3D-Guided Neural Rendering, a beta Frame Generation performance preset, 5x/6x Multi Frame Generation and ComfyUI 2.0 into the RTX Remix modding toolkit, plus Windows-on-ARM support."
+  },
+  "https://www.nvidia.com/en-us/geforce/news/dlss-4-5-cyberpunk-2077-planet-zoo-2-modern-warfare-4/": {
+    "name": "Call of Duty: Modern Warfare 4 — DLSS 4.5 at launch (plus Cyberpunk 2077 upgrade)",
+    "company": "NVIDIA",
+    "tier": "GA",
+    "first_seen": "2026-10-26",
+    "release_date": "2026-10-23",
+    "summary": "NVIDIA states Call of Duty: Modern Warfare 4 ships with the full DLSS 4.5 feature set at its October 23 full launch, alongside a Cyberpunk 2077 update moving its DLSS integrations to DLSS 4.5's second-generation transformer models and DLSS 4.5 added to Planet Zoo 2."
+  },
+  "https://github.com/isaac-sim/IsaacSim/releases/tag/v6.2.0": {
+    "name": "Isaac Sim 6.2.0 (General Availability)",
+    "company": "NVIDIA",
+    "tier": "GA",
+    "first_seen": "2026-10-26",
+    "release_date": "2026-10-14",
+    "summary": "NVIDIA shipped Isaac Sim 6.2.0 as a full GA release, upgrading its Kit SDK to 110.4.0 and Newton physics engine to 1.6.1, adding automatic AI-model selection for synthetic action/event data generation and deformable-object synthetic data with 3D bounding boxes."
+  },
+  "https://docs.omniverse.nvidia.com/dev-guide/latest/release-notes/110_4_highlights.html": {
+    "name": "Omniverse Kit 110.4 — AI generative meshing from point clouds",
+    "company": "NVIDIA",
+    "tier": "GA",
+    "first_seen": "2026-10-26",
+    "release_date": "2026-10",
+    "summary": "NVIDIA shipped Omniverse Kit 110.4 with a new 'generative meshing' feature using AI models to turn point-cloud regions into textured 3D meshes, plus GPU-accelerated point-cloud-to-mesh conversion and DeepStream-powered GPU video textures."
+  },
+  "https://help.autodesk.com/cloudhelp/2027/ENU/Maya-WhatsNew/files/GUID-49B18BA5-F029-4395-83B5-8B216DBE5914.htm": {
+    "name": "Maya 2027.2 — MotionMaker \"Bring Your Own Data\" custom motion-model training",
+    "company": "Autodesk",
+    "tier": "GA",
+    "first_seen": "2026-10-26",
+    "release_date": "2026-07-22",
+    "summary": "Autodesk added \"Bring Your Own Data\" (BYOD) to MotionMaker in Maya 2027.2, letting users train custom machine-learning motion-generation models from their own animation/mocap data."
   }
 }
