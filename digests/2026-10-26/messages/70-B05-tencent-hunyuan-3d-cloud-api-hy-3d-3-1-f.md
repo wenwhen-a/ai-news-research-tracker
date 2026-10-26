@@ -1,0 +1,9 @@
+**[B05] Tencent Hunyuan 3D Cloud API — HY-3D 3.1 full pipeline (generation, rigging, retopology, texture, text-to-motion)**
+- **Company:** Tencent
+- **Status:** GA · **Released:** on or before 2026-09-29 (doc "last updated" stamp; no explicit launch-announcement date found) · **New**
+- **Surface:** cloud API (Tencent Cloud, under the Hunyuan product)
+- **Primary source:** <https://cloud.tencent.com/product/hunyuan> (model catalog: <https://cloud.tencent.com/document/product/1823/130082> ; HY-3D model doc: <https://cloud.tencent.com/document/product/1823/137181> ; HY-3D-Motion doc: <https://cloud.tencent.com/document/product/1823/137780>)
+- **Underlying research:** HY-3D-Motion corresponds to arXiv:2512.23464 "HY-Motion 1.0: Scaling Flow Matching Models for Text-To-Motion Generation" (comment links to the Tencent-Hunyuan GitHub org). The base hy-3d-3.0/3.1 generation line and the rigging/retopology/texture tools carry no cited paper on the product docs — "no traceable paper" for those specifically.
+- **Availability:** Self-serve — any Tencent Cloud account can create an API key (sub-accounts need the `QcloudTokenhubFullAccess` policy); no invite or waitlist. No pricing is published on the docs pages or the general Hunyuan product page. Default concurrency: 3 simultaneous tasks for HY-3D-3.0/3.1 generation; 1 simultaneous task for HY-3D-Motion, HY-3D-Rigging, HY-3D-Retopology, HY-3D-Texture, HY-3D-UV, HY-3D-Component and HY-3D-Format.
+
+**What shipped:** Tencent Cloud's Hunyuan product page now advertises "混元生3D 3.1模型" (model ID `hy-3d-3.1`), a higher-precision successor to `hy-3d-3.0`, alongside a full asset-pipeline suite of callable APIs: HY-3D-Motion (text-to-3D-character-motion, FBX output), HY-3D-Rigging (skeleton + skinning), HY-3D-Retopology, HY-3D-Texture, HY-3D-UV, HY-3D-Component (part splitting) and HY-3D-Format (format conversion).

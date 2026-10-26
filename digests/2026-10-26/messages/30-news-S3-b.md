@@ -1,0 +1,7 @@
+- **[史克威尔艾尼克斯公布《最终幻想》40周年纪念专辑]**（2026-10-26）— 史克威尔艾尼克斯宣布将推出《最终幻想》40周年纪念专辑，每部主系列作品仅选取一首曲目收录，预计明年1月发布。 <https://www.pushsquare.com/news/2026/10/final-fantasys-40th-anniversary-album-picks-just-one-track-from-each-main-game-and-itll-split-fan-opinion>
+- **[传闻称索尼PS6掌机性能可能超越市面所有同类设备]**（2026-10-26）— 据报道，索尼正在开发的PS6掌机设备性能可能强于市面上现有的所有掌机产品，但索尼官方尚未证实相关信息。 <https://www.pushsquare.com/news/2026/10/sonys-ps6-handheld-may-be-more-capable-than-every-other-device-on-the-market>
+- **[《Fate/Grand Order》真人密室逃脱游戏12月在东京开启]**（2026-10-26）— 基于手游《Fate/Grand Order》打造的线下真人密室逃脱活动将于12月先在东京推出，随后扩展至名古屋和大阪。 <https://www.siliconera.com/fate-grand-order-real-escape-room-game-starts-in-december/>
+- **[《龙珠异战2》10周年"最终庆典"活动10月开启]**（2026-10-26）— 万代南梦宫为《龙珠异战2》推出10周年纪念更新及"最终庆典"活动，为这款长线运营游戏带来新一轮内容。 <https://www.siliconera.com/dragon-ball-xenoverse-2-10th-anniversary-final-festival-starts-in-october/>
+- **[PS5九月销量逆势上涨22%]**（2026-10-25）— 尽管9月对索尼形象而言被认为是艰难的一个月，但报道显示PS5主机销量当月实际环比上涨了22%。 <https://www.pushsquare.com/features/ps5-answers-bleakest-month-with-a-22percent-upswing-in-sales>
+- **[《莎木3》PS5强化版重新定档至2027年初]**（2026-10-25）— ININ Games公布的《莎木3》PS5强化重制版发售日期由原定2026年推迟至2027年初。 <https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027>
+- **[PS5打击破解固件更新引发新一轮玩家不满]**（2026-10-25）— 索尼近期针对PS5破解设备推出的系统固件更新再度引发玩家社群批评，被指进一步限制主机自由度。 <https://www.pushsquare.com/news/2026/10/ps5s-war-against-jailbreaks-triggers-fresh-wave-of-criticism>

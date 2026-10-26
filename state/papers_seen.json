@@ -20515,7 +20515,7 @@
   "status": "screened-out",
   "first_seen": "2026-10-23",
   "submitted": "2026-10-22T06:45:34Z",
-  "title": "Robot Motion Transition with Human Motion Prior"
+  "title": "Robot Motion Transition with a Human Motion Prior"
  },
  "2610.30814": {
   "status": "qualified",
@@ -20542,7 +20542,7 @@
   "status": "screened-out",
   "first_seen": "2026-10-23",
   "submitted": "2026-10-22T04:46:49Z",
-  "title": "Learning from Next-Frame Prediction: Towards Unified and Scalable Visual Representation Learning"
+  "title": "Learning from Next-Frame Prediction: Towards Unified and Scalable Visual World Modeling"
  },
  "2610.30717": {
   "status": "screened-out",
@@ -20651,5 +20651,152 @@
   "affiliation": "NVIDIA — all listed core contributors (confirmed via the paper's Appendix A, \"Contributors and Acknowledgments\")",
   "url": "https://arxiv.org/abs/2610.30293",
   "summary": "EgoHand is a model for reconstructing 3D hand poses from monocular egocentric (head-worn-camera) video, aimed at hand-tracking for XR/AR and motion-capture-style applications."
+ },
+ "2610.32978": {
+  "status": "near-miss",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-23T17:59:21Z",
+  "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning"
+ },
+ "2610.32977": {
+  "status": "near-miss",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-23T17:59:13Z",
+  "title": "UniAction: Unified Action Conditioning for World Models"
+ },
+ "2610.32966": {
+  "status": "screened-out",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-23T17:54:09Z",
+  "title": "ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback"
+ },
+ "2610.32800": {
+  "status": "qualified",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-23T15:40:18Z",
+  "title": "CompMVR: Compression-Aware Multi-View Restoration Using Diffusion Models for Geometrically Consistent 3D Reconstruction",
+  "affiliation": "Adobe — Soo Ye Kim (Adobe Research, USA; corresponding author). Remaining authors are affiliated with Kyungpook National University, Republic of Korea.",
+  "url": "https://arxiv.org/abs/2610.32800",
+  "summary": "The paper identifies compression-induced cross-view geometric inconsistency as a failure mode in multi-view 3D reconstruction, where lossy compression disrupts feature matching and correspondence across views."
+ },
+ "2610.32742": {
+  "status": "screened-out",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-23T14:54:36Z",
+  "title": "Adaptive World-Models for Anomaly Recognition (AWARE): A Framework for Robot Dynamics Prediction and Introspection"
+ },
+ "2610.32657": {
+  "status": "screened-out",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-23T14:04:18Z",
+  "title": "DT-JEPA: Learning to Predict Future Representations for Decision-Making"
+ },
+ "2610.32596": {
+  "status": "screened-out",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-23T13:20:21Z",
+  "title": "OWLS: Open-world Language-conditioned Speed Fields for Zero-Shot Rover Navigation"
+ },
+ "2610.32460": {
+  "status": "screened-out",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-23T10:24:02Z",
+  "title": "CoCarry: Contact-Support-Structured Retargeting for Dual-Humanoid Cooperative Carrying"
+ },
+ "2610.32414": {
+  "status": "near-miss",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-23T09:42:39Z",
+  "title": "When Does Dynamics Randomization Test Context Inference?"
+ },
+ "2610.32381": {
+  "status": "screened-out",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-23T09:09:32Z",
+  "title": "UniWorld: A Unified World Model for Real-Time Visual World Simulation"
+ },
+ "2610.32373": {
+  "status": "qualified",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-23T09:01:10Z",
+  "title": "Past as State, Present as Attention: Persistent-State Blockwise Flow Matching for Long-Horizon Co-Speech Motion Generation",
+  "affiliation": "Alibaba Group — Jianfang Li (corresponding author), Yisheng He, Jianqiang Ren, and Yi Liu (listed with a dual Tongji University / Alibaba Group affiliation). Xiangyue Zhang is affiliated with The University of Tokyo; Jia Ma with Tongji University.",
+  "url": "https://arxiv.org/abs/2610.32373",
+  "summary": "The paper tackles long-horizon co-speech motion generation, where existing segment-by-segment methods either drift (short recent-frame conditioning) or become costly and hard to train (ever-growing explicit histories)."
+ },
+ "2610.32250": {
+  "status": "qualified",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-23T07:04:32Z",
+  "title": "Easy-3Dfy: Object-Level Geometric Composition for Single-Image 3D Scene Construction",
+  "affiliation": "Tencent — Jiachen Xu, Xintong Han, Chunchao Guo (and Ziang Zhang, Zehan Wang hold dual Zhejiang University / Tencent affiliations). Wenyou Yi and Zhou Zhao are affiliated with Zhejiang University.",
+  "url": "https://arxiv.org/abs/2610.32250",
+  "summary": "The paper addresses single-image 3D scene construction, noting that existing end-to-end methods (e.g., SAM-3Dfy) can reconstruct 3D assets and layouts but struggle with fine scene geometry and asset quality."
+ },
+ "2610.32230": {
+  "status": "near-miss",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-23T06:41:50Z",
+  "title": "Towards Effective and Transferable Physical Camouflage against Multi-View BEV-based 3D Perception in Autonomous Driving"
+ },
+ "2610.32222": {
+  "status": "screened-out",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-23T06:27:26Z",
+  "title": "ACWM-RM: A Reference-Free Reward Model from Complementary Mismatch Preferences"
+ },
+ "2610.32177": {
+  "status": "near-miss",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-23T05:24:02Z",
+  "title": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model"
+ },
+ "2610.32075": {
+  "status": "near-miss",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-23T02:22:31Z",
+  "title": "RADIANT: Object-Centric Feed-Forward Global Illumination"
+ },
+ "2610.31983": {
+  "status": "screened-out",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-22T22:47:56Z",
+  "title": "Interpreting Physics in Video Encoders using Multi-Object Interaction Videos"
+ },
+ "2610.31918": {
+  "status": "screened-out",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-22T21:10:47Z",
+  "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?"
+ },
+ "2610.31908": {
+  "status": "screened-out",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-22T21:02:18Z",
+  "title": "PixGR: Pixel-Space Generative Decoding for Fast Feed-Forward 3D Reconstruction"
+ },
+ "2610.31834": {
+  "status": "screened-out",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-22T19:13:05Z",
+  "title": "WorldMirror: Agentic Real-to-Sim Generation of Interactive Worlds from In-the-Wild Robot Demonstrations"
+ },
+ "2610.31801": {
+  "status": "near-miss",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-22T18:40:43Z",
+  "title": "KiRoSe: Using Kinematic Data for Efficient Segmentation of Robot Demonstrations"
+ },
+ "2610.31762": {
+  "status": "screened-out",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-22T18:00:39Z",
+  "title": "See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space"
+ },
+ "2610.31747": {
+  "status": "screened-out",
+  "first_seen": "2026-10-26",
+  "submitted": "2026-10-22T17:59:54Z",
+  "title": "AudioLift: Audio-Driven Single Image to Full-Head Gaussian Avatar via Multi-view Video Generation"
  }
 }

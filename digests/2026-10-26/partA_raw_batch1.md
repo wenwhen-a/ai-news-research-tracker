@@ -1,6 +1,6 @@
 ## CompMVR: Compression-Aware Multi-View Restoration Using Diffusion Models for Geometrically Consistent 3D Reconstruction
 - **arXiv:** 2610.32800 · https://arxiv.org/abs/2610.32800
-- **Submitted:** 23 October 2026 (v1)
+- **Submitted:** 2026-10-23
 - **Authors:** Dong-hwi Kim, Chaewon Moon, Hojun Song, Dongbeom Kim, Junyeong Jang, Aro Kim, Gahyeon Kim, Heejung Choi, Jehee Kim, Gianella Cravioto, Sohyun Lee, Gyeongjin Choi, EunHye Jeong, Soo Ye Kim, Jaehyup Lee, Sang-hyo Park
 - **Qualifying affiliation(s):** Adobe — Soo Ye Kim (Adobe Research, USA; corresponding author). Remaining authors are affiliated with Kyungpook National University, Republic of Korea.
 - **Categories:** cs.CV
@@ -15,7 +15,7 @@
 
 ## Past as State, Present as Attention: Persistent-State Blockwise Flow Matching for Long-Horizon Co-Speech Motion Generation
 - **arXiv:** 2610.32373 · https://arxiv.org/abs/2610.32373
-- **Submitted:** 23 October 2026 (v1)
+- **Submitted:** 2026-10-23
 - **Authors:** Yi Liu, Xiangyue Zhang, Jianfang Li, Jia Ma, Yisheng He, Jianqiang Ren
 - **Qualifying affiliation(s):** Alibaba Group — Jianfang Li (corresponding author), Yisheng He, Jianqiang Ren, and Yi Liu (listed with a dual Tongji University / Alibaba Group affiliation). Xiangyue Zhang is affiliated with The University of Tokyo; Jia Ma with Tongji University.
 - **Categories:** cs.CV (primary); cs.GR; cs.MM
@@ -30,7 +30,7 @@
 
 ## Easy-3Dfy: Object-Level Geometric Composition for Single-Image 3D Scene Construction
 - **arXiv:** 2610.32250 · https://arxiv.org/abs/2610.32250
-- **Submitted:** 23 October 2026 (v1)
+- **Submitted:** 2026-10-23
 - **Authors:** Ziang Zhang, Wenyou Yi, Zehan Wang, Jiachen Xu, Xintong Han, Chunchao Guo, Zhou Zhao
 - **Qualifying affiliation(s):** Tencent — Jiachen Xu, Xintong Han, Chunchao Guo (and Ziang Zhang, Zehan Wang hold dual Zhejiang University / Tencent affiliations). Wenyou Yi and Zhou Zhao are affiliated with Zhejiang University.
 - **Categories:** cs.CV, cs.AI

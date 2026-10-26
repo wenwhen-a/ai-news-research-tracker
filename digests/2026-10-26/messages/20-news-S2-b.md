@@ -1,0 +1,3 @@
+**5. AMD FSR 4.1超分技术提前登陆Radeon RX 6000显卡、Ryzen AI处理器及掌机设备**（2026-10-20）
+AMD高级副总裁Jack Huynh于10月20日通过X宣布，FSR Upscaling 4.1已随AMD Software: Adrenalin Edition 26.10.1驱动提前数月扩展支持Radeon RX 6000系列显卡，原计划要到2027年初才登陆该系列。此次更新也是FSR 4.1首次登陆AMD的APU产品线，覆盖Ryzen AI Max/9系列笔记本芯片及搭载Z2E、Z2A芯片的掌机设备，AMD并确认FSR 4.1后续还将登陆Xbox Series X|S及ROG Xbox掌机但未公布具体时间。驱动同时为Vulkan图形接口带来FSR支持（"未来几周"上线），并修复了《使命召唤:现代战争4》在RX 6000及更新显卡上的卡顿问题。
+<https://www.invenglobal.com/articles/27423/amd-brings-fsr-41-to-radeon-rx-6000-cards-apus-and-xbox> （另见 <https://www.pcgamer.com/hardware/graphics-cards/amd-has-shipped-fsr-4-1-early-for-rx-6000-graphics-cards-and-its-coming-to-ryzen-apus-vulkan-and-xbox-too/>）

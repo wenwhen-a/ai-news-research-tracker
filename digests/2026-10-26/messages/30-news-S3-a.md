@@ -1,0 +1,9 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **[微软将Arkane寻找买家的最后期限延至12月中旬]**（2026-10-26）— 微软将《Dishonored》开发商Arkane寻找新买家的截止日期从11月13日推迟到12月13日，根据法国"Florange法"该工作室若找不到买家将面临关闭，逾200个岗位受影响。 <https://www.pushsquare.com/news/2026/10/microsoft-gives-dishonored-dev-more-time-to-find-a-buyer-needs-a-partner-to-finish-blade>
+- **[请愿留住《质量效应》系列联署突破20万人]**（2026-10-26）— 在EA宣布关闭BioWare并取消下一部《质量效应》项目后，一份要求EA继续开发该系列或将其授权给其他工作室的Change.org请愿联署人数已突破20万。 <https://www.videogameschronicle.com/news/save-mass-effect-petition-cracks-200000-signatures-as-fans-plead-for-the-series-to-continue/>
+- **[《索尼克X暗影世代》销量突破300万份]**（2026-10-26）— 世嘉宣布《索尼克X暗影世代》重制版发售两周年之际销量已突破300万份。 <https://www.pushsquare.com/news/2026/10/sonic-x-shadow-generations-speeds-past-3-million-sales-as-it-turns-two-years-old>
+- **[亚马逊将《辐射避难所》改编为真人竞技真人秀]**（2026-10-26）— 亚马逊Prime宣布将基于手游《辐射避难所》打造一部真人竞技真人秀节目，定于2027年1月13日首播。 <https://www.pushsquare.com/news/2026/10/amazon-prime-turns-fallout-shelter-into-a-competition-tv-show>
+- **[《寂静岭》系列总监证实Konami让各工作室互相保密项目内容]**（2026-10-26）— 《寂静岭：暴雨将至》导演透露，Konami故意让旗下多个《寂静岭》开发团队互不知晓彼此项目内容，由制作人统一把关以避免创意撞车。 <https://www.videogameschronicle.com/news/konami-deliberately-kept-its-multiple-silent-hill-games-secret-from-each-studio-to-avoid-crossover/>
+- **[Arrowhead首席创意官解释为何《绝地潜兵3》未在开发]**（2026-10-26）— Arrowhead工作室首席创意官Johan Pilestedt表示，公司95%人力仍投入《绝地潜兵2》，因为推出续作只会让其与自家前作直接竞争。 <https://www.videogameschronicle.com/news/helldivers-3-isnt-in-development-because-its-biggest-competitor-would-be-helldivers-2-arrowhead-cco-says/>
+- **[金摇杆奖公布年度终极游戏12强提名]**（2026-10-26）— 第44届金摇杆奖公布"年度终极游戏"12部提名作品，包括《GTA6前作007：首战》《GTA6》《鬼泣：共鸣失格》等，颁奖典礼定于11月11日举行。 <https://gamerant.com/golden-joysticks-game-of-the-year-nominees/>
+- **[调查显示超半数玩家因《GTA6》售价选择等待打折]**（2026-10-26）— 据报道，二手交易平台G2A的调查显示，《GTA6》普通版79.99美元、豪华版99.99美元的定价让超过50%受访者表示无法承受原价，愿意等待最多近5个月以等待折扣。 <https://gamesbeat.com/how-the-release-of-gta-vi-is-rewriting-the-playbook-for-gaming-retail-and-marketing/>
