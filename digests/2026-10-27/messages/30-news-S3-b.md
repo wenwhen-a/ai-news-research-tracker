@@ -1,0 +1,4 @@
+- **[《ARC:掠夺者》开发商Embark仍在评估是否永久保留PvE模式]**（2026-10-27）— 《ARC:掠夺者》开发商Embark在实验性推出PvE模式后，仍在评估是否将其永久保留。 <https://www.videogameschronicle.com/news/after-experimenting-with-a-pve-mode-arc-raiders-dev-is-still-deciding-whether-to-keep-it-permanently/>
+- **[《质量效应5》作曲家在项目取消后公开未采用配乐demo]**（2026-10-26）— 格莱美获奖作曲家在《质量效应5》项目取消后，公开了一段未被采用的配乐demo。 <https://www.videogameschronicle.com/news/grammy-winning-composer-shares-unused-mass-effect-5-demo-after-the-games-cancellation/>
+- **[《超级马力欧》之父宫本茂将获颁日本文化勋章]**（2026-10-26）— 任天堂《超级马力欧》之父宫本茂将获颁日本文化勋章。 <https://www.pocketgamer.biz/mario-creator-shigeru-miyamoto-to-receive-japans-order-of-culture/>
+- **[Nightdive Studios CEO谈收购策略：随意改变被收购工作室身份往往导致其消亡]**（2026-10-27）— Nightdive Studios CEO在采访中谈及收购策略，称随意改变被收购工作室的身份往往导致其消亡。 <https://www.gamedeveloper.com/business/night-dive-studios-ceo-on-why-changing-the-identity-of-an-acquired-studio-often-kills-it>

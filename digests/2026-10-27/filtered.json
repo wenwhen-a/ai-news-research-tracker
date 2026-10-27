@@ -1,0 +1,72 @@
+{
+  "as_of": "2026-10-27",
+  "cutoff": "2026-10-20",
+  "window_days": 7,
+  "summary": {
+    "input_items": 2,
+    "denied_source": 0,
+    "in_window": 2,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 2,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 2,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 2,
+    "previously_covered_count": 0
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "《使命召唤:现代战争4》登陆GeForce NOW云游戏，Ultimate会员可云端开光追",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
+        "date": "2026-10-22",
+        "summary": "NVIDIA官方博客宣布《使命召唤:现代战争4》加入GeForce NOW云游戏库，Ultimate会员可在云端以RTX 5080级性能体验战役光线追踪，同时支持多人模式与DMZ撤离模式。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "《使命召唤:现代战争4》登陆GeForce NOW云游戏，Ultimate会员可云端开光追",
+          "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
+          "date": "2026-10-22",
+          "summary": "NVIDIA官方博客宣布《使命召唤:现代战争4》加入GeForce NOW云游戏库，Ultimate会员可在云端以RTX 5080级性能体验战役光线追踪，同时支持多人模式与DMZ撤离模式。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "PS5黑客用AI找到高危漏洞，获索尼5万美元最高档漏洞赏金",
+        "url": "https://www.ithome.com/1/018/266.htm",
+        "date": "2026-10-27",
+        "summary": "据IT之家援引IGN报道，昵称Jordy的PS5爱好者借助AI工具发现了一个影响PS5固件13.60至14.0版本的高危漏洞（可被用于在主机上运行Linux），通过索尼安全披露计划上报后获得5万美元赏金，为该计划三年来第二次发放最高档奖励。索尼已修复该漏洞。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "PS5黑客用AI找到高危漏洞，获索尼5万美元最高档漏洞赏金",
+          "url": "https://www.ithome.com/1/018/266.htm",
+          "date": "2026-10-27",
+          "summary": "据IT之家援引IGN报道，昵称Jordy的PS5爱好者借助AI工具发现了一个影响PS5固件13.60至14.0版本的高危漏洞（可被用于在主机上运行Linux），通过索尼安全披露计划上报后获得5万美元赏金，为该计划三年来第二次发放最高档奖励。索尼已修复该漏洞。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

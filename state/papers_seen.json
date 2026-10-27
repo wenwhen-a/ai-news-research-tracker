@@ -20798,5 +20798,383 @@
   "first_seen": "2026-10-26",
   "submitted": "2026-10-22T17:59:54Z",
   "title": "AudioLift: Audio-Driven Single Image to Full-Head Gaussian Avatar via Multi-view Video Generation"
+ },
+ "2610.35864": {
+  "status": "near-miss",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation"
+ },
+ "2610.35854": {
+  "status": "qualified",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "FL4N: Feed-forward Latent Model for 4D Novel View Synthesis",
+  "affiliation": "Google DeepMind — the HTML author block lists two team affiliations, \"KAIST AI\" and \"Google DeepMind,\" for the full author group; the page carries no per-author superscripts, so the exact author(s) tied to Google DeepMind cannot be isolated from the page itself.",
+  "url": "https://arxiv.org/abs/2610.35854",
+  "summary": "FL4N is presented as the first feed-forward latent model for 4D novel view synthesis (NVS), rendering dynamic scenes across new viewpoints and timestamps from monocular video without explicit 4D Gaussian primitives."
+ },
+ "2610.35806": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "Does VGGT Know What It Does Not Know?"
+ },
+ "2610.35773": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "A Unified Arena for LLM Agents across Diverse Eurogame"
+ },
+ "2610.35756": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "VidEdit3D: Flexible 3D Gaussian Editing with Video Diffusion"
+ },
+ "2610.35636": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "Adapt for Planning, Not just Prediction: Optimistic Test-Time World Model Adaptation"
+ },
+ "2610.35626": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "Robot-Aligned 3D Gaussian Splatting for Precise Reaching with Wrist-Camera VLA Policies"
+ },
+ "2610.35621": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "Synthetic Deformable Tubular Benchmark: A mechanically annotated dataset for evaluating deformable 3D reconstruction"
+ },
+ "2610.35529": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "WorldPager: Zero-Stall Tiered Memory for Long-Horizon World Models on a Single Consumer GPU"
+ },
+ "2610.35522": {
+  "status": "qualified",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "Generative Structure from Motion with Native 3D Diffusion",
+  "affiliation": "Tencent — Zibo Zhao (the HTML page's per-author affiliation block tags Zibo Zhao solely with \"Tencent\"; the other six authors are tagged \"The University of Hong Kong\" and \"Transengram\").",
+  "url": "https://arxiv.org/abs/2610.35522",
+  "summary": "The paper proposes GenSfM, which recovers 3D object structure and camera pose from a few uncalibrated views by integrating image-based 3D reconstruction with a native 3D diffusion model."
+ },
+ "2610.35361": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "SG-Splat: Stable Geometry Learning under Pose Uncertainty for Pose-Free 3D Gaussian Splatting"
+ },
+ "2610.35347": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "CVTSplat: Multi-view Reconstruction Using an Adaptive Centroidal Voronoi Tessellation"
+ },
+ "2610.35224": {
+  "status": "near-miss",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "GaussianSpline: Adaptive Bézier Splines for Highly Dynamic 4D Gaussian Splatting"
+ },
+ "2610.35152": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "Complexity-guided Regularization for Generalizable Human Gaussian Splatting"
+ },
+ "2610.35044": {
+  "status": "qualified",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "DriveUniTok: A Unified Multimodal Tokenizer for Driving World-Action Models",
+  "affiliation": "Xiaomi EV — Hanchao Leng (project leader), JiaHui Huang, Hanbing Li, Jingwei Zhao, Kuiyuan Yang, Guang Chen, Hangjun Ye, and Jingbo Xu (dual-affiliated with Tsinghua University). FLAG: borderline (Xiaomi's EV/automaker division; not on the default illustrative company list, but matches the \"automaker AI labs\" borderline category named in the brief).",
+  "url": "https://arxiv.org/abs/2610.35044",
+  "summary": "DriveUniTok is a unified multimodal tokenizer for driving world-action models (WAMs) that encodes appearance, projected-LiDAR metric geometry, and ego motion into a single decodable continuous latent, rather than modeling them separately."
+ },
+ "2610.35002": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "DUET4D: Self-Corrective Coupled Guidance for Sparse-View 4D Reconstruction"
+ },
+ "2610.35001": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "More Memory, Better Videos? A Controlled Study of Visual Memory in Long-Video Generation"
+ },
+ "2610.34854": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "Learning Dual-Camera Smooth Zoom via Decoupled Geometric-Photometric Data Synthesis"
+ },
+ "2610.34845": {
+  "status": "qualified",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "PosePlaner: Denoising Any Feed-Forward Pose Predictor from Pairwise Planar Geometry",
+  "affiliation": "Ant Group (Robbyant) — Bin Tan (superscript 2, corresponding author), Yujun Shen (superscript 2), Nan Xue (superscript 2); Yihang Chen is dual-affiliated (HKUST + Ant Group, superscript 1,2). FLAG: borderline (Ant Group is explicitly named as a borderline example in the task brief).",
+  "url": "https://arxiv.org/abs/2610.34845",
+  "summary": "PosePlaner refines camera poses from any feed-forward multi-view 3D predictor (e.g., DUSt3R, VGGT) using flow matching conditioned on pairwise planar geometry, treating pose refinement as a conditional generation problem."
+ },
+ "2610.34797": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "TimeWorld: Towards Action-Conditioned Multimodal World Models for Time Series Forecasting"
+ },
+ "2610.34745": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "SceneAgent: An Agentic Pipeline from 3D and 4D Captures to Simulation Environments"
+ },
+ "2610.34663": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "Video World Models Need Predictable Latents"
+ },
+ "2610.34650": {
+  "status": "near-miss",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-26",
+  "title": "Dream to Assist (Dream2Assist): Intent-Conditioned World Models for Shared Vehicle Control"
+ },
+ "2610.34632": {
+  "status": "near-miss",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-25",
+  "title": "RIDE-Splat: Reflection Removal for In-the-Wild Driving Environments"
+ },
+ "2610.34564": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-25",
+  "title": "FlockWorld: Toward Population-Scale Multi-Agent Video World Models through Artificial Life Simulation"
+ },
+ "2610.34523": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-25",
+  "title": "How Humans Learn Unfamiliar Worlds: A Think-Aloud Dataset on ARC-AGI-3"
+ },
+ "2610.34473": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-25",
+  "title": "PhysCreator: Creating Physically-Attributed 3D Assets at Will"
+ },
+ "2610.34462": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-25",
+  "title": "End-to-End Neural Modeling of EM Response and Design Performance for Free-Form RFIC Passives"
+ },
+ "2610.34344": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-25",
+  "title": "Birth-Death Structural Learning for 3D Gaussian Splatting"
+ },
+ "2610.34298": {
+  "status": "near-miss",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-25",
+  "title": "Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents"
+ },
+ "2610.34263": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-25",
+  "title": "RacerGS: Residual-Autoregressive Context for 3D Gaussian Splatting Compression"
+ },
+ "2610.34235": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-25",
+  "title": "ParetoGS: High-Quality Continuous-Budget 3D Gaussian Splatting with Sparse Adapted Anchors"
+ },
+ "2610.34233": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-25",
+  "title": "BoundedGS: Memory-Efficient High-Resolution Training for 3D Gaussian Splatting"
+ },
+ "2610.34126": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-25",
+  "title": "HumanoidNDM: Closing the Training-Deployment Gap of Motion Tracking via Humanoid Neural Dynamics Model"
+ },
+ "2610.34093": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-25",
+  "title": "LegoOcc++: Towards Consistent Open-Vocabulary 3D Occupancy Prediction"
+ },
+ "2610.34092": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-25",
+  "title": "Learning the Autoregressive: Direct Score-Difference Estimation with Amortized Future Credit for Video Distillation"
+ },
+ "2610.34060": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-25",
+  "title": "Learning Interaction-Aware Path Corrections from Unlabeled Trajectories: A LiDAR-Based Sim-to-Real GNN Framework for Construction Robots"
+ },
+ "2610.33988": {
+  "status": "near-miss",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-25",
+  "title": "Hybrid Mamba-Transformer Network for Single-Shot 3D Reconstruction from Fringe Patterns"
+ },
+ "2610.33941": {
+  "status": "qualified",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-24",
+  "title": "TurboWAM: Learning What Matters for Fast World Action Models",
+  "affiliation": "Huawei (Noah's Ark Lab / Department of Foundation Model) — Guile Wu, Xingxin Chen, Chengjie Huang, Sam Hosseini, Tongtong Cao, Yingxue Zhang, Dongfeng Bai, and Shuangzhi Li (dual-affiliated with University of Alberta; footnote states the work was done during an internship at Huawei Canada). FLAG: borderline (Huawei is explicitly named as a borderline example in the task brief).",
+  "url": "https://arxiv.org/abs/2610.33941",
+  "summary": "TurboWAM is a fast world action model (WAM) for robot policy learning that reduces inference latency by adaptively aggregating world-model-layer representations according to their relevance to action prediction, rather than using every layer uniformly."
+ },
+ "2610.33894": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-24",
+  "title": "WMEval: Evaluating Interactive World Models Grounded on Physical Simulations"
+ },
+ "2610.33868": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-24",
+  "title": "RelateGS: Reliable Semantic and Relational Evidence for 3D Scene Understanding with Gaussian Splatting"
+ },
+ "2610.33857": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-24",
+  "title": "TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens"
+ },
+ "2610.33807": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-24",
+  "title": "RoboWorM: Evaluating Movement Realism, Consistency and Acceleration Affects in Embodied Video World Models"
+ },
+ "2610.33745": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-24",
+  "title": "POD-RoPE: Rotary Position Encoding over Physical Observation Distributions for Embodied AI"
+ },
+ "2610.33656": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-24",
+  "title": "FreeView: Robust 3D Reconstruction from Uncurated Views"
+ },
+ "2610.33589": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-24",
+  "title": "Mix Forcing: Causal Pre-Training via Mixture Attention for Interactive World Models"
+ },
+ "2610.33566": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-24",
+  "title": "Distilling Dense Trajectory Teachers For Large-Motion Video World Models"
+ },
+ "2610.33565": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-24",
+  "title": "WorldFailBench: Do World Models Understand Policy Failures?"
+ },
+ "2610.33558": {
+  "status": "near-miss",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-24",
+  "title": "GeoLift: Grounding Video Spatial Reasoning in Explicit 3D Maps"
+ },
+ "2610.33550": {
+  "status": "near-miss",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-24",
+  "title": "Cross-View and Cross-Time Tracking of Crack Evolution in Concrete"
+ },
+ "2610.33508": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-24",
+  "title": "MimicAll: Structured Embodiment Conditioning for Cross-Humanoid Whole-Body Motion Tracking"
+ },
+ "2610.33484": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-24",
+  "title": "Can One Hear Geometry? Gauge-Invariant Spectral Descriptors for Text-to-B-rep Retrieval"
+ },
+ "2610.33456": {
+  "status": "near-miss",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-24",
+  "title": "FG-ConvNO: A Geometry-Aware Neural Operator for Propeller CFD Prediction"
+ },
+ "2610.33420": {
+  "status": "near-miss",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-24",
+  "title": "An Empirical Study of Reinforcement Learning Scaling Laws"
+ },
+ "2610.33169": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-23",
+  "title": "World-in-Context: Interactive Video World Modeling with In-Context Conditioning"
+ },
+ "2610.33158": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-23",
+  "title": "Gaussian Episodic Memory for Long-Term Spatiotemporal Reasoning"
+ },
+ "2610.33135": {
+  "status": "qualified",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-23",
+  "title": "WorldCast: World-Consistent Character Video Generation with Large-Angle Camera Control",
+  "affiliation": "Xiaomi Inc. (MiLM Plus) — the HTML affiliation block lists \"MiLM Plus, Xiaomi Inc.\" as affiliation 2 alongside Wuhan University's Electronic Information School (1) and School of Robotics (3); the page does not attach superscripts to individual author names, so the specific Xiaomi-affiliated author(s) cannot be isolated from the HTML. FLAG: borderline (Xiaomi is not on the default illustrative company list but is a large, top-tier consumer tech/AI company; flagged per the brief's instruction not to silently drop borderline cases).",
+  "url": "https://arxiv.org/abs/2610.33135",
+  "summary": "WorldCast is a framework for world-consistent character video generation under large-angle camera trajectories that combine rotation, translation, and radius change from arbitrary starting azimuths."
+ },
+ "2610.33133": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-23",
+  "title": "Physics Informed Neural Networks for Solving the Drift-Diffusion Equations"
+ },
+ "2610.33070": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-20",
+  "title": "PhaseBreak: Proactive Temporal Protection against Unauthorized Image-to-Video Animation"
+ },
+ "2610.33054": {
+  "status": "screened-out",
+  "first_seen": "2026-10-27",
+  "submitted": "2026-10-19",
+  "title": "Saga: an in silico ontology for a multimodal patient world model"
  }
 }
