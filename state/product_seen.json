@@ -56,7 +56,14 @@
     "tier": "GA",
     "first_seen": "2026-09-13",
     "release_date": "2026-07-16",
-    "summary": "Epic's release notes state Control Rig support for Sidekicks arrives with \"three archetypes — Dog Large, Dog Small, and Cat Small\" built on Epic's internal rig structures; creators can \"drag your UMG User Widget from the content browser into the viewport to display your UI in the level\"; and on July"
+    "summary": "Epic's release notes state Control Rig support for Sidekicks arrives with \"three archetypes — Dog Large, Dog Small, and Cat Small\" built on Epic's internal rig structures; creators can \"drag your UMG User Widget from the content browser into the viewport to display your UI in the level\"; and on July",
+    "last_update": "2026-10-26",
+    "updates": [
+      {
+        "date": "2026-10-26",
+        "change": "UEFN's Conversations AI-NPC dialogue system upgraded its voice backend from ElevenLabs Eleven v3 to Eleven v4 Turbo with sentence streaming (NPCs start speaking before their full response is generated), per https://forums.unrealengine.com/t/conversations-now-uses-eleven-v4-turbo-with-sentence-streaming/2845418 — Epic states more expressive voice performances and facial animation that follows audio more closely; automatic rollout, no creator action needed."
+      }
+    ]
   },
   "https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox": {
     "name": "Roblox Build — mobile AI creation tab (public alpha, New Zealand)",

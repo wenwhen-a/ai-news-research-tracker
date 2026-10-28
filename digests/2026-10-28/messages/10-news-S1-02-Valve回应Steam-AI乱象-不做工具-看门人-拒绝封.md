@@ -1,0 +1,16 @@
+**[新闻 2] Valve回应Steam"AI乱象"：不做工具"看门人"拒绝封杀AI游戏；Epic CEO斥Steam AI披露新规"可耻"且"政治化"**
+- **日期：** 2026-10-28
+- **来源链接：** <https://www.videogameschronicle.com/news/valve-has-a-significant-number-working-on-steams-visibility-dilemma-but-says-it-wont-gatekeep-games-made-with-ai/>
+- **核心事实：**
+  - 在韩国Steam Indie Connect活动问答环节，Valve Steam业务团队的Tom Giardino表示："我们不想成为告诉开发者该用或不该用哪些工具的看门人"
+  - Marc Wilkinson承认Steam新品节现行机制（前两天随机展示、随后转为个性化推荐）确实存在"部分低质量游戏获得曝光"的代价，并称公司内部"相当多的人"在研究这一曝光难题
+  - 针对开发者反映遭遇"不交钱就用AI克隆你的游戏"式勒索邮件的问题，Giardino表示Valve会调查个案，但认为勒索本质上属于执法机构的职责范围
+  - Epic CEO Tim Sweeney在X发帖中，称Steam店铺页面要求披露AI内容使用的新规是"可耻的"、被迫做出的"政治表态"，称其会被"仇恨团体"用来攻击开发者，还会造成"实际经济损失"
+- **背景与起因：**
+  - Steam今年已取消对"代码中使用AI"的披露要求，但仍要求披露美术资产、配音、翻译等方面的生成式AI使用情况，披露文字以小字显示在商店页面内容提示旁
+  - 此次问答源于10月以来开发者持续抱怨Steam新品节充斥"AI垃圾"游戏、以及遭遇AI克隆要挟勒索的报道
+  - Sweeney的批评发生在Epic"AI优先"转型及Epic Games Store推出"AI随性编写"新版启动器的背景之下
+  - Valve方面强调，自14年前Greenlight上线、以及后来Steam Direct推出时，就曾面临类似的"筛选游戏"呼声，公司一贯策略是突出优质内容而非直接过滤差质内容
+- **结果与进展：**
+  - Valve未在此次问答中宣布任何新政策调整，重申"不做工具看门人"的一贯立场
+  - Sweeney与Valve围绕AI披露政策的公开争执，加剧了Epic与Valve平台竞争的紧张关系，也凸显两大平台在AI内容透明度上的政策分歧仍将持续

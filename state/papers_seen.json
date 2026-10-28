@@ -21176,5 +21176,263 @@
   "first_seen": "2026-10-27",
   "submitted": "2026-10-19",
   "title": "Saga: an in silico ontology for a multimodal patient world model"
+ },
+ "2610.37668": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T17:59:59Z",
+  "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction"
+ },
+ "2610.37652": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T17:58:20Z",
+  "title": "Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well"
+ },
+ "2610.37588": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T17:25:50Z",
+  "title": "Understanding the limits of latent world models"
+ },
+ "2610.37566": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T17:12:42Z",
+  "title": "ReferStream: Interactive Subject Injection for Streaming Video Generation"
+ },
+ "2610.37545": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T16:56:45Z",
+  "title": "GroundControl: Satellite-Conditioned Multi-View Diffusion for Reconstruction-Free Novel View Synthesis"
+ },
+ "2610.37437": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T15:48:09Z",
+  "title": "Representing the Unseen: Rethinking Visual Imagination for Spatial Reasoning"
+ },
+ "2610.37406": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T15:21:01Z",
+  "title": "CTBakeGS: training-free baking of photorealistic CT volume renderings into 3D Gaussian splats"
+ },
+ "2610.37391": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T15:14:41Z",
+  "title": "JEPA-Inspired Latent Field Prediction for Sparse-Pilot MIMO-OFDM Channel Reconstruction"
+ },
+ "2610.37381": {
+  "status": "near-miss",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T15:09:10Z",
+  "title": "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations"
+ },
+ "2610.37349": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T14:50:59Z",
+  "title": "TimeLineXR: An Interactive Exploration of Time in Vision-Language Models"
+ },
+ "2610.37326": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T14:36:04Z",
+  "title": "ScIntBench: Physical Interaction Plausibility in 3D Scene Generation"
+ },
+ "2610.37257": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T13:53:14Z",
+  "title": "GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling"
+ },
+ "2610.37202": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T13:21:40Z",
+  "title": "3D-SceneQ: Empowering 3D LLM With Query-Guided Adaptive Pruning and Multi-Modal Feature Enhancement"
+ },
+ "2610.37175": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T13:01:29Z",
+  "title": "MLE-World: Predicting Machine Learning Experiment Outcomes with a Learned World Model"
+ },
+ "2610.37172": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T12:58:16Z",
+  "title": "DomeGS: Perceptually Consistent Background Completion for Unbounded 3D Gaussian Splatting in Virtual Reality"
+ },
+ "2610.37091": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T11:55:31Z",
+  "title": "GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation"
+ },
+ "2610.37046": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T11:15:41Z",
+  "title": "Learning to Code the World: Harness Evolution for Compositional 3D Reconstruction"
+ },
+ "2610.37036": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T11:11:48Z",
+  "title": "GraftRay: Physically Based Mesh Insertion into Gaussian Splatting Scenes via Path Tracing"
+ },
+ "2610.36925": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T09:51:08Z",
+  "title": "Vision-Language Agents Can Learn in Their Own Latent Worlds"
+ },
+ "2610.36853": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T08:51:00Z",
+  "title": "LingGS: Decoupling Feed-Forward Geometry Prediction from Camera Tracking for High-Fidelity Gaussian SLAM"
+ },
+ "2610.36823": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T08:23:30Z",
+  "title": "TAPESTRY: A Single Backbone for Video Generation and Robot Control"
+ },
+ "2610.36791": {
+  "status": "qualified",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T07:54:16Z",
+  "title": "RynnWorld-Latent: A Cross-Embodiment World Model Conditioned on Universal Latent Actions",
+  "affiliation": "Alibaba — DAMO Academy, Alibaba Group / Hupan Lab: Minghao Zhu, Dongchi Huang, Xingyue Zhao, Kehan Li, Xin Li, Zhenyu Zeng, Mingxiu Chen, Deli Zhao",
+  "url": "https://arxiv.org/abs/2610.36791",
+  "summary": "RynnWorld-Latent is a video world model that uses latent actions from RynnLAM as a shared conditioning interface, letting it train on human videos, robot demonstrations, and simulation rollouts without needing a common action space."
+ },
+ "2610.36760": {
+  "status": "qualified",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T07:15:03Z",
+  "title": "GeoGSplat: Geometry-Grounded Non-Pixel-Aligned Gaussian Splatting",
+  "affiliation": "Horizon Robotics — at least one author (exact name-to-institution mapping not recoverable from the HTML author block, which lists \"Xi'an Jiaotong University, EPFL, Horizon Robotics, University of the Chinese Academy of Sciences\" as a group without clear per-author linkage); FLAG: borderline (Horizon Robotics is not on the illustrative company list)",
+  "url": "https://arxiv.org/abs/2610.36760",
+  "summary": "GeoGSplat is a feed-forward Gaussian Splatting model for novel view synthesis that adds geometric priors to the non-pixel-aligned framework, which otherwise tends to place Gaussian centers poorly under large viewpoint changes."
+ },
+ "2610.36729": {
+  "status": "qualified",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T06:48:59Z",
+  "title": "Hy-Nomas: Towards Free-form Interactive World Generation",
+  "affiliation": "Tencent — all listed authors (Tencent Hy Visual Generation Team)",
+  "url": "https://arxiv.org/abs/2610.36729",
+  "summary": "Hy-Nomas is an 8B-parameter diffusion-based video world model that follows free-form text instructions and continuous camera control across multiple interaction turns, generating variable-length video segments from current inputs and cached history."
+ },
+ "2610.36662": {
+  "status": "qualified",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T05:28:28Z",
+  "title": "SWIM: Learning What Matters from Behaviors for JEPA World Models",
+  "affiliation": "Unity Technologies — Yan Zheng, Tian Wang, Florian Dubost, Alejandro Mottini, Junze Liu, Arvind Srinivasan, Kai Zhong, Kun Qian, Sharon Gao, Vianne Gao, Houyu Zhang, Qingjun Cui; Jiaming Hu and Shi Bo are listed with dual affiliation (Boston University and Unity Technologies). Verified from the HTML author block (\"Unity Technologies\" stated explicitly, not the generic word \"unity\").",
+  "url": "https://arxiv.org/abs/2610.36662",
+  "summary": "SWIM is a method for training JEPA (joint-embedding predictive architecture) world models so that their learned state representation better reflects physical task progress rather than only visual similarity."
+ },
+ "2610.36624": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T04:27:20Z",
+  "title": "Adapting Video Models for Robot Control via Motion-guided Asymmetric Prediction"
+ },
+ "2610.36615": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T04:18:31Z",
+  "title": "Mimetic Embodiment Transfer of Human-Humanoid Interaction from In-the-Wild Videos"
+ },
+ "2610.36610": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T04:11:39Z",
+  "title": "4D Reconstruction with Events & RGB"
+ },
+ "2610.36539": {
+  "status": "near-miss",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T02:51:20Z",
+  "title": "CARD: Contact-Anchored Retargeting for Dexterous Manipulation"
+ },
+ "2610.36462": {
+  "status": "near-miss",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T01:12:53Z",
+  "title": "ClusterSplat: Semantic Cluster Selection for 3D Visual Grounding in Gaussian Splatting"
+ },
+ "2610.36450": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-27T00:52:57Z",
+  "title": "Ground Sample Distance Constrained k-Coverage Viewpoint Planning via Set Multi-Cover Formulation"
+ },
+ "2610.36371": {
+  "status": "qualified",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-26T22:36:36Z",
+  "title": "BoxWorld: Let World Engines Control and Video Generators Render",
+  "affiliation": "Huawei Canada — Ahmed Hatem, Chintan Trivedi, Wallace Michel Pinto Lira, Xuebin Qin; FLAG: borderline (Huawei is a comparable top-tier industry lab not on the illustrative list, per tracker rules)",
+  "url": "https://arxiv.org/abs/2610.36371",
+  "summary": "BoxWorld builds real-time interactive video worlds with user-defined rules by separating interaction logic from video rendering."
+ },
+ "2610.36312": {
+  "status": "near-miss",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-26T21:34:06Z",
+  "title": "SG^2SLAM: Spatial Geometry-Informed 3D Gaussian Splatting SLAM for Monocular Outdoor Navigation"
+ },
+ "2610.36270": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-26T20:44:05Z",
+  "title": "Learning Multi-Phase Robot Loco-Manipulation via Phase-Conditioned Policy Optimization"
+ },
+ "2610.36168": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-26T19:02:22Z",
+  "title": "PrinGS: Privacy Preservation in Gaussian Splatting"
+ },
+ "2610.36150": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-26T18:53:14Z",
+  "title": "Any3R: Feedforward 3D Reconstruction from Any Camera Type"
+ },
+ "2610.36068": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-26T18:01:02Z",
+  "title": "Rollback: Experience Backtracking in World Models for Policy Improvement"
+ },
+ "2610.36022": {
+  "status": "near-miss",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-26T17:47:28Z",
+  "title": "Learning and Reasoning with Geometry: How Generation Helps Spatial Understanding"
+ },
+ "2610.36011": {
+  "status": "screened-out",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-10-26T17:00:09Z",
+  "title": "E0.5: From Reconstructive to Future-Predictive 3D Foundations for Robotic World-Action Modeling"
+ },
+ "2610.35902": {
+  "status": "qualified",
+  "first_seen": "2026-10-28",
+  "submitted": "2026-09-29T15:35:37Z",
+  "title": "StereoSplat: Metric-Scale Novel View Synthesis via Stereo-Grounded Gaussian Splatting",
+  "affiliation": "Meta — Denis Rozumny, Elias Vansteenkiste, Diogo C. Luvizon (verified as the company Meta in the HTML author block, not a \"meta-learning\" text match; Vladimir Yugay is University of Amsterdam with a footnote noting an internship at Meta)",
+  "url": "https://arxiv.org/abs/2610.35902",
+  "summary": "StereoSplat is a feed-forward 3D Gaussian Splatting architecture built specifically for stereo video, aimed at reliable, metric-scale novel view synthesis."
  }
 }

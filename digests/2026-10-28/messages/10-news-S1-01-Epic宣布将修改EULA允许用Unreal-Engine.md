@@ -1,0 +1,17 @@
+**[新闻 1] Epic宣布将修改EULA允许用Unreal Engine、MetaHuman产出内容训练AI，被曝"AI双重标准"引发行业哗然**
+- **日期：** 2026-10-27
+- **来源链接：** <https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman>
+- **核心事实：**
+  - Epic Games CEO Tim Sweeney在X上宣布，公司计划修改Unreal Engine与MetaHuman的用户协议（EULA），取消此前明确禁止使用其产出内容训练AI模型的条款
+  - 该变动尚无确定生效时间，Epic也未就具体操作细节回应Game Developer的置评请求
+  - Sweeney称此举是对此前报道（批评Epic和微软一边拥抱AI编码、一边打击玩家用AI复刻自家游戏）的回应，强调两者性质不同——Epic对Fortnite的法律行动基于版权与授权
+  - Sweeney同时确认Epic的Fab素材市场仍将保留AI使用披露要求，理由是该市场属于B2B场景，客户需要了解内容来源以满足合同要求
+- **背景与起因：**
+  - 10月初，Sweeney要求Epic员工（包括Fortnite团队及与迪士尼合作的未公布漫威/星战射击游戏团队）转向"AI优先"开发模式，该迪士尼合作项目随后被曝延期，Epic此前已裁员超1000人
+  - 10月以来，"AI vibe coding"浪潮催生大量AI辅助反编译/移植作品（如Fortnite、Minecraft、Call of Duty、Halo的浏览器/PC移植版），微软和Epic对此发出多份DMCA下架通知
+  - 同期，未使用生成式AI的开源项目《Slay the Spire 2》（10月6日）、《Celeste》（10月14日）、《RimWorld》（10月12日）也被卷入GitHub DMCA下架记录
+  - Epic确认其"AI优先"迪士尼/漫威项目将使用Anthropic的Claude开发；Unreal Engine此前的EULA明确禁止用引擎/MetaHuman产出内容训练AI，与新方向形成反差
+- **结果与进展：**
+  - 截至报道发布，Epic尚未正式更新EULA文本，新规则细节和生效时间均未公布
+  - 事件进一步引发关于游戏行业"AI双重标准"的争议：批评者指出大公司一边以版权为由打击威胁自身利益的AI使用，一边扩大AI在自身业务中的应用以获利
+  - 该争议与Epic和Valve围绕Steam AI内容披露政策的公开争执相互交织，成为10月下旬游戏+AI领域的焦点话题之一

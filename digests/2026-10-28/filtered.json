@@ -1,0 +1,170 @@
+{
+  "as_of": "2026-10-28",
+  "cutoff": "2026-10-21",
+  "window_days": 7,
+  "summary": {
+    "input_items": 3,
+    "denied_source": 0,
+    "in_window": 3,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 3,
+    "duplicate_clusters": 0,
+    "section1_count": 2,
+    "section2_count": 1,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 3,
+    "previously_covered_count": 0
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Epic宣布将修改EULA允许用Unreal Engine、MetaHuman产出内容训练AI，被曝\"AI双重标准\"引发行业哗然",
+        "url": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
+        "date": "2026-10-27",
+        "section": 1,
+        "summary": "Epic Games CEO Tim Sweeney在X上宣布，公司计划修改Unreal Engine和MetaHuman的用户协议（EULA），取消此前明确禁止使用其产出内容训练AI模型的条款，但尚未公布具体生效时间或文本。此举被Kotaku等媒体视为对此前批评的回应——Epic一方面在10月要求团队采用\"AI优先\"开发（包括Fortnite团队及与迪士尼合作的未公布射击游戏），一边却对社区用AI反编译、移植旗下游戏（如Fortnite浏览器版）发起DMCA下架，甚至连未使用AI的开源项目《Slay the Spire 2》《Celeste》《RimWorld》也被卷入10月的DMCA下架潮。",
+        "facts": {
+          "core_facts": [
+            "Epic CEO Tim Sweeney在X上宣布，计划修改Unreal Engine与MetaHuman的EULA，取消此前对\"使用引擎/MetaHuman产出内容训练AI模型\"的禁令",
+            "该变动尚无确定生效时间，Epic也未就具体操作细节回应Game Developer的置评请求",
+            "Sweeney称此举是对Kotaku此前报道（批评Epic和微软一边拥抱AI编码、一边打击玩家用AI复刻自家游戏）的回应，强调两者性质不同——Epic对Fortnite的法律行动基于版权与授权",
+            "Sweeney同时确认Epic的Fab素材市场仍将保留AI使用披露要求，理由是该市场属于B2B场景，客户需要了解内容来源以满足合同要求"
+          ],
+          "background": [
+            "10月初，Sweeney要求Epic员工（包括Fortnite团队及与迪士尼合作的未公布漫威/星战射击游戏团队）转向\"AI优先\"开发模式，该迪士尼合作项目随后被曝延期，Epic此前已裁员超1000人",
+            "10月以来，\"AI vibe coding\"浪潮催生大量AI辅助反编译/移植作品（如Fortnite、Minecraft、Call of Duty、Halo的浏览器/PC移植版），微软和Epic对此发出多份DMCA下架通知",
+            "同期，未使用生成式AI的开源项目《Slay the Spire 2》(10月6日)、《Celeste》(10月14日)、《RimWorld》(10月12日)也被卷入GitHub DMCA下架记录",
+            "Epic确认其\"AI优先\"迪士尼/漫威项目将使用Anthropic的Claude开发；Anthropic曾于2025年9月支付15亿美元和解一起涉及BitTorrent盗版训练数据的诉讼",
+            "Unreal Engine此前的EULA明确禁止用引擎/MetaHuman产出内容训练AI，与新方向形成反差"
+          ],
+          "results": [
+            "截至报道发布，Epic尚未正式更新EULA文本，新规则细节和生效时间均未公布",
+            "事件进一步引发关于游戏行业\"AI双重标准\"的争议：批评者指出大公司一边以版权为由打击威胁自身利益的AI使用，一边扩大AI在自身业务中的应用以获利",
+            "该争议与Epic和Valve围绕Steam AI内容披露政策的公开争执相互交织，成为10月下旬游戏+AI领域的焦点话题之一"
+          ]
+        }
+      },
+      "members": [
+        {
+          "title": "Epic宣布将修改EULA允许用Unreal Engine、MetaHuman产出内容训练AI，被曝\"AI双重标准\"引发行业哗然",
+          "url": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
+          "date": "2026-10-27",
+          "section": 1,
+          "summary": "Epic Games CEO Tim Sweeney在X上宣布，公司计划修改Unreal Engine和MetaHuman的用户协议（EULA），取消此前明确禁止使用其产出内容训练AI模型的条款，但尚未公布具体生效时间或文本。此举被Kotaku等媒体视为对此前批评的回应——Epic一方面在10月要求团队采用\"AI优先\"开发（包括Fortnite团队及与迪士尼合作的未公布射击游戏），一边却对社区用AI反编译、移植旗下游戏（如Fortnite浏览器版）发起DMCA下架，甚至连未使用AI的开源项目《Slay the Spire 2》《Celeste》《RimWorld》也被卷入10月的DMCA下架潮。",
+          "facts": {
+            "core_facts": [
+              "Epic CEO Tim Sweeney在X上宣布，计划修改Unreal Engine与MetaHuman的EULA，取消此前对\"使用引擎/MetaHuman产出内容训练AI模型\"的禁令",
+              "该变动尚无确定生效时间，Epic也未就具体操作细节回应Game Developer的置评请求",
+              "Sweeney称此举是对Kotaku此前报道（批评Epic和微软一边拥抱AI编码、一边打击玩家用AI复刻自家游戏）的回应，强调两者性质不同——Epic对Fortnite的法律行动基于版权与授权",
+              "Sweeney同时确认Epic的Fab素材市场仍将保留AI使用披露要求，理由是该市场属于B2B场景，客户需要了解内容来源以满足合同要求"
+            ],
+            "background": [
+              "10月初，Sweeney要求Epic员工（包括Fortnite团队及与迪士尼合作的未公布漫威/星战射击游戏团队）转向\"AI优先\"开发模式，该迪士尼合作项目随后被曝延期，Epic此前已裁员超1000人",
+              "10月以来，\"AI vibe coding\"浪潮催生大量AI辅助反编译/移植作品（如Fortnite、Minecraft、Call of Duty、Halo的浏览器/PC移植版），微软和Epic对此发出多份DMCA下架通知",
+              "同期，未使用生成式AI的开源项目《Slay the Spire 2》(10月6日)、《Celeste》(10月14日)、《RimWorld》(10月12日)也被卷入GitHub DMCA下架记录",
+              "Epic确认其\"AI优先\"迪士尼/漫威项目将使用Anthropic的Claude开发；Anthropic曾于2025年9月支付15亿美元和解一起涉及BitTorrent盗版训练数据的诉讼",
+              "Unreal Engine此前的EULA明确禁止用引擎/MetaHuman产出内容训练AI，与新方向形成反差"
+            ],
+            "results": [
+              "截至报道发布，Epic尚未正式更新EULA文本，新规则细节和生效时间均未公布",
+              "事件进一步引发关于游戏行业\"AI双重标准\"的争议：批评者指出大公司一边以版权为由打击威胁自身利益的AI使用，一边扩大AI在自身业务中的应用以获利",
+              "该争议与Epic和Valve围绕Steam AI内容披露政策的公开争执相互交织，成为10月下旬游戏+AI领域的焦点话题之一"
+            ]
+          }
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Valve回应Steam\"AI乱象\"：不做工具\"看门人\"拒绝封杀AI游戏；Epic CEO斥Steam AI披露新规\"可耻\"且\"政治化\"",
+        "url": "https://www.videogameschronicle.com/news/valve-has-a-significant-number-working-on-steams-visibility-dilemma-but-says-it-wont-gatekeep-games-made-with-ai/",
+        "date": "2026-10-28",
+        "section": 1,
+        "summary": "在韩国Steam Indie Connect活动的问答环节（Inven报道，VGC转述），Valve Steam业务团队的Tom Giardino和Marc Wilkinson表示，公司不会充当\"看门人\"去规定开发者该用或不该用哪些工具（包括AI），但承认Steam新品节现行的曝光机制确实让部分低质量\"AI垃圾\"游戏获得了曝光，并称\"相当多的人\"正在研究解决方案；对于开发者反映遭AI克隆要挟勒索的情况，Valve表示会调查但认为主要属执法范畴。几乎同期，Epic CEO Tim Sweeney在X上公开批评Steam要求游戏页面披露AI内容使用情况的新规是\"可耻\"且被迫做出的\"政治表态\"，称其可能被\"仇恨团体\"用来攻击开发者、并造成\"实际经济损失\"。",
+        "facts": {
+          "core_facts": [
+            "Valve Steam业务团队的Tom Giardino表示：\"我们不想成为告诉开发者该用或不该用哪些工具的看门人\"",
+            "Marc Wilkinson承认Steam新品节现行机制（前两天随机展示、随后转为个性化推荐）确实存在\"部分低质量游戏获得曝光\"的代价，并称公司内部\"相当多的人\"在研究这一曝光难题",
+            "针对开发者反映遭遇\"不交钱就用AI克隆你的游戏\"式勒索邮件的问题，Giardino表示Valve会调查个案，但认为勒索本质上属于执法机构的职责范围，Steam的策略是鼓励原创游戏通过持续更新、差异化特色来对抗被轻易复制",
+            "Epic CEO Tim Sweeney在10月23-25日左右的X发帖中，称Steam店铺页面要求披露AI内容使用的新规是\"可耻的\"、被迫做出的\"政治表态\"，并称其会被\"仇恨团体\"用来攻击开发者，还会造成\"实际经济损失\"",
+            "Sweeney同时为Epic自家Fab素材市场的AI披露要求做辩护，称其面向B2B客户、属于内容来源确认，与Steam面向消费者的披露性质不同"
+          ],
+          "background": [
+            "Steam今年已取消了对\"代码中使用AI\"的披露要求，但仍要求披露用于美术资产、配音、翻译等方面的生成式AI使用情况，披露文字以小字显示在商店页面内容提示旁",
+            "此次问答源于10月以来开发者持续抱怨Steam新品节充斥\"AI垃圾\"游戏、以及遭遇AI克隆要挟勒索的报道",
+            "Sweeney的批评发生在Epic\"AI优先\"转型及Epic Games Store推出\"AI随性编写\"（vibe coded）新版启动器（自称比Steam更快，随后Steam也推出更新版本）的背景之下",
+            "Valve方面强调，自14年前Greenlight上线、以及后来Steam Direct推出时，就曾面临类似的\"筛选游戏\"呼声，公司一贯策略是突出优质内容而非直接过滤差质内容"
+          ],
+          "results": [
+            "Valve未在此次问答中宣布任何新政策调整，重申\"不做工具看门人\"的一贯立场",
+            "Sweeney与Valve围绕AI披露政策的公开争执，加剧了Epic与Valve平台竞争的紧张关系，也凸显两大平台在AI内容透明度上的政策分歧仍将持续"
+          ]
+        }
+      },
+      "members": [
+        {
+          "title": "Valve回应Steam\"AI乱象\"：不做工具\"看门人\"拒绝封杀AI游戏；Epic CEO斥Steam AI披露新规\"可耻\"且\"政治化\"",
+          "url": "https://www.videogameschronicle.com/news/valve-has-a-significant-number-working-on-steams-visibility-dilemma-but-says-it-wont-gatekeep-games-made-with-ai/",
+          "date": "2026-10-28",
+          "section": 1,
+          "summary": "在韩国Steam Indie Connect活动的问答环节（Inven报道，VGC转述），Valve Steam业务团队的Tom Giardino和Marc Wilkinson表示，公司不会充当\"看门人\"去规定开发者该用或不该用哪些工具（包括AI），但承认Steam新品节现行的曝光机制确实让部分低质量\"AI垃圾\"游戏获得了曝光，并称\"相当多的人\"正在研究解决方案；对于开发者反映遭AI克隆要挟勒索的情况，Valve表示会调查但认为主要属执法范畴。几乎同期，Epic CEO Tim Sweeney在X上公开批评Steam要求游戏页面披露AI内容使用情况的新规是\"可耻\"且被迫做出的\"政治表态\"，称其可能被\"仇恨团体\"用来攻击开发者、并造成\"实际经济损失\"。",
+          "facts": {
+            "core_facts": [
+              "Valve Steam业务团队的Tom Giardino表示：\"我们不想成为告诉开发者该用或不该用哪些工具的看门人\"",
+              "Marc Wilkinson承认Steam新品节现行机制（前两天随机展示、随后转为个性化推荐）确实存在\"部分低质量游戏获得曝光\"的代价，并称公司内部\"相当多的人\"在研究这一曝光难题",
+              "针对开发者反映遭遇\"不交钱就用AI克隆你的游戏\"式勒索邮件的问题，Giardino表示Valve会调查个案，但认为勒索本质上属于执法机构的职责范围，Steam的策略是鼓励原创游戏通过持续更新、差异化特色来对抗被轻易复制",
+              "Epic CEO Tim Sweeney在10月23-25日左右的X发帖中，称Steam店铺页面要求披露AI内容使用的新规是\"可耻的\"、被迫做出的\"政治表态\"，并称其会被\"仇恨团体\"用来攻击开发者，还会造成\"实际经济损失\"",
+              "Sweeney同时为Epic自家Fab素材市场的AI披露要求做辩护，称其面向B2B客户、属于内容来源确认，与Steam面向消费者的披露性质不同"
+            ],
+            "background": [
+              "Steam今年已取消了对\"代码中使用AI\"的披露要求，但仍要求披露用于美术资产、配音、翻译等方面的生成式AI使用情况，披露文字以小字显示在商店页面内容提示旁",
+              "此次问答源于10月以来开发者持续抱怨Steam新品节充斥\"AI垃圾\"游戏、以及遭遇AI克隆要挟勒索的报道",
+              "Sweeney的批评发生在Epic\"AI优先\"转型及Epic Games Store推出\"AI随性编写\"（vibe coded）新版启动器（自称比Steam更快，随后Steam也推出更新版本）的背景之下",
+              "Valve方面强调，自14年前Greenlight上线、以及后来Steam Direct推出时，就曾面临类似的\"筛选游戏\"呼声，公司一贯策略是突出优质内容而非直接过滤差质内容"
+            ],
+            "results": [
+              "Valve未在此次问答中宣布任何新政策调整，重申\"不做工具看门人\"的一贯立场",
+              "Sweeney与Valve围绕AI披露政策的公开争执，加剧了Epic与Valve平台竞争的紧张关系，也凸显两大平台在AI内容透明度上的政策分歧仍将持续"
+            ]
+          }
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《极限脱出》编剧内田哲也自曝新工作室项目遭取消，坦言若早用AI省成本或可避免腰斩",
+        "url": "https://kotaku.com/zero-escape-writer-is-pro-ai-believes-his-new-studios-game-wouldnt-have-been-canceled-if-hed-used-it-to-cut-costs-2000749911",
+        "date": "2026-10-27",
+        "section": 2,
+        "summary": "《极限脱出》《弥留之国的爱丽丝》编剧内田哲也（Kotaro Uchikoshi）透露，他与Too Kyo Games关联新工作室Crash Keys的一款在制作的游戏项目已被publisher取消，他称此事是自己\"职业生涯最糟糕的一天\"。他在社媒上表示自己是\"AI支持者\"，认为如果当时能用AI压缩开发周期、降低成本，该项目或许不会被取消，并呼吁中型工作室应更主动拥抱AI以对抗小团队借助AI高效产出大作的竞争压力；他强调创意的源头仍须来自人类，AI应用于打磨和提效环节。"
+      },
+      "members": [
+        {
+          "title": "《极限脱出》编剧内田哲也自曝新工作室项目遭取消，坦言若早用AI省成本或可避免腰斩",
+          "url": "https://kotaku.com/zero-escape-writer-is-pro-ai-believes-his-new-studios-game-wouldnt-have-been-canceled-if-hed-used-it-to-cut-costs-2000749911",
+          "date": "2026-10-27",
+          "section": 2,
+          "summary": "《极限脱出》《弥留之国的爱丽丝》编剧内田哲也（Kotaro Uchikoshi）透露，他与Too Kyo Games关联新工作室Crash Keys的一款在制作的游戏项目已被publisher取消，他称此事是自己\"职业生涯最糟糕的一天\"。他在社媒上表示自己是\"AI支持者\"，认为如果当时能用AI压缩开发周期、降低成本，该项目或许不会被取消，并呼吁中型工作室应更主动拥抱AI以对抗小团队借助AI高效产出大作的竞争压力；他强调创意的源头仍须来自人类，AI应用于打磨和提效环节。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

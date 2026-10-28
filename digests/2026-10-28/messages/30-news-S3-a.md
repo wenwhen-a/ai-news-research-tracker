@@ -1,0 +1,9 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **[索尼发布透明配色"Prism"系列PS5手柄与主机外壳]**（2026-10-28）— 索尼公布三款透明配色"Prism Collection"DualSense手柄及PS5主机外壳，11月10日开放预购，2027年2月4日正式发售。 <https://www.videogameschronicle.com/news/sony-announces-new-prism-collection-of-transparent-ps5-dualsense-controllers-and-console-covers/>
+- **[Valve回应Steam"AI游戏泛滥"争议：不会因使用AI工具而设限，正研究提升优质游戏曝光度]**（2026-10-27）— Valve员工在韩国Steam Indie Connect活动上表示不会限制开发者使用何种工具，但承认Next Fest早期随机曝光机制会让劣质AI游戏获得曝光，已有相当数量人员在研究解决方案。 <https://www.videogameschronicle.com/news/valve-has-a-significant-number-working-on-steams-visibility-dilemma-but-says-it-wont-gatekeep-games-made-with-ai/>
+- **[腾讯《FC ONLINE》《FC足球世界》紧急下架姆巴佩相关素材]**（2026-10-27）— 因姆巴佩涉及不当言论引发网友不满，腾讯旗下两款足球游戏宣布下架外部渠道相关球员素材，游戏内内容将通过后续更新调整。 <https://finance.sina.com.cn/tob/2026-10-28/doc-iniwttsf9757142.shtml>
+- **[米哈游《崩坏：星穹铁道》测试包泄密案终审判决生效，泄密者被判赔100万元]**（2026-10-28）— 两名非法获取并破解《崩坏：星穹铁道》未公开测试版本内容的人员，被法院判令连带赔偿共100万元，判决已生效。 <https://www.ithome.com/1/018/879.htm>
+- **[Pocketpair CEO：愿意就《幻兽帕鲁》登陆Switch 2展开洽谈]**（2026-10-27）— 尽管与任天堂的诉讼仍在进行，《幻兽帕鲁》开发商Pocketpair CEO表示公司愿意就游戏登陆Switch 2平台展开讨论，但目前尚无官方移植计划。 <https://www.videogameschronicle.com/news/pocketpair-would-love-to-have-conversations-to-bring-palworld-to-switch-2-ceo-says/>
+- **[《Crossy Road》创作者出任雅达利移动游戏业务执行副总裁]**（2026-10-27）— Hipster Whale联合创始人、《Crossy Road》创作者Matt Hall被任命为雅达利移动游戏业务执行副总裁，负责统筹雅达利跨平台战略。 <https://www.videogameschronicle.com/news/the-creator-of-crossy-road-is-now-ataris-executive-vice-president-of-mobile-games/>
+- **[《天国:拯救》开发商Warhorse Studios确认遭遇网络攻击]**（2026-10-27）— Embracer集团旗下Warhorse Studios确认公司系统和数据遭未经授权访问，CEO称这是一起"严重事件"，正与外部网络安全专家合作调查。 <https://www.shacknews.com/article/151157/warhorse-studios-cyberattack>
+- **[SK海力士：内存短缺将持续至2030年，游戏主机与显卡涨价压力难解]**（2026-10-28）— SK海力士表示全球内存供应短缺态势预计持续至2030年，已与14家主要客户签订长期协议，消费级内存涨价已波及主机与显卡定价。 <https://www.theregister.com/systems/2026/10/28/sk-hynix-says-memory-shortages-to-persist-until-2030/>

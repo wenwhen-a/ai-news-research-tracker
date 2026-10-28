@@ -1,0 +1,301 @@
+{
+  "as_of": "2026-10-28",
+  "cutoff": "2026-10-27",
+  "window_days": 1,
+  "summary": {
+    "input_items": 14,
+    "denied_source": 0,
+    "in_window": 13,
+    "out_of_window": 1,
+    "invalid_date": 0,
+    "unique_after_dedup": 13,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 13,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 12,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "任天堂10月Indie World发布会公开23款游戏，《巫女学院》《精灵旅社》等获定档",
+        "url": "https://nintendoeverything.com/october-2026-indie-world-showcase-recap-announcement",
+        "date": "2026-10-28",
+        "summary": "任天堂10月28日举行最新一期Indie World独立游戏发布会，公布23款独立游戏动态，《Spirit Crossing》《Witchbrook》《Slime Rancher 2》等公布具体发售日期，《Sword of the Sea》将于10月29日登陆Switch 2。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "任天堂10月Indie World发布会公开23款游戏，《巫女学院》《精灵旅社》等获定档",
+          "url": "https://nintendoeverything.com/october-2026-indie-world-showcase-recap-announcement",
+          "date": "2026-10-28",
+          "summary": "任天堂10月28日举行最新一期Indie World独立游戏发布会，公布23款独立游戏动态，《Spirit Crossing》《Witchbrook》《Slime Rancher 2》等公布具体发售日期，《Sword of the Sea》将于10月29日登陆Switch 2。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "索尼发布透明配色\"Prism\"系列PS5手柄与主机外壳",
+        "url": "https://www.videogameschronicle.com/news/sony-announces-new-prism-collection-of-transparent-ps5-dualsense-controllers-and-console-covers/",
+        "date": "2026-10-28",
+        "summary": "索尼公布三款透明配色\"Prism Collection\"DualSense手柄及PS5主机外壳，灵感来自1990年代末透明游戏硬件设计，11月10日开放预购，2027年2月4日正式发售。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "索尼发布透明配色\"Prism\"系列PS5手柄与主机外壳",
+          "url": "https://www.videogameschronicle.com/news/sony-announces-new-prism-collection-of-transparent-ps5-dualsense-controllers-and-console-covers/",
+          "date": "2026-10-28",
+          "summary": "索尼公布三款透明配色\"Prism Collection\"DualSense手柄及PS5主机外壳，灵感来自1990年代末透明游戏硬件设计，11月10日开放预购，2027年2月4日正式发售。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Valve回应Steam\"AI游戏泛滥\"争议：不会因使用AI工具而设限，正研究提升优质游戏曝光度",
+        "url": "https://www.videogameschronicle.com/news/valve-has-a-significant-number-working-on-steams-visibility-dilemma-but-says-it-wont-gatekeep-games-made-with-ai/",
+        "date": "2026-10-27",
+        "summary": "Valve员工10月27日在韩国Steam Indie Connect活动上表示，公司不会充当\"门卫\"限制开发者使用何种工具，但承认Next Fest早期随机曝光机制确实会让劣质AI游戏获得曝光，称已有相当数量的人员在研究解决方案。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Valve回应Steam\"AI游戏泛滥\"争议：不会因使用AI工具而设限，正研究提升优质游戏曝光度",
+          "url": "https://www.videogameschronicle.com/news/valve-has-a-significant-number-working-on-steams-visibility-dilemma-but-says-it-wont-gatekeep-games-made-with-ai/",
+          "date": "2026-10-27",
+          "summary": "Valve员工10月27日在韩国Steam Indie Connect活动上表示，公司不会充当\"门卫\"限制开发者使用何种工具，但承认Next Fest早期随机曝光机制确实会让劣质AI游戏获得曝光，称已有相当数量的人员在研究解决方案。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "腾讯《FC ONLINE》《FC足球世界》紧急下架姆巴佩相关素材",
+        "url": "https://finance.sina.com.cn/tob/2026-10-28/doc-iniwttsf9757142.shtml",
+        "date": "2026-10-27",
+        "summary": "因法国球星姆巴佩涉及不当言论引发国内网友不满，腾讯旗下《FC ONLINE》《FC足球世界》10月27日晚发布公告，宣布已启动下架外部渠道中相关球员素材，游戏内内容将通过后续版本更新调整。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "腾讯《FC ONLINE》《FC足球世界》紧急下架姆巴佩相关素材",
+          "url": "https://finance.sina.com.cn/tob/2026-10-28/doc-iniwttsf9757142.shtml",
+          "date": "2026-10-27",
+          "summary": "因法国球星姆巴佩涉及不当言论引发国内网友不满，腾讯旗下《FC ONLINE》《FC足球世界》10月27日晚发布公告，宣布已启动下架外部渠道中相关球员素材，游戏内内容将通过后续版本更新调整。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "米哈游《崩坏：星穹铁道》测试包泄密案终审判决生效，泄密者被判赔100万元",
+        "url": "https://www.ithome.com/1/018/879.htm",
+        "date": "2026-10-28",
+        "summary": "米哈游法务部10月28日发文称，两名非法获取并破解《崩坏：星穹铁道》未公开测试版本内容的人员，被法院判令连带赔偿经济损失及维权合理开支共100万元，判决已生效。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "米哈游《崩坏：星穹铁道》测试包泄密案终审判决生效，泄密者被判赔100万元",
+          "url": "https://www.ithome.com/1/018/879.htm",
+          "date": "2026-10-28",
+          "summary": "米哈游法务部10月28日发文称，两名非法获取并破解《崩坏：星穹铁道》未公开测试版本内容的人员，被法院判令连带赔偿经济损失及维权合理开支共100万元，判决已生效。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Pocketpair CEO：愿意就《幻兽帕鲁》登陆Switch 2展开洽谈",
+        "url": "https://www.videogameschronicle.com/news/pocketpair-would-love-to-have-conversations-to-bring-palworld-to-switch-2-ceo-says/",
+        "date": "2026-10-27",
+        "summary": "尽管与任天堂的诉讼仍在进行，《幻兽帕鲁》开发商Pocketpair CEO表示公司非常愿意就游戏登陆Switch 2平台展开讨论，但目前尚无官方移植计划。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Pocketpair CEO：愿意就《幻兽帕鲁》登陆Switch 2展开洽谈",
+          "url": "https://www.videogameschronicle.com/news/pocketpair-would-love-to-have-conversations-to-bring-palworld-to-switch-2-ceo-says/",
+          "date": "2026-10-27",
+          "summary": "尽管与任天堂的诉讼仍在进行，《幻兽帕鲁》开发商Pocketpair CEO表示公司非常愿意就游戏登陆Switch 2平台展开讨论，但目前尚无官方移植计划。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《Crossy Road》创作者出任雅达利移动游戏业务执行副总裁",
+        "url": "https://www.videogameschronicle.com/news/the-creator-of-crossy-road-is-now-ataris-executive-vice-president-of-mobile-games/",
+        "date": "2026-10-27",
+        "summary": "Hipster Whale联合创始人、《Crossy Road》创作者Matt Hall被任命为雅达利移动游戏业务执行副总裁，将负责统筹雅达利在PC、主机、网页与移动端的跨平台战略。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《Crossy Road》创作者出任雅达利移动游戏业务执行副总裁",
+          "url": "https://www.videogameschronicle.com/news/the-creator-of-crossy-road-is-now-ataris-executive-vice-president-of-mobile-games/",
+          "date": "2026-10-27",
+          "summary": "Hipster Whale联合创始人、《Crossy Road》创作者Matt Hall被任命为雅达利移动游戏业务执行副总裁，将负责统筹雅达利在PC、主机、网页与移动端的跨平台战略。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《天国:拯救》开发商Warhorse Studios确认遭遇网络攻击",
+        "url": "https://www.shacknews.com/article/151157/warhorse-studios-cyberattack",
+        "date": "2026-10-27",
+        "summary": "Embracer集团旗下Warhorse Studios发声明确认公司系统和数据遭未经授权访问，CEO称这是一起\"严重事件\"，目前正与外部网络安全专家合作调查，尚未确认攻击者身份或是否涉及勒索软件。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《天国:拯救》开发商Warhorse Studios确认遭遇网络攻击",
+          "url": "https://www.shacknews.com/article/151157/warhorse-studios-cyberattack",
+          "date": "2026-10-27",
+          "summary": "Embracer集团旗下Warhorse Studios发声明确认公司系统和数据遭未经授权访问，CEO称这是一起\"严重事件\"，目前正与外部网络安全专家合作调查，尚未确认攻击者身份或是否涉及勒索软件。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "SK海力士：内存短缺将持续至2030年，游戏主机与显卡涨价压力难解",
+        "url": "https://www.theregister.com/systems/2026/10/28/sk-hynix-says-memory-shortages-to-persist-until-2030/",
+        "date": "2026-10-28",
+        "summary": "SK海力士10月28日表示，受制于先进制程扩产周期长，全球内存供应短缺态势预计持续至2030年，已与14家主要客户签订覆盖一半以上产能的长期协议，消费级内存涨价已波及主机与显卡定价。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "SK海力士：内存短缺将持续至2030年，游戏主机与显卡涨价压力难解",
+          "url": "https://www.theregister.com/systems/2026/10/28/sk-hynix-says-memory-shortages-to-persist-until-2030/",
+          "date": "2026-10-28",
+          "summary": "SK海力士10月28日表示，受制于先进制程扩产周期长，全球内存供应短缺态势预计持续至2030年，已与14家主要客户签订覆盖一半以上产能的长期协议，消费级内存涨价已波及主机与显卡定价。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Rockstar英国员工将于《GTA6》发售前后就工会承认进行投票",
+        "url": "https://www.engadget.com/gaming/rockstar-workers-in-uk-hold-union-vote-as-gta-6-release.html",
+        "date": "2026-10-27",
+        "summary": "独立工人总工会(IWGB)10月27日宣布，Rockstar英国员工将于11月12日至26日就承认Rockstar Games Workers Union进行匿名网络投票，投票期恰好覆盖11月19日《GTA6》正式发售，议题涵盖薪酬、加班及生成式AI使用政策等。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Rockstar英国员工将于《GTA6》发售前后就工会承认进行投票",
+          "url": "https://www.engadget.com/gaming/rockstar-workers-in-uk-hold-union-vote-as-gta-6-release.html",
+          "date": "2026-10-27",
+          "summary": "独立工人总工会(IWGB)10月27日宣布，Rockstar英国员工将于11月12日至26日就承认Rockstar Games Workers Union进行匿名网络投票，投票期恰好覆盖11月19日《GTA6》正式发售，议题涵盖薪酬、加班及生成式AI使用政策等。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据报道《GTA6》PS5版下载容量约210GB，接近占满初代PS5三分之一存储空间",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-210gb-download-says-playstation-store-sleuth/",
+        "date": "2026-10-28",
+        "summary": "据PlayStation商店数据追踪者披露，《GTA6》PS5版下载容量约为210GB，约为《荒野大镖客：救赎2》的两倍，该数字尚未获Rockstar或索尼官方确认，且不排除首日更新后进一步增大。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据报道《GTA6》PS5版下载容量约210GB，接近占满初代PS5三分之一存储空间",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-210gb-download-says-playstation-store-sleuth/",
+          "date": "2026-10-28",
+          "summary": "据PlayStation商店数据追踪者披露，《GTA6》PS5版下载容量约为210GB，约为《荒野大镖客：救赎2》的两倍，该数字尚未获Rockstar或索尼官方确认，且不排除首日更新后进一步增大。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《使命召唤：现代战争4》被曝使用韩国梨泰院踩踏事故真实新闻画面，遇难者家属要求删除",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20261028/call-of-duty-game-under-fire-for-using-real-itaewon-crowd-crush-footage",
+        "date": "2026-10-28",
+        "summary": "玩家发现《现代战争4》开场动画中一段约3秒片段为2022年梨泰院踩踏事故（159人死亡）的真实新闻画面，韩国遇难者家属协会及游戏消费者团体要求动视移除并公开道歉，动视回应称无意影射或轻视该真实悲剧事件。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《使命召唤：现代战争4》被曝使用韩国梨泰院踩踏事故真实新闻画面，遇难者家属要求删除",
+          "url": "https://www.koreatimes.co.kr/southkorea/society/20261028/call-of-duty-game-under-fire-for-using-real-itaewon-crowd-crush-footage",
+          "date": "2026-10-28",
+          "summary": "玩家发现《现代战争4》开场动画中一段约3秒片段为2022年梨泰院踩踏事故（159人死亡）的真实新闻画面，韩国遇难者家属协会及游戏消费者团体要求动视移除并公开道歉，动视回应称无意影射或轻视该真实悲剧事件。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《黎明杀机》开发商：查克、针头怪、迈克尔·迈尔斯等下架联动角色仍\"敞开大门\"欢迎回归",
+        "url": "https://www.videogameschronicle.com/news/dead-by-daylight-studio-says-removed-characters-like-chucky-pinhead-and-michael-myers-have-an-open-invitation-to-return/",
+        "date": "2026-10-28",
+        "summary": "Behaviour Interactive表示，此前因授权到期从《黎明杀机》中移除的查克、针头怪、迈克尔·迈尔斯等知名恐怖IP联动角色仍有\"公开邀请\"回归游戏的可能，具体时间未定。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《黎明杀机》开发商：查克、针头怪、迈克尔·迈尔斯等下架联动角色仍\"敞开大门\"欢迎回归",
+          "url": "https://www.videogameschronicle.com/news/dead-by-daylight-studio-says-removed-characters-like-chucky-pinhead-and-michael-myers-have-an-open-invitation-to-return/",
+          "date": "2026-10-28",
+          "summary": "Behaviour Interactive表示，此前因授权到期从《黎明杀机》中移除的查克、针头怪、迈克尔·迈尔斯等知名恐怖IP联动角色仍有\"公开邀请\"回归游戏的可能，具体时间未定。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [
+    {
+      "title": "微软将Arkane Lyon寻找买家的最后期限延长至12月中旬",
+      "url": "https://www.videogameschronicle.com/news/arkane-now-has-until-mid-december-to-find-a-buyer-as-microsoft-extends-its-deadline/",
+      "date": "2026-10-26",
+      "summary": "微软将原定11月13日的Arkane Lyon买家征集期再延长一个月至12月中旬，称此举是为探索包括寻找合作伙伴以协助工作室完成在研作品《死侍：刀锋战士》等选项，闭店文件被称为\"并非最终决定\"。",
+      "section": 3,
+      "_date_parsed": "2026-10-26"
+    }
+  ],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
