@@ -1,0 +1,15 @@
+**[新闻 3] Valve在Steam Indie Connect活动上回应AI「仿制游戏」勒索与「AI垃圾内容」担忧,拒绝为AI工具设门槛**
+- **日期：** 2026-10-27
+- **来源链接：** <https://www.invenglobal.com/articles/27761/valve-responds-directly-to-developers-fearful-of-ai-slop-and-game-cloning>
+- **核心事实：**
+  - 2026年10月27日,Valve与釜山独立游戏节(BIC)组委会、韩国内容振兴院(KOCCA)在韩国共同举办「Steam Indie Connect」开发者交流活动。
+  - Valve Steam商务团队成员Tom Giardino与Marc Wilkinson出席问答环节,回应韩国开发者的提问。
+  - 多名开发者反映近期收到勒索邮件,威胁「如果不付款,将用AI克隆你的游戏并抢先发布」;Giardino称这是他首次听说此类具体案例,认为敲诈勒索更多属于执法范畴,但Valve愿意调查开发者举报的案例并提供帮助。
+  - 关于AI工具使用,Giardino明确表示:「我们不想充当看门人,去告诉开发者应该或不应该使用哪些工具」,是否使用AI由开发者自行决定。
+  - 关于「仿制游戏」问题,Valve建议开发者持续更新、构建社区与独特风格,而非依赖容易被复制的单一机制,认为正版应当成为「最好的版本」。
+  - Wilkinson承认Steam Next Fest前两天采用随机曝光机制以保证公平,但这意味着「部分低质量游戏会被曝光」,Valve「完全意识到」这一问题,且有「相当多的人」正在研究解决方案(次日VGC报道确认了这一说法)。
+  - Giardino回顾称,开发者在14年前Steam Greenlight上线、以及后来Steam Direct上线时都曾要求设置过滤器,但Valve的目标始终是让优质游戏浮现而非过滤劣质游戏,并称「我们不认为自己是完美的,还有很大改进空间」。
+- **背景与起因：**
+  - 此次活动是在Steam平台AI生成内容游戏数量快速增长(据统计,一年内披露使用生成式AI的Steam游戏数量增长近800%,达近8000款)、以及自2026年9月末以来多名独立开发者收到AI克隆勒索邮件的背景下举行的;Valve此前已在今年早些时候修改Steam的AI披露政策,收窄披露范围至玩家可感知的AI生成内容,豁免了幕后使用的开发工具。
+- **结果与进展：**
+  - Valve未在此次活动上宣布任何新的AI工具审查机制或仿制游戏检测机制;次日(10月28日)Video Games Chronicle援引Inven Global详细报道了此次活动内容,进一步扩大了Valve表态的媒体关注度,并间接引发Epic Games CEO Tim Sweeney在随后几日对Steam AI披露政策的公开批评。

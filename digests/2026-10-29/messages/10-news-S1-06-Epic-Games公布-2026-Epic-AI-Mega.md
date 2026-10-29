@@ -1,0 +1,16 @@
+**[新闻 6] Epic Games公布「2026 Epic AI MegaJam」游戏创作大赛,联合Anthropic、OpenAI、谷歌等共6.5万美元奖金**
+- **日期：** 2026-10-22
+- **来源链接：** <https://www.invenglobal.com/articles/27578/epic-games-announces-2026-epic-ai-megajam-with-up-to-50000-in-grants>
+- **核心事实：**
+  - 2026年10月22日,Unreal Engine官方X账号以「Vibe your way to 50K」为口号宣布2026 Epic AI MegaJam,详情同步发布于Unreal Engine官网及itch.io报名页。
+  - 比赛为期四天(11月12日至15日),参赛者需使用Unreal Engine或Unreal Editor for Fortnite(UEFN)制作可玩游戏。
+  - 每支队伍最多5名人类成员,外加「无限数量」的AI代理;参赛者可使用从资产生成到编程代理的任意AI工具,官方明确AI使用为可选而非强制。
+  - 主奖项分三类:Unreal Engine最佳整体作品、UEFN最佳整体作品、最佳学生项目,各类别第一名7500美元、第二名5000美元、第三名2500美元。
+  - 表现突出的Unreal Engine与UEFN作品可获最高5万美元「开发延续资助」,用于赛后继续开发。
+  - 修饰奖项包括最佳团队(5000美元),以及最佳个人开发者作品、最佳视觉效果、最佳移动游戏、最佳展示AI工具使用的开发日志、最佳使用LLM驱动角色的UEFN叙事游戏(各2500美元)。
+  - 活动支持线上参与、本地开发者社区参与,以及旧金山Digital Jungle线下场地(11月14日至15日);Epic表示Anthropic、谷歌、Meshy、OpenAI及SpaceXSI等公司团队将一同参赛,部分AI合作伙伴将为参赛者提供工具使用额度。
+  - 线下名额将于11月1日太平洋时间7点开放报名,名额有限;开幕直播定于11月11日在Twitch、YouTube、X同步进行并公布主题。
+- **背景与起因：**
+  - 此次比赛是在Epic Games今年持续推进「AI优先」开发战略的背景下举办的:据此前报道,Epic CEO Tim Sweeney于10月12日宣布公司将重新分配人力以加速采用AI开发,并于10月14日发布了由AI「vibe coding」构建的新版Epic Games Store启动器(称启动速度比Steam快46%);Epic此前已在Unreal Engine 5.8中引入实验性插件允许接入大语言模型,并计划在Unreal Engine 6中集成Claude、Gemini等模型。
+- **结果与进展：**
+  - 公告发布后,部分媒体与玩家对比赛的AI门槛提出批评,Rock Paper Shotgun将其形容为「奖励无人问津的AI vibe-coded slop游戏的现金」;截至发稿,线下场地报名尚未开放(定于11月1日开始),完整赛程与结果将在11月15日赛事结束后揭晓。

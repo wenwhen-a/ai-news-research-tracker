@@ -1,0 +1,8 @@
+- **[《WWE 2K26》最终季票内容上线，新增地震者、台风等四名摔跤手]**（2026-10-28）— 2K公布《WWE 2K26》Ringside Pass最终批内容已上线，新增包括Earthquake、Typhoon等四名经典摔跤手角色。 <https://www.videogameschronicle.com/news/wwe-2k26s-final-ringside-pass-launches-today-adding-four-more-wrestlers-including-earthquake-and-typhoon/>
+- **[约旦独立工作室Dimensions Games Studio运营四年后宣布关闭]**（2026-10-28）— 据PocketGamer.biz报道，约旦游戏工作室Dimensions Games Studio在成立四年后宣布停止运营，为中东地区近期又一家关闭的游戏开发商。 <https://www.pocketgamer.biz/jordan-based-dimensions-games-studio-closes-after-four-years/>
+- **[Unity与投资机构PvX合作，为游戏开发者推出资金扶持计划]**（2026-10-28）— Unity宣布与投资机构PvX Partners合作推出开发者扶持计划，符合条件的开发者可获得Unity Ads广告额度等资金与资源支持。 <https://www.pocketgamer.biz/unity-partners-with-pvx-to-offer-funding-for-game-developers/>
+- **[微软公布最新财季Xbox内容与服务收入同比下滑2%]**（2026-10-28）— 微软公布截至9月的最新财季（2027财年第一财季）业绩，其中Xbox内容与服务业务收入同比下降2%。 <https://gamesbeat.com/xbox-content-and-services-revenue-decreased-2-in-september-quarter/>
+- **[雅虎游戏业务负责人在公司重组裁员中离职]**（2026-10-28）— 据GamesBeat报道，雅虎（Yahoo）游戏业务负责人已在公司近期的架构调整与裁员中离职。 <https://gamesbeat.com/yahoos-head-of-games-exits-amid-restructuring-and-layoffs/>
+- **[Relic公布《英雄连3》剧情DLC「Operation Torch」（火炬行动）]**（2026-10-28）— 开发商Relic Entertainment公布《英雄连3》（Company of Heroes 3）新剧情DLC「Operation Torch」相关内容。 <https://gamesbeat.com/relic-unveils-company-of-heroes-3-operation-torch-campaign-dlc/>
+- **[据报道黑客在GitHub发布伪装PS5模拟器，植入窃取密码的恶意软件]**（2026-10-28）— 据Engadget报道，有黑客在GitHub上传伪装成PS5模拟器的项目，实际捆绑可窃取用户密码等信息的恶意软件，提醒玩家谨慎下载来源不明的模拟器工具。 <https://www.engadget.com/2299912/fake-ps5-emulators-on-github-are-spreading-password-stealing-malware/>
+- **[儿童体感游戏公司Nex Playground与英国NSPCC儿童保护机构达成合作]**（2026-10-28）— 体感游戏硬件公司Nex Playground宣布与英国防止虐待儿童协会（NSPCC）建立合作伙伴关系，共同推进儿童游戏安全相关工作。 <https://gamesbeat.com/nex-playground-announces-new-partnership-with-nspcc/>

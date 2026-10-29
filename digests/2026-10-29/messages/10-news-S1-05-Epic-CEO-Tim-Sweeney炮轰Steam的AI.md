@@ -1,0 +1,13 @@
+**[新闻 5] Epic CEO Tim Sweeney炮轰Steam的AI披露要求「令人憎恶」,称是一种「政治表态」**
+- **日期：** 2026-10-26
+- **来源链接：** <https://kotaku.com/epic-steam-valve-tim-sweeney-gen-ai-declaration-political-abhorrent-2000749706>
+- **核心事实：**
+  - 10月23日,Tim Sweeney在X上发帖称Steam强制开发者披露AI使用情况,是在「强迫开发者写一份政治声明」,并称这种做法「令人憎恶」(abhorrent)。
+  - Sweeney表示Valve此举存在「实际的经济代价」,认为AI披露标签可能被用来发起针对开发者的抵制运动,从而损害其收入。
+  - 对于有人指出Epic旗下的资产商店Fab同样要求披露AI使用情况,Sweeney回应称Fab是「一个企业对企业的市场」,买家需要知道内容来源,这与Steam面向普通消费者的政策「不同」。
+  - 据报道,Steam的AI披露政策今年已有所放宽:目前不再要求披露代码中使用的AI,仅要求披露用于资产制作、配音、翻译等用途的生成式AI;披露信息以小字显示在商店页面下方,与内容警告并列。
+  - 开发者Matt Workman发帖称「2026年还要求AI披露的前提本身就很荒谬」,认为这让Valve和Steam很难看,Sweeney对此回复表示赞同。
+- **背景与起因：**
+  - 此番言论发生在Valve于10月27日Steam Indie Connect活动上为其AI工具「不设门槛」政策进行辩护的前后,显示出Epic与Valve在生成式AI商店政策上的公开分歧,也延续了此前Epic被曝「AI优先」转型、以及微软与Epic因AI反编译移植版发起DMCA投诉引发「双重标准」质疑的背景。
+- **结果与进展：**
+  - 报道中Valve并未对Sweeney的言论作出直接公开回应;部分评论者(包括Kotaku作者)认为Sweeney的批评带有政治色彩,实质是对AI使用本身的道德反对,并指出Epic Games Store长期以来难以与Steam竞争。

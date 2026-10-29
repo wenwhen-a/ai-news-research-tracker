@@ -1,0 +1,15 @@
+**[新闻 4] 微软与Epic Games对AI「反编译」移植版游戏发起大量DMCA投诉,Tim Sweeney回应「AI是窃取」指控**
+- **日期：** 2026-10-27
+- **来源链接：** <https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316>
+- **核心事实：**
+  - 借助AI编程工具(文章提及Anthropic的Claude Opus 5.5),反编译与「重新编译」游戏变得更快更便宜,大量AI「vibe coded」的浏览器移植版与PC重制版在网络上泛滥,催生大量DMCA删除通知;包括《Slay the Spire 2》《Celeste》《RimWorld》等并未使用生成式AI的独立游戏,其代码也在未获开发者同意的情况下被开源并出现在GitHub的DMCA记录中。
+  - Epic Games于10月10日对一个AI「vibe coded」的浏览器版《堡垒之夜》移植版发起DMCA投诉;据一名用户反映,Epic还举报了大量展示该移植版的帖子。
+  - 微软在过去一个月内对《我的世界》《使命召唤》《光环》的浏览器移植版发起多次DMCA投诉,文章统计至少有6个《使命召唤》移植版因此被下架。
+  - Epic的服务条款禁止用户将其内容用作生成式AI的训练输入。
+  - 文章指出讽刺之处:Epic于10月14日发布的新版Epic Games Store启动器被批评为大量使用AI「vibe coding」构建;据彭博社10月12日报道,Epic与迪士尼合作、「AI优先」开发的漫威/星球大战射击游戏将使用Anthropic的Claude开发,而Anthropic在2025年曾因使用BitTorrent来源数据训练模型支付15亿美元赔偿(但未被要求重新训练模型)。
+  - 微软每年向AI数据中心投入约800亿美元;动视暴雪已承认在《黑色行动6》与《黑色行动7》中使用AI生成美术素材。
+  - Xbox CEO Asha Sharma在10月13日的Xbox Labs公告中表示微软「致力于成为知识产权的负责任管理者」;文章援引微软一名产品经理2026年曾建议用《哈利·波特》原著训练大语言模型(该建议后被撤回)作为反例,并引用《纽约时报》诉微软与OpenAI版权案证据披露中微软员工Brent Hecht将大规模抓取训练数据形容为「令人震惊的盗窃」的内部言论。
+- **背景与起因：**
+  - 争议源于AI编程/反编译工具近期的快速进步,使独立开发者几乎无力对抗拥有法律资源的大公司对其开源代码提起的DMCA投诉,而大公司自身的AI产品训练数据来源(如经抓取盗版网站数据训练的图像与语言模型)也面临类似指控,形成被舆论称为「双重标准」的局面。
+- **结果与进展：**
+  - Epic CEO Tim Sweeney于10月27日在X上回应称文章「混淆了多个不同问题」,强调Epic不允许未经授权使用《堡垒之夜》IP;他确认Epic的最终用户许可协议目前限制用Unreal Engine与MetaHuman的输出训练AI模型,并表示公司正着手从条款中移除这一限制。他还就Anthropic的法律灰色地带作出说明,称法院认定Anthropic因torrent下载盗版内容承担侵权责任,但训练行为本身被判定属合理使用,其他法院对AI输出是否侵权的判断则取决于其与原作品的相似度;Kotaku表示已通过Epic公关团队联系Sweeney寻求进一步评论。

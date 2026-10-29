@@ -1,0 +1,14 @@
+**[新闻 1] Epic Games副总裁称AI编程工具已消除Unreal Engine十年未解的「非确定性cooking错误」**
+- **日期：** 2026-10-28
+- **来源链接：** <https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic>
+- **核心事实：**
+  - Epic Games开发副总裁(Executive Vice President of Development)Marcus Wassmer在接受播客This Week in Video Games采访时首次详细披露公司如何用AI开发自家引擎与软件,此前Epic未就此公开细节。
+  - Wassmer表示Epic「确定在使用AI来开发Unreal Engine的代码与功能」,目前大部分相关开发集中在Fortnite、UEFN(Unreal Editor for Fortnite)及UE6的开发分支(dev stream)中进行。
+  - 他表示Claude、Codex等AI编程工具已经消除了Epic团队尝试修复了十年之久的「非确定性cooking错误」(non-deterministic cooking bugs,即引擎打包资源阶段出现的不稳定、难复现的报错)。
+  - Wassmer还提到AI工具被用于自动监测Fortnite在PC端的稳定性,标记导致问题的特定驱动与硬件组合。
+  - 他提到Epic此前曾披露用「vibe coding」方式重写了Epic Games Launcher,新版本运行明显更快;这一开发方式目前已被用于不止商店这一个产品线,工程师不再手写大部分代码,但仍把控代码的范围与方向。
+  - 针对外界对生成式AI可能拉低游戏品质的担忧(相关调查显示开发者对此担忧上升),Wassmer回应称Epic「更担心行动太慢的风险,而不是AI怀疑论」。
+- **背景与起因：**
+  - 此次表态是Epic近期「AI优先」(AI-first)战略的最新延伸:此前有报道称Epic旗下与迪士尼合作的项目已转向「AI优先」开发模式,且Epic正在更新Unreal Engine与MetaHuman的用户协议(EULA),以允许用这些工具产生的内容训练AI模型。Wassmer的采访是Epic首次就「如何用AI开发自家引擎」给出具体细节,此前相关动向多为外部报道或政策变更,未有高管正面披露内部工作流。
+- **结果与进展：**
+  - 采访披露后,引擎开发社区关注Epic计划在类似「5.9」版本中推出的改动——据Wassmer描述,这类更新规模相对适度,将聚焦具体系统,并包含AI辅助产生的变更;Epic强调AI工具的作用目前集中在提升引擎稳定性(「让引擎在我们开发、精简过程中保持更稳定」),而非完全自动化整个开发流程。
