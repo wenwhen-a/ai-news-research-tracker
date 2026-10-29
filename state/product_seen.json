@@ -575,7 +575,14 @@
     "tier": "GA",
     "first_seen": "2026-10-26",
     "release_date": "2026-10-23",
-    "summary": "NVIDIA shipped RTX Remix 1.6.1, bringing DLSS 5 with 3D-Guided Neural Rendering, a beta Frame Generation performance preset, 5x/6x Multi Frame Generation and ComfyUI 2.0 into the RTX Remix modding toolkit, plus Windows-on-ARM support."
+    "summary": "NVIDIA shipped RTX Remix 1.6.1, bringing DLSS 5 with 3D-Guided Neural Rendering, a beta Frame Generation performance preset, 5x/6x Multi Frame Generation and ComfyUI 2.0 into the RTX Remix modding toolkit, plus Windows-on-ARM support.",
+    "last_update": "2026-10-28",
+    "updates": [
+      {
+        "date": "2026-10-28",
+        "change": "NVIDIA's GeForce News writeup of the RTX Remix 1.6 release (https://www.nvidia.com/en-us/geforce/news/remix-1-6-dlss-5-comfyui-2-0-minecraft-rtx-beta/) adds a flagship-game integration not previously logged: an open-source beta rendering Minecraft: Java Edition 1.21.1 with DLSS-accelerated full path tracing, RTX Dynamic/Global Illumination, volumetric lighting, caustics and subsurface scattering (sample world by Blockworks, NVIDIA PBR materials pack), plus Multi Frame Generation extended to up to 6X."
+      }
+    ]
   },
   "https://www.nvidia.com/en-us/geforce/news/dlss-4-5-cyberpunk-2077-planet-zoo-2-modern-warfare-4/": {
     "name": "Call of Duty: Modern Warfare 4 — DLSS 4.5 at launch (plus Cyberpunk 2077 upgrade)",
@@ -608,5 +615,45 @@
     "first_seen": "2026-10-26",
     "release_date": "2026-07-22",
     "summary": "Autodesk added \"Bring Your Own Data\" (BYOD) to MotionMaker in Maya 2027.2, letting users train custom machine-learning motion-generation models from their own animation/mocap data."
+  },
+  "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/": {
+    "name": "NVIDIA ACE — Nemotron 3.5 Bolt E4B (4GB) via the In-Game Inferencing (IGI) SDK",
+    "company": "NVIDIA",
+    "tier": "GA",
+    "first_seen": "2026-10-29",
+    "release_date": "2026-10-27",
+    "summary": "NVIDIA states Nemotron 3.5 Bolt E4B 4GB, an on-device LLM \"purpose-built to power richer, faster in-game character interactions,\" is now available to developers via the In-Game Inferencing (IGI) SDK, running locally on GeForce RTX and RTX Spark with ~40% higher quality than its prior model, multi-turn tool use, and a 64k context window."
+  },
+  "https://help.aliyun.com/zh/model-studio/newly-released-models#tripo-pipeline-2026-10-27": {
+    "name": "Tripo 3D pipeline tools on Alibaba Cloud Model Studio (Segmentation, SmartSegmentation, MeshCompletion, Retopology, ConvertFormat, RigCheck, AutoRig, AnimationRetarget, ImageToSplat, Texture)",
+    "company": "Alibaba Cloud (Model Studio) — flagged: underlying models built by Tripo/VAST, not itself a tracked company",
+    "tier": "GA (inferred; no invite/whitelist marker found)",
+    "first_seen": "2026-10-29",
+    "release_date": "2026-10-27",
+    "summary": "Alibaba's Model Studio catalog added ten new Tripo-branded 3D-pipeline tools (segmentation, mesh completion, retopology, format conversion, rig-compatibility checking, AutoRig based on the UniRig algorithm, animation retargeting against 100 preset animations, image-to-Gaussian-splat, and automatic PBR texturing), extending Tripo's base generation models (on the catalog since 2026-04-27) into a fuller generate-to-animate pipeline."
+  },
+  "https://devforum.roblox.com/t/upgrading-shapecasts-margins-size-gradients-optimizations-and-more/4963119": {
+    "name": "Roblox Studio — Upgraded Shapecasts (Margins, Size Gradients, overrides)",
+    "company": "Roblox",
+    "tier": "GA",
+    "first_seen": "2026-10-29",
+    "release_date": "2026-10-28",
+    "summary": "Roblox shipped a rewritten shapecast implementation (Blockcast/Spherecast/Shapecast) adding Margin and SizeGradient parameters plus CFrame/size overrides and in-Studio visualization; existing calls automatically run on the new implementation, which Roblox states is \"up to 4.1x quicker\" with no code changes required."
+  },
+  "https://devforum.roblox.com/t/improving-validation-checks-for-ugc-avatar-bodies-visualization-tool-and-asset-quality/4950522": {
+    "name": "Roblox Studio — UGC Validation Visualization (avatar body/mesh quality checks)",
+    "company": "Roblox",
+    "tier": "GA",
+    "first_seen": "2026-10-29",
+    "release_date": "2026-10-22",
+    "summary": "Roblox added a Studio tool visualizing UGC Marketplace validation errors/warnings directly on a selected 3D avatar asset (bodies, heads, layered clothing, rigid accessories), plus Asset Quality info on attachment placement, mesh structure, geometry integrity and vertex similarity; Roblox states it does not measure realism."
+  },
+  "https://devforum.roblox.com/t/early-access-program-build-2d-games-with-animatedimages/4960734": {
+    "name": "Roblox AnimatedImages (2D sprite/character animation system)",
+    "company": "Roblox",
+    "tier": "Announced only",
+    "first_seen": "2026-10-29",
+    "release_date": "2026-10-27",
+    "summary": "Roblox opened an Early Access Program for AnimatedImages, a frame-based 2D animation system (AnimatedImage asset type, Aseprite import, AnimationPlayer, AnimatedImageService), limited to selected creators in Studio only; \"you cannot publish places with these features yet.\""
   }
 }
