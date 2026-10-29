@@ -1,0 +1,626 @@
+{
+  "as_of": "2026-10-29",
+  "cutoff": "2026-10-22",
+  "window_days": 7,
+  "summary": {
+    "input_items": 17,
+    "denied_source": 0,
+    "in_window": 17,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 17,
+    "duplicate_clusters": 0,
+    "section1_count": 10,
+    "section2_count": 7,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": true,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 9,
+    "previously_covered_count": 8
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Epic Games公布「2026 Epic AI MegaJam」游戏创作大赛,联合Anthropic、OpenAI、谷歌等共6.5万美元奖金",
+        "url": "https://www.invenglobal.com/articles/27578/epic-games-announces-2026-epic-ai-megajam-with-up-to-50000-in-grants",
+        "date": "2026-10-22",
+        "summary": "Epic Games于10月22日通过Unreal Engine官方渠道宣布「2026 Epic AI MegaJam」,这是一场鼓励使用AI工具开发游戏的四天创作大赛,将于11月12日至15日举行,奖金池最高达6.5万美元。",
+        "section": 1,
+        "facts": [
+          "2026年10月22日,Unreal Engine官方X账号以「Vibe your way to 50K」为口号宣布2026 Epic AI MegaJam,详情同步发布于Unreal Engine官网及itch.io报名页。",
+          "比赛为期四天(11月12日至15日),参赛者需使用Unreal Engine或Unreal Editor for Fortnite(UEFN)制作可玩游戏。",
+          "每支队伍最多5名人类成员,外加「无限数量」的AI代理;参赛者可使用从资产生成到编程代理的任意AI工具,官方明确AI使用为可选而非强制。",
+          "主奖项分三类:Unreal Engine最佳整体作品、UEFN最佳整体作品、最佳学生项目,各类别第一名7500美元、第二名5000美元、第三名2500美元。",
+          "表现突出的Unreal Engine与UEFN作品可获最高5万美元「开发延续资助」,用于赛后继续开发。",
+          "修饰奖项包括最佳团队(5000美元),以及最佳个人开发者作品、最佳视觉效果、最佳移动游戏、最佳展示AI工具使用的开发日志、最佳使用LLM驱动角色的UEFN叙事游戏(各2500美元)。",
+          "活动支持线上参与、本地开发者社区参与,以及旧金山Digital Jungle线下场地(11月14日至15日);Epic表示Anthropic、谷歌、Meshy、OpenAI及SpaceXSI等公司团队将一同参赛,部分AI合作伙伴将为参赛者提供工具使用额度。",
+          "线下名额将于11月1日太平洋时间7点开放报名,名额有限;开幕直播定于11月11日在Twitch、YouTube、X同步进行并公布主题。"
+        ],
+        "background": "此次比赛是在Epic Games今年持续推进「AI优先」开发战略的背景下举办的:据此前报道,Epic CEO Tim Sweeney于10月12日宣布公司将重新分配人力以加速采用AI开发,并于10月14日发布了由AI「vibe coding」构建的新版Epic Games Store启动器(称启动速度比Steam快46%);Epic此前已在Unreal Engine 5.8中引入实验性插件允许接入大语言模型,并计划在Unreal Engine 6中集成Claude、Gemini等模型。",
+        "results": "公告发布后,部分媒体与玩家对比赛的AI门槛提出批评,Rock Paper Shotgun将其形容为「奖励无人问津的AI vibe-coded slop游戏的现金」;截至发稿,线下场地报名尚未开放(定于11月1日开始),完整赛程与结果将在11月15日赛事结束后揭晓。"
+      },
+      "members": [
+        {
+          "title": "Epic Games公布「2026 Epic AI MegaJam」游戏创作大赛,联合Anthropic、OpenAI、谷歌等共6.5万美元奖金",
+          "url": "https://www.invenglobal.com/articles/27578/epic-games-announces-2026-epic-ai-megajam-with-up-to-50000-in-grants",
+          "date": "2026-10-22",
+          "summary": "Epic Games于10月22日通过Unreal Engine官方渠道宣布「2026 Epic AI MegaJam」,这是一场鼓励使用AI工具开发游戏的四天创作大赛,将于11月12日至15日举行,奖金池最高达6.5万美元。",
+          "section": 1,
+          "facts": [
+            "2026年10月22日,Unreal Engine官方X账号以「Vibe your way to 50K」为口号宣布2026 Epic AI MegaJam,详情同步发布于Unreal Engine官网及itch.io报名页。",
+            "比赛为期四天(11月12日至15日),参赛者需使用Unreal Engine或Unreal Editor for Fortnite(UEFN)制作可玩游戏。",
+            "每支队伍最多5名人类成员,外加「无限数量」的AI代理;参赛者可使用从资产生成到编程代理的任意AI工具,官方明确AI使用为可选而非强制。",
+            "主奖项分三类:Unreal Engine最佳整体作品、UEFN最佳整体作品、最佳学生项目,各类别第一名7500美元、第二名5000美元、第三名2500美元。",
+            "表现突出的Unreal Engine与UEFN作品可获最高5万美元「开发延续资助」,用于赛后继续开发。",
+            "修饰奖项包括最佳团队(5000美元),以及最佳个人开发者作品、最佳视觉效果、最佳移动游戏、最佳展示AI工具使用的开发日志、最佳使用LLM驱动角色的UEFN叙事游戏(各2500美元)。",
+            "活动支持线上参与、本地开发者社区参与,以及旧金山Digital Jungle线下场地(11月14日至15日);Epic表示Anthropic、谷歌、Meshy、OpenAI及SpaceXSI等公司团队将一同参赛,部分AI合作伙伴将为参赛者提供工具使用额度。",
+            "线下名额将于11月1日太平洋时间7点开放报名,名额有限;开幕直播定于11月11日在Twitch、YouTube、X同步进行并公布主题。"
+          ],
+          "background": "此次比赛是在Epic Games今年持续推进「AI优先」开发战略的背景下举办的:据此前报道,Epic CEO Tim Sweeney于10月12日宣布公司将重新分配人力以加速采用AI开发,并于10月14日发布了由AI「vibe coding」构建的新版Epic Games Store启动器(称启动速度比Steam快46%);Epic此前已在Unreal Engine 5.8中引入实验性插件允许接入大语言模型,并计划在Unreal Engine 6中集成Claude、Gemini等模型。",
+          "results": "公告发布后,部分媒体与玩家对比赛的AI门槛提出批评,Rock Paper Shotgun将其形容为「奖励无人问津的AI vibe-coded slop游戏的现金」;截至发稿,线下场地报名尚未开放(定于11月1日开始),完整赛程与结果将在11月15日赛事结束后揭晓。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Valve在Steam Indie Connect活动上回应AI「仿制游戏」勒索与「AI垃圾内容」担忧,拒绝为AI工具设门槛",
+        "url": "https://www.invenglobal.com/articles/27761/valve-responds-directly-to-developers-fearful-of-ai-slop-and-game-cloning",
+        "date": "2026-10-27",
+        "summary": "10月27日,Valve在韩国举办的Steam Indie Connect开发者交流活动上,就开发者反映的AI克隆勒索、AI生成内容泛滥等问题公开表态,称不会充当「看门人」限制开发者使用的工具,也未宣布任何新的AI审查机制。",
+        "section": 1,
+        "facts": [
+          "2026年10月27日,Valve与釜山独立游戏节(BIC)组委会、韩国内容振兴院(KOCCA)在韩国共同举办「Steam Indie Connect」开发者交流活动。",
+          "Valve Steam商务团队成员Tom Giardino与Marc Wilkinson出席问答环节,回应韩国开发者的提问。",
+          "多名开发者反映近期收到勒索邮件,威胁「如果不付款,将用AI克隆你的游戏并抢先发布」;Giardino称这是他首次听说此类具体案例,认为敲诈勒索更多属于执法范畴,但Valve愿意调查开发者举报的案例并提供帮助。",
+          "关于AI工具使用,Giardino明确表示:「我们不想充当看门人,去告诉开发者应该或不应该使用哪些工具」,是否使用AI由开发者自行决定。",
+          "关于「仿制游戏」问题,Valve建议开发者持续更新、构建社区与独特风格,而非依赖容易被复制的单一机制,认为正版应当成为「最好的版本」。",
+          "Wilkinson承认Steam Next Fest前两天采用随机曝光机制以保证公平,但这意味着「部分低质量游戏会被曝光」,Valve「完全意识到」这一问题,且有「相当多的人」正在研究解决方案(次日VGC报道确认了这一说法)。",
+          "Giardino回顾称,开发者在14年前Steam Greenlight上线、以及后来Steam Direct上线时都曾要求设置过滤器,但Valve的目标始终是让优质游戏浮现而非过滤劣质游戏,并称「我们不认为自己是完美的,还有很大改进空间」。"
+        ],
+        "background": "此次活动是在Steam平台AI生成内容游戏数量快速增长(据统计,一年内披露使用生成式AI的Steam游戏数量增长近800%,达近8000款)、以及自2026年9月末以来多名独立开发者收到AI克隆勒索邮件的背景下举行的;Valve此前已在今年早些时候修改Steam的AI披露政策,收窄披露范围至玩家可感知的AI生成内容,豁免了幕后使用的开发工具。",
+        "results": "Valve未在此次活动上宣布任何新的AI工具审查机制或仿制游戏检测机制;次日(10月28日)Video Games Chronicle援引Inven Global详细报道了此次活动内容,进一步扩大了Valve表态的媒体关注度,并间接引发Epic Games CEO Tim Sweeney在随后几日对Steam AI披露政策的公开批评。"
+      },
+      "members": [
+        {
+          "title": "Valve在Steam Indie Connect活动上回应AI「仿制游戏」勒索与「AI垃圾内容」担忧,拒绝为AI工具设门槛",
+          "url": "https://www.invenglobal.com/articles/27761/valve-responds-directly-to-developers-fearful-of-ai-slop-and-game-cloning",
+          "date": "2026-10-27",
+          "summary": "10月27日,Valve在韩国举办的Steam Indie Connect开发者交流活动上,就开发者反映的AI克隆勒索、AI生成内容泛滥等问题公开表态,称不会充当「看门人」限制开发者使用的工具,也未宣布任何新的AI审查机制。",
+          "section": 1,
+          "facts": [
+            "2026年10月27日,Valve与釜山独立游戏节(BIC)组委会、韩国内容振兴院(KOCCA)在韩国共同举办「Steam Indie Connect」开发者交流活动。",
+            "Valve Steam商务团队成员Tom Giardino与Marc Wilkinson出席问答环节,回应韩国开发者的提问。",
+            "多名开发者反映近期收到勒索邮件,威胁「如果不付款,将用AI克隆你的游戏并抢先发布」;Giardino称这是他首次听说此类具体案例,认为敲诈勒索更多属于执法范畴,但Valve愿意调查开发者举报的案例并提供帮助。",
+            "关于AI工具使用,Giardino明确表示:「我们不想充当看门人,去告诉开发者应该或不应该使用哪些工具」,是否使用AI由开发者自行决定。",
+            "关于「仿制游戏」问题,Valve建议开发者持续更新、构建社区与独特风格,而非依赖容易被复制的单一机制,认为正版应当成为「最好的版本」。",
+            "Wilkinson承认Steam Next Fest前两天采用随机曝光机制以保证公平,但这意味着「部分低质量游戏会被曝光」,Valve「完全意识到」这一问题,且有「相当多的人」正在研究解决方案(次日VGC报道确认了这一说法)。",
+            "Giardino回顾称,开发者在14年前Steam Greenlight上线、以及后来Steam Direct上线时都曾要求设置过滤器,但Valve的目标始终是让优质游戏浮现而非过滤劣质游戏,并称「我们不认为自己是完美的,还有很大改进空间」。"
+          ],
+          "background": "此次活动是在Steam平台AI生成内容游戏数量快速增长(据统计,一年内披露使用生成式AI的Steam游戏数量增长近800%,达近8000款)、以及自2026年9月末以来多名独立开发者收到AI克隆勒索邮件的背景下举行的;Valve此前已在今年早些时候修改Steam的AI披露政策,收窄披露范围至玩家可感知的AI生成内容,豁免了幕后使用的开发工具。",
+          "results": "Valve未在此次活动上宣布任何新的AI工具审查机制或仿制游戏检测机制;次日(10月28日)Video Games Chronicle援引Inven Global详细报道了此次活动内容,进一步扩大了Valve表态的媒体关注度,并间接引发Epic Games CEO Tim Sweeney在随后几日对Steam AI披露政策的公开批评。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "微软与Epic Games对AI「反编译」移植版游戏发起大量DMCA投诉,Tim Sweeney回应「AI是窃取」指控",
+        "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+        "date": "2026-10-27",
+        "summary": "Kotaku报道称,借助AI编程工具,游戏反编译与浏览器移植变得空前容易,微软与Epic Games近期对多个AI辅助制作的《堡垒之夜》《我的世界》《使命召唤》等浏览器移植版发起DMCA投诉,引发「双重标准」质疑;Epic CEO Tim Sweeney于10月27日发文回应。",
+        "section": 1,
+        "facts": [
+          "借助AI编程工具(文章提及Anthropic的Claude Opus 5.5),反编译与「重新编译」游戏变得更快更便宜,大量AI「vibe coded」的浏览器移植版与PC重制版在网络上泛滥,催生大量DMCA删除通知;包括《Slay the Spire 2》《Celeste》《RimWorld》等并未使用生成式AI的独立游戏,其代码也在未获开发者同意的情况下被开源并出现在GitHub的DMCA记录中。",
+          "Epic Games于10月10日对一个AI「vibe coded」的浏览器版《堡垒之夜》移植版发起DMCA投诉;据一名用户反映,Epic还举报了大量展示该移植版的帖子。",
+          "微软在过去一个月内对《我的世界》《使命召唤》《光环》的浏览器移植版发起多次DMCA投诉,文章统计至少有6个《使命召唤》移植版因此被下架。",
+          "Epic的服务条款禁止用户将其内容用作生成式AI的训练输入。",
+          "文章指出讽刺之处:Epic于10月14日发布的新版Epic Games Store启动器被批评为大量使用AI「vibe coding」构建;据彭博社10月12日报道,Epic与迪士尼合作、「AI优先」开发的漫威/星球大战射击游戏将使用Anthropic的Claude开发,而Anthropic在2025年曾因使用BitTorrent来源数据训练模型支付15亿美元赔偿(但未被要求重新训练模型)。",
+          "微软每年向AI数据中心投入约800亿美元;动视暴雪已承认在《黑色行动6》与《黑色行动7》中使用AI生成美术素材。",
+          "Xbox CEO Asha Sharma在10月13日的Xbox Labs公告中表示微软「致力于成为知识产权的负责任管理者」;文章援引微软一名产品经理2026年曾建议用《哈利·波特》原著训练大语言模型(该建议后被撤回)作为反例,并引用《纽约时报》诉微软与OpenAI版权案证据披露中微软员工Brent Hecht将大规模抓取训练数据形容为「令人震惊的盗窃」的内部言论。"
+        ],
+        "background": "争议源于AI编程/反编译工具近期的快速进步,使独立开发者几乎无力对抗拥有法律资源的大公司对其开源代码提起的DMCA投诉,而大公司自身的AI产品训练数据来源(如经抓取盗版网站数据训练的图像与语言模型)也面临类似指控,形成被舆论称为「双重标准」的局面。",
+        "results": "Epic CEO Tim Sweeney于10月27日在X上回应称文章「混淆了多个不同问题」,强调Epic不允许未经授权使用《堡垒之夜》IP;他确认Epic的最终用户许可协议目前限制用Unreal Engine与MetaHuman的输出训练AI模型,并表示公司正着手从条款中移除这一限制。他还就Anthropic的法律灰色地带作出说明,称法院认定Anthropic因torrent下载盗版内容承担侵权责任,但训练行为本身被判定属合理使用,其他法院对AI输出是否侵权的判断则取决于其与原作品的相似度;Kotaku表示已通过Epic公关团队联系Sweeney寻求进一步评论。"
+      },
+      "members": [
+        {
+          "title": "微软与Epic Games对AI「反编译」移植版游戏发起大量DMCA投诉,Tim Sweeney回应「AI是窃取」指控",
+          "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+          "date": "2026-10-27",
+          "summary": "Kotaku报道称,借助AI编程工具,游戏反编译与浏览器移植变得空前容易,微软与Epic Games近期对多个AI辅助制作的《堡垒之夜》《我的世界》《使命召唤》等浏览器移植版发起DMCA投诉,引发「双重标准」质疑;Epic CEO Tim Sweeney于10月27日发文回应。",
+          "section": 1,
+          "facts": [
+            "借助AI编程工具(文章提及Anthropic的Claude Opus 5.5),反编译与「重新编译」游戏变得更快更便宜,大量AI「vibe coded」的浏览器移植版与PC重制版在网络上泛滥,催生大量DMCA删除通知;包括《Slay the Spire 2》《Celeste》《RimWorld》等并未使用生成式AI的独立游戏,其代码也在未获开发者同意的情况下被开源并出现在GitHub的DMCA记录中。",
+            "Epic Games于10月10日对一个AI「vibe coded」的浏览器版《堡垒之夜》移植版发起DMCA投诉;据一名用户反映,Epic还举报了大量展示该移植版的帖子。",
+            "微软在过去一个月内对《我的世界》《使命召唤》《光环》的浏览器移植版发起多次DMCA投诉,文章统计至少有6个《使命召唤》移植版因此被下架。",
+            "Epic的服务条款禁止用户将其内容用作生成式AI的训练输入。",
+            "文章指出讽刺之处:Epic于10月14日发布的新版Epic Games Store启动器被批评为大量使用AI「vibe coding」构建;据彭博社10月12日报道,Epic与迪士尼合作、「AI优先」开发的漫威/星球大战射击游戏将使用Anthropic的Claude开发,而Anthropic在2025年曾因使用BitTorrent来源数据训练模型支付15亿美元赔偿(但未被要求重新训练模型)。",
+            "微软每年向AI数据中心投入约800亿美元;动视暴雪已承认在《黑色行动6》与《黑色行动7》中使用AI生成美术素材。",
+            "Xbox CEO Asha Sharma在10月13日的Xbox Labs公告中表示微软「致力于成为知识产权的负责任管理者」;文章援引微软一名产品经理2026年曾建议用《哈利·波特》原著训练大语言模型(该建议后被撤回)作为反例,并引用《纽约时报》诉微软与OpenAI版权案证据披露中微软员工Brent Hecht将大规模抓取训练数据形容为「令人震惊的盗窃」的内部言论。"
+          ],
+          "background": "争议源于AI编程/反编译工具近期的快速进步,使独立开发者几乎无力对抗拥有法律资源的大公司对其开源代码提起的DMCA投诉,而大公司自身的AI产品训练数据来源(如经抓取盗版网站数据训练的图像与语言模型)也面临类似指控,形成被舆论称为「双重标准」的局面。",
+          "results": "Epic CEO Tim Sweeney于10月27日在X上回应称文章「混淆了多个不同问题」,强调Epic不允许未经授权使用《堡垒之夜》IP;他确认Epic的最终用户许可协议目前限制用Unreal Engine与MetaHuman的输出训练AI模型,并表示公司正着手从条款中移除这一限制。他还就Anthropic的法律灰色地带作出说明,称法院认定Anthropic因torrent下载盗版内容承担侵权责任,但训练行为本身被判定属合理使用,其他法院对AI输出是否侵权的判断则取决于其与原作品的相似度;Kotaku表示已通过Epic公关团队联系Sweeney寻求进一步评论。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Epic CEO Tim Sweeney炮轰Steam的AI披露要求「令人憎恶」,称是一种「政治表态」",
+        "url": "https://kotaku.com/epic-steam-valve-tim-sweeney-gen-ai-declaration-political-abhorrent-2000749706",
+        "date": "2026-10-26",
+        "summary": "10月23日,Epic Games CEO Tim Sweeney在X上发文,称Steam强制开发者披露游戏中AI使用情况「令人憎恶」,是在强迫开发者写「政治声明」,并认为这会带来实际经济代价;Kotaku于10月26日对此作出报道。",
+        "section": 1,
+        "facts": [
+          "10月23日,Tim Sweeney在X上发帖称Steam强制开发者披露AI使用情况,是在「强迫开发者写一份政治声明」,并称这种做法「令人憎恶」(abhorrent)。",
+          "Sweeney表示Valve此举存在「实际的经济代价」,认为AI披露标签可能被用来发起针对开发者的抵制运动,从而损害其收入。",
+          "对于有人指出Epic旗下的资产商店Fab同样要求披露AI使用情况,Sweeney回应称Fab是「一个企业对企业的市场」,买家需要知道内容来源,这与Steam面向普通消费者的政策「不同」。",
+          "据报道,Steam的AI披露政策今年已有所放宽:目前不再要求披露代码中使用的AI,仅要求披露用于资产制作、配音、翻译等用途的生成式AI;披露信息以小字显示在商店页面下方,与内容警告并列。",
+          "开发者Matt Workman发帖称「2026年还要求AI披露的前提本身就很荒谬」,认为这让Valve和Steam很难看,Sweeney对此回复表示赞同。"
+        ],
+        "background": "此番言论发生在Valve于10月27日Steam Indie Connect活动上为其AI工具「不设门槛」政策进行辩护的前后,显示出Epic与Valve在生成式AI商店政策上的公开分歧,也延续了此前Epic被曝「AI优先」转型、以及微软与Epic因AI反编译移植版发起DMCA投诉引发「双重标准」质疑的背景。",
+        "results": "报道中Valve并未对Sweeney的言论作出直接公开回应;部分评论者(包括Kotaku作者)认为Sweeney的批评带有政治色彩,实质是对AI使用本身的道德反对,并指出Epic Games Store长期以来难以与Steam竞争。"
+      },
+      "members": [
+        {
+          "title": "Epic CEO Tim Sweeney炮轰Steam的AI披露要求「令人憎恶」,称是一种「政治表态」",
+          "url": "https://kotaku.com/epic-steam-valve-tim-sweeney-gen-ai-declaration-political-abhorrent-2000749706",
+          "date": "2026-10-26",
+          "summary": "10月23日,Epic Games CEO Tim Sweeney在X上发文,称Steam强制开发者披露游戏中AI使用情况「令人憎恶」,是在强迫开发者写「政治声明」,并认为这会带来实际经济代价;Kotaku于10月26日对此作出报道。",
+          "section": 1,
+          "facts": [
+            "10月23日,Tim Sweeney在X上发帖称Steam强制开发者披露AI使用情况,是在「强迫开发者写一份政治声明」,并称这种做法「令人憎恶」(abhorrent)。",
+            "Sweeney表示Valve此举存在「实际的经济代价」,认为AI披露标签可能被用来发起针对开发者的抵制运动,从而损害其收入。",
+            "对于有人指出Epic旗下的资产商店Fab同样要求披露AI使用情况,Sweeney回应称Fab是「一个企业对企业的市场」,买家需要知道内容来源,这与Steam面向普通消费者的政策「不同」。",
+            "据报道,Steam的AI披露政策今年已有所放宽:目前不再要求披露代码中使用的AI,仅要求披露用于资产制作、配音、翻译等用途的生成式AI;披露信息以小字显示在商店页面下方,与内容警告并列。",
+            "开发者Matt Workman发帖称「2026年还要求AI披露的前提本身就很荒谬」,认为这让Valve和Steam很难看,Sweeney对此回复表示赞同。"
+          ],
+          "background": "此番言论发生在Valve于10月27日Steam Indie Connect活动上为其AI工具「不设门槛」政策进行辩护的前后,显示出Epic与Valve在生成式AI商店政策上的公开分歧,也延续了此前Epic被曝「AI优先」转型、以及微软与Epic因AI反编译移植版发起DMCA投诉引发「双重标准」质疑的背景。",
+          "results": "报道中Valve并未对Sweeney的言论作出直接公开回应;部分评论者(包括Kotaku作者)认为Sweeney的批评带有政治色彩,实质是对AI使用本身的道德反对,并指出Epic Games Store长期以来难以与Steam竞争。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "NVIDIA发布RTX Remix 1.6,为《我的世界》与《传送门》带来DLSS神经渲染与ComfyUI 2.0集成",
+        "url": "https://www.nvidia.com/en-us/geforce/news/remix-1-6-dlss-5-comfyui-2-0-minecraft-rtx-beta/",
+        "date": "2026-10-28",
+        "summary": "NVIDIA于10月28日发布RTX Remix 1.6,为旗下经典游戏路径追踪重制模组平台新增「3D引导神经渲染」、最高6倍多帧生成等AI渲染功能,并集成ComfyUI 2.0工作流用于AI资产生成,同步推出《我的世界》RTX测试版及《传送门RTX》《半条命2 RTX》更新。",
+        "section": 1,
+        "facts": [
+          "NVIDIA于2026年10月28日发布RTX Remix 1.6,这是其用于为经典PC游戏加入路径追踪重制功能的模组平台最新版本,同步推出三项内容:《我的世界:Java版》RTX Remix测试版、《传送门RTX》更新与《半条命2 RTX》演示更新。",
+          "新增「DLSS 3D引导神经渲染」技术,利用实时AI增强渲染帧中的光照与材质表现,模组制作者可逐场景应用;NVIDIA以模组作者Sparkles/Kim2091制作的《辐射4 RTX》项目为例,启用该技术后头盔反射、颈部阴影与服装细节均有提升。",
+          "多帧生成(Multi Frame Generation)倍数提升至最高6倍;新增DLSS帧生成性能模式(Preset C)测试版,可通过Alt+X开发者图形设置菜单启用。",
+          "集成ComfyUI 2.0工作流,取代旧版工具,用于生成纹理与网格资产,新增更清晰的工作流命名、描述与类型筛选,并可逐项设置生成资产是替换还是追加现有文件。",
+          "其他新增内容包括原生ARM支持、RTX Spark设备支持、稀疏渲染(Sparse Rendering)、空间哈希辐照度缓存(SHaRC)技术,以及改善曲面与低多边形表面锯齿阴影的阴影终止优化。",
+          "《我的世界》RTX Remix测试版基于Java版1.21.1,开源提供,配有Blockworks制作的示例世界与NVIDIA Lightspeed Studios制作的高分辨率PBR材质资源包;支持RTX动态光照(同时处理数千个投影光源)与RTX全局光照(阳光与月光反射进洞穴、建筑内最多四次反弹并拾取表面颜色)。",
+          "该测试版要求GeForce RTX 30系列及以上显卡,驱动版本616.92 WHQL或更高(RTX Spark设备需621.01 WHQL或更高),并需拥有与微软账户绑定的《我的世界》Java版。",
+          "《传送门RTX》与《半条命2 RTX》演示同步获得DLSS 3D引导神经渲染、最高6倍多帧生成与Preset C测试版,并新增对RTX Spark设备的原生支持。"
+        ],
+        "background": "RTX Remix是NVIDIA面向模组社区推出的免费工具,旨在让开发者和爱好者为经典游戏加入路径追踪与AI驱动的渐进式画面增强功能,此次更新延续了NVIDIA在DLSS系列技术上持续引入神经网络渲染能力、并降低AI内容生成门槛(如集成ComfyUI)的产品路线。",
+        "results": "模组制作者可通过NVIDIA App或GitHub上的RTXRemixThinInstaller安装程序获取RTX Remix 1.6,现有模组需等待作者发布官方更新以确保兼容性与画质;《我的世界》RTX Remix测试版、《传送门RTX》与《半条命2 RTX》更新已可供玩家下载体验。"
+      },
+      "members": [
+        {
+          "title": "NVIDIA发布RTX Remix 1.6,为《我的世界》与《传送门》带来DLSS神经渲染与ComfyUI 2.0集成",
+          "url": "https://www.nvidia.com/en-us/geforce/news/remix-1-6-dlss-5-comfyui-2-0-minecraft-rtx-beta/",
+          "date": "2026-10-28",
+          "summary": "NVIDIA于10月28日发布RTX Remix 1.6,为旗下经典游戏路径追踪重制模组平台新增「3D引导神经渲染」、最高6倍多帧生成等AI渲染功能,并集成ComfyUI 2.0工作流用于AI资产生成,同步推出《我的世界》RTX测试版及《传送门RTX》《半条命2 RTX》更新。",
+          "section": 1,
+          "facts": [
+            "NVIDIA于2026年10月28日发布RTX Remix 1.6,这是其用于为经典PC游戏加入路径追踪重制功能的模组平台最新版本,同步推出三项内容:《我的世界:Java版》RTX Remix测试版、《传送门RTX》更新与《半条命2 RTX》演示更新。",
+            "新增「DLSS 3D引导神经渲染」技术,利用实时AI增强渲染帧中的光照与材质表现,模组制作者可逐场景应用;NVIDIA以模组作者Sparkles/Kim2091制作的《辐射4 RTX》项目为例,启用该技术后头盔反射、颈部阴影与服装细节均有提升。",
+            "多帧生成(Multi Frame Generation)倍数提升至最高6倍;新增DLSS帧生成性能模式(Preset C)测试版,可通过Alt+X开发者图形设置菜单启用。",
+            "集成ComfyUI 2.0工作流,取代旧版工具,用于生成纹理与网格资产,新增更清晰的工作流命名、描述与类型筛选,并可逐项设置生成资产是替换还是追加现有文件。",
+            "其他新增内容包括原生ARM支持、RTX Spark设备支持、稀疏渲染(Sparse Rendering)、空间哈希辐照度缓存(SHaRC)技术,以及改善曲面与低多边形表面锯齿阴影的阴影终止优化。",
+            "《我的世界》RTX Remix测试版基于Java版1.21.1,开源提供,配有Blockworks制作的示例世界与NVIDIA Lightspeed Studios制作的高分辨率PBR材质资源包;支持RTX动态光照(同时处理数千个投影光源)与RTX全局光照(阳光与月光反射进洞穴、建筑内最多四次反弹并拾取表面颜色)。",
+            "该测试版要求GeForce RTX 30系列及以上显卡,驱动版本616.92 WHQL或更高(RTX Spark设备需621.01 WHQL或更高),并需拥有与微软账户绑定的《我的世界》Java版。",
+            "《传送门RTX》与《半条命2 RTX》演示同步获得DLSS 3D引导神经渲染、最高6倍多帧生成与Preset C测试版,并新增对RTX Spark设备的原生支持。"
+          ],
+          "background": "RTX Remix是NVIDIA面向模组社区推出的免费工具,旨在让开发者和爱好者为经典游戏加入路径追踪与AI驱动的渐进式画面增强功能,此次更新延续了NVIDIA在DLSS系列技术上持续引入神经网络渲染能力、并降低AI内容生成门槛(如集成ComfyUI)的产品路线。",
+          "results": "模组制作者可通过NVIDIA App或GitHub上的RTXRemixThinInstaller安装程序获取RTX Remix 1.6,现有模组需等待作者发布官方更新以确保兼容性与画质;《我的世界》RTX Remix测试版、《传送门RTX》与《半条命2 RTX》更新已可供玩家下载体验。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《全面战争:幕府将军2完整版》AI放大美术素材引争议,世嘉将其下架,Creative Assembly致歉并展开调查",
+        "url": "https://kotaku.com/total-war-shogun-2-complete-edition-ai-creative-assembly-mataboo-2000749108",
+        "date": "2026-10-23",
+        "summary": "《全面战争:幕府将军2》的「完整版」重制版上线后画面与性能表现不佳,玩家还发现部分原版百科全书插图经过AI放大处理,世嘉随后将该版本下架;Creative Assembly副总裁10月23日在论坛道歉,称公司放松了对外部开发商的监督,事件正在调查中。",
+        "section": 1,
+        "facts": [
+          "《全面战争:幕府将军2》的「完整版」重制上线后画面与性能表现不佳,玩家在Steam评论区大量批评,世嘉(Sega)随后将该版本从商店下架。",
+          "玩家发现游戏中部分原版百科全书插图是经AI放大(upscale)处理的;据报道,该重制版的开发工作由波兰开发商Mataboo负责。",
+          "Creative Assembly副总裁Roger Collum在工作室论坛发帖回应,称重制版「没有达到应有水准」,公司对此「感到愤怒和失望」。",
+          "Collum表示Creative Assembly本身不使用生成式AI制作游戏资产,也要求外部开发商遵守同样标准,目前事件正在调查中;他说公司内部会使用AI进行分析、调试与原型设计,但不会用它取代创作者。",
+          "Collum强调「这并非由Creative Assembly自主开发的游戏」,称公司「放松了对外部开发工作的监督」,该重制版未经过公司内部的常规评审与质量保证流程;但他也承认无论合作安排如何,该系列仍冠以Creative Assembly之名。",
+          "Creative Assembly表示一个精简的高级团队正与世嘉及外部开发商协作处理此事;截至Kotaku发稿时,世嘉与Creative Assembly均未回应相关提问。"
+        ],
+        "background": "该事件发生在Steam平台上AI生成/处理内容游戏数量及相关玩家反感情绪持续上升的背景下,此前已有多起知名厂商因未披露AI生成美术内容而道歉的案例,显示出大型发行商在外包开发与AI使用透明度管理上的漏洞正被放大审视。",
+        "results": "游戏已从Steam商店下架,相关问题正由Creative Assembly与世嘉联合调查;报道指出此次事件的矛盾在于Collum一方面承担责任,另一方面又将问题归咎于外部开发商,同时也引发了「为何世嘉和Creative Assembly都未在上线前审核该版本」的质疑。"
+      },
+      "members": [
+        {
+          "title": "《全面战争:幕府将军2完整版》AI放大美术素材引争议,世嘉将其下架,Creative Assembly致歉并展开调查",
+          "url": "https://kotaku.com/total-war-shogun-2-complete-edition-ai-creative-assembly-mataboo-2000749108",
+          "date": "2026-10-23",
+          "summary": "《全面战争:幕府将军2》的「完整版」重制版上线后画面与性能表现不佳,玩家还发现部分原版百科全书插图经过AI放大处理,世嘉随后将该版本下架;Creative Assembly副总裁10月23日在论坛道歉,称公司放松了对外部开发商的监督,事件正在调查中。",
+          "section": 1,
+          "facts": [
+            "《全面战争:幕府将军2》的「完整版」重制上线后画面与性能表现不佳,玩家在Steam评论区大量批评,世嘉(Sega)随后将该版本从商店下架。",
+            "玩家发现游戏中部分原版百科全书插图是经AI放大(upscale)处理的;据报道,该重制版的开发工作由波兰开发商Mataboo负责。",
+            "Creative Assembly副总裁Roger Collum在工作室论坛发帖回应,称重制版「没有达到应有水准」,公司对此「感到愤怒和失望」。",
+            "Collum表示Creative Assembly本身不使用生成式AI制作游戏资产,也要求外部开发商遵守同样标准,目前事件正在调查中;他说公司内部会使用AI进行分析、调试与原型设计,但不会用它取代创作者。",
+            "Collum强调「这并非由Creative Assembly自主开发的游戏」,称公司「放松了对外部开发工作的监督」,该重制版未经过公司内部的常规评审与质量保证流程;但他也承认无论合作安排如何,该系列仍冠以Creative Assembly之名。",
+            "Creative Assembly表示一个精简的高级团队正与世嘉及外部开发商协作处理此事;截至Kotaku发稿时,世嘉与Creative Assembly均未回应相关提问。"
+          ],
+          "background": "该事件发生在Steam平台上AI生成/处理内容游戏数量及相关玩家反感情绪持续上升的背景下,此前已有多起知名厂商因未披露AI生成美术内容而道歉的案例,显示出大型发行商在外包开发与AI使用透明度管理上的漏洞正被放大审视。",
+          "results": "游戏已从Steam商店下架,相关问题正由Creative Assembly与世嘉联合调查;报道指出此次事件的矛盾在于Collum一方面承担责任,另一方面又将问题归咎于外部开发商,同时也引发了「为何世嘉和Creative Assembly都未在上线前审核该版本」的质疑。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "据报道AI编程工具助推PS5主机破解热潮,黑客通过漏洞赏金计划获5万美元披露虚拟化层漏洞",
+        "url": "https://kotaku.com/ai-has-triggered-a-ps5-homebrew-gold-rush-but-its-also-the-reason-gta-6-cant-be-pirated-at-release-2000749776",
+        "date": "2026-10-26",
+        "summary": "Kotaku 10月26日报道称,随着索尼停止生产PS5实体光盘媒介,借助AI编程工具的PS5自制软件(homebrew)热潮兴起,黑客「2tonejordy」通过HackerOne向索尼披露了一个PS5虚拟化层(hypervisor)漏洞并获5万美元赏金;因披露时间早于《GTA 6》11月19日发行日期,文章称该漏洞不会被用于在《GTA 6》首发当天实现盗版,索尼未就此发表官方声明。",
+        "section": 2,
+        "facts": [],
+        "background": "",
+        "results": ""
+      },
+      "members": [
+        {
+          "title": "据报道AI编程工具助推PS5主机破解热潮,黑客通过漏洞赏金计划获5万美元披露虚拟化层漏洞",
+          "url": "https://kotaku.com/ai-has-triggered-a-ps5-homebrew-gold-rush-but-its-also-the-reason-gta-6-cant-be-pirated-at-release-2000749776",
+          "date": "2026-10-26",
+          "summary": "Kotaku 10月26日报道称,随着索尼停止生产PS5实体光盘媒介,借助AI编程工具的PS5自制软件(homebrew)热潮兴起,黑客「2tonejordy」通过HackerOne向索尼披露了一个PS5虚拟化层(hypervisor)漏洞并获5万美元赏金;因披露时间早于《GTA 6》11月19日发行日期,文章称该漏洞不会被用于在《GTA 6》首发当天实现盗版,索尼未就此发表官方声明。",
+          "section": 2,
+          "facts": [],
+          "background": "",
+          "results": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《极限脱出》系列编剧内藤浩公开支持AI,称若早用AI或可挽救被取消的新游戏",
+        "url": "https://kotaku.com/zero-escape-writer-is-pro-ai-believes-his-new-studios-game-wouldnt-have-been-canceled-if-hed-used-it-to-cut-costs-2000749911",
+        "date": "2026-10-27",
+        "summary": "Kotaku 10月27日报道,《极限脱出》系列与《百日战纪》编剧打越钢太郎在其新工作室Crash Keys一款未公开游戏因成本问题被取消后表示,他是「AI的支持者」,认为使用AI压缩开发时间与成本或许能避免该项目被取消。他认为中型工作室必须使用AI才能与借助AI低成本制作大型游戏的小团队竞争,并主张AI最适合在人类提出创意与故事后用于打磨细化工作。",
+        "section": 2,
+        "facts": [],
+        "background": "",
+        "results": ""
+      },
+      "members": [
+        {
+          "title": "《极限脱出》系列编剧内藤浩公开支持AI,称若早用AI或可挽救被取消的新游戏",
+          "url": "https://kotaku.com/zero-escape-writer-is-pro-ai-believes-his-new-studios-game-wouldnt-have-been-canceled-if-hed-used-it-to-cut-costs-2000749911",
+          "date": "2026-10-27",
+          "summary": "Kotaku 10月27日报道,《极限脱出》系列与《百日战纪》编剧打越钢太郎在其新工作室Crash Keys一款未公开游戏因成本问题被取消后表示,他是「AI的支持者」,认为使用AI压缩开发时间与成本或许能避免该项目被取消。他认为中型工作室必须使用AI才能与借助AI低成本制作大型游戏的小团队竞争,并主张AI最适合在人类提出创意与故事后用于打磨细化工作。",
+          "section": 2,
+          "facts": [],
+          "background": "",
+          "results": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "以「反AI」立场著称的政治游戏工作室Molleindustria承认新作使用AI配音与配乐,提供退款",
+        "url": "https://kotaku.com/developer-of-ecosocialist-game-future-no-thanks-offers-refunds-after-using-ai-despite-calling-it-technofascist-2000749158",
+        "date": "2026-10-23",
+        "summary": "Kotaku 10月23日报道,曾将生成式AI称为「技术法西斯主义、反人类反艺术项目」的独立开发者Paolo Pedercini(工作室Molleindustria)承认,其9月发行的生态社会主义题材游戏《Future? No Thanks!》使用了两段AI文本转语音配音与两段Suno制作的音乐,且未在发行时披露。Pedercini随后移除AI生成的配音与音乐,并通过PayPal与Venmo向感到被欺骗的购买者提供退款,同时表示下一部作品将完全手写代码完成。",
+        "section": 2,
+        "facts": [],
+        "background": "",
+        "results": ""
+      },
+      "members": [
+        {
+          "title": "以「反AI」立场著称的政治游戏工作室Molleindustria承认新作使用AI配音与配乐,提供退款",
+          "url": "https://kotaku.com/developer-of-ecosocialist-game-future-no-thanks-offers-refunds-after-using-ai-despite-calling-it-technofascist-2000749158",
+          "date": "2026-10-23",
+          "summary": "Kotaku 10月23日报道,曾将生成式AI称为「技术法西斯主义、反人类反艺术项目」的独立开发者Paolo Pedercini(工作室Molleindustria)承认,其9月发行的生态社会主义题材游戏《Future? No Thanks!》使用了两段AI文本转语音配音与两段Suno制作的音乐,且未在发行时披露。Pedercini随后移除AI生成的配音与音乐,并通过PayPal与Venmo向感到被欺骗的购买者提供退款,同时表示下一部作品将完全手写代码完成。",
+          "section": 2,
+          "facts": [],
+          "background": "",
+          "results": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "任天堂宫本茂获日本文化勋章表彰,谈AI与创作:「计算机只是辅助,设计仍是个人意图的体现」",
+        "url": "https://kotaku.com/shigeru-miyamoto-doesnt-know-if-ai-can-take-over-creativity-but-it-could-become-an-opportunity-to-define-what-it-means-to-create-2000749074",
+        "date": "2026-10-23",
+        "summary": "任天堂宫本茂在10月23日日本「文化日」获政府颁发文化功劳者表彰后的记者会上被问及对AI的看法,他表示不确定AI是否会取代创造性工作,但认为这是重新思考「创作」真正含义的机会,并将生成式AI比作文字处理器等此前的自动化工具。他强调「设计是个人想要做出某种东西的意图,计算机只是辅助完成这一设计」,并称「目前我相信人类仍有许多事情要做」。",
+        "section": 2,
+        "facts": [],
+        "background": "",
+        "results": ""
+      },
+      "members": [
+        {
+          "title": "任天堂宫本茂获日本文化勋章表彰,谈AI与创作:「计算机只是辅助,设计仍是个人意图的体现」",
+          "url": "https://kotaku.com/shigeru-miyamoto-doesnt-know-if-ai-can-take-over-creativity-but-it-could-become-an-opportunity-to-define-what-it-means-to-create-2000749074",
+          "date": "2026-10-23",
+          "summary": "任天堂宫本茂在10月23日日本「文化日」获政府颁发文化功劳者表彰后的记者会上被问及对AI的看法,他表示不确定AI是否会取代创造性工作,但认为这是重新思考「创作」真正含义的机会,并将生成式AI比作文字处理器等此前的自动化工具。他强调「设计是个人想要做出某种东西的意图,计算机只是辅助完成这一设计」,并称「目前我相信人类仍有许多事情要做」。",
+          "section": 2,
+          "facts": [],
+          "background": "",
+          "results": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "NVIDIA为《Phantom Blade Zero》带来DLSS 4.5光线重构技术,并为多款游戏推出DLSS更新",
+        "url": "https://www.nvidia.com/en-us/geforce/news/phantom-blade-zero-path-tracing-dlss-4-5-ray-reconstruction/",
+        "date": "2026-10-28",
+        "summary": "NVIDIA于10月28日宣布,由S-GAME开发的动作游戏《Phantom Blade Zero》上线即支持DLSS 4.5、光线追踪与路径追踪,启用路径追踪后自动开启DLSS光线重构(用单一神经网络模型取代传统手调降噪器)并支持最高6倍动态多帧生成,NVIDIA称2560×1440分辨率下RTX 50系列显卡平均帧率提升达7.8倍;同一公告中,《地铁2033:重制版》《地铁:最后的曙光:重制版》《黎明行者之血》《杀戮空间3》等游戏也同步获得DLSS 4.5相关更新。",
+        "section": 2,
+        "facts": [],
+        "background": "",
+        "results": ""
+      },
+      "members": [
+        {
+          "title": "NVIDIA为《Phantom Blade Zero》带来DLSS 4.5光线重构技术,并为多款游戏推出DLSS更新",
+          "url": "https://www.nvidia.com/en-us/geforce/news/phantom-blade-zero-path-tracing-dlss-4-5-ray-reconstruction/",
+          "date": "2026-10-28",
+          "summary": "NVIDIA于10月28日宣布,由S-GAME开发的动作游戏《Phantom Blade Zero》上线即支持DLSS 4.5、光线追踪与路径追踪,启用路径追踪后自动开启DLSS光线重构(用单一神经网络模型取代传统手调降噪器)并支持最高6倍动态多帧生成,NVIDIA称2560×1440分辨率下RTX 50系列显卡平均帧率提升达7.8倍;同一公告中,《地铁2033:重制版》《地铁:最后的曙光:重制版》《黎明行者之血》《杀戮空间3》等游戏也同步获得DLSS 4.5相关更新。",
+          "section": 2,
+          "facts": [],
+          "background": "",
+          "results": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "米哈游团队联合高校开源游戏操作AI模型GameScaling",
+        "url": "https://cn.technode.com/post/2026-10-23/mihoyo-gamescaling-open-source-game-ai",
+        "date": "2026-10-23",
+        "summary": "米哈游《崩坏》AI研发团队与清华大学、北京大学等高校研究人员合作，开源了游戏操作AI模型系列GameScaling，模型可观察游戏画面并直接生成键鼠操作指令，参数规模覆盖8亿到270亿，已在《我的世界》《毁灭战士》中完成资源采集、战斗等演示任务。",
+        "section": 1,
+        "facts": [
+          "米哈游《崩坏》AI研发团队与清华大学、北京大学等高校研究人员联合开源项目GameScaling，代码托管于GitHub仓库THUSI-Lab/GameScaling。",
+          "项目共发布8个模型权重，参数规模覆盖8亿（0.8B）到270亿（27B）。",
+          "该系列模型基于Qwen3.5视觉语言模型继续预训练得到。",
+          "模型的工作方式是综合当前游戏画面、最近几帧画面以及此前的操作记录，输出约200毫秒内的键盘和鼠标动作，再根据新出现的画面决定下一步操作，形成持续闭环控制，而不只是识别画面内容。",
+          "演示任务包括：在《我的世界》中采集资源、制作物品；在《毁灭战士》中进行移动和战斗。",
+          "开发者可下载全部模型权重，并使用配套的推理代码和示例程序，研究模型在不同游戏环境中的持续操作能力。"
+        ],
+        "background": "米哈游创始人兼CEO刘伟此前多次表态，希望公司在未来2至3年内进入国产大模型第一梯队，并提出未来三年AI投入上限最高可达1000亿元人民币。GameScaling是米哈游AI研发团队在\"让AI直接感知并操作游戏环境\"方向上的公开技术成果，区别于此前《星布谷地》等项目中聚焦对话生成的AI NPC，GameScaling让模型具备通过视觉感知直接输出键鼠操作指令、在游戏中自主行动的能力，这类技术路线通常被视为训练和评测通用游戏智能体（game-playing agent）的基础设施。",
+        "results": "该项目以开源形式发布了全部模型权重及配套推理代码，供全球开发者和研究者下载、复现，并在不同游戏环境中测试模型的持续操作能力，目前尚无进一步的官方商业化或产品化信息披露。报道由动点科技（TechNode中文站）于2026年10月23日发布确认。"
+      },
+      "members": [
+        {
+          "title": "米哈游团队联合高校开源游戏操作AI模型GameScaling",
+          "url": "https://cn.technode.com/post/2026-10-23/mihoyo-gamescaling-open-source-game-ai",
+          "date": "2026-10-23",
+          "summary": "米哈游《崩坏》AI研发团队与清华大学、北京大学等高校研究人员合作，开源了游戏操作AI模型系列GameScaling，模型可观察游戏画面并直接生成键鼠操作指令，参数规模覆盖8亿到270亿，已在《我的世界》《毁灭战士》中完成资源采集、战斗等演示任务。",
+          "section": 1,
+          "facts": [
+            "米哈游《崩坏》AI研发团队与清华大学、北京大学等高校研究人员联合开源项目GameScaling，代码托管于GitHub仓库THUSI-Lab/GameScaling。",
+            "项目共发布8个模型权重，参数规模覆盖8亿（0.8B）到270亿（27B）。",
+            "该系列模型基于Qwen3.5视觉语言模型继续预训练得到。",
+            "模型的工作方式是综合当前游戏画面、最近几帧画面以及此前的操作记录，输出约200毫秒内的键盘和鼠标动作，再根据新出现的画面决定下一步操作，形成持续闭环控制，而不只是识别画面内容。",
+            "演示任务包括：在《我的世界》中采集资源、制作物品；在《毁灭战士》中进行移动和战斗。",
+            "开发者可下载全部模型权重，并使用配套的推理代码和示例程序，研究模型在不同游戏环境中的持续操作能力。"
+          ],
+          "background": "米哈游创始人兼CEO刘伟此前多次表态，希望公司在未来2至3年内进入国产大模型第一梯队，并提出未来三年AI投入上限最高可达1000亿元人民币。GameScaling是米哈游AI研发团队在\"让AI直接感知并操作游戏环境\"方向上的公开技术成果，区别于此前《星布谷地》等项目中聚焦对话生成的AI NPC，GameScaling让模型具备通过视觉感知直接输出键鼠操作指令、在游戏中自主行动的能力，这类技术路线通常被视为训练和评测通用游戏智能体（game-playing agent）的基础设施。",
+          "results": "该项目以开源形式发布了全部模型权重及配套推理代码，供全球开发者和研究者下载、复现，并在不同游戏环境中测试模型的持续操作能力，目前尚无进一步的官方商业化或产品化信息披露。报道由动点科技（TechNode中文站）于2026年10月23日发布确认。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "腾讯AI游戏陪伴产品《鹅次元》开启“元气首测”",
+        "url": "https://news.17173.com/content/10222026/102825598.shtml",
+        "date": "2026-10-22",
+        "summary": "腾讯推出AI游戏陪伴产品《鹅次元》，10月21日发布预告视频并开启“元气首测”招募，产品可在开启屏幕共享后实时识别游戏画面、与玩家语音或文字互动，目前适配《英雄联盟》、CS2、《无畏契约》等游戏，内测阶段功能全部免费。",
+        "section": 1,
+        "facts": [
+          "腾讯旗下AI游戏陪伴产品《鹅次元》官方预告视频于10月21日发布，宣布“元气首测”正式开启招募，17173网站于10月22日发文报道确认。",
+          "该产品此前（9月下旬）已被媒体曝光为邀请制秘密内测，本次是官方首次公开预告。",
+          "提供四位可选AI角色：谷雨（邻家姐姐风格）、沈露白（知性御姐）、夏夏（甜妹萝莉）、贝拉（酷飒辣妹），各角色的语气、口头禅和反应风格随人设变化。",
+          "支持文字聊天与语音通话两种互动方式；玩家开启屏幕共享后，AI可读取并理解游戏画面与对局进程，从而主动发起话题或接话回应。",
+          "内测版本列出的适配游戏包括《无畏契约》、CS2、《英雄联盟》，官方表示更多游戏仍在适配中；产品目前主要面向PC端。",
+          "附加功能包括“时刻”（场景壁纸可同步到电脑桌面）、“桌宠”（角色以动态卡通或静态漫画形态停留在屏幕角落）、“技能”（换装、拍照，角色可按指令生成并发送自己的图片）。",
+          "界面中已显示“星币”兑换“能量”的付费框架，但保密内测期间不消耗能量，具体定价尚未公布。",
+          "本次测试没有召开发布会，产品也未上架应用商店，主要目的是在小范围内测试系统稳定性与内容安全。"
+        ],
+        "background": "据经济观察网报道引述的业内观点，《鹅次元》将AI陪伴绑定具体游戏对局场景进行实时互动，被认为是意在规避此前米哈游全资子公司开发的AI陪伴互动软件《BSide: Olivia Lin》因缺乏具体使用场景支撑、上线一个月后即宣布停止运营的问题。该产品是腾讯继此前在ChinaJoy 2026展示的AI游戏“全家桶”产品矩阵之后，在AI游戏陪伴/虚拟陪玩方向上的最新尝试。",
+        "results": "截至报道发布时，产品已开启小范围内测招募，正式上线时间和具体收费方式尚未公布；测试阶段已有玩家与AI角色互动产生讨论（如角色自称“青铜大高手”、对团战失利进行点评等），后续规模化上线进展需关注腾讯官方渠道。"
+      },
+      "members": [
+        {
+          "title": "腾讯AI游戏陪伴产品《鹅次元》开启“元气首测”",
+          "url": "https://news.17173.com/content/10222026/102825598.shtml",
+          "date": "2026-10-22",
+          "summary": "腾讯推出AI游戏陪伴产品《鹅次元》，10月21日发布预告视频并开启“元气首测”招募，产品可在开启屏幕共享后实时识别游戏画面、与玩家语音或文字互动，目前适配《英雄联盟》、CS2、《无畏契约》等游戏，内测阶段功能全部免费。",
+          "section": 1,
+          "facts": [
+            "腾讯旗下AI游戏陪伴产品《鹅次元》官方预告视频于10月21日发布，宣布“元气首测”正式开启招募，17173网站于10月22日发文报道确认。",
+            "该产品此前（9月下旬）已被媒体曝光为邀请制秘密内测，本次是官方首次公开预告。",
+            "提供四位可选AI角色：谷雨（邻家姐姐风格）、沈露白（知性御姐）、夏夏（甜妹萝莉）、贝拉（酷飒辣妹），各角色的语气、口头禅和反应风格随人设变化。",
+            "支持文字聊天与语音通话两种互动方式；玩家开启屏幕共享后，AI可读取并理解游戏画面与对局进程，从而主动发起话题或接话回应。",
+            "内测版本列出的适配游戏包括《无畏契约》、CS2、《英雄联盟》，官方表示更多游戏仍在适配中；产品目前主要面向PC端。",
+            "附加功能包括“时刻”（场景壁纸可同步到电脑桌面）、“桌宠”（角色以动态卡通或静态漫画形态停留在屏幕角落）、“技能”（换装、拍照，角色可按指令生成并发送自己的图片）。",
+            "界面中已显示“星币”兑换“能量”的付费框架，但保密内测期间不消耗能量，具体定价尚未公布。",
+            "本次测试没有召开发布会，产品也未上架应用商店，主要目的是在小范围内测试系统稳定性与内容安全。"
+          ],
+          "background": "据经济观察网报道引述的业内观点，《鹅次元》将AI陪伴绑定具体游戏对局场景进行实时互动，被认为是意在规避此前米哈游全资子公司开发的AI陪伴互动软件《BSide: Olivia Lin》因缺乏具体使用场景支撑、上线一个月后即宣布停止运营的问题。该产品是腾讯继此前在ChinaJoy 2026展示的AI游戏“全家桶”产品矩阵之后，在AI游戏陪伴/虚拟陪玩方向上的最新尝试。",
+          "results": "截至报道发布时，产品已开启小范围内测招募，正式上线时间和具体收费方式尚未公布；测试阶段已有玩家与AI角色互动产生讨论（如角色自称“青铜大高手”、对团战失利进行点评等），后续规模化上线进展需关注腾讯官方渠道。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "米哈游密集投资两家AI芯片公司，同期退出所持脑机接口公司股权",
+        "url": "https://www.21jingji.com/article/20261029/herald/dd3031fa7cbaed3404c731e3b8014cc2.html",
+        "date": "2026-10-29",
+        "summary": "据21世纪经济报道，米哈游10月19日跟投存算协同芯片公司铭芯启睿超4亿元A轮融资，随后又参与神经拟态低功耗芯片公司九天睿芯融资；同日，米哈游完成工商变更，退出此前持股49%的脑机接口公司零唯一思。报道指出，目前没有公开证据显示这些芯片已接入米哈游的模型或游戏业务，刘伟此前提出的“三年最多投入1000亿元”为投入上限而非已发生支出。",
+        "section": 2,
+        "facts": [],
+        "background": "",
+        "results": ""
+      },
+      "members": [
+        {
+          "title": "米哈游密集投资两家AI芯片公司，同期退出所持脑机接口公司股权",
+          "url": "https://www.21jingji.com/article/20261029/herald/dd3031fa7cbaed3404c731e3b8014cc2.html",
+          "date": "2026-10-29",
+          "summary": "据21世纪经济报道，米哈游10月19日跟投存算协同芯片公司铭芯启睿超4亿元A轮融资，随后又参与神经拟态低功耗芯片公司九天睿芯融资；同日，米哈游完成工商变更，退出此前持股49%的脑机接口公司零唯一思。报道指出，目前没有公开证据显示这些芯片已接入米哈游的模型或游戏业务，刘伟此前提出的“三年最多投入1000亿元”为投入上限而非已发生支出。",
+          "section": 2,
+          "facts": [],
+          "background": "",
+          "results": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "深圳职业技术大学“极智游戏设计工坊”启动，政校企协同培养AI+游戏人才",
+        "url": "https://www.youxituoluo.com/534988.html",
+        "date": "2026-10-23",
+        "summary": "10月21日，深圳职业技术大学数字媒体学院与深圳市游戏产业协会在该校柳仙洞校区启动“极智游戏设计工坊”并举行“AI+游戏”校企合作研讨会，13家游戏企业（含心动游戏/TapTap、冰川网络、第七大道等）及4家南山区高层次人才培养基地企业参与，签署校企合作协议并设立导师机制，探索AI工具赋能下的游戏设计人才培养路径。",
+        "section": 2,
+        "facts": [],
+        "background": "",
+        "results": ""
+      },
+      "members": [
+        {
+          "title": "深圳职业技术大学“极智游戏设计工坊”启动，政校企协同培养AI+游戏人才",
+          "url": "https://www.youxituoluo.com/534988.html",
+          "date": "2026-10-23",
+          "summary": "10月21日，深圳职业技术大学数字媒体学院与深圳市游戏产业协会在该校柳仙洞校区启动“极智游戏设计工坊”并举行“AI+游戏”校企合作研讨会，13家游戏企业（含心动游戏/TapTap、冰川网络、第七大道等）及4家南山区高层次人才培养基地企业参与，签署校企合作协议并设立导师机制，探索AI工具赋能下的游戏设计人才培养路径。",
+          "section": 2,
+          "facts": [],
+          "background": "",
+          "results": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Epic Games副总裁称AI编程工具已消除Unreal Engine十年未解的「非确定性cooking错误」",
+        "url": "https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic",
+        "date": "2026-10-28",
+        "summary": "",
+        "section": 1,
+        "facts": [
+          "Epic Games开发副总裁(Executive Vice President of Development)Marcus Wassmer在接受播客This Week in Video Games采访时首次详细披露公司如何用AI开发自家引擎与软件,此前Epic未就此公开细节。",
+          "Wassmer表示Epic「确定在使用AI来开发Unreal Engine的代码与功能」,目前大部分相关开发集中在Fortnite、UEFN(Unreal Editor for Fortnite)及UE6的开发分支(dev stream)中进行。",
+          "他表示Claude、Codex等AI编程工具已经消除了Epic团队尝试修复了十年之久的「非确定性cooking错误」(non-deterministic cooking bugs,即引擎打包资源阶段出现的不稳定、难复现的报错)。",
+          "Wassmer还提到AI工具被用于自动监测Fortnite在PC端的稳定性,标记导致问题的特定驱动与硬件组合。",
+          "他提到Epic此前曾披露用「vibe coding」方式重写了Epic Games Launcher,新版本运行明显更快;这一开发方式目前已被用于不止商店这一个产品线,工程师不再手写大部分代码,但仍把控代码的范围与方向。",
+          "针对外界对生成式AI可能拉低游戏品质的担忧(相关调查显示开发者对此担忧上升),Wassmer回应称Epic「更担心行动太慢的风险,而不是AI怀疑论」。"
+        ],
+        "background": "此次表态是Epic近期「AI优先」(AI-first)战略的最新延伸:此前有报道称Epic旗下与迪士尼合作的项目已转向「AI优先」开发模式,且Epic正在更新Unreal Engine与MetaHuman的用户协议(EULA),以允许用这些工具产生的内容训练AI模型。Wassmer的采访是Epic首次就「如何用AI开发自家引擎」给出具体细节,此前相关动向多为外部报道或政策变更,未有高管正面披露内部工作流。",
+        "results": "采访披露后,引擎开发社区关注Epic计划在类似「5.9」版本中推出的改动——据Wassmer描述,这类更新规模相对适度,将聚焦具体系统,并包含AI辅助产生的变更;Epic强调AI工具的作用目前集中在提升引擎稳定性(「让引擎在我们开发、精简过程中保持更稳定」),而非完全自动化整个开发流程。"
+      },
+      "members": [
+        {
+          "title": "Epic Games副总裁称AI编程工具已消除Unreal Engine十年未解的「非确定性cooking错误」",
+          "url": "https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic",
+          "date": "2026-10-28",
+          "summary": "",
+          "section": 1,
+          "facts": [
+            "Epic Games开发副总裁(Executive Vice President of Development)Marcus Wassmer在接受播客This Week in Video Games采访时首次详细披露公司如何用AI开发自家引擎与软件,此前Epic未就此公开细节。",
+            "Wassmer表示Epic「确定在使用AI来开发Unreal Engine的代码与功能」,目前大部分相关开发集中在Fortnite、UEFN(Unreal Editor for Fortnite)及UE6的开发分支(dev stream)中进行。",
+            "他表示Claude、Codex等AI编程工具已经消除了Epic团队尝试修复了十年之久的「非确定性cooking错误」(non-deterministic cooking bugs,即引擎打包资源阶段出现的不稳定、难复现的报错)。",
+            "Wassmer还提到AI工具被用于自动监测Fortnite在PC端的稳定性,标记导致问题的特定驱动与硬件组合。",
+            "他提到Epic此前曾披露用「vibe coding」方式重写了Epic Games Launcher,新版本运行明显更快;这一开发方式目前已被用于不止商店这一个产品线,工程师不再手写大部分代码,但仍把控代码的范围与方向。",
+            "针对外界对生成式AI可能拉低游戏品质的担忧(相关调查显示开发者对此担忧上升),Wassmer回应称Epic「更担心行动太慢的风险,而不是AI怀疑论」。"
+          ],
+          "background": "此次表态是Epic近期「AI优先」(AI-first)战略的最新延伸:此前有报道称Epic旗下与迪士尼合作的项目已转向「AI优先」开发模式,且Epic正在更新Unreal Engine与MetaHuman的用户协议(EULA),以允许用这些工具产生的内容训练AI模型。Wassmer的采访是Epic首次就「如何用AI开发自家引擎」给出具体细节,此前相关动向多为外部报道或政策变更,未有高管正面披露内部工作流。",
+          "results": "采访披露后,引擎开发社区关注Epic计划在类似「5.9」版本中推出的改动——据Wassmer描述,这类更新规模相对适度,将聚焦具体系统,并包含AI辅助产生的变更;Epic强调AI工具的作用目前集中在提升引擎稳定性(「让引擎在我们开发、精简过程中保持更稳定」),而非完全自动化整个开发流程。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "3D模型网站Open3DLab指控Roblox旗下AI爬虫未经许可抓取145GB数据(含成人内容),Roblox确认已关停该爬虫",
+        "url": "https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-used-in-ai-training-after-scraping-open3dlab-data",
+        "date": "2026-10-28",
+        "summary": "",
+        "section": 1,
+        "facts": [
+          "3D素材分享站Open3DLab(其用户包括大量使用Valve Source Filmmaker制作模型的创作者)管理员「Salaryman」披露,该站及其关联的多个成人内容站点遭到一个关联Roblox的AI爬虫未经授权抓取数据。",
+          "据Open3DLab统计,该爬虫几乎遍历了三个托管站点上的所有项目,从712个项目中下载了1,027个文件,总量约145.5GB,其中约117.4GB来自成人内容站点;被抓取项目中,345个为成人内容、423个仅获非商业使用授权。",
+          "Open3DLab表示爬虫无视其robots.txt协议及服务条款(均明确禁止抓取),该站10月18日首次发现并封锁了该爬虫并致信其创建者,爬虫10月19日恢复抓取并规避了站方的拦截措施。",
+          "Open3DLab称已通过爬虫的User-Agent信息,将其创建者认定为Roblox一名研究员,该研究员为Roblox生成式3D基础模型Cube的论文共同作者,据此判断抓取数据用于AI模型训练。",
+          "Roblox发言人回应称,该AI agent「未能按预期运行」,已被关停下线,且「收集的数据未被用于任何用途,包括训练任何AI模型」;公司表示将加强对此类agent构建与审核流程的安全保障。"
+        ],
+        "background": "Salaryman在披露中特别指出,若含成人内容的训练数据流入Roblox的生成式工具,可能经由这些工具触及未成年用户,并提出对基于其他公司知识产权数据训练模型的担忧。相关报道还提及,Roblox当前正面临美国多个州就儿童安全问题提起的诉讼,这使得此次事件对该公司更为敏感。",
+        "results": "目前该事件停留在Open3DLab指控与Roblox官方声明「已关停agent、数据未用于训练」的阶段,尚无第三方独立核实抓取数据的具体用途或范围;Roblox表示将强化内部AI agent的构建与审核安全机制,但未公布具体整改措施或时间表。"
+      },
+      "members": [
+        {
+          "title": "3D模型网站Open3DLab指控Roblox旗下AI爬虫未经许可抓取145GB数据(含成人内容),Roblox确认已关停该爬虫",
+          "url": "https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-used-in-ai-training-after-scraping-open3dlab-data",
+          "date": "2026-10-28",
+          "summary": "",
+          "section": 1,
+          "facts": [
+            "3D素材分享站Open3DLab(其用户包括大量使用Valve Source Filmmaker制作模型的创作者)管理员「Salaryman」披露,该站及其关联的多个成人内容站点遭到一个关联Roblox的AI爬虫未经授权抓取数据。",
+            "据Open3DLab统计,该爬虫几乎遍历了三个托管站点上的所有项目,从712个项目中下载了1,027个文件,总量约145.5GB,其中约117.4GB来自成人内容站点;被抓取项目中,345个为成人内容、423个仅获非商业使用授权。",
+            "Open3DLab表示爬虫无视其robots.txt协议及服务条款(均明确禁止抓取),该站10月18日首次发现并封锁了该爬虫并致信其创建者,爬虫10月19日恢复抓取并规避了站方的拦截措施。",
+            "Open3DLab称已通过爬虫的User-Agent信息,将其创建者认定为Roblox一名研究员,该研究员为Roblox生成式3D基础模型Cube的论文共同作者,据此判断抓取数据用于AI模型训练。",
+            "Roblox发言人回应称,该AI agent「未能按预期运行」,已被关停下线,且「收集的数据未被用于任何用途,包括训练任何AI模型」;公司表示将加强对此类agent构建与审核流程的安全保障。"
+          ],
+          "background": "Salaryman在披露中特别指出,若含成人内容的训练数据流入Roblox的生成式工具,可能经由这些工具触及未成年用户,并提出对基于其他公司知识产权数据训练模型的担忧。相关报道还提及,Roblox当前正面临美国多个州就儿童安全问题提起的诉讼,这使得此次事件对该公司更为敏感。",
+          "results": "目前该事件停留在Open3DLab指控与Roblox官方声明「已关停agent、数据未用于训练」的阶段,尚无第三方独立核实抓取数据的具体用途或范围;Roblox表示将强化内部AI agent的构建与审核安全机制,但未公布具体整改措施或时间表。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

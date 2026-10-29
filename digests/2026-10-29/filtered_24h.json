@@ -1,0 +1,372 @@
+{
+  "as_of": "2026-10-29",
+  "cutoff": "2026-10-28",
+  "window_days": 1,
+  "summary": {
+    "input_items": 17,
+    "denied_source": 0,
+    "in_window": 17,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 17,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 17,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 15,
+    "previously_covered_count": 2
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "FromSoftware《The Duskbloods》延期至2027年发售",
+        "url": "https://www.videogameschronicle.com/news/fromsoftwares-switch-2-exclusive-the-duskbloods-has-been-delayed-to-2027/",
+        "date": "2026-10-29",
+        "summary": "FromSoftware与任天堂合作开发的Switch 2平台独占游戏《The Duskbloods》被官方宣布延期至2027年发售，具体延期原因暂未披露。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "FromSoftware《The Duskbloods》延期至2027年发售",
+          "url": "https://www.videogameschronicle.com/news/fromsoftwares-switch-2-exclusive-the-duskbloods-has-been-delayed-to-2027/",
+          "date": "2026-10-29",
+          "summary": "FromSoftware与任天堂合作开发的Switch 2平台独占游戏《The Duskbloods》被官方宣布延期至2027年发售，具体延期原因暂未披露。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《GTA6》官方原声专辑由Justice创作，12月11日发行，CD与黑胶现已开放预购",
+        "url": "https://www.videogameschronicle.com/news/the-official-grand-theft-auto-6-musical-score-by-justice-is-released-in-december-cd-and-vinyl-pre-orders-available-now/",
+        "date": "2026-10-29",
+        "summary": "Rockstar Games宣布《GTA6》官方配乐专辑由法国电子乐组合Justice创作，将于12月11日发行，CD与黑胶唱片预购已同步开放。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《GTA6》官方原声专辑由Justice创作，12月11日发行，CD与黑胶现已开放预购",
+          "url": "https://www.videogameschronicle.com/news/the-official-grand-theft-auto-6-musical-score-by-justice-is-released-in-december-cd-and-vinyl-pre-orders-available-now/",
+          "date": "2026-10-29",
+          "summary": "Rockstar Games宣布《GTA6》官方配乐专辑由法国电子乐组合Justice创作，将于12月11日发行，CD与黑胶唱片预购已同步开放。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《魔兽世界：永恒》加入手柄支持，被视为暴雪布局Xbox Helix跨平台战略第一步",
+        "url": "https://www.videogameschronicle.com/news/world-of-warcraft-forever-controller-support-is-the-first-step-to-playing-anywhere-as-blizzard-prepares-for-xbox-helix/",
+        "date": "2026-10-29",
+        "summary": "暴雪为《魔兽世界：永恒》（World of Warcraft Forever）加入控制器支持，报道认为这是暴雪为后续Xbox Helix跨平台布局所做的第一步准备。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《魔兽世界：永恒》加入手柄支持，被视为暴雪布局Xbox Helix跨平台战略第一步",
+          "url": "https://www.videogameschronicle.com/news/world-of-warcraft-forever-controller-support-is-the-first-step-to-playing-anywhere-as-blizzard-prepares-for-xbox-helix/",
+          "date": "2026-10-29",
+          "summary": "暴雪为《魔兽世界：永恒》（World of Warcraft Forever）加入控制器支持，报道认为这是暴雪为后续Xbox Helix跨平台布局所做的第一步准备。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《南方公园》最新一集插入《GTA6》独家游戏画面",
+        "url": "https://www.videogameschronicle.com/news/the-latest-episode-of-south-park-features-exclusive-gta-6-footage-where-a-man-is-hit-in-the-head-with-dog-poo/",
+        "date": "2026-10-29",
+        "summary": "动画《南方公园》最新播出集数中插入一段《GTA6》独家游戏画面，作为该作发售前的跨界营销联动之一。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《南方公园》最新一集插入《GTA6》独家游戏画面",
+          "url": "https://www.videogameschronicle.com/news/the-latest-episode-of-south-park-features-exclusive-gta-6-footage-where-a-man-is-hit-in-the-head-with-dog-poo/",
+          "date": "2026-10-29",
+          "summary": "动画《南方公园》最新播出集数中插入一段《GTA6》独家游戏画面，作为该作发售前的跨界营销联动之一。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "任天堂英国推出Switch 2优惠套装，含《马里奥赛车世界》及相机配件，直降134英镑",
+        "url": "https://www.videogameschronicle.com/news/nintendo-uk-is-selling-a-switch-2-bundle-including-mario-kart-world-a-camera-and-a-microsd-card-for-134-off/",
+        "date": "2026-10-29",
+        "summary": "任天堂英国官方商店推出限时Switch 2主机套装，内含《马里奥赛车世界》、Switch 2相机配件及MicroSD卡，较单独购买可省134英镑。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "任天堂英国推出Switch 2优惠套装，含《马里奥赛车世界》及相机配件，直降134英镑",
+          "url": "https://www.videogameschronicle.com/news/nintendo-uk-is-selling-a-switch-2-bundle-including-mario-kart-world-a-camera-and-a-microsd-card-for-134-off/",
+          "date": "2026-10-29",
+          "summary": "任天堂英国官方商店推出限时Switch 2主机套装，内含《马里奥赛车世界》、Switch 2相机配件及MicroSD卡，较单独购买可省134英镑。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "11月PS Plus Essential会免游戏公布，《死亡岛2》《古墓丽影IV-VI重制合集》在列",
+        "url": "https://www.videogameschronicle.com/news/novembers-three-free-ps-plus-essential-monthly-games-include-dead-island-2-and-tomb-raider-4-6-remastered/",
+        "date": "2026-10-28",
+        "summary": "索尼公布11月PS Plus Essential档期三款免费游戏，其中包括《死亡岛2》与《古墓丽影IV-VI重制合集》。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "11月PS Plus Essential会免游戏公布，《死亡岛2》《古墓丽影IV-VI重制合集》在列",
+          "url": "https://www.videogameschronicle.com/news/novembers-three-free-ps-plus-essential-monthly-games-include-dead-island-2-and-tomb-raider-4-6-remastered/",
+          "date": "2026-10-28",
+          "summary": "索尼公布11月PS Plus Essential档期三款免费游戏，其中包括《死亡岛2》与《古墓丽影IV-VI重制合集》。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《WWE 2K26》最终季票内容上线，新增地震者、台风等四名摔跤手",
+        "url": "https://www.videogameschronicle.com/news/wwe-2k26s-final-ringside-pass-launches-today-adding-four-more-wrestlers-including-earthquake-and-typhoon/",
+        "date": "2026-10-28",
+        "summary": "2K公布《WWE 2K26》Ringside Pass最终批内容已上线，新增包括Earthquake、Typhoon等四名经典摔跤手角色。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《WWE 2K26》最终季票内容上线，新增地震者、台风等四名摔跤手",
+          "url": "https://www.videogameschronicle.com/news/wwe-2k26s-final-ringside-pass-launches-today-adding-four-more-wrestlers-including-earthquake-and-typhoon/",
+          "date": "2026-10-28",
+          "summary": "2K公布《WWE 2K26》Ringside Pass最终批内容已上线，新增包括Earthquake、Typhoon等四名经典摔跤手角色。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "韩国对谷歌、苹果开出约4760万美元罚单，指应用内支付政策违规",
+        "url": "https://www.pocketgamer.biz/south-korea-fines-google-and-apple-476m-over-app-payments/",
+        "date": "2026-10-29",
+        "summary": "据PocketGamer.biz报道，韩国监管机构对谷歌和苹果合计处以约4760万美元罚款，要求两家公司允许应用内第三方支付链接并修改应用审核流程，该政策将影响包括游戏类应用在内的所有App。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "韩国对谷歌、苹果开出约4760万美元罚单，指应用内支付政策违规",
+          "url": "https://www.pocketgamer.biz/south-korea-fines-google-and-apple-476m-over-app-payments/",
+          "date": "2026-10-29",
+          "summary": "据PocketGamer.biz报道，韩国监管机构对谷歌和苹果合计处以约4760万美元罚款，要求两家公司允许应用内第三方支付链接并修改应用审核流程，该政策将影响包括游戏类应用在内的所有App。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "谷歌Play公布非洲独立游戏基金入选名单，10家工作室获百万美元扶持",
+        "url": "https://www.pocketgamer.biz/google-play-selects-10-african-studios-for-1m-indie-games-fund/",
+        "date": "2026-10-29",
+        "summary": "谷歌Play公布「非洲独立游戏基金」（Indie Games Fund）入选的10家非洲独立游戏工作室名单，总扶持金额达100万美元，用于支持当地团队的游戏开发与业务增长。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "谷歌Play公布非洲独立游戏基金入选名单，10家工作室获百万美元扶持",
+          "url": "https://www.pocketgamer.biz/google-play-selects-10-african-studios-for-1m-indie-games-fund/",
+          "date": "2026-10-29",
+          "summary": "谷歌Play公布「非洲独立游戏基金」（Indie Games Fund）入选的10家非洲独立游戏工作室名单，总扶持金额达100万美元，用于支持当地团队的游戏开发与业务增长。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "约旦独立工作室Dimensions Games Studio运营四年后宣布关闭",
+        "url": "https://www.pocketgamer.biz/jordan-based-dimensions-games-studio-closes-after-four-years/",
+        "date": "2026-10-28",
+        "summary": "据PocketGamer.biz报道，约旦游戏工作室Dimensions Games Studio在成立四年后宣布停止运营，为中东地区近期又一家关闭的游戏开发商。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "约旦独立工作室Dimensions Games Studio运营四年后宣布关闭",
+          "url": "https://www.pocketgamer.biz/jordan-based-dimensions-games-studio-closes-after-four-years/",
+          "date": "2026-10-28",
+          "summary": "据PocketGamer.biz报道，约旦游戏工作室Dimensions Games Studio在成立四年后宣布停止运营，为中东地区近期又一家关闭的游戏开发商。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Unity与投资机构PvX合作，为游戏开发者推出资金扶持计划",
+        "url": "https://www.pocketgamer.biz/unity-partners-with-pvx-to-offer-funding-for-game-developers/",
+        "date": "2026-10-28",
+        "summary": "Unity宣布与投资机构PvX Partners合作推出开发者扶持计划，符合条件的开发者可获得Unity Ads广告额度等资金与资源支持。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Unity与投资机构PvX合作，为游戏开发者推出资金扶持计划",
+          "url": "https://www.pocketgamer.biz/unity-partners-with-pvx-to-offer-funding-for-game-developers/",
+          "date": "2026-10-28",
+          "summary": "Unity宣布与投资机构PvX Partners合作推出开发者扶持计划，符合条件的开发者可获得Unity Ads广告额度等资金与资源支持。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "微软公布最新财季Xbox内容与服务收入同比下滑2%",
+        "url": "https://gamesbeat.com/xbox-content-and-services-revenue-decreased-2-in-september-quarter/",
+        "date": "2026-10-28",
+        "summary": "微软公布截至9月的最新财季（2027财年第一财季）业绩，其中Xbox内容与服务业务收入同比下降2%。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "微软公布最新财季Xbox内容与服务收入同比下滑2%",
+          "url": "https://gamesbeat.com/xbox-content-and-services-revenue-decreased-2-in-september-quarter/",
+          "date": "2026-10-28",
+          "summary": "微软公布截至9月的最新财季（2027财年第一财季）业绩，其中Xbox内容与服务业务收入同比下降2%。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "雅虎游戏业务负责人在公司重组裁员中离职",
+        "url": "https://gamesbeat.com/yahoos-head-of-games-exits-amid-restructuring-and-layoffs/",
+        "date": "2026-10-28",
+        "summary": "据GamesBeat报道，雅虎（Yahoo）游戏业务负责人已在公司近期的架构调整与裁员中离职。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "雅虎游戏业务负责人在公司重组裁员中离职",
+          "url": "https://gamesbeat.com/yahoos-head-of-games-exits-amid-restructuring-and-layoffs/",
+          "date": "2026-10-28",
+          "summary": "据GamesBeat报道，雅虎（Yahoo）游戏业务负责人已在公司近期的架构调整与裁员中离职。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "动视公布《使命召唤：现代战争4》第一赛季详情",
+        "url": "https://gamesbeat.com/activision-reveals-call-of-duty-modern-warfare-4-season-1-details/",
+        "date": "2026-10-28",
+        "summary": "动视公布《使命召唤：现代战争4》首个赛季更新细节，涵盖新增地图、武器及游戏模式等内容。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "动视公布《使命召唤：现代战争4》第一赛季详情",
+          "url": "https://gamesbeat.com/activision-reveals-call-of-duty-modern-warfare-4-season-1-details/",
+          "date": "2026-10-28",
+          "summary": "动视公布《使命召唤：现代战争4》首个赛季更新细节，涵盖新增地图、武器及游戏模式等内容。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Relic公布《英雄连3》剧情DLC「Operation Torch」（火炬行动）",
+        "url": "https://gamesbeat.com/relic-unveils-company-of-heroes-3-operation-torch-campaign-dlc/",
+        "date": "2026-10-28",
+        "summary": "开发商Relic Entertainment公布《英雄连3》（Company of Heroes 3）新剧情DLC「Operation Torch」相关内容。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Relic公布《英雄连3》剧情DLC「Operation Torch」（火炬行动）",
+          "url": "https://gamesbeat.com/relic-unveils-company-of-heroes-3-operation-torch-campaign-dlc/",
+          "date": "2026-10-28",
+          "summary": "开发商Relic Entertainment公布《英雄连3》（Company of Heroes 3）新剧情DLC「Operation Torch」相关内容。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据报道黑客在GitHub发布伪装PS5模拟器，植入窃取密码的恶意软件",
+        "url": "https://www.engadget.com/2299912/fake-ps5-emulators-on-github-are-spreading-password-stealing-malware/",
+        "date": "2026-10-28",
+        "summary": "据Engadget报道，有黑客在GitHub上传伪装成PS5模拟器的项目，实际捆绑可窃取用户密码等信息的恶意软件，提醒玩家谨慎下载来源不明的模拟器工具。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据报道黑客在GitHub发布伪装PS5模拟器，植入窃取密码的恶意软件",
+          "url": "https://www.engadget.com/2299912/fake-ps5-emulators-on-github-are-spreading-password-stealing-malware/",
+          "date": "2026-10-28",
+          "summary": "据Engadget报道，有黑客在GitHub上传伪装成PS5模拟器的项目，实际捆绑可窃取用户密码等信息的恶意软件，提醒玩家谨慎下载来源不明的模拟器工具。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "儿童体感游戏公司Nex Playground与英国NSPCC儿童保护机构达成合作",
+        "url": "https://gamesbeat.com/nex-playground-announces-new-partnership-with-nspcc/",
+        "date": "2026-10-28",
+        "summary": "体感游戏硬件公司Nex Playground宣布与英国防止虐待儿童协会（NSPCC）建立合作伙伴关系，共同推进儿童游戏安全相关工作。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "儿童体感游戏公司Nex Playground与英国NSPCC儿童保护机构达成合作",
+          "url": "https://gamesbeat.com/nex-playground-announces-new-partnership-with-nspcc/",
+          "date": "2026-10-28",
+          "summary": "体感游戏硬件公司Nex Playground宣布与英国防止虐待儿童协会（NSPCC）建立合作伙伴关系，共同推进儿童游戏安全相关工作。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
