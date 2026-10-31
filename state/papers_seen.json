@@ -21349,7 +21349,7 @@
   "status": "screened-out",
   "first_seen": "2026-10-28",
   "submitted": "2026-10-27T04:18:31Z",
-  "title": "Mimetic Embodiment Transfer of Human-Humanoid Interaction from In-the-Wild Videos"
+  "title": "HumiMimic: Mimetic Embodiment Transfer of Human-Humanoid Interaction from In-the-Wild Videos"
  },
  "2610.36610": {
   "status": "screened-out",
@@ -21434,5 +21434,365 @@
   "affiliation": "Meta — Denis Rozumny, Elias Vansteenkiste, Diogo C. Luvizon (verified as the company Meta in the HTML author block, not a \"meta-learning\" text match; Vladimir Yugay is University of Amsterdam with a footnote noting an internship at Meta)",
   "url": "https://arxiv.org/abs/2610.35902",
   "summary": "StereoSplat is a feed-forward 3D Gaussian Splatting architecture built specifically for stereo video, aimed at reliable, metric-scale novel view synthesis."
+ },
+ "2610.40640": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T17:58:45Z",
+  "title": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization"
+ },
+ "2610.40637": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T17:58:23Z",
+  "title": "world2vec: Mechanistic world models through latent dynamics learning"
+ },
+ "2610.40614": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T17:54:42Z",
+  "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory"
+ },
+ "2610.40607": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T17:53:02Z",
+  "title": "Fight World Model: Customizable Combat through Visual Interaction Proxies"
+ },
+ "2610.40503": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T17:20:31Z",
+  "title": "Algebraic World Model: From Exploration to Proofs"
+ },
+ "2610.40495": {
+  "status": "qualified",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T17:18:51Z",
+  "title": "LucidLyra: Feed-Forward Generative 3D Scene Reconstruction and Joint Understanding via Multi-Task Distillation",
+  "affiliation": "NVIDIA — Oliver Hahn, Stefan Roth (also Sherwin Bahmani, work done while at NVIDIA)",
+  "url": "https://arxiv.org/abs/2610.40495",
+  "summary": "LucidLyra is a feed-forward model that reconstructs a 3D scene as Gaussians while jointly predicting open-vocabulary semantics and class-agnostic instance groupings, all in a single pass from video-diffusion latents."
+ },
+ "2610.40401": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T16:34:54Z",
+  "title": "Continuous-Action World Models: Learning Cross-Embodiment Spatiotemporal Dynamics Priors"
+ },
+ "2610.40373": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T16:21:06Z",
+  "title": "HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model"
+ },
+ "2610.40339": {
+  "status": "qualified",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T16:03:19Z",
+  "title": "Wizard: Manipulate Any World in Real Time via Agentic Control",
+  "affiliation": "Tencent — Yuzhe Wu, Zijun Lin, Yeying Jin",
+  "url": "https://arxiv.org/abs/2610.40339",
+  "summary": "Wizard is an agentic game world model that gives real-time, precise control over character motion in generated game worlds."
+ },
+ "2610.40333": {
+  "status": "qualified",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T15:58:15Z",
+  "title": "RFW-A: Agentic Procedural Generation of 400K Articulated Assets over 500 Categories",
+  "affiliation": "Alibaba Group — Yuanbo Lyu, Yi Yang, Jiawei Weng, Weiyi Lin, Lin Qu, Zenan Meng, Hu Wei (corresponding authors' contact emails use @alibaba-inc.com), plus Wenyi Li, Jiarui Guo, Rui Zhang, Jingrun Du (dual Alibaba/Tsinghua)",
+  "url": "https://arxiv.org/abs/2610.40333",
+  "summary": "RFW-A combines agentic program synthesis with procedural generation: agents build reusable, category-level generator programs from existing articulated-asset code, test and refine them across sampled configurations, then produce assets procedurally without further model calls."
+ },
+ "2610.40210": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T14:56:30Z",
+  "title": "AcrossDEX 1.0: From Human Motion Pretraining to Bimanual Dexterous Manipulation across Hand Embodiments"
+ },
+ "2610.40191": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T14:47:39Z",
+  "title": "Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement"
+ },
+ "2610.40030": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T13:36:06Z",
+  "title": "Cheap Retrieval and Observation Credit Assignment from One Quantity: The Value of Information"
+ },
+ "2610.40007": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T13:24:24Z",
+  "title": "Greenscapes: Optimized Vegetation Configurations in Cities"
+ },
+ "2610.39936": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T12:36:54Z",
+  "title": "MLLM-GS: Multimodal Large Language Model Prior-Guided Fast Novel View Synthesis in Extreme Environments"
+ },
+ "2610.39924": {
+  "status": "qualified",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T12:29:27Z",
+  "title": "PhysAg3D: Bridging 3D Generative and Agentic Models for High-Fidelity and Physically-Interactive Assets",
+  "affiliation": "Huawei — Fanpeng Meng, Jiemin Fang, Chen Yang, Qi Tian (also Guangdong Laboratory of Artificial Intelligence and Digital Economy); FLAG: borderline (Huawei is not on the core tracked list but is a comparable top-tier industry lab)",
+  "url": "https://arxiv.org/abs/2610.39924",
+  "summary": "PhysAg3D couples 3D generative models with agentic reasoning and tool use to turn a single image into an interactive 3D asset."
+ },
+ "2610.39812": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T10:54:32Z",
+  "title": "GROME: GROunding Factorized MEmory into Video World Models"
+ },
+ "2610.39721": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T09:51:26Z",
+  "title": "WorldProbe: When Video World Models Fall Apart under Long-Horizon Spatial Exploration"
+ },
+ "2610.39639": {
+  "status": "near-miss",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T09:00:14Z",
+  "title": "Where Do Vision Language Models Fail at 3D Reasoning?"
+ },
+ "2610.39619": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T08:47:55Z",
+  "title": "FutureWorld: A Plug-and-Play Causal Next-State Predictor for Interactive Video World Exploration"
+ },
+ "2610.39547": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T07:48:59Z",
+  "title": "Assuring Learning-Enabled Cyber-Physical Systems with Foundation Models: A Neuro-Symbolic Agenda for Testing, Verification, and Runtime Assurance"
+ },
+ "2610.39528": {
+  "status": "near-miss",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T07:25:08Z",
+  "title": "PRIME W0: Physical Priors from World Models for Embodied Manipulation"
+ },
+ "2610.39516": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T07:14:26Z",
+  "title": "Robust LIDAR Sensor-to-Sensor Domain Generalization via Accumulated-Point Scene Completion"
+ },
+ "2610.39399": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T05:34:55Z",
+  "title": "ACD-GS: Asymmetric Curvature-aware Densification for 3D Gaussian Splatting"
+ },
+ "2610.39367": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T04:59:21Z",
+  "title": "Utility-WAM: Correcting Future-Induced Action Changes"
+ },
+ "2610.39278": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T03:30:27Z",
+  "title": "WorldFlow: Joint Video and 3D Motion Prediction via Large-Scale Pretraining"
+ },
+ "2610.39232": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T02:50:17Z",
+  "title": "Seeing and Imagining as One: Unified Video Generation and 4D Perception for Embodied World Modeling"
+ },
+ "2610.39201": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T02:23:23Z",
+  "title": "COGS: A Diagnostic Benchmark for Attribute-Aware Object-Level 3D Gaussian Splatting Perception"
+ },
+ "2610.39100": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T00:41:38Z",
+  "title": "Generating Critic-Guided Synthetic Experience in Latent World Models"
+ },
+ "2610.39076": {
+  "status": "near-miss",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-29T00:10:55Z",
+  "title": "Tactus: Tactile & Pose Sensing Glove for Natural Dexterity Data Collection"
+ },
+ "2610.39038": {
+  "status": "near-miss",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-28T23:11:57Z",
+  "title": "LightGenBench: A Benchmark for 3D Emission Generation"
+ },
+ "2610.38980": {
+  "status": "near-miss",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-28T22:04:30Z",
+  "title": "Context Compaction for World Models"
+ },
+ "2610.38951": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-28T21:36:34Z",
+  "title": "GradSplat: Gradients Inside the Forward Pass for Feed-Forward 3D Gaussian Splatting"
+ },
+ "2610.38903": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-28T20:58:35Z",
+  "title": "Structural-Test Geometry as an Inductive Bias for Partially Observable World Models"
+ },
+ "2610.38825": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-28T20:20:43Z",
+  "title": "Evaluating Visual Realism of AI-Generated Videos with Eye Tracking"
+ },
+ "2610.38744": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-28T19:30:40Z",
+  "title": "AtomTree: A Hierarchical Framework for State-Aware Embodied Instruction Following with LLMs"
+ },
+ "2610.38657": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-28T18:41:55Z",
+  "title": "Explore Where It Matters: Targeted Exploration for Efficient Rover Adaptation"
+ },
+ "2610.38443": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-28T08:22:11Z",
+  "title": "Skeleton-Guided Geometry-Aware Auto-Labeling for Robotic Grasping: From 4-DoF Learning to 6-DoF Execution"
+ },
+ "2610.38439": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-28T08:20:06Z",
+  "title": "Predict the Reward, Not the World: World Reward Models for ML Agents"
+ },
+ "2610.38358": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-28T06:56:55Z",
+  "title": "Volley3D: Unified 3D Full-Sequence Reconstruction from Monocular Broadcasts"
+ },
+ "2610.38349": {
+  "status": "qualified",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-28T06:49:44Z",
+  "title": "Aligning Misaligned Benchmarks for Single-View Novel View Synthesis",
+  "affiliation": "Google — Stephan Garbin, Hossam Isack",
+  "url": "https://arxiv.org/abs/2610.38349",
+  "summary": "The authors argue that single-view novel-view-synthesis methods are hard to compare fairly because each method's output must first be pose-aligned to ground truth, and common test-time pose optimization is ill-posed, leaving methods evaluated at arbitrary local optima."
+ },
+ "2610.38319": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-28T06:08:39Z",
+  "title": "Extremely Sparse-View Computed Tomography from 2D Projections via Pose-Aware Diffusion Priors"
+ },
+ "2610.38289": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-28T05:14:51Z",
+  "title": "PulmoWorld: An Asynchronous Multimodal Medical World Model for Longitudinal Pneumonia Dynamics"
+ },
+ "2610.38278": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-28T05:00:22Z",
+  "title": "BudSplat: Feed-forward 3D Gaussian Splatting under a Rendering Budget"
+ },
+ "2610.38266": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-28T04:34:16Z",
+  "title": "Recursive Self-Improvement in Physical AI: Mechanisms, Evidence, and Evaluation"
+ },
+ "2610.38259": {
+  "status": "qualified",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-28T04:18:55Z",
+  "title": "ETA-Motion: Efficient Topology-Agnostic Motion Diffusion via Sparse Joint Learning",
+  "affiliation": "Samsung Electronics — Seoyoung Hwang (dual KAIST/Samsung Electronics); FLAG: borderline (Samsung is not on the core tracked list but is a comparable top-tier industry lab)",
+  "url": "https://arxiv.org/abs/2610.38259",
+  "summary": "ETA-Motion generates motion for characters with arbitrary, varying skeletons by training a motion generator on only a compact subset of joints rather than all joints."
+ },
+ "2610.38241": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-28T03:43:19Z",
+  "title": "MEV: A Multi-Event Video Dataset for Long-Take Generation"
+ },
+ "2610.38153": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-28T01:39:11Z",
+  "title": "StepControl: Long-Horizon Human Motion Generation from Foot-Contact Schedules"
+ },
+ "2610.38100": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-28T00:34:36Z",
+  "title": "Evaluating Causal Reasoning in LLMs: A Case Study in the Challenges of Procedural Generation"
+ },
+ "2610.38080": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-27T23:52:45Z",
+  "title": "Efficacy of Monocular Depth Estimation in Lunar Environments"
+ },
+ "2610.38027": {
+  "status": "qualified",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-27T22:26:59Z",
+  "title": "METATRON: A Promptable Whole-Body Execution Layer for Humanoids",
+  "affiliation": "NVIDIA — Chen Tessler, Yifeng Jiang, Yi Shi, Umar Iqbal, Gal Chechik, Xue Bin Peng (Alec Otto, Dollhouse Robotics, interned at NVIDIA)",
+  "url": "https://arxiv.org/abs/2610.38027",
+  "summary": "Metatron is a humanoid control system built on a frozen, generative whole-body base policy plus a programmable skill layer on top."
+ },
+ "2610.37983": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-27T21:28:33Z",
+  "title": "Hierarchical Diffusion for Camera-controlled Autoregressive Video Generation"
+ },
+ "2610.37963": {
+  "status": "screened-out",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-27T20:49:21Z",
+  "title": "Self-Supervised Latent Action-Conditioned World Modeling for Time Series"
+ },
+ "2610.37891": {
+  "status": "near-miss",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-27T19:32:05Z",
+  "title": "When More Planning Hurts: Learned Planners for World Models"
+ },
+ "2610.37818": {
+  "status": "qualified",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-27T18:32:45Z",
+  "title": "GOFish: Full Field-of-View Gaussian Splatting and Mesh Extraction",
+  "affiliation": "Amazon — Allen Tu, Meher Gitika Karumuri, Shifan Zhu, Hailing Wang, Yen-Liang Lin, David Held (per PDF affiliation superscript \"1 = Amazon\"; most likely as an internship collaboration, since other authors hold University of Maryland/Northeastern/CMU affiliations)",
+  "url": "https://arxiv.org/abs/2610.37818",
+  "summary": "GOFish is the first 3D Gaussian Splatting surface reconstruction method that trains directly on fisheye images, rasterizing fields of view beyond 180° and extracting an aligned mesh from the same scene."
+ },
+ "2610.32554": {
+  "status": "near-miss",
+  "first_seen": "2026-10-31",
+  "submitted": "2026-10-23T12:35:26Z",
+  "title": "HGWM: Hierarchical Graph-Guided World Model for Zero-Shot Object Navigation via Graph Matching"
  }
 }
