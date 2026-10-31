@@ -1,0 +1,494 @@
+{
+  "as_of": "2026-10-31",
+  "cutoff": "2026-10-30",
+  "window_days": 1,
+  "summary": {
+    "input_items": 21,
+    "denied_source": 0,
+    "in_window": 21,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 21,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 21,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 18,
+    "previously_covered_count": 3
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Netflix将开发PUBG真人剧，Donald Glover操刀编剧、导演兼主演",
+        "url": "https://www.pocketgamer.biz/netflix-developing-live-action-pubg-series-with-donald-glover/",
+        "date": "2026-10-30",
+        "outlet": "PocketGamer.biz",
+        "summary_zh": "Netflix与Krafton旗下娱乐部门LV3H达成合作，将基于《PUBG》开发真人剧集，由Donald Glover及其兄弟Stephen Glover共同编剧并担任制片人，Donald Glover还将主演，但具体开机与上线时间尚未公布。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Netflix将开发PUBG真人剧，Donald Glover操刀编剧、导演兼主演",
+          "url": "https://www.pocketgamer.biz/netflix-developing-live-action-pubg-series-with-donald-glover/",
+          "date": "2026-10-30",
+          "outlet": "PocketGamer.biz",
+          "summary_zh": "Netflix与Krafton旗下娱乐部门LV3H达成合作，将基于《PUBG》开发真人剧集，由Donald Glover及其兄弟Stephen Glover共同编剧并担任制片人，Donald Glover还将主演，但具体开机与上线时间尚未公布。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "韩国Nexus与迪拜媒体委员会签署合作备忘录，助力当地游戏产业发展",
+        "url": "https://www.pocketgamer.biz/nexus-signs-mou-with-dubai-to-support-local-game-studios-and-global-publishing/",
+        "date": "2026-10-30",
+        "outlet": "PocketGamer.biz",
+        "summary_zh": "韩国游戏企业Nexus（ONE Corp）与迪拜媒体委员会签署合作备忘录，将通过旗下ONE Store为迪拜本地工作室提供全球发行、内购及虚拟经济系统等技术支持，并协助寻找投资机会，呼应迪拜计划到2033年跻身全球十大游戏城市的目标。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "韩国Nexus与迪拜媒体委员会签署合作备忘录，助力当地游戏产业发展",
+          "url": "https://www.pocketgamer.biz/nexus-signs-mou-with-dubai-to-support-local-game-studios-and-global-publishing/",
+          "date": "2026-10-30",
+          "outlet": "PocketGamer.biz",
+          "summary_zh": "韩国游戏企业Nexus（ONE Corp）与迪拜媒体委员会签署合作备忘录，将通过旗下ONE Store为迪拜本地工作室提供全球发行、内购及虚拟经济系统等技术支持，并协助寻找投资机会，呼应迪拜计划到2033年跻身全球十大游戏城市的目标。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据报道：彭博社称EA关闭BioWare、取消新《质量效应》意在为《星球大战：前线3》让路",
+        "url": "https://www.dualshockers.com/insider-claims-star-wars-is-what-killed-mass-effect/",
+        "date": "2026-10-30",
+        "outlet": "DualShockers（援引彭博社）",
+        "summary_zh": "据彭博社匿名信源援引DualShockers报道，EA在被沙特PIF收购后为偿还约180亿美元债务而调整资源配置，管理层认为《星球大战》题材射击游戏比科幻背景相近的《质量效应》更具盈利确定性，叠加《质量效应：仙女座》《圣歌》及《龙腾世纪：影障守护者》表现不及预期，最终促成关闭BioWare、取消《质量效应：宇宙》的决定；EA官方说法仍为\"行业环境与长期可持续性\"考量。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据报道：彭博社称EA关闭BioWare、取消新《质量效应》意在为《星球大战：前线3》让路",
+          "url": "https://www.dualshockers.com/insider-claims-star-wars-is-what-killed-mass-effect/",
+          "date": "2026-10-30",
+          "outlet": "DualShockers（援引彭博社）",
+          "summary_zh": "据彭博社匿名信源援引DualShockers报道，EA在被沙特PIF收购后为偿还约180亿美元债务而调整资源配置，管理层认为《星球大战》题材射击游戏比科幻背景相近的《质量效应》更具盈利确定性，叠加《质量效应：仙女座》《圣歌》及《龙腾世纪：影障守护者》表现不及预期，最终促成关闭BioWare、取消《质量效应：宇宙》的决定；EA官方说法仍为\"行业环境与长期可持续性\"考量。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《毁灭战士》总监称Xbox\"重组\"裁掉id Software近半员工后工作室\"状况很好\"，更多裁员将在11月及明年1月到来",
+        "url": "https://kotaku.com/doom-director-says-were-doing-great-after-half-of-id-software-was-laid-off-2000751940",
+        "date": "2026-10-31",
+        "outlet": "Kotaku",
+        "summary_zh": "id Software联合总监Marty Stratton在媒体活动上表示，工作室在Xbox游戏部门\"重组\"中裁掉约一半员工后\"状况很好\"，团队规模与制作2016年《毁灭战士》时相当；他承认裁员冲击巨大，并透露Xbox此轮重组仍有约四分之一尚未完成，后续裁员将分别在11月和明年1月进行，id Tech引擎长期可持续性也引发业内担忧。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《毁灭战士》总监称Xbox\"重组\"裁掉id Software近半员工后工作室\"状况很好\"，更多裁员将在11月及明年1月到来",
+          "url": "https://kotaku.com/doom-director-says-were-doing-great-after-half-of-id-software-was-laid-off-2000751940",
+          "date": "2026-10-31",
+          "outlet": "Kotaku",
+          "summary_zh": "id Software联合总监Marty Stratton在媒体活动上表示，工作室在Xbox游戏部门\"重组\"中裁掉约一半员工后\"状况很好\"，团队规模与制作2016年《毁灭战士》时相当；他承认裁员冲击巨大，并透露Xbox此轮重组仍有约四分之一尚未完成，后续裁员将分别在11月和明年1月进行，id Tech引擎长期可持续性也引发业内担忧。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "沃尔玛取消部分《塞尔达传说》Switch 2预购订单，给用户48小时窗口重新下单",
+        "url": "https://kotaku.com/if-walmart-canceled-your-zelda-switch-2-pre-order-the-stores-giving-you-48-hours-to-get-a-new-one-2000751739",
+        "date": "2026-10-30",
+        "outlet": "Kotaku",
+        "summary_zh": "沃尔玛取消了部分《塞尔达传说》Switch 2相关商品的预购订单，并告知受影响用户将有48小时窗口重新下单，原因及受影响规模暂未详细说明。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "沃尔玛取消部分《塞尔达传说》Switch 2预购订单，给用户48小时窗口重新下单",
+          "url": "https://kotaku.com/if-walmart-canceled-your-zelda-switch-2-pre-order-the-stores-giving-you-48-hours-to-get-a-new-one-2000751739",
+          "date": "2026-10-30",
+          "outlet": "Kotaku",
+          "summary_zh": "沃尔玛取消了部分《塞尔达传说》Switch 2相关商品的预购订单，并告知受影响用户将有48小时窗口重新下单，原因及受影响规模暂未详细说明。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Bungie公布Destiny\"重置\"后路线图：旧有活动最早要等到2028年才会回归",
+        "url": "https://kotaku.com/bungie-outlines-the-road-to-a-new-forever-destiny-given-the-cards-its-been-dealt-after-a-true-reset-moment-2000751609",
+        "date": "2026-10-30",
+        "outlet": "Kotaku",
+        "summary_zh": "Bungie在社区更新中将当前阶段称为公司与《Marathon》《Destiny》系列的\"真正重置时刻\"，提出打造\"全新、永续的Destiny\"的长期目标；多数《命运2》经典战役内容要到2028年左右才会分阶段回归，\"解封\"项目目前处于预生产阶段，计划2027年2月进入全面制作。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Bungie公布Destiny\"重置\"后路线图：旧有活动最早要等到2028年才会回归",
+          "url": "https://kotaku.com/bungie-outlines-the-road-to-a-new-forever-destiny-given-the-cards-its-been-dealt-after-a-true-reset-moment-2000751609",
+          "date": "2026-10-30",
+          "outlet": "Kotaku",
+          "summary_zh": "Bungie在社区更新中将当前阶段称为公司与《Marathon》《Destiny》系列的\"真正重置时刻\"，提出打造\"全新、永续的Destiny\"的长期目标；多数《命运2》经典战役内容要到2028年左右才会分阶段回归，\"解封\"项目目前处于预生产阶段，计划2027年2月进入全面制作。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《天国：拯救》开发商Warhorse Studios称遭\"严重\"网络安全事件，据报道开发已基本停滞",
+        "url": "https://www.thegamer.com/kingdom-come-deliverance-developer-warhorse-serious-cybersecurity-incident/",
+        "date": "2026-10-31",
+        "outlet": "TheGamer",
+        "summary_zh": "Warhorse Studios CEO Martin Frývaldský确认公司系统遭\"未经授权访问\"，称事件\"严重\"，目前无法确认员工或用户个人信息是否受影响，公司正配合执法部门调查。据TheGamer援引匿名信源及网络帖子，此次攻击疑似为勒索软件，已波及公司全部系统，开发工作基本停滞，若消息属实可能影响《天国：拯救》续作及《指环王》相关项目，但上述细节尚未获Warhorse官方证实。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《天国：拯救》开发商Warhorse Studios称遭\"严重\"网络安全事件，据报道开发已基本停滞",
+          "url": "https://www.thegamer.com/kingdom-come-deliverance-developer-warhorse-serious-cybersecurity-incident/",
+          "date": "2026-10-31",
+          "outlet": "TheGamer",
+          "summary_zh": "Warhorse Studios CEO Martin Frývaldský确认公司系统遭\"未经授权访问\"，称事件\"严重\"，目前无法确认员工或用户个人信息是否受影响，公司正配合执法部门调查。据TheGamer援引匿名信源及网络帖子，此次攻击疑似为勒索软件，已波及公司全部系统，开发工作基本停滞，若消息属实可能影响《天国：拯救》续作及《指环王》相关项目，但上述细节尚未获Warhorse官方证实。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《最终幻想14》\"Evercold\"资料片延期至2027年2月23日",
+        "url": "https://www.gematsu.com/2026/10/final-fantasy-xiv-evercold-expansion-delayed-to-february-23-2027",
+        "date": "2026-10-31",
+        "outlet": "Gematsu",
+        "summary_zh": "史克威尔艾尼克斯宣布《最终幻想14》新资料片\"Evercold\"将延期至2027年2月23日发售，较此前计划推迟约一个月，同时公布了新宣传预告片。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《最终幻想14》\"Evercold\"资料片延期至2027年2月23日",
+          "url": "https://www.gematsu.com/2026/10/final-fantasy-xiv-evercold-expansion-delayed-to-february-23-2027",
+          "date": "2026-10-31",
+          "outlet": "Gematsu",
+          "summary_zh": "史克威尔艾尼克斯宣布《最终幻想14》新资料片\"Evercold\"将延期至2027年2月23日发售，较此前计划推迟约一个月，同时公布了新宣传预告片。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《Project SEKAI》开发商Colorful Palette成立动画子公司LATENT ONE",
+        "url": "https://www.invenglobal.com/articles/27978/colorful-palette-establishes-animation-subsidiary-latent-one",
+        "date": "2026-10-31",
+        "outlet": "Inven Global",
+        "summary_zh": "《初音未来 彩色舞台！feat.初音未来》开发商Colorful Palette宣布成立动画制作子公司LATENT ONE，由公司导演塚田陸担任CEO，负责企划、制作音乐视频及原创动画作品；该公司首个项目为《Project SEKAI》六周年纪念曲《Emerald》的动画MV。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《Project SEKAI》开发商Colorful Palette成立动画子公司LATENT ONE",
+          "url": "https://www.invenglobal.com/articles/27978/colorful-palette-establishes-animation-subsidiary-latent-one",
+          "date": "2026-10-31",
+          "outlet": "Inven Global",
+          "summary_zh": "《初音未来 彩色舞台！feat.初音未来》开发商Colorful Palette宣布成立动画制作子公司LATENT ONE，由公司导演塚田陸担任CEO，负责企划、制作音乐视频及原创动画作品；该公司首个项目为《Project SEKAI》六周年纪念曲《Emerald》的动画MV。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "苹果因台湾公平交易委员会调查，将App Store标准抽成从30%降至26%",
+        "url": "https://www.invenglobal.com/articles/27966/apple-cuts-taiwan-app-store-commission-to-26-after-fair-trade-commission-probe",
+        "date": "2026-10-30",
+        "outlet": "Inven Global",
+        "summary_zh": "苹果宣布自10月31日起，将台湾App Store标准应用内购买及付费应用抽成由30%降至26%，台湾开发者无需申请即自动适用新费率；此举系苹果与台湾公平交易委员会就是否违反当地《公平交易法》的调查达成和解，该委员会称26%已与日本、巴西等市场水平接近，并表示将持续监督苹果是否履行承诺。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "苹果因台湾公平交易委员会调查，将App Store标准抽成从30%降至26%",
+          "url": "https://www.invenglobal.com/articles/27966/apple-cuts-taiwan-app-store-commission-to-26-after-fair-trade-commission-probe",
+          "date": "2026-10-30",
+          "outlet": "Inven Global",
+          "summary_zh": "苹果宣布自10月31日起，将台湾App Store标准应用内购买及付费应用抽成由30%降至26%，台湾开发者无需申请即自动适用新费率；此举系苹果与台湾公平交易委员会就是否违反当地《公平交易法》的调查达成和解，该委员会称26%已与日本、巴西等市场水平接近，并表示将持续监督苹果是否履行承诺。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《Chronicles: Medieval》开发商Raw Power Games资金链断裂，警告抢先体验前可能倒闭",
+        "url": "https://www.invenglobal.com/articles/27961/chronicles-medieval-studio-raw-power-games-loses-funding-warns-it-may-close-before-early-access",
+        "date": "2026-10-30",
+        "outlet": "Inven Global",
+        "summary_zh": "中世纪沙盒RPG《Chronicles: Medieval》开发商Raw Power Games在社交媒体发布声明称，因\"不可控的外部因素\"失去资金支持，工作室\"面临真实的倒闭风险\"，目前正与潜在支持方洽谈但尚无确定结果，游戏原计划2027年推出抢先体验版本。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《Chronicles: Medieval》开发商Raw Power Games资金链断裂，警告抢先体验前可能倒闭",
+          "url": "https://www.invenglobal.com/articles/27961/chronicles-medieval-studio-raw-power-games-loses-funding-warns-it-may-close-before-early-access",
+          "date": "2026-10-30",
+          "outlet": "Inven Global",
+          "summary_zh": "中世纪沙盒RPG《Chronicles: Medieval》开发商Raw Power Games在社交媒体发布声明称，因\"不可控的外部因素\"失去资金支持，工作室\"面临真实的倒闭风险\"，目前正与潜在支持方洽谈但尚无确定结果，游戏原计划2027年推出抢先体验版本。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《Skyblivion》前志愿者因代码被移除威胁起诉项目组",
+        "url": "https://www.thegamer.com/skyblivion-former-volunteer-legal-threats-lawsuit/",
+        "date": "2026-10-31",
+        "outlet": "TheGamer",
+        "summary_zh": "粉丝重制项目《Skyblivion》团队披露，一名此前失去源码仓库访问权限的志愿者在其代码被反编译保留、随后被团队移除重写后，发出法律威胁要求提供团队负责人真实姓名及住址，遭团队拒绝，目前尚无正式诉讼文件提交。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《Skyblivion》前志愿者因代码被移除威胁起诉项目组",
+          "url": "https://www.thegamer.com/skyblivion-former-volunteer-legal-threats-lawsuit/",
+          "date": "2026-10-31",
+          "outlet": "TheGamer",
+          "summary_zh": "粉丝重制项目《Skyblivion》团队披露，一名此前失去源码仓库访问权限的志愿者在其代码被反编译保留、随后被团队移除重写后，发出法律威胁要求提供团队负责人真实姓名及住址，遭团队拒绝，目前尚无正式诉讼文件提交。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "索尼招聘\"数字游戏智能定价\"高级总监，PS Store动态定价担忧再起",
+        "url": "https://www.ithome.com/1/020/575.htm",
+        "date": "2026-10-31",
+        "outlet": "IT之家",
+        "summary_zh": "索尼被发现正招聘一名负责PlayStation Store\"智能定价\"（intelligent pricing）的数字游戏货币化高级总监，职位描述提及拓展定向优惠计划、提升第三方内容\"商业表现\"，引发玩家对PS Store引入动态定价机制的新一轮担忧；此前索尼已被曝向部分用户提供未公开规则的定向折扣。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "索尼招聘\"数字游戏智能定价\"高级总监，PS Store动态定价担忧再起",
+          "url": "https://www.ithome.com/1/020/575.htm",
+          "date": "2026-10-31",
+          "outlet": "IT之家",
+          "summary_zh": "索尼被发现正招聘一名负责PlayStation Store\"智能定价\"（intelligent pricing）的数字游戏货币化高级总监，职位描述提及拓展定向优惠计划、提升第三方内容\"商业表现\"，引发玩家对PS Store引入动态定价机制的新一轮担忧；此前索尼已被曝向部分用户提供未公开规则的定向折扣。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《Lords of the Fallen 2》开发商CI Games获约2860万欧元银团贷款，为游戏上线融资",
+        "url": "https://www.dualshockers.com/lords-of-the-fallen-2-secures-its-financing-with-ceo-gambit/",
+        "date": "2026-10-30",
+        "outlet": "DualShockers",
+        "summary_zh": "《Lords of the Fallen》开发商CI Games宣布获得由Erste Bank Polska及Bank Ochrony Środowiska安排的约2860万欧元银团贷款，约80%由波兰出口信贷机构KUKE担保，资金将用于完成《Lords of the Fallen 2》开发、全球营销及发售，并偿还公司原有全部银行债务；大股东兼总裁Marek Tymiński承诺贷款期内不出售所持股份，公司未增发新股。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《Lords of the Fallen 2》开发商CI Games获约2860万欧元银团贷款，为游戏上线融资",
+          "url": "https://www.dualshockers.com/lords-of-the-fallen-2-secures-its-financing-with-ceo-gambit/",
+          "date": "2026-10-30",
+          "outlet": "DualShockers",
+          "summary_zh": "《Lords of the Fallen》开发商CI Games宣布获得由Erste Bank Polska及Bank Ochrony Środowiska安排的约2860万欧元银团贷款，约80%由波兰出口信贷机构KUKE担保，资金将用于完成《Lords of the Fallen 2》开发、全球营销及发售，并偿还公司原有全部银行债务；大股东兼总裁Marek Tymiński承诺贷款期内不出售所持股份，公司未增发新股。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Embark公布《ARC Raiders》上线一周年数据：累计对局超60亿场",
+        "url": "https://gamesbeat.com/embark-shares-arc-raiders-play-data-after-a-year-6-billion-rounds-played/",
+        "date": "2026-10-30",
+        "outlet": "GamesBeat",
+        "summary_zh": "Embark Studios公布《ARC Raiders》上线一年来的运营数据：累计对局超60亿场，击毁ARC机械体超148亿次，累计销量超1600万份（Nexon截至5月数据）；受10月8日\"冰封之径\"更新带动，Steam同时在线玩家数环比上涨219%，好评率约81%（基于约43.3万条评测）。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Embark公布《ARC Raiders》上线一周年数据：累计对局超60亿场",
+          "url": "https://gamesbeat.com/embark-shares-arc-raiders-play-data-after-a-year-6-billion-rounds-played/",
+          "date": "2026-10-30",
+          "outlet": "GamesBeat",
+          "summary_zh": "Embark Studios公布《ARC Raiders》上线一年来的运营数据：累计对局超60亿场，击毁ARC机械体超148亿次，累计销量超1600万份（Nexon截至5月数据）；受10月8日\"冰封之径\"更新带动，Steam同时在线玩家数环比上涨219%，好评率约81%（基于约43.3万条评测）。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "乐元素UE5二次元游戏《白银之城》定档12月14日全球公测",
+        "url": "https://www.ithome.com/1/020/582.htm",
+        "date": "2026-10-30",
+        "outlet": "IT之家",
+        "summary_zh": "乐元素旗下基于Unreal Engine 5开发的二次元新游《白银之城》宣布将于12月14日在PC、PS5及移动平台同步开启全球公测，该消息同时获海外媒体Gematsu证实（英文名Silver Palace）。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "乐元素UE5二次元游戏《白银之城》定档12月14日全球公测",
+          "url": "https://www.ithome.com/1/020/582.htm",
+          "date": "2026-10-30",
+          "outlet": "IT之家",
+          "summary_zh": "乐元素旗下基于Unreal Engine 5开发的二次元新游《白银之城》宣布将于12月14日在PC、PS5及移动平台同步开启全球公测，该消息同时获海外媒体Gematsu证实（英文名Silver Palace）。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "完美世界Q3净利同比暴增211%、《异环》流水破27亿元；恺英网络前三季净利增超30%",
+        "url": "https://www.youxituoluo.com/535012.html",
+        "date": "2026-10-30",
+        "outlet": "游戏陀螺",
+        "summary_zh": "完美世界三季报显示，Q3营收23.62亿元、同比增长36.85%，归母净利润5.06亿元、同比大增211.47%，主要受益于《异环》（累计流水已超27亿元）带动；恺英网络前三季度营收72.58亿元（同比+78.11%）、归母净利润20.69亿元（同比+30.69%），公司还披露拟投资约20.3亿元间接入股韩国Wemade（尚待审批）。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "完美世界Q3净利同比暴增211%、《异环》流水破27亿元；恺英网络前三季净利增超30%",
+          "url": "https://www.youxituoluo.com/535012.html",
+          "date": "2026-10-30",
+          "outlet": "游戏陀螺",
+          "summary_zh": "完美世界三季报显示，Q3营收23.62亿元、同比增长36.85%，归母净利润5.06亿元、同比大增211.47%，主要受益于《异环》（累计流水已超27亿元）带动；恺英网络前三季度营收72.58亿元（同比+78.11%）、归母净利润20.69亿元（同比+30.69%），公司还披露拟投资约20.3亿元间接入股韩国Wemade（尚待审批）。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "中国10月下发195款游戏版号，腾讯、网易、完美世界等多款新游获批",
+        "url": "https://www.youxituoluo.com/535011.html",
+        "date": "2026-10-30",
+        "outlet": "游戏陀螺",
+        "summary_zh": "国家新闻出版署10月29日下发新一批国产网络游戏版号及进口游戏审批，共195款游戏过审（国产183款、进口12款），今年以来累计审批已达1766款；本批次中腾讯《不可卷卷书店》、网易《桃花》、完美世界《诛仙：归来》、37互娱《斗罗大陆：第十魂环》等获批，电魂网络代理的《奥丁：神叛》获得进口游戏版号。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "中国10月下发195款游戏版号，腾讯、网易、完美世界等多款新游获批",
+          "url": "https://www.youxituoluo.com/535011.html",
+          "date": "2026-10-30",
+          "outlet": "游戏陀螺",
+          "summary_zh": "国家新闻出版署10月29日下发新一批国产网络游戏版号及进口游戏审批，共195款游戏过审（国产183款、进口12款），今年以来累计审批已达1766款；本批次中腾讯《不可卷卷书店》、网易《桃花》、完美世界《诛仙：归来》、37互娱《斗罗大陆：第十魂环》等获批，电魂网络代理的《奥丁：神叛》获得进口游戏版号。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "育碧表示近期不会再推出新的《刺客信条》重制作品",
+        "url": "https://www.videogameschronicle.com/news/ubisoft-says-no-more-assassins-creed-remakes-are-planned-as-it-gives-updates-on-invictus-and-hexe/",
+        "date": "2026-10-30",
+        "outlet": "Video Games Chronicle",
+        "summary_zh": "育碧表示除已发售的《刺客信条4：黑旗 重新编译版》外，暂无计划推出更多《刺客信条》系列重制作品，同时就在研新作《Invictus》及《Hexe》进展给出了最新消息。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "育碧表示近期不会再推出新的《刺客信条》重制作品",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-says-no-more-assassins-creed-remakes-are-planned-as-it-gives-updates-on-invictus-and-hexe/",
+          "date": "2026-10-30",
+          "outlet": "Video Games Chronicle",
+          "summary_zh": "育碧表示除已发售的《刺客信条4：黑旗 重新编译版》外，暂无计划推出更多《刺客信条》系列重制作品，同时就在研新作《Invictus》及《Hexe》进展给出了最新消息。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "约翰·罗梅罗被Xbox取消的新作找到新发行商，部分团队成员获重新雇用",
+        "url": "https://www.videogameschronicle.com/news/john-romero-confirms-his-axed-xbox-game-has-a-new-publisher-and-hes-rehired-some-staff/",
+        "date": "2026-10-30",
+        "outlet": "Video Games Chronicle",
+        "summary_zh": "《毁灭战士》联合创作者约翰·罗梅罗确认，此前被Xbox取消发行的新射击游戏项目已找到新发行商，并已重新雇用部分此前裁撤的团队成员，具体游戏名称与新发行商身份尚待进一步公布。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "约翰·罗梅罗被Xbox取消的新作找到新发行商，部分团队成员获重新雇用",
+          "url": "https://www.videogameschronicle.com/news/john-romero-confirms-his-axed-xbox-game-has-a-new-publisher-and-hes-rehired-some-staff/",
+          "date": "2026-10-30",
+          "outlet": "Video Games Chronicle",
+          "summary_zh": "《毁灭战士》联合创作者约翰·罗梅罗确认，此前被Xbox取消发行的新射击游戏项目已找到新发行商，并已重新雇用部分此前裁撤的团队成员，具体游戏名称与新发行商身份尚待进一步公布。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "动视就《使命召唤：现代战争4》使用梨泰院踩踏事故真实画面道歉，承诺删除相关内容",
+        "url": "https://www.videogameschronicle.com/news/activision-apologizes-and-says-it-will-remove-south-korean-crush-footage-from-modern-warfare-4-after-victims-families-speak-out/",
+        "date": "2026-10-30",
+        "outlet": "Video Games Chronicle",
+        "summary_zh": "此前《使命召唤：现代战争4》被曝游戏内容使用了2022年韩国梨泰院踩踏事故真实新闻画面，遇难者家属公开发声要求删除后，动视公开致歉，并承诺将从游戏中移除相关素材。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "动视就《使命召唤：现代战争4》使用梨泰院踩踏事故真实画面道歉，承诺删除相关内容",
+          "url": "https://www.videogameschronicle.com/news/activision-apologizes-and-says-it-will-remove-south-korean-crush-footage-from-modern-warfare-4-after-victims-families-speak-out/",
+          "date": "2026-10-30",
+          "outlet": "Video Games Chronicle",
+          "summary_zh": "此前《使命召唤：现代战争4》被曝游戏内容使用了2022年韩国梨泰院踩踏事故真实新闻画面，遇难者家属公开发声要求删除后，动视公开致歉，并承诺将从游戏中移除相关素材。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

@@ -1,0 +1,346 @@
+{
+  "as_of": "2026-10-31",
+  "cutoff": "2026-10-24",
+  "window_days": 7,
+  "summary": {
+    "input_items": 8,
+    "denied_source": 0,
+    "in_window": 8,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 8,
+    "duplicate_clusters": 0,
+    "section1_count": 5,
+    "section2_count": 3,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": true,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 8,
+    "previously_covered_count": 0
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "【更新】Anthropic为Claude Opus 5.5新增“反克隆”护栏，禁止复刻特定现有游戏",
+        "url": "https://kotaku.com/anthropic-nerfs-claude-again-to-stop-users-from-making-ai-slop-out-of-any-specific-existing-game-2000751665",
+        "secondary_url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+        "date": "2026-10-30",
+        "outlet": "Kotaku / Game Developer",
+        "section": 1,
+        "core_facts": [
+          "Claude Opus 5.5在Claude Code中新增一条内部标记为“tengu_heron_brook”的规则，于10月27日出现在更新日志中，要求模型拒绝生成“对某个具体现有游戏的复刻，即便改名或自称原创”。",
+          "规则仍允许制作原创游戏、某一类型的游戏，以及基于用户自有设计和素材的游戏；官方举例：做赛车游戏可以，但做一款“像Need For Speed”的赛车游戏会触发限制。",
+          "有开发者在X平台称该规则由Anthropic服务器下发至Claude Code，用户端没有开关可以关闭；该限制并非Anthropic将于2026年11月12日生效的整体使用政策更新的一部分，而是提前以服务器端静默方式上线。",
+          "Anthropic技术团队成员Addy Osmani回应称，公司在Claude Code的提示词中加入了引导语句以避免模型复刻他人具体游戏，并强调利用Claude侵犯知识产权违反平台使用政策，原创游戏、类型游戏和使用自有素材的游戏仍可正常开发。"
+        ],
+        "background": [
+          "此前（约10月24日前后）Claude Opus 5.5被曝对游戏反编译/逆向工程工具“Reverse Engineer Anything”的支持能力遭疑似静默削弱，引发游戏反编译社区不满，当时Anthropic未就此发表官方说明。",
+          "本次是Anthropic首次正面确认在Claude Code中设置了专门针对“克隆现有游戏”的护栏规则，被视为对此前争议的延续和部分回应。"
+        ],
+        "outcomes": [
+          "Reddit等社区出现更多关于Claude新增“安全分类器”限制访问安全研究资料、已出版编程书籍等内容的抱怨，用户称影响范围已超出游戏复刻本身。",
+          "报道指出，此举与Anthropic此前因版权风险对AI辅助反编译移植游戏发出大量DMCA投诉的态度存在张力，反映AI公司在“防止侵权”与“保留生成能力”之间的持续摇摆。"
+        ]
+      },
+      "members": [
+        {
+          "title": "【更新】Anthropic为Claude Opus 5.5新增“反克隆”护栏，禁止复刻特定现有游戏",
+          "url": "https://kotaku.com/anthropic-nerfs-claude-again-to-stop-users-from-making-ai-slop-out-of-any-specific-existing-game-2000751665",
+          "secondary_url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+          "date": "2026-10-30",
+          "outlet": "Kotaku / Game Developer",
+          "section": 1,
+          "core_facts": [
+            "Claude Opus 5.5在Claude Code中新增一条内部标记为“tengu_heron_brook”的规则，于10月27日出现在更新日志中，要求模型拒绝生成“对某个具体现有游戏的复刻，即便改名或自称原创”。",
+            "规则仍允许制作原创游戏、某一类型的游戏，以及基于用户自有设计和素材的游戏；官方举例：做赛车游戏可以，但做一款“像Need For Speed”的赛车游戏会触发限制。",
+            "有开发者在X平台称该规则由Anthropic服务器下发至Claude Code，用户端没有开关可以关闭；该限制并非Anthropic将于2026年11月12日生效的整体使用政策更新的一部分，而是提前以服务器端静默方式上线。",
+            "Anthropic技术团队成员Addy Osmani回应称，公司在Claude Code的提示词中加入了引导语句以避免模型复刻他人具体游戏，并强调利用Claude侵犯知识产权违反平台使用政策，原创游戏、类型游戏和使用自有素材的游戏仍可正常开发。"
+          ],
+          "background": [
+            "此前（约10月24日前后）Claude Opus 5.5被曝对游戏反编译/逆向工程工具“Reverse Engineer Anything”的支持能力遭疑似静默削弱，引发游戏反编译社区不满，当时Anthropic未就此发表官方说明。",
+            "本次是Anthropic首次正面确认在Claude Code中设置了专门针对“克隆现有游戏”的护栏规则，被视为对此前争议的延续和部分回应。"
+          ],
+          "outcomes": [
+            "Reddit等社区出现更多关于Claude新增“安全分类器”限制访问安全研究资料、已出版编程书籍等内容的抱怨，用户称影响范围已超出游戏复刻本身。",
+            "报道指出，此举与Anthropic此前因版权风险对AI辅助反编译移植游戏发出大量DMCA投诉的态度存在张力，反映AI公司在“防止侵权”与“保留生成能力”之间的持续摇摆。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Roblox发布2026年Q3财报：用户与营收数据下滑，公司押注AI内容“大爆发”并推出跨平台发行新战略",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001315098/000162828026068235/ex991-q32026earningsshar.htm",
+        "secondary_url": "https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate",
+        "date": "2026-10-29",
+        "outlet": "Roblox（SEC 8-K文件）/ Game Developer / Kotaku / GamesBeat",
+        "section": 1,
+        "core_facts": [
+          "Roblox 2026年第三季度财报：营收15.72亿美元，同比增长16%；预订金额（bookings）16.97亿美元，同比下降12%（两年期对比仍增长逾50%）；日活跃用户1.38亿，同比下降9%但环比增长12%；参与时长近340亿小时，同比下降15%；财报公布后公司股价盘后一度下跌约11%。",
+          "Roblox在致股东信中称，过去三个月是AI应用于平台内容创作的“拐点”：按游玩时长排名前100的游戏中，超过80%使用了AI工具加速制作；云端素材日均上传量环比增长近两倍；使用AI制作并发布的游戏数量环比增长超过50%；自然语言建游戏工具Build已有超50万用户、产出超7万款游戏，10月日均素材上传量较此前增长两倍；Roblox MCP Server的日均调用量增长近五倍。",
+          "公司公布两项新计划：“万能播放器”（Universal Player）利用AI将现有主机/PC/移动端游戏导入Roblox云平台并转为多人联机，支持任意设备即点即玩；“Roblox Everywhere”允许创作者将基于Roblox制作的游戏自助发布到其他应用商店，首阶段计划于2027年上半年上线部分头部游戏。",
+          "CEO David Baszucki称AI正“从根本上重塑游戏行业”，并表示公司计划将MCP接口开放至所有主要Roblox Studio API，使AI智能体未来可执行创作者能做的几乎所有操作。"
+        ],
+        "background": [
+          "此次增长放缓发生在Roblox此前大幅下调2026年预订增长指引（由22%-26%下调至8%-12%）之后，市场此前已对其利润率因AI与基础设施投入承压有所预期。",
+          "财报发布前不久，Roblox刚承认其AI抓取智能体未经许可从第三方3D模型站Open3DLab抓取了145.5GB数据（含成人内容），公司称此举系失误并承诺相关内容不会用于AI训练。"
+        ],
+        "outcomes": [
+          "Kotaku、Game Developer等媒体对“内容大爆发”持批评态度，担心AI生成内容会进一步放大Roblox平台已存在的“优质内容被淹没”问题，并质疑“万能播放器”与跨平台发行计划在缺乏有效审核机制下，可能把这一问题带入Steam、主机及移动应用商店。",
+          "面对用户与参与时长的下滑，Roblox管理层将AI生成内容与自然语言创作工具作为对冲增长放缓的核心手段，而非收缩相关投入；公司强调20余年积累的玩法数据、发现算法、经济系统与安全机制将成为区分优质内容与同质化AI内容的关键壁垒。"
+        ]
+      },
+      "members": [
+        {
+          "title": "Roblox发布2026年Q3财报：用户与营收数据下滑，公司押注AI内容“大爆发”并推出跨平台发行新战略",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001315098/000162828026068235/ex991-q32026earningsshar.htm",
+          "secondary_url": "https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate",
+          "date": "2026-10-29",
+          "outlet": "Roblox（SEC 8-K文件）/ Game Developer / Kotaku / GamesBeat",
+          "section": 1,
+          "core_facts": [
+            "Roblox 2026年第三季度财报：营收15.72亿美元，同比增长16%；预订金额（bookings）16.97亿美元，同比下降12%（两年期对比仍增长逾50%）；日活跃用户1.38亿，同比下降9%但环比增长12%；参与时长近340亿小时，同比下降15%；财报公布后公司股价盘后一度下跌约11%。",
+            "Roblox在致股东信中称，过去三个月是AI应用于平台内容创作的“拐点”：按游玩时长排名前100的游戏中，超过80%使用了AI工具加速制作；云端素材日均上传量环比增长近两倍；使用AI制作并发布的游戏数量环比增长超过50%；自然语言建游戏工具Build已有超50万用户、产出超7万款游戏，10月日均素材上传量较此前增长两倍；Roblox MCP Server的日均调用量增长近五倍。",
+            "公司公布两项新计划：“万能播放器”（Universal Player）利用AI将现有主机/PC/移动端游戏导入Roblox云平台并转为多人联机，支持任意设备即点即玩；“Roblox Everywhere”允许创作者将基于Roblox制作的游戏自助发布到其他应用商店，首阶段计划于2027年上半年上线部分头部游戏。",
+            "CEO David Baszucki称AI正“从根本上重塑游戏行业”，并表示公司计划将MCP接口开放至所有主要Roblox Studio API，使AI智能体未来可执行创作者能做的几乎所有操作。"
+          ],
+          "background": [
+            "此次增长放缓发生在Roblox此前大幅下调2026年预订增长指引（由22%-26%下调至8%-12%）之后，市场此前已对其利润率因AI与基础设施投入承压有所预期。",
+            "财报发布前不久，Roblox刚承认其AI抓取智能体未经许可从第三方3D模型站Open3DLab抓取了145.5GB数据（含成人内容），公司称此举系失误并承诺相关内容不会用于AI训练。"
+          ],
+          "outcomes": [
+            "Kotaku、Game Developer等媒体对“内容大爆发”持批评态度，担心AI生成内容会进一步放大Roblox平台已存在的“优质内容被淹没”问题，并质疑“万能播放器”与跨平台发行计划在缺乏有效审核机制下，可能把这一问题带入Steam、主机及移动应用商店。",
+            "面对用户与参与时长的下滑，Roblox管理层将AI生成内容与自然语言创作工具作为对冲增长放缓的核心手段，而非收缩相关投入；公司强调20余年积累的玩法数据、发现算法、经济系统与安全机制将成为区分优质内容与同质化AI内容的关键壁垒。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Studio Atelico推出端侧AI引擎，支持Unity/Unreal/Godot本地运行AI NPC与语言模型",
+        "url": "https://www.pocketgamer.biz/studio-atelico-launches-on-device-ai-engine-for-game-developers/",
+        "secondary_url": null,
+        "date": "2026-10-29",
+        "outlet": "PocketGamer.biz",
+        "section": 1,
+        "core_facts": [
+          "Studio Atelico开放其Atelico AI Engine的早期访问申请，该引擎可在玩家设备本地（无需云服务）运行语言模型、图像生成、语音系统、语义搜索及AI驱动的角色行为，适配Unity、Unreal Engine与Godot三大引擎，支持Windows、macOS、iOS和Linux，并可选用GPU或CPU运算。",
+          "引擎内置专有的“计算图形调度器”（Compute Graphics Scheduler），让AI推理与游戏渲染并行运行而不争抢GPU资源以避免掉帧；全部AI处理均在本地完成，玩家数据不离开设备。",
+          "引擎提供工具让NPC拥有持续的人格、记忆、人际关系与动机，使其行为可随时间演变，而非遵循固定脚本。"
+        ],
+        "background": [
+          "创始人兼CEO Piero Molino表示，此前开发者在“智能玩法、性能与创作控制”之间往往只能三者取二，该引擎意在打破这一取舍；他强调“AI在游戏中的未来并非取代开发者”，并称“成功的工作室不会是用AI最多的那些”。",
+          "该引擎已在Studio Atelico自研的回合制卡牌骰子怪兽对战游戏《Bobium Brawlers》中实际应用，该游戏目前已进入封闭测试阶段。"
+        ],
+        "outcomes": [
+          "开发者可通过Studio Atelico官网申请早期访问，产品目前仍处于Early Access阶段，尚未大规模商用。",
+          "其“端侧运行+多引擎支持”模式为中小型工作室在不承担云端AI服务成本的情况下接入生成式AI NPC提供了新选择。"
+        ]
+      },
+      "members": [
+        {
+          "title": "Studio Atelico推出端侧AI引擎，支持Unity/Unreal/Godot本地运行AI NPC与语言模型",
+          "url": "https://www.pocketgamer.biz/studio-atelico-launches-on-device-ai-engine-for-game-developers/",
+          "secondary_url": null,
+          "date": "2026-10-29",
+          "outlet": "PocketGamer.biz",
+          "section": 1,
+          "core_facts": [
+            "Studio Atelico开放其Atelico AI Engine的早期访问申请，该引擎可在玩家设备本地（无需云服务）运行语言模型、图像生成、语音系统、语义搜索及AI驱动的角色行为，适配Unity、Unreal Engine与Godot三大引擎，支持Windows、macOS、iOS和Linux，并可选用GPU或CPU运算。",
+            "引擎内置专有的“计算图形调度器”（Compute Graphics Scheduler），让AI推理与游戏渲染并行运行而不争抢GPU资源以避免掉帧；全部AI处理均在本地完成，玩家数据不离开设备。",
+            "引擎提供工具让NPC拥有持续的人格、记忆、人际关系与动机，使其行为可随时间演变，而非遵循固定脚本。"
+          ],
+          "background": [
+            "创始人兼CEO Piero Molino表示，此前开发者在“智能玩法、性能与创作控制”之间往往只能三者取二，该引擎意在打破这一取舍；他强调“AI在游戏中的未来并非取代开发者”，并称“成功的工作室不会是用AI最多的那些”。",
+            "该引擎已在Studio Atelico自研的回合制卡牌骰子怪兽对战游戏《Bobium Brawlers》中实际应用，该游戏目前已进入封闭测试阶段。"
+          ],
+          "outcomes": [
+            "开发者可通过Studio Atelico官网申请早期访问，产品目前仍处于Early Access阶段，尚未大规模商用。",
+            "其“端侧运行+多引擎支持”模式为中小型工作室在不承担云端AI服务成本的情况下接入生成式AI NPC提供了新选择。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "NVIDIA发布RTX Spark笔记本AI工具更新，《幻刀百兵：零》等多款游戏同步升级DLSS 4.5与RTX Remix",
+        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+        "secondary_url": null,
+        "date": "2026-10-28",
+        "outlet": "NVIDIA",
+        "section": 1,
+        "core_facts": [
+          "华硕、戴尔、惠普、联想、微软、MSI等厂商在售的RTX Spark笔记本电脑（搭载Blackwell RTX GPU与Grace CPU，起售价2599美元）新增支持Nemotron 3.5 Transcribe语音转录模型、Liquid AI LFM3、本地智能体Hermes Agent，以及56亿参数的开源图像模型FLUX 3 Image Klein等AI工具，均可在设备本地运行。",
+          "同日，S-GAME开发的《幻刀百兵：零》正式发售，支持DLSS 4.5光线重构技术与最高6倍帧生成。",
+          "《我的世界》Java版、Portal with RTX及《半条命2 RTX》演示版通过RTX Remix 1.6获得DLSS 3D引导神经渲染升级。"
+        ],
+        "background": [
+          "这是NVIDIA在其官方博客发布的本地AI与游戏技术综合更新，整合了RTX Spark硬件生态、本地推理工具链与多款合作游戏的图形技术升级。"
+        ],
+        "outcomes": [
+          "多家笔记本厂商在售的RTX Spark产品线已同步获得上述AI工具支持，相关游戏玩家可直接体验对应图形升级，无需额外安装社区模组。"
+        ]
+      },
+      "members": [
+        {
+          "title": "NVIDIA发布RTX Spark笔记本AI工具更新，《幻刀百兵：零》等多款游戏同步升级DLSS 4.5与RTX Remix",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+          "secondary_url": null,
+          "date": "2026-10-28",
+          "outlet": "NVIDIA",
+          "section": 1,
+          "core_facts": [
+            "华硕、戴尔、惠普、联想、微软、MSI等厂商在售的RTX Spark笔记本电脑（搭载Blackwell RTX GPU与Grace CPU，起售价2599美元）新增支持Nemotron 3.5 Transcribe语音转录模型、Liquid AI LFM3、本地智能体Hermes Agent，以及56亿参数的开源图像模型FLUX 3 Image Klein等AI工具，均可在设备本地运行。",
+            "同日，S-GAME开发的《幻刀百兵：零》正式发售，支持DLSS 4.5光线重构技术与最高6倍帧生成。",
+            "《我的世界》Java版、Portal with RTX及《半条命2 RTX》演示版通过RTX Remix 1.6获得DLSS 3D引导神经渲染升级。"
+          ],
+          "background": [
+            "这是NVIDIA在其官方博客发布的本地AI与游戏技术综合更新，整合了RTX Spark硬件生态、本地推理工具链与多款合作游戏的图形技术升级。"
+          ],
+          "outcomes": [
+            "多家笔记本厂商在售的RTX Spark产品线已同步获得上述AI工具支持，相关游戏玩家可直接体验对应图形升级，无需额外安装社区模组。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "10人团队两年打造AI原生游戏《麦琪的花园》，制作人称传统流程或需五六年",
+        "url": "https://www.youxituoluo.com/535013.html",
+        "secondary_url": null,
+        "date": "2026-10-30",
+        "outlet": "游戏陀螺",
+        "section": 1,
+        "core_facts": [
+          "AI游戏公司AutoGame旗下《麦琪的花园》于2026年10月29日发售，将AI生成能力嵌入生存、营地建设与任务循环，角色、任务、关卡与道具均由AI动态生成。",
+          "制作人苦丁介绍，团队仅约10人（含3-4名程序、3名策划），借助约40个自研内部工具与AI辅助，在两年内完成约60%预期内容量并上线。",
+          "团队估算，若按传统开发流程达到同等内容量，需扩编4-5倍人力、耗时五六年。"
+        ],
+        "background": [
+          "该作定价48元人民币，并以生成游戏内“角色”的方式包装AI推理的Token使用成本，是国内AI原生游戏商业化的一次具体尝试。"
+        ],
+        "outcomes": [
+          "该作已正式发售，与同期发售的《幻刀百兵：零》等传统制作流程游戏同场竞争；报道中制作人对“AI游戏能否形成独立品类”持审慎态度，未给出乐观结论。"
+        ]
+      },
+      "members": [
+        {
+          "title": "10人团队两年打造AI原生游戏《麦琪的花园》，制作人称传统流程或需五六年",
+          "url": "https://www.youxituoluo.com/535013.html",
+          "secondary_url": null,
+          "date": "2026-10-30",
+          "outlet": "游戏陀螺",
+          "section": 1,
+          "core_facts": [
+            "AI游戏公司AutoGame旗下《麦琪的花园》于2026年10月29日发售，将AI生成能力嵌入生存、营地建设与任务循环，角色、任务、关卡与道具均由AI动态生成。",
+            "制作人苦丁介绍，团队仅约10人（含3-4名程序、3名策划），借助约40个自研内部工具与AI辅助，在两年内完成约60%预期内容量并上线。",
+            "团队估算，若按传统开发流程达到同等内容量，需扩编4-5倍人力、耗时五六年。"
+          ],
+          "background": [
+            "该作定价48元人民币，并以生成游戏内“角色”的方式包装AI推理的Token使用成本，是国内AI原生游戏商业化的一次具体尝试。"
+          ],
+          "outcomes": [
+            "该作已正式发售，与同期发售的《幻刀百兵：零》等传统制作流程游戏同场竞争；报道中制作人对“AI游戏能否形成独立品类”持审慎态度，未给出乐观结论。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Xsolla收购网页游戏发行平台GamePix，打造支持AI生成游戏的发行渠道",
+        "url": "https://gamesbeat.com/xsolla-acquires-gamepix-to-build-platform-for-web-and-ai-created-games/",
+        "secondary_url": null,
+        "date": "2026-10-29",
+        "outlet": "GamesBeat",
+        "section": 2,
+        "summary_zh": "全球游戏商业化服务商Xsolla宣布收购网页游戏发行平台GamePix（未披露金额），后者运营超1万款网页游戏、拥有4000多名开发者，其专有技术可将Unity或C++开发的PC/移动游戏压缩移植为体积缩小最多90%、无需安装的网页版本。Xsolla将为其接入覆盖200多地区、1000多种支付方式的商业化基础设施；GamePix CEO表示平台现已支持AI工具开发的游戏，创作者可在AI工具内直连GamePix与Xsolla完成发布、身份认证与支付。"
+      },
+      "members": [
+        {
+          "title": "Xsolla收购网页游戏发行平台GamePix，打造支持AI生成游戏的发行渠道",
+          "url": "https://gamesbeat.com/xsolla-acquires-gamepix-to-build-platform-for-web-and-ai-created-games/",
+          "secondary_url": null,
+          "date": "2026-10-29",
+          "outlet": "GamesBeat",
+          "section": 2,
+          "summary_zh": "全球游戏商业化服务商Xsolla宣布收购网页游戏发行平台GamePix（未披露金额），后者运营超1万款网页游戏、拥有4000多名开发者，其专有技术可将Unity或C++开发的PC/移动游戏压缩移植为体积缩小最多90%、无需安装的网页版本。Xsolla将为其接入覆盖200多地区、1000多种支付方式的商业化基础设施；GamePix CEO表示平台现已支持AI工具开发的游戏，创作者可在AI工具内直连GamePix与Xsolla完成发布、身份认证与支付。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Krafton旗下Ludo Robotics发布Ludi 0.2，将《PUBG》AI队友技术延伸至“社交智能”机器人",
+        "url": "https://gamesbeat.com/krafton-makes-socially-intelligent-ai-that-understands-people/",
+        "secondary_url": null,
+        "date": "2026-10-30",
+        "outlet": "GamesBeat",
+        "section": 2,
+        "summary_zh": "Krafton子公司Ludo Robotics在加州大学伯克利分校举办的湾区机器人研讨会上发布机器人智能系统新版本Ludi 0.2，称其在解读人类意图、把握社交线索、记忆推理、工具协同及手势识别等方面均有提升，底层建立在Krafton自研AI基础模型及《PUBG：绝地求生》“AI可玩队友”（Co-Playable Character）技术之上。Krafton CEO CH Kim表示，公司希望借助在游戏与虚拟世界中积累的经验，探索AI如何更自然地理解人类并在物理世界中与人互动。",
+        "core_facts": [],
+        "background": [],
+        "outcomes": []
+      },
+      "members": [
+        {
+          "title": "Krafton旗下Ludo Robotics发布Ludi 0.2，将《PUBG》AI队友技术延伸至“社交智能”机器人",
+          "url": "https://gamesbeat.com/krafton-makes-socially-intelligent-ai-that-understands-people/",
+          "secondary_url": null,
+          "date": "2026-10-30",
+          "outlet": "GamesBeat",
+          "section": 2,
+          "summary_zh": "Krafton子公司Ludo Robotics在加州大学伯克利分校举办的湾区机器人研讨会上发布机器人智能系统新版本Ludi 0.2，称其在解读人类意图、把握社交线索、记忆推理、工具协同及手势识别等方面均有提升，底层建立在Krafton自研AI基础模型及《PUBG：绝地求生》“AI可玩队友”（Co-Playable Character）技术之上。Krafton CEO CH Kim表示，公司希望借助在游戏与虚拟世界中积累的经验，探索AI如何更自然地理解人类并在物理世界中与人互动。",
+          "core_facts": [],
+          "background": [],
+          "outcomes": []
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Game Developer播客聚焦反作弊，暴雪前风控人士谈黑客利用生成式AI/LLM开发外挂新威胁",
+        "url": "https://www.gamedeveloper.com/programming/gdc-side-quest-an-anti-cheat-primer-with-lucia-suarez",
+        "secondary_url": null,
+        "date": "2026-10-30",
+        "outlet": "Game Developer",
+        "section": 2,
+        "summary_zh": "Game Developer播客节目《GDC Side Quest》10月30日发布一期反作弊入门访谈，嘉宾Lucia Suarez曾在暴雪娱乐风险运营团队任职，分享其在《魔兽世界》多年抵御外挂开发者的经历。节目简介指出，黑客、诈骗者等恶意行为者正日益利用包括LLM在内的生成式AI工具开发作弊程序和外挂，对游戏开发者的工作完整性构成新的威胁，但节目页面未披露反作弊方是否也在使用AI/机器学习进行检测防御的具体细节。"
+      },
+      "members": [
+        {
+          "title": "Game Developer播客聚焦反作弊，暴雪前风控人士谈黑客利用生成式AI/LLM开发外挂新威胁",
+          "url": "https://www.gamedeveloper.com/programming/gdc-side-quest-an-anti-cheat-primer-with-lucia-suarez",
+          "secondary_url": null,
+          "date": "2026-10-30",
+          "outlet": "Game Developer",
+          "section": 2,
+          "summary_zh": "Game Developer播客节目《GDC Side Quest》10月30日发布一期反作弊入门访谈，嘉宾Lucia Suarez曾在暴雪娱乐风险运营团队任职，分享其在《魔兽世界》多年抵御外挂开发者的经历。节目简介指出，黑客、诈骗者等恶意行为者正日益利用包括LLM在内的生成式AI工具开发作弊程序和外挂，对游戏开发者的工作完整性构成新的威胁，但节目页面未披露反作弊方是否也在使用AI/机器学习进行检测防御的具体细节。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
