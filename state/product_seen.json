@@ -148,10 +148,17 @@
   "https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play": {
     "name": "Roblox Scene Generator (prompt-to-scene for Build & Studio)",
     "company": "Roblox",
-    "tier": "Announced only",
+    "tier": "Public beta/preview",
     "first_seen": "2026-09-17",
     "release_date": "2026-09-11",
-    "summary": "Roblox announced Scene Generator, which will power prompt-to-scene functionality across both Build and Studio, letting creators turn a text prompt and reference image into a fully functional layout to refine in Studio."
+    "summary": "Roblox announced Scene Generator, which will power prompt-to-scene functionality across both Build and Studio, letting creators turn a text prompt and reference image into a fully functional layout to refine in Studio.",
+    "last_update": "2026-10-30",
+    "updates": [
+      {
+        "date": "2026-10-30",
+        "change": "Roblox shipped Scene Generator as a working Studio Beta feature (https://devforum.roblox.com/t/introducing-scene-generation-prototype-scenes-faster/4966611) — a tier change from Announced-only to Public beta/preview. A creator can generate an editable scene (models, textures, terrain) from a source image, text prompt, or both, via the Assistant /generate_scene command or a right-click Generate > Scene viewport menu entry, in about 2-3 minutes per generation."
+      }
+    ]
   },
   "https://devforum.roblox.com/t/rdc26-what-we-announced/4865880": {
     "name": "RDC 2026 roadmap items — NPC Dynamic Behavior, New Default Movement, Silhouette-preserving Layered Clothing (character animation)",
@@ -655,5 +662,13 @@
     "first_seen": "2026-10-29",
     "release_date": "2026-10-27",
     "summary": "Roblox opened an Early Access Program for AnimatedImages, a frame-based 2D animation system (AnimatedImage asset type, Aseprite import, AnimationPlayer, AnimatedImageService), limited to selected creators in Studio only; \"you cannot publish places with these features yet.\""
+  },
+  "https://devforum.roblox.com/t/studio-beta-generate-game-characters-with-prompt-to-avatar/4964945": {
+    "name": "Roblox Studio — Prompt-to-Avatar (Generate Game Characters)",
+    "company": "Roblox",
+    "tier": "Public beta/preview",
+    "first_seen": "2026-10-31",
+    "release_date": "2026-10-29",
+    "summary": "Roblox shipped a beta Avatar Setup tool that generates a full Roblox-ready 3D character model from a text prompt: a creator describes a character, refines a generated 2D concept image, then builds the 3D model with a choice of built-in clothing or a bare body, static or dynamic head, and R15 or Advanced R15 rig."
   }
 }
