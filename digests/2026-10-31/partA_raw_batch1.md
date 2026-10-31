@@ -1,6 +1,6 @@
 ## LucidLyra: Feed-Forward Generative 3D Scene Reconstruction and Joint Understanding via Multi-Task Distillation
 - **arXiv:** 2610.40495 · https://arxiv.org/abs/2610.40495
-- **Submitted:** 29 October 2026
+- **Submitted:** 2026-10-29
 - **Authors:** Oliver Hahn, Rodrigo Marcuzzi, Sangeetha Grama Srinivasan, Alessandro Burzio, Sherwin Bahmani, Jiahui Huang, Stefan Roth, Shengyu Huang, Qunjie Zhou, Laura Leal-Taixé
 - **Qualifying affiliation(s):** NVIDIA — Oliver Hahn, Stefan Roth (also Sherwin Bahmani, work done while at NVIDIA)
 - **Categories:** cs.CV
@@ -15,7 +15,7 @@
 
 ## Wizard: Manipulate Any World in Real Time via Agentic Control
 - **arXiv:** 2610.40339 · https://arxiv.org/abs/2610.40339
-- **Submitted:** 29 October 2026
+- **Submitted:** 2026-10-29
 - **Authors:** Yuzhe Wu, Zijun Lin, Yeying Jin
 - **Qualifying affiliation(s):** Tencent — Yuzhe Wu, Zijun Lin, Yeying Jin
 - **Categories:** cs.CV
@@ -30,7 +30,7 @@
 
 ## RFW-A: Agentic Procedural Generation of 400K Articulated Assets over 500 Categories
 - **arXiv:** 2610.40333 · https://arxiv.org/abs/2610.40333
-- **Submitted:** 29 October 2026
+- **Submitted:** 2026-10-29
 - **Authors:** Yuanbo Lyu, Changjian Pan, Saining Zhang, Yi Yang, Peishuo Li, Zhiheng Li, Jialu Liu, Junhao Chen, Jiawei Weng, Yupeng Gao, Weiqing Xiao, Wenyi Li, Jiarui Guo, Rui Zhang, Jingrun Du, Weiyi Lin, Zenan Meng, Hu Wei, Lin Qu, Zongzheng Zhang, Hao Zhao, Chaojian Li
 - **Qualifying affiliation(s):** Alibaba Group — Yuanbo Lyu, Yi Yang, Jiawei Weng, Weiyi Lin, Lin Qu, Zenan Meng, Hu Wei (corresponding authors' contact emails use @alibaba-inc.com), plus Wenyi Li, Jiarui Guo, Rui Zhang, Jingrun Du (dual Alibaba/Tsinghua)
 - **Categories:** cs.CV
@@ -45,7 +45,7 @@
 
 ## PhysAg3D: Bridging 3D Generative and Agentic Models for High-Fidelity and Physically-Interactive Assets
 - **arXiv:** 2610.39924 · https://arxiv.org/abs/2610.39924
-- **Submitted:** 29 October 2026
+- **Submitted:** 2026-10-29
 - **Authors:** Bi'an Du, Fanpeng Meng, Jiemin Fang, Chen Yang, Pufan Li, Daizong Liu, Qi Tian, Wei Hu
 - **Qualifying affiliation(s):** Huawei — Fanpeng Meng, Jiemin Fang, Chen Yang, Qi Tian (also Guangdong Laboratory of Artificial Intelligence and Digital Economy); FLAG: borderline (Huawei is not on the core tracked list but is a comparable top-tier industry lab)
 - **Categories:** cs.CV
@@ -60,7 +60,7 @@
 
 ## Aligning Misaligned Benchmarks for Single-View Novel View Synthesis
 - **arXiv:** 2610.38349 · https://arxiv.org/abs/2610.38349
-- **Submitted:** 28 October 2026
+- **Submitted:** 2026-10-28
 - **Authors:** Yang-Che Tseng, Erqun Dong, Jeong-gi Kwak, Gopal Sharma, Shakiba Kheradmand, Stephan Garbin, Hossam Isack, Kwang Moo Yi
 - **Qualifying affiliation(s):** Google — Stephan Garbin, Hossam Isack
 - **Categories:** cs.CV, cs.AI
@@ -75,7 +75,7 @@
 
 ## ETA-Motion: Efficient Topology-Agnostic Motion Diffusion via Sparse Joint Learning
 - **arXiv:** 2610.38259 · https://arxiv.org/abs/2610.38259
-- **Submitted:** 28 October 2026
+- **Submitted:** 2026-10-28
 - **Authors:** Seoyoung Hwang, Tae-Kyun Kim
 - **Qualifying affiliation(s):** Samsung Electronics — Seoyoung Hwang (dual KAIST/Samsung Electronics); FLAG: borderline (Samsung is not on the core tracked list but is a comparable top-tier industry lab)
 - **Categories:** cs.CV
@@ -90,7 +90,7 @@
 
 ## METATRON: A Promptable Whole-Body Execution Layer for Humanoids
 - **arXiv:** 2610.38027 · https://arxiv.org/abs/2610.38027
-- **Submitted:** 27 October 2026
+- **Submitted:** 2026-10-27
 - **Authors:** Chen Tessler, Yifeng Jiang, Alec Otto, Yi Shi, Umar Iqbal, Gal Chechik, Xue Bin Peng
 - **Qualifying affiliation(s):** NVIDIA — Chen Tessler, Yifeng Jiang, Yi Shi, Umar Iqbal, Gal Chechik, Xue Bin Peng (Alec Otto, Dollhouse Robotics, interned at NVIDIA)
 - **Categories:** cs.RO, cs.AI
@@ -105,7 +105,7 @@
 
 ## GOFish: Full Field-of-View Gaussian Splatting and Mesh Extraction
 - **arXiv:** 2610.37818 · https://arxiv.org/abs/2610.37818
-- **Submitted:** 27 October 2026
+- **Submitted:** 2026-10-27
 - **Authors:** Allen Tu, Meher Gitika Karumuri, Shifan Zhu, Hailing Wang, Yen-Liang Lin, David Held, Matthias Zwicker, Tom Goldstein
 - **Qualifying affiliation(s):** Amazon — Allen Tu, Meher Gitika Karumuri, Shifan Zhu, Hailing Wang, Yen-Liang Lin, David Held (per PDF affiliation superscript "1 = Amazon"; most likely as an internship collaboration, since other authors hold University of Maryland/Northeastern/CMU affiliations)
 - **Categories:** cs.CV, cs.GR, cs.RO

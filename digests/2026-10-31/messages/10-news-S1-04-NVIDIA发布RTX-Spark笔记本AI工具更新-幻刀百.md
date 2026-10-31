@@ -1,0 +1,11 @@
+**[新闻 4] NVIDIA发布RTX Spark笔记本AI工具更新，《幻刀百兵：零》等多款游戏同步升级DLSS 4.5与RTX Remix**
+- **日期：** 2026-10-28
+- **来源链接：** <https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/>
+- **核心事实：**
+  - 华硕、戴尔、惠普、联想、微软、MSI等厂商在售的RTX Spark笔记本电脑（搭载Blackwell RTX GPU与Grace CPU，起售价2599美元）新增支持Nemotron 3.5 Transcribe语音转录模型、Liquid AI LFM3、本地智能体Hermes Agent，以及56亿参数的开源图像模型FLUX 3 Image Klein等AI工具，均可在设备本地运行。
+  - 同日，S-GAME开发的《幻刀百兵：零》正式发售，支持DLSS 4.5光线重构技术与最高6倍帧生成。
+  - 《我的世界》Java版、Portal with RTX及《半条命2 RTX》演示版通过RTX Remix 1.6获得DLSS 3D引导神经渲染升级。
+- **背景与起因：**
+  - 这是NVIDIA在其官方博客发布的本地AI与游戏技术综合更新，整合了RTX Spark硬件生态、本地推理工具链与多款合作游戏的图形技术升级。
+- **结果与进展：**
+  - 多家笔记本厂商在售的RTX Spark产品线已同步获得上述AI工具支持，相关游戏玩家可直接体验对应图形升级，无需额外安装社区模组。

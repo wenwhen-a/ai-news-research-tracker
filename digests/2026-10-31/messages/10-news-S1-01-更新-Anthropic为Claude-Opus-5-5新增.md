@@ -1,0 +1,14 @@
+**[新闻 1] 更新】Anthropic为Claude Opus 5.5新增“反克隆”护栏，禁止复刻特定现有游戏**
+- **日期：** 2026-10-30
+- **来源链接：** <https://kotaku.com/anthropic-nerfs-claude-again-to-stop-users-from-making-ai-slop-out-of-any-specific-existing-game-2000751665>（另见：<https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games>）
+- **核心事实：**
+  - Claude Opus 5.5在Claude Code中新增一条内部标记为“tengu_heron_brook”的规则，于10月27日出现在更新日志中，要求模型拒绝生成“对某个具体现有游戏的复刻，即便改名或自称原创”。
+  - 规则仍允许制作原创游戏、某一类型的游戏，以及基于用户自有设计和素材的游戏；官方举例：做赛车游戏可以，但做一款“像Need For Speed”的赛车游戏会触发限制。
+  - 有开发者在X平台称该规则由Anthropic服务器下发至Claude Code，用户端没有开关可以关闭；该限制并非Anthropic将于2026年11月12日生效的整体使用政策更新的一部分，而是提前以服务器端静默方式上线。
+  - Anthropic技术团队成员Addy Osmani回应称，公司在Claude Code的提示词中加入了引导语句以避免模型复刻他人具体游戏，并强调利用Claude侵犯知识产权违反平台使用政策，原创游戏、类型游戏和使用自有素材的游戏仍可正常开发。
+- **背景与起因：**
+  - 此前（约10月24日前后）Claude Opus 5.5被曝对游戏反编译/逆向工程工具“Reverse Engineer Anything”的支持能力遭疑似静默削弱，引发游戏反编译社区不满，当时Anthropic未就此发表官方说明。
+  - 本次是Anthropic首次正面确认在Claude Code中设置了专门针对“克隆现有游戏”的护栏规则，被视为对此前争议的延续和部分回应。
+- **结果与进展：**
+  - Reddit等社区出现更多关于Claude新增“安全分类器”限制访问安全研究资料、已出版编程书籍等内容的抱怨，用户称影响范围已超出游戏复刻本身。
+  - 报道指出，此举与Anthropic此前因版权风险对AI辅助反编译移植游戏发出大量DMCA投诉的态度存在张力，反映AI公司在“防止侵权”与“保留生成能力”之间的持续摇摆。

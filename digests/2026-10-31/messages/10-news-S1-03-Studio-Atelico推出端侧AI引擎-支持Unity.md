@@ -1,0 +1,13 @@
+**[新闻 3] Studio Atelico推出端侧AI引擎，支持Unity/Unreal/Godot本地运行AI NPC与语言模型**
+- **日期：** 2026-10-29
+- **来源链接：** <https://www.pocketgamer.biz/studio-atelico-launches-on-device-ai-engine-for-game-developers/>
+- **核心事实：**
+  - Studio Atelico开放其Atelico AI Engine的早期访问申请，该引擎可在玩家设备本地（无需云服务）运行语言模型、图像生成、语音系统、语义搜索及AI驱动的角色行为，适配Unity、Unreal Engine与Godot三大引擎，支持Windows、macOS、iOS和Linux，并可选用GPU或CPU运算。
+  - 引擎内置专有的“计算图形调度器”（Compute Graphics Scheduler），让AI推理与游戏渲染并行运行而不争抢GPU资源以避免掉帧；全部AI处理均在本地完成，玩家数据不离开设备。
+  - 引擎提供工具让NPC拥有持续的人格、记忆、人际关系与动机，使其行为可随时间演变，而非遵循固定脚本。
+- **背景与起因：**
+  - 创始人兼CEO Piero Molino表示，此前开发者在“智能玩法、性能与创作控制”之间往往只能三者取二，该引擎意在打破这一取舍；他强调“AI在游戏中的未来并非取代开发者”，并称“成功的工作室不会是用AI最多的那些”。
+  - 该引擎已在Studio Atelico自研的回合制卡牌骰子怪兽对战游戏《Bobium Brawlers》中实际应用，该游戏目前已进入封闭测试阶段。
+- **结果与进展：**
+  - 开发者可通过Studio Atelico官网申请早期访问，产品目前仍处于Early Access阶段，尚未大规模商用。
+  - 其“端侧运行+多引擎支持”模式为中小型工作室在不承担云端AI服务成本的情况下接入生成式AI NPC提供了新选择。
