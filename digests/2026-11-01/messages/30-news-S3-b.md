@@ -1,0 +1,1 @@
+- **众筹掌机Arduview自称全球首款「全透明」掌机，内置约400款游戏**（2026-10-31）— 基于开源Arduboy平台打造的信用卡大小掌机Arduview在Kickstarter众筹成功，官方称其为"全球首款屏幕完全透明的掌机"，关机时屏幕呈透明玻璃状，内置约400款游戏，早鸟价约75-99美元。 <https://www.videogameschronicle.com/news/the-arduview-is-the-worlds-first-fully-transparent-handheld-including-the-screen/>
