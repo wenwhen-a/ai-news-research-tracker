@@ -1,0 +1,241 @@
+{
+  "as_of": "2026-11-01",
+  "cutoff": "2026-10-31",
+  "window_days": 1,
+  "summary": {
+    "input_items": 11,
+    "denied_source": 0,
+    "in_window": 10,
+    "out_of_window": 1,
+    "invalid_date": 0,
+    "unique_after_dedup": 10,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 10,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 9,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Valve已取消的《传送门》前传原型「F-Stop」相关资料遭泄露",
+        "url": "https://kotaku.com/valves-cancelled-portal-prequel-f-stop-has-leaked-2000752082",
+        "date": "2026-11-01",
+        "summary": "据Kotaku报道，Valve已取消的《传送门》前传原型「F-Stop」相关资料11月1日在网络流出，但尚无完整关卡或玩法演示曝光。该项目原计划用相机机制取代传送枪，其设计理念后来被独立游戏《Superliminal》借鉴。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Valve已取消的《传送门》前传原型「F-Stop」相关资料遭泄露",
+          "url": "https://kotaku.com/valves-cancelled-portal-prequel-f-stop-has-leaked-2000752082",
+          "date": "2026-11-01",
+          "summary": "据Kotaku报道，Valve已取消的《传送门》前传原型「F-Stop」相关资料11月1日在网络流出，但尚无完整关卡或玩法演示曝光。该项目原计划用相机机制取代传送枪，其设计理念后来被独立游戏《Superliminal》借鉴。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "任天堂突袭推出专题直面会，宫本茂宣布11月1日起为年度「匹奇民日」",
+        "url": "https://kotaku.com/shigeru-miyamoto-declares-november-1st-pikmin-day-in-surprise-nintendo-direct-2000751948",
+        "date": "2026-10-31",
+        "summary": "任天堂10月31日突袭发布《匹奇民》系列专题直面会，宫本茂宣布将每年11月1日设为「匹奇民日」，并公布新动画短片及《匹奇民4》Switch 2版试玩Demo的推出计划。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "任天堂突袭推出专题直面会，宫本茂宣布11月1日起为年度「匹奇民日」",
+          "url": "https://kotaku.com/shigeru-miyamoto-declares-november-1st-pikmin-day-in-surprise-nintendo-direct-2000751948",
+          "date": "2026-10-31",
+          "summary": "任天堂10月31日突袭发布《匹奇民》系列专题直面会，宫本茂宣布将每年11月1日设为「匹奇民日」，并公布新动画短片及《匹奇民4》Switch 2版试玩Demo的推出计划。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "EA马德里办公室遭喷涂「拯救质量效应」涂鸦，联署签名已突破25万",
+        "url": "https://kotaku.com/ea-offices-tagged-with-save-mass-effect-graffiti-2000751962",
+        "date": "2026-10-31",
+        "summary": "继EA本月早些时候宣布关闭BioWare并取消新《质量效应》项目后，其马德里办公室10月31日被曝遭喷涂「SAVE MASS EFFECT」涂鸦；此前粉丝已在纽约时代广场投放抗议广告，Change.org联署签名已突破25万人。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "EA马德里办公室遭喷涂「拯救质量效应」涂鸦，联署签名已突破25万",
+          "url": "https://kotaku.com/ea-offices-tagged-with-save-mass-effect-graffiti-2000751962",
+          "date": "2026-10-31",
+          "summary": "继EA本月早些时候宣布关闭BioWare并取消新《质量效应》项目后，其马德里办公室10月31日被曝遭喷涂「SAVE MASS EFFECT」涂鸦；此前粉丝已在纽约时代广场投放抗议广告，Change.org联署签名已突破25万人。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "HoYoverse确认《Petit Planet》登陆Switch 2，PC/手机版12月4日先行上线",
+        "url": "https://www.pushsquare.com/news/2026/11/hoyoverses-animal-crossing-rival-skips-ps5-for-switch-2",
+        "date": "2026-11-01",
+        "summary": "HoYoverse在特别节目中确认模拟经营新作《Petit Planet》将于12月4日登陆PC及手机平台，并承诺2027年推出Switch 2版本；官方当时未提及PS5版本计划。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "HoYoverse确认《Petit Planet》登陆Switch 2，PC/手机版12月4日先行上线",
+          "url": "https://www.pushsquare.com/news/2026/11/hoyoverses-animal-crossing-rival-skips-ps5-for-switch-2",
+          "date": "2026-11-01",
+          "summary": "HoYoverse在特别节目中确认模拟经营新作《Petit Planet》将于12月4日登陆PC及手机平台，并承诺2027年推出Switch 2版本；官方当时未提及PS5版本计划。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据报道《女神异闻录1》重制版疑似实机画面网络流出，真实性未经官方确认",
+        "url": "https://www.pushsquare.com/news/2026/11/rumour-alleged-persona-1-remake-gameplay-leaks-online",
+        "date": "2026-11-01",
+        "summary": "据PushSquare报道，一段疑似《女神异闻录1》重制版实机画面11月1日在网络流出，画面显示角色沿用了尚未发布的《女神异闻录4 Revival》动作，该消息未经Atlus官方证实。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据报道《女神异闻录1》重制版疑似实机画面网络流出，真实性未经官方确认",
+          "url": "https://www.pushsquare.com/news/2026/11/rumour-alleged-persona-1-remake-gameplay-leaks-online",
+          "date": "2026-11-01",
+          "summary": "据PushSquare报道，一段疑似《女神异闻录1》重制版实机画面11月1日在网络流出，画面显示角色沿用了尚未发布的《女神异闻录4 Revival》动作，该消息未经Atlus官方证实。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据报道《Days Gone》开发商Bend Studio新作预计2027年公布，为非服务型第三人称射击游戏",
+        "url": "https://www.dualshockers.com/days-gone-developer-bend-studio-reveal-next-game-2027/",
+        "date": "2026-10-31",
+        "summary": "据爆料媒体MP1st及DualShockers报道，索尼旗下Bend Studio正在开发一款带联机要素、非服务型的第三人称射击新作，独立于《Days Gone》世界观，预计2027年对外公布；此前团队的服务型项目「Mirror Pond」已被取消。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据报道《Days Gone》开发商Bend Studio新作预计2027年公布，为非服务型第三人称射击游戏",
+          "url": "https://www.dualshockers.com/days-gone-developer-bend-studio-reveal-next-game-2027/",
+          "date": "2026-10-31",
+          "summary": "据爆料媒体MP1st及DualShockers报道，索尼旗下Bend Studio正在开发一款带联机要素、非服务型的第三人称射击新作，独立于《Days Gone》世界观，预计2027年对外公布；此前团队的服务型项目「Mirror Pond」已被取消。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "VR工作室Resolution Games为XREAL AURA智能眼镜推出新游戏《Holochess》",
+        "url": "https://gamesbeat.com/resolution-games-launches-holochess-alongside-xreal-aura/",
+        "date": "2026-10-31",
+        "summary": "Resolution Games为搭载Android XR系统的XREAL AURA智能眼镜发布免费新游戏《Holochess》，支持单机与1v1联机对战，采用两阵营免费、第三阵营2.99美元内购解锁的模式。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "VR工作室Resolution Games为XREAL AURA智能眼镜推出新游戏《Holochess》",
+          "url": "https://gamesbeat.com/resolution-games-launches-holochess-alongside-xreal-aura/",
+          "date": "2026-10-31",
+          "summary": "Resolution Games为搭载Android XR系统的XREAL AURA智能眼镜发布免费新游戏《Holochess》，支持单机与1v1联机对战，采用两阵营免费、第三阵营2.99美元内购解锁的模式。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Activision就《使命召唤：现代战争4》使用韩国梨泰院踩踏事故真实画面致歉，承诺移除相关片段",
+        "url": "https://www.videogameschronicle.com/news/activision-apologizes-and-says-it-will-remove-south-korean-crush-footage-from-modern-warfare-4-after-victims-families-speak-out/",
+        "date": "2026-10-31",
+        "summary": "此前《使命召唤：现代战争4》开场动画被曝使用2022年韩国梨泰院踩踏事故的真实新闻画面，遇难者家属协会及消费者团体要求删除；Activision 10月31日正式致歉，并承诺移除相关片段。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Activision就《使命召唤：现代战争4》使用韩国梨泰院踩踏事故真实画面致歉，承诺移除相关片段",
+          "url": "https://www.videogameschronicle.com/news/activision-apologizes-and-says-it-will-remove-south-korean-crush-footage-from-modern-warfare-4-after-victims-families-speak-out/",
+          "date": "2026-10-31",
+          "summary": "此前《使命召唤：现代战争4》开场动画被曝使用2022年韩国梨泰院踩踏事故的真实新闻画面，遇难者家属协会及消费者团体要求删除；Activision 10月31日正式致歉，并承诺移除相关片段。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "小岛秀夫新作《PHYSINT》东京展览曝光神秘机械原型，外形与《合金装备》机体相近",
+        "url": "https://www.dualshockers.com/kojima-confirms-that-physint-is-in-fact-about-metal-gear/",
+        "date": "2026-10-31",
+        "summary": "小岛制作室10周年「Beyond the Strand」东京展览现场照片显示，《PHYSINT》展出的两具机械设计分别与《合金装备4》Gekko机体及初代《合金装备》REX外形相近，但官方尚未证实二者会出现在成品游戏中。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "小岛秀夫新作《PHYSINT》东京展览曝光神秘机械原型，外形与《合金装备》机体相近",
+          "url": "https://www.dualshockers.com/kojima-confirms-that-physint-is-in-fact-about-metal-gear/",
+          "date": "2026-10-31",
+          "summary": "小岛制作室10周年「Beyond the Strand」东京展览现场照片显示，《PHYSINT》展出的两具机械设计分别与《合金装备4》Gekko机体及初代《合金装备》REX外形相近，但官方尚未证实二者会出现在成品游戏中。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "众筹掌机Arduview自称全球首款「全透明」掌机，内置约400款游戏",
+        "url": "https://www.videogameschronicle.com/news/the-arduview-is-the-worlds-first-fully-transparent-handheld-including-the-screen/",
+        "date": "2026-10-31",
+        "summary": "基于开源Arduboy平台打造的信用卡大小掌机Arduview在Kickstarter众筹成功，官方称其为「全球首款屏幕完全透明的掌机」，关机时屏幕呈透明玻璃状，内置约400款游戏，早鸟价约75-99美元。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "众筹掌机Arduview自称全球首款「全透明」掌机，内置约400款游戏",
+          "url": "https://www.videogameschronicle.com/news/the-arduview-is-the-worlds-first-fully-transparent-handheld-including-the-screen/",
+          "date": "2026-10-31",
+          "summary": "基于开源Arduboy平台打造的信用卡大小掌机Arduview在Kickstarter众筹成功，官方称其为「全球首款屏幕完全透明的掌机」，关机时屏幕呈透明玻璃状，内置约400款游戏，早鸟价约75-99美元。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [
+    {
+      "title": "Rockstar North负责人透露《GTA6》将引入类似《荒野大镖客2》的道德值系统",
+      "url": "https://www.dualshockers.com/gta-6-red-dead-redemption-2-morality-system/",
+      "date": "2026-10-30",
+      "summary": "据Edge杂志对Rockstar North联合工作室负责人Rob Nelson的采访，《GTA6》将设有从「职业」到「不可救赎」的「犯罪档案」道德值系统，玩家选择击倒还是杀死目标将影响杰森与露西娅的剧情走向。",
+      "section": 3,
+      "_date_parsed": "2026-10-30"
+    }
+  ],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

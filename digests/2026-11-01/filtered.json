@@ -1,0 +1,182 @@
+{
+  "as_of": "2026-11-01",
+  "cutoff": "2026-10-25",
+  "window_days": 7,
+  "summary": {
+    "input_items": 5,
+    "denied_source": 0,
+    "in_window": 5,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 5,
+    "duplicate_clusters": 0,
+    "section1_count": 2,
+    "section2_count": 3,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 5,
+    "previously_covered_count": 0
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "【更新】Roblox 2026年Q3财报披露AI渗透细节：超80%热门游戏使用AI加速创作，素材上传量翻三倍",
+        "url": "https://gamesbeat.com/roblox-says-more-than-80-of-its-top-100-games-used-ai-to-accelerate-creation/",
+        "date": "2026-10-29",
+        "summary": "Roblox在2026年第三季度财报中披露AI渗透游戏创作的具体数据：过去一个月其按游玩时长排名前100的游戏中超过80%使用了AI加速创作；CEO David Baszucki称公司正\"从根本上重塑游戏行业\"，财报发布后股价盘后一度下跌11%。此前该季度财报\"押注AI内容大爆发\"的整体口径已被报道，此次为该事件补充的具体量化细节。",
+        "section": 1,
+        "facts": [
+          "自2026年第二季度以来，Roblox头部创作者使用AI工具的时长增长了两倍（tripled）",
+          "Roblox Studio的MCP Server（供Claude、Cursor等AI助手调用Studio功能的协议实现）日活跃使用量同比增长近五倍",
+          "公司自然语言游戏创作环境\"Build\"已在少数市场上线，年底前将扩大范围；已有超50万用户试用，累计发布超7万款游戏",
+          "2026年10月的日均素材上传量较此前翻了三倍，且早期迹象显示素材质量更高、重复率更低",
+          "截至第三季度末，一款几乎完全由AI创作的游戏跻身Roblox同时在线玩家数前10",
+          "Roblox计划开放MCP对Studio几乎所有主要API的访问权限，使AI智能体未来能执行创作者手动完成的几乎所有操作",
+          "另据Kotaku对同一财报的报道：Roblox披露日活用户1.38亿，并提出\"Roblox Everywhere\"跨平台发行战略及\"Universal Player\"计划（允许开发者将现有主机/PC/手机游戏导入Roblox），预计2027年初加速推进，年底前还将上线无需安装即可在Chrome浏览器内玩Roblox游戏的功能"
+        ],
+        "background": "Roblox近期用户与营收增速放缓，投资者对其长期增长引擎存疑；公司将AI驱动的内容创作效率、跨平台发行能力作为对冲增长放缓、巩固\"全品类游戏平台\"定位的核心战略。",
+        "results": "财报显示季度营收、预订量及现金流均好于此前指引，但受AI战略及增长放缓预期影响，股价财报后盘后一度下跌11%；公司表示将继续扩大AI工具在创作端的开放范围。"
+      },
+      "members": [
+        {
+          "title": "【更新】Roblox 2026年Q3财报披露AI渗透细节：超80%热门游戏使用AI加速创作，素材上传量翻三倍",
+          "url": "https://gamesbeat.com/roblox-says-more-than-80-of-its-top-100-games-used-ai-to-accelerate-creation/",
+          "date": "2026-10-29",
+          "summary": "Roblox在2026年第三季度财报中披露AI渗透游戏创作的具体数据：过去一个月其按游玩时长排名前100的游戏中超过80%使用了AI加速创作；CEO David Baszucki称公司正\"从根本上重塑游戏行业\"，财报发布后股价盘后一度下跌11%。此前该季度财报\"押注AI内容大爆发\"的整体口径已被报道，此次为该事件补充的具体量化细节。",
+          "section": 1,
+          "facts": [
+            "自2026年第二季度以来，Roblox头部创作者使用AI工具的时长增长了两倍（tripled）",
+            "Roblox Studio的MCP Server（供Claude、Cursor等AI助手调用Studio功能的协议实现）日活跃使用量同比增长近五倍",
+            "公司自然语言游戏创作环境\"Build\"已在少数市场上线，年底前将扩大范围；已有超50万用户试用，累计发布超7万款游戏",
+            "2026年10月的日均素材上传量较此前翻了三倍，且早期迹象显示素材质量更高、重复率更低",
+            "截至第三季度末，一款几乎完全由AI创作的游戏跻身Roblox同时在线玩家数前10",
+            "Roblox计划开放MCP对Studio几乎所有主要API的访问权限，使AI智能体未来能执行创作者手动完成的几乎所有操作",
+            "另据Kotaku对同一财报的报道：Roblox披露日活用户1.38亿，并提出\"Roblox Everywhere\"跨平台发行战略及\"Universal Player\"计划（允许开发者将现有主机/PC/手机游戏导入Roblox），预计2027年初加速推进，年底前还将上线无需安装即可在Chrome浏览器内玩Roblox游戏的功能"
+          ],
+          "background": "Roblox近期用户与营收增速放缓，投资者对其长期增长引擎存疑；公司将AI驱动的内容创作效率、跨平台发行能力作为对冲增长放缓、巩固\"全品类游戏平台\"定位的核心战略。",
+          "results": "财报显示季度营收、预订量及现金流均好于此前指引，但受AI战略及增长放缓预期影响，股价财报后盘后一度下跌11%；公司表示将继续扩大AI工具在创作端的开放范围。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "AI游戏工具公司Ramen发布开源自动游玩测试工具Aura Autopilot，支持Unreal、Unity与Godot",
+        "url": "https://gamesbeat.com/ramen-launches-aura-autopilot-an-open-source-autonomous-game-tester/",
+        "date": "2026-10-30",
+        "summary": "AI游戏开发助手Aura的开发商Ramen于10月30日发布开源自动化游玩测试工具Aura Autopilot，可在Unreal Engine（5.4–5.8）、Unity（6及以上）和Godot（4.7及以上）项目中实时游玩、持续学习并生成测试报告，代码已以Apache 2.0许可在GitHub开源。公司称该工具可配合Claude Code、Codex或自带API密钥运行，CEO Andy Tsen表示其运行速度比Aura原有验证代理快3倍、成本更低。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "AI游戏工具公司Ramen发布开源自动游玩测试工具Aura Autopilot，支持Unreal、Unity与Godot",
+          "url": "https://gamesbeat.com/ramen-launches-aura-autopilot-an-open-source-autonomous-game-tester/",
+          "date": "2026-10-30",
+          "summary": "AI游戏开发助手Aura的开发商Ramen于10月30日发布开源自动化游玩测试工具Aura Autopilot，可在Unreal Engine（5.4–5.8）、Unity（6及以上）和Godot（4.7及以上）项目中实时游玩、持续学习并生成测试报告，代码已以Apache 2.0许可在GitHub开源。公司称该工具可配合Claude Code、Codex或自带API密钥运行，CEO Andy Tsen表示其运行速度比Aura原有验证代理快3倍、成本更低。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Roblox在东南亚游戏展披露AI建造工具\"Build\"数据：超50万人试用、7万余款游戏已发布",
+        "url": "https://www.4gamer.net/games/612/G061218/20261101007/",
+        "date": "2026-10-30",
+        "summary": "Roblox国际副总裁方臻(Zhen Fang)10月30日在泰国曼谷举行的gamescom asia x Thailand Game Show 2026上发表演讲,披露其自然语言AI建造工具\"Build\"及配套\"Scene Generator\"场景生成功能的内测数据,并公布亚太地区游戏市场与创作者收益相关数字。",
+        "section": 1,
+        "facts": [
+          "Build功能允许用户以日常语言描述需求、无需打开Roblox Studio即可创建游戏,支持仅用手机操作",
+          "配套的\"Scene Generator\"可根据文字提示及参考图片自动生成可玩场景布局,生成结果可在Studio中进一步编辑",
+          "Build目前处于内测阶段,已在新西兰、新加坡、塞尔维亚、泰国四个市场上线,超过50万人已试用,累计发布游戏超过7万款",
+          "截至2026年9月30日的财季,玩家在Roblox平台上总计花费340亿小时",
+          "该财季周榜前20名游戏中,有2款几乎完全由AI构建完成;每周推荐榜前100名游戏中约40%是过去三个月内新创建的",
+          "亚太地区占Roblox全球日活跃用户(DAU)的30%,其中日本DAU同比增长33%,印度同比增长37%",
+          "开发者通过DevEx机制自2013年以来累计分成超过50亿美元;过去12个月内头部10名创作者平均收入达6570万美元,较2020年增长3.6至4.3倍;DevEx创作者收入中位数约1500美元",
+          "据Newzoo数据,亚太游戏市场规模约950亿美元,约占全球游戏收入的47%",
+          "公司同时公布五项未来改进计划:独立创作者应用(手机/PC/主机)、Chrome浏览器内嵌游玩、离线游玩、跨游戏好友聊天、2D游戏支持,并计划推出Roblox Wallet与Roblox Card",
+          "现场提及的东南亚创作者案例包括泰国父子团队JINN KODE、越南的Bao(现带领9人工作室)及印尼开发者DAVA(恐怖游戏《The Morgue Shift》,访问量已达1.84亿次)"
+        ],
+        "background": "Roblox正围绕\"Play、Build、Grow\"三大方向推进战略,试图用AI生成工具大幅降低游戏创作门槛,以吸引东南亚及亚太地区更多非专业创作者和青少年之外的成年玩家群体;这一动作也处于行业内关于AI生成内容是否会充斥UGC平台、冲击传统开发者生态的持续争论背景之下。",
+        "results": "Build内测已在四个市场产生具体的用户规模、创作数量及周榜渗透率数据;公司借助此次亚太区域性展会(gamescom asia x Thailand Game Show)重点展示东南亚本土创作者的实际收益案例,并同步宣布扩大东南亚团队及后续产品路线图,以巩固其在亚太地区快速增长的日活跃用户基础。"
+      },
+      "members": [
+        {
+          "title": "Roblox在东南亚游戏展披露AI建造工具\"Build\"数据：超50万人试用、7万余款游戏已发布",
+          "url": "https://www.4gamer.net/games/612/G061218/20261101007/",
+          "date": "2026-10-30",
+          "summary": "Roblox国际副总裁方臻(Zhen Fang)10月30日在泰国曼谷举行的gamescom asia x Thailand Game Show 2026上发表演讲,披露其自然语言AI建造工具\"Build\"及配套\"Scene Generator\"场景生成功能的内测数据,并公布亚太地区游戏市场与创作者收益相关数字。",
+          "section": 1,
+          "facts": [
+            "Build功能允许用户以日常语言描述需求、无需打开Roblox Studio即可创建游戏,支持仅用手机操作",
+            "配套的\"Scene Generator\"可根据文字提示及参考图片自动生成可玩场景布局,生成结果可在Studio中进一步编辑",
+            "Build目前处于内测阶段,已在新西兰、新加坡、塞尔维亚、泰国四个市场上线,超过50万人已试用,累计发布游戏超过7万款",
+            "截至2026年9月30日的财季,玩家在Roblox平台上总计花费340亿小时",
+            "该财季周榜前20名游戏中,有2款几乎完全由AI构建完成;每周推荐榜前100名游戏中约40%是过去三个月内新创建的",
+            "亚太地区占Roblox全球日活跃用户(DAU)的30%,其中日本DAU同比增长33%,印度同比增长37%",
+            "开发者通过DevEx机制自2013年以来累计分成超过50亿美元;过去12个月内头部10名创作者平均收入达6570万美元,较2020年增长3.6至4.3倍;DevEx创作者收入中位数约1500美元",
+            "据Newzoo数据,亚太游戏市场规模约950亿美元,约占全球游戏收入的47%",
+            "公司同时公布五项未来改进计划:独立创作者应用(手机/PC/主机)、Chrome浏览器内嵌游玩、离线游玩、跨游戏好友聊天、2D游戏支持,并计划推出Roblox Wallet与Roblox Card",
+            "现场提及的东南亚创作者案例包括泰国父子团队JINN KODE、越南的Bao(现带领9人工作室)及印尼开发者DAVA(恐怖游戏《The Morgue Shift》,访问量已达1.84亿次)"
+          ],
+          "background": "Roblox正围绕\"Play、Build、Grow\"三大方向推进战略,试图用AI生成工具大幅降低游戏创作门槛,以吸引东南亚及亚太地区更多非专业创作者和青少年之外的成年玩家群体;这一动作也处于行业内关于AI生成内容是否会充斥UGC平台、冲击传统开发者生态的持续争论背景之下。",
+          "results": "Build内测已在四个市场产生具体的用户规模、创作数量及周榜渗透率数据;公司借助此次亚太区域性展会(gamescom asia x Thailand Game Show)重点展示东南亚本土创作者的实际收益案例,并同步宣布扩大东南亚团队及后续产品路线图,以巩固其在亚太地区快速增长的日活跃用户基础。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "【更新】米哈游《星布谷地》(国际服名Petit Planet)确认12月4日全球免费上线，并将登陆Switch 2",
+        "url": "https://www.gematsu.com/2026/10/petit-planet-launches-december-4",
+        "date": "2026-10-29",
+        "summary": "HoYoverse确认其生活模拟游戏《星布谷地》(国际服名\"Petit Planet\")将于2026年12月4日通过Epic Games Store、App Store及Google Play全球免费上线,同时公开了发售预告节目计划。11月1日官方进一步宣布,该作将于2027年追加登陆Nintendo Switch 2平台。该游戏此前因采用\"多教师在线蒸馏\"等AI长期记忆NPC架构受到行业关注,此次为确认具体上线平台与日期的最新进展。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "【更新】米哈游《星布谷地》(国际服名Petit Planet)确认12月4日全球免费上线，并将登陆Switch 2",
+          "url": "https://www.gematsu.com/2026/10/petit-planet-launches-december-4",
+          "date": "2026-10-29",
+          "summary": "HoYoverse确认其生活模拟游戏《星布谷地》(国际服名\"Petit Planet\")将于2026年12月4日通过Epic Games Store、App Store及Google Play全球免费上线,同时公开了发售预告节目计划。11月1日官方进一步宣布,该作将于2027年追加登陆Nintendo Switch 2平台。该游戏此前因采用\"多教师在线蒸馏\"等AI长期记忆NPC架构受到行业关注,此次为确认具体上线平台与日期的最新进展。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "解谜游戏《The Orphaned House》获游戏品类首个\"Proudly Human\"人类制作认证",
+        "url": "https://www.4gamer.net/games/032/G103218/20261031001/",
+        "date": "2026-10-29",
+        "summary": "开发商Charm Games制作的第一人称3D解谜冒险游戏《The Orphaned House》于10月29日获得认证机构23 First旗下\"Proudly Human\"颁发的人类制作认证,为游戏品类首例获此认证的作品。认证标准允许在人工主导、审核下使用AI辅助代码调试,但禁止在正式制作中使用AI生成概念图、模型及关卡设计,也禁止最终成品包含AI生成的音乐、配音、剧情或游戏内生成式AI内容;该作计划2027年登陆PC、PS5及Xbox Series X|S。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "解谜游戏《The Orphaned House》获游戏品类首个\"Proudly Human\"人类制作认证",
+          "url": "https://www.4gamer.net/games/032/G103218/20261031001/",
+          "date": "2026-10-29",
+          "summary": "开发商Charm Games制作的第一人称3D解谜冒险游戏《The Orphaned House》于10月29日获得认证机构23 First旗下\"Proudly Human\"颁发的人类制作认证,为游戏品类首例获此认证的作品。认证标准允许在人工主导、审核下使用AI辅助代码调试,但禁止在正式制作中使用AI生成概念图、模型及关卡设计,也禁止最终成品包含AI生成的音乐、配音、剧情或游戏内生成式AI内容;该作计划2027年登陆PC、PS5及Xbox Series X|S。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

@@ -1,173 +1,5 @@
 [
  {
-  "title": "说明：本节仅核实到 2 条符合「游戏+AI」交叉且过去 7 天内发生、未被此前简报报道过的深度新闻。已由两个独立检索批次（英文/投融资角度、中文角度）及编排者本人针对韩文、日文、投融资专项媒体、工具/引擎厂商的补充检索（共三轮，累计超过 600 次搜索/核实操作），覆盖过去 7 天内绝大多数游戏+AI大事件；其余符合条件的深度候选项（米哈游《星布谷地》AI NPC 终测、昆仑万维 Matrix-Game 4.0 开源、Drake Star 三季度报告、Roblox 收编 Audioscape、Playgama AI Agent 工具）经核实均为本简报 10 月 14–16 日已报道的同一事件，且未发现新的实质性进展，故未重复计入，亦未凑数。",
-  "url": "https://www.nvidia.com/en-us/geforce/news/rtx-spark-dlss-reflex-ray-tracing-games/",
-  "date": "2026-10-16",
-  "section": 1,
-  "posted": "2026-10-17"
- },
- {
-  "title": "Epic Games 称启动 AI 大转向：重新调配开发人员，与迪士尼合作项目据报延期",
-  "url": "https://www.bloomberg.com/news/articles/2026-10-12/epic-games-delays-disney-project-asks-developers-to-use-more-ai",
-  "date": "2026-10-12",
-  "section": 1,
-  "posted": "2026-10-17"
- },
- {
-  "title": "说明：本节仅核实到 13 条符合条件的新项目。经与此前 14 天简报记忆及第一部分交叉核对，多条候选（Drake Star 三季度报告、Roblox 收编 Audioscape、Playgama AI Agent 工具、《战地风云6》AI皮肤争议的新报道）因与已报道事件为同一事实、未见实质新进展而被排除，未凑数。",
-  "url": "https://www.famitsu.com/article/202610/91245",
-  "date": "2026-10-16",
-  "section": 2,
-  "posted": "2026-10-17"
- },
- {
-  "title": "索尼\"生成式超采样\"专利曝光：拟用控制器输入数据预测AI插帧效果",
-  "url": "https://www.ithome.com/1/014/310.htm",
-  "date": "2026-10-17",
-  "section": 2,
-  "posted": "2026-10-17"
- },
- {
-  "title": "民间移植NVIDIA DLSS 5神经渲染模型文件至未官方支持游戏，实测帧率提升约30%-40%",
-  "url": "https://www.ithome.com/1/014/304.htm",
-  "date": "2026-10-17",
-  "section": 2,
-  "posted": "2026-10-17"
- },
- {
-  "title": "开发者将破解版PS5改造为本地AI推理服务器，270亿参数模型推理速度约每秒20.9个token",
-  "url": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram",
-  "date": "2026-10-16",
-  "section": 2,
-  "posted": "2026-10-17"
- },
- {
-  "title": "《模拟人生2》社区版规全面禁止\"氛围编程\"AI模组，称其质量低劣",
-  "url": "https://www.thegamer.com/the-sims-2-subreddit-bans-vibecoded-mods/",
-  "date": "2026-10-17",
-  "section": 2,
-  "posted": "2026-10-17"
- },
- {
-  "title": "生成式AI公司员工称\"不愿氛围编程的开发者应退出游戏行业\"，引发社区争议",
-  "url": "https://www.thegamer.com/dev-of-abandoned-mostly-negative-steam-flop-wants-more-vibe-coded-games/",
-  "date": "2026-10-15",
-  "section": 2,
-  "posted": "2026-10-17"
- },
- {
-  "title": "《龙珠》孙悟空声优野泽雅子批AI克隆配音\"不可原谅\"，日本声优工会出台新规保护声优",
-  "url": "https://www.thegamer.com/dragon-ball-goku-voice-actor-masako-nozawa-ai-videos-reaction-unforgivable/",
-  "date": "2026-10-16",
-  "section": 2,
-  "posted": "2026-10-17"
- },
- {
-  "title": "Epic宣布新版\"AI随性编写\"游戏商店启动器，自称启动速度快于Steam",
-  "url": "https://www.pcgamer.com/software/platforms/epic-says-its-new-vibe-coded-epic-games-store-launcher-is-faster-than-steam/",
-  "date": "2026-10-14",
-  "section": 2,
-  "posted": "2026-10-17"
- },
- {
-  "title": "报告称中国企业今年已采购逾百万张英伟达游戏及工作站显卡用于弥补AI算力缺口",
-  "url": "https://www.trendforce.com/news/2026/10/15/news-chinese-firms-reportedly-buy-over-1m-nvidia-gaming-workstation-chips-as-domestic-ai-supply-falls-short/",
-  "date": "2026-10-15",
-  "section": 2,
-  "posted": "2026-10-17"
- },
- {
-  "title": "游戏AI陪伴赛道洗牌：米哈游、网易旗下产品相继停运，腾讯\"鹅次元\"、快看\"Livo\"仍在内测",
-  "url": "https://news.pedaily.cn/202610/570383.shtml",
-  "date": "2026-10-16",
-  "section": 2,
-  "posted": "2026-10-17"
- },
- {
-  "title": "《创世online》开发者称AI工具已令游戏\"零Bug\"，每日修复问题仅需约一小时",
-  "url": "https://massivelyop.com/2026/10/15/richard-garriott-claims-that-shroud-of-the-avatar-has-no-bugs-whatsoever-thanks-to-ai-tools/",
-  "date": "2026-10-15",
-  "section": 2,
-  "posted": "2026-10-17"
- },
- {
-  "title": "《鸣潮》开发商库洛入股AI公司言之域科技，持股15%布局语音与数字人技术",
-  "url": "https://www.chuapp.com/article/291693.html",
-  "date": "2026-10-17",
-  "section": 2,
-  "posted": "2026-10-17"
- },
- {
-  "title": "据报道《幽灵之地》发售一年销量约540万份，营收逼近前作《对马岛之魂》",
-  "url": "https://www.invenglobal.com/articles/27324/ghost-of-y%C5%8Dtei-sales-estimated-at-54-million-copies-revenue-rivals-predecessor",
-  "date": "2026-10-17",
-  "section": 3,
-  "posted": "2026-10-17"
- },
- {
-  "title": "GameDiscoverCo调查：42.4%的Steam用户只在PC上玩游戏",
-  "url": "https://www.invenglobal.com/articles/27320/424-of-steam-users-play-pc-games-exclusively",
-  "date": "2026-10-17",
-  "section": 3,
-  "posted": "2026-10-17"
- },
- {
-  "title": "网易《漫威争锋》加大聊天辱骂处罚力度，公布新版运营处罚政策",
-  "url": "https://www.invenglobal.com/articles/27326/marvel-rivals-strengthens-penalties-for-text-and-voice-chat-abuse-unveils-operational-policy",
-  "date": "2026-10-17",
-  "section": 3,
-  "posted": "2026-10-17"
- },
- {
-  "title": "Telltale《美女与狼人》重制版Switch版延期，PS5/Xbox/PC版10月29日如期发售",
-  "url": "https://www.gematsu.com/2026/10/the-wolf-among-us-remastered-for-switch-delayed-to-unannounced-date",
-  "date": "2026-10-16",
-  "section": 3,
-  "posted": "2026-10-17"
- },
- {
-  "title": "农场模拟游戏《珊瑚岛》确认登陆Switch 2，将伴随\"孩子成长\"1.4版本更新推出",
-  "url": "https://www.gematsu.com/2026/10/coral-island-coming-to-switch-2-this-winter-alongside-version-1-4-update",
-  "date": "2026-10-16",
-  "section": 3,
-  "posted": "2026-10-17"
- },
- {
-  "title": "《不得安宁》公布1.0版本内容：24个职业、362种特质，游戏体量近乎翻倍",
-  "url": "https://www.gematsu.com/2026/10/no-rest-for-the-wicked-details-new-class-systems-version-1-0-enhancements",
-  "date": "2026-10-16",
-  "section": 3,
-  "posted": "2026-10-17"
- },
- {
-  "title": "日本地区Switch与Switch 2维修费用上调",
-  "url": "https://www.siliconera.com/switch-and-switch-2-repairs-will-be-more-expensive-in-japan/",
-  "date": "2026-10-16",
-  "section": 3,
-  "posted": "2026-10-17"
- },
- {
-  "title": "《羔羊教派》Switch 2版本上线，老用户可免费升级",
-  "url": "https://www.siliconera.com/cult-of-the-lamb-switch-2-version-launches-with-free-upgrade/",
-  "date": "2026-10-16",
-  "section": 3,
-  "posted": "2026-10-17"
- },
- {
-  "title": "《Deadlock》解锁新英雄\"Violet\"，加入\"永不眠之城\"版本",
-  "url": "https://www.invenglobal.com/articles/27313/deadlock-unlocks-artist-hero-violet-in-city-never-sleeps",
-  "date": "2026-10-16",
-  "section": 3,
-  "posted": "2026-10-17"
- },
- {
-  "title": "牛津大学研究：《动物园管理员》等经营模拟游戏玩家更积极参与野生动物保护",
-  "url": "https://www.invenglobal.com/articles/27323/zoo-management-planet-zoo-players-more-active-in-wildlife-conservation",
-  "date": "2026-10-17",
-  "section": 3,
-  "posted": "2026-10-17"
- },
- {
   "title": "多家独立游戏商担心遭AI\"套娃\"抄袭，紧急取消或收紧公开试玩计划",
   "url": "https://www.invenglobal.com/articles/27321/fearing-ai-copycats-indie-developers-pull-public-demos",
   "date": "2026-10-17",
@@ -1867,5 +1699,96 @@
   "date": "2026-10-30",
   "section": 3,
   "posted": "2026-10-31"
+ },
+ {
+  "title": "更新】Roblox 2026年Q3财报披露AI渗透细节：超80%热门游戏使用AI加速创作，素材上传量翻三倍",
+  "url": "https://gamesbeat.com/roblox-says-more-than-80-of-its-top-100-games-used-ai-to-accelerate-creation/",
+  "date": "2026-10-29",
+  "section": 1,
+  "posted": "2026-11-01"
+ },
+ {
+  "title": "Roblox在东南亚游戏展披露AI建造工具\"Build\"数据：超50万人试用、7万余款游戏已发布",
+  "url": "https://www.4gamer.net/games/612/G061218/20261101007/",
+  "date": "2026-10-30",
+  "section": 1,
+  "posted": "2026-11-01"
+ },
+ {
+  "title": "AI游戏工具公司Ramen发布开源自动游玩测试工具Aura Autopilot，支持Unreal、Unity与Godot",
+  "url": "https://gamesbeat.com/ramen-launches-aura-autopilot-an-open-source-autonomous-game-tester/",
+  "date": "2026-10-30",
+  "section": 2,
+  "posted": "2026-11-01"
+ },
+ {
+  "title": "更新】米哈游《星布谷地》(国际服名Petit Planet)确认12月4日全球免费上线，并将登陆Switch 2",
+  "url": "https://www.gematsu.com/2026/10/petit-planet-launches-december-4",
+  "date": "2026-10-29",
+  "section": 2,
+  "posted": "2026-11-01"
+ },
+ {
+  "title": "解谜游戏《The Orphaned House》获游戏品类首个\"Proudly Human\"人类制作认证",
+  "url": "https://www.4gamer.net/games/032/G103218/20261031001/",
+  "date": "2026-10-29",
+  "section": 2,
+  "posted": "2026-11-01"
+ },
+ {
+  "title": "EA马德里办公室遭喷涂「拯救质量效应」涂鸦，联署签名已突破25万",
+  "url": "https://kotaku.com/ea-offices-tagged-with-save-mass-effect-graffiti-2000751962",
+  "date": "2026-10-31",
+  "section": 3,
+  "posted": "2026-11-01"
+ },
+ {
+  "title": "任天堂突袭推出专题直面会，宫本茂宣布11月1日起为年度「匹奇民日」",
+  "url": "https://kotaku.com/shigeru-miyamoto-declares-november-1st-pikmin-day-in-surprise-nintendo-direct-2000751948",
+  "date": "2026-10-31",
+  "section": 3,
+  "posted": "2026-11-01"
+ },
+ {
+  "title": "小岛秀夫新作《PHYSINT》东京展览曝光神秘机械原型，外形与《合金装备》机体相近",
+  "url": "https://www.dualshockers.com/kojima-confirms-that-physint-is-in-fact-about-metal-gear/",
+  "date": "2026-10-31",
+  "section": 3,
+  "posted": "2026-11-01"
+ },
+ {
+  "title": "据报道《Days Gone》开发商Bend Studio新作预计2027年公布，为非服务型第三人称射击游戏",
+  "url": "https://www.dualshockers.com/days-gone-developer-bend-studio-reveal-next-game-2027/",
+  "date": "2026-10-31",
+  "section": 3,
+  "posted": "2026-11-01"
+ },
+ {
+  "title": "据报道《女神异闻录1》重制版疑似实机画面网络流出，真实性未经官方确认",
+  "url": "https://www.pushsquare.com/news/2026/11/rumour-alleged-persona-1-remake-gameplay-leaks-online",
+  "date": "2026-11-01",
+  "section": 3,
+  "posted": "2026-11-01"
+ },
+ {
+  "title": "Valve已取消的《传送门》前传原型「F-Stop」相关资料遭泄露",
+  "url": "https://kotaku.com/valves-cancelled-portal-prequel-f-stop-has-leaked-2000752082",
+  "date": "2026-11-01",
+  "section": 3,
+  "posted": "2026-11-01"
+ },
+ {
+  "title": "VR工作室Resolution Games为XREAL AURA智能眼镜推出新游戏《Holochess》",
+  "url": "https://gamesbeat.com/resolution-games-launches-holochess-alongside-xreal-aura/",
+  "date": "2026-10-31",
+  "section": 3,
+  "posted": "2026-11-01"
+ },
+ {
+  "title": "众筹掌机Arduview自称全球首款「全透明」掌机，内置约400款游戏",
+  "url": "https://www.videogameschronicle.com/news/the-arduview-is-the-worlds-first-fully-transparent-handheld-including-the-screen/",
+  "date": "2026-10-31",
+  "section": 3,
+  "posted": "2026-11-01"
  }
 ]
