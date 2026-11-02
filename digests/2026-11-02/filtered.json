@@ -1,0 +1,239 @@
+{
+  "as_of": "2026-11-02",
+  "cutoff": "2026-10-26",
+  "window_days": 7,
+  "summary": {
+    "input_items": 10,
+    "denied_source": 0,
+    "in_window": 10,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 8,
+    "duplicate_clusters": 2,
+    "section1_count": 5,
+    "section2_count": 3,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": true,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 8,
+    "previously_covered_count": 0
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "谷歌DeepMind发布实时世界模型Genie 4，游戏开发者借其秒级生成可探索原型",
+        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "date": "2026-10-27",
+        "summary": "DeepMind推出新一代实时世界模拟模型Genie 4，首次为Genie系列原生生成音频，并支持用文本实时编辑场景（如改变天气、加入角色）、Gemini协助保持场景连贯；官方特别提到游戏开发者是首批测试者之一，可在数秒内把创意变成可探索的原型、尝试视觉风格与交互机制，而无需先写引擎代码。目前仅向受信测试者开放研究预览，后续将向Google AI Ultra订阅者及Gemini API早期合作伙伴开放。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "谷歌DeepMind发布实时世界模型Genie 4，游戏开发者借其秒级生成可探索原型",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "date": "2026-10-27",
+          "summary": "DeepMind推出新一代实时世界模拟模型Genie 4，首次为Genie系列原生生成音频，并支持用文本实时编辑场景（如改变天气、加入角色）、Gemini协助保持场景连贯；官方特别提到游戏开发者是首批测试者之一，可在数秒内把创意变成可探索的原型、尝试视觉风格与交互机制，而无需先写引擎代码。目前仅向受信测试者开放研究预览，后续将向Google AI Ultra订阅者及Gemini API早期合作伙伴开放。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "NVIDIA发布RTX Spark神经渲染与AI角色技术更新：ACE新模型驱动PUBG AI队友与《上古卷轴5》AI NPC模组",
+        "url": "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/",
+        "date": "2026-10-27",
+        "summary": "NVIDIA为RTX Spark平台发布技术更新：NVIDIA ACE推出可本地运行的新模型Nemotron 3.5 Bolt（通过In-Game Inferencing SDK调用），已用于《PUBG》AI队友公测、宠物养成游戏Aniimo，以及《上古卷轴5》AI NPC模组SkyrimNET；同时RTX Kit新增含角色渲染等8款神经渲染SDK，并为Unreal Engine 5.8推出专用RTX分支以支持光线追踪与神经图形技术。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "NVIDIA发布RTX Spark神经渲染与AI角色技术更新：ACE新模型驱动PUBG AI队友与《上古卷轴5》AI NPC模组",
+          "url": "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/",
+          "date": "2026-10-27",
+          "summary": "NVIDIA为RTX Spark平台发布技术更新：NVIDIA ACE推出可本地运行的新模型Nemotron 3.5 Bolt（通过In-Game Inferencing SDK调用），已用于《PUBG》AI队友公测、宠物养成游戏Aniimo，以及《上古卷轴5》AI NPC模组SkyrimNET；同时RTX Kit新增含角色渲染等8款神经渲染SDK，并为Unreal Engine 5.8推出专用RTX分支以支持光线追踪与神经图形技术。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Y Combinator Labs多智能体AI实验：50个AI在《我的世界》求生夜后陷入\"官僚主义\"，GPT-6.1 Sol靠下载源码击败Claude Opus 5.5",
+        "url": "https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/",
+        "date": "2026-11-02",
+        "summary": "Y Combinator Labs与Olam Labs用《我的世界》和Mindustry测试AI智能体群体行为：50个GPT-6.1 Sol智能体经历首夜22个个体死亡后变得极度保守，甚至为一块骨粉辩论11分钟来评选\"专职施肥官\"；在Bed Wars对抗赛中，GPT智能体靠绕过游戏bug、高频通信以6:3击败Claude Opus 5.5智能体，在Mindustry对局里GPT还主动下载游戏公开源码研究机制，而Claude未曾这样做。团队已将Mindustry测试环境及多智能体框架开源。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "Y Combinator Labs多智能体AI实验：50个AI在《我的世界》求生夜后陷入\"官僚主义\"，GPT-6.1 Sol靠下载源码击败Claude Opus 5.5",
+          "url": "https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/",
+          "date": "2026-11-02",
+          "summary": "Y Combinator Labs与Olam Labs用《我的世界》和Mindustry测试AI智能体群体行为：50个GPT-6.1 Sol智能体经历首夜22个个体死亡后变得极度保守，甚至为一块骨粉辩论11分钟来评选\"专职施肥官\"；在Bed Wars对抗赛中，GPT智能体靠绕过游戏bug、高频通信以6:3击败Claude Opus 5.5智能体，在Mindustry对局里GPT还主动下载游戏公开源码研究机制，而Claude未曾这样做。团队已将Mindustry测试环境及多智能体框架开源。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "触乐调查：生成式AI冲击下，中国\"美术外包之城\"成都游戏外包行业两极分化",
+        "url": "http://www.chuapp.com/article/291728.html",
+        "date": "2026-11-02",
+        "summary": "触乐深度调查显示，随着游客户态度从2021年禁用AI转为2026年默许甚至要求使用AI压缩工期，成都游戏美术外包行业订单量与报价大幅下滑（有制作人称项目外包预算从500万元降至100万至150万元），但AI并未显著提速、还带来返工等隐性成本；行业出现两极分化：依赖低价散单的外包工作室生存艰难甚至倒闭，而转向整包合作、自建AI团队或专注AI难以替代环节（如概念设计、特效）的工作室正在适应新格局。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "触乐调查：生成式AI冲击下，中国\"美术外包之城\"成都游戏外包行业两极分化",
+          "url": "http://www.chuapp.com/article/291728.html",
+          "date": "2026-11-02",
+          "summary": "触乐深度调查显示，随着游客户态度从2021年禁用AI转为2026年默许甚至要求使用AI压缩工期，成都游戏美术外包行业订单量与报价大幅下滑（有制作人称项目外包预算从500万元降至100万至150万元），但AI并未显著提速、还带来返工等隐性成本；行业出现两极分化：依赖低价散单的外包工作室生存艰难甚至倒闭，而转向整包合作、自建AI团队或专注AI难以替代环节（如概念设计、特效）的工作室正在适应新格局。",
+          "section": 1
+        },
+        {
+          "title": "AI冲击下，中国“游戏美术外包之城”成都两极分化：报价腰斩、订单缩水，供应商被迫转型自研",
+          "url": "https://www.chuapp.com/article/291728.html",
+          "date": "2026-11-02",
+          "summary": "触乐调查发现，随着游戏发行商把AI嵌入美术外包全流程并借此压价，成都美术外包行业简单重复性订单大幅萎缩：部分插画报价从约1.3万元腰斩至6000元左右，一家头部供应商订单量下滑约两成，有工作室外包预算从千万级降至百余万元；受访者称AI生成内容仍需大量人工修正，3D建模等品类收益有限，供应商正转向全案交付或自建AI中台谋求转型。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "【更新】网页游戏平台Playgama推出AI游戏指数：Claude Opus驱动过半新增AI游戏，补充Roblox此前AI渗透数据",
+        "url": "https://pocketgamer.biz/more-than-80-of-robloxs-top-games-now-use-ai-while-playgama-tracks-the-tools-developers-prefer/",
+        "date": "2026-10-30",
+        "summary": "继Roblox此前披露超80%热门游戏使用AI加速开发后，网页游戏发行平台Playgama推出基于逾4200款AI生成游戏、110万次启动数据的\"AI游戏指数\"：Claude Opus驱动54%的新增AI游戏居首，OpenAI Sol占11%；按参与度看，OpenAI Astra驱动的游戏平均单局时长与千次游玩点赞数均最高，该指数将每日更新，是首次对游戏开发所用具体AI模型份额的量化追踪。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "【更新】网页游戏平台Playgama推出AI游戏指数：Claude Opus驱动过半新增AI游戏，补充Roblox此前AI渗透数据",
+          "url": "https://pocketgamer.biz/more-than-80-of-robloxs-top-games-now-use-ai-while-playgama-tracks-the-tools-developers-prefer/",
+          "date": "2026-10-30",
+          "summary": "继Roblox此前披露超80%热门游戏使用AI加速开发后，网页游戏发行平台Playgama推出基于逾4200款AI生成游戏、110万次启动数据的\"AI游戏指数\"：Claude Opus驱动54%的新增AI游戏居首，OpenAI Sol占11%；按参与度看，OpenAI Astra驱动的游戏平均单局时长与千次游玩点赞数均最高，该指数将每日更新，是首次对游戏开发所用具体AI模型份额的量化追踪。",
+          "section": 2
+        },
+        {
+          "title": "网页游戏发行商Playgama推出“AI游戏指数”：Claude Opus占新AI游戏开发54%份额，但OpenAI Astra玩家粘性最高",
+          "url": "https://www.pocketgamer.biz/more-than-80-of-robloxs-top-games-now-use-ai-while-playgama-tracks-the-tools-developers-prefer/",
+          "date": "2026-10-30",
+          "summary": "跨平台网页游戏发行商Playgama基于逾4200款AI制作游戏、110万次启动及50万玩家数据推出每日更新的“AI Game Index”：Claude Opus是开发者制作AI游戏时最常用的模型，份额达54%，OpenAI Sol列第二（11%）；但按玩家互动度衡量，OpenAI Astra制作的游戏平均单次游玩时长（4分58秒）与每千次游玩点赞数均为最高，比Claude Opus高出约67%。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Epic认证首位女性Unreal讲师谈AI创作伙伴：\"AI能生成可能性，却无法替代创作意图\"",
+        "url": "https://pocketgamer.biz/sandra-kawar-unreal-ai-creative-partner-pgc-jordan/",
+        "date": "2026-10-30",
+        "summary": "首位获Epic Games官方认证的女性Unreal Engine讲师Sandra Kawar在PGC约旦大会前采访中表示，AI在项目早期测试视觉风格、灯光与影像创意时最有价值，但\"AI能生成可能性，却无法替代创作意图\"；她即将发表的演讲将探讨AI在游戏美术与过场动画创作流程中的定位与局限。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "Epic认证首位女性Unreal讲师谈AI创作伙伴：\"AI能生成可能性，却无法替代创作意图\"",
+          "url": "https://pocketgamer.biz/sandra-kawar-unreal-ai-creative-partner-pgc-jordan/",
+          "date": "2026-10-30",
+          "summary": "首位获Epic Games官方认证的女性Unreal Engine讲师Sandra Kawar在PGC约旦大会前采访中表示，AI在项目早期测试视觉风格、灯光与影像创意时最有价值，但\"AI能生成可能性，却无法替代创作意图\"；她即将发表的演讲将探讨AI在游戏美术与过场动画创作流程中的定位与局限。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "YC Labs与Olam Labs《我的世界》千行多智能体实验：50个GPT智能体陷入“官僚化”，对战中屡次击败Claude智能体",
+        "url": "https://labs.ycombinator.com/projects/games/index.html",
+        "date": "2026-11-02",
+        "summary": "Y Combinator Labs与Olam Labs发布“Agents in Games”研究：让50个GPT-6.1 Sol智能体在《我的世界》生存模式中组建“文明”，首夜死亡22个后群体转向极度保守与官僚化（曾耗时11分钟任命一名“施肥官”）；在“床大战”与塔防游戏Mindustry的对抗实验中，GPT-6.1 Sol智能体多次以6:3、6:1击败Claude Opus 5.5智能体，前者沟通频率更高、能自行诊断游戏机制故障并共享破解思路，团队已将实验环境与多智能体框架开源。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "YC Labs与Olam Labs《我的世界》千行多智能体实验：50个GPT智能体陷入“官僚化”，对战中屡次击败Claude智能体",
+          "url": "https://labs.ycombinator.com/projects/games/index.html",
+          "date": "2026-11-02",
+          "summary": "Y Combinator Labs与Olam Labs发布“Agents in Games”研究：让50个GPT-6.1 Sol智能体在《我的世界》生存模式中组建“文明”，首夜死亡22个后群体转向极度保守与官僚化（曾耗时11分钟任命一名“施肥官”）；在“床大战”与塔防游戏Mindustry的对抗实验中，GPT-6.1 Sol智能体多次以6:3、6:1击败Claude Opus 5.5智能体，前者沟通频率更高、能自行诊断游戏机制故障并共享破解思路，团队已将实验环境与多智能体框架开源。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "【更新】itch.io新游戏页面创建量两个月内近乎翻倍，平台方暗示与Claude等AI编程工具普及有关",
+        "url": "https://gameworldobserver.com/2026/11/02/itch-io-has-seen-a-sharp-increase-in-new-games-perhaps-its-all-thanks-to-ai",
+        "date": "2026-11-02",
+        "summary": "独立游戏平台itch.io披露，其每日新增游戏页面数量从8月初约3000个升至10月底约6000个，两个月内几近翻倍，但游戏销量与下载量并未同步增长；itch.io官方在Bluesky被问及原因时以“自己猜”配机器人表情回应，媒体据此与此前报道的Anthropic Claude Opus 5.5被曝新增“反克隆游戏”护栏（已被此前简报报道）等AI编程工具普及潮联系起来，新增的是itch.io平台自身数据层面的证据。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "【更新】itch.io新游戏页面创建量两个月内近乎翻倍，平台方暗示与Claude等AI编程工具普及有关",
+          "url": "https://gameworldobserver.com/2026/11/02/itch-io-has-seen-a-sharp-increase-in-new-games-perhaps-its-all-thanks-to-ai",
+          "date": "2026-11-02",
+          "summary": "独立游戏平台itch.io披露，其每日新增游戏页面数量从8月初约3000个升至10月底约6000个，两个月内几近翻倍，但游戏销量与下载量并未同步增长；itch.io官方在Bluesky被问及原因时以“自己猜”配机器人表情回应，媒体据此与此前报道的Anthropic Claude Opus 5.5被曝新增“反克隆游戏”护栏（已被此前简报报道）等AI编程工具普及潮联系起来，新增的是itch.io平台自身数据层面的证据。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [
+    [
+      {
+        "title": "触乐调查：生成式AI冲击下，中国\"美术外包之城\"成都游戏外包行业两极分化",
+        "url": "http://www.chuapp.com/article/291728.html",
+        "date": "2026-11-02",
+        "summary": "触乐深度调查显示，随着游客户态度从2021年禁用AI转为2026年默许甚至要求使用AI压缩工期，成都游戏美术外包行业订单量与报价大幅下滑（有制作人称项目外包预算从500万元降至100万至150万元），但AI并未显著提速、还带来返工等隐性成本；行业出现两极分化：依赖低价散单的外包工作室生存艰难甚至倒闭，而转向整包合作、自建AI团队或专注AI难以替代环节（如概念设计、特效）的工作室正在适应新格局。",
+        "section": 1
+      },
+      {
+        "title": "AI冲击下，中国“游戏美术外包之城”成都两极分化：报价腰斩、订单缩水，供应商被迫转型自研",
+        "url": "https://www.chuapp.com/article/291728.html",
+        "date": "2026-11-02",
+        "summary": "触乐调查发现，随着游戏发行商把AI嵌入美术外包全流程并借此压价，成都美术外包行业简单重复性订单大幅萎缩：部分插画报价从约1.3万元腰斩至6000元左右，一家头部供应商订单量下滑约两成，有工作室外包预算从千万级降至百余万元；受访者称AI生成内容仍需大量人工修正，3D建模等品类收益有限，供应商正转向全案交付或自建AI中台谋求转型。",
+        "section": 1
+      }
+    ],
+    [
+      {
+        "title": "【更新】网页游戏平台Playgama推出AI游戏指数：Claude Opus驱动过半新增AI游戏，补充Roblox此前AI渗透数据",
+        "url": "https://pocketgamer.biz/more-than-80-of-robloxs-top-games-now-use-ai-while-playgama-tracks-the-tools-developers-prefer/",
+        "date": "2026-10-30",
+        "summary": "继Roblox此前披露超80%热门游戏使用AI加速开发后，网页游戏发行平台Playgama推出基于逾4200款AI生成游戏、110万次启动数据的\"AI游戏指数\"：Claude Opus驱动54%的新增AI游戏居首，OpenAI Sol占11%；按参与度看，OpenAI Astra驱动的游戏平均单局时长与千次游玩点赞数均最高，该指数将每日更新，是首次对游戏开发所用具体AI模型份额的量化追踪。",
+        "section": 2
+      },
+      {
+        "title": "网页游戏发行商Playgama推出“AI游戏指数”：Claude Opus占新AI游戏开发54%份额，但OpenAI Astra玩家粘性最高",
+        "url": "https://www.pocketgamer.biz/more-than-80-of-robloxs-top-games-now-use-ai-while-playgama-tracks-the-tools-developers-prefer/",
+        "date": "2026-10-30",
+        "summary": "跨平台网页游戏发行商Playgama基于逾4200款AI制作游戏、110万次启动及50万玩家数据推出每日更新的“AI Game Index”：Claude Opus是开发者制作AI游戏时最常用的模型，份额达54%，OpenAI Sol列第二（11%）；但按玩家互动度衡量，OpenAI Astra制作的游戏平均单次游玩时长（4分58秒）与每千次游玩点赞数均为最高，比Claude Opus高出约67%。",
+        "section": 2
+      }
+    ]
+  ],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
