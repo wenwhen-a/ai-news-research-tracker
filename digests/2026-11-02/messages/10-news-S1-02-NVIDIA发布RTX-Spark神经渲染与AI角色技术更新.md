@@ -1,0 +1,14 @@
+**[新闻 2] NVIDIA发布RTX Spark神经渲染与AI角色技术更新，ACE新模型已用于《PUBG》AI队友公测与《上古卷轴5》AI NPC模组**
+- **日期：** 2026-10-27
+- **来源链接：** <https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/>
+- **核心事实：**
+  - NVIDIA为RTX Spark平台发布技术更新，核心是NVIDIA ACE推出一款可在本地运行的新模型Nemotron 3.5 Bolt，开发者通过新的In-Game Inferencing SDK在游戏内直接调用。
+  - 该模型已被用于三个实际场景：《PUBG》正在公测的AI队友功能、宠物养成游戏Aniimo，以及《上古卷轴5》的AI NPC对话模组SkyrimNET。
+  - RTX Kit同步新增一批神经渲染SDK（官方称共8款），其中包含角色渲染相关工具。
+  - NVIDIA同时为Unreal Engine 5.8推出专用的RTX技术分支，用于支持光线追踪与神经图形技术在该引擎版本上的集成。
+- **背景与起因：**
+  - 这是NVIDIA ACE角色AI技术栈（此前已支持数字人对话、动画生成等）向本地化、低延迟推理方向的延伸，呼应游戏行业对"可在消费级硬件上实时运行的AI NPC"的持续需求。
+  - RTX Spark作为NVIDIA面向创作者与游发者的硬件/软件平台，此次更新进一步将其定位为游戏内AI角色与神经渲染的统一入口。
+- **结果与进展：**
+  - 《PUBG》AI队友功能已进入公测阶段，Aniimo与SkyrimNET模组已可实际体验，显示该技术链条已从演示走向可玩产品。
+  - Unreal Engine 5.8专用RTX分支的发布意味着开发者可以更直接地在主流引擎中集成这些神经渲染与AI角色能力，而无需自行搭建中间层。

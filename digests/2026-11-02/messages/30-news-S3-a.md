@@ -1,0 +1,8 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **【网易撤资致项目停摆】《如龙》制作人名越稔洋工作室正式解散**（2026-11-02）— 日本官方公告11月2日确认Nagoshi Studio解散；据此前彭博社报道，网易在得知项目还需追加约70亿日元（约4440万美元）预算后决定撤资，受网易收缩海外游戏业务影响，其首作《GANG OF DRAGON》前途未知。 <https://www.videogameschronicle.com/news/nagoshi-studio-officially-closes-after-netease-cuts-funding/>
+- **《幻刀百兵：零》PC/PS5首发72小时销量突破400万份**（2026-11-01）— 开发商S-GAME宣布，游戏自10月29日上线以来，在PS5及PC（Steam/Epic）平台72小时内销量已突破400万份，实体版计划2027年推出。 <https://www.gematsu.com/2026/11/phantom-blade-zero-sales-top-four-million-in-72-hours>
+- **SEGA街机联网服务ALL.Net与认证系统Aime疑遭未经授权访问紧急停服**（2026-11-02）— SEGA旗下街机联网服务ALL.Net及用户认证系统Aime自11月1日15时起因应对"未经授权访问"而暂停，截至11月2日下午维护仍在进行，恢复时间尚未公布。 <https://www.4gamer.net/games/999/G999905/20261102022/>
+- **《宝可梦集换式卡牌Pocket》上线两年：第二年收入约2.34亿美元，同比暴跌68%**（2026-11-02）— 据AppMagic统计，该游戏上线两年移动端净收入合计近10亿美元，但第二年收入约2.337亿美元，较首年大跌68%，在2026年畅销榜排名已跌至第30位。 <https://www.pocketgamer.biz/pokmon-trading-card-game-pocket-celebrates-second-anniversary/>
+- **迪拜多种商品中心联合本地工作室在《堡垒之夜》重建迪拜地标**（2026-11-02）— 迪拜多种商品中心（DMCC）与本地工作室Wild Unlimited合作，用虚幻编辑器UEFN打造《堡垒之夜》地图"Dubai Developed 2033"，重现阿尔法希迪堡、Skydive Dubai等地标，11月11日起全球上线，为迪拜2033游戏产业规划配套项目。 <https://www.pocketgamer.biz/dmcc-and-wild-unlimited-team-up-to-bring-dubai-landmarks-to-fortnite/>
+- **约旦电子竞技联合会与侯赛因商务园签署电竞合作备忘录**（2026-11-02）— 约旦电子竞技联合会（JEF）与侯赛因商务园（KHBP）11月2日签署合作备忘录，双方将联合举办电竞赛事、开展人才培养及媒体合作，推动约旦电竞产业发展，但未披露具体金额。 <https://www.pocketgamer.biz/jordan-esports-federation-signs-partnership-with-king-hussein-business-park/>
+- **GOG谈经典RTS《沙丘2》重制梦：最想做却撞上版权死局**（2026-11-02）— GOG业务拓展经理称经典RTS《沙丘2》是其最想促成的"梦幻复刻"项目之一，但该作版权横跨EA（持有代码资产）、环球影业、传奇影业及赫伯特基金会等多方，加上预期销量有限，重制几乎难以推动。 <https://www.videogameschronicle.com/news/classic-pc-strategy-game-dune-2-is-a-holy-grail-re-release-but-its-a-licensing-nightmare-gog-says/>

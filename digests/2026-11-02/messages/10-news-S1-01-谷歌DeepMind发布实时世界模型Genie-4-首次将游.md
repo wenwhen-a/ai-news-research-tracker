@@ -1,0 +1,14 @@
+**[新闻 1] 谷歌DeepMind发布实时世界模型Genie 4，首次将游戏开发者列为首批测试对象**
+- **日期：** 2026-10-27
+- **来源链接：** <https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/>
+- **核心事实：**
+  - DeepMind发布新一代实时世界模拟模型Genie 4，相比此前的Genie 3，首次为该系列模型原生生成音频（而非仅画面）。
+  - 用户可以用文本实时编辑已生成的场景——例如改变天气、加入新角色——系统由Gemini协助维持场景的长期连贯性。
+  - DeepMind在官方博客中特别指出，游戏开发者是首批测试者之一：开发者可以在数秒内把创意想法变成一个可探索的原型，用来试验视觉风格与交互机制，而不必先搭建引擎代码。
+  - Genie 4目前仅以研究预览形式向受信测试者（trusted testers）开放，尚无自助注册渠道。
+- **背景与起因：**
+  - 这是DeepMind"世界模型"系列（Genie 1至Genie 3，Genie 3于2025年8月发布）的延续，官方博客明确引用了Genie 3作为前作。
+  - DeepMind将Genie 4定位为服务于更广泛的具身智能体研究方向，博客中提到了Gemini模型家族、Gemini Robotics以及一个Apptronik Apollo人形机器人演示，显示其应用场景并不局限于游戏。
+- **结果与进展：**
+  - DeepMind表示后续将向Google AI Ultra订阅用户的Project Genie开放（需加入等待名单），并向Gemini API与Google AI Studio的早期接入合作伙伴开放。
+  - 截至发稿，尚无面向普通开发者或消费者的自助使用入口；该发布也被行业观察者视为对传统游戏开发流程的潜在冲击信号。

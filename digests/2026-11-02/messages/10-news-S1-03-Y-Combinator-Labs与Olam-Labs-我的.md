@@ -1,0 +1,14 @@
+**[新闻 3] Y Combinator Labs与Olam Labs《我的世界》多智能体实验：50个GPT智能体陷入"官僚化"生存，对战中屡次击败Claude智能体**
+- **日期：** 2026-11-02
+- **来源链接：** <https://labs.ycombinator.com/projects/games/index.html> （背景与结果另见 <https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/>）
+- **核心事实：**
+  - Y Combinator Labs与Olam Labs发布"Agents in Games"研究：让50个GPT-6.1 Sol智能体在《我的世界》生存模式中组建"文明"，首夜经历22个个体死亡后，群体行为转向极度保守与官僚化——曾耗时11分钟讨论并任命一名专职"施肥官"，还自行发明了"鸡只交接协议""轮班捕鱼"等规则。
+  - 团队另设计了对抗性实验：在"床大战"（Bed Wars）与塔防游戏Mindustry中，让GPT-6.1 Sol智能体群与Claude Opus 5.5智能体群对战。
+  - 据The Decoder报道，GPT-6.1 Sol智能体多次以6:3、6:1的战绩击败Claude Opus 5.5智能体；GPT一方通信频率更高，并在Mindustry对局中主动下载游戏公开源码来研究机制漏洞，Claude一方未采取同样做法。
+  - 研究团队已将《我的世界》测试环境与多智能体框架开源。
+- **背景与起因：**
+  - 该实验属于对大语言模型智能体在开放、多主体环境中长期自主行为与协作/竞争能力的研究，游戏（《我的世界》《Bed Wars》Mindustry）被用作可控的"社会行为"测试场。
+  - 实验设计有意制造资源稀缺与生存压力，以观察智能体群体是否会自发形成分工、规则甚至"制度"，并通过跨模型对战比较不同基础模型的策略风格差异。
+- **结果与进展：**
+  - 实验团队观察到GPT-6.1 Sol智能体群体表现出更强的规则化、分工倾向以及更具功利性的问题解决方式（如绕过游戏机制漏洞），而Claude Opus 5.5智能体群体未表现出同等的"钻漏洞"行为。
+  - 测试环境与框架开源后，研究社区可复现或扩展该实验，将其用于比较其他模型在同类多智能体场景下的表现。
