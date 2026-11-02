@@ -686,5 +686,13 @@
   "first_seen": "2026-11-01",
   "release_date": "2026-10-30",
   "summary": "Roblox added a new Camera.ProjectionType option, Orthographic, rendering the world without perspective for 2D, isometric, top-down and minimap-style games; Studio-only beta, not yet usable in published games."
+ },
+ "https://www.nvidia.com/en-us/geforce/news/phantom-blade-zero-path-tracing-dlss-4-5-ray-reconstruction/": {
+  "name": "Phantom Blade Zero — DLSS 4.5 Ray Reconstruction & Path Tracing",
+  "company": "NVIDIA",
+  "tier": "GA",
+  "first_seen": "2026-11-02",
+  "release_date": "2026-10-28",
+  "summary": "NVIDIA states Phantom Blade Zero launched October 28, 2026 on GeForce RTX and RTX Spark with the full DLSS 4.5 feature set, including DLSS 4.5 Ray Reconstruction and Dynamic Multi Frame Generation (up to 6X)."
  }
 }
