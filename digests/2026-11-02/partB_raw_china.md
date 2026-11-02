@@ -1,0 +1,20 @@
+# Part B — Weekly full sweep: Tencent, ByteDance/TikTok, miHoYo/HoYoverse, NetEase, Alibaba, Baidu, Kuaishou
+Window: 2026-08-04 through 2026-11-02 (today 2026-11-02, UTC). Monday full sweep.
+
+No new products or material, verified, dated updates (tier change, new major version/generation, new platform/region availability, or pricing change) were found in the last 7 days for this company group's 3D/world-model/character-animation/game-engine surfaces, beyond what is already recorded in `state/product_seen.json`.
+
+Items already in `product_seen.json` for this group were checked for fresh material changes and found unchanged since their last logged `last_update`/`first_seen`:
+- Tencent — Motus (end-to-end AI character-animation pipeline, 2026-08-27), MagicDawn (cross-engine GI/rendering brand, last_update 2026-10-05), GIGA (announced-only game-playing agent framework, 2026-08-27), Tencent Hunyuan 3D Cloud API / HY-3D 3.1 (2026-09-29, listed 2026-10-26) — no newer dated changes found on cloud.tencent.com/product/hunyuan, magicdawn.tencent.com, or hunyuan.tencent.com.
+- ByteDance — Seedance 2.5 (last_update 2026-10-17, BytePlus API docs live) — no further dated change on seed.bytedance.com's own post list (most recent dated items are a recruiting post on 2026-10-14 and the Jul 31 Seedance 2.5 launch post; no Seedance 2.5 4K post found there).
+- Alibaba — Wan 3.0 (confirmed GA, last_update 2026-10-26), HappyOyster Adventure/Directing/Acting APIs (last_update 2026-10-05), ABot-World (2026-07-16), Tripo 3D-pipeline tools on Model Studio (first_seen 2026-10-29) — re-checked help.aliyun.com/zh/model-studio/newly-released-models through 2026-10-29; no newer 3D/world-model/animation/engine entries past that date were visible in the fetched portion of the catalog.
+- Kuaishou — Kling 4.0 full global launch (last_update 2026-10-15) — kling.ai's marketing page still headlines "All-New Kling 4.0" with no dated changelog entries found after 2026-10-15 (official release-notes/release-history pages did not render for fetching).
+- NetEase — 《逆水寒：新世界》 character rendering upgrade (2026-06-26) — no October 2026 follow-up found; most recent NetEase AI/character items found in searches (国家科学技术进步奖 for 3D digital-human tech, July 2026; 造梦模式 AI storytelling in 逆水寒, April 2026) predate or fall outside the fresh-change window and are not new dated changes to the logged item.
+
+### Announced only (not yet usable)
+(none newly verified this sweep)
+
+Near-misses: Seedance 2.5 4K (ByteDance / Volcano Engine) — Chinese trade press (TechNode, 凤凰网科技, DoNews, IT之家) reports Volcano Engine opened an enterprise-only trial of a 4K-resolution Seedance 2.5 variant around 2026-10-22/23, limited to an initial batch of ~20 studios/directors, with a lower-res "Draft" preview mode. Could not verify from a primary source: seed.bytedance.com's own blog post list (through 2026-10-14) does not mention it, and no Volcano Engine/BytePlus docs or blog page confirming it could be reached. Even if confirmed, invitation-only access to ~20 studios would place it at "Announced only," not GA/beta, so it is not promoted to the main list pending a primary source.
+
+No qualifying new items were found for miHoYo/HoYoverse or Baidu in this window: no primary-source blog/changelog content on 3D generation, world models, character animation, or game engines could be located (hoyoverse.com's news page returned no renderable article content; Baidu has no identified product surface in these four topic areas — research.baidu.com and its Hugging Face org were not found to host a qualifying shipped product).
+
+Verification: Checked product_seen.json entries for this group against their primary pages (cloud.tencent.com/product/hunyuan, magicdawn.tencent.com, hunyuan.tencent.com, seed.bytedance.com/en, help.aliyun.com/zh/model-studio/newly-released-models, kling.ai, fuxi.163.com, hoyoverse.com/en-us/news) plus targeted web searches for each company's recent announcements; no material dated change in the last 7 days, and no new on-topic, primary-source-verifiable product, was found.
