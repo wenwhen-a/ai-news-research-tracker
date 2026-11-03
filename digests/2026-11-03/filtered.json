@@ -1,0 +1,176 @@
+{
+  "as_of": "2026-11-03",
+  "cutoff": "2026-10-27",
+  "window_days": 7,
+  "summary": {
+    "input_items": 4,
+    "denied_source": 0,
+    "in_window": 4,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 4,
+    "duplicate_clusters": 0,
+    "section1_count": 2,
+    "section2_count": 2,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 3,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "月之暗面Kimi发布游戏开发与创意工作解决方案，AI可直接操作Unity、虚幻引擎等专业工具",
+        "url": "https://www.youxituoluo.com/535021.html",
+        "extra_url": "https://www.ithome.com/1/021/539.htm",
+        "date": "2026-11-02",
+        "section": 1,
+        "facts": [
+          "11月2日，月之暗面Kimi发布“游戏开发与创意工作解决方案”，组合产品包括Kimi K3.1 Pro模型、Kimi Code、Kimi Work，以及面向Unity、Unreal Engine、Blender、Godot等专业工具的插件。",
+          "Kimi强调该方案能够直接进入现有工程与编辑器进行操作，交付物可继续编辑和维护，区别于单纯“生成一段代码或一张图”的常规AI工具。",
+          "官方宣传案例显示：在Unreal Engine 5.8中搭建了含3600万个三角面的“天宫”场景，在Blender中制作了含330万三角面、8368个独立组件并逐一制作动画的大教堂内部场景。",
+          "另一演示案例中，Kimi通过Godot用参考图和视频搭建雨夜场景（积水、灯笼等细节），实现角色挥剑、闪避、格挡等2.5D动作原型，并能运行游戏结合画面与试玩录像自检、发现问题后修改再验证。",
+          "方案还覆盖买量素材生成、玩家游戏内助手、社区与玩家反馈收集、内容本地化、内容审核等一站式游戏开发协助环节。",
+          "游戏陀螺记者实测发现，环境资产初版与参考存在差距，经二次生成和修正才接近预期；因账号配额限制，单次环境建模测算成本约13.08元人民币，角色模型整体比例仍有问题，更深入测试未能完成。"
+        ],
+        "background": [
+          "月之暗面此前公开的行业解决方案集中在金融领域（“Kimi金融行业解决方案”），本次是其首次公开面向游戏行业的垂直方案。",
+          "此前有报道称，曾主导米哈游海外发行体系的前米哈游国际化总裁金雯怡已加入月之暗面负责Kimi相关业务，但彼时报道称无公开信息证实该人事变动意味着月之暗面进军游戏领域；此次方案发布使其游戏业务布局公开化。",
+          "国内大模型公司与游戏大厂近年持续加码研发全流程AI工具（如腾讯混元游戏视觉生成平台、字节跳动Seed等），国产大模型厂商切入游戏AI开发工具赛道的竞争正在加剧。"
+        ],
+        "results": [
+          "该方案发布后被游戏陀螺、IT之家等多家中国游戏及科技媒体报道，游戏陀螺评论称“未来游戏团队在开发和发行上将会有更多选择”。",
+          "截至报道时，该方案尚未出现在Kimi官方公开的行业解决方案页面（仅展示金融行业方案），说明其仍处于早期对外宣传阶段。"
+        ]
+      },
+      "members": [
+        {
+          "title": "月之暗面Kimi发布游戏开发与创意工作解决方案，AI可直接操作Unity、虚幻引擎等专业工具",
+          "url": "https://www.youxituoluo.com/535021.html",
+          "extra_url": "https://www.ithome.com/1/021/539.htm",
+          "date": "2026-11-02",
+          "section": 1,
+          "facts": [
+            "11月2日，月之暗面Kimi发布“游戏开发与创意工作解决方案”，组合产品包括Kimi K3.1 Pro模型、Kimi Code、Kimi Work，以及面向Unity、Unreal Engine、Blender、Godot等专业工具的插件。",
+            "Kimi强调该方案能够直接进入现有工程与编辑器进行操作，交付物可继续编辑和维护，区别于单纯“生成一段代码或一张图”的常规AI工具。",
+            "官方宣传案例显示：在Unreal Engine 5.8中搭建了含3600万个三角面的“天宫”场景，在Blender中制作了含330万三角面、8368个独立组件并逐一制作动画的大教堂内部场景。",
+            "另一演示案例中，Kimi通过Godot用参考图和视频搭建雨夜场景（积水、灯笼等细节），实现角色挥剑、闪避、格挡等2.5D动作原型，并能运行游戏结合画面与试玩录像自检、发现问题后修改再验证。",
+            "方案还覆盖买量素材生成、玩家游戏内助手、社区与玩家反馈收集、内容本地化、内容审核等一站式游戏开发协助环节。",
+            "游戏陀螺记者实测发现，环境资产初版与参考存在差距，经二次生成和修正才接近预期；因账号配额限制，单次环境建模测算成本约13.08元人民币，角色模型整体比例仍有问题，更深入测试未能完成。"
+          ],
+          "background": [
+            "月之暗面此前公开的行业解决方案集中在金融领域（“Kimi金融行业解决方案”），本次是其首次公开面向游戏行业的垂直方案。",
+            "此前有报道称，曾主导米哈游海外发行体系的前米哈游国际化总裁金雯怡已加入月之暗面负责Kimi相关业务，但彼时报道称无公开信息证实该人事变动意味着月之暗面进军游戏领域；此次方案发布使其游戏业务布局公开化。",
+            "国内大模型公司与游戏大厂近年持续加码研发全流程AI工具（如腾讯混元游戏视觉生成平台、字节跳动Seed等），国产大模型厂商切入游戏AI开发工具赛道的竞争正在加剧。"
+          ],
+          "results": [
+            "该方案发布后被游戏陀螺、IT之家等多家中国游戏及科技媒体报道，游戏陀螺评论称“未来游戏团队在开发和发行上将会有更多选择”。",
+            "截至报道时，该方案尚未出现在Kimi官方公开的行业解决方案页面（仅展示金融行业方案），说明其仍处于早期对外宣传阶段。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "itch.io整治低质量AI生成游戏，删除数TB内容并新增NoAI过滤器",
+        "url": "https://www.ithome.com/1/021/824.htm",
+        "date": "2026-11-03",
+        "section": 1,
+        "facts": [
+          "IT之家11月3日消息（引用Kotaku同日报道），独立游戏平台itch.io披露，其新游戏页面创建量在8月3日至10月30日期间几乎翻倍，从略高于3000个增至超过6000个，但下载与购买量未同步增长。",
+          "itch.io以此为背景，删除了数TB低质量AI生成游戏内容，具体数量未披露。",
+          "平台新规要求桌面游戏、电子书、漫画、原声音乐等内容类型，统一遵守与其他内容相同的AI使用披露规则。",
+          "itch.io新增“NoAI”过滤器，可用于隐藏被标记为使用生成式AI的游戏；该过滤器不显示具体AI使用程度，难以判断单款游戏中AI介入的深浅。",
+          "报道称itch.io目前约有177万个游戏页面，其中约13.2万个（约7.5%）带有AI标签。",
+          "作为对比，Steam自2024年起要求AI披露，在近期一次新品节中，8600余个试玩Demo里有近1700个标注使用了生成式AI，占比接近五分之一。"
+        ],
+        "background": [
+          "生成式AI工具普及导致独立游戏平台涌入大量AI生成或AI辅助游戏，部分内容被玩家与开发者称为“AI slop”（AI垃圾内容），itch.io新增页面数量的激增即是这一趋势的直接体现。",
+          "行业内围绕AI披露规则存在分歧：Epic Games CEO Tim Sweeney此前公开批评Steam的强制AI披露机制“令人憎恶”、是一种“政治表态”，而Valve方面表态不为AI工具额外设门槛；itch.io此次选择收紧而非放开政策，是其在行业AI内容治理压力下的应对。"
+        ],
+        "results": [
+          "新规与删除行动实施后，itch.io站内AI标签游戏占比仍约7.5%，政策长期效果尚待观察。",
+          "该事件与此前“itch.io新游戏页面创建量两个月内近乎翻倍”的增长现象形成对照，反映出平台治理压力随AI生成内容量激增而上升，相关报道随即被IT之家、Kotaku等媒体转发讨论。"
+        ]
+      },
+      "members": [
+        {
+          "title": "itch.io整治低质量AI生成游戏，删除数TB内容并新增NoAI过滤器",
+          "url": "https://www.ithome.com/1/021/824.htm",
+          "date": "2026-11-03",
+          "section": 1,
+          "facts": [
+            "IT之家11月3日消息（引用Kotaku同日报道），独立游戏平台itch.io披露，其新游戏页面创建量在8月3日至10月30日期间几乎翻倍，从略高于3000个增至超过6000个，但下载与购买量未同步增长。",
+            "itch.io以此为背景，删除了数TB低质量AI生成游戏内容，具体数量未披露。",
+            "平台新规要求桌面游戏、电子书、漫画、原声音乐等内容类型，统一遵守与其他内容相同的AI使用披露规则。",
+            "itch.io新增“NoAI”过滤器，可用于隐藏被标记为使用生成式AI的游戏；该过滤器不显示具体AI使用程度，难以判断单款游戏中AI介入的深浅。",
+            "报道称itch.io目前约有177万个游戏页面，其中约13.2万个（约7.5%）带有AI标签。",
+            "作为对比，Steam自2024年起要求AI披露，在近期一次新品节中，8600余个试玩Demo里有近1700个标注使用了生成式AI，占比接近五分之一。"
+          ],
+          "background": [
+            "生成式AI工具普及导致独立游戏平台涌入大量AI生成或AI辅助游戏，部分内容被玩家与开发者称为“AI slop”（AI垃圾内容），itch.io新增页面数量的激增即是这一趋势的直接体现。",
+            "行业内围绕AI披露规则存在分歧：Epic Games CEO Tim Sweeney此前公开批评Steam的强制AI披露机制“令人憎恶”、是一种“政治表态”，而Valve方面表态不为AI工具额外设门槛；itch.io此次选择收紧而非放开政策，是其在行业AI内容治理压力下的应对。"
+          ],
+          "results": [
+            "新规与删除行动实施后，itch.io站内AI标签游戏占比仍约7.5%，政策长期效果尚待观察。",
+            "该事件与此前“itch.io新游戏页面创建量两个月内近乎翻倍”的增长现象形成对照，反映出平台治理压力随AI生成内容量激增而上升，相关报道随即被IT之家、Kotaku等媒体转发讨论。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Epic Games修改Unreal Engine及MetaHuman用户协议，允许开发者自行决定产出内容是否用于AI训练",
+        "url": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
+        "date": "2026-10-27",
+        "section": 2,
+        "summary": "2026年10月27日，Epic Games CEO Tim Sweeney在X平台确认公司正修改Unreal Engine与MetaHuman的最终用户许可协议（EULA），拟取消此前禁止将二者产出内容用于AI模型训练的限制条款，并表示“我们正在努力从EULA条款中移除这一限制”。修改后，开发者可自行决定用Unreal Engine、MetaHuman制作的项目是否允许被用于AI训练，Epic本身不因此获得对开发者内容或代码的额外权利；截至报道发出，Epic尚未向媒体披露具体生效时间与条款细节。该表态发布前一天，Kotaku刊文批评Epic与微软一方面拥抱AI编程工具，另一方面对玩家用AI还原自家游戏的行为采取下架等措施，被认为是此次表态的直接背景。"
+      },
+      "members": [
+        {
+          "title": "Epic Games修改Unreal Engine及MetaHuman用户协议，允许开发者自行决定产出内容是否用于AI训练",
+          "url": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
+          "date": "2026-10-27",
+          "section": 2,
+          "summary": "2026年10月27日，Epic Games CEO Tim Sweeney在X平台确认公司正修改Unreal Engine与MetaHuman的最终用户许可协议（EULA），拟取消此前禁止将二者产出内容用于AI模型训练的限制条款，并表示“我们正在努力从EULA条款中移除这一限制”。修改后，开发者可自行决定用Unreal Engine、MetaHuman制作的项目是否允许被用于AI训练，Epic本身不因此获得对开发者内容或代码的额外权利；截至报道发出，Epic尚未向媒体披露具体生效时间与条款细节。该表态发布前一天，Kotaku刊文批评Epic与微软一方面拥抱AI编程工具，另一方面对玩家用AI还原自家游戏的行为采取下架等措施，被认为是此次表态的直接背景。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "AI Agent工具DSH在B站走红，自动刷帖推荐游戏引发独立游戏发行生态讨论",
+        "url": "https://www.youxituoluo.com/535024.html",
+        "date": "2026-11-03",
+        "section": 2,
+        "summary": "2026年11月初，一款名为DSH（DeepSeek Harness）的AI Agent插件在B站走红，可让DeepSeek调用外部工具自动浏览视频、刷评论区并代替用户与其他AI互动；有用户展示其“大肥鱼”人格的DSH主动发现并向其安利了国产AI影视游戏《三体：审判前夜》的宣发视频。游戏陀螺据此分析认为，若此类AI助手未来承担游戏推荐与发行渠道功能，由于推荐机制依赖商店页面、媒体评测、玩家评论等公开信息，已具备成熟宣发体系的大厂游戏仍将占优，而缺乏曝光资源的独立开发团队未必能因此更容易被发现，文中同时提及Google Play于10月13日推出的Game Finder、AI社交产品Elys及Playgama自动发行管线等类似趋势作为参照。"
+      },
+      "members": [
+        {
+          "title": "AI Agent工具DSH在B站走红，自动刷帖推荐游戏引发独立游戏发行生态讨论",
+          "url": "https://www.youxituoluo.com/535024.html",
+          "date": "2026-11-03",
+          "section": 2,
+          "summary": "2026年11月初，一款名为DSH（DeepSeek Harness）的AI Agent插件在B站走红，可让DeepSeek调用外部工具自动浏览视频、刷评论区并代替用户与其他AI互动；有用户展示其“大肥鱼”人格的DSH主动发现并向其安利了国产AI影视游戏《三体：审判前夜》的宣发视频。游戏陀螺据此分析认为，若此类AI助手未来承担游戏推荐与发行渠道功能，由于推荐机制依赖商店页面、媒体评测、玩家评论等公开信息，已具备成熟宣发体系的大厂游戏仍将占优，而缺乏曝光资源的独立开发团队未必能因此更容易被发现，文中同时提及Google Play于10月13日推出的Game Finder、AI社交产品Elys及Playgama自动发行管线等类似趋势作为参照。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

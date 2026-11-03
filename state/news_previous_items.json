@@ -1,54 +1,5 @@
 [
  {
-  "title": "更新】米哈游《星布谷地》公开AI长期记忆架构细节，行业测算NPC长期记忆月成本约6000元",
-  "url": "https://www.youxituoluo.com/534970.html",
-  "date": "2026-10-19",
-  "section": 1,
-  "posted": "2026-10-19"
- },
- {
-  "title": "Meta发布Immersive Web SDK 1.0，为VR游戏开发内置AI编码代理工具",
-  "url": "https://developers.meta.com/vr/blog/immersive-web-sdk-1-0/",
-  "date": "2026-10-14",
-  "section": 2,
-  "posted": "2026-10-19"
- },
- {
-  "title": "米哈游参投AI芯片公司铭芯启睿超4亿元人民币A轮融资",
-  "url": "https://news.10jqka.com.cn/20261019/c680852418.shtml",
-  "date": "2026-10-19",
-  "section": 2,
-  "posted": "2026-10-19"
- },
- {
-  "title": "三七互娱联合《南方日报》推出国内首部电竞题材粤语AI漫剧",
-  "url": "https://stock.10jqka.com.cn/20261013/c680632619.shtml",
-  "date": "2026-10-13",
-  "section": 2,
-  "posted": "2026-10-19"
- },
- {
-  "title": "腾讯游戏安全ACE为《鹅鸭杀》提供AI内容风控，打击黑产引流",
-  "url": "https://www.youxituoluo.com/534961.html",
-  "date": "2026-10-14",
-  "section": 2,
-  "posted": "2026-10-19"
- },
- {
-  "title": "2026年10月Steam Next Fest今日开幕",
-  "url": "https://www.pocketgamer.biz/events/steam-next-fest-october-2026/",
-  "date": "2026-10-19",
-  "section": 3,
-  "posted": "2026-10-19"
- },
- {
-  "title": "ID@Xbox独立游戏展将于10月20日举行，与IGN联合呈现约18-20款游戏",
-  "url": "https://gamingbolt.com/?p=654831",
-  "date": "2026-10-19",
-  "section": 3,
-  "posted": "2026-10-19"
- },
- {
   "title": "游戏反编译枢纽网站decomp.dev宣布关闭，创始人称AI已\"破坏了社区属性\"",
   "url": "https://kotaku.com/video-game-decomp-hub-closes-due-to-ai-the-community-aspect-of-decompilation-has-been-broken-2000747302",
   "date": "2026-10-15",
@@ -1755,5 +1706,96 @@
   "date": "2026-11-02",
   "section": 3,
   "posted": "2026-11-02"
+ },
+ {
+  "title": "月之暗面Kimi发布游戏开发与创意工作解决方案，AI可直接操作Unity、虚幻引擎等专业工具",
+  "url": "https://www.youxituoluo.com/535021.html",
+  "date": "2026-11-02",
+  "section": 1,
+  "posted": "2026-11-03"
+ },
+ {
+  "title": "itch.io整治低质量AI生成游戏，删除数TB内容并新增NoAI过滤器",
+  "url": "https://www.ithome.com/1/021/824.htm",
+  "date": "2026-11-03",
+  "section": 1,
+  "posted": "2026-11-03"
+ },
+ {
+  "title": "AI Agent工具DSH在B站走红，自动刷帖推荐游戏引发独立游戏发行生态讨论",
+  "url": "https://www.youxituoluo.com/535024.html",
+  "date": "2026-11-03",
+  "section": 2,
+  "posted": "2026-11-03"
+ },
+ {
+  "title": "UAE手游平台Rise of Fearless获Epic Edges Capital 100万美元SAFE融资",
+  "url": "https://www.pocketgamer.biz/rise-of-fearless-raises-1m-to-expand-its-gaming-platform/",
+  "date": "2026-11-03",
+  "section": 3,
+  "posted": "2026-11-03"
+ },
+ {
+  "title": "更新】前Xbox COO Helen Chiang公开反驳\"因违规被解雇\"说法",
+  "url": "https://www.pocketgamer.biz/former-xbox-coo-helen-chiang-disputes-claims-she-was-fired-over-a-policy-violation/",
+  "date": "2026-11-03",
+  "section": 3,
+  "posted": "2026-11-03"
+ },
+ {
+  "title": "更新】Rockstar公布《GTA6》具体预载时间与安排",
+  "url": "https://www.videogameschronicle.com/news/rockstar-details-grand-theft-auto-6-pre-load-date-and-time-and-file-size/",
+  "date": "2026-11-03",
+  "section": 3,
+  "posted": "2026-11-03"
+ },
+ {
+  "title": "《South of Midnight》总监称若自己是Xbox，可能不会资助这款游戏",
+  "url": "https://www.videogameschronicle.com/news/south-of-midnight-director-says-he-wouldnt-have-funded-it-if-he-was-xbox-and-a-bad-outcome-was-inevitable/",
+  "date": "2026-11-03",
+  "section": 3,
+  "posted": "2026-11-03"
+ },
+ {
+  "title": "《黎明杀机》开发商就赠送争议主播付费DLC一事道歉",
+  "url": "https://www.videogameschronicle.com/news/dead-by-daylight-studio-apologises-for-gifting-offensive-streamer-dlc-and-telling-them-we-can-take-the-heat/",
+  "date": "2026-11-03",
+  "section": 3,
+  "posted": "2026-11-03"
+ },
+ {
+  "title": "《Pikmin Bloom》第五年收入创纪录达约3610万美元",
+  "url": "https://www.pocketgamer.biz/pikmin-bloom-blossoms-in-fifth-year-with-record-36m/",
+  "date": "2026-11-03",
+  "section": 3,
+  "posted": "2026-11-03"
+ },
+ {
+  "title": "Cygames大阪动作捕捉工作室正式对外部企业开放",
+  "url": "https://www.4gamer.net/games/982/G098219/20261102025/",
+  "date": "2026-11-02",
+  "section": 3,
+  "posted": "2026-11-03"
+ },
+ {
+  "title": "更新】米哈游《星布谷地》(Petit Planet) Switch 2版推迟至2027年，PC/移动端12月4日上线不受影响",
+  "url": "https://www.4gamer.net/games/054/G105475/20261102002/",
+  "date": "2026-11-02",
+  "section": 3,
+  "posted": "2026-11-03"
+ },
+ {
+  "title": "法国议会推进\"流量税\"提案，游戏等高流量内容商或受影响",
+  "url": "https://www.invenglobal.com/articles/28078/france-pushes-proposal-for-0055-per-gb-traffic-tax",
+  "date": "2026-11-02",
+  "section": 3,
+  "posted": "2026-11-03"
+ },
+ {
+  "title": "Take-Two发函施压，《NBA 2K27》玩家自建数值分析网站关闭",
+  "url": "https://www.invenglobal.com/articles/28076/take-two-issues-legal-warning-to-nba-2k27-build-site-forcing-shutdown",
+  "date": "2026-11-02",
+  "section": 3,
+  "posted": "2026-11-03"
  }
 ]

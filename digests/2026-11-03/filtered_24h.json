@@ -1,0 +1,232 @@
+{
+  "as_of": "2026-11-03",
+  "cutoff": "2026-11-02",
+  "window_days": 1,
+  "summary": {
+    "input_items": 10,
+    "denied_source": 0,
+    "in_window": 10,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 10,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 10,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 7,
+    "previously_covered_count": 3
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "UAE手游平台Rise of Fearless获Epic Edges Capital 100万美元SAFE融资",
+        "url": "https://www.pocketgamer.biz/rise-of-fearless-raises-1m-to-expand-its-gaming-platform/",
+        "date": "2026-11-03",
+        "section": 3,
+        "summary": "据PocketGamer.biz报道，阿联酋手游平台Rise of Fearless通过SAFE可转换协议从Epic Edges Capital获得100万美元融资，超过此前70万美元的筹资目标，资金将用于团队扩张、技术基础设施与营销。"
+      },
+      "members": [
+        {
+          "title": "UAE手游平台Rise of Fearless获Epic Edges Capital 100万美元SAFE融资",
+          "url": "https://www.pocketgamer.biz/rise-of-fearless-raises-1m-to-expand-its-gaming-platform/",
+          "date": "2026-11-03",
+          "section": 3,
+          "summary": "据PocketGamer.biz报道，阿联酋手游平台Rise of Fearless通过SAFE可转换协议从Epic Edges Capital获得100万美元融资，超过此前70万美元的筹资目标，资金将用于团队扩张、技术基础设施与营销。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "前Xbox COO Helen Chiang公开反驳“因违规被解雇”说法",
+        "url": "https://www.pocketgamer.biz/former-xbox-coo-helen-chiang-disputes-claims-she-was-fired-over-a-policy-violation/",
+        "date": "2026-11-03",
+        "section": 3,
+        "summary": "前Xbox首席运营官Helen Chiang在LinkedIn发文，否认外界关于其“因违反公司政策被解雇”的说法，并反驳泄密、跳槽竞争对手及其他不当行为指控，但未透露离职具体原因；她在微软任职约21年，担任Xbox首位COO仅三个月便离职。"
+      },
+      "members": [
+        {
+          "title": "前Xbox COO Helen Chiang公开反驳“因违规被解雇”说法",
+          "url": "https://www.pocketgamer.biz/former-xbox-coo-helen-chiang-disputes-claims-she-was-fired-over-a-policy-violation/",
+          "date": "2026-11-03",
+          "section": 3,
+          "summary": "前Xbox首席运营官Helen Chiang在LinkedIn发文，否认外界关于其“因违反公司政策被解雇”的说法，并反驳泄密、跳槽竞争对手及其他不当行为指控，但未透露离职具体原因；她在微软任职约21年，担任Xbox首位COO仅三个月便离职。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Rockstar公布《GTA6》预载时间与安排",
+        "url": "https://www.videogameschronicle.com/news/rockstar-details-grand-theft-auto-6-pre-load-date-and-time-and-file-size/",
+        "date": "2026-11-03",
+        "section": 3,
+        "summary": "Rockstar公布《GTA6》预载计划：PS5版11月10日起按各地区当地时间零点开放预载，Xbox Series X|S版统一于11月10日UK时间零点（北美约为11月9日）开放，实体“碰碟开卡”版本11月12日起可预载，游戏11月19日正式发售。"
+      },
+      "members": [
+        {
+          "title": "Rockstar公布《GTA6》预载时间与安排",
+          "url": "https://www.videogameschronicle.com/news/rockstar-details-grand-theft-auto-6-pre-load-date-and-time-and-file-size/",
+          "date": "2026-11-03",
+          "section": 3,
+          "summary": "Rockstar公布《GTA6》预载计划：PS5版11月10日起按各地区当地时间零点开放预载，Xbox Series X|S版统一于11月10日UK时间零点（北美约为11月9日）开放，实体“碰碟开卡”版本11月12日起可预载，游戏11月19日正式发售。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《South of Midnight》总监称若自己是Xbox，可能不会资助这款游戏",
+        "url": "https://www.videogameschronicle.com/news/south-of-midnight-director-says-he-wouldnt-have-funded-it-if-he-was-xbox-and-a-bad-outcome-was-inevitable/",
+        "date": "2026-11-03",
+        "section": 3,
+        "summary": "Compulsion Games总监David Sears在接受MinnMax采访时表示，若他处于Xbox的位置，可能不会投资《South of Midnight》这类非主流项目，认为大公司终会削减低回报业务，这种资助模式“注定走向令人震惊的结局”；他同时称赞微软让Compulsion Games独立运营而非直接关闭的做法更为人性化。"
+      },
+      "members": [
+        {
+          "title": "《South of Midnight》总监称若自己是Xbox，可能不会资助这款游戏",
+          "url": "https://www.videogameschronicle.com/news/south-of-midnight-director-says-he-wouldnt-have-funded-it-if-he-was-xbox-and-a-bad-outcome-was-inevitable/",
+          "date": "2026-11-03",
+          "section": 3,
+          "summary": "Compulsion Games总监David Sears在接受MinnMax采访时表示，若他处于Xbox的位置，可能不会投资《South of Midnight》这类非主流项目，认为大公司终会削减低回报业务，这种资助模式“注定走向令人震惊的结局”；他同时称赞微软让Compulsion Games独立运营而非直接关闭的做法更为人性化。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《黎明杀机》开发商就赠送争议主播付费DLC一事道歉",
+        "url": "https://www.videogameschronicle.com/news/dead-by-daylight-studio-apologises-for-gifting-offensive-streamer-dlc-and-telling-them-we-can-take-the-heat/",
+        "date": "2026-11-03",
+        "section": 3,
+        "summary": "《黎明杀机》开发商Behaviour Interactive为团队成员未经审批向有仇恨言论历史的主播TheBurntPeanut赠送约300美元付费DLC、并回应“我们能扛住压力，这些DLC归你了”一事发布道歉声明，承认审核流程不当，已收回DLC并着手修订创作者合作与审批规范。"
+      },
+      "members": [
+        {
+          "title": "《黎明杀机》开发商就赠送争议主播付费DLC一事道歉",
+          "url": "https://www.videogameschronicle.com/news/dead-by-daylight-studio-apologises-for-gifting-offensive-streamer-dlc-and-telling-them-we-can-take-the-heat/",
+          "date": "2026-11-03",
+          "section": 3,
+          "summary": "《黎明杀机》开发商Behaviour Interactive为团队成员未经审批向有仇恨言论历史的主播TheBurntPeanut赠送约300美元付费DLC、并回应“我们能扛住压力，这些DLC归你了”一事发布道歉声明，承认审核流程不当，已收回DLC并着手修订创作者合作与审批规范。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《Pikmin Bloom》第五年收入创纪录达约3610万美元",
+        "url": "https://www.pocketgamer.biz/pikmin-bloom-blossoms-in-fifth-year-with-record-36m/",
+        "date": "2026-11-03",
+        "section": 3,
+        "summary": "据AppMagic数据，Scopely旗下《Pikmin Bloom》上线第五年（截至2026年）iOS与Google Play净收入约3610万美元，创历史新高，同比增长约53%，占游戏累计营收约9710万美元的37%；中国台湾市场本年度收入首次超过日本，成为最大市场。"
+      },
+      "members": [
+        {
+          "title": "《Pikmin Bloom》第五年收入创纪录达约3610万美元",
+          "url": "https://www.pocketgamer.biz/pikmin-bloom-blossoms-in-fifth-year-with-record-36m/",
+          "date": "2026-11-03",
+          "section": 3,
+          "summary": "据AppMagic数据，Scopely旗下《Pikmin Bloom》上线第五年（截至2026年）iOS与Google Play净收入约3610万美元，创历史新高，同比增长约53%，占游戏累计营收约9710万美元的37%；中国台湾市场本年度收入首次超过日本，成为最大市场。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Cygames大阪动作捕捉工作室正式对外部企业开放",
+        "url": "https://www.4gamer.net/games/982/G098219/20261102025/",
+        "date": "2026-11-02",
+        "section": 3,
+        "summary": "Cygames宣布旗下大阪动作捕捉工作室（捕捉空间约10m×14m×6m，配备168台Vicon V16光学捕捉摄像机）起正式对外部企业开放使用，该设施此前曾用于自研作品《碧蓝幻想Relink》《赛马娘》等项目的动作捕捉。"
+      },
+      "members": [
+        {
+          "title": "Cygames大阪动作捕捉工作室正式对外部企业开放",
+          "url": "https://www.4gamer.net/games/982/G098219/20261102025/",
+          "date": "2026-11-02",
+          "section": 3,
+          "summary": "Cygames宣布旗下大阪动作捕捉工作室（捕捉空间约10m×14m×6m，配备168台Vicon V16光学捕捉摄像机）起正式对外部企业开放使用，该设施此前曾用于自研作品《碧蓝幻想Relink》《赛马娘》等项目的动作捕捉。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "米哈游《Petit Planet》（星布谷地）Switch 2版确认推迟至2027年发售",
+        "url": "https://www.4gamer.net/games/054/G105475/20261102002/",
+        "date": "2026-11-02",
+        "section": 3,
+        "summary": "米哈游11月1日发布直播确认，《Petit Planet》（国际服《星布谷地》）PC/iOS/Android版仍定于12月4日全球免费上线（12月1日开放预下载），但独立开发中的Switch 2版将推迟至2027年发售，具体日期未定。"
+      },
+      "members": [
+        {
+          "title": "米哈游《Petit Planet》（星布谷地）Switch 2版确认推迟至2027年发售",
+          "url": "https://www.4gamer.net/games/054/G105475/20261102002/",
+          "date": "2026-11-02",
+          "section": 3,
+          "summary": "米哈游11月1日发布直播确认，《Petit Planet》（国际服《星布谷地》）PC/iOS/Android版仍定于12月4日全球免费上线（12月1日开放预下载），但独立开发中的Switch 2版将推迟至2027年发售，具体日期未定。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "法国议会推进“流量税”提案，游戏等高流量内容商或受影响",
+        "url": "https://www.invenglobal.com/articles/28078/france-pushes-proposal-for-0055-per-gb-traffic-tax",
+        "date": "2026-11-02",
+        "section": 3,
+        "summary": "法国社会党等议员推动对流向法国用户的数据流量按每GB 0.055欧元征税的提案，税负上限为企业法国本土收入的15%或全球收入的2%，支持者估算年可征税逾100亿欧元；据报道，一款100GB体量的游戏或为发行商带来约5.5欧元/用户的税负，游戏、云服务及流媒体等高流量行业可能受影响，但法国政府与财委会报告人反对，该案仅以11比10票微弱通过预算委员会表决，后续能否成法存疑。"
+      },
+      "members": [
+        {
+          "title": "法国议会推进“流量税”提案，游戏等高流量内容商或受影响",
+          "url": "https://www.invenglobal.com/articles/28078/france-pushes-proposal-for-0055-per-gb-traffic-tax",
+          "date": "2026-11-02",
+          "section": 3,
+          "summary": "法国社会党等议员推动对流向法国用户的数据流量按每GB 0.055欧元征税的提案，税负上限为企业法国本土收入的15%或全球收入的2%，支持者估算年可征税逾100亿欧元；据报道，一款100GB体量的游戏或为发行商带来约5.5欧元/用户的税负，游戏、云服务及流媒体等高流量行业可能受影响，但法国政府与财委会报告人反对，该案仅以11比10票微弱通过预算委员会表决，后续能否成法存疑。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Take-Two发函施压，《NBA 2K27》玩家自建数值分析网站关闭",
+        "url": "https://www.invenglobal.com/articles/28076/take-two-issues-legal-warning-to-nba-2k27-build-site-forcing-shutdown",
+        "date": "2026-11-02",
+        "section": 3,
+        "summary": "Take-Two向玩家自制的《NBA 2K27》MyPLAYER建卡数值分析网站Goated Build Lab发出法律警告，指其让玩家无需正常游玩即可提前获知内部数值机制、构成“明显不公”并违反服务条款；站长JohnsGoated于11月3日确认关站，此举在Reddit等社区引发玩家批评。"
+      },
+      "members": [
+        {
+          "title": "Take-Two发函施压，《NBA 2K27》玩家自建数值分析网站关闭",
+          "url": "https://www.invenglobal.com/articles/28076/take-two-issues-legal-warning-to-nba-2k27-build-site-forcing-shutdown",
+          "date": "2026-11-02",
+          "section": 3,
+          "summary": "Take-Two向玩家自制的《NBA 2K27》MyPLAYER建卡数值分析网站Goated Build Lab发出法律警告，指其让玩家无需正常游玩即可提前获知内部数值机制、构成“明显不公”并违反服务条款；站长JohnsGoated于11月3日确认关站，此举在Reddit等社区引发玩家批评。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
