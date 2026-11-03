@@ -1,6 +1,6 @@
 ## Reconstruction as Spatial Evaluation: Diagnosing Cross-View Spatial Intelligence in Large Vision-Language Models
 - **arXiv:** 2611.02026 · https://arxiv.org/abs/2611.02026
-- **Submitted:** 1 Nov 2026 (v1)
+- **Submitted:** 2026-11-01
 - **Authors:** Junfei Wu, Qiuyue Wang, Xuhong Huang, Qihang Peng, Mingsheng Li, Jian Guan, Qiang Liu, Shu Wu, Liang Wang, Shuai Bai, Tieniu Tan
 - **Qualifying affiliation(s):** Alibaba Group (Alibaba Token Hub) — Junfei Wu, Qiuyue Wang, Xuhong Huang, Qihang Peng, Mingsheng Li, Jian Guan, Shuai Bai
 - **Categories:** cs.CV (primary), cs.AI
@@ -19,7 +19,7 @@
 
 ## Learning-to-Memorize: Dynamic Context Management for Long-Horizon Autoregressive Video Generation
 - **arXiv:** 2611.01858 · https://arxiv.org/abs/2611.01858
-- **Submitted:** 1 Nov 2026 (v1)
+- **Submitted:** 2026-11-01
 - **Authors:** Haowei Zhu, Qijie Wang, Jia Li, Xing Wang, Tianyu Zhao, Jiexi Wang, Xurui Peng, Xinglong Wu, Junhai Yong, Bin Wang
 - **Qualifying affiliation(s):** ByteDance Seed — Haowei Zhu (also Tsinghua University), Jia Li, Xing Wang, Tianyu Zhao, Jiexi Wang, Xurui Peng, Xinglong Wu
 - **Categories:** cs.CV
@@ -38,7 +38,7 @@
 
 ## Xiaomi Auto World Model 2.0: Causal World Models for Real-World Driving and Embodied Intelligence
 - **arXiv:** 2611.01677 · https://arxiv.org/abs/2611.01677
-- **Submitted:** 1 Nov 2026 (v1)
+- **Submitted:** 2026-11-01
 - **Authors:** Zhenxin Zhu, Zhijian Huang, Cheng Chi, Yuru Wang, Jianhua Wu, Jiayi Guan, Yonggang Li, Mingfei Tu, et al. (23 authors total, credited as the "Xiaomi Auto World Model Team")
 - **Qualifying affiliation(s):** Xiaomi (paper authored and titled by the Xiaomi Auto World Model Team; Xiaomi logo on title page; model feeds "Xiaomi's autonomous driving stack") — FLAG: borderline (Xiaomi)
 - **Categories:** cs.AI (primary), cs.LG
@@ -57,7 +57,7 @@
 
 ## GSExplorer: Interactive World Generation with a Persistent 3D Gaussian World State
 - **arXiv:** 2611.01543 · https://arxiv.org/abs/2611.01543
-- **Submitted:** 1 Nov 2026 (v1)
+- **Submitted:** 2026-11-01
 - **Authors:** Sicheng Yu, Liu Liu, Xinjie Wang, Xinjiang Wang, Taojun Ding, Wenhao Hu, Beizhen Zhao, Puxin Yan, Zhizhong Su, Hao Wang
 - **Qualifying affiliation(s):** Horizon Robotics — Puxin Yan (also The University of Hong Kong; listed as Project Leader) — FLAG: borderline (Horizon Robotics)
 - **Categories:** cs.CV (primary), cs.AI
@@ -76,7 +76,7 @@
 
 ## UniCaMo: Unified Camera and Motion Control for Video Diffusion Models
 - **arXiv:** 2611.00810 · https://arxiv.org/abs/2611.00810
-- **Submitted:** 31 Oct 2026 (v1)
+- **Submitted:** 2026-10-31
 - **Authors:** Long Vu, Tan Ngo, Animesh Karnewar, Amir Habibian, Binh-Son Hua, Hung Bui, Minh Hoai Nguyen, Phong Nguyen-Ha
 - **Qualifying affiliation(s):** Qualcomm AI Research — Long Vu, Tan Ngo, Animesh Karnewar, Amir Habibian, Hung Bui, Minh Hoai Nguyen, Phong Nguyen-Ha. Note: Binh-Son Hua is primarily affiliated with Trinity College Dublin; his contribution is noted as "work done under consultancy capacity" for Qualcomm.
 - **Categories:** cs.CV (primary), cs.GR

@@ -21977,5 +21977,485 @@
   "first_seen": "2026-11-02",
   "submitted": "2026-10-29",
   "title": "WorldBridge: Bridging Video and Action for Task Generalization in World Action Models"
+ },
+ "2611.03634": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments"
+ },
+ "2611.03626": {
+  "status": "qualified",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "Isekai3D SDG: A Platform for Diverse Synthetic Gameplay Visual Data",
+  "affiliation": "NVIDIA — all 13 listed authors",
+  "url": "https://arxiv.org/abs/2611.03626",
+  "summary": "The paper presents Isekai3D SDG, a platform for simulating and capturing synthetic 3D gameplay data for vision and world-model research."
+ },
+ "2611.03533": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "CoLa3D: Composable Latent 3D Decomposition"
+ },
+ "2611.03428": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "Toward Uncertainty-Aware, Physics-Grounded Human World Models"
+ },
+ "2611.03114": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields"
+ },
+ "2611.02955": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "Generative diffusion in long-range correlated landscapes: Speciation cascade and the foam structure of the score"
+ },
+ "2611.02922": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "An intelligent satellite must do nothing well"
+ },
+ "2611.02884": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "AnchorHEC: Targetless Hand-Eye Calibration of Wrist and Fixed Cameras"
+ },
+ "2611.02872": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "Design and Experimental Validation of the Separation and Deployment System for the CHERI Lunar Micro-Rovers"
+ },
+ "2611.02822": {
+  "status": "near-miss",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "Disen-Forcing: Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion"
+ },
+ "2611.02815": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "Predictive Safety Guardrails Do Not Always Make LLM Agents Safer"
+ },
+ "2611.02807": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "Creating Hybrid Interactive Narrative Systems with LLM: From Formal Description to Evaluation"
+ },
+ "2611.02803": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "OmniOPD: Stable On-Policy Distillation for Joint Audio-Video Generation"
+ },
+ "2611.02782": {
+  "status": "qualified",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "History Forcing: Distilling History-Dependent Continuations for Long-Horizon Video World Models",
+  "affiliation": "Microsoft Research — Yuke Zhao, Zisu Huang, Yifan Yang (listed with a dual Zhejiang University / Microsoft Research affiliation). Other authors are affiliated with Zhejiang University, Monash University, and Adelaide University. (Note: a \"Google\" flag from the screening tool was checked and found to be a false positive — the term does not appear anywhere on the paper's page; the real qualifying affiliation is Microsoft Research.)",
+  "url": "https://arxiv.org/abs/2611.02782",
+  "summary": "The paper addresses weak historical conditioning in few-step autoregressive video diffusion world models, which causes drift and inconsistency over long video horizons."
+ },
+ "2611.02767": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "GaussFlaw: Fine-Grained Perceptual Diagnosis for 3D Gaussian Splatting"
+ },
+ "2611.02699": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "Right Ranking, Wrong Scale: Reproducing the Robotic World Model's Dynamics Model and Testing the Uncertainty of Its Follow-up"
+ },
+ "2611.02690": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "Human-Oriented World Model"
+ },
+ "2611.02658": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "OctreeSplat: Hierarchical Octree-Guided Feed-Forward Gaussian Splatting"
+ },
+ "2611.02631": {
+  "status": "near-miss",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "UniCross3D: Unified Cross-View and Cross-Domain Diffusion for Consistent Single-Image 3D Generation"
+ },
+ "2611.02613": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "MAPO: Mixture of Experts with Alternating Policy Optimization for Universal Humanoid Motion Tracking"
+ },
+ "2611.02568": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "SeMo3D: Unifying 3D Generation, Editing, and Completion via Selective Modeling"
+ },
+ "2611.02526": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "INTERACT: Learning Interaction-Aware World Dynamics from Driving Videos for Autonomous Driving"
+ },
+ "2611.02474": {
+  "status": "qualified",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "Gnomon4D: Learning Where and When to Focus for Geometric Motion-Grounded World-Action Modeling",
+  "affiliation": "Kuaishou/KlingAI Research — Lingwei Dang (work done during an internship at KlingAI Research), Yan Zhou (project lead), Guoxin Zhang, Pengfei Wan. Other authors list Nanjing University, Beijing Normal University, Shadow AI, Tsinghua University, and South China University of Technology (corresponding author: Qingyao Wu).",
+  "url": "https://arxiv.org/abs/2611.02474",
+  "summary": "The paper introduces Gnomon4D, a world-action model (WAM) that jointly generates future video, robot actions, and GeoDelta, an explicit 4D geometric motion field capturing how embodiment and object points move in the image plane and change in depth across frames."
+ },
+ "2611.02405": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "MirrorComm: A Communication-Efficient Cooperative Perception Framework via Mirrored World Models"
+ },
+ "2611.02341": {
+  "status": "qualified",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-02",
+  "title": "AgiWorld: An Agentic Video World Model for Building Persistent Worlds",
+  "affiliation": "Adobe Research — the paper lists two affiliations for the author group, \"The University of Texas at Austin\" and \"Adobe Research\" (the exact per-author split was not recoverable from the extracted text, but several co-authors, consistent with prior Adobe Research publications in this area, are Adobe-affiliated; Kalyan Sunkavalli is an established Adobe Research scientist)",
+  "url": "https://arxiv.org/abs/2611.02341",
+  "summary": "The paper presents AgiWorld, a system that builds a persistent, explorable video world from a single image and a free-form instruction, combining a planning agent (AgiWorld-Agent) that designs the world and directs exploration with a video world model (AgiWorld-WM) that generates video in chunks and"
+ },
+ "2611.02306": {
+  "status": "qualified",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "Lie Routing Vision Language Models for View-Robust 3D Understanding",
+  "affiliation": "Tencent, China — Hao Zheng, Huimin Huang, Wei Ji, Yawen Huang, Xian Wu. Other authors list Westlake University (Jingjun Yi, Chen Hu, Yefeng Zheng) and University of Amsterdam (Qi Bi, Yongkang Li; Jingjun Yi is also now affiliated with University of Amsterdam).",
+  "url": "https://arxiv.org/abs/2611.02306",
+  "summary": "The paper studies \"viewpoint-induced semantic drift,\" where vision-language models give inconsistent answers about the same object as the camera viewpoint changes."
+ },
+ "2611.02218": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "Beyond Ensemble Disagreement: Predictive STL Monitoring of RL Locomotion under Distribution Shift"
+ },
+ "2611.02204": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "Learning from high-resolution 2D images to reconstruct 3D microstructures"
+ },
+ "2611.02044": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "Unified Loss-Aware Density Control for 3D Gaussian Splatting"
+ },
+ "2611.02026": {
+  "status": "qualified",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "Reconstruction as Spatial Evaluation: Diagnosing Cross-View Spatial Intelligence in Large Vision-Language Models",
+  "affiliation": "Alibaba Group (Alibaba Token Hub) — Junfei Wu, Qiuyue Wang, Xuhong Huang, Qihang Peng, Mingsheng Li, Jian Guan, Shuai Bai",
+  "url": "https://arxiv.org/abs/2611.02026",
+  "summary": "The paper introduces ReconSpatial, a benchmark that diagnoses cross-view spatial intelligence in large vision-language models (LVLMs) by requiring multi-view 3D scene reconstruction in indoor, tabletop, and outdoor settings."
+ },
+ "2611.01986": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "RubricWorld: World Model-Guided Rubric Optimization for LLM Graders"
+ },
+ "2611.01939": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph"
+ },
+ "2611.01866": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "The (Butter)fly Dream: Linear Separability of World-Model Rollouts in a Connectome-Constrained Visual Model"
+ },
+ "2611.01858": {
+  "status": "qualified",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "Learning-to-Memorize: Dynamic Context Management for Long-Horizon Autoregressive Video Generation",
+  "affiliation": "ByteDance Seed — Haowei Zhu (also Tsinghua University), Jia Li, Xing Wang, Tianyu Zhao, Jiexi Wang, Xurui Peng, Xinglong Wu",
+  "url": "https://arxiv.org/abs/2611.01858",
+  "summary": "The paper proposes Learning to Memorize (L2M), a learned framework that decides which historical frames to keep, evict, or update during long-horizon autoregressive video generation, operating under a fixed KV-cache budget."
+ },
+ "2611.01844": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "OpenNWM: A Generalist Navigation World Model with Latent Action Pretraining"
+ },
+ "2611.01823": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "LUMEN: Geometry-Guided Diffusion Model for Spatially-Varying HDR Illumination Estimation"
+ },
+ "2611.01815": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "When Does Latent Prediction Error Support Physical Surprise Claims in Video World Models?"
+ },
+ "2611.01791": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "RIFT: Residual-Informed Flow Transfer for One-Step Generative Video Compression"
+ },
+ "2611.01677": {
+  "status": "qualified",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "Xiaomi Auto World Model 2.0: Causal World Models for Real-World Driving and Embodied Intelligence",
+  "affiliation": "Xiaomi (paper authored and titled by the Xiaomi Auto World Model Team; Xiaomi logo on title page; model feeds \"Xiaomi's autonomous driving stack\") — FLAG: borderline (Xiaomi)",
+  "url": "https://arxiv.org/abs/2611.01677",
+  "summary": "The paper presents Xiaomi Auto World Model 2.0, a unified streaming causal world model for \"Physical AI\" that models physical scene evolution and unifies heterogeneous conditioning inputs within a shared representation space for view-consistent generation."
+ },
+ "2611.01676": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "MMCoT$^3$: Empowering 3D Scene Understanding with 3D-Text Interleaved Multi-Modal Chain-of-Thought Reasoning"
+ },
+ "2611.01666": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "Stand-In Effects and Pooling Amplification: Design-Based Tests of Whether Biological World Models Use Actions"
+ },
+ "2611.01648": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "dKV Forcing: Separating Generation and Memory Representations through a Differentiable KV Cache"
+ },
+ "2611.01627": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "EgoMo3R: Joint Egocentric Motion and Scene Reconstruction"
+ },
+ "2611.01600": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "SCOUT: Planning under Occlusion via Object-Centric World Model Rollouts"
+ },
+ "2611.01543": {
+  "status": "qualified",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "GSExplorer: Interactive World Generation with a Persistent 3D Gaussian World State",
+  "affiliation": "Horizon Robotics — Puxin Yan (also The University of Hong Kong; listed as Project Leader) — FLAG: borderline (Horizon Robotics)",
+  "url": "https://arxiv.org/abs/2611.01543",
+  "summary": "GSExplorer is a framework for interactive world generation that pairs a video generator with a persistent 3D Gaussian Splatting scene representation."
+ },
+ "2611.01541": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "MoPort: A View-Aware 2D Interface for Motion Language Models"
+ },
+ "2611.01537": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "Task-driven sparse-view planar X-ray computed tomography for axial metrology"
+ },
+ "2611.01534": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "AbacusGS: Gaussian Splatting without Per-Splat Sorting"
+ },
+ "2611.01372": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-11-01",
+  "title": "IMPACT: Image-Conditioned Motion with Physics-Aware Collision and Trajectory Guidance for Video Generation"
+ },
+ "2611.01162": {
+  "status": "near-miss",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-31",
+  "title": "SHield: Watermarking 4D Gaussian Splatting via Spherical Harmonic Coefficient Perturbation"
+ },
+ "2611.01139": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-31",
+  "title": "World Models Need Not Be Right to Rank Policies Right: Relative Bounds and Audit Limits"
+ },
+ "2611.01084": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-31",
+  "title": "QVR3D: Query-Guided Visual Reasoning for Training-Free 3D Grounding"
+ },
+ "2611.01048": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-31",
+  "title": "Infinite Worlds from One Example: What Local Generators Must Share"
+ },
+ "2611.01039": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-31",
+  "title": "pico-WAM: Evaluating Counterfactual Prediction and Planning Error in a Compact World Action Model"
+ },
+ "2611.01001": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-31",
+  "title": "GURU: A Hierarchical Neuro-Symbolic Multi-Agent System for Verification-Aware Automation of Mission-Critical Digital Engineering and Operations"
+ },
+ "2611.00951": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-31",
+  "title": "Why Koopman Structure Does Not Help Differentiable World Models for Humanoid Whole-Body Tracking"
+ },
+ "2611.00937": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-31",
+  "title": "What Helps Denoising Can Hurt Memory: Rethinking History in Long Video Generation"
+ },
+ "2611.00870": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-31",
+  "title": "A Reproducible Reconstruction and Evaluation Framework for Photorealistic Lunar Analog Scene Reconstruction Toward Digital Twins"
+ },
+ "2611.00859": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-31",
+  "title": "Wave Forcing: Towards Speed-of-Light Streaming Video Generation"
+ },
+ "2611.00810": {
+  "status": "qualified",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-31",
+  "title": "UniCaMo: Unified Camera and Motion Control for Video Diffusion Models",
+  "affiliation": "Qualcomm AI Research — Long Vu, Tan Ngo, Animesh Karnewar, Amir Habibian, Hung Bui, Minh Hoai Nguyen, Phong Nguyen-Ha. Note: Binh-Son Hua is primarily affiliated with Trinity College Dublin; his contribution is noted as \"work done under consultancy capacity\" for Qualcomm.",
+  "url": "https://arxiv.org/abs/2611.00810",
+  "summary": "UniCaMo is a unified framework for jointly controlling camera motion and object motion in image-and-text-to-video diffusion models."
+ },
+ "2611.00758": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-31",
+  "title": "Old Is Not False: Valid-Time Memory for Interactive Video World Models"
+ },
+ "2611.00756": {
+  "status": "near-miss",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-31",
+  "title": "SceneBound: How Much Should a Streaming 3D Reconstruction Model Remember?"
+ },
+ "2611.00658": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-31",
+  "title": "SE-Mem: Semantic-Episodic Memory for Scene-Consistent Generative View Synthesis"
+ },
+ "2611.00612": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-31",
+  "title": "Roz: A Taste Test for World Model Latents"
+ },
+ "2611.00596": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-31",
+  "title": "X-World 1.6: Building Controllable Virtual Cities with World Models"
+ },
+ "2611.00527": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-31",
+  "title": "3D Neural Rendering for Automated Ultrasonic Laser Scans"
+ },
+ "2611.00513": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-31",
+  "title": "WorldSketch: Sketching World Models for Zero-Shot Mobile Manipulation"
+ },
+ "2611.00482": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-31",
+  "title": "A Straight Line Is Not a Camera Pose: Auditing Short-Clip Pose Benchmarks"
+ },
+ "2611.00455": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-30",
+  "title": "TacMind: Benchmarking and Modeling Tactile Interaction States for Robotic Manipulation"
+ },
+ "2611.00430": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-30",
+  "title": "Real-VAS: a Real-World Video Amodal Segmentation Dataset"
+ },
+ "2611.00427": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-30",
+  "title": "Spoofing the Latent State: Imperceptible Goal-Image Attacks Derail Planning in LeWorldModel"
+ },
+ "2611.00406": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-30",
+  "title": "TAP-Out: Tracking Any Point in 360° via Outpainting"
+ },
+ "2611.00375": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-30",
+  "title": "MoRE-GS: Motion-Regime Experts for Future Gaussian Splatting"
+ },
+ "2611.00293": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-30",
+  "title": "Seeing the Unseen: Unified Visible--Invisible Motion for Physically Consistent Video Generation"
+ },
+ "2611.00193": {
+  "status": "screened-out",
+  "first_seen": "2026-11-03",
+  "submitted": "2026-10-30",
+  "title": "Anchor 1: Precise and Stable Humanoid Control for Whole-Body Manipulation"
  }
 }
