@@ -1,0 +1,220 @@
+{
+  "as_of": "2026-11-04",
+  "cutoff": "2026-10-28",
+  "window_days": 7,
+  "summary": {
+    "input_items": 8,
+    "denied_source": 0,
+    "in_window": 8,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 8,
+    "duplicate_clusters": 0,
+    "section1_count": 4,
+    "section2_count": 4,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 7,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "全球最大模组网站Nexus Mods推行AI强制披露新规，但未全面禁止AI模组",
+        "url": "https://kotaku.com/nexus-mods-gen-ai-disclosure-rules-steam-itch-update-2000753301",
+        "date": "2026-11-04",
+        "section": 1,
+        "summary": "Nexus Mods新任负责人Victor \"Foledinho\" Folmann宣布新规：任何使用AI制作的模组须披露具体用法，AI标签将显示在更显眼位置，但平台未全面禁止AI模组。"
+      },
+      "members": [
+        {
+          "title": "全球最大模组网站Nexus Mods推行AI强制披露新规，但未全面禁止AI模组",
+          "url": "https://kotaku.com/nexus-mods-gen-ai-disclosure-rules-steam-itch-update-2000753301",
+          "date": "2026-11-04",
+          "section": 1,
+          "summary": "Nexus Mods新任负责人Victor \"Foledinho\" Folmann宣布新规：任何使用AI制作的模组须披露具体用法，AI标签将显示在更显眼位置，但平台未全面禁止AI模组。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《Arc Raiders》开发商发布说明视频，为保留部分AI配音公开辩护",
+        "url": "https://kotaku.com/arc-raiders-ai-voice-acting-embark-studios-video-shani-celeste-2000752744",
+        "date": "2026-11-03",
+        "section": 1,
+        "summary": "Embark Studios通过主持人Danny O'Dwyer制作的新视频，由首席创意官与音频总监出面解释游戏中AI配音的使用理由，但两名受访配音演员在片中坦言无法完全认同AI混合后的角色演出仍属于自己。"
+      },
+      "members": [
+        {
+          "title": "《Arc Raiders》开发商发布说明视频，为保留部分AI配音公开辩护",
+          "url": "https://kotaku.com/arc-raiders-ai-voice-acting-embark-studios-video-shani-celeste-2000752744",
+          "date": "2026-11-03",
+          "section": 1,
+          "summary": "Embark Studios通过主持人Danny O'Dwyer制作的新视频，由首席创意官与音频总监出面解释游戏中AI配音的使用理由，但两名受访配音演员在片中坦言无法完全认同AI混合后的角色演出仍属于自己。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "【更新】开发者称Steam审核积压拖慢新游发布，Valve承认审核最长需12个工作日",
+        "url": "https://kotaku.com/devs-are-being-forced-to-delay-their-games-on-steam-and-they-think-its-because-of-the-ai-slop-flood-2000752839",
+        "date": "2026-11-03",
+        "section": 1,
+        "summary": "多家独立工作室反映其游戏因Steam商店页面与版本审核严重超时被迫延期，意大利九人团队Studio Daimon的《Food Devils》甚至因此错过原定发售日；Valve在11月3日的Steamworks博客中承认审核积压，最长需12个工作日，但未提及是否与生成式AI内容激增有关。"
+      },
+      "members": [
+        {
+          "title": "【更新】开发者称Steam审核积压拖慢新游发布，Valve承认审核最长需12个工作日",
+          "url": "https://kotaku.com/devs-are-being-forced-to-delay-their-games-on-steam-and-they-think-its-because-of-the-ai-slop-flood-2000752839",
+          "date": "2026-11-03",
+          "section": 1,
+          "summary": "多家独立工作室反映其游戏因Steam商店页面与版本审核严重超时被迫延期，意大利九人团队Studio Daimon的《Food Devils》甚至因此错过原定发售日；Valve在11月3日的Steamworks博客中承认审核积压，最长需12个工作日，但未提及是否与生成式AI内容激增有关。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Outfit7法务副总裁谈AI使用风险：游戏IP版权保护\"不再是自动获得\"",
+        "url": "https://www.pocketgamer.biz/outfit7s-vp-of-legal-on-the-risks-ai-poses-to-game-ip-ownership/",
+        "date": "2026-11-03",
+        "section": 2,
+        "summary": "《Talking Tom》开发商Outfit7法务副总裁Tina Stockbauer Zagorac警告，游戏工作室若不规范管理AI工作流程，可能导致关键素材或代码因缺乏\"人类作者\"认定而难以主张版权甚至落入公共领域；她建议企业保留人工创作留痕记录、审查AI供应商训练条款，并对AI产出内容进行\"实质性人工改造\"以确保版权可被主张。"
+      },
+      "members": [
+        {
+          "title": "Outfit7法务副总裁谈AI使用风险：游戏IP版权保护\"不再是自动获得\"",
+          "url": "https://www.pocketgamer.biz/outfit7s-vp-of-legal-on-the-risks-ai-poses-to-game-ip-ownership/",
+          "date": "2026-11-03",
+          "section": 2,
+          "summary": "《Talking Tom》开发商Outfit7法务副总裁Tina Stockbauer Zagorac警告，游戏工作室若不规范管理AI工作流程，可能导致关键素材或代码因缺乏\"人类作者\"认定而难以主张版权甚至落入公共领域；她建议企业保留人工创作留痕记录、审查AI供应商训练条款，并对AI产出内容进行\"实质性人工改造\"以确保版权可被主张。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "腾讯混元Hy4正式版发布，首次具备视觉与电脑操作能力，前端与游戏开发列为重点场景",
+        "url": "https://www.ithome.com/1/022/035.htm",
+        "date": "2026-11-04",
+        "summary": "腾讯混元11月4日正式发布Hy4模型（此前8月28日发布的为preview预览版），相比预览版扩大了预训练与后训练规模，首次加入视觉理解与电脑操作能力，并在Blender、CAD等专业软件及跨应用长任务上做了专项训练；官方将前端与游戏开发列为主要应用场景之一，称可依据一句话需求生成可玩原型。模型已同步上线腾讯云、OpenRouter及CodeBuddy、元宝、ima等产品，API定价与预览版保持一致，开源权重及更轻量的Hy4 flash版本计划近期发布。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "腾讯混元Hy4正式版发布，首次具备视觉与电脑操作能力，前端与游戏开发列为重点场景",
+          "url": "https://www.ithome.com/1/022/035.htm",
+          "date": "2026-11-04",
+          "summary": "腾讯混元11月4日正式发布Hy4模型（此前8月28日发布的为preview预览版），相比预览版扩大了预训练与后训练规模，首次加入视觉理解与电脑操作能力，并在Blender、CAD等专业软件及跨应用长任务上做了专项训练；官方将前端与游戏开发列为主要应用场景之一，称可依据一句话需求生成可玩原型。模型已同步上线腾讯云、OpenRouter及CodeBuddy、元宝、ima等产品，API定价与预览版保持一致，开源权重及更轻量的Hy4 flash版本计划近期发布。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "网易《燕云十六声》官方确认11月24日接入NVIDIA DLSS 5，成国内首款支持该技术的游戏",
+        "url": "https://www.ithome.com/1/021/935.htm",
+        "date": "2026-11-04",
+        "summary": "网易武侠游戏《燕云十六声》11月4日官方宣布将于11月24日（北美11月23日）正式接入NVIDIA DLSS 5技术，是全球首批、国内首款支持该技术的游戏。DLSS 5采用3D引导神经渲染，在保留引擎原生几何、纹理与光照缓冲的基础上，由AI模型实时重建光影与材质细节，目标是在不牺牲清晰度的前提下提升画质；该技术目前仅支持RTX 50系列显卡，开发团队表示已与NVIDIA多轮调优画质与帧率平衡。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "网易《燕云十六声》官方确认11月24日接入NVIDIA DLSS 5，成国内首款支持该技术的游戏",
+          "url": "https://www.ithome.com/1/021/935.htm",
+          "date": "2026-11-04",
+          "summary": "网易武侠游戏《燕云十六声》11月4日官方宣布将于11月24日（北美11月23日）正式接入NVIDIA DLSS 5技术，是全球首批、国内首款支持该技术的游戏。DLSS 5采用3D引导神经渲染，在保留引擎原生几何、纹理与光照缓冲的基础上，由AI模型实时重建光影与材质细节，目标是在不牺牲清晰度的前提下提升画质；该技术目前仅支持RTX 50系列显卡，开发团队表示已与NVIDIA多轮调优画质与帧率平衡。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "【更新】Anthropic再调整Claude Code游戏开发限制，允许引用现有游戏玩法但仍拒绝直接克隆",
+        "url": "https://www.ithome.com/1/022/279.htm",
+        "date": "2026-11-04",
+        "summary": "此前一周Anthropic在Claude Opus 5.5系统提示中加入规则，阻止用户用Claude Code复刻现有游戏，但开发者抱怨连提及某款游戏作为玩法参考也会被直接拒绝生成。11月4日IT之家援引Anthropic工程师披露，Claude Code 2.1.317版本放宽规则：用户可引用现有游戏描述玩法与机制而不再因此被直接拒绝，但若明确要求复制原版游戏，Claude仍会拒绝直接克隆，转而建议开发同类型的原创新游戏。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "【更新】Anthropic再调整Claude Code游戏开发限制，允许引用现有游戏玩法但仍拒绝直接克隆",
+          "url": "https://www.ithome.com/1/022/279.htm",
+          "date": "2026-11-04",
+          "summary": "此前一周Anthropic在Claude Opus 5.5系统提示中加入规则，阻止用户用Claude Code复刻现有游戏，但开发者抱怨连提及某款游戏作为玩法参考也会被直接拒绝生成。11月4日IT之家援引Anthropic工程师披露，Claude Code 2.1.317版本放宽规则：用户可引用现有游戏描述玩法与机制而不再因此被直接拒绝，但若明确要求复制原版游戏，Claude仍会拒绝直接克隆，转而建议开发同类型的原创新游戏。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Epic宣布Unreal Engine 6将从一开始弃用蓝图，全面转向Verse脚本，理由是AI更擅长处理文本代码",
+        "url": "https://www.4gamer.net/games/210/G021013/20261104013/",
+        "date": "2026-11-04",
+        "summary": "",
+        "section": 1,
+        "facts": [
+          "Epic Games CEO蒂姆·斯威尼11月3日在东京Unreal Fest Tokyo 2026主题演讲中宣布：UE6将于2027年末正式发布时即从开发环境中移除蓝图（Blueprint）可视化脚本，游戏逻辑统一改用Epic自有文本脚本语言Verse编写，引擎底层本身仍用C++开发",
+          "斯威尼称AI处理文本代码的生产力远高于处理蓝图图形化脚本，并表示Epic内部已观察到AI辅助开发带来1.5至4倍生产力提升，预计2026年底前达到至少4倍，2027年中期在多数场景下有望达到约10倍",
+          "斯威尼承认该决定不会受到欢迎——包括Epic内部不少设计师及与会开发者仍依赖蓝图——并为移除蓝图公开致歉，但表示开发者必须转向下一代文本脚本才能在UE6上取得成功",
+          "Epic将提供AI辅助迁移工具，帮助项目从UE5迁移到UE6；目前已在《堡垒之夜》内测试，将数千个蓝图及剩余C++玩法代码迁移为Verse"
+        ],
+        "background": [
+          "今年6月在芝加哥Unreal Fest 2026上，Epic的表态与此相反：蓝图将在UE6首个发布版本中保留，待以Verse为核心的新体系成熟后才逐步弃用",
+          "此次东京演讲中，斯威尼直接推翻此前说法，理由是AI协同开发更适配文本代码而非图形化脚本"
+        ],
+        "results": [
+          "《堡垒之夜》已作为内部试点项目，开始大规模将蓝图及C++玩法代码迁移至Verse，具体迁移完成时间与UE6正式版同步目标为2027年末",
+          "截至发稿，Epic尚未在unrealengine.com官方博客发布对应的书面公告或主题演讲完整记录，相关细节来自4Gamer等媒体对现场演讲的报道"
+        ]
+      },
+      "members": [
+        {
+          "title": "Epic宣布Unreal Engine 6将从一开始弃用蓝图，全面转向Verse脚本，理由是AI更擅长处理文本代码",
+          "url": "https://www.4gamer.net/games/210/G021013/20261104013/",
+          "date": "2026-11-04",
+          "summary": "",
+          "section": 1,
+          "facts": [
+            "Epic Games CEO蒂姆·斯威尼11月3日在东京Unreal Fest Tokyo 2026主题演讲中宣布：UE6将于2027年末正式发布时即从开发环境中移除蓝图（Blueprint）可视化脚本，游戏逻辑统一改用Epic自有文本脚本语言Verse编写，引擎底层本身仍用C++开发",
+            "斯威尼称AI处理文本代码的生产力远高于处理蓝图图形化脚本，并表示Epic内部已观察到AI辅助开发带来1.5至4倍生产力提升，预计2026年底前达到至少4倍，2027年中期在多数场景下有望达到约10倍",
+            "斯威尼承认该决定不会受到欢迎——包括Epic内部不少设计师及与会开发者仍依赖蓝图——并为移除蓝图公开致歉，但表示开发者必须转向下一代文本脚本才能在UE6上取得成功",
+            "Epic将提供AI辅助迁移工具，帮助项目从UE5迁移到UE6；目前已在《堡垒之夜》内测试，将数千个蓝图及剩余C++玩法代码迁移为Verse"
+          ],
+          "background": [
+            "今年6月在芝加哥Unreal Fest 2026上，Epic的表态与此相反：蓝图将在UE6首个发布版本中保留，待以Verse为核心的新体系成熟后才逐步弃用",
+            "此次东京演讲中，斯威尼直接推翻此前说法，理由是AI协同开发更适配文本代码而非图形化脚本"
+          ],
+          "results": [
+            "《堡垒之夜》已作为内部试点项目，开始大规模将蓝图及C++玩法代码迁移至Verse，具体迁移完成时间与UE6正式版同步目标为2027年末",
+            "截至发稿，Epic尚未在unrealengine.com官方博客发布对应的书面公告或主题演讲完整记录，相关细节来自4Gamer等媒体对现场演讲的报道"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

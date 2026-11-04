@@ -1,0 +1,232 @@
+{
+  "as_of": "2026-11-04",
+  "cutoff": "2026-11-03",
+  "window_days": 1,
+  "summary": {
+    "input_items": 10,
+    "denied_source": 0,
+    "in_window": 10,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 10,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 10,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 10,
+    "previously_covered_count": 0
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "据报道育碧等多家公司竞购Xbox旗下《掠食》工作室Arkane Lyon",
+        "url": "https://kotaku.com/ubisoft-among-those-bidding-on-marvels-blade-studio-arkane-2000752854",
+        "date": "2026-11-03",
+        "summary": "据彭博社Jason Schreier援引多名知情人士报道，育碧已向微软提出收购《死亡循环》《掠食》开发商Arkane Lyon的报价，其他公司也参与竞购，Xbox还在考虑将工作室出售给管理层使其独立；此事尚未获微软、育碧或Arkane官方证实。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据报道育碧等多家公司竞购Xbox旗下《掠食》工作室Arkane Lyon",
+          "url": "https://kotaku.com/ubisoft-among-those-bidding-on-marvels-blade-studio-arkane-2000752854",
+          "date": "2026-11-03",
+          "summary": "据彭博社Jason Schreier援引多名知情人士报道，育碧已向微软提出收购《死亡循环》《掠食》开发商Arkane Lyon的报价，其他公司也参与竞购，Xbox还在考虑将工作室出售给管理层使其独立；此事尚未获微软、育碧或Arkane官方证实。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "网易全资投资的名越工作室正式宣布解散",
+        "url": "https://www.youxituoluo.com/535020.html",
+        "date": "2026-11-03",
+        "summary": "由《如龙》制作人名越稔洋创立、网易全资出资的游戏工作室因股东会投票清算而解散，此前网易因新作预算缺口扩大已于今年5月停止注资，公司首作《GANG OF DRAGON》前途未定。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "网易全资投资的名越工作室正式宣布解散",
+          "url": "https://www.youxituoluo.com/535020.html",
+          "date": "2026-11-03",
+          "summary": "由《如龙》制作人名越稔洋创立、网易全资出资的游戏工作室因股东会投票清算而解散，此前网易因新作预算缺口扩大已于今年5月停止注资，公司首作《GANG OF DRAGON》前途未定。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《胜利女神：NIKKE》PC启动器遭篡改植入恶意软件，Shift Up CEO公开致歉",
+        "url": "https://www.invenglobal.com/articles/28143/shift-up-ceo-kim-hyung-tae-apologizes-for-nikke-pc-launcher-issue-mobilizing-all-resources-to-find-solution",
+        "date": "2026-11-04",
+        "summary": "安全研究人员11月3日披露，发行商Level Infinite的CDN上《NIKKE》PC启动器脚本文件自9月末遭植入远控恶意代码，可窃取密码、加密钱包等信息；官方已于11月4日确认并推送修复，开发商Shift Up CEO金亨泰在X上公开致歉并称正调动全部资源解决问题。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《胜利女神：NIKKE》PC启动器遭篡改植入恶意软件，Shift Up CEO公开致歉",
+          "url": "https://www.invenglobal.com/articles/28143/shift-up-ceo-kim-hyung-tae-apologizes-for-nikke-pc-launcher-issue-mobilizing-all-resources-to-find-solution",
+          "date": "2026-11-04",
+          "summary": "安全研究人员11月3日披露，发行商Level Infinite的CDN上《NIKKE》PC启动器脚本文件自9月末遭植入远控恶意代码，可窃取密码、加密钱包等信息；官方已于11月4日确认并推送修复，开发商Shift Up CEO金亨泰在X上公开致歉并称正调动全部资源解决问题。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "移动游戏商PlayStudios裁员177人并关闭《俄罗斯方块》休闲手游Tetris Block Party",
+        "url": "https://www.pocketgamer.biz/playstudios-shuts-down-tetris-block-party-after-177-job-cuts/",
+        "date": "2026-11-04",
+        "summary": "PlayStudios因《Tetris Block Party》日活与变现持续下滑，决定关闭该游戏及四个工作室并裁员177人，预计产生最高350万美元减值，相关影响将体现在11月9日发布的第三季度财报中。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "移动游戏商PlayStudios裁员177人并关闭《俄罗斯方块》休闲手游Tetris Block Party",
+          "url": "https://www.pocketgamer.biz/playstudios-shuts-down-tetris-block-party-after-177-job-cuts/",
+          "date": "2026-11-04",
+          "summary": "PlayStudios因《Tetris Block Party》日活与变现持续下滑，决定关闭该游戏及四个工作室并裁员177人，预计产生最高350万美元减值，相关影响将体现在11月9日发布的第三季度财报中。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "英国广告监管机构ASA裁定King、Scopely等多款手游广告误导消费者并予以禁播",
+        "url": "https://www.pocketgamer.biz/uk-regulator-bans-mobile-game-ads-from-king-scopely-and-others/",
+        "date": "2026-11-04",
+        "summary": "英国广告标准局（ASA）裁定King《糖果传奇：农场英雄》、Scopely旗下Loom Games《Pixel Flow》、Omnilojo《Dark War Survival》及Vistrex《Idle Zombie Miner》等广告展示了游戏中不存在的玩法或过度包装的画面，构成误导，已予以禁止播出。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "英国广告监管机构ASA裁定King、Scopely等多款手游广告误导消费者并予以禁播",
+          "url": "https://www.pocketgamer.biz/uk-regulator-bans-mobile-game-ads-from-king-scopely-and-others/",
+          "date": "2026-11-04",
+          "summary": "英国广告标准局（ASA）裁定King《糖果传奇：农场英雄》、Scopely旗下Loom Games《Pixel Flow》、Omnilojo《Dark War Survival》及Vistrex《Idle Zombie Miner》等广告展示了游戏中不存在的玩法或过度包装的画面，构成误导，已予以禁止播出。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "任天堂、Xbox、育碧、EA等采用行业统一的游戏无障碍标签体系",
+        "url": "https://www.videogameschronicle.com/news/accessible-games-initiative-tags-adopted-by-nintendo-xbox-ubisoft-and-ea-making-it-easier-to-find-accessibility-features/",
+        "date": "2026-11-04",
+        "summary": "由美国娱乐软件协会（ESA）牵头的Accessible Games Initiative推出25个标准化无障碍功能标签，任天堂、Xbox、育碧、EA（以及Riot、谷歌）已将其接入各自平台或游戏页面，方便玩家按听觉、玩法、输入、视觉等维度筛选无障碍功能。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "任天堂、Xbox、育碧、EA等采用行业统一的游戏无障碍标签体系",
+          "url": "https://www.videogameschronicle.com/news/accessible-games-initiative-tags-adopted-by-nintendo-xbox-ubisoft-and-ea-making-it-easier-to-find-accessibility-features/",
+          "date": "2026-11-04",
+          "summary": "由美国娱乐软件协会（ESA）牵头的Accessible Games Initiative推出25个标准化无障碍功能标签，任天堂、Xbox、育碧、EA（以及Riot、谷歌）已将其接入各自平台或游戏页面，方便玩家按听觉、玩法、输入、视觉等维度筛选无障碍功能。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《无主之地》系列全球销量突破1亿份",
+        "url": "https://www.4gamer.net/games/830/G083016/20261104015/",
+        "date": "2026-11-04",
+        "summary": "Gearbox与2K宣布《无主之地》系列自2009年首作发售以来全球销量突破1亿份，《无主之地4》将持续推出新内容至2027年，系列年度公益活动The Hunt也将于11月6日启动。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《无主之地》系列全球销量突破1亿份",
+          "url": "https://www.4gamer.net/games/830/G083016/20261104015/",
+          "date": "2026-11-04",
+          "summary": "Gearbox与2K宣布《无主之地》系列自2009年首作发售以来全球销量突破1亿份，《无主之地4》将持续推出新内容至2027年，系列年度公益活动The Hunt也将于11月6日启动。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Remedy称《控制：共鸣》是公司历史上销售最快的游戏",
+        "url": "https://www.videogameschronicle.com/news/control-resonant-is-the-fastest-selling-game-in-remedys-history-says-ceo/",
+        "date": "2026-11-04",
+        "summary": "Remedy Entertainment CEO对外表示，新作《控制：共鸣》（Control Resonant）是公司历史上销售速度最快的游戏，但未公布具体销量数字。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Remedy称《控制：共鸣》是公司历史上销售最快的游戏",
+          "url": "https://www.videogameschronicle.com/news/control-resonant-is-the-fastest-selling-game-in-remedys-history-says-ceo/",
+          "date": "2026-11-04",
+          "summary": "Remedy Entertainment CEO对外表示，新作《控制：共鸣》（Control Resonant）是公司历史上销售速度最快的游戏，但未公布具体销量数字。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《上古卷轴6》公布副标题「Sentinel」",
+        "url": "https://www.gematsu.com/2026/11/the-elder-scrolls-vi-sentinel-subtitle-announced",
+        "date": "2026-11-03",
+        "summary": "Bethesda在工作室成立40周年纪念视频中公布新作正式副标题《上古卷轴6：Sentinel》，并发布名称揭晓预告及标志图集，但未透露发售窗口或平台信息，工作室表示开发仍在进行中。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《上古卷轴6》公布副标题「Sentinel」",
+          "url": "https://www.gematsu.com/2026/11/the-elder-scrolls-vi-sentinel-subtitle-announced",
+          "date": "2026-11-03",
+          "summary": "Bethesda在工作室成立40周年纪念视频中公布新作正式副标题《上古卷轴6：Sentinel》，并发布名称揭晓预告及标志图集，但未透露发售窗口或平台信息，工作室表示开发仍在进行中。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "澳大利亚消费者组织CHOICE将索尼列入年度「Shonky」问题产品榜",
+        "url": "https://www.invenglobal.com/articles/28131/australias-choice-names-sony-in-shonky-awards",
+        "date": "2026-11-04",
+        "summary": "澳大利亚消费者权益组织CHOICE在2026年「Shonky Awards」中点名索尼互动娱乐，批评PlayStation Store结算流程使用「购买」「下单支付」等措辞误导消费者，实际上玩家获得的只是有限且不可转让的使用许可，相关限制条款需额外点击查看才能发现。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "澳大利亚消费者组织CHOICE将索尼列入年度「Shonky」问题产品榜",
+          "url": "https://www.invenglobal.com/articles/28131/australias-choice-names-sony-in-shonky-awards",
+          "date": "2026-11-04",
+          "summary": "澳大利亚消费者权益组织CHOICE在2026年「Shonky Awards」中点名索尼互动娱乐，批评PlayStation Store结算流程使用「购买」「下单支付」等措辞误导消费者，实际上玩家获得的只是有限且不可转让的使用许可，相关限制条款需额外点击查看才能发现。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
