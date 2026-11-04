@@ -1,0 +1,4 @@
+- **《无主之地》系列全球销量突破 1 亿份**（2026-11-04）— Gearbox 与 2K 宣布《无主之地》系列自 2009 年首作发售以来全球销量突破 1 亿份，《无主之地 4》将持续推出新内容至 2027 年，系列年度公益活动 The Hunt 也将于 11 月 6 日启动。 <https://www.4gamer.net/games/830/G083016/20261104015/>
+- **Remedy 称《控制：共鸣》是公司历史上销售最快的游戏**（2026-11-04）— Remedy Entertainment CEO 对外表示，新作《控制：共鸣》（Control Resonant）是公司历史上销售速度最快的游戏，但未公布具体销量数字。 <https://www.videogameschronicle.com/news/control-resonant-is-the-fastest-selling-game-in-remedys-history-says-ceo/>
+- **《上古卷轴 6》公布副标题「Sentinel」**（2026-11-03）— Bethesda 在工作室成立 40 周年纪念视频中公布新作正式副标题《上古卷轴 6：Sentinel》，并发布名称揭晓预告及标志图集，但未透露发售窗口或平台信息，工作室表示开发仍在进行中。 <https://www.gematsu.com/2026/11/the-elder-scrolls-vi-sentinel-subtitle-announced>
+- **澳大利亚消费者组织 CHOICE 将索尼列入年度「Shonky」问题产品榜**（2026-11-04）— 澳大利亚消费者权益组织 CHOICE 在 2026 年「Shonky Awards」中点名索尼互动娱乐，批评 PlayStation Store 结算流程使用“购买”“下单支付”等措辞误导消费者，实际上玩家获得的只是有限且不可转让的使用许可，相关限制条款需额外点击查看才能发现。 <https://www.invenglobal.com/articles/28131/australias-choice-names-sony-in-shonky-awards>
