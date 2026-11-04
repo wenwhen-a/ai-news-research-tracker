@@ -21187,7 +21187,7 @@
   "status": "screened-out",
   "first_seen": "2026-10-28",
   "submitted": "2026-10-27",
-  "title": "Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well"
+  "title": "Dexterous In-Hand Object Pose Reaching with Learned Safety Filters"
  },
  "2610.37588": {
   "status": "screened-out",
@@ -22457,5 +22457,218 @@
   "first_seen": "2026-11-03",
   "submitted": "2026-10-30",
   "title": "Anchor 1: Precise and Stable Humanoid Control for Whole-Body Manipulation"
+ },
+ "2611.05361": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments"
+ },
+ "2611.05320": {
+  "status": "near-miss",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data"
+ },
+ "2611.05280": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "YANAMI: A Large-Scale Multimodal Dataset and Benchmark for Multiturn Stateful Interaction"
+ },
+ "2611.05279": {
+  "status": "qualified",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "Möbius: A Unified Motion-Language Model Bridging Understanding and Generation",
+  "affiliation": "Tencent Games Motus — Jinyi Wang (project lead), Ronghui Li, Yu Lu, Xinwei Jiang, Zijiao Zeng (corresponding author), and co-affiliation for Jiazhi Shu and Yubo Zhao (other co-authors are HKUST and MIT)",
+  "url": "https://arxiv.org/abs/2611.05279",
+  "summary": "Möbius is a unified motion-language model that understands, generates, and edits human motion within a single framework, rather than pairing a separate language model (for understanding) with a separate diffusion module (for generation)."
+ },
+ "2611.05275": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems"
+ },
+ "2611.05113": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "HLO-AMP: Hierarchical Loco-Manipulation from Object-Aware Motion Priors"
+ },
+ "2611.05072": {
+  "status": "near-miss",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "Trajectory Evaluation via Rollout-Free World Model for End-to-end Autonomous Driving"
+ },
+ "2611.05062": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "FloMo: 3D Scene Flow as a World Action Model Intermediate for Learning from Human Video"
+ },
+ "2611.04916": {
+  "status": "near-miss",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling"
+ },
+ "2611.04879": {
+  "status": "near-miss",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "ScamWorld: An Interactive Environment for Evaluating Web Agents Against Online Fraud"
+ },
+ "2611.04873": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "Trusting Imagined Futures: Auditing Imagined Rewards for VLA Post-Training"
+ },
+ "2611.04870": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "PrimeSim: A Generalist World Model Simulator from Large-Scale Cross-Embodiment Demonstrations"
+ },
+ "2611.04764": {
+  "status": "near-miss",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "Pixel-space video generation with U-JiT"
+ },
+ "2611.04755": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "iMED: A Multi-Endoscope Dataset for Surgical 3D Perception"
+ },
+ "2611.04666": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "Phase-DGS: Phase-guided Dynamic Gaussian Splatting from Unsynchronized Multi-view Video"
+ },
+ "2611.04566": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "A research world model of power engineering learns its dynamics and reveals what-ifs"
+ },
+ "2611.04498": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "3DGS-VBench+ and 3DGSV-Assessor: A Multi-Dimensional Subjective Benchmark and a Reference-Flexible Objective Model for 3D Gaussian Splatting Video Quality Assessment"
+ },
+ "2611.04493": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "Physical Diffusion Policy via MPM-Guided 3D Gaussian Simulation"
+ },
+ "2611.04492": {
+  "status": "near-miss",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "Hybrid Particle-Voxel Dynamics for Multimodal 3D World Simulation"
+ },
+ "2611.04392": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "Aero-VPA: Few-Step Flow-Matching Control over Non-Reconstructive JEPA Latents for Agile Flight on Edge Hardware"
+ },
+ "2611.04371": {
+  "status": "near-miss",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "Embodied AI for Scientific Discovery: From Physical Action to Scientific Evidence"
+ },
+ "2611.04358": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "EndoS3:Endoscopic Semantic Splatting SLAM"
+ },
+ "2611.04221": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "Mamba3R: Fixed-Capacity Selective State Memory for Long-Sequence 3D Reconstruction"
+ },
+ "2611.04195": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "SettleSplat: Monocular Gaussian Mapping under In-View Scene Changes"
+ },
+ "2611.04164": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-03",
+  "title": "What Remains in Sight? Autoregressive Video Decoding as Representation-Guided Context Rewriting"
+ },
+ "2611.04073": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-02",
+  "title": "Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials"
+ },
+ "2611.04028": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-02",
+  "title": "Compression Forcing: Hierarchical History Tokenization Enables Flexible World Models"
+ },
+ "2611.04016": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-02",
+  "title": "Physical Experience Builds Continual Spatial World Models"
+ },
+ "2611.04010": {
+  "status": "near-miss",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-02",
+  "title": "Decision Transformer with Task-Aware Representations for Offline Meta-Reinforcement Learning"
+ },
+ "2611.04006": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-02",
+  "title": "Controlling Action-Head Co-Adaptation to VLM Representation Anisotropy"
+ },
+ "2611.03937": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-02",
+  "title": "FlowBench: Counterfactual Imagination Training for Spatial Intelligence"
+ },
+ "2611.03786": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-11-02",
+  "title": "3D dark matter map of the JWST COSMOS-Web field using diffusion-based generative priors"
+ },
+ "2611.03717": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-10-31",
+  "title": "Physics-Informed Functional Tucker Method with RKHS Factors for Sparse Spatiotemporal Reconstruction"
+ },
+ "2611.03690": {
+  "status": "screened-out",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-10-27",
+  "title": "From Forecasting to Feedback: Evaluating Learned Dynamics for Tokamak Control"
+ },
+ "2611.03674": {
+  "status": "near-miss",
+  "first_seen": "2026-11-04",
+  "submitted": "2026-10-19",
+  "title": "ReVi: Recursive Recap Video Generation"
  }
 }

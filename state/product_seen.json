@@ -694,5 +694,13 @@
   "first_seen": "2026-11-02",
   "release_date": "2026-10-28",
   "summary": "NVIDIA states Phantom Blade Zero launched October 28, 2026 on GeForce RTX and RTX Spark with the full DLSS 4.5 feature set, including DLSS 4.5 Ray Reconstruction and Dynamic Multi Frame Generation (up to 6X)."
+ },
+ "https://devforum.roblox.com/t/introducing-scene-generation-prototype-scenes-faster/4966611": {
+  "name": "Roblox Studio — Scene Generation (image/prompt to editable 3D scene)",
+  "company": "Roblox",
+  "tier": "Public beta/preview",
+  "first_seen": "2026-11-04",
+  "release_date": "2026-10-30",
+  "summary": "Roblox shipped a Studio beta feature, Scene Generation, that creates an editable scene of models, textures, and terrain from a source image, a text prompt, or both, reachable via the Assistant /generate_scene command or a right-click Generate > Scene menu option."
  }
 }
