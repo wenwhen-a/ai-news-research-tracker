@@ -1,0 +1,292 @@
+{
+  "as_of": "2026-11-05",
+  "cutoff": "2026-11-04",
+  "window_days": 1,
+  "summary": {
+    "input_items": 13,
+    "denied_source": 0,
+    "in_window": 13,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 13,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 13,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 11,
+    "previously_covered_count": 2
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "土耳其游戏风投机构e2vc设立1.5亿美元成长基金",
+        "url": "https://www.pocketgamer.biz/e2vc-launches-150m-fund-to-back-turkish-games-and-tech-companies/",
+        "date": "2026-11-05",
+        "summary": "土耳其风投e2vc宣布设立由Azimut Portföy管理、规模1.5亿美元的成长期基金，专注投资处于B至D轮阶段、寻求国际化扩张的土耳其移动游戏与科技公司，单笔最高投资1000万美元；此举使e2vc管理资产规模升至6亿美元。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "土耳其游戏风投机构e2vc设立1.5亿美元成长基金",
+          "url": "https://www.pocketgamer.biz/e2vc-launches-150m-fund-to-back-turkish-games-and-tech-companies/",
+          "date": "2026-11-05",
+          "summary": "土耳其风投e2vc宣布设立由Azimut Portföy管理、规模1.5亿美元的成长期基金，专注投资处于B至D轮阶段、寻求国际化扩张的土耳其移动游戏与科技公司，单笔最高投资1000万美元；此举使e2vc管理资产规模升至6亿美元。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "AMC与Yodo1达成授权合作，助中国开发者改编《行尸走肉》等IP出海",
+        "url": "https://www.pocketgamer.biz/amc-partners-with-yodo1-to-bring-walking-dead-and-vampire-ip-to-chinese-game-developers/",
+        "date": "2026-11-05",
+        "summary": "AMC Global Media宣布与Yodo1 Licensing合作，帮助中国游戏开发者和发行商基于《行尸走肉》《夜访吸血鬼》等AMC影视IP开发面向全球市场的游戏，交易具体金额未披露。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "AMC与Yodo1达成授权合作，助中国开发者改编《行尸走肉》等IP出海",
+          "url": "https://www.pocketgamer.biz/amc-partners-with-yodo1-to-bring-walking-dead-and-vampire-ip-to-chinese-game-developers/",
+          "date": "2026-11-05",
+          "summary": "AMC Global Media宣布与Yodo1 Licensing合作，帮助中国游戏开发者和发行商基于《行尸走肉》《夜访吸血鬼》等AMC影视IP开发面向全球市场的游戏，交易具体金额未披露。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "美国法院限制Papaya Gaming向境外转移资产",
+        "url": "https://www.pocketgamer.biz/us-court-restricts-papaya-gaming-from-moving-assets-outside-the-country/",
+        "date": "2026-11-04",
+        "summary": "特拉华州美国破产法院于10月27日裁定限制移动游戏公司Papaya Gaming转移其美国银行账户资金，原因是该公司在Skillz虚假广告诉讼（需赔约7.3亿美元）期间曾向以色列转移逾7000万美元且未披露；Papaya债权人将于11月8日就新还款方案投票。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "美国法院限制Papaya Gaming向境外转移资产",
+          "url": "https://www.pocketgamer.biz/us-court-restricts-papaya-gaming-from-moving-assets-outside-the-country/",
+          "date": "2026-11-04",
+          "summary": "特拉华州美国破产法院于10月27日裁定限制移动游戏公司Papaya Gaming转移其美国银行账户资金，原因是该公司在Skillz虚假广告诉讼（需赔约7.3亿美元）期间曾向以色列转移逾7000万美元且未披露；Papaya债权人将于11月8日就新还款方案投票。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "BAFTA公布2026年度Breakthrough新秀名单，六位游戏从业者入选",
+        "url": "https://www.pocketgamer.biz/bafta-names-six-games-creatives-in-2026-breakthrough-cohort/",
+        "date": "2026-11-05",
+        "summary": "英国电影电视艺术学院（BAFTA）公布第13届Breakthrough新秀计划21人名单，其中包括多名游戏行业新人，入选者将获得为期一年的职业指导与BAFTA会员资格，该计划由Netflix连续第七年支持。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "BAFTA公布2026年度Breakthrough新秀名单，六位游戏从业者入选",
+          "url": "https://www.pocketgamer.biz/bafta-names-six-games-creatives-in-2026-breakthrough-cohort/",
+          "date": "2026-11-05",
+          "summary": "英国电影电视艺术学院（BAFTA）公布第13届Breakthrough新秀计划21人名单，其中包括多名游戏行业新人，入选者将获得为期一年的职业指导与BAFTA会员资格，该计划由Netflix连续第七年支持。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "任天堂财报：Switch 2上半财年销量同比下滑37%，公司称暂不考虑涨价",
+        "url": "https://www.videogameschronicle.com/news/nintendo-switch-2-sales-have-dropped-37-but-its-still-comfortably-beating-the-original-console/",
+        "date": "2026-11-05",
+        "summary": "任天堂最新财报显示，截至9月30日的上半财年Switch 2销量同比下滑37.4%至649万台，累计出货量达2635万台，仍领先初代Switch和PS5同期表现；公司同时表示，由于目前内存库存充足，暂不考虑再次上调Switch 2售价。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "任天堂财报：Switch 2上半财年销量同比下滑37%，公司称暂不考虑涨价",
+          "url": "https://www.videogameschronicle.com/news/nintendo-switch-2-sales-have-dropped-37-but-its-still-comfortably-beating-the-original-console/",
+          "date": "2026-11-05",
+          "summary": "任天堂最新财报显示，截至9月30日的上半财年Switch 2销量同比下滑37.4%至649万台，累计出货量达2635万台，仍领先初代Switch和PS5同期表现；公司同时表示，由于目前内存库存充足，暂不考虑再次上调Switch 2售价。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "索尼财报：PS5累计销量达9790万台，PS6研发\"按计划推进\"",
+        "url": "https://www.videogameschronicle.com/news/sony-says-playstation-6-development-is-progressing-as-scheduled-as-ps5-sales-hit-97-9m/",
+        "date": "2026-11-05",
+        "summary": "索尼最新财报显示，截至9月30日的三个月内售出260万台PS5，累计销量达9790万台；公司在财报电话会上表示PS6研发\"按计划推进\"，并计划在2027年4月开始的下一财年取得\"稳步进展\"，但尚未公布具体发售日期。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "索尼财报：PS5累计销量达9790万台，PS6研发\"按计划推进\"",
+          "url": "https://www.videogameschronicle.com/news/sony-says-playstation-6-development-is-progressing-as-scheduled-as-ps5-sales-hit-97-9m/",
+          "date": "2026-11-05",
+          "summary": "索尼最新财报显示，截至9月30日的三个月内售出260万台PS5，累计销量达9790万台；公司在财报电话会上表示PS6研发\"按计划推进\"，并计划在2027年4月开始的下一财年取得\"稳步进展\"，但尚未公布具体发售日期。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《战神：劳费》正式延期至2027年5月",
+        "url": "https://www.videogameschronicle.com/news/god-of-war-laufey-has-officially-been-delayed/",
+        "date": "2026-11-04",
+        "summary": "索尼圣塔莫尼卡工作室宣布《战神：劳费》（God of War Laufey）发售日期由原定2027年2月16日推迟至2027年5月20日，官方称团队需要更多时间进行收尾打磨以达到游戏\"最佳状态\"。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《战神：劳费》正式延期至2027年5月",
+          "url": "https://www.videogameschronicle.com/news/god-of-war-laufey-has-officially-been-delayed/",
+          "date": "2026-11-04",
+          "summary": "索尼圣塔莫尼卡工作室宣布《战神：劳费》（God of War Laufey）发售日期由原定2027年2月16日推迟至2027年5月20日，官方称团队需要更多时间进行收尾打磨以达到游戏\"最佳状态\"。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "DRM-free平台GOG将举办首次自办游戏展示会",
+        "url": "https://www.videogameschronicle.com/news/gog-announces-first-ever-games-showcase/",
+        "date": "2026-11-04",
+        "summary": "PC游戏商店GOG宣布将于11月5日（其18周年之际）举办平台史上首次游戏展示会，预告片暗示内容将聚焦经典老游戏的无DRM重制/复刻，玩家呼声最高的待上架作品为狮头工作室的《黑与白》。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "DRM-free平台GOG将举办首次自办游戏展示会",
+          "url": "https://www.videogameschronicle.com/news/gog-announces-first-ever-games-showcase/",
+          "date": "2026-11-04",
+          "summary": "PC游戏商店GOG宣布将于11月5日（其18周年之际）举办平台史上首次游戏展示会，预告片暗示内容将聚焦经典老游戏的无DRM重制/复刻，玩家呼声最高的待上架作品为狮头工作室的《黑与白》。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "法国工会指控Xbox\"蓄意破坏\"Arkane工作室《刀锋战士》开发",
+        "url": "https://www.videogameschronicle.com/news/arkane-union-says-xbox-is-sabotaging-blade-development/",
+        "date": "2026-11-04",
+        "summary": "据报道，法国游戏行业工会STJV发声明指控微软Xbox以长达19个月的禁止招聘政策人为拖延Arkane工作室《漫威：刀锋战士》的开发进度，并以此作为关闭工作室的理由；工会要求在潜在收购方选择上拥有话语权，并批评Xbox目前给出的遣散方案\"过低\"，截至发稿Xbox未回应。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "法国工会指控Xbox\"蓄意破坏\"Arkane工作室《刀锋战士》开发",
+          "url": "https://www.videogameschronicle.com/news/arkane-union-says-xbox-is-sabotaging-blade-development/",
+          "date": "2026-11-04",
+          "summary": "据报道，法国游戏行业工会STJV发声明指控微软Xbox以长达19个月的禁止招聘政策人为拖延Arkane工作室《漫威：刀锋战士》的开发进度，并以此作为关闭工作室的理由；工会要求在潜在收购方选择上拥有话语权，并批评Xbox目前给出的遣散方案\"过低\"，截至发稿Xbox未回应。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "加拿大玩家发起请愿，呼吁政府出资扶持BioWare工作室独立",
+        "url": "https://www.videogameschronicle.com/news/canadian-bioware-fans-are-calling-on-the-government-to-fund-the-studio/",
+        "date": "2026-11-04",
+        "summary": "一份提交至加拿大议会官网的请愿书呼吁政府出资帮助BioWare从EA手中赎回IP实现独立运营，并要求加强对加拿大本土游戏开发商免受外国资本影响的保护；此前EA已宣布关闭BioWare并取消下一部《质量效应》。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "加拿大玩家发起请愿，呼吁政府出资扶持BioWare工作室独立",
+          "url": "https://www.videogameschronicle.com/news/canadian-bioware-fans-are-calling-on-the-government-to-fund-the-studio/",
+          "date": "2026-11-04",
+          "summary": "一份提交至加拿大议会官网的请愿书呼吁政府出资帮助BioWare从EA手中赎回IP实现独立运营，并要求加强对加拿大本土游戏开发商免受外国资本影响的保护；此前EA已宣布关闭BioWare并取消下一部《质量效应》。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《塞尔达传说：时之笛》重制版登陆Switch 2",
+        "url": "https://www.gematsu.com/2026/06/the-legend-of-zelda-ocarina-of-time-remake-announced-for-switch-2",
+        "date": "2026-11-05",
+        "summary": "任天堂《塞尔达传说：时之笛》重制版于11月5日正式在Switch 2平台独占发售，重制版采用全新美术风格、全程语音配音，制作人青沼英二表示若采用\"符合预期\"的画风反而会削弱冲击力。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《塞尔达传说：时之笛》重制版登陆Switch 2",
+          "url": "https://www.gematsu.com/2026/06/the-legend-of-zelda-ocarina-of-time-remake-announced-for-switch-2",
+          "date": "2026-11-05",
+          "summary": "任天堂《塞尔达传说：时之笛》重制版于11月5日正式在Switch 2平台独占发售，重制版采用全新美术风格、全程语音配音，制作人青沼英二表示若采用\"符合预期\"的画风反而会削弱冲击力。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "游戏行业互助组织ASGC成立四周年，累计促成超5400次求职",
+        "url": "https://www.pocketgamer.biz/asgc-marks-four-years-with-more-than-5400-games-industry-job-placements/",
+        "date": "2026-11-04",
+        "summary": "由Amir Satvat创办的游戏行业互助社区ASGC（Always Supporting the Games Community）迎来成立四周年，累计帮助超5400人找到工作，月活用户超70万，并为150多家经历裁员的游戏公司提供过支持。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "游戏行业互助组织ASGC成立四周年，累计促成超5400次求职",
+          "url": "https://www.pocketgamer.biz/asgc-marks-four-years-with-more-than-5400-games-industry-job-placements/",
+          "date": "2026-11-04",
+          "summary": "由Amir Satvat创办的游戏行业互助社区ASGC（Always Supporting the Games Community）迎来成立四周年，累计帮助超5400人找到工作，月活用户超70万，并为150多家经历裁员的游戏公司提供过支持。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Epic调整Fortnite Crew订阅制度，取消月度专属皮肤包改为阶梯式V币返还",
+        "url": "https://www.videogameschronicle.com/news/fortnite-crew-subscribers-are-no-longer-getting-free-skins-or-the-og-pass-will-get-more-v-bucks-instead/",
+        "date": "2026-11-05",
+        "summary": "Epic Games宣布自12月5日起取消《堡垒之夜》Crew订阅的月度专属皮肤包与OG Pass，改为按订阅时长发放1000至1600不等的V币（原固定800），现有订阅时长将计入阶梯等级，战斗通行证等其他权益保持不变。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Epic调整Fortnite Crew订阅制度，取消月度专属皮肤包改为阶梯式V币返还",
+          "url": "https://www.videogameschronicle.com/news/fortnite-crew-subscribers-are-no-longer-getting-free-skins-or-the-og-pass-will-get-more-v-bucks-instead/",
+          "date": "2026-11-05",
+          "summary": "Epic Games宣布自12月5日起取消《堡垒之夜》Crew订阅的月度专属皮肤包与OG Pass，改为按订阅时长发放1000至1600不等的V币（原固定800），现有订阅时长将计入阶梯等级，战斗通行证等其他权益保持不变。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

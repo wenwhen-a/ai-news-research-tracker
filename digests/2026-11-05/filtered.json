@@ -1,0 +1,370 @@
+{
+  "as_of": "2026-11-05",
+  "cutoff": "2026-10-29",
+  "window_days": 7,
+  "summary": {
+    "input_items": 10,
+    "denied_source": 0,
+    "in_window": 10,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 10,
+    "duplicate_clusters": 0,
+    "section1_count": 5,
+    "section2_count": 5,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": true,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 6,
+    "previously_covered_count": 4
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Itch.io大规模删除“AI垃圾”游戏,并上线AI内容过滤器",
+        "url": "https://www.videogameschronicle.com/news/itch-mass-deletes-ai-slop-lets-users-filter-out-any-ai-assisted-games/",
+        "date": "2026-11-03",
+        "summary": "独立游戏平台itch.io在官方Bluesky账号宣布“刚刚删除了几TB的AI垂圾内容”,主要针对大批量上传、质量低劣的AI生成游戏,而非单纯使用了AI工具的作品。平台同时上线了新过滤器,允许玩家在搜索结果中隐藏已勾选“使用生成式AI”披露的游戏。",
+        "section": 1,
+        "facts": [
+          "itch.io在官方Bluesky账号发文称'刚刚删除了几TB的AI垂圾内容'(Just deleted a couple terabytes of AI slop)",
+          "此次清理主要针对成批量上传、未经优化的低质AI生成内容,而不是所有使用过AI工具的游戏",
+          "itch.io早前已要求使用生成式AI的开发者在页面披露使用方式,此次新增了'隐藏AI披露游戏'的搜索过滤选项",
+          "背景数据:据同期GameDeveloper报道,10月以来itch.io上的游戏页面数量'翻倍',AI生成游戏大量涌入平台(2026-11-02报道)",
+          "对比Steam:Steam同样要求AI内容披露,但没有提供过滤隐藏功能,此前Steam Next Fest期间已有开发者抱怨自家游戏被大量AI游戏'淹没'",
+          "部分社区成员呼吁itch.io应彻底禁止生成式AI资产,但文章指出'AI游戏'的定义本身存在争议,难以一刀切执行",
+          "背景事件:2025年12月,《Clair Obscur: Expedition 33》因被发现使用AI生成的占位贴图,被Indie Game Awards追回了'年度游戏'和'最佳首作'两项大奖(该贴图后续已通过补丁移除)",
+          "对比来看,Epic Games Store对生成式AI态度更宽松,Epic此前曾表示其重建的新版启动器是用AI'vibe coded'而成"
+        ]
+      },
+      "members": [
+        {
+          "title": "Itch.io大规模删除“AI垃圾”游戏,并上线AI内容过滤器",
+          "url": "https://www.videogameschronicle.com/news/itch-mass-deletes-ai-slop-lets-users-filter-out-any-ai-assisted-games/",
+          "date": "2026-11-03",
+          "summary": "独立游戏平台itch.io在官方Bluesky账号宣布“刚刚删除了几TB的AI垂圾内容”,主要针对大批量上传、质量低劣的AI生成游戏,而非单纯使用了AI工具的作品。平台同时上线了新过滤器,允许玩家在搜索结果中隐藏已勾选“使用生成式AI”披露的游戏。",
+          "section": 1,
+          "facts": [
+            "itch.io在官方Bluesky账号发文称'刚刚删除了几TB的AI垂圾内容'(Just deleted a couple terabytes of AI slop)",
+            "此次清理主要针对成批量上传、未经优化的低质AI生成内容,而不是所有使用过AI工具的游戏",
+            "itch.io早前已要求使用生成式AI的开发者在页面披露使用方式,此次新增了'隐藏AI披露游戏'的搜索过滤选项",
+            "背景数据:据同期GameDeveloper报道,10月以来itch.io上的游戏页面数量'翻倍',AI生成游戏大量涌入平台(2026-11-02报道)",
+            "对比Steam:Steam同样要求AI内容披露,但没有提供过滤隐藏功能,此前Steam Next Fest期间已有开发者抱怨自家游戏被大量AI游戏'淹没'",
+            "部分社区成员呼吁itch.io应彻底禁止生成式AI资产,但文章指出'AI游戏'的定义本身存在争议,难以一刀切执行",
+            "背景事件:2025年12月,《Clair Obscur: Expedition 33》因被发现使用AI生成的占位贴图,被Indie Game Awards追回了'年度游戏'和'最佳首作'两项大奖(该贴图后续已通过补丁移除)",
+            "对比来看,Epic Games Store对生成式AI态度更宽松,Epic此前曾表示其重建的新版启动器是用AI'vibe coded'而成"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Anthropic限制Claude Code复刻现有游戏,部分开发者反映被误伤",
+        "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+        "date": "2026-10-30",
+        "summary": "有开发者发现,Anthropic在Claude Opus 5.5版本的Claude Code系统提示中新增规则,阻止其复刻或重建某款具体的现有游戏(即使改名或声称原创也会被拒绝)。Anthropic员工Addy Osmani确认了这一改动,称是为了遏制AI辅助的游戏克隆和反编译潮。部分开发者抱怨该规则连带阻碍了合法的游戏开发、模组制作和反编译安全研究工作。",
+        "section": 1,
+        "facts": [
+          "改动大约于2026年10月27日被社区成员(X用户Chasm)首先发现,服务器端新增了名为'tengu_heron_brook'的标记位,用户无法自行关闭该限制",
+          "Anthropic技术团队成员Addy Osmani公开确认:'我们在Claude Code面向Opus 5.5的提示词中加了两句话,引导它避免复刻别人的特定游戏'",
+          "规则范围:原创游戏、同类型游戏,以及基于用户自有设计和素材的项目仍可正常使用;但对某一具体现有游戏的复刻,即便改名或宣称'原创'也会被拒绝",
+          "动机被认为与近期AI辅助的游戏克隆、反编译/移植潮有关,包括独立游戏《ReVamp》开发商Digital Sun因担心试玩版demo被AI工具'投喂'用于克隆而取消了公开试玩",
+          "此前10月27日,Valve在首尔Steam Indie Connect活动上表态不会因为开发者使用AI工具而限制其游戏上架Steam,并建议独立开发者用社区关系和持续更新来应对克隆威胁",
+          "争议:部分开发者反映该限制'误伤'严重,涉及反编译、模组制作、反作弊安全研究等合法任务的请求也被拒绝执行",
+          "Anthropic表示将持续迭代以'把平衡点找对',尚未就该改动发布正式公开声明",
+          "评论人士认为该限制效力有限,因为其他AI编程工具并无类似限制,用户仍可能找到绕过方法"
+        ]
+      },
+      "members": [
+        {
+          "title": "Anthropic限制Claude Code复刻现有游戏,部分开发者反映被误伤",
+          "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+          "date": "2026-10-30",
+          "summary": "有开发者发现,Anthropic在Claude Opus 5.5版本的Claude Code系统提示中新增规则,阻止其复刻或重建某款具体的现有游戏(即使改名或声称原创也会被拒绝)。Anthropic员工Addy Osmani确认了这一改动,称是为了遏制AI辅助的游戏克隆和反编译潮。部分开发者抱怨该规则连带阻碍了合法的游戏开发、模组制作和反编译安全研究工作。",
+          "section": 1,
+          "facts": [
+            "改动大约于2026年10月27日被社区成员(X用户Chasm)首先发现,服务器端新增了名为'tengu_heron_brook'的标记位,用户无法自行关闭该限制",
+            "Anthropic技术团队成员Addy Osmani公开确认:'我们在Claude Code面向Opus 5.5的提示词中加了两句话,引导它避免复刻别人的特定游戏'",
+            "规则范围:原创游戏、同类型游戏,以及基于用户自有设计和素材的项目仍可正常使用;但对某一具体现有游戏的复刻,即便改名或宣称'原创'也会被拒绝",
+            "动机被认为与近期AI辅助的游戏克隆、反编译/移植潮有关,包括独立游戏《ReVamp》开发商Digital Sun因担心试玩版demo被AI工具'投喂'用于克隆而取消了公开试玩",
+            "此前10月27日,Valve在首尔Steam Indie Connect活动上表态不会因为开发者使用AI工具而限制其游戏上架Steam,并建议独立开发者用社区关系和持续更新来应对克隆威胁",
+            "争议:部分开发者反映该限制'误伤'严重,涉及反编译、模组制作、反作弊安全研究等合法任务的请求也被拒绝执行",
+            "Anthropic表示将持续迭代以'把平衡点找对',尚未就该改动发布正式公开声明",
+            "评论人士认为该限制效力有限,因为其他AI编程工具并无类似限制,用户仍可能找到绕过方法"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Roblox:超80%热门游戏已用AI开发,Claude Opus成开发者首选模型",
+        "url": "https://www.pocketgamer.biz/more-than-80-of-robloxs-top-games-now-use-ai-while-playgama-tracks-the-tools-developers-prefer/",
+        "date": "2026-10-30",
+        "summary": "Roblox最新财报显示,2026年10月其按时长统计的前100款热门游戏中,超过80%的开发过程使用了AI工具提速。同期第三方数据平台Playgama发布的'AI游戏指数'显示,Anthropic的Claude Opus是开发者制作AI游戏时最常用的模型,占新发布AI游戏的54%。",
+        "section": 1,
+        "facts": [
+          "Roblox披露:2026年10月,其按游玩时长排名的前100款游戏中,超过80%在开发过程中使用了AI工具来提速",
+          "据Roblox最新财报,头部创作者在其AI工具上花费的时间较2026年第二季度增长了两倍,其Model Context Protocol(MCP)服务器的日均调用量增长近五倍",
+          "Roblox的自然语言建游戏工具'Build'已有超过50万用户,累计发布游戏超过7万款",
+          "10月期间,开发者上传到Roblox云端的素材量环比增长两倍",
+          "Roblox CEO David Baszucki称,AI'正在推动内容创作速度发生阶跃式变化(step function change)'",
+          "Playgama的'AI游戏指数'(AI Game Index)覆盖超过4200款AI制作的游戏、110万次游戏启动和超50万名玩家",
+          "数据显示Claude Opus是开发者制作AI游戏时最常用的模型,占新发布AI游戏的54%;OpenAI的Sol模型排名第二,占11%",
+          "从玩家反馈看,用OpenAI Astra模型制作的游戏平均单次游玩时长最长(4分58秒),每千次游玩获得65个点赞,高于Claude Opus的39个和Sol的58个",
+          "Playgama表示将每日更新该指数,持续跟踪开发者模型选择与玩家反馈数据的变化"
+        ]
+      },
+      "members": [
+        {
+          "title": "Roblox:超80%热门游戏已用AI开发,Claude Opus成开发者首选模型",
+          "url": "https://www.pocketgamer.biz/more-than-80-of-robloxs-top-games-now-use-ai-while-playgama-tracks-the-tools-developers-prefer/",
+          "date": "2026-10-30",
+          "summary": "Roblox最新财报显示,2026年10月其按时长统计的前100款热门游戏中,超过80%的开发过程使用了AI工具提速。同期第三方数据平台Playgama发布的'AI游戏指数'显示,Anthropic的Claude Opus是开发者制作AI游戏时最常用的模型,占新发布AI游戏的54%。",
+          "section": 1,
+          "facts": [
+            "Roblox披露:2026年10月,其按游玩时长排名的前100款游戏中,超过80%在开发过程中使用了AI工具来提速",
+            "据Roblox最新财报,头部创作者在其AI工具上花费的时间较2026年第二季度增长了两倍,其Model Context Protocol(MCP)服务器的日均调用量增长近五倍",
+            "Roblox的自然语言建游戏工具'Build'已有超过50万用户,累计发布游戏超过7万款",
+            "10月期间,开发者上传到Roblox云端的素材量环比增长两倍",
+            "Roblox CEO David Baszucki称,AI'正在推动内容创作速度发生阶跃式变化(step function change)'",
+            "Playgama的'AI游戏指数'(AI Game Index)覆盖超过4200款AI制作的游戏、110万次游戏启动和超50万名玩家",
+            "数据显示Claude Opus是开发者制作AI游戏时最常用的模型,占新发布AI游戏的54%;OpenAI的Sol模型排名第二,占11%",
+            "从玩家反馈看,用OpenAI Astra模型制作的游戏平均单次游玩时长最长(4分58秒),每千次游玩获得65个点赞,高于Claude Opus的39个和Sol的58个",
+            "Playgama表示将每日更新该指数,持续跟踪开发者模型选择与玩家反馈数据的变化"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "OpenAI CEO阿尔特曼谈PC玩家'占用内存'言论引发游戏玩家不满",
+        "url": "https://www.videogameschronicle.com/news/fing-annoying-sam-altman-claims-comments-about-pc-gamers-buying-ram-taken-out-of-context/",
+        "date": "2026-11-04",
+        "summary": "OpenAI CEO萨姆·阿尔特曼在播客节目中谈及全球内存(DRAM)短缺时表示,大量内存'只有5%的时间被使用'却闲置在个人电脑里,是对稀缺资源的浪费,此言论被游戏玩家解读为针对PC玩家而引发不满。阿尔特曼随后在X平台回应称言论被'断章取义',并表示自己一直支持扩大内存产能。",
+        "section": 2,
+        "facts": [],
+        "source_note": "另见Destructoid同日报道(https://www.destructoid.com)对同一事件的跟进"
+      },
+      "members": [
+        {
+          "title": "OpenAI CEO阿尔特曼谈PC玩家'占用内存'言论引发游戏玩家不满",
+          "url": "https://www.videogameschronicle.com/news/fing-annoying-sam-altman-claims-comments-about-pc-gamers-buying-ram-taken-out-of-context/",
+          "date": "2026-11-04",
+          "summary": "OpenAI CEO萨姆·阿尔特曼在播客节目中谈及全球内存(DRAM)短缺时表示,大量内存'只有5%的时间被使用'却闲置在个人电脑里,是对稀缺资源的浪费,此言论被游戏玩家解读为针对PC玩家而引发不满。阿尔特曼随后在X平台回应称言论被'断章取义',并表示自己一直支持扩大内存产能。",
+          "section": 2,
+          "facts": [],
+          "source_note": "另见Destructoid同日报道(https://www.destructoid.com)对同一事件的跟进"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Studio Atelico推出可在设备端本地运行的AI游戏引擎",
+        "url": "https://www.pocketgamer.biz/studio-atelico-launches-on-device-ai-engine-for-game-developers/",
+        "date": "2026-10-29",
+        "summary": "由前Meta和Creative Assembly员工创立的Studio Atelico公开了其Atelico AI Engine的“早期访问”版本,该引擎可在玩家设备本地运行AI(无需依赖云端),支持语言模型、图像生成、语音系统及AI驱动的角色行为,兼容Unity、Unreal Engine和Godot等主流引擎。",
+        "section": 2,
+        "facts": []
+      },
+      "members": [
+        {
+          "title": "Studio Atelico推出可在设备端本地运行的AI游戏引擎",
+          "url": "https://www.pocketgamer.biz/studio-atelico-launches-on-device-ai-engine-for-game-developers/",
+          "date": "2026-10-29",
+          "summary": "由前Meta和Creative Assembly员工创立的Studio Atelico公开了其Atelico AI Engine的“早期访问”版本,该引擎可在玩家设备本地运行AI(无需依赖云端),支持语言模型、图像生成、语音系统及AI驱动的角色行为,兼容Unity、Unreal Engine和Godot等主流引擎。",
+          "section": 2,
+          "facts": []
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "报道:itch.io游戏页面数量较此前翻倍,AI生成游戏大量涌入平台",
+        "url": "https://www.gamedeveloper.com/business/the-number-of-game-pages-doubles-on-itch-io-as-ai-games-flood-the-store",
+        "date": "2026-11-02",
+        "summary": "Game Developer报道称,独立游戏平台itch.io上的游戏页面总数出现翻倍式增长,大量AI生成的游戏涌入平台,是促使itch.io随后(11月3日)大规模清理AI垂圾内容并上线过滤功能的直接背景。",
+        "section": 2,
+        "facts": []
+      },
+      "members": [
+        {
+          "title": "报道:itch.io游戏页面数量较此前翻倍,AI生成游戏大量涌入平台",
+          "url": "https://www.gamedeveloper.com/business/the-number-of-game-pages-doubles-on-itch-io-as-ai-games-flood-the-store",
+          "date": "2026-11-02",
+          "summary": "Game Developer报道称,独立游戏平台itch.io上的游戏页面总数出现翻倍式增长,大量AI生成的游戏涌入平台,是促使itch.io随后(11月3日)大规模清理AI垂圾内容并上线过滤功能的直接背景。",
+          "section": 2,
+          "facts": []
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "腾讯AI游戏陪伴应用\"鹅次元\"开启首测，承诺每周上线一个新体验",
+        "url": "https://news.qq.com/rain/a/20261101A08FZA00?id=20261101A08FZA00&path=a&app=news&suid=&redirect_pc=1",
+        "date": "2026-11-01",
+        "summary": "腾讯旗下AI游戏陪玩应用\"鹅次元\"于11月1日开启\"元气首测\"，提供可识别玩家游戏画面、实时语音讨论战术出装的AI陪伴角色，首批支持《英雄联盟》《无畏契约》《CS2》等游戏，并计划本周末为新上线单机游戏《影之刃零》开放陪玩功能。",
+        "section": 1,
+        "facts": [
+          "官方宣传片于10月21日发布并开启招募报名，11月1日前后进入\"元气首测\"阶段",
+          "首测开放四位女性AI陪伴角色（夏夏、沈露白、谷雨、贝拉），各有独立人设、音色与爱好游戏；男性角色暂未开放但已预留位置",
+          "核心功能是AI角色能\"看懂\"玩家游戏画面，并通过语音实时讨论局势、装备搭配与战术，陪玩覆盖《英雄联盟》《无畏契约》《CS2》，10月29日刚发售的单机游戏《影之刃零》陪玩功能计划当周末开放，可提供地图、任务、物品查找与Boss攻略的图文讲解",
+          "官方承诺\"每周响应一个用户建议上线一个新功能或新游戏\"，称已收集近千条用户建议",
+          "每个AI角色配有专属QQ好友账号，用户可在手机QQ端继续跨平台聊天，并保留聊天记忆；还支持桌面半身/全身二次元桌宠及一键桌面壁纸设置",
+          "测试期间功能限时免费，但界面已出现\"星币\"虚拟货币兑换框架，暗示后续商业化方向",
+          "此前IT之家9月29日曾曝光腾讯正秘密内测这款AI游戏搭子产品，印证了产品从内测走向公开测试的进展"
+        ],
+        "source_note": "另见 17173.com（2026-11-01，《腾讯AI游戏陪伴产品〈鹅次元〉开测，承诺一周上线一个新体验！》）及 IT之家 2026-09-29 的早期曝光报道（ithome.com/1/008/103.htm）"
+      },
+      "members": [
+        {
+          "title": "腾讯AI游戏陪伴应用\"鹅次元\"开启首测，承诺每周上线一个新体验",
+          "url": "https://news.qq.com/rain/a/20261101A08FZA00?id=20261101A08FZA00&path=a&app=news&suid=&redirect_pc=1",
+          "date": "2026-11-01",
+          "summary": "腾讯旗下AI游戏陪玩应用\"鹅次元\"于11月1日开启\"元气首测\"，提供可识别玩家游戏画面、实时语音讨论战术出装的AI陪伴角色，首批支持《英雄联盟》《无畏契约》《CS2》等游戏，并计划本周末为新上线单机游戏《影之刃零》开放陪玩功能。",
+          "section": 1,
+          "facts": [
+            "官方宣传片于10月21日发布并开启招募报名，11月1日前后进入\"元气首测\"阶段",
+            "首测开放四位女性AI陪伴角色（夏夏、沈露白、谷雨、贝拉），各有独立人设、音色与爱好游戏；男性角色暂未开放但已预留位置",
+            "核心功能是AI角色能\"看懂\"玩家游戏画面，并通过语音实时讨论局势、装备搭配与战术，陪玩覆盖《英雄联盟》《无畏契约》《CS2》，10月29日刚发售的单机游戏《影之刃零》陪玩功能计划当周末开放，可提供地图、任务、物品查找与Boss攻略的图文讲解",
+            "官方承诺\"每周响应一个用户建议上线一个新功能或新游戏\"，称已收集近千条用户建议",
+            "每个AI角色配有专属QQ好友账号，用户可在手机QQ端继续跨平台聊天，并保留聊天记忆；还支持桌面半身/全身二次元桌宠及一键桌面壁纸设置",
+            "测试期间功能限时免费，但界面已出现\"星币\"虚拟货币兑换框架，暗示后续商业化方向",
+            "此前IT之家9月29日曾曝光腾讯正秘密内测这款AI游戏搭子产品，印证了产品从内测走向公开测试的进展"
+          ],
+          "source_note": "另见 17173.com（2026-11-01，《腾讯AI游戏陪伴产品〈鹅次元〉开测，承诺一周上线一个新体验！》）及 IT之家 2026-09-29 的早期曝光报道（ithome.com/1/008/103.htm）"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "昆仑万维三季报：AI游戏列入\"4+3战略\"三大AI原生平台之一，前三季营收增54%",
+        "url": "https://stock.10jqka.com.cn/20261030/c681287206.shtml",
+        "date": "2026-10-29",
+        "summary": "昆仑万维10月29日发布2026年三季报，前三季度营收89.37亿元、同比增长53.96%，归母净利润由亏转盈；公司在报告中明确将\"AI游戏\"列为\"4+3战略\"三大AI原生平台经济体之一，并披露自研AI游戏《猫森小镇》已完成多轮内测、GameWave平台据称月活跃用户数位居行业第一。",
+        "section": 1,
+        "facts": [
+          "前三季度营收89.37亿元，同比增长53.96%；海外收入87.06亿元，同比增长60.78%；归母净利润由亏转盈",
+          "AI业务\"天工\"收入43.21亿元，同比增长168.29%，带动三季度毛利率升至74.41%",
+          "公司\"4+3战略\"以游戏世界模型等四大SOTA模型体系为根基，以AI游戏、AI短剧、AI音乐三大AI原生平台经济体为牵引",
+          "游戏世界模型Matrix-Game 4.0于10月中旬开源发布，号称全球首款可在单张消费级显卡（RTX 5090）上以480P、60FPS实时运行的游戏视频大模型，端到端输入延迟低于150毫秒，由代码引擎维护游戏规则、视频生成模型负责画面呈现",
+          "自研AI原生游戏《猫森小镇》已完成多轮内测，正根据玩家反馈打磨成长与留存系统",
+          "GameWave平台称已拥有数千万全球创作者与用户，并援引SensorTower数据称报告期末月活跃用户数位居行业第一",
+          "子公司黎曼动力发布面向具身智能的世界动作模型Riemann-1.0，并计划与合作方共建百万小时级具身数据集"
+        ],
+        "source_note": "另见每日经济新闻（mrjjxw.com，2026-10-29 19:13，《昆仑万维三季报出炉：2026年前三季度营收近90亿，AI短剧单月流水近1亿美元》），数据基本一致"
+      },
+      "members": [
+        {
+          "title": "昆仑万维三季报：AI游戏列入\"4+3战略\"三大AI原生平台之一，前三季营收增54%",
+          "url": "https://stock.10jqka.com.cn/20261030/c681287206.shtml",
+          "date": "2026-10-29",
+          "summary": "昆仑万维10月29日发布2026年三季报，前三季度营收89.37亿元、同比增长53.96%，归母净利润由亏转盈；公司在报告中明确将\"AI游戏\"列为\"4+3战略\"三大AI原生平台经济体之一，并披露自研AI游戏《猫森小镇》已完成多轮内测、GameWave平台据称月活跃用户数位居行业第一。",
+          "section": 1,
+          "facts": [
+            "前三季度营收89.37亿元，同比增长53.96%；海外收入87.06亿元，同比增长60.78%；归母净利润由亏转盈",
+            "AI业务\"天工\"收入43.21亿元，同比增长168.29%，带动三季度毛利率升至74.41%",
+            "公司\"4+3战略\"以游戏世界模型等四大SOTA模型体系为根基，以AI游戏、AI短剧、AI音乐三大AI原生平台经济体为牵引",
+            "游戏世界模型Matrix-Game 4.0于10月中旬开源发布，号称全球首款可在单张消费级显卡（RTX 5090）上以480P、60FPS实时运行的游戏视频大模型，端到端输入延迟低于150毫秒，由代码引擎维护游戏规则、视频生成模型负责画面呈现",
+            "自研AI原生游戏《猫森小镇》已完成多轮内测，正根据玩家反馈打磨成长与留存系统",
+            "GameWave平台称已拥有数千万全球创作者与用户，并援引SensorTower数据称报告期末月活跃用户数位居行业第一",
+            "子公司黎曼动力发布面向具身智能的世界动作模型Riemann-1.0，并计划与合作方共建百万小时级具身数据集"
+          ],
+          "source_note": "另见每日经济新闻（mrjjxw.com，2026-10-29 19:13，《昆仑万维三季报出炉：2026年前三季度营收近90亿，AI短剧单月流水近1亿美元》），数据基本一致"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "三七互娱三季报：自研\"小七\"AI能力平台已沉淀超70项能力、240余个模型工具",
+        "url": "https://www.nbd.com.cn/articles/2026-10-29/4628481.html",
+        "date": "2026-10-29",
+        "summary": "三七互娱10月29日发布三季报，三季度营收40.91亿元、环比增长15.11%，海外收入占比首次超五成；公司披露已基于自研游戏行业大模型\"小七\"搭建AI能力平台，沉淀70余项可复用能力、接入240余个模型与工具、600余个智能体，覆盖研发、发行、运营及内部办公场景。",
+        "section": 2,
+        "facts": [
+          "三季度营收40.91亿元，同比增长2.93%、环比增长15.11%；海外收入21.69亿元，同比增长59.31%，占总营收超五成",
+          "前三季度营收113.66亿元，同比下降8.79%；扣非归母净利润11.97亿元，同比下降47.03%，公司称主要因长周期新品投入及间接投资标的\"北京智谱华章\"股价波动产生约5.06亿元非经常性损失",
+          "自研产品收入同比增长39.80%至49.96亿元，研发费用同比增长20.25%至6.16亿元，研发人员增至1667人",
+          "AI能力平台基于自研\"小七\"大模型，已沉淀70余项可复用能力、接入超240个模型及工具、600余个自研智能体，覆盖研发、发行、运营及内部办公等场景"
+        ]
+      },
+      "members": [
+        {
+          "title": "三七互娱三季报：自研\"小七\"AI能力平台已沉淀超70项能力、240余个模型工具",
+          "url": "https://www.nbd.com.cn/articles/2026-10-29/4628481.html",
+          "date": "2026-10-29",
+          "summary": "三七互娱10月29日发布三季报，三季度营收40.91亿元、环比增长15.11%，海外收入占比首次超五成；公司披露已基于自研游戏行业大模型\"小七\"搭建AI能力平台，沉淀70余项可复用能力、接入240余个模型与工具、600余个智能体，覆盖研发、发行、运营及内部办公场景。",
+          "section": 2,
+          "facts": [
+            "三季度营收40.91亿元，同比增长2.93%、环比增长15.11%；海外收入21.69亿元，同比增长59.31%，占总营收超五成",
+            "前三季度营收113.66亿元，同比下降8.79%；扣非归母净利润11.97亿元，同比下降47.03%，公司称主要因长周期新品投入及间接投资标的\"北京智谱华章\"股价波动产生约5.06亿元非经常性损失",
+            "自研产品收入同比增长39.80%至49.96亿元，研发费用同比增长20.25%至6.16亿元，研发人员增至1667人",
+            "AI能力平台基于自研\"小七\"大模型，已沉淀70余项可复用能力、接入超240个模型及工具、600余个自研智能体，覆盖研发、发行、运营及内部办公等场景"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "巨人网络三季报：营收增98%创新高，三季度继续加码投资硅基流动等AI公司",
+        "url": "https://www.caiwennews.com/article/1676083.shtml",
+        "date": "2026-10-29",
+        "summary": "巨人网络10月29日发布三季报，前三季度营收66.85亿元、同比增长98.45%，净利润28.86亿元、同比增长103.73%，主要受益于AI驱动玩法游戏《超自然行动组》的亮眼表现；公司披露今年进一步参投硅基流动等AI相关厂商，并计划认购云峰元创等基金共2.85亿元以布局AI等硬科技领域。",
+        "section": 2,
+        "facts": [
+          "前三季度营收66.85亿元，同比增长98.45%；归母净利润28.86亿元，同比增长103.73%；扣非净利润30.98亿元，同比增长108.72%；经营现金流30.11亿元，同比增长62.64%",
+          "增长主要来自《超自然行动组》，该作8月日活跃用户突破1200万，\"鬼多奇·云南虫谷\"联动一度带其重返iOS畜费榜前五；《征途》10月24日位列微信小游戏畜费榜第四",
+          "AI相关投资：继此前参投AI创作平台等公司后，今年进一步参投AI算力基础设施公司硅基流动；8月H1财报期还披露投资了具身智能仿真基础设施公司光轮智能及AI 3D模型公司VAST",
+          "另披露拟认购云峰元创等三只基金份额共2.85亿元，用于拓展硬科技等领域",
+          "9月22日已派发中期现金分红每10股8元（含税），共计约15.15亿元，并制定2026-2028年分红规划（无重大投资计划时年度分红不低于当年归母净利润70%）"
+        ],
+        "source_note": "另见同花顺2026-10-31汇总报道《多家A股游戏公司前三季度营收高增长》及格隆汇2026-08-26转载的H1财报报道（提及VibeMe、硅基流动、光轮智能、VAST等AI投资细节）"
+      },
+      "members": [
+        {
+          "title": "巨人网络三季报：营收增98%创新高，三季度继续加码投资硅基流动等AI公司",
+          "url": "https://www.caiwennews.com/article/1676083.shtml",
+          "date": "2026-10-29",
+          "summary": "巨人网络10月29日发布三季报，前三季度营收66.85亿元、同比增长98.45%，净利润28.86亿元、同比增长103.73%，主要受益于AI驱动玩法游戏《超自然行动组》的亮眼表现；公司披露今年进一步参投硅基流动等AI相关厂商，并计划认购云峰元创等基金共2.85亿元以布局AI等硬科技领域。",
+          "section": 2,
+          "facts": [
+            "前三季度营收66.85亿元，同比增长98.45%；归母净利润28.86亿元，同比增长103.73%；扣非净利润30.98亿元，同比增长108.72%；经营现金流30.11亿元，同比增长62.64%",
+            "增长主要来自《超自然行动组》，该作8月日活跃用户突破1200万，\"鬼多奇·云南虫谷\"联动一度带其重返iOS畜费榜前五；《征途》10月24日位列微信小游戏畜费榜第四",
+            "AI相关投资：继此前参投AI创作平台等公司后，今年进一步参投AI算力基础设施公司硅基流动；8月H1财报期还披露投资了具身智能仿真基础设施公司光轮智能及AI 3D模型公司VAST",
+            "另披露拟认购云峰元创等三只基金份额共2.85亿元，用于拓展硬科技等领域",
+            "9月22日已派发中期现金分红每10股8元（含税），共计约15.15亿元，并制定2026-2028年分红规划（无重大投资计划时年度分红不低于当年归母净利润70%）"
+          ],
+          "source_note": "另见同花顺2026-10-31汇总报道《多家A股游戏公司前三季度营收高增长》及格隆汇2026-08-26转载的H1财报报道（提及VibeMe、硅基流动、光轮智能、VAST等AI投资细节）"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

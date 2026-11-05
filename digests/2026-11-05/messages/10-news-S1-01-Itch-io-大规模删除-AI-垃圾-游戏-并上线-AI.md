@@ -1,0 +1,14 @@
+**[新闻 1] Itch.io 大规模删除"AI 垃圾"游戏，并上线 AI 内容过滤器**
+- **日期：** 2026-11-03
+- **来源链接：** <https://www.videogameschronicle.com/news/itch-mass-deletes-ai-slop-lets-users-filter-out-any-ai-assisted-games/>
+- **核心事实：**
+  - itch.io 在官方 Bluesky 账号发文称"刚刚删除了几 TB 的 AI 垂圾内容"，此次清理主要针对成批量上传、未经优化的低质 AI 生成内容，而非所有使用过 AI 工具的游戏
+  - itch.io 早前已要求使用生成式 AI 的开发者在页面披露使用方式，此次新增了"隐藏 AI 披露游戏"的搜索过滤选项，允许玩家在搜索结果中主动屏蔽已勾选 AI 披露的游戏
+  - 部分社区成员呼吁 itch.io 应彻底禁止生成式 AI 资产，但报道指出"AI 游戏"的定义本身存在争议，难以一刀切执行
+- **背景与起因：**
+  - 背景数据：据 Game Developer 2026-11-02 报道，10 月以来 itch.io 上的游戏页面数量"翻倍"，AI 生成游戏大量涌入平台，是此次清理行动的直接背景
+  - 对比 Steam：Steam 同样要求 AI 内容披露，但没有提供过滤隐藏功能，此前 Steam Next Fest 期间已有开发者抱怨自家游戏被大量 AI 游戏"淹没"
+  - 背景事件：2025 年 12 月，《Clair Obscur: Expedition 33》因被发现使用 AI 生成的占位贴图，被 Indie Game Awards 追回了"年度游戏"和"最佳首作"两项大奖（该贴图后续已通过补丁移除）
+- **结果与进展：**
+  - 新过滤器已上线，玩家可自主选择是否在浏览时隐藏 AI 披露游戏，但平台未宣布全面禁止生成式 AI 资产
+  - 对比来看，Epic Games Store 对生成式 AI 态度更宽松，Epic 此前曾表示其重建的新版启动器是用 AI "vibe coded" 而成，行业内对 AI 内容治理的尺度仍不统一

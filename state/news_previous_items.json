@@ -1,96 +1,5 @@
 [
  {
-  "title": "Adobe 与 NVIDIA 扩大合作，RTX Spark 加速 Photoshop、Premiere 及 Substance 3D 等创作工具 AI 性能",
-  "url": "https://news.adobe.com/news/2026/10/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
-  "date": "2026-10-15",
-  "section": 1,
-  "posted": "2026-10-21"
- },
- {
-  "title": "据报道】私募股权机构曾探讨收购 Xbox 业务，估值高达 1500 亿美元",
-  "url": "https://www.invenglobal.com/articles/27491/private-equity-firms-reportedly-explored-xbox-acquisition-valuation-up-to-200-trillion-won",
-  "date": "2026-10-21",
-  "section": 3,
-  "posted": "2026-10-21"
- },
- {
-  "title": "据报道】下一代 Xbox 主机\"Project Helix\"或定档 2028 年，售价 1200 至 1800 美元",
-  "url": "https://www.videogameschronicle.com/news/report-claims-next-xbox-is-targeting-2028-and-could-cost-between-1200-and-1800/",
-  "date": "2026-10-20",
-  "section": 3,
-  "posted": "2026-10-21"
- },
- {
-  "title": "PEGI 收紧氪金抽卡机制评级标准，《EA Sports FC》《Pokémon GO》等评级升至 16 岁",
-  "url": "https://www.videogameschronicle.com/news/ea-sports-fc-and-pokemon-go-age-ratings-bumped-to-16-in-pegi-loot-box-crackdown/",
-  "date": "2026-10-21",
-  "section": 3,
-  "posted": "2026-10-21"
- },
- {
-  "title": "EA Sports 官方宣布拳击游戏系列《Fight Night》将回归",
-  "url": "https://www.videogameschronicle.com/news/ea-sports-is-officially-reviving-its-fight-night-boxing-series/",
-  "date": "2026-10-20",
-  "section": 3,
-  "posted": "2026-10-21"
- },
- {
-  "title": "Wargaming 联合创始人新设立的 Mika Games 获 Flint Capital 领投 1000 万美元融资",
-  "url": "https://mobilegamer.biz/wargaming-cofounders-mika-games-raises-10m-to-back-studios-beyond-soft-launch/",
-  "date": "2026-10-21",
-  "section": 3,
-  "posted": "2026-10-21"
- },
- {
-  "title": "Nexon 将举办\"FC Mobile 家庭杯\"，联合韩国职业足球联赛 12 家俱乐部",
-  "url": "https://www.invenglobal.com/articles/27478/nexon-hosts-fc-mobile-family-cup-featuring-12-k-league-clubs",
-  "date": "2026-10-20",
-  "section": 3,
-  "posted": "2026-10-21"
- },
- {
-  "title": "《Among Us》开发商 Innersloth 联合创始人警告开发者\"市面上存在很糟糕的发行合约\"",
-  "url": "https://www.gamedeveloper.com/business/outersloth-co-founder-warns-devs-there-are-some-very-bad-deals-out-there-",
-  "date": "2026-10-20",
-  "section": 3,
-  "posted": "2026-10-21"
- },
- {
-  "title": "Fuse Games CEO 详解《星球大战：银河赛车手》的联合开发框架",
-  "url": "https://www.gamedeveloper.com/production/fuse-games-ceo-breaks-down-codev-framework-for-star-wars-galactic-racer",
-  "date": "2026-10-20",
-  "section": 3,
-  "posted": "2026-10-21"
- },
- {
-  "title": "育碧开放世界赛车游戏《Riders Republic》将于 12 月 9 日登陆 Switch 2，新增离线模式",
-  "url": "https://www.gematsu.com/2026/10/riders-republic-coming-to-switch-2-on-december-9-alongside-offline-play",
-  "date": "2026-10-20",
-  "section": 3,
-  "posted": "2026-10-21"
- },
- {
-  "title": "Pearl Abyss 公布《Crimson Desert》付费 DLC \"Charting the Unknown\" 新预告",
-  "url": "https://www.gematsu.com/2026/10/crimson-desert-dlc-charting-the-unknown-features-overview-trailer",
-  "date": "2026-10-20",
-  "section": 3,
-  "posted": "2026-10-21"
- },
- {
-  "title": "CD Projekt Red《赛博朋克 2077》2.5 版本更新将于 10 月 22 日推出",
-  "url": "https://www.gematsu.com/2026/10/cyberpunk-2077-version-2-5-update-launches-october-22",
-  "date": "2026-10-20",
-  "section": 3,
-  "posted": "2026-10-21"
- },
- {
-  "title": "腾讯游戏人生发布全链路 AI 服务体系，合作需求匹配时间由 1-2 周缩短至 1 小时内",
-  "url": "https://www.yzwb.net/news/ty/202610/t20261019_404182.html",
-  "date": "2026-10-19",
-  "section": 1,
-  "posted": "2026-10-21"
- },
- {
   "title": "更新】DLSS 4.5 推广至《使命召唤：现代战争4》《赛博朋克2077》等多款新作，NBA 2K27 迎来提速10倍的新模型",
   "url": "https://www.nvidia.com/en-us/geforce/news/dlss-4-5-cyberpunk-2077-planet-zoo-2-modern-warfare-4/",
   "date": "2026-10-21",
@@ -1783,5 +1692,131 @@
   "date": "2026-11-04",
   "section": 3,
   "posted": "2026-11-04"
+ },
+ {
+  "title": "Itch.io 大规模删除\"AI 垃圾\"游戏，并上线 AI 内容过滤器",
+  "url": "https://www.videogameschronicle.com/news/itch-mass-deletes-ai-slop-lets-users-filter-out-any-ai-assisted-games/",
+  "date": "2026-11-03",
+  "section": 1,
+  "posted": "2026-11-05"
+ },
+ {
+  "title": "更新】腾讯 AI 游戏陪玩应用\"鹅次元\"正式开启首测，此前仅为招募报名",
+  "url": "https://news.qq.com/rain/a/20261101A08FZA00?id=20261101A08FZA00&path=a&app=news&suid=&redirect_pc=1",
+  "date": "2026-11-01",
+  "section": 1,
+  "posted": "2026-11-05"
+ },
+ {
+  "title": "昆仑万维三季报：AI 游戏列入\"4+3 战略\"三大 AI 原生平台之一，前三季营收增 54%",
+  "url": "https://stock.10jqka.com.cn/20261030/c681287206.shtml",
+  "date": "2026-10-29",
+  "section": 1,
+  "posted": "2026-11-05"
+ },
+ {
+  "title": "OpenAI CEO 阿尔特曼谈 PC 玩家\"占用内存\"言论引发游戏玩家不满",
+  "url": "https://www.videogameschronicle.com/news/fing-annoying-sam-altman-claims-comments-about-pc-gamers-buying-ram-taken-out-of-context/",
+  "date": "2026-11-04",
+  "section": 2,
+  "posted": "2026-11-05"
+ },
+ {
+  "title": "报道：itch.io 游戏页面数量较此前翻倍，AI 生成游戏大量涌入平台",
+  "url": "https://www.gamedeveloper.com/business/the-number-of-game-pages-doubles-on-itch-io-as-ai-games-flood-the-store",
+  "date": "2026-11-02",
+  "section": 2,
+  "posted": "2026-11-05"
+ },
+ {
+  "title": "三七互娱三季报：自研\"小七\"AI 能力平台已沉淀超 70 项能力、240 余个模型工具",
+  "url": "https://www.nbd.com.cn/articles/2026-10-29/4628481.html",
+  "date": "2026-10-29",
+  "section": 2,
+  "posted": "2026-11-05"
+ },
+ {
+  "title": "巨人网络三季报：营收增 98% 创新高，三季度继续加码投资硅基流动等 AI 公司",
+  "url": "https://www.caiwennews.com/article/1676083.shtml",
+  "date": "2026-10-29",
+  "section": 2,
+  "posted": "2026-11-05"
+ },
+ {
+  "title": "土耳其游戏风投机构 e2vc 设立 1.5 亿美元成长基金",
+  "url": "https://www.pocketgamer.biz/e2vc-launches-150m-fund-to-back-turkish-games-and-tech-companies/",
+  "date": "2026-11-05",
+  "section": 3,
+  "posted": "2026-11-05"
+ },
+ {
+  "title": "AMC 与 Yodo1 达成授权合作，助中国开发者改编《行尸走肉》等 IP 出海",
+  "url": "https://www.pocketgamer.biz/amc-partners-with-yodo1-to-bring-walking-dead-and-vampire-ip-to-chinese-game-developers/",
+  "date": "2026-11-05",
+  "section": 3,
+  "posted": "2026-11-05"
+ },
+ {
+  "title": "美国法院限制 Papaya Gaming 向境外转移资产",
+  "url": "https://www.pocketgamer.biz/us-court-restricts-papaya-gaming-from-moving-assets-outside-the-country/",
+  "date": "2026-11-04",
+  "section": 3,
+  "posted": "2026-11-05"
+ },
+ {
+  "title": "BAFTA 公布 2026 年度 Breakthrough 新秀名单，六位游戏从业者入选",
+  "url": "https://www.pocketgamer.biz/bafta-names-six-games-creatives-in-2026-breakthrough-cohort/",
+  "date": "2026-11-05",
+  "section": 3,
+  "posted": "2026-11-05"
+ },
+ {
+  "title": "任天堂财报：Switch 2 上半财年销量同比下滑 37%，公司称暂不考虑涨价",
+  "url": "https://www.videogameschronicle.com/news/nintendo-switch-2-sales-have-dropped-37-but-its-still-comfortably-beating-the-original-console/",
+  "date": "2026-11-05",
+  "section": 3,
+  "posted": "2026-11-05"
+ },
+ {
+  "title": "索尼财报：PS5 累计销量达 9790 万台，PS6 研发\"按计划推进\"",
+  "url": "https://www.videogameschronicle.com/news/sony-says-playstation-6-development-is-progressing-as-scheduled-as-ps5-sales-hit-97-9m/",
+  "date": "2026-11-05",
+  "section": 3,
+  "posted": "2026-11-05"
+ },
+ {
+  "title": "DRM-free 平台 GOG 将举办首次自办游戏展示会",
+  "url": "https://www.videogameschronicle.com/news/gog-announces-first-ever-games-showcase/",
+  "date": "2026-11-04",
+  "section": 3,
+  "posted": "2026-11-05"
+ },
+ {
+  "title": "法国工会指控 Xbox\"蓄意破坏\"Arkane 工作室《刀锋战士》开发",
+  "url": "https://www.videogameschronicle.com/news/arkane-union-says-xbox-is-sabotaging-blade-development/",
+  "date": "2026-11-04",
+  "section": 3,
+  "posted": "2026-11-05"
+ },
+ {
+  "title": "加拿大玩家发起请愿，呼吁政府出资扶持 BioWare 工作室独立",
+  "url": "https://www.videogameschronicle.com/news/canadian-bioware-fans-are-calling-on-the-government-to-fund-the-studio/",
+  "date": "2026-11-04",
+  "section": 3,
+  "posted": "2026-11-05"
+ },
+ {
+  "title": "游戏行业互助组织 ASGC 成立四周年，累计促成超 5400 次求职",
+  "url": "https://www.pocketgamer.biz/asgc-marks-four-years-with-more-than-5400-games-industry-job-placements/",
+  "date": "2026-11-04",
+  "section": 3,
+  "posted": "2026-11-05"
+ },
+ {
+  "title": "Epic 调整 Fortnite Crew 订阅制度，取消月度专属皮肤包改为阶梯式 V 币返还",
+  "url": "https://www.videogameschronicle.com/news/fortnite-crew-subscribers-are-no-longer-getting-free-skins-or-the-og-pass-will-get-more-v-bucks-instead/",
+  "date": "2026-11-05",
+  "section": 3,
+  "posted": "2026-11-05"
  }
 ]
