@@ -21829,7 +21829,7 @@
   "status": "screened-out",
   "first_seen": "2026-11-02",
   "submitted": "2026-10-30",
-  "title": "GeoFlip: Benchmarking Geometry-Sensitive Physics in Video Generation"
+  "title": "GeoFlip Preview: Benchmarking Geometry-Sensitive Physics in Video Generation"
  },
  "2610.41949": {
   "status": "screened-out",
@@ -22670,5 +22670,224 @@
   "first_seen": "2026-11-04",
   "submitted": "2026-10-19",
   "title": "ReVi: Recursive Recap Video Generation"
+ },
+ "2611.06908": {
+  "status": "near-miss",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "Perceptive Humanoid Motion from Simulation (HALO)"
+ },
+ "2611.06901": {
+  "status": "qualified",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "Motion-guided Contrastive Regularization For Latent World Models",
+  "affiliation": "Qualcomm AI Research — Qiqi Hou, Jisoo Jeong, Yinhao Zhu, Amir Said (Yiwen Chen and Huaizu Jiang are at Northeastern University; a footnote states the work was done during an internship at Qualcomm)",
+  "url": "https://arxiv.org/abs/2611.06901",
+  "summary": "The paper studies JEPA-style latent world models, which learn action-conditioned dynamics without reconstructing observations, and identifies a failure mode it calls \"static collapse,\" where the encoder keeps episode-specific background content and drops manipulation-relevant state changes."
+ },
+ "2611.06890": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "Procedural Adversarial Learning"
+ },
+ "2611.06796": {
+  "status": "near-miss",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation"
+ },
+ "2611.06793": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "Transforming Integer Grids to Spatial Intuition: Perception, Not Planning, Governs ARC-AGI-3"
+ },
+ "2611.06781": {
+  "status": "near-miss",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "Semantic Residual Vector Quantization for Sign Language Generation"
+ },
+ "2611.06734": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "Smartphone-Aided VR Exergames for HIIT: Gamifying Fitness with Real-Time Pose Estimation"
+ },
+ "2611.06637": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "Human Motion Prediction via Continual Prior Compensation"
+ },
+ "2611.06593": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "BudgetSplat: Budget-Controllable Generalizable Gaussian Splatting"
+ },
+ "2611.06564": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "Playing Soccer Like Humans Do: Learning Versatile and Agile Humanoid Soccer via Latent Motion Priors"
+ },
+ "2611.06544": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "MKD2World: A Typed Spatial MarkDown World Model For Web Agents"
+ },
+ "2611.06442": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "TwinBridge: Digital Twin-Driven Policy and Reward Transfer for Real-World Reinforcement Learning in Laboratory Robotics"
+ },
+ "2611.06389": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "MA-Mesh: Resilient Multi-Agent Collaboration via Role-based Self-Healing"
+ },
+ "2611.06273": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "Quo Vadis, Driving Scene Reconstruction? Occlusion-Aware Gaussian Densification"
+ },
+ "2611.06270": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "NextGAN: Towards Simple and Scalable GAN Training for Image and Video Generation"
+ },
+ "2611.06258": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "CrossPressor: Scalable Cross-View Fusion for Feed-Forward 3D Gaussian Splatting"
+ },
+ "2611.06180": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "Rohbau3D-Semantics: Dense Semantic and Instance Labels for Point Clouds of Indoor Shell Construction Scenes"
+ },
+ "2611.06141": {
+  "status": "qualified",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "RDT-3D: Resolution-Decoupled Training for High-Fidelity 3D Geometry Generation",
+  "affiliation": "JD.com, Beijing, China — all listed authors (single affiliation block for the whole author group)",
+  "url": "https://arxiv.org/abs/2611.06141",
+  "summary": "The paper targets high-fidelity 3D geometry generation, which needs both global structural coherence and fine surface detail."
+ },
+ "2611.06120": {
+  "status": "qualified",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "ReactWorld: Structuring Interaction Responses for Embodied Video Generation",
+  "affiliation": "Huawei Technologies Co., Ltd. — Hanwei Liu, Huijia Zhang, Hanzhang Wang, Linjie Hu, Bin Xiao, Xuan Zhou, Dong Zhang (remaining authors: Tongji University / Zhejiang University, per paper's author block)",
+  "url": "https://arxiv.org/abs/2611.06120",
+  "summary": "Embodied video world models can predict scene changes from robot actions, but the paper argues generated object responses may not match task intent or contact dynamics."
+ },
+ "2611.06061": {
+  "status": "near-miss",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "TouchéWorld tech report: Towards Online Unified Camera-Hand Exploration in Generative World Models"
+ },
+ "2611.06020": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "METRIC-GS: Selective Metric-Scale Estimation for 3D Gaussian Splatting"
+ },
+ "2611.05907": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "Does Your Trial Simulator Know What the Drug Does? An Intervention-Blind Test of Interventional Validity on 7,207 Registered Trials"
+ },
+ "2611.05893": {
+  "status": "near-miss",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "Chronos: Sequential Identity-Preserving Video Generation by Temporal Anchoring"
+ },
+ "2611.05890": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "CellCanon: An Agentic Cellular World Model for Prediction, Explanation, and Observation-Driven Updating"
+ },
+ "2611.05874": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "Feature Puzzles: Single-Image Supervision for Multi-View 3D-Aware Segmentation"
+ },
+ "2611.05847": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "Time-to-Goal: Learned Temporal Metrics for Long-Horizon Planning with JEPA World Models"
+ },
+ "2611.05825": {
+  "status": "near-miss",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "DualCast: Dual-Image Conditioned Diffusion Transformers for Digital Human E-Commerce Video Generation"
+ },
+ "2611.05801": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-04",
+  "title": "WayPOP: A Panoramic Open-Set Panoptic Tracking Benchmark"
+ },
+ "2611.05593": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-03",
+  "title": "GaussianRenderFormer: Transformer-based Rendering of 3D Gaussian Splats"
+ },
+ "2611.05577": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-03",
+  "title": "Readable Is Not Steerable: Pre-Registered Tests of Physical Structure in Learned Fluid Representations"
+ },
+ "2611.05507": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-03",
+  "title": "Ctrl-F: Force as an Interface for Humanoid Loco-Manipulation"
+ },
+ "2611.05450": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-03",
+  "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments"
+ },
+ "2611.05448": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-03",
+  "title": "Jev with Foresight: Safe Language-Guided Autonomous Driving via a Language World Model"
+ },
+ "2611.05443": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-03",
+  "title": "SurgTransfer: Multi-Step Latent Action Modeling for Action Transfer in Surgical World Model"
+ },
+ "2611.05422": {
+  "status": "screened-out",
+  "first_seen": "2026-11-05",
+  "submitted": "2026-11-02",
+  "title": "CAST-Bench: Tracing Every Sound to Its Source in Multi-Shot Audio-Video Generation"
  }
 }
