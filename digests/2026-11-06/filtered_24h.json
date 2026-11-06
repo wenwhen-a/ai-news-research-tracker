@@ -1,0 +1,602 @@
+{
+  "as_of": "2026-11-06",
+  "cutoff": "2026-11-05",
+  "window_days": 1,
+  "summary": {
+    "input_items": 28,
+    "denied_source": 0,
+    "in_window": 28,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 25,
+    "duplicate_clusters": 3,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 25,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 24,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "据报道沙特PIF与Silver Lake磋商以约250亿美元收购游戏引擎公司Unity",
+        "url": "https://www.videogameschronicle.com/news/saudi-arabias-pif-and-investment-firm-silver-lake-have-reportedly-been-in-talks-to-buy-unity/",
+        "date": "2026-11-06",
+        "section": 3,
+        "summary": "据路透社援引消息人士报道，由沙特阿拉伯主权财富基金PIF与投资公司Silver Lake组成的财团已就收购游戏引擎公司Unity Software展开磋商，估值约250亿美元，但尚未做出最终决定，条款仍可能变化或交易告吹。Silver Lake目前持有Unity约8%股份且其CEO在Unity董事会任职，该财团今年8月已联手完成约550亿美元收购EA的交易。"
+      },
+      "members": [
+        {
+          "title": "据报道沙特PIF与Silver Lake磋商以约250亿美元收购游戏引擎公司Unity",
+          "url": "https://www.videogameschronicle.com/news/saudi-arabias-pif-and-investment-firm-silver-lake-have-reportedly-been-in-talks-to-buy-unity/",
+          "date": "2026-11-06",
+          "section": 3,
+          "summary": "据路透社援引消息人士报道，由沙特阿拉伯主权财富基金PIF与投资公司Silver Lake组成的财团已就收购游戏引擎公司Unity Software展开磋商，估值约250亿美元，但尚未做出最终决定，条款仍可能变化或交易告吹。Silver Lake目前持有Unity约8%股份且其CEO在Unity董事会任职，该财团今年8月已联手完成约550亿美元收购EA的交易。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "索尼取消《瑞奇与叮当：先锋乱斗》免费多人手游",
+        "url": "https://www.videogameschronicle.com/news/sonys-free-to-play-mobile-ratchet-clank-multiplayer-shooter-has-been-cancelled/",
+        "date": "2026-11-06",
+        "section": 3,
+        "summary": "索尼宣布终止尚未正式全球上线的免费手游《Ratchet & Clank: Ranger Rumble》开发，该游戏由Oh BiBi与Insomniac Games联合开发，2025年11月起在菲律宾、印尼等地区测试。游戏将于11月21日从应用商店下架，服务器将于2027年5月1日永久关闭，内购已下架。"
+      },
+      "members": [
+        {
+          "title": "索尼取消《瑞奇与叮当：先锋乱斗》免费多人手游",
+          "url": "https://www.videogameschronicle.com/news/sonys-free-to-play-mobile-ratchet-clank-multiplayer-shooter-has-been-cancelled/",
+          "date": "2026-11-06",
+          "section": 3,
+          "summary": "索尼宣布终止尚未正式全球上线的免费手游《Ratchet & Clank: Ranger Rumble》开发，该游戏由Oh BiBi与Insomniac Games联合开发，2025年11月起在菲律宾、印尼等地区测试。游戏将于11月21日从应用商店下架，服务器将于2027年5月1日永久关闭，内购已下架。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "微软更新Xbox PC客户端：启动速度最高提升60%，界面与搜索全面改版",
+        "url": "https://news.xbox.com/en-us/2026/11/05/a-faster-simpler-xbox-experience-is-coming-to-pc-web-and-cloud/",
+        "date": "2026-11-05",
+        "section": 3,
+        "summary": "微软宣布面向Xbox Insider会员推出新版Xbox PC应用：官方测试显示应用启动速度最高提升60%，主页/商店/Game Pass页面加载速度最多提升50%，应用内窗口打开速度最多提升65%，并重新设计了游戏库导航、好友社交入口及跨游戏/好友统一搜索功能，云游戏网页版也将同步获得相同改版。"
+      },
+      "members": [
+        {
+          "title": "微软更新Xbox PC客户端：启动速度最高提升60%，界面与搜索全面改版",
+          "url": "https://news.xbox.com/en-us/2026/11/05/a-faster-simpler-xbox-experience-is-coming-to-pc-web-and-cloud/",
+          "date": "2026-11-05",
+          "section": 3,
+          "summary": "微软宣布面向Xbox Insider会员推出新版Xbox PC应用：官方测试显示应用启动速度最高提升60%，主页/商店/Game Pass页面加载速度最多提升50%，应用内窗口打开速度最多提升65%，并重新设计了游戏库导航、好友社交入口及跨游戏/好友统一搜索功能，云游戏网页版也将同步获得相同改版。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "游戏投资公司DENMU完成首期基金募资，规模超5000万美元",
+        "url": "https://www.pocketgamer.biz/denmu-closes-debut-games-fund-above-50m-target/",
+        "date": "2026-11-06",
+        "section": 3,
+        "summary": "由Michael Fan、Devin Maa和Ryan You于2025年创立的旧金山游戏投资公司DENMU宣布完成首期基金DENMU Fund I募资，规模超过5000万美元，超过原定目标，出资方包括游戏公司、创始人及家族基金，投资聚焦PC、主机及移动平台的独立、双A及3A级游戏项目，该公司也是索尼PlayStation中国英雄计划的战略合作伙伴。"
+      },
+      "members": [
+        {
+          "title": "游戏投资公司DENMU完成首期基金募资，规模超5000万美元",
+          "url": "https://www.pocketgamer.biz/denmu-closes-debut-games-fund-above-50m-target/",
+          "date": "2026-11-06",
+          "section": 3,
+          "summary": "由Michael Fan、Devin Maa和Ryan You于2025年创立的旧金山游戏投资公司DENMU宣布完成首期基金DENMU Fund I募资，规模超过5000万美元，超过原定目标，出资方包括游戏公司、创始人及家族基金，投资聚焦PC、主机及移动平台的独立、双A及3A级游戏项目，该公司也是索尼PlayStation中国英雄计划的战略合作伙伴。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "行业研究：近三分之一被收购游戏工作室最终关闭，2023年以来关闭数量骤增",
+        "url": "https://www.pocketgamer.biz/one-in-three-acquired-game-studios-have-shut-down-new-study-finds/",
+        "date": "2026-11-05",
+        "section": 3,
+        "summary": "前Riot、Crytek及EA员工Sebastian Cardoso通过其Game Studio Unlocked newsletter发布研究，分析2000年以来283家被收购的游戏工作室，发现93家（约三分之一）最终关闭，其中49家在收购后五年内关闭；2019至2022年仅1家关闭，而2023年至2026年10月间骤增至33家。动视暴雪旗下17次收购全部以工作室衰落或关闭告终，任天堂收购的6家工作室则无一关闭。"
+      },
+      "members": [
+        {
+          "title": "行业研究：近三分之一被收购游戏工作室最终关闭，2023年以来关闭数量骤增",
+          "url": "https://www.pocketgamer.biz/one-in-three-acquired-game-studios-have-shut-down-new-study-finds/",
+          "date": "2026-11-05",
+          "section": 3,
+          "summary": "前Riot、Crytek及EA员工Sebastian Cardoso通过其Game Studio Unlocked newsletter发布研究，分析2000年以来283家被收购的游戏工作室，发现93家（约三分之一）最终关闭，其中49家在收购后五年内关闭；2019至2022年仅1家关闭，而2023年至2026年10月间骤增至33家。动视暴雪旗下17次收购全部以工作室衰落或关闭告终，任天堂收购的6家工作室则无一关闭。"
+        },
+        {
+          "title": "调研：三分之一被收购游戏工作室自2000年以来已关闭，微软、索尼收购后衰落比例最高",
+          "url": "https://www.pocketgamer.biz/one-in-three-acquired-game-studios-have-shut-down-new-study-finds/",
+          "date": "2026-11-05",
+          "summary": "前Riot/Crytek/EA员工Sebastian Cardoso分析303起游戏工作室收购案例发现，283家被收购工作室中93家（约三分之一）已关闭，60.8%出现产品走弱或关闭；微软旗下工作室衰落/关闭比例63%最高，索尼58%，腾讯50%，任天堂收购的6家工作室无一关闭。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "SAG-AFTRA推出\"预融资试镜\"新协议，允许开发者在立项前聘用工会演员拍摄演示",
+        "url": "https://www.videogameschronicle.com/news/union-actors-could-appear-in-early-game-demos-under-new-sag-aftra-plan/",
+        "date": "2026-11-05",
+        "section": 3,
+        "summary": "美国演员工会SAG-AFTRA宣布推出\"Pre-Funding Pitch Interactive Media Agreement\"协议，允许游戏开发者在向发行商或投资方立项推介前，聘请工会配音及动作演员参与内部预告片或垂直切片演示拍摄，但该协议不适用于众筹项目，工会称此举意在帮助开发者借助知名演员吸引资金。"
+      },
+      "members": [
+        {
+          "title": "SAG-AFTRA推出\"预融资试镜\"新协议，允许开发者在立项前聘用工会演员拍摄演示",
+          "url": "https://www.videogameschronicle.com/news/union-actors-could-appear-in-early-game-demos-under-new-sag-aftra-plan/",
+          "date": "2026-11-05",
+          "section": 3,
+          "summary": "美国演员工会SAG-AFTRA宣布推出\"Pre-Funding Pitch Interactive Media Agreement\"协议，允许游戏开发者在向发行商或投资方立项推介前，聘请工会配音及动作演员参与内部预告片或垂直切片演示拍摄，但该协议不适用于众筹项目，工会称此举意在帮助开发者借助知名演员吸引资金。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Rockstar公布近40张《GTA6》新截图，游戏11月19日发售",
+        "url": "https://www.videogameschronicle.com/news/rockstar-releases-nearly-40-new-gta-6-screenshots-ahead-of-launch/",
+        "date": "2026-11-05",
+        "section": 3,
+        "summary": "Rockstar Games公布了近40张《GTA6》新截图，展示Leonida地区场景及主角Jason、Lucia等角色，画面以过场演出为主，未透露更多玩法内容。游戏定于11月19日登陆PS5与Xbox Series X/S，PC版将稍后推出。"
+      },
+      "members": [
+        {
+          "title": "Rockstar公布近40张《GTA6》新截图，游戏11月19日发售",
+          "url": "https://www.videogameschronicle.com/news/rockstar-releases-nearly-40-new-gta-6-screenshots-ahead-of-launch/",
+          "date": "2026-11-05",
+          "section": 3,
+          "summary": "Rockstar Games公布了近40张《GTA6》新截图，展示Leonida地区场景及主角Jason、Lucia等角色，画面以过场演出为主，未透露更多玩法内容。游戏定于11月19日登陆PS5与Xbox Series X/S，PC版将稍后推出。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "BioWare最后岁月将拍成纪录片《Massive Effect: The BioWare Story》",
+        "url": "https://www.videogameschronicle.com/news/biowares-final-days-to-feature-in-upcoming-documentary/",
+        "date": "2026-11-05",
+        "section": 3,
+        "summary": "加拿大Super Channel正在制作纪录片《Massive Effect: The BioWare Story》，记录BioWare的历史及其在今年10月被EA关闭前的最后岁月，预计2027年首播。已确认参与的受访者包括工作室联合创始人Ray Muzyka、Greg Zeschuk，以及《质量效应》《龙腾世纪》系列多位核心编剧与配音演员Jennifer Hale。"
+      },
+      "members": [
+        {
+          "title": "BioWare最后岁月将拍成纪录片《Massive Effect: The BioWare Story》",
+          "url": "https://www.videogameschronicle.com/news/biowares-final-days-to-feature-in-upcoming-documentary/",
+          "date": "2026-11-05",
+          "section": 3,
+          "summary": "加拿大Super Channel正在制作纪录片《Massive Effect: The BioWare Story》，记录BioWare的历史及其在今年10月被EA关闭前的最后岁月，预计2027年首播。已确认参与的受访者包括工作室联合创始人Ray Muzyka、Greg Zeschuk，以及《质量效应》《龙腾世纪》系列多位核心编剧与配音演员Jennifer Hale。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《007：首次曝光》开场任务免费试玩，随PS5入门套装于11月10日推出",
+        "url": "https://www.pushsquare.com/news/2026/11/007-first-lights-first-mission-is-free-in-new-ps5-starter-pack",
+        "date": "2026-11-05",
+        "section": 3,
+        "summary": "索尼将在PS Store推出《007：首次曝光》PS5入门套装，让所有PS5玩家从11月10日起免费试玩开场任务「Against the Odds」，试玩进度可在购买完整版后继续；游戏同时已加入PS Plus Premium限时试玩，豪华版也在PS Store黑五促销中降价50%。"
+      },
+      "members": [
+        {
+          "title": "《007：首次曝光》开场任务免费试玩，随PS5入门套装于11月10日推出",
+          "url": "https://www.pushsquare.com/news/2026/11/007-first-lights-first-mission-is-free-in-new-ps5-starter-pack",
+          "date": "2026-11-05",
+          "section": 3,
+          "summary": "索尼将在PS Store推出《007：首次曝光》PS5入门套装，让所有PS5玩家从11月10日起免费试玩开场任务「Against the Odds」，试玩进度可在购买完整版后继续；游戏同时已加入PS Plus Premium限时试玩，豪华版也在PS Store黑五促销中降价50%。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "索尼上调本财年盈利预期，称内存库存可满足主机需求至2028年3月",
+        "url": "https://www.pushsquare.com/news/2026/11/aggressive-investment-in-entertainment-is-paying-off-sony-lifts-profit-outlook-after-strong-quarter",
+        "date": "2026-11-05",
+        "section": 3,
+        "summary": "索尼将截至2027年3月财年的营业利润预期上调至约1.87万亿日元（约118亿美元），较此前预测提升15%；7-9月单季营业利润约6223亿日元（约39亿美元），超出多数分析师预期，电影《蜘蛛侠：焕然新生》、PS5销量及迈克尔·杰克逊传记片带动的音乐流媒体收入被列为主要推动因素。索尼股价当日一度上涨约7%，公司并表示已锁定足够内存库存以满足主机需求至2028年3月。"
+      },
+      "members": [
+        {
+          "title": "索尼上调本财年盈利预期，称内存库存可满足主机需求至2028年3月",
+          "url": "https://www.pushsquare.com/news/2026/11/aggressive-investment-in-entertainment-is-paying-off-sony-lifts-profit-outlook-after-strong-quarter",
+          "date": "2026-11-05",
+          "section": 3,
+          "summary": "索尼将截至2027年3月财年的营业利润预期上调至约1.87万亿日元（约118亿美元），较此前预测提升15%；7-9月单季营业利润约6223亿日元（约39亿美元），超出多数分析师预期，电影《蜘蛛侠：焕然新生》、PS5销量及迈克尔·杰克逊传记片带动的音乐流媒体收入被列为主要推动因素。索尼股价当日一度上涨约7%，公司并表示已锁定足够内存库存以满足主机需求至2028年3月。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《尼尔：机械纪元》强制更新意外导致安装容量暴增至366GB",
+        "url": "https://kotaku.com/nier-automata-update-366gb-pc-steam-square-enix-platinum-2000753967",
+        "date": "2026-11-06",
+        "section": 3,
+        "summary": "据Kotaku报道，《尼尔：机械纪元》一次强制性更新意外导致游戏安装容量从约50GB暴增至366GB，引发玩家在社交媒体上吐槽需要为此清理电脑存储空间。"
+      },
+      "members": [
+        {
+          "title": "《尼尔：机械纪元》强制更新意外导致安装容量暴增至366GB",
+          "url": "https://kotaku.com/nier-automata-update-366gb-pc-steam-square-enix-platinum-2000753967",
+          "date": "2026-11-06",
+          "section": 3,
+          "summary": "据Kotaku报道，《尼尔：机械纪元》一次强制性更新意外导致游戏安装容量从约50GB暴增至366GB，引发玩家在社交媒体上吐槽需要为此清理电脑存储空间。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "加拿大玩家\"拯救BioWare\"请愿联署突破2300人，将被提交至国会议程",
+        "url": "https://www.pushsquare.com/news/2026/11/petition-to-save-mass-effect-dev-bioware-to-be-considered-by-canadas-government",
+        "date": "2026-11-06",
+        "section": 3,
+        "summary": "一份呼吁加拿大政府出手支持被EA关闭的BioWare工作室的请愿联署已突破2300人签名，根据加拿大法律规定，联署满500人的请愿须被列入下议院议程。请愿提出的建议包括向BioWare提供资金使其独立运营，以及从EA手中收回《质量效应》《龙腾世纪》版权，但报道指出即便政府支持请愿诉求，由于相关IP归EA所有，实际干预能力有限。"
+      },
+      "members": [
+        {
+          "title": "加拿大玩家\"拯救BioWare\"请愿联署突破2300人，将被提交至国会议程",
+          "url": "https://www.pushsquare.com/news/2026/11/petition-to-save-mass-effect-dev-bioware-to-be-considered-by-canadas-government",
+          "date": "2026-11-06",
+          "section": 3,
+          "summary": "一份呼吁加拿大政府出手支持被EA关闭的BioWare工作室的请愿联署已突破2300人签名，根据加拿大法律规定，联署满500人的请愿须被列入下议院议程。请愿提出的建议包括向BioWare提供资金使其独立运营，以及从EA手中收回《质量效应》《龙腾世纪》版权，但报道指出即便政府支持请愿诉求，由于相关IP归EA所有，实际干预能力有限。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "字节跳动出售沐瞳科技获中国市场监管总局无条件批准，交易超60亿美元",
+        "url": "https://www.ithome.com/1/023/550.htm",
+        "date": "2026-11-06",
+        "summary": "中国国家市场监督管理总局已于10月29日无条件批准字节跳动将沐瞳科技股权出售给沙特公共投资基金（PIF）旗下Savvy Games Group，交易金额超60亿美元。这是该交易在中国的反垄断审查环节，最终交割仍需满足协议其他条件；交割后沐瞳将成为Savvy全资子公司，总部仍设上海，管理层及CEO张云帆保持不变。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "字节跳动出售沐瞳科技获中国市场监管总局无条件批准，交易超60亿美元",
+          "url": "https://www.ithome.com/1/023/550.htm",
+          "date": "2026-11-06",
+          "summary": "中国国家市场监督管理总局已于10月29日无条件批准字节跳动将沐瞳科技股权出售给沙特公共投资基金（PIF）旗下Savvy Games Group，交易金额超60亿美元。这是该交易在中国的反垄断审查环节，最终交割仍需满足协议其他条件；交割后沐瞳将成为Savvy全资子公司，总部仍设上海，管理层及CEO张云帆保持不变。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "【更新】腾讯回应《胜利女神：NIKKE》黑客事件：未发现波及其他游戏迹象",
+        "url": "https://www.invenglobal.com/articles/28258/tencent-says-nikke-hack-does-not-apply-to-other-games",
+        "date": "2026-11-06",
+        "summary": "此前报道NIKKE PC启动器遭篡改植入恶意软件一事持续发酵后，腾讯旗下发行品牌Level Infinite于11月6日声明，经调查未发现《绝对争锋》等其他旗下游戏受到影响，称攻击手法因启动器架构差异“不适用于其他作品”。黑客于9月27日劫持launcher分发域名，10月30日开始传播恶意程序，Level Infinite于11月4日发现并上报韩国互联网振兴院（KISA）。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "【更新】腾讯回应《胜利女神：NIKKE》黑客事件：未发现波及其他游戏迹象",
+          "url": "https://www.invenglobal.com/articles/28258/tencent-says-nikke-hack-does-not-apply-to-other-games",
+          "date": "2026-11-06",
+          "summary": "此前报道NIKKE PC启动器遭篡改植入恶意软件一事持续发酵后，腾讯旗下发行品牌Level Infinite于11月6日声明，经调查未发现《绝对争锋》等其他旗下游戏受到影响，称攻击手法因启动器架构差异“不适用于其他作品”。黑客于9月27日劫持launcher分发域名，10月30日开始传播恶意程序，Level Infinite于11月4日发现并上报韩国互联网振兴院（KISA）。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "米哈游新作《崩坏：因缘精灵》公测定档2027年春季，11月25日开启限量付费测试",
+        "url": "https://www.4gamer.net/games/940/G094046/20261105016/",
+        "date": "2026-11-05",
+        "summary": "米哈游宣布旗下集换生物养成+自走棋+剧情向玩法新作《崩坏：因缘精灵》（日文名崩壊：ネクサスアニマ）将于2027年春季公测，11月25日开启限量删档付费测试，支持PC及iOS/Android。该作糅合宠物养成与CRPG叙事，面临《洛克王国：世界》《蓝色星原：旅谣》等同类新游的竞争。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "米哈游新作《崩坏：因缘精灵》公测定档2027年春季，11月25日开启限量付费测试",
+          "url": "https://www.4gamer.net/games/940/G094046/20261105016/",
+          "date": "2026-11-05",
+          "summary": "米哈游宣布旗下集换生物养成+自走棋+剧情向玩法新作《崩坏：因缘精灵》（日文名崩壊：ネクサスアニマ）将于2027年春季公测，11月25日开启限量删档付费测试，支持PC及iOS/Android。该作糅合宠物养成与CRPG叙事，面临《洛克王国：世界》《蓝色星原：旅谣》等同类新游的竞争。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《最终幻想14》东京嘉年华公布新资料片“白银的旅者”",
+        "url": "https://www.4gamer.net/",
+        "date": "2026-11-05",
+        "summary": "史克威尔艾尼克斯在东京举行的《最终幻想14》Fan Festival 2026首日活动上公布新资料片“白银のワンダラー”，新增职业“微风”（ゼフィール），预计2027年2月推出。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《最终幻想14》东京嘉年华公布新资料片“白银的旅者”",
+          "url": "https://www.4gamer.net/",
+          "date": "2026-11-05",
+          "summary": "史克威尔艾尼克斯在东京举行的《最终幻想14》Fan Festival 2026首日活动上公布新资料片“白银のワンダラー”，新增职业“微风”（ゼフィール），预计2027年2月推出。",
+          "section": 3
+        },
+        {
+          "title": "世嘉新机台《彩色彩色皮酱》登台Amusement Expo 2026",
+          "url": "https://www.4gamer.net/",
+          "date": "2026-11-06",
+          "summary": "世嘉新款推币机台游戏《彩色彩色皮酱》在11月6日至7日举行的Amusement Expo 2026展会现场开放试玩。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Krafton在圣保罗设立巴西控股子公司",
+        "url": "https://www.invenglobal.com/",
+        "date": "2026-11-06",
+        "summary": "据报道，Krafton已于10月26日在巴西圣保罗设立全资控股子公司“KRAFTON BRASIL HOLDINGS”，作为其拉美业务布局的一部分。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Krafton在圣保罗设立巴西控股子公司",
+          "url": "https://www.invenglobal.com/",
+          "date": "2026-11-06",
+          "summary": "据报道，Krafton已于10月26日在巴西圣保罗设立全资控股子公司“KRAFTON BRASIL HOLDINGS”，作为其拉美业务布局的一部分。",
+          "section": 3
+        },
+        {
+          "title": "Nexon招募《仙境传说M》线下焦点测试玩家，12月12日举行",
+          "url": "https://www.invenglobal.com/",
+          "date": "2026-11-06",
+          "summary": "Nexon宣布将于12月12日举行《TalesWeaver Mobile（仙境传说M）》线下焦点测试（offline FGT），现已开放玩家报名参与。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "腾讯魔方《异人之下》公布13分钟实机演示，12月开启公测",
+        "url": "https://www.ithome.com/1/023/077.htm",
+        "date": "2026-11-06",
+        "summary": "腾讯魔方工作室群11月4日公开《异人之下》13分钟实机演示，首次完整展示PvE剧情模式“肇始篇”。该作计划于2026年12月在PC、iOS、Android及HarmonyOS全平台正式公测，此前将开启限量付费不删档“终局测试”。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "腾讯魔方《异人之下》公布13分钟实机演示，12月开启公测",
+          "url": "https://www.ithome.com/1/023/077.htm",
+          "date": "2026-11-06",
+          "summary": "腾讯魔方工作室群11月4日公开《异人之下》13分钟实机演示，首次完整展示PvE剧情模式“肇始篇”。该作计划于2026年12月在PC、iOS、Android及HarmonyOS全平台正式公测，此前将开启限量付费不删档“终局测试”。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "腾讯系发行团队谈《战术小队：破晓攻势》：拟引入AI新手辅助教学，称其只是“止痛药”而非根本解法",
+        "url": "https://www.chuapp.com/article/291738.html",
+        "date": "2026-11-05",
+        "summary": "加拿大工作室世外开发、腾讯系团队负责国内研发发行的硬核战术射击游戏《战术小队：破晓攻势》，制作人北子在采访中透露团队计划加入PVE教学关卡及AI新手助手/教练功能帮助新人上手，但强调这只能部分缓解上手难度，游戏核心仍依赖老手带新人的“师徒”机制与硬核团队玩法设计。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "腾讯系发行团队谈《战术小队：破晓攻势》：拟引入AI新手辅助教学，称其只是“止痛药”而非根本解法",
+          "url": "https://www.chuapp.com/article/291738.html",
+          "date": "2026-11-05",
+          "summary": "加拿大工作室世外开发、腾讯系团队负责国内研发发行的硬核战术射击游戏《战术小队：破晓攻势》，制作人北子在采访中透露团队计划加入PVE教学关卡及AI新手助手/教练功能帮助新人上手，但强调这只能部分缓解上手难度，游戏核心仍依赖老手带新人的“师徒”机制与硬核团队玩法设计。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "游戏投资机构DENMU電夢首期基金超募完成，目标5000万美元",
+        "url": "https://www.youxituoluo.com/535035.html",
+        "date": "2026-11-05",
+        "summary": "总部位于旧金山的游戏投资机构DENMU電夢宣布其首期基金DENMU Fund I完成超额募集，认缴总额超过原定5000万美元目标。该机构是索尼互动娱乐“中国之星计划”战略合作方，此前已投资《星痕共鸣》《仙剑奇侠传四：重制版》等中国研发游戏的海外发行。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "游戏投资机构DENMU電夢首期基金超募完成，目标5000万美元",
+          "url": "https://www.youxituoluo.com/535035.html",
+          "date": "2026-11-05",
+          "summary": "总部位于旧金山的游戏投资机构DENMU電夢宣布其首期基金DENMU Fund I完成超额募集，认缴总额超过原定5000万美元目标。该机构是索尼互动娱乐“中国之星计划”战略合作方，此前已投资《星痕共鸣》《仙剑奇侠传四：重制版》等中国研发游戏的海外发行。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Discord欲将Nitro打造为游戏玩家\"必备\"订阅服务",
+        "url": "https://gamesbeat.com/discord-wants-nitro-to-be-the-next-essential-gaming-subscription-exclusive-interview/",
+        "date": "2026-11-05",
+        "summary": "Discord营销总监Nico Maurette表示，公司目标是让Nitro成为游戏玩家的\"必备会员\"；Nitro已内置Xbox Game Pass权益，2026年至今赠送量已超500万份，创历史新高。Discord并于11月3日在沃尔玛、Target等零售商上线Nitro实体礼品卡。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Discord欲将Nitro打造为游戏玩家\"必备\"订阅服务",
+          "url": "https://gamesbeat.com/discord-wants-nitro-to-be-the-next-essential-gaming-subscription-exclusive-interview/",
+          "date": "2026-11-05",
+          "summary": "Discord营销总监Nico Maurette表示，公司目标是让Nitro成为游戏玩家的\"必备会员\"；Nitro已内置Xbox Game Pass权益，2026年至今赠送量已超500万份，创历史新高。Discord并于11月3日在沃尔玛、Target等零售商上线Nitro实体礼品卡。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Nitro报告：浏览器游戏域名数量上半年翻倍，月活跃会话增长77.5%",
+        "url": "https://gamesbeat.com/brown-game-domains-more-than-doubled-as-monthly-player-sessions-grew-77-5-in-1h-nitro-reort/",
+        "date": "2026-11-05",
+        "summary": "据报道，Overwolf旗下浏览器游戏变现平台Nitro发布首份《Web Game广告变现基准报告》，统计2026年1-7月旗下806个发行商域名共41.7亿次会话，浏览器游戏域名数量较上半年翻倍以上，月会话量从1月的1840万增至6月的3260万（+77.5%）；浏览器游戏仅占网络会话量4.1%，却贡献9.7%收益，单次会话收益比网络均值高176%。Nitro同期与AI建站平台Base44联合举办网页游戏创作大赛，奖金6.5万美元。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Nitro报告：浏览器游戏域名数量上半年翻倍，月活跃会话增长77.5%",
+          "url": "https://gamesbeat.com/brown-game-domains-more-than-doubled-as-monthly-player-sessions-grew-77-5-in-1h-nitro-reort/",
+          "date": "2026-11-05",
+          "summary": "据报道，Overwolf旗下浏览器游戏变现平台Nitro发布首份《Web Game广告变现基准报告》，统计2026年1-7月旗下806个发行商域名共41.7亿次会话，浏览器游戏域名数量较上半年翻倍以上，月会话量从1月的1840万增至6月的3260万（+77.5%）；浏览器游戏仅占网络会话量4.1%，却贡献9.7%收益，单次会话收益比网络均值高176%。Nitro同期与AI建站平台Base44联合举办网页游戏创作大赛，奖金6.5万美元。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据报道银湖资本与沙特PIF洽谈以约250亿美元收购Unity",
+        "url": "https://www.pocketgamer.biz/silver-lake-and-pif-explore-25bn-deal-to-acquire-unity/",
+        "date": "2026-11-06",
+        "summary": "据路透社报道（经PocketGamer.biz转载），私募股权公司银湖资本与沙特公共投资基金近几周接触Unity，探讨以约250亿美元估值将其收购，尚未达成协议。银湖目前持有Unity约8%股份，此前已与PIF联合主导550亿美元EA私有化交易（8月完成交割）。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据报道银湖资本与沙特PIF洽谈以约250亿美元收购Unity",
+          "url": "https://www.pocketgamer.biz/silver-lake-and-pif-explore-25bn-deal-to-acquire-unity/",
+          "date": "2026-11-06",
+          "summary": "据路透社报道（经PocketGamer.biz转载），私募股权公司银湖资本与沙特公共投资基金近几周接触Unity，探讨以约250亿美元估值将其收购，尚未达成协议。银湖目前持有Unity约8%股份，此前已与PIF联合主导550亿美元EA私有化交易（8月完成交割）。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Unity公布2026年第三季度财报：自IPO以来首次GAAP盈利",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001810806/000181080626000053/a2026q3ex-991.htm",
+        "date": "2026-11-05",
+        "summary": "Unity公布截至9月30日的2026年第三季度财报：总营收6.221亿美元（同比增32%），GAAP净利润1.22亿美元（净利率20%），为2020年上市以来首个GAAP盈利季度；广告业务Vector产品收入同比增126%、环比增40%。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Unity公布2026年第三季度财报：自IPO以来首次GAAP盈利",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001810806/000181080626000053/a2026q3ex-991.htm",
+          "date": "2026-11-05",
+          "summary": "Unity公布截至9月30日的2026年第三季度财报：总营收6.221亿美元（同比增32%），GAAP净利润1.22亿美元（净利率20%），为2020年上市以来首个GAAP盈利季度；广告业务Vector产品收入同比增126%、环比增40%。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "游戏投资机构DENMU首期基金超额募集完成，募资额超5000万美元目标",
+        "url": "https://gamesbeat.com/denmu-closes-debut-fund-above-50-million-target-to-support-global-game-developers/",
+        "date": "2026-11-05",
+        "summary": "旧金山游戏投资机构DENMU宣布首期基金（Fund I）超额完成募集，认缴金额超过最初5000万美元目标，面向PC、主机与移动游戏开发者提供资金及制作发行支持。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "游戏投资机构DENMU首期基金超额募集完成，募资额超5000万美元目标",
+          "url": "https://gamesbeat.com/denmu-closes-debut-fund-above-50-million-target-to-support-global-game-developers/",
+          "date": "2026-11-05",
+          "summary": "旧金山游戏投资机构DENMU宣布首期基金（Fund I）超额完成募集，认缴金额超过最初5000万美元目标，面向PC、主机与移动游戏开发者提供资金及制作发行支持。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [
+    [
+      {
+        "title": "行业研究：近三分之一被收购游戏工作室最终关闭，2023年以来关闭数量骤增",
+        "url": "https://www.pocketgamer.biz/one-in-three-acquired-game-studios-have-shut-down-new-study-finds/",
+        "date": "2026-11-05",
+        "section": 3,
+        "summary": "前Riot、Crytek及EA员工Sebastian Cardoso通过其Game Studio Unlocked newsletter发布研究，分析2000年以来283家被收购的游戏工作室，发现93家（约三分之一）最终关闭，其中49家在收购后五年内关闭；2019至2022年仅1家关闭，而2023年至2026年10月间骤增至33家。动视暴雪旗下17次收购全部以工作室衰落或关闭告终，任天堂收购的6家工作室则无一关闭。"
+      },
+      {
+        "title": "调研：三分之一被收购游戏工作室自2000年以来已关闭，微软、索尼收购后衰落比例最高",
+        "url": "https://www.pocketgamer.biz/one-in-three-acquired-game-studios-have-shut-down-new-study-finds/",
+        "date": "2026-11-05",
+        "summary": "前Riot/Crytek/EA员工Sebastian Cardoso分析303起游戏工作室收购案例发现，283家被收购工作室中93家（约三分之一）已关闭，60.8%出现产品走弱或关闭；微软旗下工作室衰落/关闭比例63%最高，索尼58%，腾讯50%，任天堂收购的6家工作室无一关闭。",
+        "section": 3
+      }
+    ],
+    [
+      {
+        "title": "《最终幻想14》东京嘉年华公布新资料片“白银的旅者”",
+        "url": "https://www.4gamer.net/",
+        "date": "2026-11-05",
+        "summary": "史克威尔艾尼克斯在东京举行的《最终幻想14》Fan Festival 2026首日活动上公布新资料片“白银のワンダラー”，新增职业“微风”（ゼフィール），预计2027年2月推出。",
+        "section": 3
+      },
+      {
+        "title": "世嘉新机台《彩色彩色皮酱》登台Amusement Expo 2026",
+        "url": "https://www.4gamer.net/",
+        "date": "2026-11-06",
+        "summary": "世嘉新款推币机台游戏《彩色彩色皮酱》在11月6日至7日举行的Amusement Expo 2026展会现场开放试玩。",
+        "section": 3
+      }
+    ],
+    [
+      {
+        "title": "Krafton在圣保罗设立巴西控股子公司",
+        "url": "https://www.invenglobal.com/",
+        "date": "2026-11-06",
+        "summary": "据报道，Krafton已于10月26日在巴西圣保罗设立全资控股子公司“KRAFTON BRASIL HOLDINGS”，作为其拉美业务布局的一部分。",
+        "section": 3
+      },
+      {
+        "title": "Nexon招募《仙境传说M》线下焦点测试玩家，12月12日举行",
+        "url": "https://www.invenglobal.com/",
+        "date": "2026-11-06",
+        "summary": "Nexon宣布将于12月12日举行《TalesWeaver Mobile（仙境传说M）》线下焦点测试（offline FGT），现已开放玩家报名参与。",
+        "section": 3
+      }
+    ]
+  ],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

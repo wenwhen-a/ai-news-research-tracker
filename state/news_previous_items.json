@@ -1,159 +1,5 @@
 [
  {
-  "title": "更新】DLSS 4.5 推广至《使命召唤：现代战争4》《赛博朋克2077》等多款新作，NBA 2K27 迎来提速10倍的新模型",
-  "url": "https://www.nvidia.com/en-us/geforce/news/dlss-4-5-cyberpunk-2077-planet-zoo-2-modern-warfare-4/",
-  "date": "2026-10-21",
-  "section": 1,
-  "posted": "2026-10-22"
- },
- {
-  "title": "B站掀起AI\"复活\"腾讯、网易等公司停运游戏热潮",
-  "url": "https://eu.36kr.com/zh/p/4029739008938372",
-  "date": "2026-10-19",
-  "section": 1,
-  "posted": "2026-10-22"
- },
- {
-  "title": "樱井政博谈AI游戏充斥Steam：真正有创造力的开发者将更加重要",
-  "url": "https://www.videogameschronicle.com/news/masahiro-sakurai-says-as-ai-games-dominate-steam-developers-who-are-truly-creative-will-become-even-more-important/",
-  "date": "2026-10-22",
-  "section": 2,
-  "posted": "2026-10-22"
- },
- {
-  "title": "格斗游戏选手SonicFox因AI生成宣传图退出游戏展会Nexcon 2026",
-  "url": "https://kotaku.com/sonicfox-reminds-everyone-theyre-based-backing-out-of-a-gaming-convention-over-an-ai-generated-promo-2000748466",
-  "date": "2026-10-21",
-  "section": 2,
-  "posted": "2026-10-22"
- },
- {
-  "title": "EA关闭BioWare工作室，取消新《质量效应》项目",
-  "url": "https://www.videogameschronicle.com/news/ea-is-closing-bioware-and-cancelling-the-next-mass-effect/",
-  "date": "2026-10-21",
-  "section": 3,
-  "posted": "2026-10-22"
- },
- {
-  "title": "Capcom确认数据泄露，影响逾1177万个Capcom ID账号",
-  "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/",
-  "date": "2026-10-22",
-  "section": 3,
-  "posted": "2026-10-22"
- },
- {
-  "title": "《金刚狼》成为美国9月最畊销游戏，PS5版销量环比增长43%",
-  "url": "https://www.videogameschronicle.com/news/wolverine-was-uss-best-selling-game-in-september-with-ps5-sales-up-43/",
-  "date": "2026-10-22",
-  "section": 3,
-  "posted": "2026-10-22"
- },
- {
-  "title": "Side收购精品美术工作室Roboto Entertainment，在成都开设新工作室",
-  "url": "https://gamesbeat.com/side-opens-chengdu-studio-after-buying-boutique-art-house-roboto-entertainment/",
-  "date": "2026-10-21",
-  "section": 3,
-  "posted": "2026-10-22"
- },
- {
-  "title": "游戏DTC平台Appcharge任命首位首席运营官，拓展应用经济业务",
-  "url": "https://gamesbeat.com/appcharge-appoints-first-coo-as-gaming-dtc-platform-eyes-broader-app-economy-exclusive/",
-  "date": "2026-10-21",
-  "section": 3,
-  "posted": "2026-10-22"
- },
- {
-  "title": "RayNeo推出《使命召唤：现代战争4》联名限定款智能眼镜",
-  "url": "https://gamesbeat.com/rayneo-unveils-call-of-duty-modern-warfare-4-limited-edition-gaming-glasses/",
-  "date": "2026-10-22",
-  "section": 3,
-  "posted": "2026-10-22"
- },
- {
-  "title": "挪威拟出台社交媒体禁令，Roblox、Snapchat、TikTok在列",
-  "url": "https://pocketgamer.biz/norway-social-media-ban-to-target-roblox-snapchat-and-tiktok/",
-  "date": "2026-10-21",
-  "section": 3,
-  "posted": "2026-10-22"
- },
- {
-  "title": "《堡垒之夜》今日重返澳大利亚App Store",
-  "url": "https://pocketgamer.biz/fortnite-returns-to-the-app-store-in-australia-today/",
-  "date": "2026-10-22",
-  "section": 3,
-  "posted": "2026-10-22"
- },
- {
-  "title": "Nebula Studios《Rotate Rings》手游下载量突破1000万",
-  "url": "https://pocketgamer.biz/nebula-studios-rotate-rings-surpasses-10m-mobile-installs/",
-  "date": "2026-10-21",
-  "section": 3,
-  "posted": "2026-10-22"
- },
- {
-  "title": "Xbox裁员比例预计达约20%，幸存员工返岗要求收紧",
-  "url": "https://kotaku.com/xbox-employees-who-survive-upcoming-layoffs-will-be-rewarded-with-more-mandatory-time-in-the-office-if-they-live-within-50-miles-2000748473",
-  "date": "2026-10-21",
-  "section": 3,
-  "posted": "2026-10-22"
- },
- {
-  "title": "任天堂Switch 2首次被破解（Jailbreak）",
-  "url": "https://kotaku.com/nintendo-switch-2-jailbreak-hack-exploit-piracy-homebrew-emulation-modding-2000748784",
-  "date": "2026-10-22",
-  "section": 3,
-  "posted": "2026-10-22"
- },
- {
-  "title": "一个严重的PS5漏洞可能已被悄然修补",
-  "url": "https://kotaku.com/a-ps5-exploit-so-bad-the-hacker-who-discovered-it-was-too-afraid-to-release-it-may-have-just-been-patched-2000748354",
-  "date": "2026-10-21",
-  "section": 3,
-  "posted": "2026-10-22"
- },
- {
-  "title": "微软为Xbox Insider会员开放\"云端试玩\"（Cloud Playtime）功能测试",
-  "url": "https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/",
-  "date": "2026-10-21",
-  "section": 3,
-  "posted": "2026-10-22"
- },
- {
-  "title": "《幻刀百兵：零》公布发售预告片，PS5实体版将于2027年推出",
-  "url": "https://www.gematsu.com/2026/10/phantom-blade-zero-launch-trailer-ps5-physical-editions-launch-in-2027",
-  "date": "2026-10-21",
-  "section": 3,
-  "posted": "2026-10-22"
- },
- {
-  "title": "PHP严重漏洞冲击日本游戏行业，多款游戏因\"无法修复\"而停服",
-  "url": "https://www.invenglobal.com/articles/27562/shutting-down-because-we-cant-fix-it-critical-php-vulnerability-sparks-aftershocks-in-japanese-game-industry",
-  "date": "2026-10-22",
-  "section": 3,
-  "posted": "2026-10-22"
- },
- {
-  "title": "Epic Seven世界冠军赛（E7WC）2026淘汰赛将于10月24日开打",
-  "url": "https://www.invenglobal.com/articles/27557/epic-seven-e7wc-2026-knockout-stage-kicks-off-on-october-24",
-  "date": "2026-10-21",
-  "section": 3,
-  "posted": "2026-10-22"
- },
- {
-  "title": "裁员潮冲击游戏行业，独立游戏作曲人面临生计压力",
-  "url": "https://www.chuapp.com/article/291705.html",
-  "date": "2026-10-21",
-  "section": 3,
-  "posted": "2026-10-22"
- },
- {
-  "title": "协作恐怖钓鱼游戏《GONE Fishing》正式发售，支持最多8人联机",
-  "url": "https://www.4gamer.net/games/908/G090881/20261021032/",
-  "date": "2026-10-21",
-  "section": 3,
-  "posted": "2026-10-22"
- },
- {
   "title": "宫本茂谈AI与创作:不知AI能否取代创造力,但这是重新思考'创作'本质的机会",
   "url": "https://kotaku.com/shigeru-miyamoto-doesnt-know-if-ai-can-take-over-creativity-but-it-could-become-an-opportunity-to-define-what-it-means-to-create-2000749074",
   "date": "2026-10-23",
@@ -1818,5 +1664,180 @@
   "date": "2026-11-05",
   "section": 3,
   "posted": "2026-11-05"
+ },
+ {
+  "title": "更新】NVIDIA DLSS 5「3D 引导神经渲染」正式登陆《霍格沃茨之遗》，《战争雷霆》《燕云十六声》11 月跟进",
+  "url": "https://www.nvidia.com/en-us/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/",
+  "date": "2026-11-05",
+  "section": 1,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "深度｜AI 冲击下的游戏策划：权威被削弱，35 岁或成新\"职业天花板\"",
+  "url": "https://www.chuapp.com/article/291741.html",
+  "date": "2026-11-06",
+  "section": 1,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "游族网络 42.25 亿元采购 GPU，开放全员 AI 创业赛道、首年利润全归团队",
+  "url": "https://www.youxituoluo.com/535030.html",
+  "date": "2026-11-03",
+  "section": 1,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "PocketGamer 调查：多位手游从业者谈 AI 使用现状，团队产能提升但也因 AI 错误代码\"返工\"数周",
+  "url": "https://www.pocketgamer.biz/is-the-games-industry-becoming-more-optimistic-about-ai-mobile-mavens-part-1/",
+  "date": "2026-11-05",
+  "section": 2,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "小岛秀夫谈 AI 与游戏创作：效率提升背后，可能剥夺最有价值的试错过程",
+  "url": "https://www.ithome.com/1/023/333.htm",
+  "date": "2026-11-06",
+  "section": 2,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "更新】实测 Kimi 游戏开发能力：策划一句话做游戏，但角色建模仍\"翻车\"",
+  "url": "https://www.youxituoluo.com/535022.html",
+  "date": "2026-11-03",
+  "section": 2,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "腾讯系发行团队谈《战术小队：破晓攻势》：拟引入 AI 新手辅助教学，称其只是\"止痛药\"而非根本解法",
+  "url": "https://www.chuapp.com/article/291738.html",
+  "date": "2026-11-05",
+  "section": 2,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "索尼取消《瑞奇与叮当：先锋乱斗》免费多人手游",
+  "url": "https://www.videogameschronicle.com/news/sonys-free-to-play-mobile-ratchet-clank-multiplayer-shooter-has-been-cancelled/",
+  "date": "2026-11-06",
+  "section": 3,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "微软更新 Xbox PC 客户端：启动速度最高提升 60%，界面与搜索全面改版",
+  "url": "https://news.xbox.com/en-us/2026/11/05/a-faster-simpler-xbox-experience-is-coming-to-pc-web-and-cloud/",
+  "date": "2026-11-05",
+  "section": 3,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "行业研究：近三分之一被收购游戏工作室最终关闭，2023 年以来关闭数量骤增",
+  "url": "https://www.pocketgamer.biz/one-in-three-acquired-game-studios-have-shut-down-new-study-finds/",
+  "date": "2026-11-05",
+  "section": 3,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "SAG-AFTRA 推出\"预融资试镜\"新协议，允许开发者在立项前聘用工会演员拍摄演示",
+  "url": "https://www.videogameschronicle.com/news/union-actors-could-appear-in-early-game-demos-under-new-sag-aftra-plan/",
+  "date": "2026-11-05",
+  "section": 3,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "BioWare 最后岁月将拍成纪录片《Massive Effect: The BioWare Story》",
+  "url": "https://www.videogameschronicle.com/news/biowares-final-days-to-feature-in-upcoming-documentary/",
+  "date": "2026-11-05",
+  "section": 3,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "《007：首次曝光》开场任务免费试玩，随 PS5 入门套装于 11 月 10 日推出",
+  "url": "https://www.pushsquare.com/news/2026/11/007-first-lights-first-mission-is-free-in-new-ps5-starter-pack",
+  "date": "2026-11-05",
+  "section": 3,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "索尼上调本财年盈利预期，称内存库存可满足主机需求至 2028 年 3 月",
+  "url": "https://www.pushsquare.com/news/2026/11/aggressive-investment-in-entertainment-is-paying-off-sony-lifts-profit-outlook-after-strong-quarter",
+  "date": "2026-11-05",
+  "section": 3,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "《尼尔：机械纪元》强制更新意外导致安装容量暴增至 366GB",
+  "url": "https://kotaku.com/nier-automata-update-366gb-pc-steam-square-enix-platinum-2000753967",
+  "date": "2026-11-06",
+  "section": 3,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "加拿大玩家\"拯救 BioWare\"请愿联署突破 2300 人，将被提交至国会议程",
+  "url": "https://www.pushsquare.com/news/2026/11/petition-to-save-mass-effect-dev-bioware-to-be-considered-by-canadas-government",
+  "date": "2026-11-06",
+  "section": 3,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "字节跳动出售沐瞳科技获中国市场监管总局无条件批准，交易超 60 亿美元",
+  "url": "https://www.ithome.com/1/023/550.htm",
+  "date": "2026-11-06",
+  "section": 3,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "更新】腾讯回应《胜利女神：NIKKE》黑客事件：未发现波及其他游戏迹象",
+  "url": "https://www.invenglobal.com/articles/28258/tencent-says-nikke-hack-does-not-apply-to-other-games",
+  "date": "2026-11-06",
+  "section": 3,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "米哈游新作《崩坏：因缘精灵》公测定档 2027 年春季，11 月 25 日开启限量付费测试",
+  "url": "https://www.4gamer.net/games/940/G094046/20261105016/",
+  "date": "2026-11-05",
+  "section": 3,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "腾讯魔方《异人之下》公布 13 分钟实机演示，12 月开启公测",
+  "url": "https://www.ithome.com/1/023/077.htm",
+  "date": "2026-11-06",
+  "section": 3,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "Discord 欲将 Nitro 打造为游戏玩家\"必备\"订阅服务",
+  "url": "https://gamesbeat.com/discord-wants-nitro-to-be-the-next-essential-gaming-subscription-exclusive-interview/",
+  "date": "2026-11-05",
+  "section": 3,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "Nitro 报告：浏览器游戏域名数量上半年翻倍，月活跃会话增长 77.5%",
+  "url": "https://gamesbeat.com/brown-game-domains-more-than-doubled-as-monthly-player-sessions-grew-77-5-in-1h-nitro-reort/",
+  "date": "2026-11-05",
+  "section": 3,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "据报道银湖资本与沙特 PIF 洽谈以约 250 亿美元收购 Unity",
+  "url": "https://www.pocketgamer.biz/silver-lake-and-pif-explore-25bn-deal-to-acquire-unity/",
+  "date": "2026-11-06",
+  "section": 3,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "Unity 公布 2026 年第三季度财报：自 IPO 以来首次 GAAP 盈利",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001810806/000181080626000053/a2026q3ex-991.htm",
+  "date": "2026-11-05",
+  "section": 3,
+  "posted": "2026-11-06"
+ },
+ {
+  "title": "游戏投资机构 DENMU 首期基金超额募集完成，募资额超 5000 万美元目标",
+  "url": "https://gamesbeat.com/denmu-closes-debut-fund-above-50-million-target-to-support-global-game-developers/",
+  "date": "2026-11-05",
+  "section": 3,
+  "posted": "2026-11-06"
  }
 ]
