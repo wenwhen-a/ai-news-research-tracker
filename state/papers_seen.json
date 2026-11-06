@@ -22889,5 +22889,209 @@
   "first_seen": "2026-11-05",
   "submitted": "2026-11-02",
   "title": "CAST-Bench: Tracing Every Sound to Its Source in Multi-Shot Audio-Video Generation"
+ },
+ "2611.08477": {
+  "status": "qualified",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
+  "affiliation": "Ant Group (Ant Digital Technologies) — among Yanlin Jin / Bowen Yang / Cheng Zhang / Yifan Yang (other affiliations: Monash University, Institute of Automation, Chinese Academy of Sciences); **FLAG: borderline** — Ant Group is a separate entity from Alibaba Group and is treated here as a comparable top-tier industry lab per the tracker's borderline rule, not as \"Alibaba\" itself",
+  "url": "https://arxiv.org/abs/2611.08477",
+  "summary": "EgoGeneralist adapts pretrained video generators to jointly handle action-conditioned egocentric video generation, 3D hand/body pose estimation, and joint action-video generation, using a \"role-adaptive action renderer\" that represents metric 3D motion as both a controllable signal and a recoverable"
+ },
+ "2611.08407": {
+  "status": "near-miss",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "Social Humanoid: Socially Responsive Human-Humanoid Interaction"
+ },
+ "2611.08392": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "Learning a patient world model for health system simulation in intensive care"
+ },
+ "2611.08372": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation"
+ },
+ "2611.08338": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "GPWM: Modeling the World as 3D Particle Motion"
+ },
+ "2611.08301": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "REACT: Towards Real-Time Completion of Skeletal Motion Signals"
+ },
+ "2611.08294": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "ManimCode: Learning Visual Self-Correction for Educational Animation"
+ },
+ "2611.08288": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "Hierarchical Incremental Beta Splatting for Online Reconstruction"
+ },
+ "2611.08156": {
+  "status": "near-miss",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "La-JEPA: Compact Robot Policies with Latent World Modeling"
+ },
+ "2611.08128": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "FreeOcc: Decoupling Ego-Motion for Efficient 4D Occupancy Forecasting via Continuous Flow Matching"
+ },
+ "2611.07979": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "Perception Over Geometry: Rethinking Gaussian Allocation in Mesh-based Splatting"
+ },
+ "2611.07961": {
+  "status": "qualified",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "Bri3D: Bridging the Object-Scene Gap in Single-Image 3D Generation via Scene-Anchor",
+  "affiliation": "Alibaba — one of Hongye Hou / Shuai Zhang / Hongjie Li at Taobao & Tmall Group of Alibaba (the paper lists Hong Kong University of Science and Technology (Guangzhou), Taobao & Tmall Group of Alibaba, and Hong Kong University of Science and Technology as the three affiliations but the author-to-affiliation mapping was lost in page extraction)",
+  "url": "https://arxiv.org/abs/2611.07961",
+  "summary": "Bri3D generates compositional 3D scenes from a single image by first predicting a color-coded scene scaffold of coarse object geometry and layout, extracting each object as a voxel \"scene anchor,\" refining it into a pose-preserving support, and then using a frozen object generator to synthesize deta"
+ },
+ "2611.07955": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "Rotation Is Token-Blind: A Structural Criterion for Post-Training Quantization of Feed-Forward Geometry Transformers"
+ },
+ "2611.07939": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "WAM-Sim0.1: World Anchored Memory Meets Online RL for Consistent and Realistic Driving Simulation"
+ },
+ "2611.07912": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "GuidedWAM: Training-Free Energy Guidance for World Action Models in Autonomous Driving"
+ },
+ "2611.07909": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure"
+ },
+ "2611.07902": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "XM4D: 4D Reconstruction through Certifiable Geometric Optimization"
+ },
+ "2611.07873": {
+  "status": "near-miss",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation"
+ },
+ "2611.07867": {
+  "status": "qualified",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "PlayGen2: Learning Real-Time Playable Worlds with Explicit 3D State",
+  "affiliation": "Tencent — Junyou Li, Deheng Ye (Jihai Zhang's internship was at Tencent; other authors: Chinese University of Hong Kong, Wellington College, Nanyang Technological University)",
+  "url": "https://arxiv.org/abs/2611.07867",
+  "summary": "PlayGen2 is a real-time interactive world model that separates learned 3D state evolution from neural rendering, keeping a persistent world memory (a volumetric occupancy grid for static geometry plus identity-indexed 3D states for the player and other entities) and a separate neural renderer that t"
+ },
+ "2611.07850": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "Learning Robotic World Models with Semantic and Visual Feedback"
+ },
+ "2611.07730": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "Seeing Beyond the Next Step: World-Model-Guided Human-Like Navigation in Multi-Agent Scenes"
+ },
+ "2611.07709": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "AffineGS: Unlocking Accurate Geometry in 3DGS via Spatially Varying Affine Rectification"
+ },
+ "2611.07575": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "Georeferenced Cross-View 3D Reconstruction from Ground and Satellite Images"
+ },
+ "2611.07551": {
+  "status": "near-miss",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "Training-Free Predictive Spatio-Temporal Token Pruning for Few-Step Autoregressive Video Diffusion"
+ },
+ "2611.07437": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "IMUDINO: Self-distilled Foundation Model for Inertial Sensing"
+ },
+ "2611.07301": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "ArtiVidRM: Verifiable Artifact-as-Rubric Reward Modeling for Explicit Quality Articulation in Video Generation"
+ },
+ "2611.07294": {
+  "status": "qualified",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-05",
+  "title": "Householder Motion Embedding: Noise Modulation for Motion-Controllable Video Generation",
+  "affiliation": "Amazon — Hongdong Li (Amazon Scholar, part-time; his full-time appointment is at the Australian National University); other authors are at ANU and Vertex Lab Technology Limited. **FLAG: borderline** — the Amazon affiliation is a part-time \"Amazon Scholar\" appointment, not the author's primary institution.",
+  "url": "https://arxiv.org/abs/2611.07294",
+  "summary": "The paper proposes Householder Motion Embedding (HME), a training-free way to encode motion control into the initial noise of a video diffusion model using a sequence of Householder reflections that form an orthogonal transform on each spatial location's channel vector."
+ },
+ "2611.07245": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-04",
+  "title": "MAC-v2: Long-horizon model-based value expansion from pixels"
+ },
+ "2611.07176": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-04",
+  "title": "VINO: Revisiting 3D Representation Learning with Volume Transformers"
+ },
+ "2611.07081": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-04",
+  "title": "Wide View Synthesis from Overlapping Perspective Cameras in Autonomous Driving"
+ },
+ "2611.06974": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-11-04",
+  "title": "T$^2$-Splat: Adaptive Topology Mesh Splatting with Texture Residuals"
+ },
+ "2610.31429": {
+  "status": "screened-out",
+  "first_seen": "2026-11-06",
+  "submitted": "2026-10-22",
+  "title": "PhysTrace: Interpretable Temporal Evaluation of Physical Consistency in Video Generative Models"
  }
 }
