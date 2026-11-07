@@ -1,194 +1,5 @@
 [
  {
-  "title": "宫本茂谈AI与创作:不知AI能否取代创造力,但这是重新思考'创作'本质的机会",
-  "url": "https://kotaku.com/shigeru-miyamoto-doesnt-know-if-ai-can-take-over-creativity-but-it-could-become-an-opportunity-to-define-what-it-means-to-create-2000749074",
-  "date": "2026-10-23",
-  "section": 1,
-  "posted": "2026-10-23"
- },
- {
-  "title": "Konami社长:生成式AI不会大幅降低游戏开发门槛,人与创作者仍是关键",
-  "url": "https://www.videogameschronicle.com/news/konami-boss-says-ai-cant-replace-the-human-chemistry-behind-great-games/",
-  "date": "2026-10-18",
-  "section": 1,
-  "posted": "2026-10-23"
- },
- {
-  "title": "AI辅助'克隆抄袭'风潮冲击独立游戏圈,多工作室取消公开试玩",
-  "url": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning（背景补充来源：https://kotaku.com/devs-behind-needle-in-a-haystack-clone-complain-their-clone-has-been-cloned-by-vibe-coder-2000747284",
-  "date": "2026-10-19",
-  "section": 1,
-  "posted": "2026-10-23"
- },
- {
-  "title": "悟空声优野沢雅子谴责AI盗用声音'如同偷窃',日本声优工会公布AI使用准则草案",
-  "url": "https://kotaku.com/voice-of-goku-responds-to-ai-stealing-her-voice-i-cant-forgive-them-it-makes-me-really-angry-its-no-different-than-theft-2000747356",
-  "date": "2026-10-19",
-  "section": 1,
-  "posted": "2026-10-23"
- },
- {
-  "title": "Wonder Interactive发布Strata:让AI编程代理把Unreal Engine游戏一键搬上浏览器",
-  "url": "https://gamesbeat.com/wonder-interactives-strata-uses-ai-to-take-unreal-engine-games-to-browsers-using-webassembly-and-webgpu/",
-  "date": "2026-10-22",
-  "section": 1,
-  "posted": "2026-10-23"
- },
- {
-  "title": "Take-Two前AI负责人：警惕AI炒作，应聚焦真正创造新可能的场景",
-  "url": "https://pocketgamer.biz/pgc-nordics-2026-live-ops-d2c-ai-ip-talks/",
-  "date": "2026-10-21",
-  "section": 2,
-  "posted": "2026-10-23"
- },
- {
-  "title": "AI应用泛滥致苹果App Store审核时间明显拖慢",
-  "url": "https://mobilegamer.biz/app-store-review-times-are-being-dragged-down-by-a-flood-of-ai-made-apps-and-games/",
-  "date": "2026-10-20",
-  "section": 2,
-  "posted": "2026-10-23"
- },
- {
-  "title": "米哈游团队联合高校开源游戏操控大模型GameScaling",
-  "url": "https://technode.com/2026/10/23/mihoyo-team-open-sources-gamescaling-models/",
-  "date": "2026-10-23",
-  "section": 2,
-  "posted": "2026-10-23"
- },
- {
-  "title": "库洛首次公开投资AI公司，腾讯半月内在土耳其投入近6000万美元",
-  "url": "https://www.youxituoluo.com/534971.html",
-  "date": "2026-10-19",
-  "section": 2,
-  "posted": "2026-10-23"
- },
- {
-  "title": "深圳职业技术大学成立“AI+游戏”人才培养工坊",
-  "url": "https://www.youxituoluo.com/534988.html",
-  "date": "2026-10-21",
-  "section": 2,
-  "posted": "2026-10-23"
- },
- {
-  "title": "前Sony Online高管团队推出AI驱动卡牌游戏Valesong，Discord率先上线",
-  "url": "https://gamesbeat.com/distinct-possibility-studios-comes-back-with-valesong-4-player-online-card-game-for-discord-activities/",
-  "date": "2026-10-23",
-  "section": 2,
-  "posted": "2026-10-23"
- },
- {
-  "title": "AMD新驱动将AI超分技术FSR 4.1扩展至更多GPU及APU",
-  "url": "https://www.4gamer.net/games/022/G002212/20261022035/",
-  "date": "2026-10-22",
-  "section": 2,
-  "posted": "2026-10-23"
- },
- {
-  "title": "宝可梦卷入AI反编译热潮，大量AI辅助移植作品涌现",
-  "url": "https://kotaku.com/of-course-pokemons-been-pulled-into-the-ai-decompilation-frenzy-2000748316",
-  "date": "2026-10-21",
-  "section": 2,
-  "posted": "2026-10-23"
- },
- {
-  "title": "Unity官方数据：AI编程代理已占其命令行工具98%的使用量",
-  "url": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
-  "date": "2026-10-22",
-  "section": 2,
-  "posted": "2026-10-23"
- },
- {
-  "title": "破产工作室Liquid Swords创始人筹备新工作室，拟谨慎使用AI辅助开发",
-  "url": "https://www.pcgamer.com/gaming-industry/founder-of-bankrupt-samson-studio-mulls-how-to-use-ai-for-his-next-attempt-cutting-corners-in-game-development-has-a-habit-of-coming-back-to-bite-you-in-the-ass/",
-  "date": "2026-10-21",
-  "section": 2,
-  "posted": "2026-10-23"
- },
- {
-  "title": "AMD与微软宣布FSR 4.1超分辨率技术将登陆Xbox Series X|S及ROG Xbox Ally掌机",
-  "url": "https://www.videogameschronicle.com/news/xbox-series-x-s-and-xbox-rog-ally-x-are-getting-amd-fsr-4-1-upscaling-to-improve-performance/",
-  "date": "2026-10-21",
-  "section": 2,
-  "posted": "2026-10-23"
- },
- {
-  "title": "据报道Arkane Studios须在11月13日前找到买家，否则面临关闭",
-  "url": "https://www.gematsu.com/2026/10/report-arkane-studios-has-until-november-13-to-find-a-buyer",
-  "date": "2026-10-23",
-  "section": 3,
-  "posted": "2026-10-23"
- },
- {
-  "title": "《原神》7.2版本「浮焰之刻」定档11月4日上线",
-  "url": "https://www.gematsu.com/2026/10/genshin-impact-version-version-7-2-update-hour-of-ruin-launches-november-4",
-  "date": "2026-10-23",
-  "section": 3,
-  "posted": "2026-10-23"
- },
- {
-  "title": "《萤火之森SaGa2:复仇者七人》实体与数字销量合计突破100万份",
-  "url": "https://www.gematsu.com/2026/10/romancing-saga-2-revenge-of-the-seven-shipments-and-digital-sales-top-one-million",
-  "date": "2026-10-23",
-  "section": 3,
-  "posted": "2026-10-23"
- },
- {
-  "title": "Stillfront任命King前高管Marcus Jacobs为新任CEO",
-  "url": "https://www.pocketgamer.biz/stillfront-names-former-king-executive-marcus-jacobs-as-ceo/",
-  "date": "2026-10-23",
-  "section": 3,
-  "posted": "2026-10-23"
- },
- {
-  "title": "雅达利宣布停止支持2021年发布的VCS主机，将推出Homebrew应用供玩家自制游戏",
-  "url": "https://www.videogameschronicle.com/news/atari-is-ending-support-for-its-2021-vcs-console-will-release-a-homebrew-app-to-let-players-keep-making-and-adding-games/",
-  "date": "2026-10-22",
-  "section": 3,
-  "posted": "2026-10-23"
- },
- {
-  "title": "剧情手游《Dispatch》玩家数突破500万，开发商AdHoc宣布拓展移动端业务",
-  "url": "https://gamesbeat.com/dispatch-surpasses-5-million-players-as-adhoc-announces-mobile-expansion/",
-  "date": "2026-10-22",
-  "section": 3,
-  "posted": "2026-10-23"
- },
- {
-  "title": "Circana数据：《漫威金刚狼》登顶美国9月销量榜，带动PS5销量增长",
-  "url": "https://gamesbeat.com/marvels-wolverine-tops-september-sales-drives-ps5-numbers-up-circana/",
-  "date": "2026-10-22",
-  "section": 3,
-  "posted": "2026-10-23"
- },
- {
-  "title": "《GTA6》临近发售，广告商正加紧制定借势营销方案",
-  "url": "https://gamesbeat.com/as-gta-vi-approaches-advertisers-are-building-a-playbook-to-capitalize-on-the-hype/",
-  "date": "2026-10-23",
-  "section": 3,
-  "posted": "2026-10-23"
- },
- {
-  "title": "Supercell确认遭遇网络攻击，内部会议录像平台数据被非法访问，称玩家数据未受影响",
-  "url": "https://mobilegamer.biz/supercell-hit-by-cyberattack-but-says-no-player-data-was-affected/",
-  "date": "2026-10-22",
-  "section": 3,
-  "posted": "2026-10-23"
- },
- {
-  "title": "VR先驱Owlchemy Labs转向XR领域开发新作",
-  "url": "https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release",
-  "date": "2026-10-22",
-  "section": 3,
-  "posted": "2026-10-23"
- },
- {
-  "title": "《率土之滨》开服十一周年：日活创近11年新高，畅销榜升至第2",
-  "url": "https://www.chuapp.com/article/291708.html",
-  "date": "2026-10-23",
-  "section": 3,
-  "posted": "2026-10-23"
- },
- {
   "title": "伽马数据报告:中国头部游戏公司今年上半年投资AI企业数量已超去年全年",
   "url": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhse2407587.shtml",
   "date": "2026-10-24",
@@ -1839,5 +1650,103 @@
   "date": "2026-11-05",
   "section": 3,
   "posted": "2026-11-06"
+ },
+ {
+  "title": "Reddit用户借助Claude AI将《塞尔达》等Switch游戏原生移植至Apple TV",
+  "url": "https://www.engadget.com/2306727/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/",
+  "date": "2026-11-04",
+  "section": 2,
+  "posted": "2026-11-07"
+ },
+ {
+  "title": "触乐：小红书AI\"小工具\"功能持续扩张，兴趣类迷你游戏成创作热门方向",
+  "url": "https://www.chuapp.com/article/291731.html",
+  "date": "2026-11-03",
+  "section": 2,
+  "posted": "2026-11-07"
+ },
+ {
+  "title": "Supercell为《荒野乱斗》推出GTA6主题\"罪恶都市\"赛季",
+  "url": "https://www.pocketgamer.biz/supercell-launches-gta-vi-inspired-brawl-vice-season-for-brawl-stars/",
+  "date": "2026-11-06",
+  "section": 3,
+  "posted": "2026-11-07"
+ },
+ {
+  "title": "Kabam联手华纳推出集合九大动画IP的放置手游《WB All-Star Mayhem》",
+  "url": "https://www.pocketgamer.biz/kabam-reveals-mobile-rpg-bringing-together-nine-warner-bros-animated-franchises/",
+  "date": "2026-11-06",
+  "section": 3,
+  "posted": "2026-11-07"
+ },
+ {
+  "title": "游戏陀螺：微信小游戏大盘碾压抖音，多款抖音老游戏月活暴跌超80%",
+  "url": "https://www.youxituoluo.com/535032.html",
+  "date": "2026-11-06",
+  "section": 3,
+  "posted": "2026-11-07"
+ },
+ {
+  "title": "Newzoo调查：核心玩家主机付费游戏库中实体版占比约三成",
+  "url": "https://www.ithome.com/1/023/762.htm",
+  "date": "2026-11-07",
+  "section": 3,
+  "posted": "2026-11-07"
+ },
+ {
+  "title": "《魔兽世界：无限》开服，国服同时在线人数创历史新高",
+  "url": "https://www.ithome.com/1/023/745.htm",
+  "date": "2026-11-07",
+  "section": 3,
+  "posted": "2026-11-07"
+ },
+ {
+  "title": "T1以3:1淘汰KC晋级《英雄联盟》S16四强，将战BLG",
+  "url": "https://www.ithome.com/1/023/642.htm",
+  "date": "2026-11-07",
+  "section": 3,
+  "posted": "2026-11-07"
+ },
+ {
+  "title": "GOG宣布明年推出Linux原生客户端，Steam Deck用户受益",
+  "url": "https://www.ithome.com/1/023/547.htm",
+  "date": "2026-11-06",
+  "section": 3,
+  "posted": "2026-11-07"
+ },
+ {
+  "title": "库洛游戏法务部通报侵权线索处理进展，已对多名用户启动法律追责",
+  "url": "https://www.ithome.com/1/023/500.htm",
+  "date": "2026-11-06",
+  "section": 3,
+  "posted": "2026-11-07"
+ },
+ {
+  "title": "《漫威银河护卫队》登陆Switch 2，支持鼠标与陀螺仪操作",
+  "url": "https://www.ithome.com/1/023/540.htm",
+  "date": "2026-11-06",
+  "section": 3,
+  "posted": "2026-11-07"
+ },
+ {
+  "title": "《刺客信条：英灵殿》推出1.8.0大更新，加入\"新游戏+\"并支持PSSR 2",
+  "url": "https://www.ithome.com/1/023/524.htm",
+  "date": "2026-11-06",
+  "section": 3,
+  "posted": "2026-11-07"
+ },
+ {
+  "title": "《鸣潮》3.8版本预告：PS5 Pro将支持PSSR，PC端新增资源分类下载功能",
+  "url": "https://www.ithome.com/1/023/563.htm",
+  "date": "2026-11-06",
+  "section": 3,
+  "posted": "2026-11-07"
+ },
+ {
+  "title": "R星谈《GTA6》开放世界设计：弱化地图图标引导，鼓励玩家自然探索",
+  "url": "https://www.ithome.com/1/023/598.htm",
+  "date": "2026-11-06",
+  "section": 3,
+  "posted": "2026-11-07"
  }
 ]

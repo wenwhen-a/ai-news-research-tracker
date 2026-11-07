@@ -714,5 +714,21 @@
   "first_seen": "2026-11-05",
   "release_date": "2026-11-04",
   "summary": "Roblox expanded its Studio MCP server (for external AI-agent clients like Claude Code) with Open Cloud API access and an asset-import workflow for Blender/Maya models."
+ },
+ "https://forums.unrealengine.com/t/fortnite-ecosystem-v43-00/2848257": {
+  "name": "Fortnite / UEFN v43.00 — Procedural Content Generation, IK Retargeter, Gaussian-splat import",
+  "company": "Epic Games",
+  "tier": "GA",
+  "first_seen": "2026-11-07",
+  "release_date": "2026-11-01",
+  "summary": "Epic shipped Fortnite Ecosystem v43.00, adding Procedural Content Generation (PCG) to UEFN for automated large-world asset placement, an IK Retargeter that lets creators reuse existing animations on custom characters, and Sequencer improvements for camera setup, character animation and cutscene editing."
+ },
+ "https://devforum.roblox.com/t/studio-beta-generate-r15-animations-from-a-prompt-plus-optional-r6-motion-rebuilder/4977709": {
+  "name": "Roblox Studio — Generate R15 Animations From a Prompt (Prompt to Animation + R6 Motion Rebuilder)",
+  "company": "Roblox",
+  "tier": "Public beta/preview (Studio Beta)",
+  "first_seen": "2026-11-07",
+  "release_date": "2026-11-05",
+  "summary": "Roblox shipped a Studio Beta feature that generates an R15 animation clip from a written description of a movement, plus an optional Motion Rebuilder that converts an existing R6 animation into an R15 version."
  }
 }

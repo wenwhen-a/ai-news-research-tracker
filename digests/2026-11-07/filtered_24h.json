@@ -1,0 +1,272 @@
+{
+  "as_of": "2026-11-07",
+  "cutoff": "2026-11-06",
+  "window_days": 1,
+  "summary": {
+    "input_items": 12,
+    "denied_source": 0,
+    "in_window": 12,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 12,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 12,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 12,
+    "previously_covered_count": 0
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Supercell为《荒野乱斗》推出GTA6主题“罪恶都市”赛季",
+        "url": "https://www.pocketgamer.biz/supercell-launches-gta-vi-inspired-brawl-vice-season-for-brawl-stars/",
+        "date": "2026-11-06",
+        "section": 3,
+        "summary": "Supercell为《荒野乱斗》(Brawl Stars)推出以《GTA6》罪恶都市为主题的“Brawl Vice”赛季，新增雷霆蛙等角色并大幅调整排位赛段位要求。"
+      },
+      "members": [
+        {
+          "title": "Supercell为《荒野乱斗》推出GTA6主题“罪恶都市”赛季",
+          "url": "https://www.pocketgamer.biz/supercell-launches-gta-vi-inspired-brawl-vice-season-for-brawl-stars/",
+          "date": "2026-11-06",
+          "section": 3,
+          "summary": "Supercell为《荒野乱斗》(Brawl Stars)推出以《GTA6》罪恶都市为主题的“Brawl Vice”赛季，新增雷霆蛙等角色并大幅调整排位赛段位要求。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Kabam联手华纳推出集合九大动画IP的放置手游《WB All-Star Mayhem》",
+        "url": "https://www.pocketgamer.biz/kabam-reveals-mobile-rpg-bringing-together-nine-warner-bros-animated-franchises/",
+        "date": "2026-11-06",
+        "section": 3,
+        "summary": "Kabam与华纳兄弟互动娱乐合作推出放置类手游《WB All-Star Mayhem》，集合《正义联盟》《乐一通》等九部华纳动画IP超百名角色，本月起在部分地区限量测试。"
+      },
+      "members": [
+        {
+          "title": "Kabam联手华纳推出集合九大动画IP的放置手游《WB All-Star Mayhem》",
+          "url": "https://www.pocketgamer.biz/kabam-reveals-mobile-rpg-bringing-together-nine-warner-bros-animated-franchises/",
+          "date": "2026-11-06",
+          "section": 3,
+          "summary": "Kabam与华纳兄弟互动娱乐合作推出放置类手游《WB All-Star Mayhem》，集合《正义联盟》《乐一通》等九部华纳动画IP超百名角色，本月起在部分地区限量测试。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "游戏陀螺：微信小游戏大盘碾压抖音，多款抖音老游戏月活暴跌超80%",
+        "url": "https://www.youxituoluo.com/535032.html",
+        "date": "2026-11-06",
+        "section": 3,
+        "summary": "据游戏陀螺援引QuestMobile最新报告，微信小游戏Top10门槛及体量远超抖音小游戏，多款抖音老牌小游戏月活同比暴跌超80%，微信小游戏仍是小游戏行业主阵地。"
+      },
+      "members": [
+        {
+          "title": "游戏陀螺：微信小游戏大盘碾压抖音，多款抖音老游戏月活暴跌超80%",
+          "url": "https://www.youxituoluo.com/535032.html",
+          "date": "2026-11-06",
+          "section": 3,
+          "summary": "据游戏陀螺援引QuestMobile最新报告，微信小游戏Top10门槛及体量远超抖音小游戏，多款抖音老牌小游戏月活同比暴跌超80%，微信小游戏仍是小游戏行业主阵地。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Newzoo调查：核心玩家主机付费游戏库中实体版占比约三成",
+        "url": "https://www.ithome.com/1/023/762.htm",
+        "date": "2026-11-07",
+        "section": 3,
+        "summary": "据Newzoo与G2A联合调查，核心玩家购买的主机付费游戏中实体版约占30%，显示在索尼宣布2028年起新作不再发行实体版的背景下，实体游戏仍占据一定市场份额。"
+      },
+      "members": [
+        {
+          "title": "Newzoo调查：核心玩家主机付费游戏库中实体版占比约三成",
+          "url": "https://www.ithome.com/1/023/762.htm",
+          "date": "2026-11-07",
+          "section": 3,
+          "summary": "据Newzoo与G2A联合调查，核心玩家购买的主机付费游戏中实体版约占30%，显示在索尼宣布2028年起新作不再发行实体版的背景下，实体游戏仍占据一定市场份额。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《魔兽世界：无限》开服，国服同时在线人数创历史新高",
+        "url": "https://www.ithome.com/1/023/745.htm",
+        "date": "2026-11-07",
+        "section": 3,
+        "summary": "暴雪官方宣布《魔兽世界：无限》于11月5日开服后，国服同时在线人数创历史最高纪录，全球范围内游戏峰值在线人数及回归玩家数量也双双创下系列新高。"
+      },
+      "members": [
+        {
+          "title": "《魔兽世界：无限》开服，国服同时在线人数创历史新高",
+          "url": "https://www.ithome.com/1/023/745.htm",
+          "date": "2026-11-07",
+          "section": 3,
+          "summary": "暴雪官方宣布《魔兽世界：无限》于11月5日开服后，国服同时在线人数创历史最高纪录，全球范围内游戏峰值在线人数及回归玩家数量也双双创下系列新高。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "T1以3:1淘汰KC晋级《英雄联盟》S16四强，将战BLG",
+        "url": "https://www.ithome.com/1/023/642.htm",
+        "date": "2026-11-07",
+        "section": 3,
+        "summary": "卫冕冠军T1在2026年《英雄联盟》全球总决赛八强赛中3:1淘汰KC战队晋级四强，11月9日将对阵BLG；这是Faker连续第11次征战世界赛且每次均打进四强以上。"
+      },
+      "members": [
+        {
+          "title": "T1以3:1淘汰KC晋级《英雄联盟》S16四强，将战BLG",
+          "url": "https://www.ithome.com/1/023/642.htm",
+          "date": "2026-11-07",
+          "section": 3,
+          "summary": "卫冕冠军T1在2026年《英雄联盟》全球总决赛八强赛中3:1淘汰KC战队晋级四强，11月9日将对阵BLG；这是Faker连续第11次征战世界赛且每次均打进四强以上。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "GOG宣布明年推出Linux原生客户端，Steam Deck用户受益",
+        "url": "https://www.ithome.com/1/023/547.htm",
+        "date": "2026-11-06",
+        "section": 3,
+        "summary": "DRM-free游戏平台GOG宣布其GOG Galaxy启动器将于2027年支持Linux原生运行，使Steam Deck等掌机用户可直接购买和游玩平台游戏，同时Windows/macOS客户端也将迎来界面改版。"
+      },
+      "members": [
+        {
+          "title": "GOG宣布明年推出Linux原生客户端，Steam Deck用户受益",
+          "url": "https://www.ithome.com/1/023/547.htm",
+          "date": "2026-11-06",
+          "section": 3,
+          "summary": "DRM-free游戏平台GOG宣布其GOG Galaxy启动器将于2027年支持Linux原生运行，使Steam Deck等掌机用户可直接购买和游玩平台游戏，同时Windows/macOS客户端也将迎来界面改版。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "库洛游戏法务部通报侵权线索处理进展，已对多名用户启动法律追责",
+        "url": "https://www.ithome.com/1/023/500.htm",
+        "date": "2026-11-06",
+        "section": 3,
+        "summary": "《鸣潮》开发商库洛游戏法务部发布通告称，已对多个平台涉嫌侵权、恶意造谣的多名用户启动法律追责程序，并继续征集侵权线索。"
+      },
+      "members": [
+        {
+          "title": "库洛游戏法务部通报侵权线索处理进展，已对多名用户启动法律追责",
+          "url": "https://www.ithome.com/1/023/500.htm",
+          "date": "2026-11-06",
+          "section": 3,
+          "summary": "《鸣潮》开发商库洛游戏法务部发布通告称，已对多个平台涉嫌侵权、恶意造谣的多名用户启动法律追责程序，并继续征集侵权线索。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《漫威银河护卫队》登陆Switch 2，支持鼠标与陀螺仪操作",
+        "url": "https://www.ithome.com/1/023/540.htm",
+        "date": "2026-11-06",
+        "section": 3,
+        "summary": "《漫威银河护卫队》“归家版”已上线Nintendo Switch 2平台，新增全鼠标控制与陀螺仪体感操作，并支持最高1440p/30fps画质模式。"
+      },
+      "members": [
+        {
+          "title": "《漫威银河护卫队》登陆Switch 2，支持鼠标与陀螺仪操作",
+          "url": "https://www.ithome.com/1/023/540.htm",
+          "date": "2026-11-06",
+          "section": 3,
+          "summary": "《漫威银河护卫队》“归家版”已上线Nintendo Switch 2平台，新增全鼠标控制与陀螺仪体感操作，并支持最高1440p/30fps画质模式。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《刺客信条：英灵殿》推出1.8.0大更新，加入“新游戏+”并支持PSSR 2",
+        "url": "https://www.ithome.com/1/023/524.htm",
+        "date": "2026-11-06",
+        "section": 3,
+        "summary": "育碧为《刺客信条：英灵殿》推出1.8.0免费大更新，新增“新游戏+”模式及扩展的符文系统，PS5 Pro版本同步支持PSSR 2超分辨率技术。"
+      },
+      "members": [
+        {
+          "title": "《刺客信条：英灵殿》推出1.8.0大更新，加入“新游戏+”并支持PSSR 2",
+          "url": "https://www.ithome.com/1/023/524.htm",
+          "date": "2026-11-06",
+          "section": 3,
+          "summary": "育碧为《刺客信条：英灵殿》推出1.8.0免费大更新，新增“新游戏+”模式及扩展的符文系统，PS5 Pro版本同步支持PSSR 2超分辨率技术。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《鸣潮》3.8版本预告：PS5 Pro将支持PSSR，PC端新增资源分类下载功能",
+        "url": "https://www.ithome.com/1/023/563.htm",
+        "date": "2026-11-06",
+        "section": 3,
+        "summary": "库洛游戏公布《鸣潮》3.8版本将于11月12日上线，PS5 Pro版本新增PSSR超分辨率支持，PC端同步开放“资源分类下载”与“资源清理”功能测试。"
+      },
+      "members": [
+        {
+          "title": "《鸣潮》3.8版本预告：PS5 Pro将支持PSSR，PC端新增资源分类下载功能",
+          "url": "https://www.ithome.com/1/023/563.htm",
+          "date": "2026-11-06",
+          "section": 3,
+          "summary": "库洛游戏公布《鸣潮》3.8版本将于11月12日上线，PS5 Pro版本新增PSSR超分辨率支持，PC端同步开放“资源分类下载”与“资源清理”功能测试。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "R星谈《GTA6》开放世界设计：弱化地图图标引导，鼓励玩家自然探索",
+        "url": "https://www.ithome.com/1/023/598.htm",
+        "date": "2026-11-06",
+        "section": 3,
+        "summary": "Rockstar North开发总监Rob Nelson透露，《GTA6》将减少地图图标对事件的引导，鼓励玩家在游玩过程中自然发现内容，并加入完整公共交通系统供玩家探索。"
+      },
+      "members": [
+        {
+          "title": "R星谈《GTA6》开放世界设计：弱化地图图标引导，鼓励玩家自然探索",
+          "url": "https://www.ithome.com/1/023/598.htm",
+          "date": "2026-11-06",
+          "section": 3,
+          "summary": "Rockstar North开发总监Rob Nelson透露，《GTA6》将减少地图图标对事件的引导，鼓励玩家在游玩过程中自然发现内容，并加入完整公共交通系统供玩家探索。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

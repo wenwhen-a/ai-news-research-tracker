@@ -1,0 +1,11 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **Supercell为《荒野乱斗》推出GTA6主题"罪恶都市"赛季**（2026-11-06）— Supercell为《荒野乱斗》(Brawl Stars)推出以《GTA6》罪恶都市为主题的"Brawl Vice"赛季，新增雷霆蛙等角色并大幅调整排位赛段位要求。 <https://www.pocketgamer.biz/supercell-launches-gta-vi-inspired-brawl-vice-season-for-brawl-stars/>
+- **Kabam联手华纳推出集合九大动画IP的放置手游《WB All-Star Mayhem》**（2026-11-06）— Kabam与华纳兄弟互动娱乐合作推出放置类手游《WB All-Star Mayhem》，集合《正义联盟》《乐一通》等九部华纳动画IP超百名角色，本月起在部分地区限量测试。 <https://www.pocketgamer.biz/kabam-reveals-mobile-rpg-bringing-together-nine-warner-bros-animated-franchises/>
+- **游戏陀螺：微信小游戏大盘碾压抖音，多款抖音老游戏月活暴跌超80%**（2026-11-06）— 据游戏陀螺援引QuestMobile最新报告，微信小游戏Top10门槛及体量远超抖音小游戏，多款抖音老牌小游戏月活同比暴跌超80%，微信小游戏仍是小游戏行业主阵地。 <https://www.youxituoluo.com/535032.html>
+- **Newzoo调查：核心玩家主机付费游戏库中实体版占比约三成**（2026-11-07）— 据Newzoo与G2A联合调查，核心玩家购买的主机付费游戏中实体版约占30%，显示在索尼宣布2028年起新作不再发行实体版的背景下，实体游戏仍占据一定市场份额。 <https://www.ithome.com/1/023/762.htm>
+- **《魔兽世界：无限》开服，国服同时在线人数创历史新高**（2026-11-07）— 暴雪官方宣布《魔兽世界：无限》于11月5日开服后，国服同时在线人数创历史最高纪录，全球范围内游戏峰值在线人数及回归玩家数量也双双创下系列新高。 <https://www.ithome.com/1/023/745.htm>
+- **T1以3:1淘汰KC晋级《英雄联盟》S16四强，将战BLG**（2026-11-07）— 卫冕冠军T1在2026年《英雄联盟》全球总决赛八强赛中3:1淘汰KC战队晋级四强，11月9日将对阵BLG；这是Faker连续第11次征战世界赛且每次均打进四强以上。 <https://www.ithome.com/1/023/642.htm>
+- **GOG宣布明年推出Linux原生客户端，Steam Deck用户受益**（2026-11-06）— DRM-free游戏平台GOG宣布其GOG Galaxy启动器将于2027年支持Linux原生运行，使Steam Deck等掌机用户可直接购买和游玩平台游戏，同时Windows/macOS客户端也将迎来界面改版。 <https://www.ithome.com/1/023/547.htm>
+- **库洛游戏法务部通报侵权线索处理进展，已对多名用户启动法律追责**（2026-11-06）— 《鸣潮》开发商库洛游戏法务部发布通告称，已对多个平台涉嫌侵权、恶意造谣的多名用户启动法律追责程序，并继续征集侵权线索。 <https://www.ithome.com/1/023/500.htm>
+- **《漫威银河护卫队》登陆Switch 2，支持鼠标与陀螺仪操作**（2026-11-06）— 《漫威银河护卫队》"归家版"已上线Nintendo Switch 2平台，新增全鼠标控制与陀螺仪体感操作，并支持最高1440p/30fps画质模式。 <https://www.ithome.com/1/023/540.htm>
+- **《刺客信条：英灵殿》推出1.8.0大更新，加入"新游戏+"并支持PSSR 2**（2026-11-06）— 育碧为《刺客信条：英灵殿》推出1.8.0免费大更新，新增"新游戏+"模式及扩展的符文系统，PS5 Pro版本同步支持PSSR 2超分辨率技术。 <https://www.ithome.com/1/023/524.htm>
