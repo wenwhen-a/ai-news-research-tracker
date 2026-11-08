@@ -1,0 +1,18 @@
+**[新闻 2] PocketGamer深度调查：Claude用户克隆独立游戏引发行业警觉，Valve拒绝出手整治AI克隆**
+- **日期：** 2026-11-07
+- **来源链接：** <https://www.pocketgamer.biz/the-good-bad-and-the-ugly-of-ai-in-games/>
+- **核心事实：**
+  - PocketGamer.biz于11月7日刊发深度报道《The good, bad and the ugly of AI in games》，梳理生成式AI对游戏行业的正反两方面影响
+  - 独立开发者Mark Brown（知名频道Game Maker's Toolkit主理人）的游戏《Word Play》被玩家用Claude等AI工具复制，复制者随后联系他，似乎是想为商业发行寻求许可
+  - Mark Brown表示自己不知道该如何看待此事，指出原本需要数月心血才能做出的作品，如今几分钟就能被AI复制，直接威胁到他的收入来源
+  - Valve Steam业务团队的Tom Giardino在Steam Indie Connect活动上被问及是否会打击AI克隆行为时表示，开发者应该不断让游戏成长而不是依赖一个容易被复制的单一机制，报道认为这意味着Valve目前不会大规模封杀AI克隆游戏
+  - 报道指出，Anthropic此前已限制Claude用户直接复刻特定游戏，但目前仍不清楚用户能否绕开限制或转用其他无此类限制的AI工具
+  - App Store等平台的新游戏审核时间因AI内容泛滥而延长，各大平台尚未找到既能遏制AI垃圾内容又不造成审核瓶颈的方案
+- **背景与起因：**
+  - 此前Steam新品节生成式AI游戏披露比例已升至36.4%，itch.io也因AI生成游戏泛滥而删除大量内容并上线NoAI过滤器
+  - Nexus Mods、Steam、itch.io等平台近期相继调整AI相关政策，但行业尚未形成统一应对方案
+  - Anthropic已对Claude的游戏复刻与反编译能力做出限制调整，但克隆与盗版担忧仍在发酵
+- **结果与进展：**
+  - 独立工作室Village Studio创始人Will Luton的调研发现：消费者普遍不喜欢面向玩家的AI生成内容（美术、视频、音效），尤其在主机和PC平台；AI确实能加速开发，但效果不及部分从业者预期；AI目前尚未被有意义地用作游戏玩法机制
+  - 移动团队Burny Games的增长负责人Alisa Eren表示，团队优化流程后每周可多处理至少两倍的工作量而无需加班
+  - Big Bang Accelerator创始人Wenfeng Yang列举了AI在低模资产制作、原型开发、广告素材生成、A/B测试和数据分析上的实际落地场景，并称自己对AI的信心高于当年对元宇宙的信心

@@ -1,0 +1,212 @@
+{
+  "as_of": "2026-11-08",
+  "cutoff": "2026-11-07",
+  "window_days": 1,
+  "summary": {
+    "input_items": 9,
+    "denied_source": 0,
+    "in_window": 9,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 9,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 9,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 9,
+    "previously_covered_count": 0
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "索尼重拾\"PlayStation Exclusive\"独占标识，PS5大作回归主机专属策略",
+        "url": "https://www.pushsquare.com/news/2026/11/playstation-exclusive-branding-added-to-tentpole-ps5-games-as-sony-doubles-down",
+        "date": "2026-11-07",
+        "section": 3,
+        "summary": "《幽灵之众：幸存》《午夜十二点》等PS5旗舰游戏的官方商店页面近期被加上\"PlayStation Exclusive\"标识，显示索尼在经历多年PC移植后重新强化主机独占策略；此前索尼内部已决定除部分多人联机/服务型游戏外优先保持独占。"
+      },
+      "members": [
+        {
+          "title": "索尼重拾\"PlayStation Exclusive\"独占标识，PS5大作回归主机专属策略",
+          "url": "https://www.pushsquare.com/news/2026/11/playstation-exclusive-branding-added-to-tentpole-ps5-games-as-sony-doubles-down",
+          "date": "2026-11-07",
+          "section": 3,
+          "summary": "《幽灵之众：幸存》《午夜十二点》等PS5旗舰游戏的官方商店页面近期被加上\"PlayStation Exclusive\"标识，显示索尼在经历多年PC移植后重新强化主机独占策略；此前索尼内部已决定除部分多人联机/服务型游戏外优先保持独占。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "索尼无限期推迟PS5 Pulse Elevate无线音箱发售",
+        "url": "https://kotaku.com/sony-delays-wireless-playstation-pulse-speakers-a-week-away-from-launch-2000754806",
+        "date": "2026-11-07",
+        "section": 3,
+        "summary": "原定11月12日发售的PS5配件Pulse Elevate无线音箱被索尼以\"生产问题\"为由无限期推迟，暂未公布新发售日期或退款方案，这是索尼继FlexStrike格斗摇杆延期后又一款配件跳票。"
+      },
+      "members": [
+        {
+          "title": "索尼无限期推迟PS5 Pulse Elevate无线音箱发售",
+          "url": "https://kotaku.com/sony-delays-wireless-playstation-pulse-speakers-a-week-away-from-launch-2000754806",
+          "date": "2026-11-07",
+          "section": 3,
+          "summary": "原定11月12日发售的PS5配件Pulse Elevate无线音箱被索尼以\"生产问题\"为由无限期推迟，暂未公布新发售日期或退款方案，这是索尼继FlexStrike格斗摇杆延期后又一款配件跳票。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《GTA6》PS5实体版包装曝光：盒内无光盘仅附下载码",
+        "url": "https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo",
+        "date": "2026-11-07",
+        "section": 3,
+        "summary": "德国玩家在Reddit晒出提前到手的《GTA6》PS5实体版照片，密封包装盒内并无光盘，印证该作PS5实体版实为下载码形式，引发玩家对\"无光盘时代\"的讨论。"
+      },
+      "members": [
+        {
+          "title": "《GTA6》PS5实体版包装曝光：盒内无光盘仅附下载码",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo",
+          "date": "2026-11-07",
+          "section": 3,
+          "summary": "德国玩家在Reddit晒出提前到手的《GTA6》PS5实体版照片，密封包装盒内并无光盘，印证该作PS5实体版实为下载码形式，引发玩家对\"无光盘时代\"的讨论。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Aniplex与CYBIRD公布黑暗奇幻视觉小说新作《LunaReverse》，登陆Switch/PC",
+        "url": "https://www.gematsu.com/2026/11/aniplex-and-cybird-announce-dark-fantasy-visual-novel-lunareverse-for-switch-pc",
+        "date": "2026-11-07",
+        "section": 3,
+        "summary": "Aniplex与CYBIRD联合宣布全新黑暗奇幻风格视觉小说游戏《LunaReverse》，将登陆Nintendo Switch与PC平台，具体发售日期和更多细节尚未公布。"
+      },
+      "members": [
+        {
+          "title": "Aniplex与CYBIRD公布黑暗奇幻视觉小说新作《LunaReverse》，登陆Switch/PC",
+          "url": "https://www.gematsu.com/2026/11/aniplex-and-cybird-announce-dark-fantasy-visual-novel-lunareverse-for-switch-pc",
+          "date": "2026-11-07",
+          "section": 3,
+          "summary": "Aniplex与CYBIRD联合宣布全新黑暗奇幻风格视觉小说游戏《LunaReverse》，将登陆Nintendo Switch与PC平台，具体发售日期和更多细节尚未公布。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "塞尔达制作人青沼英二：任天堂成功秘诀是留住长期任职的老员工",
+        "url": "https://www.nintendolife.com/news/2026/11/zelda-producer-eiji-aonuma-talks-about-the-benefits-of-long-term-tenured-staff-at-nintendo",
+        "date": "2026-11-07",
+        "section": 3,
+        "summary": "《塞尔达传说》制作人青沼英二在接受GameSpot采访时表示，任天堂长期保留核心骨干员工是公司持续成功的关键，新人融入需要时间理解团队的创作逻辑，这种人员连续性是系列作品保持一致风格的重要原因。"
+      },
+      "members": [
+        {
+          "title": "塞尔达制作人青沼英二：任天堂成功秘诀是留住长期任职的老员工",
+          "url": "https://www.nintendolife.com/news/2026/11/zelda-producer-eiji-aonuma-talks-about-the-benefits-of-long-term-tenured-staff-at-nintendo",
+          "date": "2026-11-07",
+          "section": 3,
+          "summary": "《塞尔达传说》制作人青沼英二在接受GameSpot采访时表示，任天堂长期保留核心骨干员工是公司持续成功的关键，新人融入需要时间理解团队的创作逻辑，这种人员连续性是系列作品保持一致风格的重要原因。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《英雄联盟》S16世界赛半决赛：Gen.G 3比0淘汰iG晋级总决赛",
+        "url": "https://www.gamersky.com/news/202611/2242588.shtml",
+        "date": "2026-11-08",
+        "section": 3,
+        "summary": "《英雄联盟》S16全球总决赛半决赛中，Gen.G以3比0淘汰iG，中单选手Chovy生涯首次打进总决赛，将对阵BLG与T1胜者组对决的赢家。"
+      },
+      "members": [
+        {
+          "title": "《英雄联盟》S16世界赛半决赛：Gen.G 3比0淘汰iG晋级总决赛",
+          "url": "https://www.gamersky.com/news/202611/2242588.shtml",
+          "date": "2026-11-08",
+          "section": 3,
+          "summary": "《英雄联盟》S16全球总决赛半决赛中，Gen.G以3比0淘汰iG，中单选手Chovy生涯首次打进总决赛，将对阵BLG与T1胜者组对决的赢家。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "前索尼高管肖恩·莱登谈PS6：性能升级不重要，便宜才是真创新",
+        "url": "https://www.gamersky.com/news/202611/2242700.shtml",
+        "date": "2026-11-08",
+        "section": 3,
+        "summary": "据GamesRadar报道，前索尼互动娱乐高管肖恩·莱登在The Trophy Room播客中表示，当前主机性能已经\"足够好\"，PS6若想真正创新应推出价格亲民（约300美元级别）的主机，而非一味追求光追和画质提升。"
+      },
+      "members": [
+        {
+          "title": "前索尼高管肖恩·莱登谈PS6：性能升级不重要，便宜才是真创新",
+          "url": "https://www.gamersky.com/news/202611/2242700.shtml",
+          "date": "2026-11-08",
+          "section": 3,
+          "summary": "据GamesRadar报道，前索尼互动娱乐高管肖恩·莱登在The Trophy Room播客中表示，当前主机性能已经\"足够好\"，PS6若想真正创新应推出价格亲民（约300美元级别）的主机，而非一味追求光追和画质提升。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《影之刃零》PC版遭差评轰炸，M站用户评分从9.3暴跌至8.6",
+        "url": "https://www.gamersky.com/news/202611/2242829.shtml",
+        "date": "2026-11-08",
+        "section": 3,
+        "summary": "国产动作游戏《影之刃零》PC版在Metacritic用户评分区遭到大量0分差评轰炸，评分从9.3骤降至8.6，差评理由包括不满实体版尚未发售、游戏收费模式及战斗深度等，PS5版评分暂未受明显影响。"
+      },
+      "members": [
+        {
+          "title": "《影之刃零》PC版遭差评轰炸，M站用户评分从9.3暴跌至8.6",
+          "url": "https://www.gamersky.com/news/202611/2242829.shtml",
+          "date": "2026-11-08",
+          "section": 3,
+          "summary": "国产动作游戏《影之刃零》PC版在Metacritic用户评分区遭到大量0分差评轰炸，评分从9.3骤降至8.6，差评理由包括不满实体版尚未发售、游戏收费模式及战斗深度等，PS5版评分暂未受明显影响。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据报道《GTA6》日版文件容量比全球版少约1.1GB，玩家担忧内容遭\"和谐\"删减",
+        "url": "https://www.gamersky.com/news/202611/2242440.shtml",
+        "date": "2026-11-07",
+        "section": 3,
+        "summary": "玩家发现微软商店页面显示《GTA6》Xbox日版文件大小为208.74GB，比北美版209.86GB少约1.12GB，由于日版定为CERO Z（18禁）分级，部分玩家猜测存在针对日本市场的内容删减，Rockstar尚未就此做出官方说明。"
+      },
+      "members": [
+        {
+          "title": "据报道《GTA6》日版文件容量比全球版少约1.1GB，玩家担忧内容遭\"和谐\"删减",
+          "url": "https://www.gamersky.com/news/202611/2242440.shtml",
+          "date": "2026-11-07",
+          "section": 3,
+          "summary": "玩家发现微软商店页面显示《GTA6》Xbox日版文件大小为208.74GB，比北美版209.86GB少约1.12GB，由于日版定为CERO Z（18禁）分级，部分玩家猜测存在针对日本市场的内容删减，Rockstar尚未就此做出官方说明。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
