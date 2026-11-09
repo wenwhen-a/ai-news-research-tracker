@@ -23093,5 +23093,128 @@
   "first_seen": "2026-11-06",
   "submitted": "2026-10-22T15:27:58Z",
   "title": "PhysTrace: Interpretable Temporal Evaluation of Physical Consistency in Video Generative Models"
+ },
+ "2611.09894": {
+  "status": "qualified",
+  "first_seen": "2026-11-09",
+  "submitted": "2026-11-06",
+  "title": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
+  "affiliation": "Microsoft — Junan Hu (Microsoft Research); other co-authors are University of Central Florida, University of Würzburg, Tsinghua University, UNC-Chapel Hill, UW–Madison",
+  "url": "https://arxiv.org/abs/2611.09894",
+  "summary": "The authors introduce Video-Coder, a video-generation agent that writes and executes code to construct a dynamic 3D scene (\"Draft Video\") providing structure and motion signals to downstream video generators, rather than generating pixels directly."
+ },
+ "2611.09816": {
+  "status": "screened-out",
+  "first_seen": "2026-11-09",
+  "submitted": "2026-11-06T18:02:49Z",
+  "title": "BEV3SR: Evidence-Aware 3D Spatial Reasoning from Video"
+ },
+ "2611.09724": {
+  "status": "screened-out",
+  "first_seen": "2026-11-09",
+  "submitted": "2026-11-06T17:00:42Z",
+  "title": "Evaluating Anterior Cruciate Ligament Risk of Injury Using a Graph Convolutional Autoencoder"
+ },
+ "2611.09625": {
+  "status": "near-miss",
+  "first_seen": "2026-11-09",
+  "submitted": "2026-11-06T15:45:54Z",
+  "title": "Encoding Memory in World Models with Test-Time Model-Based Reinforcement Learning"
+ },
+ "2611.09458": {
+  "status": "qualified",
+  "first_seen": "2026-11-09",
+  "submitted": "2026-11-06",
+  "title": "Left-Right-Consistent Iterative Stereo Matching via Cross-Injection",
+  "affiliation": "Meta — all four authors listed under Meta Reality Labs",
+  "url": "https://arxiv.org/abs/2611.09458",
+  "summary": "The paper proposes cross-injection (CI), a lightweight add-on for iterative refinement-based stereo-matching models that produces mutually consistent left- and right-view disparity maps from a single pass, rather than two independent passes that often disagree."
+ },
+ "2611.09355": {
+  "status": "near-miss",
+  "first_seen": "2026-11-09",
+  "submitted": "2026-11-06T11:50:36Z",
+  "title": "HiMEM: Hippocampus-Inspired Memory Consolidation, Pruning, and Composition for Vision-Language-Action Models in 3D Scenes"
+ },
+ "2611.09124": {
+  "status": "screened-out",
+  "first_seen": "2026-11-09",
+  "submitted": "2026-11-06T08:02:15Z",
+  "title": "Toward the Era of Agentic Embodied Intelligence"
+ },
+ "2611.09074": {
+  "status": "screened-out",
+  "first_seen": "2026-11-09",
+  "submitted": "2026-11-06T07:01:35Z",
+  "title": "Emo-LiveSync: Real-Time Universal Lip Synchronization with Explicit Emotion Control"
+ },
+ "2611.08946": {
+  "status": "screened-out",
+  "first_seen": "2026-11-09",
+  "submitted": "2026-11-06T03:51:20Z",
+  "title": "Flex-RSI: Benchmarking Recursive Self-Improvement of Frontier Agents"
+ },
+ "2611.08904": {
+  "status": "screened-out",
+  "first_seen": "2026-11-09",
+  "submitted": "2026-11-06T02:45:37Z",
+  "title": "MotionCore: A Latent Neural Simulator for Video Generation with Rigid-Body Dynamics"
+ },
+ "2611.08898": {
+  "status": "screened-out",
+  "first_seen": "2026-11-09",
+  "submitted": "2026-11-06T02:40:08Z",
+  "title": "FATHOM: World-Model-Guided Diffusion Action-Trajectory Selection for Sparse-Marker AUV Tracking"
+ },
+ "2611.08857": {
+  "status": "screened-out",
+  "first_seen": "2026-11-09",
+  "submitted": "2026-11-06T01:27:34Z",
+  "title": "STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards"
+ },
+ "2611.08814": {
+  "status": "near-miss",
+  "first_seen": "2026-11-09",
+  "submitted": "2026-11-06T00:11:49Z",
+  "title": "It Takes Two to Tangram: Multi-Agent Object Centric Reinforcement Learning for Assembly"
+ },
+ "2611.08797": {
+  "status": "screened-out",
+  "first_seen": "2026-11-09",
+  "submitted": "2026-11-05T23:41:21Z",
+  "title": "MotionBench-XAI: Benchmarking What Shapes Shapley Explanations in Spatiotemporal Machine Learning"
+ },
+ "2611.08795": {
+  "status": "near-miss",
+  "first_seen": "2026-11-09",
+  "submitted": "2026-11-05T23:37:02Z",
+  "title": "MotionDecipher: LLM-Assisted Clinical Interpretation of Human Motion Signals for Efficient Gait Analysis"
+ },
+ "2611.08665": {
+  "status": "qualified",
+  "first_seen": "2026-11-09",
+  "submitted": "2026-11-05",
+  "title": "Dynamic GPU Voxel Grids and Voxel-sequential Processing in NanoVDB",
+  "affiliation": "NVIDIA — Francis Williams, Christopher Horvath, Rohan Sawhney, Mark Harris, Jonathan Swartz, Ken Museth (six of seven authors); Eftychios Sifakis is also affiliated with University of Wisconsin-Madison",
+  "url": "https://arxiv.org/abs/2611.08665",
+  "summary": "The paper extends NanoVDB, NVIDIA's GPU sparse-volume data structure, with dynamic topology operators (morphological dilation, grid merging, pruning, cross-resolution coarsening/refinement) that rebuild grids of hundreds of millions of voxels in milliseconds using bit-parallel algorithms, removing N"
+ },
+ "2611.08610": {
+  "status": "screened-out",
+  "first_seen": "2026-11-09",
+  "submitted": "2026-11-05T19:04:14Z",
+  "title": "InstaGen: Group-Shared Importance Sampling for Fast Video Generation"
+ },
+ "2611.08568": {
+  "status": "screened-out",
+  "first_seen": "2026-11-09",
+  "submitted": "2026-11-05T17:52:57Z",
+  "title": "Personalized health coaching via coachable health age and counterfactual wearable trajectories"
+ },
+ "2611.08544": {
+  "status": "screened-out",
+  "first_seen": "2026-11-09",
+  "submitted": "2026-11-05T04:08:45Z",
+  "title": "GenStrain: Multi-Conditional Generative Diffusion Model To Synthesize High-quality Motion and Strain Maps From Cardiac Magnetic Resonance Images"
  }
 }
