@@ -1,0 +1,19 @@
+**[新闻 1] Unreal Engine 5.9「MegaJam Preview」发布，Epic称其为首个「主要由AI智能体构建」的虚幻引擎版本**
+- **日期：** 2026-11-09
+- **来源链接：** <https://forums.unrealengine.com/t/unreal-engine-5-9-megajam-preview/2852840>
+- **核心事实：**
+  - Epic Games于2026年11月9日在官方论坛发布虚幻引擎5.9的「MegaJam Preview」预览版，帖子明确写道："这是首个主要以智能体工作流构建的虚幻引擎版本"。
+  - 预览版自动随编辑器启动实验性Unreal MCP，覆盖渲染、性能分析、音频、UI、关卡创建等多种工具集。
+  - 新增「Unreal Assistant」，用于连接Claude Code、Codex、Cursor、OpenCode等外部AI编程智能体。
+  - 新增实验性工具「Unreal Canvas」，可借助开发者自有的第三方API密钥生成概念图、图像、3D网格与视频。
+  - 该版本还扩展了Python脚本覆盖范围（音频、物理、Niagara、材质、PCG），并加入实验性的WebAssembly/WebGPU浏览器内运行时（仅限源码编译）。
+  - 可通过Epic Games Launcher、GitHub及独立Linux版本免费下载，无需邀请或等待名单。
+- **背景与起因：**
+  - 该预览版是在2026年11月12日至15日举行的Epic AI MegaJam活动前发布，但官方明确表示该版本并非仅限该活动使用。
+  - Epic表示该预览版"由AI智能体编写了网页平台代码"，工程师负责指挥、审核与测试这些工作，是一次有意为之的智能体工作流实验。
+  - 这延续了Epic近期一系列关于AI辅助引擎开发的持续探索：此前10月28日Epic副总裁称AI编程工具已消除虚幻引擎十年未解的"非确定性cooking错误"；11月4日Epic宣布下一代UE6将从起始就弃用蓝图、全面转向Verse脚本，理由是AI更擅长处理文本代码。
+- **结果与进展：**
+  - Epic官方帖子列出多项已知问题，并将该版本自称为"rushed"（仓促），因为相关开发在MegaJam活动前约一周才启动。
+  - Epic明确建议开发者不要将正式项目转换为该预览版，因其仍不稳定。
+  - Unreal Canvas与Unreal Assistant的能力依赖开发者自带的第三方API密钥，而非Epic内置的自有模型。
+  - 渲染与动画相关改动被保留，未包含在本预览版中，留待日期尚未确定的完整版5.9发布。

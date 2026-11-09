@@ -1,0 +1,9 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **Rockstar宣布《GTA6》将在迈阿密举办音乐节**（2026-11-09）— Rockstar Games宣布将在迈阿密举办与《GTA6》相关的音乐节活动，作为游戏11月19日发售前的宣传活动之一。 <https://www.videogameschronicle.com/news/rockstar-announces-grand-theft-auto-6-music-festival-taking-place-in-miami/>
+- **据报道｜数据挖掘者称《GTA6》在澳大利亚等地区或面临内容审查**（2026-11-09）— 据VGC报道，数据挖掘者在《GTA6》游戏文件中发现相关证据，暗示该作在澳大利亚及其他部分地区可能面临内容删减或审查，目前尚未获得Rockstar官方证实。 <https://www.videogameschronicle.com/news/gta-6-may-be-censored-in-australia-and-other-regions-dataminer-suggests/>
+- **《星球大战：零公司》开发商Bit Reactor再度裁员，一个月前刚开始召回被强制休假员工**（2026-11-09）— Bit Reactor宣布裁员，就在该studio开始召回此前因担心《星球大战：零公司》销量而被强制无薪休假的员工约一个月之后。 <https://www.videogameschronicle.com/news/star-wars-zero-company-studio-bit-reactor-is-laying-off-staff-a-month-after-it-started-bringing-back-furloughed-devs/>
+- **索尼在日本推出黑色版PlayStation Portal，内置存储容量提升**（2026-11-09）— 索尼宣布将在日本推出黑色版PlayStation Portal掌上设备，新增内部存储空间，官方表示该存储将用于"未来功能"。 <https://www.videogameschronicle.com/news/sony-is-releasing-a-black-playstation-portal-in-japan-with-extra-internal-storage-for-future-functionality/>
+- **伦敦Selfridges百货开设《GTA6》主题商店，上架60余款周边商品**（2026-11-09）— 伦敦知名百货公司Selfridges开设大型《GTA6》主题商店，售卖超过60件相关周边商品，为游戏发售前的宣传活动之一。 <https://www.videogameschronicle.com/news/selfridges-london-gta6/>
+- **《英雄联盟》S16世界赛：BLG击败卫冕冠军T1晋级决赛，将对阵Gen.G**（2026-11-09）— BLG在半决赛中击败卫冕冠军T1，晋级2026年《英雄联盟》全球总决赛决赛，决赛对手为此前淘汰iG的Gen.G。 <https://www.invenglobal.com/articles/28327/revenge-two-years-in-the-making-blg-defeats-t1-to-advance-to-finals>
+- **暴雪公布《暗黑破坏神II：重制版》30周年活动及第16赛季天梯赛**（2026-11-09）— 暴雪宣布《暗黑破坏神II：重制版》将于11月14日开启第16赛季天梯赛，并公布30周年纪念活动，包含商人购买折扣及"暗黑破坏神克隆怪"刷新等内容。 <https://www.invenglobal.com/articles/28337/15-vendor-discounts-and-diablo-clone-spawns-diablo-30th-anniversary-event-announced>
+- **触乐报道：橙光游戏平台深陷起落浪潮，推出AI工具"橙戏Agent"寻求转型**（2026-11-09）— 触乐报道称，曾在2014年前后凭借爆款作品迅速崛起的橙光游戏平台，2018年后融资信息不再公开、逐渐淡出大众视野，如今面临作者福利缩水、内容同质化等问题，并推出AI工具"橙戏Agent"寻求转型。 <http://www.chuapp.com/article/291744.html>

@@ -1,0 +1,1 @@
+- **《堡垒之夜》官方确认"海盗商店通行证"掉落概率，玩家为解锁免费商店苦寻该道具**（2026-11-09）— Epic Games旗下《堡垒之夜》官方公布了"海盗商店通行证"道具的掉落概率，该道具可免费解锁本赛季商店全部内容，引发玩家寻找热潮。 <https://www.videogameschronicle.com/news/fortnite-officially-confirms-pirate-shop-access-token-drop-rate-as-players-hunt-for-item-which-makes-entire-shop-free/>
