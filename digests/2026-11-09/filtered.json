@@ -1,0 +1,214 @@
+{
+  "as_of": "2026-11-09",
+  "cutoff": "2026-11-02",
+  "window_days": 7,
+  "summary": {
+    "input_items": 9,
+    "denied_source": 0,
+    "in_window": 9,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 9,
+    "duplicate_clusters": 0,
+    "section1_count": 2,
+    "section2_count": 7,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 8,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Unreal Engine 5.9「MegaJam Preview」发布，Epic称这是首个「主要由AI智能体构建」的虚幻引擎版本",
+        "url": "https://forums.unrealengine.com/t/unreal-engine-5-9-megajam-preview/2852840",
+        "date": "2026-11-09",
+        "summary": "Epic Games于11月9日在官方论坛发布了Unreal Engine 5.9的「MegaJam Preview」预览版，并在帖子中明确表示：「这是首个主要以智能体工作流构建的虚幻引擎版本」——由AI智能体编写了该预览版的网页平台代码，工程师负责指挥、审核与测试这些工作。该预览版默认随编辑器自动启动实验性的Unreal MCP（覆盖渲染、性能分析、音频、UI、关卡创建等多种工具集），新增「Unreal Assistant」用于连接Claude Code、Codex、Cursor、OpenCode等外部AI编程智能体，并引入实验性的「Unreal Canvas」工具，可借助开发者自有的第三方API密钥生成概念图、图像、3D网格与视频。该版本还扩展了Python脚本覆盖范围（音频、物理、Niagara、材质、PCG），并加入了实验性的WebAssembly/WebGPU浏览器内运行时（仅限源码编译）。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "Unreal Engine 5.9「MegaJam Preview」发布，Epic称这是首个「主要由AI智能体构建」的虚幻引擎版本",
+          "url": "https://forums.unrealengine.com/t/unreal-engine-5-9-megajam-preview/2852840",
+          "date": "2026-11-09",
+          "summary": "Epic Games于11月9日在官方论坛发布了Unreal Engine 5.9的「MegaJam Preview」预览版，并在帖子中明确表示：「这是首个主要以智能体工作流构建的虚幻引擎版本」——由AI智能体编写了该预览版的网页平台代码，工程师负责指挥、审核与测试这些工作。该预览版默认随编辑器自动启动实验性的Unreal MCP（覆盖渲染、性能分析、音频、UI、关卡创建等多种工具集），新增「Unreal Assistant」用于连接Claude Code、Codex、Cursor、OpenCode等外部AI编程智能体，并引入实验性的「Unreal Canvas」工具，可借助开发者自有的第三方API密钥生成概念图、图像、3D网格与视频。该版本还扩展了Python脚本覆盖范围（音频、物理、Niagara、材质、PCG），并加入了实验性的WebAssembly/WebGPU浏览器内运行时（仅限源码编译）。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "索尼公布AI反\"炸鱼\"专利：通过按键/操作习惯识别老玩家伪装新号",
+        "url": "https://www.ithome.com/1/024/489.htm",
+        "date": "2026-11-09",
+        "summary": "美国专利商标局近日公开索尼一项新专利（US 2026/0346147 A1），该技术通过AI分析玩家的按键习惯、常用连招组合及连续操作间的时间间隔，为每位玩家建立独特的\"操作画像\"。当某个新注册账号在匹配中持续对战明显低水平的对手时，系统会将其操作特征与已有账号数据库比对，借此识别出该账号实为高水平玩家伪装的\"小号\"（即俗称的\"炸鱼\"或变相带新手刷战绩行为），进而调用其主账号的实力数据参与匹配，或将账号打入特殊匹配池甚至封禁。索尼此举意在解决竞技对战类游戏长期存在的资深玩家开小号欺压新手、破坏匹配公平性的问题。不过该专利及相关报道也指出隐忧：方案需要持续采集玩家的按键/摇杆输入数据，引发隐私顾虑，且共用设备的家庭成员可能因操作习惯相近被误判为\"马甲小号\"；目前该技术仍停留在专利阶段，索尼未公布具体落地的游戏或时间表。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "索尼公布AI反\"炸鱼\"专利：通过按键/操作习惯识别老玩家伪装新号",
+          "url": "https://www.ithome.com/1/024/489.htm",
+          "date": "2026-11-09",
+          "summary": "美国专利商标局近日公开索尼一项新专利（US 2026/0346147 A1），该技术通过AI分析玩家的按键习惯、常用连招组合及连续操作间的时间间隔，为每位玩家建立独特的\"操作画像\"。当某个新注册账号在匹配中持续对战明显低水平的对手时，系统会将其操作特征与已有账号数据库比对，借此识别出该账号实为高水平玩家伪装的\"小号\"（即俗称的\"炸鱼\"或变相带新手刷战绩行为），进而调用其主账号的实力数据参与匹配，或将账号打入特殊匹配池甚至封禁。索尼此举意在解决竞技对战类游戏长期存在的资深玩家开小号欺压新手、破坏匹配公平性的问题。不过该专利及相关报道也指出隐忧：方案需要持续采集玩家的按键/摇杆输入数据，引发隐私顾虑，且共用设备的家庭成员可能因操作习惯相近被误判为\"马甲小号\"；目前该技术仍停留在专利阶段，索尼未公布具体落地的游戏或时间表。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Steam数据：2026年10月近半数新游戏披露使用AI内容，全年披露率达40.1%",
+        "url": "https://powerupgaming.co.uk",
+        "date": "2026-11-02",
+        "summary": "一份社区统计报告显示，Steam上2026年10月新上架游戏中，近半数在商店页面披露了AI生成内容的使用，使2026年全年AI内容披露率达到40.1%。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "Steam数据：2026年10月近半数新游戏披露使用AI内容，全年披露率达40.1%",
+          "url": "https://powerupgaming.co.uk",
+          "date": "2026-11-02",
+          "summary": "一份社区统计报告显示，Steam上2026年10月新上架游戏中，近半数在商店页面披露了AI生成内容的使用，使2026年全年AI内容披露率达到40.1%。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "调查：超八成Roblox热门游戏借助AI加速开发",
+        "url": "https://www.pocketgamer.biz",
+        "date": "2026-11-02",
+        "summary": "一份调查报告指出，Roblox平台上超过80%的热门游戏开发过程中使用了AI工具来加速开发流程。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "调查：超八成Roblox热门游戏借助AI加速开发",
+          "url": "https://www.pocketgamer.biz",
+          "date": "2026-11-02",
+          "summary": "一份调查报告指出，Roblox平台上超过80%的热门游戏开发过程中使用了AI工具来加速开发流程。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "AMD第三季度财报：游戏业务收入同比暴跌40%，AI芯片驱动数据中心收入创纪录",
+        "url": "https://ir.amd.com",
+        "date": "2026-11-03",
+        "summary": "AMD公布2026年第三季度财报，游戏业务收入同比下滑40%至7.73亿美元，而数据中心AI芯片收入同比暴涨97%，创纪录达到85.46亿美元，反映出公司业务重心持续向AI芯片倾斜。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "AMD第三季度财报：游戏业务收入同比暴跌40%，AI芯片驱动数据中心收入创纪录",
+          "url": "https://ir.amd.com",
+          "date": "2026-11-03",
+          "summary": "AMD公布2026年第三季度财报，游戏业务收入同比下滑40%至7.73亿美元，而数据中心AI芯片收入同比暴涨97%，创纪录达到85.46亿美元，反映出公司业务重心持续向AI芯片倾斜。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "NVIDIA发布GeForce 8800 GTX 20周年纪念Steam体验Demo，展示DLSS 4.5与路径追踪技术",
+        "url": "https://www.nvidia.com",
+        "date": "2026-11-05",
+        "summary": "NVIDIA通过官方GeForce新闻发布会，为纪念8800 GTX显卡发布20周年推出了一款Steam体验Demo，用以展示DLSS 4.5与路径追踪渲染技术的最新进展。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "NVIDIA发布GeForce 8800 GTX 20周年纪念Steam体验Demo，展示DLSS 4.5与路径追踪技术",
+          "url": "https://www.nvidia.com",
+          "date": "2026-11-05",
+          "summary": "NVIDIA通过官方GeForce新闻发布会，为纪念8800 GTX显卡发布20周年推出了一款Steam体验Demo，用以展示DLSS 4.5与路径追踪渲染技术的最新进展。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "【更新】Google AI高管删除《塞尔达传说：时之笛重制版》AI移植演示推文，因任天堂版权争议发酵",
+        "url": "https://www.ithome.com/1/024/433.htm",
+        "date": "2026-11-09",
+        "summary": "此前谷歌AI Studio产品与设计负责人Ammaar Reshi在X上发布视频，演示其借助AI将任天堂《塞尔达传说：时之笛3D重制版》移植到所谓\"iPhone Duo\"设备上运行。该演示被外界指出属于未经授权对任天堂版权游戏进行逆向工程移植，在遭到大量网友批评后，Reshi已悄悄删除该推文，以避免争议进一步扩大。",
+        "section": 2,
+        "update_of": "谷歌高管演示AI移植《塞尔达传说：时之笛》引争议，重制版发售三天已被AI工具协助移植至PS5和iPhone"
+      },
+      "members": [
+        {
+          "title": "【更新】Google AI高管删除《塞尔达传说：时之笛重制版》AI移植演示推文，因任天堂版权争议发酵",
+          "url": "https://www.ithome.com/1/024/433.htm",
+          "date": "2026-11-09",
+          "summary": "此前谷歌AI Studio产品与设计负责人Ammaar Reshi在X上发布视频，演示其借助AI将任天堂《塞尔达传说：时之笛3D重制版》移植到所谓\"iPhone Duo\"设备上运行。该演示被外界指出属于未经授权对任天堂版权游戏进行逆向工程移植，在遭到大量网友批评后，Reshi已悄悄删除该推文，以避免争议进一步扩大。",
+          "section": 2,
+          "update_of": "谷歌高管演示AI移植《塞尔达传说：时之笛》引争议，重制版发售三天已被AI工具协助移植至PS5和iPhone"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《剑星》Switch 2真人广告被疑AI生成，伊芙真人演员本人现身澄清",
+        "url": "https://www.gamersky.com/news/202611/2242597.shtml",
+        "date": "2026-11-08",
+        "summary": "任天堂为《剑星》Switch 2版发布的一则真人广告中，\"伊芙\"在公交车、家中等日常场景与观众互动，因画面风格引发部分玩家质疑该广告为AI生成内容。争议在网友找到广告中实际出镜演员——首尔出生、现居伦敦的时装模特Jade J后逐渐平息，该演员随后在社交媒体回应称，很高兴广告播放量已突破200万，并为能够出演伊芙一角感到荣幸。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "《剑星》Switch 2真人广告被疑AI生成，伊芙真人演员本人现身澄清",
+          "url": "https://www.gamersky.com/news/202611/2242597.shtml",
+          "date": "2026-11-08",
+          "summary": "任天堂为《剑星》Switch 2版发布的一则真人广告中，\"伊芙\"在公交车、家中等日常场景与观众互动，因画面风格引发部分玩家质疑该广告为AI生成内容。争议在网友找到广告中实际出镜演员——首尔出生、现居伦敦的时装模特Jade J后逐渐平息，该演员随后在社交媒体回应称，很高兴广告播放量已突破200万，并为能够出演伊芙一角感到荣幸。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《任天堂明星大乱斗》制作人樱井政博谈AI：\"我们自己思考能想出更好的点子\"",
+        "url": "https://kotaku.com/super-smash-bros-creator-masahiro-sakurai-cautions-against-the-use-of-gen-ai-we-can-come-up-with-better-ideas-2000754922",
+        "date": "2026-11-09",
+        "summary": "《任天堂明星大乱斗》系列创作者、知名游戏导演樱井政博在庆祝日本游戏杂志Fami通创刊40周年的活动上表示，他在包括《星之卡比 Air Riders》等现行项目中均未使用生成式AI，也没有使用计划，他认为AI尚不足以胜任游戏开发或创意构思工作，\"我们自己思考能想出更好的点子\"。他同时指出游戏开发涉及截止日期、团队能力与预算等多重因素，但也承认随着《星之卡比 Air Riders》开发成本达到初代GameCube作品的十倍之高，未来AI技术进步后或许会变得有必要，回避AI可能让开发者落后于人。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "《任天堂明星大乱斗》制作人樱井政博谈AI：\"我们自己思考能想出更好的点子\"",
+          "url": "https://kotaku.com/super-smash-bros-creator-masahiro-sakurai-cautions-against-the-use-of-gen-ai-we-can-come-up-with-better-ideas-2000754922",
+          "date": "2026-11-09",
+          "summary": "《任天堂明星大乱斗》系列创作者、知名游戏导演樱井政博在庆祝日本游戏杂志Fami通创刊40周年的活动上表示，他在包括《星之卡比 Air Riders》等现行项目中均未使用生成式AI，也没有使用计划，他认为AI尚不足以胜任游戏开发或创意构思工作，\"我们自己思考能想出更好的点子\"。他同时指出游戏开发涉及截止日期、团队能力与预算等多重因素，但也承认随着《星之卡比 Air Riders》开发成本达到初代GameCube作品的十倍之高，未来AI技术进步后或许会变得有必要，回避AI可能让开发者落后于人。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
