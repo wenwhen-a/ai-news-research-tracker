@@ -1,0 +1,13 @@
+**[新闻 3] NVIDIA为《霍格沃茨之遗》GeForce NOW云游戏版本带来DLSS 5神经渲染升级**
+- **日期：** 2026-11-05
+- **来源链接：** <https://blogs.nvidia.com/?p=99635>
+- **核心事实：**
+  - NVIDIA于2026年11月5日在官方博客宣布，《霍格沃茨之遗》（Hogwarts Legacy）在GeForce NOW云游戏平台上获得DLSS 5升级，引入"3D引导式神经渲染"（3D-Guided Neural Rendering）技术
+  - 该技术在保留游戏原有几何结构和贴图的基础上，为场景增加更逼真的光照与材质细节表现
+  - 开发商Avalanche Software使用DLSS 5提供的开发者控制选项对该效果进行了调校，以保持游戏原本的美术风格与创作意图
+- **背景与起因：**
+  - 游戏同时支持DLSS多帧生成（Multi Frame Generation）和光线重建（Ray Reconstruction）技术，用于加速并增强其光线追踪画面表现
+  - 该游戏可通过Steam、Epic Games以及Xbox（含Xbox Play Anywhere）账号在GeForce NOW上云端流式运行，Ultimate会员可获得相当于GeForce RTX 5080级别的性能，无需升级本地PC硬件或下载游戏本体
+- **结果与进展：**
+  - Ultimate会员可通过云端运行的DLSS 4.5控制面板自行调节画质参数
+  - NVIDIA建议希望完整体验DLSS 5效果的用户购买Ultimate单日通行证，其费用可折算进首月会员订阅费用

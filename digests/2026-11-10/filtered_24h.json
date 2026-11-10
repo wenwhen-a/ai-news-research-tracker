@@ -1,0 +1,272 @@
+{
+  "as_of": "2026-11-10",
+  "cutoff": "2026-11-09",
+  "window_days": 1,
+  "summary": {
+    "input_items": 12,
+    "denied_source": 0,
+    "in_window": 12,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 12,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 12,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 10,
+    "previously_covered_count": 2
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Skydance Games在与华纳兄弟合并一个月后被曝裁员",
+        "url": "https://www.videogameschronicle.com/news/skydance-games-has-been-laying-off-some-of-its-staff-a-month-after-merging-with-warner-bros/",
+        "date": "2026-11-10",
+        "summary": "派拉蒙旗下Skydance Games在与华纳兄弟完成约1100亿美元合并约一个月后进行裁员,据报至少25人受影响;公司称这是\"重组和业务调整\"所致,并缩减了部分项目投入。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Skydance Games在与华纳兄弟合并一个月后被曝裁员",
+          "url": "https://www.videogameschronicle.com/news/skydance-games-has-been-laying-off-some-of-its-staff-a-month-after-merging-with-warner-bros/",
+          "date": "2026-11-10",
+          "summary": "派拉蒙旗下Skydance Games在与华纳兄弟完成约1100亿美元合并约一个月后进行裁员,据报至少25人受影响;公司称这是\"重组和业务调整\"所致,并缩减了部分项目投入。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《星球大战:Zero Company》开发商Bit Reactor被曝裁员",
+        "url": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
+        "date": "2026-11-09",
+        "summary": "据报道,《星球大战:Zero Company》开发商Bit Reactor在游戏发布前曾大规模停薪留职并于数周前重新召回过半员工后,又裁掉了部分未透露具体人数的员工;分析机构估计该游戏截至9月底销量约100万份。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《星球大战:Zero Company》开发商Bit Reactor被曝裁员",
+          "url": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
+          "date": "2026-11-09",
+          "summary": "据报道,《星球大战:Zero Company》开发商Bit Reactor在游戏发布前曾大规模停薪留职并于数周前重新召回过半员工后,又裁掉了部分未透露具体人数的员工;分析机构估计该游戏截至9月底销量约100万份。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Take-Two称《GTA6》预订量远超预期,但《NBA 2K27》表现不及预测",
+        "url": "https://www.videogameschronicle.com/news/gta-6-pre-orders-are-far-above-initial-expectations-but-nba-2k27-was-below-our-forecast-take-two-says/",
+        "date": "2026-11-10",
+        "summary": "Take-Two CEO Strauss Zelnick表示《GTA6》预订量\"远超最初预期\",而发售以来销量已破400万份的《NBA 2K27》营收表现低于公司预测;由于《GTA6》将于约10天后发售,公司暂未调整全年业绩指引。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Take-Two称《GTA6》预订量远超预期,但《NBA 2K27》表现不及预测",
+          "url": "https://www.videogameschronicle.com/news/gta-6-pre-orders-are-far-above-initial-expectations-but-nba-2k27-was-below-our-forecast-take-two-says/",
+          "date": "2026-11-10",
+          "summary": "Take-Two CEO Strauss Zelnick表示《GTA6》预订量\"远超最初预期\",而发售以来销量已破400万份的《NBA 2K27》营收表现低于公司预测;由于《GTA6》将于约10天后发售,公司暂未调整全年业绩指引。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "韩国DoubleU Games提出要约收购DoubleDown Interactive剩余股份",
+        "url": "https://www.pocketgamer.biz/doubleu-games-agrees-to-buy-remaining-stake-in-doubledown-interactive/",
+        "date": "2026-11-10",
+        "summary": "已持有DoubleDown Interactive约67.05%股权的韩国手游公司DoubleU Games宣布,将以每份美国存托股16.25美元现金对其余股份发起要约收购,资金来自自有现金及最高3000亿韩元(约2.24亿美元)过渡贷款,方案已获独立董事特别委员会认可。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "韩国DoubleU Games提出要约收购DoubleDown Interactive剩余股份",
+          "url": "https://www.pocketgamer.biz/doubleu-games-agrees-to-buy-remaining-stake-in-doubledown-interactive/",
+          "date": "2026-11-10",
+          "summary": "已持有DoubleDown Interactive约67.05%股权的韩国手游公司DoubleU Games宣布,将以每份美国存托股16.25美元现金对其余股份发起要约收购,资金来自自有现金及最高3000亿韩元(约2.24亿美元)过渡贷款,方案已获独立董事特别委员会认可。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "中国监管部门批准沙特Savvy Games Group收购《无限法则》开发商Moonton",
+        "url": "https://www.pocketgamer.biz/china-approves-savvy-games-groups-moonton-acquisition/",
+        "date": "2026-11-10",
+        "summary": "中国国家市场监督管理总局已无条件批准沙特公共投资基金旗下Savvy Games Group收购字节跳动旗下《无限法则》(Mobile Legends: Bang Bang)开发商Moonton,据报交易金额超过60亿美元,字节跳动2021年收购该工作室时花费约40亿美元。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "中国监管部门批准沙特Savvy Games Group收购《无限法则》开发商Moonton",
+          "url": "https://www.pocketgamer.biz/china-approves-savvy-games-groups-moonton-acquisition/",
+          "date": "2026-11-10",
+          "summary": "中国国家市场监督管理总局已无条件批准沙特公共投资基金旗下Savvy Games Group收购字节跳动旗下《无限法则》(Mobile Legends: Bang Bang)开发商Moonton,据报交易金额超过60亿美元,字节跳动2021年收购该工作室时花费约40亿美元。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "手游厂商Playtika宣布放弃出售计划,将继续独立运营",
+        "url": "https://www.pocketgamer.biz/playtika-rules-out-sale-and-will-continue-as-independent-company/",
+        "date": "2026-11-09",
+        "summary": "在对出售选项进行战略评估后,Playtika董事会决定公司将继续作为独立上市公司运营而非寻求出售;公司同日披露第三季度营收6.738亿美元,调整后EBITDA同比增长15.9%至创纪录的2.521亿美元,并维持全年业绩指引。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "手游厂商Playtika宣布放弃出售计划,将继续独立运营",
+          "url": "https://www.pocketgamer.biz/playtika-rules-out-sale-and-will-continue-as-independent-company/",
+          "date": "2026-11-09",
+          "summary": "在对出售选项进行战略评估后,Playtika董事会决定公司将继续作为独立上市公司运营而非寻求出售;公司同日披露第三季度营收6.738亿美元,调整后EBITDA同比增长15.9%至创纪录的2.521亿美元,并维持全年业绩指引。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "万代南梦宫宣布解散并清算《Unknown 9》开发商Reflector Entertainment",
+        "url": "https://www.gematsu.com/2026/11/bandai-namco-to-shut-down-reflector-entertainment",
+        "date": "2026-11-09",
+        "summary": "万代南梦宫基于业务组合审视,决定终止、解散并清算其2020年收购的工作室Reflector Entertainment,预计将在截至2027年3月的财年第三季度计提约2100万欧元的非经常性损失;该工作室代表作《Unknown 9: Awakening》此前评价平平。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "万代南梦宫宣布解散并清算《Unknown 9》开发商Reflector Entertainment",
+          "url": "https://www.gematsu.com/2026/11/bandai-namco-to-shut-down-reflector-entertainment",
+          "date": "2026-11-09",
+          "summary": "万代南梦宫基于业务组合审视,决定终止、解散并清算其2020年收购的工作室Reflector Entertainment,预计将在截至2027年3月的财年第三季度计提约2100万欧元的非经常性损失;该工作室代表作《Unknown 9: Awakening》此前评价平平。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "BioWare联合创始人与《星球大战:旧共和国武士》导演有意联手拯救BioWare的IP",
+        "url": "https://www.videogameschronicle.com/news/bioware-co-founder-and-star-wars-kotor-director-say-theyre-interested-in-reuniting-to-try-and-save-biowares-ip/",
+        "date": "2026-11-10",
+        "summary": "在EA上月宣布关闭BioWare并取消新《质量效应》后,BioWare联合创始人Trent Oster(现Beamdog负责人)与前《旧共和国武士》等作品创意总监James Ohlen表示有意重组团队并争取拿下《质量效应》《龙腾世纪》版权,但目前仍在测算可行性,尚无实际协议。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "BioWare联合创始人与《星球大战:旧共和国武士》导演有意联手拯救BioWare的IP",
+          "url": "https://www.videogameschronicle.com/news/bioware-co-founder-and-star-wars-kotor-director-say-theyre-interested-in-reuniting-to-try-and-save-biowares-ip/",
+          "date": "2026-11-10",
+          "summary": "在EA上月宣布关闭BioWare并取消新《质量效应》后,BioWare联合创始人Trent Oster(现Beamdog负责人)与前《旧共和国武士》等作品创意总监James Ohlen表示有意重组团队并争取拿下《质量效应》《龙腾世纪》版权,但目前仍在测算可行性,尚无实际协议。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《魔兽世界:Forever》创下系列同时在线人数与回流玩家历史纪录",
+        "url": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
+        "date": "2026-11-09",
+        "summary": "暴雪在社交媒体宣布,11月4日上线的怀旧版本《魔兽世界:Forever》创下该系列史上峰值同时在线人数及回流玩家数量的纪录,但未公布具体数字。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《魔兽世界:Forever》创下系列同时在线人数与回流玩家历史纪录",
+          "url": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
+          "date": "2026-11-09",
+          "summary": "暴雪在社交媒体宣布,11月4日上线的怀旧版本《魔兽世界:Forever》创下该系列史上峰值同时在线人数及回流玩家数量的纪录,但未公布具体数字。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "A股游戏公司三季报分化:头部企业前三季度狂揽超60亿利润,腰部陷买量泥潭",
+        "url": "https://youxituoluo.com/535038.html",
+        "date": "2026-11-09",
+        "summary": "据游戏陀螺梳理,2026年第三季度A股上市游戏公司业绩明显分化:世纪华通前三季度净利润63.35亿元(同比+45.37%)、巨人网络净利润28.86亿元(同比+103.73%)领跑行业,而三七互娱单季亏损2.96亿元、昆仑万维单季亏损10.85亿元,多家中小厂商游戏业务持续萎缩或转向其他业务。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "A股游戏公司三季报分化:头部企业前三季度狂揽超60亿利润,腰部陷买量泥潭",
+          "url": "https://youxituoluo.com/535038.html",
+          "date": "2026-11-09",
+          "summary": "据游戏陀螺梳理,2026年第三季度A股上市游戏公司业绩明显分化:世纪华通前三季度净利润63.35亿元(同比+45.37%)、巨人网络净利润28.86亿元(同比+103.73%)领跑行业,而三七互娱单季亏损2.96亿元、昆仑万维单季亏损10.85亿元,多家中小厂商游戏业务持续萎缩或转向其他业务。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Nexon公布2026年第三季度财报,《ARC Raiders》累计销量突破1700万份",
+        "url": "https://www.4gamer.net/games/999/G999905/20261110027/",
+        "date": "2026-11-10",
+        "summary": "Nexon第三季度营收1384亿日元(同比+17%)、营业利润418亿日元(同比+11%),其中《冒险岛》系列营收同比大涨72%创单季新高;公司同时披露《ARC Raiders》累计销量已突破1700万份,《Dave the Diver》9月销量也已突破1000万份。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Nexon公布2026年第三季度财报,《ARC Raiders》累计销量突破1700万份",
+          "url": "https://www.4gamer.net/games/999/G999905/20261110027/",
+          "date": "2026-11-10",
+          "summary": "Nexon第三季度营收1384亿日元(同比+17%)、营业利润418亿日元(同比+11%),其中《冒险岛》系列营收同比大涨72%创单季新高;公司同时披露《ARC Raiders》累计销量已突破1700万份,《Dave the Diver》9月销量也已突破1000万份。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Krafton公布2026年第三季度财报,营业利润同比下滑35.5%,预告PUBG十周年最大更新",
+        "url": "https://www.4gamer.net/games/348/G034868/20261110046/",
+        "date": "2026-11-10",
+        "summary": "Krafton第三季度营收9714亿韩元(同比+11.6%)但营业利润2250亿韩元(同比-35.5%);公司前三季度营收3.633万亿韩元创历史同期新高,并预告将在2027年PUBG十周年之际推出该系列史上最大规模内容更新。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Krafton公布2026年第三季度财报,营业利润同比下滑35.5%,预告PUBG十周年最大更新",
+          "url": "https://www.4gamer.net/games/348/G034868/20261110046/",
+          "date": "2026-11-10",
+          "summary": "Krafton第三季度营收9714亿韩元(同比+11.6%)但营业利润2250亿韩元(同比-35.5%);公司前三季度营收3.633万亿韩元创历史同期新高,并预告将在2027年PUBG十周年之际推出该系列史上最大规模内容更新。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

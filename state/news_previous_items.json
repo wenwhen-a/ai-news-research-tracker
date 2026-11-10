@@ -1,145 +1,5 @@
 [
  {
-  "title": "《Moonlighter》开发商因担忧AI克隆缩减新作《ReVamp》公测范围",
-  "url": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning",
-  "date": "2026-10-19",
-  "section": 2,
-  "posted": "2026-10-26"
- },
- {
-  "title": "Roblox、Fortnite、Google Playground等UGC平台竞相用AI降低游戏创作门槛",
-  "url": "https://gamesbeat.com/ugc-platforms-are-turning-to-ai-to-make-game-developers-out-of-everyday-players/",
-  "date": "2026-10-26",
-  "section": 2,
-  "posted": "2026-10-26"
- },
- {
-  "title": "《使命召唤:现代战争4》引入AI武器配装推荐系统\"Gunny\"",
-  "url": "https://gamesbeat.com/infinity-wards-improvements-to-call-of-duty-modern-warfare-4-multiplayer-exclusive-interview/",
-  "date": "2026-10-23",
-  "section": 2,
-  "posted": "2026-10-26"
- },
- {
-  "title": "网易《逆水寒：新世界》上线自拍模式，玩家可与AI门客NPC合拍",
-  "url": "https://h.163.com/news/official/20261024/37231_1317633.html",
-  "date": "2026-10-24",
-  "section": 2,
-  "posted": "2026-10-26"
- },
- {
-  "title": "AMD FSR 4.1超分技术提前登陆Radeon RX 6000显卡、Ryzen AI处理器及掌机设备",
-  "url": "https://www.invenglobal.com/articles/27423/amd-brings-fsr-41-to-radeon-rx-6000-cards-apus-and-xbox",
-  "date": "2026-10-20",
-  "section": 2,
-  "posted": "2026-10-26"
- },
- {
-  "title": "微软将Arkane寻找买家的最后期限延至12月中旬",
-  "url": "https://www.pushsquare.com/news/2026/10/microsoft-gives-dishonored-dev-more-time-to-find-a-buyer-needs-a-partner-to-finish-blade",
-  "date": "2026-10-26",
-  "section": 3,
-  "posted": "2026-10-26"
- },
- {
-  "title": "请愿留住《质量效应》系列联署突破20万人",
-  "url": "https://www.videogameschronicle.com/news/save-mass-effect-petition-cracks-200000-signatures-as-fans-plead-for-the-series-to-continue/",
-  "date": "2026-10-26",
-  "section": 3,
-  "posted": "2026-10-26"
- },
- {
-  "title": "《索尼克X暗影世代》销量突破300万份",
-  "url": "https://www.pushsquare.com/news/2026/10/sonic-x-shadow-generations-speeds-past-3-million-sales-as-it-turns-two-years-old",
-  "date": "2026-10-26",
-  "section": 3,
-  "posted": "2026-10-26"
- },
- {
-  "title": "亚马逊将《辐射避难所》改编为真人竞技真人秀",
-  "url": "https://www.pushsquare.com/news/2026/10/amazon-prime-turns-fallout-shelter-into-a-competition-tv-show",
-  "date": "2026-10-26",
-  "section": 3,
-  "posted": "2026-10-26"
- },
- {
-  "title": "《寂静岭》系列总监证实Konami让各工作室互相保密项目内容",
-  "url": "https://www.videogameschronicle.com/news/konami-deliberately-kept-its-multiple-silent-hill-games-secret-from-each-studio-to-avoid-crossover/",
-  "date": "2026-10-26",
-  "section": 3,
-  "posted": "2026-10-26"
- },
- {
-  "title": "Arrowhead首席创意官解释为何《绝地潜兵3》未在开发",
-  "url": "https://www.videogameschronicle.com/news/helldivers-3-isnt-in-development-because-its-biggest-competitor-would-be-helldivers-2-arrowhead-cco-says/",
-  "date": "2026-10-26",
-  "section": 3,
-  "posted": "2026-10-26"
- },
- {
-  "title": "金摇杆奖公布年度终极游戏12强提名",
-  "url": "https://gamerant.com/golden-joysticks-game-of-the-year-nominees/",
-  "date": "2026-10-26",
-  "section": 3,
-  "posted": "2026-10-26"
- },
- {
-  "title": "调查显示超半数玩家因《GTA6》售价选择等待打折",
-  "url": "https://gamesbeat.com/how-the-release-of-gta-vi-is-rewriting-the-playbook-for-gaming-retail-and-marketing/",
-  "date": "2026-10-26",
-  "section": 3,
-  "posted": "2026-10-26"
- },
- {
-  "title": "史克威尔艾尼克斯公布《最终幻想》40周年纪念专辑",
-  "url": "https://www.pushsquare.com/news/2026/10/final-fantasys-40th-anniversary-album-picks-just-one-track-from-each-main-game-and-itll-split-fan-opinion",
-  "date": "2026-10-26",
-  "section": 3,
-  "posted": "2026-10-26"
- },
- {
-  "title": "传闻称索尼PS6掌机性能可能超越市面所有同类设备",
-  "url": "https://www.pushsquare.com/news/2026/10/sonys-ps6-handheld-may-be-more-capable-than-every-other-device-on-the-market",
-  "date": "2026-10-26",
-  "section": 3,
-  "posted": "2026-10-26"
- },
- {
-  "title": "《Fate/Grand Order》真人密室逃脱游戏12月在东京开启",
-  "url": "https://www.siliconera.com/fate-grand-order-real-escape-room-game-starts-in-december/",
-  "date": "2026-10-26",
-  "section": 3,
-  "posted": "2026-10-26"
- },
- {
-  "title": "《龙珠异战2》10周年\"最终庆典\"活动10月开启",
-  "url": "https://www.siliconera.com/dragon-ball-xenoverse-2-10th-anniversary-final-festival-starts-in-october/",
-  "date": "2026-10-26",
-  "section": 3,
-  "posted": "2026-10-26"
- },
- {
-  "title": "PS5九月销量逆势上涨22%",
-  "url": "https://www.pushsquare.com/features/ps5-answers-bleakest-month-with-a-22percent-upswing-in-sales",
-  "date": "2026-10-25",
-  "section": 3,
-  "posted": "2026-10-26"
- },
- {
-  "title": "《莎木3》PS5强化版重新定档至2027年初",
-  "url": "https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027",
-  "date": "2026-10-25",
-  "section": 3,
-  "posted": "2026-10-26"
- },
- {
-  "title": "PS5打击破解固件更新引发新一轮玩家不满",
-  "url": "https://www.pushsquare.com/news/2026/10/ps5s-war-against-jailbreaks-triggers-fresh-wave-of-criticism",
-  "date": "2026-10-25",
-  "section": 3,
-  "posted": "2026-10-26"
- },
- {
   "title": "说明：排除所有与此前简报重复的候选项后，本节仅核实到2条符合条件的新简讯，远低于20条的目标数量；经三个子代理（合计超过300次检索/核实工具调用）及编排者本人额外约12次补充检索后未发现更多独立可核实的新候选，故未凑数。",
   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
   "date": "2026-10-22",
@@ -1713,5 +1573,138 @@
   "date": "2026-11-09",
   "section": 3,
   "posted": "2026-11-09"
+ },
+ {
+  "title": "IGF评委联合声明拒绝为使用生成式AI开发的游戏投票，入围工作室House House回应\"少量\"使用AI排查bug",
+  "url": "https://www.videogameschronicle.com/news/big-walk-studio-says-it-used-ai-sparingly-in-response-to-indie-award-jury-statement-against-its-use/",
+  "date": "2026-11-10",
+  "section": 1,
+  "posted": "2026-11-10"
+ },
+ {
+  "title": "Take-Two CEO泽尔尼克：盗版是娱乐行业\"永恒的事实\"，GTA 6发行前被问及AI复刻PS4游戏案例",
+  "url": "https://mp1st.com/?p=318140",
+  "date": "2026-11-06",
+  "section": 1,
+  "posted": "2026-11-10"
+ },
+ {
+  "title": "NVIDIA为《霍格沃茨之遗》GeForce NOW云游戏版本带来DLSS 5神经渲染升级",
+  "url": "https://blogs.nvidia.com/?p=99635",
+  "date": "2026-11-05",
+  "section": 1,
+  "posted": "2026-11-10"
+ },
+ {
+  "title": "《刺客信条：英灵殿》更新为PS5 Pro加入AI超分辨率技术PSSR，画质模式默认帧率提升至60帧",
+  "url": "https://news.ubisoft.com/en-us/article/79bZ5I440uHPJ3p3WmUMoB/assassins-creed-valhalla-the-most-requested-update-new-game-new-content-and-progression-and-more",
+  "date": "2026-11-05",
+  "section": 2,
+  "posted": "2026-11-10"
+ },
+ {
+  "title": "ArtStation上线AI声明与默认AI内容过滤功能",
+  "url": "https://80.lv/articles/artstation-adds-ai-declarations-default-ai-filtering-for-artwork",
+  "date": "2026-11-10",
+  "section": 2,
+  "posted": "2026-11-10"
+ },
+ {
+  "title": "Valve警告Steam新游审核大幅延迟，AI游戏激增被视为潜在诱因",
+  "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games",
+  "date": "2026-11-04",
+  "section": 2,
+  "posted": "2026-11-10"
+ },
+ {
+  "title": "网易《永劫无间》突袭上线英伟达DLSS 5神经渲染技术，成国内首款实装游戏",
+  "url": "https://tech.ifeng.com/c/8xnpF8R3mie",
+  "date": "2026-11-05",
+  "section": 2,
+  "posted": "2026-11-10"
+ },
+ {
+  "title": "网易亮相乌镇峰会：企业级AI Agent平台\"帝王蟹\"上新，《燕云十六声》入选CCTV出海案例",
+  "url": "https://www.ithome.com/1/022/322.htm",
+  "date": "2026-11-04",
+  "section": 2,
+  "posted": "2026-11-10"
+ },
+ {
+  "title": "Hutch联合创始人Shaun Rutland推出新工作室Anorak，主打\"可交互生成式视频\"游戏",
+  "url": "https://mobilegamer.biz/hutch-cofounder-shaun-rutland-teases-his-new-interactive-generative-video-studio-anorak/",
+  "date": "2026-11-04",
+  "section": 2,
+  "posted": "2026-11-10"
+ },
+ {
+  "title": "Skydance Games在与华纳兄弟合并一个月后被曝裁员",
+  "url": "https://www.videogameschronicle.com/news/skydance-games-has-been-laying-off-some-of-its-staff-a-month-after-merging-with-warner-bros/",
+  "date": "2026-11-10",
+  "section": 3,
+  "posted": "2026-11-10"
+ },
+ {
+  "title": "Take-Two称《GTA6》预订量远超预期，但《NBA 2K27》表现不及预测",
+  "url": "https://www.videogameschronicle.com/news/gta-6-pre-orders-are-far-above-initial-expectations-but-nba-2k27-was-below-our-forecast-take-two-says/",
+  "date": "2026-11-10",
+  "section": 3,
+  "posted": "2026-11-10"
+ },
+ {
+  "title": "韩国DoubleU Games提出要约收购DoubleDown Interactive剩余股份",
+  "url": "https://www.pocketgamer.biz/doubleu-games-agrees-to-buy-remaining-stake-in-doubledown-interactive/",
+  "date": "2026-11-10",
+  "section": 3,
+  "posted": "2026-11-10"
+ },
+ {
+  "title": "中国监管部门批准沙特Savvy Games Group收购《无限法则》开发商Moonton",
+  "url": "https://www.pocketgamer.biz/china-approves-savvy-games-groups-moonton-acquisition/",
+  "date": "2026-11-10",
+  "section": 3,
+  "posted": "2026-11-10"
+ },
+ {
+  "title": "手游厂商Playtika宣布放弃出售计划，将继续独立运营",
+  "url": "https://www.pocketgamer.biz/playtika-rules-out-sale-and-will-continue-as-independent-company/",
+  "date": "2026-11-09",
+  "section": 3,
+  "posted": "2026-11-10"
+ },
+ {
+  "title": "万代南梦宫宣布解散并清算《Unknown 9》开发商Reflector Entertainment",
+  "url": "https://www.gematsu.com/2026/11/bandai-namco-to-shut-down-reflector-entertainment",
+  "date": "2026-11-09",
+  "section": 3,
+  "posted": "2026-11-10"
+ },
+ {
+  "title": "BioWare联合创始人与《星球大战：旧共和国武士》导演有意联手拯救BioWare的IP",
+  "url": "https://www.videogameschronicle.com/news/bioware-co-founder-and-star-wars-kotor-director-say-theyre-interested-in-reuniting-to-try-and-save-biowares-ip/",
+  "date": "2026-11-10",
+  "section": 3,
+  "posted": "2026-11-10"
+ },
+ {
+  "title": "据游戏陀螺梳理：A股游戏公司三季报分化，头部企业狂揽利润，腰部陷买量泥潭",
+  "url": "https://youxituoluo.com/535038.html",
+  "date": "2026-11-09",
+  "section": 3,
+  "posted": "2026-11-10"
+ },
+ {
+  "title": "Nexon公布2026年第三季度财报，《ARC Raiders》累计销量突破1700万份",
+  "url": "https://www.4gamer.net/games/999/G999905/20261110027/",
+  "date": "2026-11-10",
+  "section": 3,
+  "posted": "2026-11-10"
+ },
+ {
+  "title": "Krafton公布2026年第三季度财报，营业利润同比下滑35.5%，预告PUBG十周年最大更新",
+  "url": "https://www.4gamer.net/games/348/G034868/20261110046/",
+  "date": "2026-11-10",
+  "section": 3,
+  "posted": "2026-11-10"
  }
 ]
