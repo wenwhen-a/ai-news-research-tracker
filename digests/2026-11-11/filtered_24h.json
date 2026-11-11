@@ -1,0 +1,352 @@
+{
+  "as_of": "2026-11-11",
+  "cutoff": "2026-11-10",
+  "window_days": 1,
+  "summary": {
+    "input_items": 16,
+    "denied_source": 0,
+    "in_window": 16,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 16,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 16,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 15,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "手游工作室Fortis Games关闭，440个岗位面临风险",
+        "url": "https://www.pocketgamer.biz/fortis-games-shuts-down-as-up-to-440-jobs-are-put-at-risk/",
+        "date": "2026-11-11",
+        "summary": "游戏工作室Fortis Games因主要投资方Las Vegas Sands终止资助而关闭，最多440个岗位受到影响；其软上线游戏《Twilight Towers》将于11月16日停止运营。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "手游工作室Fortis Games关闭，440个岗位面临风险",
+          "url": "https://www.pocketgamer.biz/fortis-games-shuts-down-as-up-to-440-jobs-are-put-at-risk/",
+          "date": "2026-11-11",
+          "summary": "游戏工作室Fortis Games因主要投资方Las Vegas Sands终止资助而关闭，最多440个岗位受到影响；其软上线游戏《Twilight Towers》将于11月16日停止运营。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "My.Games达成管理层收购协议，获阿联酋投资者支持",
+        "url": "https://www.pocketgamer.biz/mygames-agrees-to-management-buyout-backed-by-uae-investor/",
+        "date": "2026-11-10",
+        "summary": "My.Games唯一股东Alexander Chachava同意由CEO Elena Grigorian和COO Denis Savuta主导的管理层收购，交易获阿联酋投资者Georgy Nurislamov支持，预计2026年底完成，公司品牌与管理层保持不变。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "My.Games达成管理层收购协议，获阿联酋投资者支持",
+          "url": "https://www.pocketgamer.biz/mygames-agrees-to-management-buyout-backed-by-uae-investor/",
+          "date": "2026-11-10",
+          "summary": "My.Games唯一股东Alexander Chachava同意由CEO Elena Grigorian和COO Denis Savuta主导的管理层收购，交易获阿联酋投资者Georgy Nurislamov支持，预计2026年底完成，公司品牌与管理层保持不变。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "乐高数字娱乐收购《高尔夫冲突》创始团队工作室ForthStar",
+        "url": "https://www.pocketgamer.biz/lego-digital-play-acquires-golf-clash-founders-forthstar-studio/",
+        "date": "2026-11-10",
+        "summary": "乐高数字娱乐（Lego Digital Play）收购了由《高尔夫冲突》（Golf Clash）创始人Paul Gouge和Alex Rigby创立的曼彻斯特手游工作室ForthStar，约30名员工加入，交易金额未披露。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "乐高数字娱乐收购《高尔夫冲突》创始团队工作室ForthStar",
+          "url": "https://www.pocketgamer.biz/lego-digital-play-acquires-golf-clash-founders-forthstar-studio/",
+          "date": "2026-11-10",
+          "summary": "乐高数字娱乐（Lego Digital Play）收购了由《高尔夫冲突》（Golf Clash）创始人Paul Gouge和Alex Rigby创立的曼彻斯特手游工作室ForthStar，约30名员工加入，交易金额未披露。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Merak Capital领投沙特工作室Lambda Studios 130万美元融资",
+        "url": "https://www.pocketgamer.biz/merak-capital-leads-13m-round-in-lambda-studios/",
+        "date": "2026-11-11",
+        "summary": "沙特投资机构Merak Capital领投该国游戏开发商兼发行商Lambda Studios 130万美元融资；Lambda Studios起步于Roblox平台，目前正拓展至Steam等平台，这是Merak Capital继Floaty Studio、Majestic Mind Games后对沙特游戏工作室的又一笔投资。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Merak Capital领投沙特工作室Lambda Studios 130万美元融资",
+          "url": "https://www.pocketgamer.biz/merak-capital-leads-13m-round-in-lambda-studios/",
+          "date": "2026-11-11",
+          "summary": "沙特投资机构Merak Capital领投该国游戏开发商兼发行商Lambda Studios 130万美元融资；Lambda Studios起步于Roblox平台，目前正拓展至Steam等平台，这是Merak Capital继Floaty Studio、Majestic Mind Games后对沙特游戏工作室的又一笔投资。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "沙特PIF探索新融资方式，拟从投资组合公司中释放现金",
+        "url": "https://www.pocketgamer.biz/saudi-pif-explores-new-fundraising-options-to-unlock-cash-from-portfolio-companies/",
+        "date": "2026-11-11",
+        "summary": "据报道，沙特公共投资基金（PIF）正考虑通过证券化成熟投资组合公司的现金流或出售部分股权等方式筹集资金，以便无需追加自身资本即可为新投资提供资金，此举紧随其向沙特阿美出售AI公司Humain 49%股权之后。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "沙特PIF探索新融资方式，拟从投资组合公司中释放现金",
+          "url": "https://www.pocketgamer.biz/saudi-pif-explores-new-fundraising-options-to-unlock-cash-from-portfolio-companies/",
+          "date": "2026-11-11",
+          "summary": "据报道，沙特公共投资基金（PIF）正考虑通过证券化成熟投资组合公司的现金流或出售部分股权等方式筹集资金，以便无需追加自身资本即可为新投资提供资金，此举紧随其向沙特阿美出售AI公司Humain 49%股权之后。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "欧盟《数字公平法案》草案曝光，拟严格限制游戏氪金机制",
+        "url": "https://www.pocketgamer.biz/leaked-eu-proposal-targets-loot-boxes-and-addictive-game-design/",
+        "date": "2026-11-10",
+        "summary": "据报道，欧盟委员会《数字公平法案》草案拟限制面向未成年人的付费开箱、氪金抽卡等机制，并要求更清晰披露开箱概率与虚拟货币价值；该草案预计于11月11日正式公布，业内人士担忧新规或对中小开发商和免费游玩游戏影响最大。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "欧盟《数字公平法案》草案曝光，拟严格限制游戏氪金机制",
+          "url": "https://www.pocketgamer.biz/leaked-eu-proposal-targets-loot-boxes-and-addictive-game-design/",
+          "date": "2026-11-10",
+          "summary": "据报道，欧盟委员会《数字公平法案》草案拟限制面向未成年人的付费开箱、氪金抽卡等机制，并要求更清晰披露开箱概率与虚拟货币价值；该草案预计于11月11日正式公布，业内人士担忧新规或对中小开发商和免费游玩游戏影响最大。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Sensor Tower：中国手游厂商占全球头部手游收入40%份额，美国降至16.5%",
+        "url": "https://www.pocketgamer.biz/china-takes-40-of-global-mobile-games-revenue-as-us-share-falls-to-165/",
+        "date": "2026-11-11",
+        "summary": "据Sensor Tower数据，截至2026年年中，中国发行商已占全球头部手游收入约40%份额，美国发行商份额降至约16.5%；两国曾在2024年初旗鼓相当，此后多款爆款手游推动中国份额持续扩大。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Sensor Tower：中国手游厂商占全球头部手游收入40%份额，美国降至16.5%",
+          "url": "https://www.pocketgamer.biz/china-takes-40-of-global-mobile-games-revenue-as-us-share-falls-to-165/",
+          "date": "2026-11-11",
+          "summary": "据Sensor Tower数据，截至2026年年中，中国发行商已占全球头部手游收入约40%份额，美国发行商份额降至约16.5%；两国曾在2024年初旗鼓相当，此后多款爆款手游推动中国份额持续扩大。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Black Forest Games管理层收购独立，结束与THQ Nordic近十年合作",
+        "url": "https://www.gematsu.com/2026/11/black-forest-games-splits-from-thq-nordic",
+        "date": "2026-11-11",
+        "summary": "德国工作室Black Forest Games通过管理层收购方式脱离THQ Nordic近十年的控股关系重获独立，双方仍将继续合作开发游戏，该工作室同时成为新独立工作室联盟Third Signal的创始成员及共同所有者。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Black Forest Games管理层收购独立，结束与THQ Nordic近十年合作",
+          "url": "https://www.gematsu.com/2026/11/black-forest-games-splits-from-thq-nordic",
+          "date": "2026-11-11",
+          "summary": "德国工作室Black Forest Games通过管理层收购方式脱离THQ Nordic近十年的控股关系重获独立，双方仍将继续合作开发游戏，该工作室同时成为新独立工作室联盟Third Signal的创始成员及共同所有者。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "索尼公布PS5全球出货量突破1亿台",
+        "url": "https://www.videogameschronicle.com/news/playstation-5-officially-clears-100-million-consoles-shipped/",
+        "date": "2026-11-11",
+        "summary": "索尼宣布截至2026年11月10日，PlayStation 5全球出货量已突破1亿台，用时近六年，略慢于PS4达成同一里程碑的速度。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "索尼公布PS5全球出货量突破1亿台",
+          "url": "https://www.videogameschronicle.com/news/playstation-5-officially-clears-100-million-consoles-shipped/",
+          "date": "2026-11-11",
+          "summary": "索尼宣布截至2026年11月10日，PlayStation 5全球出货量已突破1亿台，用时近六年，略慢于PS4达成同一里程碑的速度。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据报道索尼取消Haven Studios服务型射击游戏《Fairgame$》",
+        "url": "https://www.videogameschronicle.com/news/playstation-reportedly-cancels-fairgames-after-recent-playtests/",
+        "date": "2026-11-10",
+        "summary": "据彭博社报道，索尼已取消Haven Studios开发的服务型射击游戏《Fairgame$》，原因是近期试玩未达预期目标；据悉Haven Studios本身不会关闭，也不会有裁员。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据报道索尼取消Haven Studios服务型射击游戏《Fairgame$》",
+          "url": "https://www.videogameschronicle.com/news/playstation-reportedly-cancels-fairgames-after-recent-playtests/",
+          "date": "2026-11-10",
+          "summary": "据彭博社报道，索尼已取消Haven Studios开发的服务型射击游戏《Fairgame$》，原因是近期试玩未达预期目标；据悉Haven Studios本身不会关闭，也不会有裁员。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "PS Plus PC端云游戏客户端将于12月10日停止服务",
+        "url": "https://www.videogameschronicle.com/news/playstation-announces-end-of-pc-streaming-in-december/",
+        "date": "2026-11-10",
+        "summary": "索尼宣布将于12月10日停止PlayStation Plus PC云游戏客户端服务，理由是使用率过低（符合条件的高级会员中使用该应用的比例不足0.4%），PS5/PS4主机端会员权益不受影响。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "PS Plus PC端云游戏客户端将于12月10日停止服务",
+          "url": "https://www.videogameschronicle.com/news/playstation-announces-end-of-pc-streaming-in-december/",
+          "date": "2026-11-10",
+          "summary": "索尼宣布将于12月10日停止PlayStation Plus PC云游戏客户端服务，理由是使用率过低（符合条件的高级会员中使用该应用的比例不足0.4%），PS5/PS4主机端会员权益不受影响。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "任天堂向GitHub发DMCA通知，下架144个Switch破解芯片固件仓库",
+        "url": "https://www.videogameschronicle.com/news/nintendos-battle-against-piracy-continues-with-a-dmca-takedown-on-switch-mod-chip-firmware/",
+        "date": "2026-11-11",
+        "summary": "任天堂向GitHub提交DMCA下架通知，致使144个涉及SX Core、SX Lite、Picofly、HWFLY等Switch破解芯片固件的代码仓库被移除，任天堂称相关固件通过绕过主机启动流程规避版权保护机制。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "任天堂向GitHub发DMCA通知，下架144个Switch破解芯片固件仓库",
+          "url": "https://www.videogameschronicle.com/news/nintendos-battle-against-piracy-continues-with-a-dmca-takedown-on-switch-mod-chip-firmware/",
+          "date": "2026-11-11",
+          "summary": "任天堂向GitHub提交DMCA下架通知，致使144个涉及SX Core、SX Lite、Picofly、HWFLY等Switch破解芯片固件的代码仓库被移除，任天堂称相关固件通过绕过主机启动流程规避版权保护机制。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Discord首席商务官披露平台约9000万日活数据及开发者工具成效",
+        "url": "https://www.youxituoluo.com/535044.html",
+        "date": "2026-11-10",
+        "summary": "Discord首席商务官Jules Shumaker在播客节目中透露，该平台日活跃用户约9000万，面向开发者提供免费社交SDK、流失玩家唤回广告及零抽成社交电商模式，内部数据显示接入SDK的玩家28日留存率可提升31%。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Discord首席商务官披露平台约9000万日活数据及开发者工具成效",
+          "url": "https://www.youxituoluo.com/535044.html",
+          "date": "2026-11-10",
+          "summary": "Discord首席商务官Jules Shumaker在播客节目中透露，该平台日活跃用户约9000万，面向开发者提供免费社交SDK、流失玩家唤回广告及零抽成社交电商模式，内部数据显示接入SDK的玩家28日留存率可提升31%。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《塞尔达传说：时之笛》重制版四天销量突破520万份",
+        "url": "https://www.videogameschronicle.com/news/the-legend-of-zelda-ocarina-of-time-remake-sold-5-2-million-in-its-first-four-days/",
+        "date": "2026-11-10",
+        "summary": "任天堂公布《塞尔达传说：时之笛》重制版发售四天内全球销量已突破520万份。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《塞尔达传说：时之笛》重制版四天销量突破520万份",
+          "url": "https://www.videogameschronicle.com/news/the-legend-of-zelda-ocarina-of-time-remake-sold-5-2-million-in-its-first-four-days/",
+          "date": "2026-11-10",
+          "summary": "任天堂公布《塞尔达传说：时之笛》重制版发售四天内全球销量已突破520万份。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "NCSoft联席CEO朴炯武：预计2027年营收将超3万亿韩元",
+        "url": "https://www.invenglobal.com/articles/28464/nc-co-ceo-byung-moo-park-revenue-will-exceed-3-trillion-won-in-2027",
+        "date": "2026-11-11",
+        "summary": "NCSoft在2026年第三季度财报说明会上，联席CEO朴炯武预计2027年营收将达3.2万亿至3.4万亿韩元，并将2026年营收预期上调至约2.8万亿韩元；公司第三季度营收达6865亿韩元，同比增长91%。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "NCSoft联席CEO朴炯武：预计2027年营收将超3万亿韩元",
+          "url": "https://www.invenglobal.com/articles/28464/nc-co-ceo-byung-moo-park-revenue-will-exceed-3-trillion-won-in-2027",
+          "date": "2026-11-11",
+          "summary": "NCSoft在2026年第三季度财报说明会上，联席CEO朴炯武预计2027年营收将达3.2万亿至3.4万亿韩元，并将2026年营收预期上调至约2.8万亿韩元；公司第三季度营收达6865亿韩元，同比增长91%。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "日本Falcom公布2026财年创纪录营收，公布《英雄传说：黎之轨迹》完结篇",
+        "url": "https://www.invenglobal.com/articles/28461/nihon-falcom-records-422-billion-won-in-fy2026-revenue-sets-kai-no-kiseki-final-chapter-for-2027",
+        "date": "2026-11-10",
+        "summary": "日本Falcom公布截至2026年9月的2026财年创纪录业绩，净销售额约44.74亿日元，主要受《英雄传说：空之轨迹》重制版与《京之轨迹》等作品带动；公司同时公布2027财年推出《黎之轨迹完结篇》，\"轨迹\"系列全球累计销量已突破1000万份。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "日本Falcom公布2026财年创纪录营收，公布《英雄传说：黎之轨迹》完结篇",
+          "url": "https://www.invenglobal.com/articles/28461/nihon-falcom-records-422-billion-won-in-fy2026-revenue-sets-kai-no-kiseki-final-chapter-for-2027",
+          "date": "2026-11-10",
+          "summary": "日本Falcom公布截至2026年9月的2026财年创纪录业绩，净销售额约44.74亿日元，主要受《英雄传说：空之轨迹》重制版与《京之轨迹》等作品带动；公司同时公布2027财年推出《黎之轨迹完结篇》，\"轨迹\"系列全球累计销量已突破1000万份。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

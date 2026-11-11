@@ -1,110 +1,5 @@
 [
  {
-  "title": "说明：排除所有与此前简报重复的候选项后，本节仅核实到2条符合条件的新简讯，远低于20条的目标数量；经三个子代理（合计超过300次检索/核实工具调用）及编排者本人额外约12次补充检索后未发现更多独立可核实的新候选，故未凑数。",
-  "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
-  "date": "2026-10-22",
-  "section": 2,
-  "posted": "2026-10-27"
- },
- {
-  "title": "PS5黑客用AI找到高危漏洞，获索尼5万美元最高档漏洞赏金",
-  "url": "https://www.ithome.com/1/018/266.htm",
-  "date": "2026-10-27",
-  "section": 2,
-  "posted": "2026-10-27"
- },
- {
-  "title": "微软向约四分之一员工（约6万人）提供自愿离职计划",
-  "url": "https://www.videogameschronicle.com/news/microsoft-offers-buyouts-to-around-60000-employees/",
-  "date": "2026-10-27",
-  "section": 3,
-  "posted": "2026-10-27"
- },
- {
-  "title": "卡普空因PHP安全漏洞紧急下架《街头霸王5》并关闭服务器",
-  "url": "https://www.videogameschronicle.com/news/capcom-has-pulled-street-fighter-5-from-sale-and-shut-down-its-servers/",
-  "date": "2026-10-27",
-  "section": 3,
-  "posted": "2026-10-27"
- },
- {
-  "title": "《精灵宝可梦大集结》确认将于2027年3月停止运营",
-  "url": "https://www.videogameschronicle.com/news/pokemons-unite-will-shut-down-in-march-2027/",
-  "date": "2026-10-27",
-  "section": 3,
-  "posted": "2026-10-27"
- },
- {
-  "title": "印度游戏公司Nazara第二财季营收创纪录达8430万美元",
-  "url": "https://www.pocketgamer.biz/games-drive-nazara-to-record-q2-revenue/",
-  "date": "2026-10-27",
-  "section": 3,
-  "posted": "2026-10-27"
- },
- {
-  "title": "英国工作室Auroch Digital裁减约四分之一员工",
-  "url": "https://www.pocketgamer.biz/auroch-digital-cuts-around-a-quarter-of-staff/",
-  "date": "2026-10-27",
-  "section": 3,
-  "posted": "2026-10-27"
- },
- {
-  "title": "《幽灵年代》开发商Sucker Punch裁员24人",
-  "url": "https://gamesbeat.com/ghost-of-yotei-developer-sucker-punch-lays-off-24-employees/",
-  "date": "2026-10-26",
-  "section": 3,
-  "posted": "2026-10-27"
- },
- {
-  "title": "据报道Bloober Team《寂静岭》重制版定档2027年发售，公布两名演员",
-  "url": "https://www.videogameschronicle.com/news/bloober-teams-silent-hill-remake-reportedly-gets-a-2027-release-date-and-two-cast-members/",
-  "date": "2026-10-27",
-  "section": 3,
-  "posted": "2026-10-27"
- },
- {
-  "title": "任天堂将于10月28日举办新一期Indie World独立游戏发布会",
-  "url": "https://www.videogameschronicle.com/news/nintendos-next-indie-world-showcase-is-set-for-october-28/",
-  "date": "2026-10-27",
-  "section": 3,
-  "posted": "2026-10-27"
- },
- {
-  "title": "《刺客信条4:黑旗 重新编译版》迎来最后一次重大更新",
-  "url": "https://www.videogameschronicle.com/news/assassins-creed-4-black-flags-resynced-gets-its-final-major-update-adding-a-new-game-plus-mode/",
-  "date": "2026-10-27",
-  "section": 3,
-  "posted": "2026-10-27"
- },
- {
-  "title": "《ARC:掠夺者》开发商Embark仍在评估是否永久保留PvE模式",
-  "url": "https://www.videogameschronicle.com/news/after-experimenting-with-a-pve-mode-arc-raiders-dev-is-still-deciding-whether-to-keep-it-permanently/",
-  "date": "2026-10-27",
-  "section": 3,
-  "posted": "2026-10-27"
- },
- {
-  "title": "《质量效应5》作曲家在项目取消后公开未采用配乐demo",
-  "url": "https://www.videogameschronicle.com/news/grammy-winning-composer-shares-unused-mass-effect-5-demo-after-the-games-cancellation/",
-  "date": "2026-10-26",
-  "section": 3,
-  "posted": "2026-10-27"
- },
- {
-  "title": "《超级马力欧》之父宫本茂将获颁日本文化勋章",
-  "url": "https://www.pocketgamer.biz/mario-creator-shigeru-miyamoto-to-receive-japans-order-of-culture/",
-  "date": "2026-10-26",
-  "section": 3,
-  "posted": "2026-10-27"
- },
- {
-  "title": "Nightdive Studios CEO谈收购策略：随意改变被收购工作室身份往往导致其消亡",
-  "url": "https://www.gamedeveloper.com/business/night-dive-studios-ceo-on-why-changing-the-identity-of-an-acquired-studio-often-kills-it",
-  "date": "2026-10-27",
-  "section": 3,
-  "posted": "2026-10-27"
- },
- {
   "title": "说明：本节经两个独立检索批次（Sonnet子代理分别覆盖西方大厂/平台、中国大厂/引擎/硬件）及编排者本人约11次补充检索（涵盖NVIDIA ACE、Inworld AI、游戏AI融资、反作弊AI、生成式素材工具、Unity Muse、Roblox Cube 3D、PlayStation Mockingbird、SAG-AFTRA/配音演员、GamesIndustry.biz等专项检索）后，过去7天内（2026-10-21至2026-10-28）符合\"游戏+AI\"交叉、具备充分事实/背景/结果素材、且未被此前简报报道过的深度新闻候选项为2条，低于5条的目标数量。中文信源检索（游戏陀螺、36氪、IT之家、触乐周报、腾讯/网易/米哈游/字节/阿里官方渠道）未发现任何未被`state/news_previous_items.json`覆盖的新候选——本周中文游戏+AI热点（米哈游GameScaling开源、叠纸机器人子公司、腾讯\"鹅次元\"内测、网易AI选照NPC、Steam Next Fest AI披露数据等）均已在此前14天内的简报中报道过。",
   "url": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
   "date": "2026-10-27",
@@ -1706,5 +1601,201 @@
   "date": "2026-11-10",
   "section": 3,
   "posted": "2026-11-10"
+ },
+ {
+  "title": "AMD与微软联合为Xbox Series X|S带来机器学习升级技术FSR Upscaling 4.1",
+  "url": "https://developer.microsoft.com/en-us/games/articles/2026/11/amd-fsr-upscaling-4-is-now-available-for-xbox",
+  "date": "2026-11-04",
+  "section": 1,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "日本AI公司Preferred Networks开源发布翻译模型PLaMo 3 Translate，带动游戏实时本地化工具井喷",
+  "url": "https://www.preferred.jp/ja/news/pr20261105/",
+  "date": "2026-11-05",
+  "section": 1,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "游戏陀螺深度调查：生成式AI拉低原型制作门槛，游戏策划岗位正\"抽卡师\"化",
+  "url": "https://www.youxituoluo.com/535045.html",
+  "date": "2026-11-11",
+  "section": 1,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "PocketGamer行业调查(下篇)：GDC数据显示52%从业者认为生成式AI带来负面影响，移动与主机/PC态度分化",
+  "url": "https://www.pocketgamer.biz/is-the-games-industry-becoming-more-optimistic-about-ai-mobile-mavens-part-2/",
+  "date": "2026-11-09",
+  "section": 1,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "更新】虚幻引擎5.9预览版生成式AI协作工作区\"Unreal Canvas\"细节曝光，Epic标注\"实验性\"并提示出货风险",
+  "url": "https://dev.epicgames.com/documentation/unreal-engine/unreal-canvas-overview-in-unreal-engine",
+  "date": "2026-11-09",
+  "section": 1,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "Unity官方博客发布AI辅助游戏项目管理十条建议",
+  "url": "https://unity.com/blog/how-to-organize-a-game-project-with-ai",
+  "date": "2026-11-10",
+  "section": 2,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "《Blender 5.3》正式发布：原生支持3D高斯溅射，并集成NVIDIA DLSS 4.5光线重建AI降噪器",
+  "url": "https://80.lv/articles/blender-5-3-has-finally-arrived",
+  "date": "2026-11-11",
+  "section": 2,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "游戏并购顾问谈AI对工作室估值的影响：节省的制作成本未必能转化为更高收购价",
+  "url": "https://www.pocketgamer.biz/strategic-alternatives-rhys-dekle-how-to-keep-the-value-ai-creates-at-your-studio/",
+  "date": "2026-11-11",
+  "section": 2,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "AI游戏引擎公司Tryll推出免费开放测试版，支持Unity与虚幻引擎本地运行语言模型",
+  "url": "https://www.gamespress.com/en-US/Tryll-Launches-Free-Open-Beta-of-Its-On-Device-AI-Engine-and-Announces",
+  "date": "2026-11-10",
+  "section": 2,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "玩家挖掘《GTA6》Xbox预载文件，发现AMD FSR 4.1神经网络升频技术相关组件",
+  "url": "https://www.ithome.com/1/025/821.htm",
+  "date": "2026-11-11",
+  "section": 2,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "生成式AI泛滥致判断真伪困难，澳大利亚第12届科技教育电子游戏挑战赛宣布停办",
+  "url": "https://www.ithome.com/1/025/556.htm",
+  "date": "2026-11-11",
+  "section": 2,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "AI创意生产平台Layer推出\"动态设计师\"智能体，游戏工作室可通过对话直接生成买量广告视频",
+  "url": "https://www.pocketgamer.biz/layer-launches-motion-designer-agent-game-studios-can-now-create-campaign-ready-ua-videos-just-by-chatting/",
+  "date": "2026-11-11",
+  "section": 2,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "Fortis Games关闭，440个岗位面临风险",
+  "url": "https://www.pocketgamer.biz/fortis-games-shuts-down-as-up-to-440-jobs-are-put-at-risk/",
+  "date": "2026-11-11",
+  "section": 3,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "My.Games达成管理层收购协议，获阿联酋投资者支持",
+  "url": "https://www.pocketgamer.biz/mygames-agrees-to-management-buyout-backed-by-uae-investor/",
+  "date": "2026-11-10",
+  "section": 3,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "乐高数字娱乐收购《高尔夫冲突》创始团队工作室ForthStar",
+  "url": "https://www.pocketgamer.biz/lego-digital-play-acquires-golf-clash-founders-forthstar-studio/",
+  "date": "2026-11-10",
+  "section": 3,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "Merak Capital领投沙特工作室Lambda Studios 130万美元融资",
+  "url": "https://www.pocketgamer.biz/merak-capital-leads-13m-round-in-lambda-studios/",
+  "date": "2026-11-11",
+  "section": 3,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "据报道沙特PIF探索新融资方式，拟从投资组合公司中释放现金",
+  "url": "https://www.pocketgamer.biz/saudi-pif-explores-new-fundraising-options-to-unlock-cash-from-portfolio-companies/",
+  "date": "2026-11-11",
+  "section": 3,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "据报道欧盟《数字公平法案》草案曝光，拟严格限制游戏氪金机制",
+  "url": "https://www.pocketgamer.biz/leaked-eu-proposal-targets-loot-boxes-and-addictive-game-design/",
+  "date": "2026-11-10",
+  "section": 3,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "Sensor Tower：中国手游厂商占全球头部手游收入40%份额，美国降至16.5%",
+  "url": "https://www.pocketgamer.biz/china-takes-40-of-global-mobile-games-revenue-as-us-share-falls-to-165/",
+  "date": "2026-11-11",
+  "section": 3,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "Black Forest Games管理层收购独立，结束与THQ Nordic近十年合作",
+  "url": "https://www.gematsu.com/2026/11/black-forest-games-splits-from-thq-nordic",
+  "date": "2026-11-11",
+  "section": 3,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "索尼公布PS5全球出货量突破1亿台",
+  "url": "https://www.videogameschronicle.com/news/playstation-5-officially-clears-100-million-consoles-shipped/",
+  "date": "2026-11-11",
+  "section": 3,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "据报道索尼取消Haven Studios服务型射击游戏《Fairgame$》",
+  "url": "https://www.videogameschronicle.com/news/playstation-reportedly-cancels-fairgames-after-recent-playtests/",
+  "date": "2026-11-10",
+  "section": 3,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "PS Plus PC端云游戏客户端将于12月10日停止服务",
+  "url": "https://www.videogameschronicle.com/news/playstation-announces-end-of-pc-streaming-in-december/",
+  "date": "2026-11-10",
+  "section": 3,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "任天堂向GitHub发DMCA通知，下架144个Switch破解芯片固件仓库",
+  "url": "https://www.videogameschronicle.com/news/nintendos-battle-against-piracy-continues-with-a-dmca-takedown-on-switch-mod-chip-firmware/",
+  "date": "2026-11-11",
+  "section": 3,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "Discord首席商务官披露平台约9000万日活数据及开发者工具成效",
+  "url": "https://www.youxituoluo.com/535044.html",
+  "date": "2026-11-10",
+  "section": 3,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "《塞尔达传说：时之笛》重制版四天销量突破520万份",
+  "url": "https://www.videogameschronicle.com/news/the-legend-of-zelda-ocarina-of-time-remake-sold-5-2-million-in-its-first-four-days/",
+  "date": "2026-11-10",
+  "section": 3,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "NCSoft联席CEO朴炯武：预计2027年营收将超3万亿韩元",
+  "url": "https://www.invenglobal.com/articles/28464/nc-co-ceo-byung-moo-park-revenue-will-exceed-3-trillion-won-in-2027",
+  "date": "2026-11-11",
+  "section": 3,
+  "posted": "2026-11-11"
+ },
+ {
+  "title": "日本Falcom公布2026财年创纪录营收，公布《英雄传说：黎之轨迹》完结篇",
+  "url": "https://www.invenglobal.com/articles/28461/nihon-falcom-records-422-billion-won-in-fy2026-revenue-sets-kai-no-kiseki-final-chapter-for-2027",
+  "date": "2026-11-10",
+  "section": 3,
+  "posted": "2026-11-11"
  }
 ]

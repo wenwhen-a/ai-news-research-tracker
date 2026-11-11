@@ -1,0 +1,508 @@
+{
+  "as_of": "2026-11-11",
+  "cutoff": "2026-11-04",
+  "window_days": 7,
+  "summary": {
+    "input_items": 14,
+    "denied_source": 0,
+    "in_window": 14,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 12,
+    "duplicate_clusters": 2,
+    "section1_count": 5,
+    "section2_count": 7,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": true,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 12,
+    "previously_covered_count": 0
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "AMD与微软联合为Xbox Series X|S带来机器学习升级技术FSR Upscaling 4.1",
+        "url": "https://developer.microsoft.com/en-us/games/articles/2026/11/amd-fsr-upscaling-4-is-now-available-for-xbox",
+        "date": "2026-11-04",
+        "summary": "微软Xbox官方开发者博客与AMD GPUOpen于2026年11月4日同步宣布，基于机器学习的AMD FSR Upscaling 4（版本4.1.2）正式向Xbox开发者开放，这是ML版FSR首次登陆Xbox主机硬件，适配Series X|S的RDNA 2架构GPU并扩展至华硕ROG Xbox Ally掌机，GDK样例提供Full与Lite两种INT8模型供性能与画质权衡。",
+        "section": 1,
+        "facts": [
+          "2026年11月4日，微软Xbox官方开发者博客（Xbox Game Dev Blog，作者Claude Marais，Team XBOX首席软件工程负责人）宣布AMD FSR Upscaling 4（版本4.1.2）正式向Xbox开发者开放",
+          "这是基于机器学习的FSR首次登陆Xbox主机硬件，适配Xbox Series X|S的RDNA 2架构GPU，同步扩展支持华硕ROG Xbox Ally掌机",
+          "微软游戏开发者套件（GDK）样例代码提供Full与Lite两种INT8模型，供开发者在画质与性能间权衡，Lite模型体积不到Full模型的一半",
+          "官方公布单帧GPU耗时数据：Xbox Series X上，Lite模型1440p为1.29ms、4K为2.75ms，Full模型1440p为1.95ms、4K为3.86ms；Xbox Series S上，Lite模型1080p为1.9ms、1440p为3.4ms，Full模型1080p为2.9ms、1440p为5.2ms",
+          "AMD同日在其开发者网站GPUOpen发布配套说明确认该功能上线，媒体综合报道称该功能随2026年10月版Xbox Game Development Kit（GDK）提供"
+        ],
+        "background": [
+          "FSR 4最初于2025年8月随AMD FidelityFX SDK 2.0发布，当时要求RDNA 4架构（Radeon RX 9000系列及以上）GPU，算法在AMD Instinct GPU上使用高质量游戏真实数据训练",
+          "此后AMD推出FSR 4.1，将机器学习升级能力下放到更早的RDNA 2/RDNA 3架构，此次Xbox版本属于该路线的延伸，使搭载RDNA 2芯片的Xbox Series X|S主机也能用上AI超分辨率技术",
+          "此前主机端AI图像重建技术主要由索尼PS5 Pro的PSSR主导，微软与AMD此次合作被外界视为对索尼在主机AI画质增强领域领先优势的直接回应"
+        ],
+        "results": [
+          "功能已向开发者开放集成，但具体哪些游戏会支持该技术取决于各工作室是否主动在项目中接入，微软尚未公布首批支持该技术的具体游戏名单",
+          "多家媒体分析指出，由于开发商和发行商通常不会专门为已发行的老游戏回溯升级至新版升色技术，FSR 4.1.2的实际效益将主要体现在新开发及未来发布的Xbox主机游戏上"
+        ]
+      },
+      "members": [
+        {
+          "title": "AMD与微软联合为Xbox Series X|S带来机器学习升级技术FSR Upscaling 4.1",
+          "url": "https://developer.microsoft.com/en-us/games/articles/2026/11/amd-fsr-upscaling-4-is-now-available-for-xbox",
+          "date": "2026-11-04",
+          "summary": "微软Xbox官方开发者博客与AMD GPUOpen于2026年11月4日同步宣布，基于机器学习的AMD FSR Upscaling 4（版本4.1.2）正式向Xbox开发者开放，这是ML版FSR首次登陆Xbox主机硬件，适配Series X|S的RDNA 2架构GPU并扩展至华硕ROG Xbox Ally掌机，GDK样例提供Full与Lite两种INT8模型供性能与画质权衡。",
+          "section": 1,
+          "facts": [
+            "2026年11月4日，微软Xbox官方开发者博客（Xbox Game Dev Blog，作者Claude Marais，Team XBOX首席软件工程负责人）宣布AMD FSR Upscaling 4（版本4.1.2）正式向Xbox开发者开放",
+            "这是基于机器学习的FSR首次登陆Xbox主机硬件，适配Xbox Series X|S的RDNA 2架构GPU，同步扩展支持华硕ROG Xbox Ally掌机",
+            "微软游戏开发者套件（GDK）样例代码提供Full与Lite两种INT8模型，供开发者在画质与性能间权衡，Lite模型体积不到Full模型的一半",
+            "官方公布单帧GPU耗时数据：Xbox Series X上，Lite模型1440p为1.29ms、4K为2.75ms，Full模型1440p为1.95ms、4K为3.86ms；Xbox Series S上，Lite模型1080p为1.9ms、1440p为3.4ms，Full模型1080p为2.9ms、1440p为5.2ms",
+            "AMD同日在其开发者网站GPUOpen发布配套说明确认该功能上线，媒体综合报道称该功能随2026年10月版Xbox Game Development Kit（GDK）提供"
+          ],
+          "background": [
+            "FSR 4最初于2025年8月随AMD FidelityFX SDK 2.0发布，当时要求RDNA 4架构（Radeon RX 9000系列及以上）GPU，算法在AMD Instinct GPU上使用高质量游戏真实数据训练",
+            "此后AMD推出FSR 4.1，将机器学习升级能力下放到更早的RDNA 2/RDNA 3架构，此次Xbox版本属于该路线的延伸，使搭载RDNA 2芯片的Xbox Series X|S主机也能用上AI超分辨率技术",
+            "此前主机端AI图像重建技术主要由索尼PS5 Pro的PSSR主导，微软与AMD此次合作被外界视为对索尼在主机AI画质增强领域领先优势的直接回应"
+          ],
+          "results": [
+            "功能已向开发者开放集成，但具体哪些游戏会支持该技术取决于各工作室是否主动在项目中接入，微软尚未公布首批支持该技术的具体游戏名单",
+            "多家媒体分析指出，由于开发商和发行商通常不会专门为已发行的老游戏回溯升级至新版升色技术，FSR 4.1.2的实际效益将主要体现在新开发及未来发布的Xbox主机游戏上"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "日本AI公司Preferred Networks开源发布翻译模型PLaMo 3 Translate，带动游戏实时本地化工具井喷",
+        "url": "https://www.preferred.jp/ja/news/pr20261105/",
+        "date": "2026-11-05",
+        "summary": "日本AI公司Preferred Networks于2026年11月5日开源发布翻译专用大模型PLaMo 3 Translate（0.8B-31B四种规模），支持53种语言、可完全离线本地运行，官方评测称其小模型翻译质量超过谷歌TranslateGemma与腾讯Hy-MT2；发布数日内，日本玩家社区据此开发出多款游戏实时翻译工具，冲击长期依赖DeepL等云端服务的游戏民间汉化/日化生态。",
+        "section": 1,
+        "facts": [
+          "2026年11月5日，Preferred Networks（PFN）正式发布翻译专用大模型PLaMo 3 Translate，并在Hugging Face开源权重，提供0.8B、2B、8B、31B四种参数规模版本",
+          "模型支持53种语言互译，可完全离线、本地运行于手机、笔记本、可穿戴设备及企业内网服务器，发布演示展示了最小模型在飞行模式下的手机上完成翻译",
+          "许可条款（PLaMo Community License）：上一财年营收在100亿日元以下的个人与企业，可在无需联网的边缘设备上免费商用或非商用该模型，超出规模需与PFN另行签署商业许可协议",
+          "PFN公布的内部评测显示，参数量最小的PLaMo 3 Translate版本在翻译质量上超过谷歌TranslateGemma与腾讯Hy-MT2等同类翻译专用大模型",
+          "该模型基于PFN与日本情报通信研究机构（NICT）联合研发的预训练模型'PLaMo 3 NICT'构建，用户可设定术语表与语气（敬体/简体）等上下文以降低误译"
+        ],
+        "background": [
+          "此前Steam上大量游戏仅提供英文版本，玩家与爱好者长期依赖DeepL等云端翻译工具进行民间汉化/日化，但受限于免费额度与联网要求",
+          "PLaMo 3 Translate作为可本地部署、无使用次数上限的开源模型，被日本游戏媒体视为消除这一限制的关键节点"
+        ],
+        "results": [
+          "发布后数日内，日本玩家社区迅速基于该模型衍生出多款游戏实时翻译工具：PC应用'sonoba'（11月7日发布，可对游戏画面英文文本进行实时日文覆盖翻译，字幕识别约1秒、短文本约0.2秒）；浏览器插件'PLaMo_Translate_EX'（11月5日发布，无需账号、无使用限制）；桌面应用'plamo-translate-desktop'；本地化补丁维护工具'game-l10n-updater'（仅翻译增量文本、保留人工校对内容并检测UI文本溢出）",
+          "另有开发者'crow'基于该模型制作出可适配'几乎所有'Unity引擎游戏的实时日文翻译工具，并在《Zombie Crawlers》试玩版上测试几乎无延迟；该工具通过Steam社区指南发布，作者提醒该工具非官方、使用风险自负，不建议用于联网对战或带反作弊系统的游戏"
+        ]
+      },
+      "members": [
+        {
+          "title": "日本AI公司Preferred Networks开源发布翻译模型PLaMo 3 Translate，带动游戏实时本地化工具井喷",
+          "url": "https://www.preferred.jp/ja/news/pr20261105/",
+          "date": "2026-11-05",
+          "summary": "日本AI公司Preferred Networks于2026年11月5日开源发布翻译专用大模型PLaMo 3 Translate（0.8B-31B四种规模），支持53种语言、可完全离线本地运行，官方评测称其小模型翻译质量超过谷歌TranslateGemma与腾讯Hy-MT2；发布数日内，日本玩家社区据此开发出多款游戏实时翻译工具，冲击长期依赖DeepL等云端服务的游戏民间汉化/日化生态。",
+          "section": 1,
+          "facts": [
+            "2026年11月5日，Preferred Networks（PFN）正式发布翻译专用大模型PLaMo 3 Translate，并在Hugging Face开源权重，提供0.8B、2B、8B、31B四种参数规模版本",
+            "模型支持53种语言互译，可完全离线、本地运行于手机、笔记本、可穿戴设备及企业内网服务器，发布演示展示了最小模型在飞行模式下的手机上完成翻译",
+            "许可条款（PLaMo Community License）：上一财年营收在100亿日元以下的个人与企业，可在无需联网的边缘设备上免费商用或非商用该模型，超出规模需与PFN另行签署商业许可协议",
+            "PFN公布的内部评测显示，参数量最小的PLaMo 3 Translate版本在翻译质量上超过谷歌TranslateGemma与腾讯Hy-MT2等同类翻译专用大模型",
+            "该模型基于PFN与日本情报通信研究机构（NICT）联合研发的预训练模型'PLaMo 3 NICT'构建，用户可设定术语表与语气（敬体/简体）等上下文以降低误译"
+          ],
+          "background": [
+            "此前Steam上大量游戏仅提供英文版本，玩家与爱好者长期依赖DeepL等云端翻译工具进行民间汉化/日化，但受限于免费额度与联网要求",
+            "PLaMo 3 Translate作为可本地部署、无使用次数上限的开源模型，被日本游戏媒体视为消除这一限制的关键节点"
+          ],
+          "results": [
+            "发布后数日内，日本玩家社区迅速基于该模型衍生出多款游戏实时翻译工具：PC应用'sonoba'（11月7日发布，可对游戏画面英文文本进行实时日文覆盖翻译，字幕识别约1秒、短文本约0.2秒）；浏览器插件'PLaMo_Translate_EX'（11月5日发布，无需账号、无使用限制）；桌面应用'plamo-translate-desktop'；本地化补丁维护工具'game-l10n-updater'（仅翻译增量文本、保留人工校对内容并检测UI文本溢出）",
+            "另有开发者'crow'基于该模型制作出可适配'几乎所有'Unity引擎游戏的实时日文翻译工具，并在《Zombie Crawlers》试玩版上测试几乎无延迟；该工具通过Steam社区指南发布，作者提醒该工具非官方、使用风险自负，不建议用于联网对战或带反作弊系统的游戏"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "游戏陀螺深度调查：生成式AI拉低原型制作门槛，游戏策划岗位正\"抽卡师\"化",
+        "url": "https://www.youxituoluo.com/535045.html",
+        "date": "2026-11-11",
+        "summary": "游戏陀螺2026年11月11日发表深度调查，援引Zynga旗下Rollic等公司的高频原型测试数据及GDC《2026游戏行业现状》报告（策划岗占裁员总数20%，各工种最高），探讨生成式AI降低游戏demo制作门槛后，\"执行策划\"是否正沦为批量产出AI原型、筛选可用成果的\"抽卡师\"角色。",
+        "section": 1,
+        "facts": [
+          "触发事件：2026年11月4-5日，虎扑热榜被个人创作者（而非传统厂商）的游戏内容占据，如创作者'黑暗骑士'的《我的篮球平行时空》；虎扑'AI工坊'（8月底测试）允许用户以GPT、Claude或Cursor搭建网页游戏，TapTap同类'AI工坊'功能也在活跃使用",
+          "2026年11月3日，一位拥有15年经验的匿名资深策划在知乎发表《悲观预测：游戏策划'抽卡师'化》，预测中小团队将让新人用AI在1-2个月内搭建demo、测试淘汰、循环往复",
+          "引用数据：Zynga旗下Rollic（伊斯坦布尔）团队113人、设6个内部工作室加50个外部团队、年均评估约1000个原型、月均上线约100款、94%在首月内失败；新人须在5个工作日内复刻Rollic现有游戏的前20关作为入职考核",
+          "Voodoo、Rollic、Homa等公司被外媒称为'刮刮卡模式'：单个原型成本5000-10000美元，周期4-6周，年测试量2000-3000款；Bold Games创始人称半年多前做出可玩版本需7周，用AI后缩短至不到4周",
+          "GDC《2026年游戏行业现状》报告显示策划岗位占全部裁员人数的20%，为各工种中最高；脉脉数据显示73.34%的游戏岗位招聘要求3年以上经验，1年以下经验岗位的招聘量同比下降20%；Krafton校招已采用自研AI测评工具，Nexon将程序员笔试替换为生成式AI问题求解能力测评"
+        ],
+        "background": [
+          "文中援引2026年4月《南方周末》对AI短剧行业的调查报道——从业者'更像是在执行，而不是在创作'——作为'抽卡师'概念的类比来源",
+          "中国厂商愈发偏好能快速搭建可玩demo的'执行策划'，而非仅停留在文案构想层面的传统策划"
+        ],
+        "results": [
+          "文章结论：执行性、组装性的原型搭建工作正被AI拉低门槛、标准化，但判断'游戏该做成什么样、为什么玩家会喜欢'的创造性决策仍依赖人类经验；高频测试型公司的成功（如被Scopely以逾10亿美元收购、团队出身Rollic的Loom Games）依然建立在长期积累的产品判断力之上",
+          "行业风险正通过高频测试机制转移到一线从业者身上，引发对新人与中层策划岗位稳定性的担忧；文中同时提及字节跳动企业版Coze平台正在关停，作为AI工具生态变动的背景信息"
+        ]
+      },
+      "members": [
+        {
+          "title": "游戏陀螺深度调查：生成式AI拉低原型制作门槛，游戏策划岗位正\"抽卡师\"化",
+          "url": "https://www.youxituoluo.com/535045.html",
+          "date": "2026-11-11",
+          "summary": "游戏陀螺2026年11月11日发表深度调查，援引Zynga旗下Rollic等公司的高频原型测试数据及GDC《2026游戏行业现状》报告（策划岗占裁员总数20%，各工种最高），探讨生成式AI降低游戏demo制作门槛后，\"执行策划\"是否正沦为批量产出AI原型、筛选可用成果的\"抽卡师\"角色。",
+          "section": 1,
+          "facts": [
+            "触发事件：2026年11月4-5日，虎扑热榜被个人创作者（而非传统厂商）的游戏内容占据，如创作者'黑暗骑士'的《我的篮球平行时空》；虎扑'AI工坊'（8月底测试）允许用户以GPT、Claude或Cursor搭建网页游戏，TapTap同类'AI工坊'功能也在活跃使用",
+            "2026年11月3日，一位拥有15年经验的匿名资深策划在知乎发表《悲观预测：游戏策划'抽卡师'化》，预测中小团队将让新人用AI在1-2个月内搭建demo、测试淘汰、循环往复",
+            "引用数据：Zynga旗下Rollic（伊斯坦布尔）团队113人、设6个内部工作室加50个外部团队、年均评估约1000个原型、月均上线约100款、94%在首月内失败；新人须在5个工作日内复刻Rollic现有游戏的前20关作为入职考核",
+            "Voodoo、Rollic、Homa等公司被外媒称为'刮刮卡模式'：单个原型成本5000-10000美元，周期4-6周，年测试量2000-3000款；Bold Games创始人称半年多前做出可玩版本需7周，用AI后缩短至不到4周",
+            "GDC《2026年游戏行业现状》报告显示策划岗位占全部裁员人数的20%，为各工种中最高；脉脉数据显示73.34%的游戏岗位招聘要求3年以上经验，1年以下经验岗位的招聘量同比下降20%；Krafton校招已采用自研AI测评工具，Nexon将程序员笔试替换为生成式AI问题求解能力测评"
+          ],
+          "background": [
+            "文中援引2026年4月《南方周末》对AI短剧行业的调查报道——从业者'更像是在执行，而不是在创作'——作为'抽卡师'概念的类比来源",
+            "中国厂商愈发偏好能快速搭建可玩demo的'执行策划'，而非仅停留在文案构想层面的传统策划"
+          ],
+          "results": [
+            "文章结论：执行性、组装性的原型搭建工作正被AI拉低门槛、标准化，但判断'游戏该做成什么样、为什么玩家会喜欢'的创造性决策仍依赖人类经验；高频测试型公司的成功（如被Scopely以逾10亿美元收购、团队出身Rollic的Loom Games）依然建立在长期积累的产品判断力之上",
+            "行业风险正通过高频测试机制转移到一线从业者身上，引发对新人与中层策划岗位稳定性的担忧；文中同时提及字节跳动企业版Coze平台正在关停，作为AI工具生态变动的背景信息"
+          ]
+        },
+        {
+          "title": "游戏陀螺：AI拉低游戏策划入行门槛，\"抽卡式\"原型开发或致从业者两极分化",
+          "url": "https://www.youxituoluo.com/535045.html",
+          "date": "2026-11-11",
+          "summary": "游戏陀螺报道称，AI工具让更多非专业人士也能提出玩法、搭建系统并产出可测试demo，业内出现借用AI短剧术语的\"抽卡师\"式用法，即靠AI快速批量产出原型、淘汰表现不佳者。报道援引土耳其Rollic每年测试约1000个原型、94%一个月内即遭淘汰的\"刮刮卡模式\"作参照，指出AI让该流程进一步提速，但游戏能否被玩家发现、留存仍依赖人类经验判断。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "PocketGamer行业调查(下篇)：GDC数据显示52%从业者认为生成式AI带来负面影响，移动与主机/PC态度分化",
+        "url": "https://www.pocketgamer.biz/is-the-games-industry-becoming-more-optimistic-about-ai-mobile-mavens-part-2/",
+        "date": "2026-11-09",
+        "summary": "PocketGamer.biz于2026年11月9日发布\"Mobile Mavens\"系列第二篇调查，邀请7位移动游戏业内人士就AI态度分享看法，援引GDC《游戏行业现状》报告中52%受访者认为生成式AI带来负面影响（高于去年30%、前年18%）的数据，呈现移动端拥抱AI与欧美PC/主机端因玩家反弹而谨慎的明显分化。",
+        "section": 1,
+        "facts": [
+          "受访嘉宾：Susan Cummings（10Six Games联合创始人）、Adam Smart（AppsFlyer游戏产品总监）、Vadim Andreev（Rokky CEO）、Elina Arponen（Quicksave Interactive CEO）、Peter Fodor（AppAgent创始人）、Erik Dubbelboer（Poki首席工程师）、Philip Morris（PingPlayers商务拓展负责人），作者为Paige Cook",
+          "文章引用GDC《游戏行业现状》调查数据：52%受访者认为生成式AI对行业产生负面影响，高于去年的30%与前年的18%",
+          "Smart指出移动游戏领域已将AI视为竞争必需品，而欧美PC/主机工作室仍因担心玩家反弹而却步，警告AI'可能让游戏开发更民主化，但也让真正成功变得前所未有地困难'",
+          "Arponen认为AI拉高了作品质量下限但没有拉高上限，并指出Steam上的游戏'更容易被抄袭'，建议用互动预告片作为部分应对方案",
+          "Fodor表示其公司AppAgent已开发出AI辅助视频广告制作工具AdAgent与内部知识工具AppBrain，称如今大多数客户在法律允许范围内支持对游戏使用AI，而两年前大多数客户并不允许",
+          "Smart提到Epic的'AI MegaJam'游戏创作赛可能成为推动行业接受AI的催化剂，并称亚太地区发行商已公开使用AI实现更快更低成本的游戏制作",
+          "Morris称开发者和玩家对AI的情绪都在恶化，玩家对AI用于创意工作（如美术、剧情）最为反感，而对动态难度调整等用途则更能接受"
+        ],
+        "background": [
+          "该文为同系列第一篇（2026年11月5日发布，聚焦从业者态度随时间变化）的后续篇，第二篇聚焦更广泛的乐观/悲观分化及具体工具应用案例"
+        ],
+        "results": [
+          "调查未给出统一结论，但反映行业态度呈现明显分化：移动端普遍拥抱AI作为降本增效工具，PC/主机端因玩家与媒体负面情绪仍保持谨慎",
+          "多位嘉宾一致认为，AI工具降低了小团队进入门槛，但游戏的可发现性、同质化抄袭与创意质量问题尚未解决"
+        ]
+      },
+      "members": [
+        {
+          "title": "PocketGamer行业调查(下篇)：GDC数据显示52%从业者认为生成式AI带来负面影响，移动与主机/PC态度分化",
+          "url": "https://www.pocketgamer.biz/is-the-games-industry-becoming-more-optimistic-about-ai-mobile-mavens-part-2/",
+          "date": "2026-11-09",
+          "summary": "PocketGamer.biz于2026年11月9日发布\"Mobile Mavens\"系列第二篇调查，邀请7位移动游戏业内人士就AI态度分享看法，援引GDC《游戏行业现状》报告中52%受访者认为生成式AI带来负面影响（高于去年30%、前年18%）的数据，呈现移动端拥抱AI与欧美PC/主机端因玩家反弹而谨慎的明显分化。",
+          "section": 1,
+          "facts": [
+            "受访嘉宾：Susan Cummings（10Six Games联合创始人）、Adam Smart（AppsFlyer游戏产品总监）、Vadim Andreev（Rokky CEO）、Elina Arponen（Quicksave Interactive CEO）、Peter Fodor（AppAgent创始人）、Erik Dubbelboer（Poki首席工程师）、Philip Morris（PingPlayers商务拓展负责人），作者为Paige Cook",
+            "文章引用GDC《游戏行业现状》调查数据：52%受访者认为生成式AI对行业产生负面影响，高于去年的30%与前年的18%",
+            "Smart指出移动游戏领域已将AI视为竞争必需品，而欧美PC/主机工作室仍因担心玩家反弹而却步，警告AI'可能让游戏开发更民主化，但也让真正成功变得前所未有地困难'",
+            "Arponen认为AI拉高了作品质量下限但没有拉高上限，并指出Steam上的游戏'更容易被抄袭'，建议用互动预告片作为部分应对方案",
+            "Fodor表示其公司AppAgent已开发出AI辅助视频广告制作工具AdAgent与内部知识工具AppBrain，称如今大多数客户在法律允许范围内支持对游戏使用AI，而两年前大多数客户并不允许",
+            "Smart提到Epic的'AI MegaJam'游戏创作赛可能成为推动行业接受AI的催化剂，并称亚太地区发行商已公开使用AI实现更快更低成本的游戏制作",
+            "Morris称开发者和玩家对AI的情绪都在恶化，玩家对AI用于创意工作（如美术、剧情）最为反感，而对动态难度调整等用途则更能接受"
+          ],
+          "background": [
+            "该文为同系列第一篇（2026年11月5日发布，聚焦从业者态度随时间变化）的后续篇，第二篇聚焦更广泛的乐观/悲观分化及具体工具应用案例"
+          ],
+          "results": [
+            "调查未给出统一结论，但反映行业态度呈现明显分化：移动端普遍拥抱AI作为降本增效工具，PC/主机端因玩家与媒体负面情绪仍保持谨慎",
+            "多位嘉宾一致认为，AI工具降低了小团队进入门槛，但游戏的可发现性、同质化抄袭与创意质量问题尚未解决"
+          ]
+        },
+        {
+          "title": "PocketGamer调查第二期：业内人士称AI让游戏\"及格线\"提高但难触及\"天花板\"，负面情绪有所上升",
+          "url": "https://www.pocketgamer.biz/is-the-games-industry-becoming-more-optimistic-about-ai-mobile-mavens-part-2/",
+          "date": "2026-11-09",
+          "summary": "PocketGamer\"Mobile Mavens\"系列调查第二期显示，业内对AI态度分歧明显：部分人士认为独立团队正借AI工具做出更高品质的作品，预计明年采用率将进一步提升；但也有人指出AI只能\"拉高下限\"而难以\"提升上限\"，游戏是否好玩仍需人工判断与打磨。报道援引GDC调查数据称，认为生成式AI正产生负面影响的开发者比例已从一年前的30%升至52%。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "【更新】虚幻引擎5.9预览版生成式AI协作工作区\"Unreal Canvas\"细节曝光，Epic标注\"实验性\"并提示出货风险",
+        "url": "https://dev.epicgames.com/documentation/unreal-engine/unreal-canvas-overview-in-unreal-engine",
+        "date": "2026-11-09",
+        "summary": "此前简报已报道Epic于2026年11月9日发布\"主要由AI智能体构建\"的虚幻引擎5.9预览版；Epic官方文档现披露该版本随附的具体终端用户AI工具\"Unreal Canvas\"细节——一个可生成图像、视频、网格、音频、文本等六类内容的实验性协作画布，Epic同时提示该功能仍处实验阶段，出货前需谨慎核查版权与内容质量，这是此前报道未曾提及的新内容。",
+        "section": 1,
+        "facts": [
+          "Epic Games于2026年11月9日发布虚幻引擎5.9预览版，此前已有报道称这是首个'主要由AI智能体构建'的虚幻引擎版本，Epic称其将AI工具移植至UE6分支并加入浏览器端执行能力仅用约一周时间，以赶在11月12日开幕的'Epic AI MegaJam'创作赛前完成",
+          "根据Epic官方文档，该预览版新增一项名为'Unreal Canvas'的实验性生成式AI协作工作区功能，可作为网页应用或编辑器内标签页运行",
+          "Unreal Canvas允许用户与AI智能体协作生成并精炼图像（Image）、视频（Video）、网格模型（Mesh）、高斯溅射（Splat）、音频（Audio）、文本（Text）六类内容，并将参考素材、生成结果、笔记与可复用流程整合在同一画布中",
+          "技术架构：本地运行的Unreal Canvas服务器通过'Unreal Canvas Bridge'插件安装并启动，在编辑器内以网页客户端形式呈现；提供Toolshelf（工具选择与生成）、Graph（节点化可复用流程）、Agent（描述目标后由AI智能体准备或执行工作）三种工作界面",
+          "功能可与编辑器深度联动：可将视口渲染、Level Sequence渲染、实时视口流、已选资产等发送至画布处理，生成结果可导入内容浏览器或直接放置到关卡中；支持单图/多视角生成网格模型并自动绑定骨骼（Auto-rig，本地绑定方案名为'SkinTokens'）",
+          "AI算力提供方式为'自带密钥'（bring your own keys），由第三方云服务商按生成的图像、视频、网格、音频、文本及智能体调用计费，也可配置本地模型",
+          "Epic明确将该功能标注为'实验性'（Experimental），并提示'学习使用这一实验性功能时，在用于正式出货时请保持谨慎'；同时提醒该功能与引擎中已有的'实验性Canvas资产'及UMG中的'Canvas Panel'控件是完全不同的概念，避免混淆"
+        ],
+        "background": [
+          "此前简报已报道UE 5.9预览版发布本身及其'主要由AI智能体构建'的开发方式这一新闻；Unreal Canvas作为该版本随附的具体终端用户可用生成式AI工具，是此前报道未曾详述的新增内容，故本条作为补充更新收录",
+          "此举延续了Epic自UE 5.8（2026年6月，引入连接AI对话工具的Unreal MCP协议）以来持续将生成式AI嵌入编辑器工作流的路线，并与虚幻引擎6路线图中'蓝图弃用、转向Verse脚本以便AI更易处理代码'的方向一致"
+        ],
+        "results": [
+          "Epic提示开发者在正式生产中使用生成内容前需检查拓扑结构、比例、材质与贴图质量，并建议在使用前与法务、制作团队确认内容版权归属、来源标注及第三方服务条款与数据处理方式；'拒绝'（Reject）生成结果不会自动撤销智能体已做出的改动，需要单独执行回滚操作",
+          "由于该功能仍为实验性且预览版整体QA时间短于以往版本，Epic建议开发者在现有项目的副本上进行测试，而非直接应用于生产中的项目"
+        ]
+      },
+      "members": [
+        {
+          "title": "【更新】虚幻引擎5.9预览版生成式AI协作工作区\"Unreal Canvas\"细节曝光，Epic标注\"实验性\"并提示出货风险",
+          "url": "https://dev.epicgames.com/documentation/unreal-engine/unreal-canvas-overview-in-unreal-engine",
+          "date": "2026-11-09",
+          "summary": "此前简报已报道Epic于2026年11月9日发布\"主要由AI智能体构建\"的虚幻引擎5.9预览版；Epic官方文档现披露该版本随附的具体终端用户AI工具\"Unreal Canvas\"细节——一个可生成图像、视频、网格、音频、文本等六类内容的实验性协作画布，Epic同时提示该功能仍处实验阶段，出货前需谨慎核查版权与内容质量，这是此前报道未曾提及的新内容。",
+          "section": 1,
+          "facts": [
+            "Epic Games于2026年11月9日发布虚幻引擎5.9预览版，此前已有报道称这是首个'主要由AI智能体构建'的虚幻引擎版本，Epic称其将AI工具移植至UE6分支并加入浏览器端执行能力仅用约一周时间，以赶在11月12日开幕的'Epic AI MegaJam'创作赛前完成",
+            "根据Epic官方文档，该预览版新增一项名为'Unreal Canvas'的实验性生成式AI协作工作区功能，可作为网页应用或编辑器内标签页运行",
+            "Unreal Canvas允许用户与AI智能体协作生成并精炼图像（Image）、视频（Video）、网格模型（Mesh）、高斯溅射（Splat）、音频（Audio）、文本（Text）六类内容，并将参考素材、生成结果、笔记与可复用流程整合在同一画布中",
+            "技术架构：本地运行的Unreal Canvas服务器通过'Unreal Canvas Bridge'插件安装并启动，在编辑器内以网页客户端形式呈现；提供Toolshelf（工具选择与生成）、Graph（节点化可复用流程）、Agent（描述目标后由AI智能体准备或执行工作）三种工作界面",
+            "功能可与编辑器深度联动：可将视口渲染、Level Sequence渲染、实时视口流、已选资产等发送至画布处理，生成结果可导入内容浏览器或直接放置到关卡中；支持单图/多视角生成网格模型并自动绑定骨骼（Auto-rig，本地绑定方案名为'SkinTokens'）",
+            "AI算力提供方式为'自带密钥'（bring your own keys），由第三方云服务商按生成的图像、视频、网格、音频、文本及智能体调用计费，也可配置本地模型",
+            "Epic明确将该功能标注为'实验性'（Experimental），并提示'学习使用这一实验性功能时，在用于正式出货时请保持谨慎'；同时提醒该功能与引擎中已有的'实验性Canvas资产'及UMG中的'Canvas Panel'控件是完全不同的概念，避免混淆"
+          ],
+          "background": [
+            "此前简报已报道UE 5.9预览版发布本身及其'主要由AI智能体构建'的开发方式这一新闻；Unreal Canvas作为该版本随附的具体终端用户可用生成式AI工具，是此前报道未曾详述的新增内容，故本条作为补充更新收录",
+            "此举延续了Epic自UE 5.8（2026年6月，引入连接AI对话工具的Unreal MCP协议）以来持续将生成式AI嵌入编辑器工作流的路线，并与虚幻引擎6路线图中'蓝图弃用、转向Verse脚本以便AI更易处理代码'的方向一致"
+          ],
+          "results": [
+            "Epic提示开发者在正式生产中使用生成内容前需检查拓扑结构、比例、材质与贴图质量，并建议在使用前与法务、制作团队确认内容版权归属、来源标注及第三方服务条款与数据处理方式；'拒绝'（Reject）生成结果不会自动撤销智能体已做出的改动，需要单独执行回滚操作",
+            "由于该功能仍为实验性且预览版整体QA时间短于以往版本，Epic建议开发者在现有项目的副本上进行测试，而非直接应用于生产中的项目"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Unity官方博客发布AI辅助游戏项目管理十条建议，涵盖设计简报、资产追踪与里程碑管理",
+        "url": "https://unity.com/blog/how-to-organize-a-game-project-with-ai",
+        "date": "2026-11-10",
+        "summary": "Unity官方博客发布指南，教开发者如何用AI工具组织游戏项目，建议包括撰写一句话设计简报、小步迭代并及时测试、统一角色与场景命名、记录提示词日志以及追踪每个素材的来源与授权。文章还建议在大改动前保存版本节点以便回退，面向正在使用AI辅助开发的独立与小型团队。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "Unity官方博客发布AI辅助游戏项目管理十条建议，涵盖设计简报、资产追踪与里程碑管理",
+          "url": "https://unity.com/blog/how-to-organize-a-game-project-with-ai",
+          "date": "2026-11-10",
+          "summary": "Unity官方博客发布指南，教开发者如何用AI工具组织游戏项目，建议包括撰写一句话设计简报、小步迭代并及时测试、统一角色与场景命名、记录提示词日志以及追踪每个素材的来源与授权。文章还建议在大改动前保存版本节点以便回退，面向正在使用AI辅助开发的独立与小型团队。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《Blender 5.3》正式发布：原生支持3D高斯溅射，并集成NVIDIA DLSS 4.5光线重建AI降噪器",
+        "url": "https://80.lv/articles/blender-5-3-has-finally-arrived",
+        "date": "2026-11-11",
+        "summary": "开源3D软件Blender发布5.3版本，新增对3D高斯溅射（Gaussian Splatting）的原生支持，可直接导入、用几何节点编辑并在EEVEE或Cycles中渲染该类资产。该版本同时在渲染降噪面板中加入NVIDIA DLSS 4.5光线重建AI降噪器选项（需620版以上驱动），号称能复用前几帧样本更快获得干净画面，相关技术可用于游戏资产制作与实时渲染预览流程。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "《Blender 5.3》正式发布：原生支持3D高斯溅射，并集成NVIDIA DLSS 4.5光线重建AI降噪器",
+          "url": "https://80.lv/articles/blender-5-3-has-finally-arrived",
+          "date": "2026-11-11",
+          "summary": "开源3D软件Blender发布5.3版本，新增对3D高斯溅射（Gaussian Splatting）的原生支持，可直接导入、用几何节点编辑并在EEVEE或Cycles中渲染该类资产。该版本同时在渲染降噪面板中加入NVIDIA DLSS 4.5光线重建AI降噪器选项（需620版以上驱动），号称能复用前几帧样本更快获得干净画面，相关技术可用于游戏资产制作与实时渲染预览流程。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "游戏并购顾问谈AI对工作室估值的影响：节省的制作成本未必能转化为更高收购价",
+        "url": "https://www.pocketgamer.biz/strategic-alternatives-rhys-dekle-how-to-keep-the-value-ai-creates-at-your-studio/",
+        "date": "2026-11-11",
+        "summary": "游戏并购顾问机构Strategic Alternatives合伙人Rhys Dekle在PGC蒙特利尔峰会上表示，AI对研发成本的削减因品类而异：独立游戏受益最大，3A大作的省时往往被规模扩张抵消。他提醒收购方尽调时需核实素材的人类创作痕迹，因为纯AI生成内容在美欧通常不受版权保护，此前《王国之心》合集封面被质疑AI制作引发争议即是前车之鉴。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "游戏并购顾问谈AI对工作室估值的影响：节省的制作成本未必能转化为更高收购价",
+          "url": "https://www.pocketgamer.biz/strategic-alternatives-rhys-dekle-how-to-keep-the-value-ai-creates-at-your-studio/",
+          "date": "2026-11-11",
+          "summary": "游戏并购顾问机构Strategic Alternatives合伙人Rhys Dekle在PGC蒙特利尔峰会上表示，AI对研发成本的削减因品类而异：独立游戏受益最大，3A大作的省时往往被规模扩张抵消。他提醒收购方尽调时需核实素材的人类创作痕迹，因为纯AI生成内容在美欧通常不受版权保护，此前《王国之心》合集封面被质疑AI制作引发争议即是前车之鉴。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "AI游戏引擎公司Tryll推出免费开放测试版，支持Unity与虚幻引擎本地运行语言模型",
+        "url": "https://www.gamespress.com/en-US/Tryll-Launches-Free-Open-Beta-of-Its-On-Device-AI-Engine-and-Announces",
+        "date": "2026-11-10",
+        "summary": "游戏AI中间件公司Tryll在伦敦\"AI与游戏大会\"上宣布，其设备端AI引擎在经过21家工作室参与的封闭测试后，正式向Unity与虚幻引擎5开发者开放免费公测。该引擎可直接在玩家显卡本地运行语言模型、语音识别与语音合成，无需联网，开发者可自定义角色背景与可执行动作；产品在游戏营收超20万美元前免费使用，之后按运行时收取1%版税。工作室Gungrounds同时公布基于该引擎打造的审讯题材新游《Murder Book》。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "AI游戏引擎公司Tryll推出免费开放测试版，支持Unity与虚幻引擎本地运行语言模型",
+          "url": "https://www.gamespress.com/en-US/Tryll-Launches-Free-Open-Beta-of-Its-On-Device-AI-Engine-and-Announces",
+          "date": "2026-11-10",
+          "summary": "游戏AI中间件公司Tryll在伦敦\"AI与游戏大会\"上宣布，其设备端AI引擎在经过21家工作室参与的封闭测试后，正式向Unity与虚幻引擎5开发者开放免费公测。该引擎可直接在玩家显卡本地运行语言模型、语音识别与语音合成，无需联网，开发者可自定义角色背景与可执行动作；产品在游戏营收超20万美元前免费使用，之后按运行时收取1%版税。工作室Gungrounds同时公布基于该引擎打造的审讯题材新游《Murder Book》。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "玩家挖掘《GTA6》Xbox预载文件，发现AMD FSR 4.1神经网络升频技术相关组件",
+        "url": "https://www.ithome.com/1/025/821.htm",
+        "date": "2026-11-11",
+        "summary": "数据挖掘者Tex2在《GTA6》Xbox版预载文件中发现两个与AMD FSR 4.1相关的动态链接库文件，文件名与微软上周刚发布的FSR 4.1 Xbox GDK示例项目一致。报道指出，这只能说明R星具备接入该AI升频技术的可能性，并不能证明游戏首发即会启用，考虑到11月19日发售时间紧张，更可能作为后续更新加入，以缓解性能较弱的Xbox Series S的画质压力。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "玩家挖掘《GTA6》Xbox预载文件，发现AMD FSR 4.1神经网络升频技术相关组件",
+          "url": "https://www.ithome.com/1/025/821.htm",
+          "date": "2026-11-11",
+          "summary": "数据挖掘者Tex2在《GTA6》Xbox版预载文件中发现两个与AMD FSR 4.1相关的动态链接库文件，文件名与微软上周刚发布的FSR 4.1 Xbox GDK示例项目一致。报道指出，这只能说明R星具备接入该AI升频技术的可能性，并不能证明游戏首发即会启用，考虑到11月19日发售时间紧张，更可能作为后续更新加入，以缓解性能较弱的Xbox Series S的画质压力。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "生成式AI泛滥致判断真伪困难，澳大利亚第12届科技教育电子游戏挑战赛宣布停办",
+        "url": "https://www.ithome.com/1/025/556.htm",
+        "date": "2026-11-11",
+        "summary": "由澳大利亚教育研究委员会（ACER）主办、面向3至12年级学生的科技教育电子游戏挑战赛将于2026年举办最后一届后停办，主办方称生成式AI的普及让评审难以判断参赛作品是否真由学生独立完成，已偏离赛事初衷。该赛事此前并未全面禁止AI，仅要求参赛者登记所用AI工具及其具体作用，但主办方认为这一问题已难以通过规则调整解决。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "生成式AI泛滥致判断真伪困难，澳大利亚第12届科技教育电子游戏挑战赛宣布停办",
+          "url": "https://www.ithome.com/1/025/556.htm",
+          "date": "2026-11-11",
+          "summary": "由澳大利亚教育研究委员会（ACER）主办、面向3至12年级学生的科技教育电子游戏挑战赛将于2026年举办最后一届后停办，主办方称生成式AI的普及让评审难以判断参赛作品是否真由学生独立完成，已偏离赛事初衷。该赛事此前并未全面禁止AI，仅要求参赛者登记所用AI工具及其具体作用，但主办方认为这一问题已难以通过规则调整解决。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "AI创意生产平台Layer推出\"动态设计师\"智能体，游戏工作室可通过对话直接生成买量广告视频",
+        "url": "https://www.pocketgamer.biz/layer-launches-motion-designer-agent-game-studios-can-now-create-campaign-ready-ua-videos-just-by-chatting/",
+        "date": "2026-11-11",
+        "summary": "游戏素材生成平台Layer推出\"动态设计师\"（Motion Designer）AI智能体并已于11月2日上线，开发者无需视频剪辑或分镜经验，仅通过对话描述需求即可生成买量广告视频。该智能体可自动编写脚本、挑选素材、添加配音配乐并完成剪辑合成，支持9:16、16:9等多种比例输出，Small Giant Games、Zynga、Socialpoint等公司已开始使用。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "AI创意生产平台Layer推出\"动态设计师\"智能体，游戏工作室可通过对话直接生成买量广告视频",
+          "url": "https://www.pocketgamer.biz/layer-launches-motion-designer-agent-game-studios-can-now-create-campaign-ready-ua-videos-just-by-chatting/",
+          "date": "2026-11-11",
+          "summary": "游戏素材生成平台Layer推出\"动态设计师\"（Motion Designer）AI智能体并已于11月2日上线，开发者无需视频剪辑或分镜经验，仅通过对话描述需求即可生成买量广告视频。该智能体可自动编写脚本、挑选素材、添加配音配乐并完成剪辑合成，支持9:16、16:9等多种比例输出，Small Giant Games、Zynga、Socialpoint等公司已开始使用。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [
+    [
+      {
+        "title": "游戏陀螺深度调查：生成式AI拉低原型制作门槛，游戏策划岗位正\"抽卡师\"化",
+        "url": "https://www.youxituoluo.com/535045.html",
+        "date": "2026-11-11",
+        "summary": "游戏陀螺2026年11月11日发表深度调查，援引Zynga旗下Rollic等公司的高频原型测试数据及GDC《2026游戏行业现状》报告（策划岗占裁员总数20%，各工种最高），探讨生成式AI降低游戏demo制作门槛后，\"执行策划\"是否正沦为批量产出AI原型、筛选可用成果的\"抽卡师\"角色。",
+        "section": 1,
+        "facts": [
+          "触发事件：2026年11月4-5日，虎扑热榜被个人创作者（而非传统厂商）的游戏内容占据，如创作者'黑暗骑士'的《我的篮球平行时空》；虎扑'AI工坊'（8月底测试）允许用户以GPT、Claude或Cursor搭建网页游戏，TapTap同类'AI工坊'功能也在活跃使用",
+          "2026年11月3日，一位拥有15年经验的匿名资深策划在知乎发表《悲观预测：游戏策划'抽卡师'化》，预测中小团队将让新人用AI在1-2个月内搭建demo、测试淘汰、循环往复",
+          "引用数据：Zynga旗下Rollic（伊斯坦布尔）团队113人、设6个内部工作室加50个外部团队、年均评估约1000个原型、月均上线约100款、94%在首月内失败；新人须在5个工作日内复刻Rollic现有游戏的前20关作为入职考核",
+          "Voodoo、Rollic、Homa等公司被外媒称为'刮刮卡模式'：单个原型成本5000-10000美元，周期4-6周，年测试量2000-3000款；Bold Games创始人称半年多前做出可玩版本需7周，用AI后缩短至不到4周",
+          "GDC《2026年游戏行业现状》报告显示策划岗位占全部裁员人数的20%，为各工种中最高；脉脉数据显示73.34%的游戏岗位招聘要求3年以上经验，1年以下经验岗位的招聘量同比下降20%；Krafton校招已采用自研AI测评工具，Nexon将程序员笔试替换为生成式AI问题求解能力测评"
+        ],
+        "background": [
+          "文中援引2026年4月《南方周末》对AI短剧行业的调查报道——从业者'更像是在执行，而不是在创作'——作为'抽卡师'概念的类比来源",
+          "中国厂商愈发偏好能快速搭建可玩demo的'执行策划'，而非仅停留在文案构想层面的传统策划"
+        ],
+        "results": [
+          "文章结论：执行性、组装性的原型搭建工作正被AI拉低门槛、标准化，但判断'游戏该做成什么样、为什么玩家会喜欢'的创造性决策仍依赖人类经验；高频测试型公司的成功（如被Scopely以逾10亿美元收购、团队出身Rollic的Loom Games）依然建立在长期积累的产品判断力之上",
+          "行业风险正通过高频测试机制转移到一线从业者身上，引发对新人与中层策划岗位稳定性的担忧；文中同时提及字节跳动企业版Coze平台正在关停，作为AI工具生态变动的背景信息"
+        ]
+      },
+      {
+        "title": "游戏陀螺：AI拉低游戏策划入行门槛，\"抽卡式\"原型开发或致从业者两极分化",
+        "url": "https://www.youxituoluo.com/535045.html",
+        "date": "2026-11-11",
+        "summary": "游戏陀螺报道称，AI工具让更多非专业人士也能提出玩法、搭建系统并产出可测试demo，业内出现借用AI短剧术语的\"抽卡师\"式用法，即靠AI快速批量产出原型、淘汰表现不佳者。报道援引土耳其Rollic每年测试约1000个原型、94%一个月内即遭淘汰的\"刮刮卡模式\"作参照，指出AI让该流程进一步提速，但游戏能否被玩家发现、留存仍依赖人类经验判断。",
+        "section": 2
+      }
+    ],
+    [
+      {
+        "title": "PocketGamer行业调查(下篇)：GDC数据显示52%从业者认为生成式AI带来负面影响，移动与主机/PC态度分化",
+        "url": "https://www.pocketgamer.biz/is-the-games-industry-becoming-more-optimistic-about-ai-mobile-mavens-part-2/",
+        "date": "2026-11-09",
+        "summary": "PocketGamer.biz于2026年11月9日发布\"Mobile Mavens\"系列第二篇调查，邀请7位移动游戏业内人士就AI态度分享看法，援引GDC《游戏行业现状》报告中52%受访者认为生成式AI带来负面影响（高于去年30%、前年18%）的数据，呈现移动端拥抱AI与欧美PC/主机端因玩家反弹而谨慎的明显分化。",
+        "section": 1,
+        "facts": [
+          "受访嘉宾：Susan Cummings（10Six Games联合创始人）、Adam Smart（AppsFlyer游戏产品总监）、Vadim Andreev（Rokky CEO）、Elina Arponen（Quicksave Interactive CEO）、Peter Fodor（AppAgent创始人）、Erik Dubbelboer（Poki首席工程师）、Philip Morris（PingPlayers商务拓展负责人），作者为Paige Cook",
+          "文章引用GDC《游戏行业现状》调查数据：52%受访者认为生成式AI对行业产生负面影响，高于去年的30%与前年的18%",
+          "Smart指出移动游戏领域已将AI视为竞争必需品，而欧美PC/主机工作室仍因担心玩家反弹而却步，警告AI'可能让游戏开发更民主化，但也让真正成功变得前所未有地困难'",
+          "Arponen认为AI拉高了作品质量下限但没有拉高上限，并指出Steam上的游戏'更容易被抄袭'，建议用互动预告片作为部分应对方案",
+          "Fodor表示其公司AppAgent已开发出AI辅助视频广告制作工具AdAgent与内部知识工具AppBrain，称如今大多数客户在法律允许范围内支持对游戏使用AI，而两年前大多数客户并不允许",
+          "Smart提到Epic的'AI MegaJam'游戏创作赛可能成为推动行业接受AI的催化剂，并称亚太地区发行商已公开使用AI实现更快更低成本的游戏制作",
+          "Morris称开发者和玩家对AI的情绪都在恶化，玩家对AI用于创意工作（如美术、剧情）最为反感，而对动态难度调整等用途则更能接受"
+        ],
+        "background": [
+          "该文为同系列第一篇（2026年11月5日发布，聚焦从业者态度随时间变化）的后续篇，第二篇聚焦更广泛的乐观/悲观分化及具体工具应用案例"
+        ],
+        "results": [
+          "调查未给出统一结论，但反映行业态度呈现明显分化：移动端普遍拥抱AI作为降本增效工具，PC/主机端因玩家与媒体负面情绪仍保持谨慎",
+          "多位嘉宾一致认为，AI工具降低了小团队进入门槛，但游戏的可发现性、同质化抄袭与创意质量问题尚未解决"
+        ]
+      },
+      {
+        "title": "PocketGamer调查第二期：业内人士称AI让游戏\"及格线\"提高但难触及\"天花板\"，负面情绪有所上升",
+        "url": "https://www.pocketgamer.biz/is-the-games-industry-becoming-more-optimistic-about-ai-mobile-mavens-part-2/",
+        "date": "2026-11-09",
+        "summary": "PocketGamer\"Mobile Mavens\"系列调查第二期显示，业内对AI态度分歧明显：部分人士认为独立团队正借AI工具做出更高品质的作品，预计明年采用率将进一步提升；但也有人指出AI只能\"拉高下限\"而难以\"提升上限\"，游戏是否好玩仍需人工判断与打磨。报道援引GDC调查数据称，认为生成式AI正产生负面影响的开发者比例已从一年前的30%升至52%。",
+        "section": 2
+      }
+    ]
+  ],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
