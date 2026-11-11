@@ -1,0 +1,9 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **【Fortis Games关闭，440个岗位面临风险】**（2026-11-11）— 游戏工作室Fortis Games因主要投资方Las Vegas Sands终止资助而关闭，最多440个岗位受影响；其软上线游戏《Twilight Towers》将于11月16日停止运营。 <https://www.pocketgamer.biz/fortis-games-shuts-down-as-up-to-440-jobs-are-put-at-risk/>
+- **【My.Games达成管理层收购协议，获阿联酋投资者支持】**（2026-11-10）— My.Games唯一股东Alexander Chachava同意由CEO与COO主导的管理层收购，交易获阿联酋投资者Georgy Nurislamov支持，预计2026年底完成。 <https://www.pocketgamer.biz/mygames-agrees-to-management-buyout-backed-by-uae-investor/>
+- **【乐高数字娱乐收购《高尔夫冲突》创始团队工作室ForthStar】**（2026-11-10）— 乐高数字娱乐收购由《高尔夫冲突》创始人Paul Gouge和Alex Rigby创立的曼彻斯特手游工作室ForthStar，约30名员工加入，交易金额未披露。 <https://www.pocketgamer.biz/lego-digital-play-acquires-golf-clash-founders-forthstar-studio/>
+- **【Merak Capital领投沙特工作室Lambda Studios 130万美元融资】**（2026-11-11）— 沙特投资机构Merak Capital领投该国游戏开发商Lambda Studios 130万美元融资；该公司起步于Roblox平台，目前正拓展至Steam等平台。 <https://www.pocketgamer.biz/merak-capital-leads-13m-round-in-lambda-studios/>
+- **【据报道沙特PIF探索新融资方式，拟从投资组合公司中释放现金】**（2026-11-11）— 据报道，沙特公共投资基金正考虑证券化成熟投资组合公司现金流或出售部分股权以筹资，此举紧随其向沙特阿美出售AI公司Humain 49%股权之后。 <https://www.pocketgamer.biz/saudi-pif-explores-new-fundraising-options-to-unlock-cash-from-portfolio-companies/>
+- **【据报道欧盟《数字公平法案》草案曝光，拟严格限制游戏氪金机制】**（2026-11-10）— 据报道，欧盟委员会《数字公平法案》草案拟限制面向未成年人的付费开箱机制，要求更清晰披露概率与虚拟货币价值，预计11月11日正式公布。 <https://www.pocketgamer.biz/leaked-eu-proposal-targets-loot-boxes-and-addictive-game-design/>
+- **【Sensor Tower：中国手游厂商占全球头部手游收入40%份额，美国降至16.5%】**（2026-11-11）— 据Sensor Tower数据，截至2026年年中，中国发行商已占全球头部手游收入约40%份额，美国发行商份额降至约16.5%，两国曾在2024年初旗鼓相当。 <https://www.pocketgamer.biz/china-takes-40-of-global-mobile-games-revenue-as-us-share-falls-to-165/>
+- **【Black Forest Games管理层收购独立，结束与THQ Nordic近十年合作】**（2026-11-11）— 德国工作室Black Forest Games通过管理层收购脱离THQ Nordic近十年的控股关系重获独立，双方仍将继续合作开发游戏，该工作室同时成为新独立工作室联盟Third Signal的创始成员。 <https://www.gematsu.com/2026/11/black-forest-games-splits-from-thq-nordic>

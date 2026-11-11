@@ -1,0 +1,14 @@
+**[新闻 4] PocketGamer行业调查(下篇)：GDC数据显示52%从业者认为生成式AI带来负面影响，移动与主机/PC态度分化**
+- **日期：** 2026-11-09
+- **来源链接：** <https://www.pocketgamer.biz/is-the-games-industry-becoming-more-optimistic-about-ai-mobile-mavens-part-2/>
+- **核心事实：**
+  - PocketGamer.biz发布"Mobile Mavens"系列第二篇调查，邀请7位移动游戏业内人士（10Six Games、AppsFlyer、Rokky、Quicksave Interactive、AppAgent、Poki、PingPlayers）就AI态度分享看法
+  - 文章引用GDC《游戏行业现状》数据：52%受访者认为生成式AI对行业产生负面影响，高于去年的30%与前年的18%
+  - AppsFlyer的Adam Smart指出移动游戏领域已将AI视为竞争必需品，欧美PC/主机工作室仍因担心玩家反弹而却步
+  - Quicksave Interactive的Elina Arponen认为AI拉高了作品质量下限但没有拉高上限，并指出Steam上的游戏"更容易被抄袭"
+  - AppAgent的Peter Fodor称其公司已开发AI辅助广告工具AdAgent，如今大多数客户在法律允许范围内支持对游戏使用AI，两年前大多数客户并不允许
+- **背景与起因：**
+  - 该文为同系列第一篇（11月5日发布，聚焦从业者态度随时间变化）的后续篇，聚焦更广泛的乐观/悲观分化及具体工具应用案例
+- **结果与进展：**
+  - 调查未给出统一结论，反映行业态度明显分化：移动端普遍拥抱AI作为降本增效工具，PC/主机端因玩家与媒体负面情绪仍保持谨慎
+  - 多位嘉宾一致认为AI工具降低了小团队进入门槛，但游戏的可发现性、同质化抄袭与创意质量问题尚未解决

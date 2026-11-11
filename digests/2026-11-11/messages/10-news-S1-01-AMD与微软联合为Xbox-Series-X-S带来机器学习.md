@@ -1,0 +1,15 @@
+**[新闻 1] AMD与微软联合为Xbox Series X|S带来机器学习升级技术FSR Upscaling 4.1**
+- **日期：** 2026-11-04
+- **来源链接：** <https://developer.microsoft.com/en-us/games/articles/2026/11/amd-fsr-upscaling-4-is-now-available-for-xbox> （另见 AMD GPUOpen 配套说明）
+- **核心事实：**
+  - 2026年11月4日，微软Xbox官方开发者博客（作者Claude Marais，Team XBOX首席软件工程负责人）宣布AMD FSR Upscaling 4（版本4.1.2）正式向Xbox开发者开放
+  - 这是基于机器学习的FSR首次登陆Xbox主机硬件，适配Xbox Series X|S的RDNA 2架构GPU，同步扩展支持华硕ROG Xbox Ally掌机
+  - 微软游戏开发者套件（GDK）样例代码提供Full与Lite两种INT8模型，供开发者在画质与性能间权衡，Lite模型体积不到Full模型的一半
+  - 官方公布单帧GPU耗时数据：Series X上Lite模型1440p为1.29ms、4K为2.75ms，Full模型1440p为1.95ms、4K为3.86ms；Series S上Lite模型1080p为1.9ms、1440p为3.4ms
+  - AMD同日在GPUOpen发布配套说明确认该功能上线，媒体综合报道称该功能随2026年10月版Xbox GDK提供
+- **背景与起因：**
+  - FSR 4最初于2025年8月随AMD FidelityFX SDK 2.0发布，当时要求RDNA 4架构GPU；此后AMD推出FSR 4.1，将机器学习升级能力下放到更早的RDNA 2/RDNA 3架构，此次Xbox版本是该路线的延伸
+  - 此前主机端AI图像重建技术主要由索尼PS5 Pro的PSSR主导，微软与AMD此次合作被外界视为对索尼在主机AI画质增强领域领先优势的直接回应
+- **结果与进展：**
+  - 功能已向开发者开放集成，但具体支持游戏取决于各工作室是否主动接入，微软尚未公布首批支持名单
+  - 多家媒体分析指出，开发商通常不会为已发行的老游戏回溯升级，FSR 4.1.2的实际效益将主要体现在新开发及未来发布的Xbox游戏上
