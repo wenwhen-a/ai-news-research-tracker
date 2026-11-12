@@ -1,103 +1,5 @@
 [
  {
-  "title": "说明：本节经两个独立检索批次（Sonnet子代理分别覆盖西方大厂/平台、中国大厂/引擎/硬件）及编排者本人约11次补充检索（涵盖NVIDIA ACE、Inworld AI、游戏AI融资、反作弊AI、生成式素材工具、Unity Muse、Roblox Cube 3D、PlayStation Mockingbird、SAG-AFTRA/配音演员、GamesIndustry.biz等专项检索）后，过去7天内（2026-10-21至2026-10-28）符合\"游戏+AI\"交叉、具备充分事实/背景/结果素材、且未被此前简报报道过的深度新闻候选项为2条，低于5条的目标数量。中文信源检索（游戏陀螺、36氪、IT之家、触乐周报、腾讯/网易/米哈游/字节/阿里官方渠道）未发现任何未被`state/news_previous_items.json`覆盖的新候选——本周中文游戏+AI热点（米哈游GameScaling开源、叠纸机器人子公司、腾讯\"鹅次元\"内测、网易AI选照NPC、Steam Next Fest AI披露数据等）均已在此前14天内的简报中报道过。",
-  "url": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
-  "date": "2026-10-27",
-  "section": 1,
-  "posted": "2026-10-28"
- },
- {
-  "title": "Valve回应Steam\"AI乱象\"：不做工具\"看门人\"拒绝封杀AI游戏；Epic CEO斥Steam AI披露新规\"可耻\"且\"政治化\"",
-  "url": "https://www.videogameschronicle.com/news/valve-has-a-significant-number-working-on-steams-visibility-dilemma-but-says-it-wont-gatekeep-games-made-with-ai/",
-  "date": "2026-10-28",
-  "section": 1,
-  "posted": "2026-10-28"
- },
- {
-  "title": "说明：排除所有与此前简报重复的候选项后，本节仅核实到1条符合条件的新简讯，远低于20条的目标数量；经两个子代理（合计超过200次检索/核实工具调用）及编排者本人额外约11次补充检索后未发现更多独立可核实的新候选，故未凑数。",
-  "url": "https://kotaku.com/zero-escape-writer-is-pro-ai-believes-his-new-studios-game-wouldnt-have-been-canceled-if-hed-used-it-to-cut-costs-2000749911",
-  "date": "2026-10-27",
-  "section": 2,
-  "posted": "2026-10-28"
- },
- {
-  "title": "索尼发布透明配色\"Prism\"系列PS5手柄与主机外壳",
-  "url": "https://www.videogameschronicle.com/news/sony-announces-new-prism-collection-of-transparent-ps5-dualsense-controllers-and-console-covers/",
-  "date": "2026-10-28",
-  "section": 3,
-  "posted": "2026-10-28"
- },
- {
-  "title": "腾讯《FC ONLINE》《FC足球世界》紧急下架姆巴佩相关素材",
-  "url": "https://finance.sina.com.cn/tob/2026-10-28/doc-iniwttsf9757142.shtml",
-  "date": "2026-10-27",
-  "section": 3,
-  "posted": "2026-10-28"
- },
- {
-  "title": "米哈游《崩坏：星穹铁道》测试包泄密案终审判决生效，泄密者被判赔100万元",
-  "url": "https://www.ithome.com/1/018/879.htm",
-  "date": "2026-10-28",
-  "section": 3,
-  "posted": "2026-10-28"
- },
- {
-  "title": "Pocketpair CEO：愿意就《幻兽帕鲁》登陆Switch 2展开洽谈",
-  "url": "https://www.videogameschronicle.com/news/pocketpair-would-love-to-have-conversations-to-bring-palworld-to-switch-2-ceo-says/",
-  "date": "2026-10-27",
-  "section": 3,
-  "posted": "2026-10-28"
- },
- {
-  "title": "《Crossy Road》创作者出任雅达利移动游戏业务执行副总裁",
-  "url": "https://www.videogameschronicle.com/news/the-creator-of-crossy-road-is-now-ataris-executive-vice-president-of-mobile-games/",
-  "date": "2026-10-27",
-  "section": 3,
-  "posted": "2026-10-28"
- },
- {
-  "title": "《天国:拯救》开发商Warhorse Studios确认遭遇网络攻击",
-  "url": "https://www.shacknews.com/article/151157/warhorse-studios-cyberattack",
-  "date": "2026-10-27",
-  "section": 3,
-  "posted": "2026-10-28"
- },
- {
-  "title": "SK海力士：内存短缺将持续至2030年，游戏主机与显卡涨价压力难解",
-  "url": "https://www.theregister.com/systems/2026/10/28/sk-hynix-says-memory-shortages-to-persist-until-2030/",
-  "date": "2026-10-28",
-  "section": 3,
-  "posted": "2026-10-28"
- },
- {
-  "title": "Rockstar英国员工将于《GTA6》发售前后就工会承认进行投票",
-  "url": "https://www.engadget.com/gaming/rockstar-workers-in-uk-hold-union-vote-as-gta-6-release.html",
-  "date": "2026-10-27",
-  "section": 3,
-  "posted": "2026-10-28"
- },
- {
-  "title": "据报道《GTA6》PS5版下载容量约210GB，接近占满初代PS5三分之一存储空间",
-  "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-210gb-download-says-playstation-store-sleuth/",
-  "date": "2026-10-28",
-  "section": 3,
-  "posted": "2026-10-28"
- },
- {
-  "title": "《使命召唤：现代战争4》被曝使用韩国梨泰院踩踏事故真实新闻画面，遇难者家属要求删除",
-  "url": "https://www.koreatimes.co.kr/southkorea/society/20261028/call-of-duty-game-under-fire-for-using-real-itaewon-crowd-crush-footage",
-  "date": "2026-10-28",
-  "section": 3,
-  "posted": "2026-10-28"
- },
- {
-  "title": "《黎明杀机》开发商：查克、针头怪、迈克尔·迈尔斯等下架联动角色仍\"敞开大门\"欢迎回归",
-  "url": "https://www.videogameschronicle.com/news/dead-by-daylight-studio-says-removed-characters-like-chucky-pinhead-and-michael-myers-have-an-open-invitation-to-return/",
-  "date": "2026-10-28",
-  "section": 3,
-  "posted": "2026-10-28"
- },
- {
   "title": "Epic Games副总裁称AI编程工具已消除Unreal Engine十年未解的「非确定性cooking错误」",
   "url": "https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic",
   "date": "2026-10-28",
@@ -1797,5 +1699,124 @@
   "date": "2026-11-10",
   "section": 3,
   "posted": "2026-11-11"
+ },
+ {
+  "title": "《巫师3》新DLC用AI修复配音演员中风后受损的Geralt波兰语声线",
+  "url": "https://www.videogameschronicle.com/news/the-witcher-3-expansion-uses-ai-to-adjust-geralts-polish-voiceover-because-the-actor-suffered-a-stroke/",
+  "date": "2026-11-11",
+  "section": 1,
+  "posted": "2026-11-12"
+ },
+ {
+  "title": "触乐调查：独立游戏爆火一周内即遭AI转制抄袭，维权陷入困境",
+  "url": "https://www.chuapp.com/article/291752.html",
+  "date": "2026-11-12",
+  "section": 1,
+  "posted": "2026-11-12"
+ },
+ {
+  "title": "Steam新品节生成式AI内容占比超30%，参展demo数量翻倍；Meta同期推出轻量级AI建世界工具Horizon Create",
+  "url": "https://eu.36kr.com/zh/p/4055569453896583",
+  "date": "2026-11-05",
+  "section": 1,
+  "posted": "2026-11-12"
+ },
+ {
+  "title": "字节跳动Seed团队发布图像模型Seedream 5.5，支持百轮编辑与原生透明素材输出，游戏场景可用率提升",
+  "url": "https://seed.bytedance.com/zh/blog/生成更真实-百轮编辑更稳定-seedream-5-5-发布",
+  "date": "2026-11-09",
+  "section": 2,
+  "posted": "2026-11-12"
+ },
+ {
+  "title": "美团LongCat-2.5开源引发中国大模型厂商争夺\"一句话做游戏\"赛道",
+  "url": "https://www.youxituoluo.com/535049.html",
+  "date": "2026-11-12",
+  "section": 2,
+  "posted": "2026-11-12"
+ },
+ {
+  "title": "《铁拳》系列制作人原田胜弘：希望Xbox Series S这类硬件\"从未被推出\"",
+  "url": "https://www.gamedeveloper.com/console/katsuhiro-harada-i-wish-hardware-like-the-xbox-series-s-wouldnt-be-released",
+  "date": "2026-11-11",
+  "section": 3,
+  "posted": "2026-11-12"
+ },
+ {
+  "title": "欧盟《数字公平法案》遭行业强烈反对：EGDF、Video Games Europe与Supercell CEO齐声批评",
+  "url": "https://www.pocketgamer.biz/the-dfa-is-game-over-for-the-european-games-industry/",
+  "date": "2026-11-11",
+  "section": 3,
+  "posted": "2026-11-12"
+ },
+ {
+  "title": "英国AI互动视频游戏新工作室Anorak获500万美元种子前轮融资",
+  "url": "https://www.pocketgamer.biz/anorak-raises-5m-in-pre-seed-funding-led-by-backed-vc-and-play-ventures/",
+  "date": "2026-11-12",
+  "section": 3,
+  "posted": "2026-11-12"
+ },
+ {
+  "title": "《赛马娘》成为\"2027年F1日本大奖赛\"首个冠名创始合作伙伴",
+  "url": "https://www.pocketgamer.biz/umamusume-pretty-derby-becomes-first-founding-partner-of-2027-f1-japanese-grand-prix/",
+  "date": "2026-11-12",
+  "section": 3,
+  "posted": "2026-11-12"
+ },
+ {
+  "title": "腾讯《无畏契约》端游与手游注册用户合计\"双破亿\"",
+  "url": "https://www.youxituoluo.com/535048.html",
+  "date": "2026-11-11",
+  "section": 3,
+  "posted": "2026-11-12"
+ },
+ {
+  "title": "国产独立游戏《最差一届》登顶Steam新品节热门榜，正式版首日销量破10万",
+  "url": "http://www.chuapp.com/article/291750.html",
+  "date": "2026-11-12",
+  "section": 3,
+  "posted": "2026-11-12"
+ },
+ {
+  "title": "R星前资深开发者谈《GTA6》地图：系列未来舞台\"没有绝对\"，曾险些做《GTA:东京》",
+  "url": "https://www.ithome.com/1/026/388.htm",
+  "date": "2026-11-12",
+  "section": 3,
+  "posted": "2026-11-12"
+ },
+ {
+  "title": "Pearl Abyss第三季度营业利润环比暴跌70%，《黑色沙漠》抵消部分《紫禁级沙漠》降幅",
+  "url": "https://www.invenglobal.com/articles/28520/pearl-abyss-q3-operating-profit-drops-70-qoq-to-207b-won-as-new-title-boost-fades",
+  "date": "2026-11-12",
+  "section": 3,
+  "posted": "2026-11-12"
+ },
+ {
+  "title": "据报道，单一信源：Inven Global】《GTA6》在韩国险遭评级委员会\"拒绝分级\"，因背景中男性裸露画面引争议",
+  "url": "https://www.invenglobal.com/articles/28517/gta-6-came-close-to-rating-refusal-in-south-korea",
+  "date": "2026-11-11",
+  "section": 3,
+  "posted": "2026-11-12"
+ },
+ {
+  "title": "原id Software开发者组建员工共有新工作室Hidden Horses，首作为FPS《Danger Pay》",
+  "url": "https://www.4gamer.net/games/999/G999905/20261112006/",
+  "date": "2026-11-12",
+  "section": 3,
+  "posted": "2026-11-12"
+ },
+ {
+  "title": "史克威尔艾尼克斯2027财年中期游戏业务大幅增收增利，上调全年业绩预期",
+  "url": "https://www.4gamer.net/games/002/G100260/20261111033/",
+  "date": "2026-11-11",
+  "section": 3,
+  "posted": "2026-11-12"
+ },
+ {
+  "title": "NVIDIA官方确认CEO黄仁勋辞任，CFO Colette Kress任临时CEO",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm",
+  "date": "2026-11-12",
+  "section": 3,
+  "posted": "2026-11-12"
  }
 ]

@@ -1,0 +1,272 @@
+{
+  "as_of": "2026-11-12",
+  "cutoff": "2026-11-11",
+  "window_days": 1,
+  "summary": {
+    "input_items": 12,
+    "denied_source": 0,
+    "in_window": 12,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 12,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 12,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 12,
+    "previously_covered_count": 0
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "《铁拳》系列制作人原田胜弘：希望Xbox Series S这类硬件\"从未被推出\"",
+        "url": "https://www.gamedeveloper.com/console/katsuhiro-harada-i-wish-hardware-like-the-xbox-series-s-wouldnt-be-released",
+        "date": "2026-11-11",
+        "summary": "《铁拳》系列负责人原田胜弘在采访中表示，他希望像Xbox Series S这样性能受限的硬件\"从未被推出\"，认为其拖累了多平台游戏的开发与优化。此言论由Game Developer报道。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《铁拳》系列制作人原田胜弘：希望Xbox Series S这类硬件\"从未被推出\"",
+          "url": "https://www.gamedeveloper.com/console/katsuhiro-harada-i-wish-hardware-like-the-xbox-series-s-wouldnt-be-released",
+          "date": "2026-11-11",
+          "summary": "《铁拳》系列负责人原田胜弘在采访中表示，他希望像Xbox Series S这样性能受限的硬件\"从未被推出\"，认为其拖累了多平台游戏的开发与优化。此言论由Game Developer报道。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "欧盟《数字公平法案》遭行业强烈反对：EGDF、Video Games Europe与Supercell CEO齐声批评",
+        "url": "https://www.pocketgamer.biz/the-dfa-is-game-over-for-the-european-games-industry/",
+        "date": "2026-11-11",
+        "summary": "欧洲游戏开发者联合会（EGDF）与Video Games Europe发表声明，批评欧盟《数字公平法案》草案可能将游戏内虚拟货币重新定义为类似比特币的\"数字价值代表\"，威胁整个欧洲游戏行业；Supercell CEO Ilkka Paananen随后也发文称该法案将损害而非保护消费者。两篇报道均来自PocketGamer.biz。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "欧盟《数字公平法案》遭行业强烈反对：EGDF、Video Games Europe与Supercell CEO齐声批评",
+          "url": "https://www.pocketgamer.biz/the-dfa-is-game-over-for-the-european-games-industry/",
+          "date": "2026-11-11",
+          "summary": "欧洲游戏开发者联合会（EGDF）与Video Games Europe发表声明，批评欧盟《数字公平法案》草案可能将游戏内虚拟货币重新定义为类似比特币的\"数字价值代表\"，威胁整个欧洲游戏行业；Supercell CEO Ilkka Paananen随后也发文称该法案将损害而非保护消费者。两篇报道均来自PocketGamer.biz。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "英国AI互动视频游戏新工作室Anorak获500万美元种子前轮融资",
+        "url": "https://www.pocketgamer.biz/anorak-raises-5m-in-pre-seed-funding-led-by-backed-vc-and-play-ventures/",
+        "date": "2026-11-12",
+        "summary": "由Hutch联合创始人Shaun Rutland于本月初创立的新工作室Anorak，宣布获得500万美元种子前轮融资，由Backed VC和Play Ventures领投，用于开发其主打\"可交互生成式视频\"的游戏项目。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "英国AI互动视频游戏新工作室Anorak获500万美元种子前轮融资",
+          "url": "https://www.pocketgamer.biz/anorak-raises-5m-in-pre-seed-funding-led-by-backed-vc-and-play-ventures/",
+          "date": "2026-11-12",
+          "summary": "由Hutch联合创始人Shaun Rutland于本月初创立的新工作室Anorak，宣布获得500万美元种子前轮融资，由Backed VC和Play Ventures领投，用于开发其主打\"可交互生成式视频\"的游戏项目。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《赛马娘》成为\"2027年F1日本大奖赛\"首个冠名创始合作伙伴",
+        "url": "https://www.pocketgamer.biz/umamusume-pretty-derby-becomes-first-founding-partner-of-2027-f1-japanese-grand-prix/",
+        "date": "2026-11-12",
+        "summary": "Cygames旗下《赛马娘 Pretty Derby》宣布成为2027年F1日本大奖赛的首个\"创始合作伙伴\"并取得相关冠名权益，是该IP继此前与MotoGP日本大奖赛合作后在赛车体育领域的又一次大型跨界赞助，PocketGamer.biz与日本4Gamer均作了报道。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《赛马娘》成为\"2027年F1日本大奖赛\"首个冠名创始合作伙伴",
+          "url": "https://www.pocketgamer.biz/umamusume-pretty-derby-becomes-first-founding-partner-of-2027-f1-japanese-grand-prix/",
+          "date": "2026-11-12",
+          "summary": "Cygames旗下《赛马娘 Pretty Derby》宣布成为2027年F1日本大奖赛的首个\"创始合作伙伴\"并取得相关冠名权益，是该IP继此前与MotoGP日本大奖赛合作后在赛车体育领域的又一次大型跨界赞助，PocketGamer.biz与日本4Gamer均作了报道。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "腾讯《无畏契约》端游与手游注册用户合计\"双破亿\"",
+        "url": "https://www.youxituoluo.com/535048.html",
+        "date": "2026-11-11",
+        "summary": "游戏陀螺报道，腾讯《无畏契约》端游（瓦）注册用户已突破1亿，手游《无畏契约：源能行动》注册用户也于2026年7月突破1亿，两端合计实现\"双破亿\"；腾讯二季度财报显示本土游戏收入同比增长17%，该IP端游与手游均为主要增长贡献产品。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "腾讯《无畏契约》端游与手游注册用户合计\"双破亿\"",
+          "url": "https://www.youxituoluo.com/535048.html",
+          "date": "2026-11-11",
+          "summary": "游戏陀螺报道，腾讯《无畏契约》端游（瓦）注册用户已突破1亿，手游《无畏契约：源能行动》注册用户也于2026年7月突破1亿，两端合计实现\"双破亿\"；腾讯二季度财报显示本土游戏收入同比增长17%，该IP端游与手游均为主要增长贡献产品。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "国产独立游戏《最差一届》登顶Steam新品节热门榜，正式版首日销量破10万",
+        "url": "http://www.chuapp.com/article/291750.html",
+        "date": "2026-11-12",
+        "summary": "触乐报道，国内独立团队\"顽核社\"开发的\"友尽游戏\"《最差一届》在近期Steam新品节中试玩人数突破60万（海外玩家占比约15%），新品节后登上Steam热门游戏榜首；该作已于11月10日正式发售，首日销量超10万份，进入Steam国区销量榜前三。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "国产独立游戏《最差一届》登顶Steam新品节热门榜，正式版首日销量破10万",
+          "url": "http://www.chuapp.com/article/291750.html",
+          "date": "2026-11-12",
+          "summary": "触乐报道，国内独立团队\"顽核社\"开发的\"友尽游戏\"《最差一届》在近期Steam新品节中试玩人数突破60万（海外玩家占比约15%），新品节后登上Steam热门游戏榜首；该作已于11月10日正式发售，首日销量超10万份，进入Steam国区销量榜前三。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "R星前资深开发者谈《GTA6》地图：系列未来舞台\"没有绝对\"，曾险些做《GTA:东京》",
+        "url": "https://www.ithome.com/1/026/388.htm",
+        "date": "2026-11-12",
+        "summary": "据IT之家援引外媒报道，前Rockstar资深开发者Obbe Vermeij透露，制作团队曾非常接近推出一款以东京为背景的《GTA》作品，但该企划最终被搁置；他认为出于商业风险与文化辨识度考虑，《GTA6》地图不太可能扩展至美国以外，但系列未来舞台\"没有绝对\"。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "R星前资深开发者谈《GTA6》地图：系列未来舞台\"没有绝对\"，曾险些做《GTA:东京》",
+          "url": "https://www.ithome.com/1/026/388.htm",
+          "date": "2026-11-12",
+          "summary": "据IT之家援引外媒报道，前Rockstar资深开发者Obbe Vermeij透露，制作团队曾非常接近推出一款以东京为背景的《GTA》作品，但该企划最终被搁置；他认为出于商业风险与文化辨识度考虑，《GTA6》地图不太可能扩展至美国以外，但系列未来舞台\"没有绝对\"。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Pearl Abyss第三季度营业利润环比暴跌70%，《黑色沙漠》抵消部分《紫禁级沙漠》降幅",
+        "url": "https://www.invenglobal.com/articles/28520/pearl-abyss-q3-operating-profit-drops-70-qoq-to-207b-won-as-new-title-boost-fades",
+        "date": "2026-11-12",
+        "summary": "Pearl Abyss公布2026年第三季度财报：营收1015亿韩元（同比+18.0%，环比-47.3%），营业利润207亿韩元（环比暴跌69.4%），净利润108亿韩元（环比-84.8%）。新作《Crimson Desert》季度流水环比骤降70.2%至406亿韩元（销量约68万份），《黑色沙漠》流水环比增10.9%部分抵消了降幅，公司称韩元走强也拖累了净利润。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Pearl Abyss第三季度营业利润环比暴跌70%，《黑色沙漠》抵消部分《紫禁级沙漠》降幅",
+          "url": "https://www.invenglobal.com/articles/28520/pearl-abyss-q3-operating-profit-drops-70-qoq-to-207b-won-as-new-title-boost-fades",
+          "date": "2026-11-12",
+          "summary": "Pearl Abyss公布2026年第三季度财报：营收1015亿韩元（同比+18.0%，环比-47.3%），营业利润207亿韩元（环比暴跌69.4%），净利润108亿韩元（环比-84.8%）。新作《Crimson Desert》季度流水环比骤降70.2%至406亿韩元（销量约68万份），《黑色沙漠》流水环比增10.9%部分抵消了降幅，公司称韩元走强也拖累了净利润。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "[UNCONFIRMED-SINGLE-SOURCE: Inven Global] 《GTA6》在韩国险遭评级委员会\"拒绝分级\"，因背景中男性裸露画面引争议",
+        "url": "https://www.invenglobal.com/articles/28517/gta-6-came-close-to-rating-refusal-in-south-korea",
+        "date": "2026-11-11",
+        "summary": "据Inven Global披露的韩国游戏内容分级委员会审议细节（其他媒体暂未见corroboration），委员会对《GTA6》背景中频繁出现的男性裸露画面存在争议，9月10日首次审议以3比3平局未能定案，直至10月16日才以8比1通过\"成人限制级\"（内容描述含性暗示、暴力、犯罪、毒品、语言），期间一名委员始终主张\"拒绝分级\"。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "[UNCONFIRMED-SINGLE-SOURCE: Inven Global] 《GTA6》在韩国险遭评级委员会\"拒绝分级\"，因背景中男性裸露画面引争议",
+          "url": "https://www.invenglobal.com/articles/28517/gta-6-came-close-to-rating-refusal-in-south-korea",
+          "date": "2026-11-11",
+          "summary": "据Inven Global披露的韩国游戏内容分级委员会审议细节（其他媒体暂未见corroboration），委员会对《GTA6》背景中频繁出现的男性裸露画面存在争议，9月10日首次审议以3比3平局未能定案，直至10月16日才以8比1通过\"成人限制级\"（内容描述含性暗示、暴力、犯罪、毒品、语言），期间一名委员始终主张\"拒绝分级\"。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "原id Software开发者组建员工共有新工作室Hidden Horses，首作为FPS《Danger Pay》",
+        "url": "https://www.4gamer.net/games/999/G999905/20261112006/",
+        "date": "2026-11-12",
+        "summary": "日本4Gamer报道，约20名因微软对id Software大规模重组而离职的资深开发者（行业经验合计超250年）组建了由开发者共同创立、员工共有的新工作室Hidden Horses，联合创始人包括Dustin Land；首款项目为单人FPS《Danger Pay》，设定为AI主持的杀人游戏秀，灵感来自《敢死战士》与《Smash TV》，工作室近期将启动Kickstarter众筹。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "原id Software开发者组建员工共有新工作室Hidden Horses，首作为FPS《Danger Pay》",
+          "url": "https://www.4gamer.net/games/999/G999905/20261112006/",
+          "date": "2026-11-12",
+          "summary": "日本4Gamer报道，约20名因微软对id Software大规模重组而离职的资深开发者（行业经验合计超250年）组建了由开发者共同创立、员工共有的新工作室Hidden Horses，联合创始人包括Dustin Land；首款项目为单人FPS《Danger Pay》，设定为AI主持的杀人游戏秀，灵感来自《敢死战士》与《Smash TV》，工作室近期将启动Kickstarter众筹。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "史克威尔艾尼克斯2027财年中期游戏业务大幅增收增利，上调全年业绩预期",
+        "url": "https://www.4gamer.net/games/002/G100260/20261111033/",
+        "date": "2026-11-11",
+        "summary": "史克威尔艾尼克斯公布2027财年中期（2026年4-9月）财报：营收1631.79亿日元（同比+21.9%），营业利润387.93亿日元（同比+42.2%），其中数字娱乐（游戏）业务营收976.81亿日元（+33.7%）、营业利润率升至33.6%，《最终幻想VII 重生》等作品表现带动旧作目录销量同比大增；公司已上调2027财年全年营收及利润预期。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "史克威尔艾尼克斯2027财年中期游戏业务大幅增收增利，上调全年业绩预期",
+          "url": "https://www.4gamer.net/games/002/G100260/20261111033/",
+          "date": "2026-11-11",
+          "summary": "史克威尔艾尼克斯公布2027财年中期（2026年4-9月）财报：营收1631.79亿日元（同比+21.9%），营业利润387.93亿日元（同比+42.2%），其中数字娱乐（游戏）业务营收976.81亿日元（+33.7%）、营业利润率升至33.6%，《最终幻想VII 重生》等作品表现带动旧作目录销量同比大增；公司已上调2027财年全年营收及利润预期。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "NVIDIA官方宣布CEO黄仁勋辞任，CFO Colette Kress任临时CEO",
+        "url": "https://www.4gamer.net/games/999/G999902/20261112001/",
+        "date": "2026-11-12",
+        "summary": "据4Gamer援引NVIDIA官方新闻稿（\"nvidia-announces-ceo-transition\"）报道，NVIDIA创始人兼CEO黄仁勋已辞任，公司CFO Colette Kress将任临时CEO，企业家Harvey C. Jones出任公司史上首位董事会主席；报道同时提及此前已披露的黄仁勋婚外情及FBI就其是否协助中国规避美国对NVIDIA高性能GPU出口管制展开调查等背景传闻，但该部分细节尚未获NVIDIA官方证实，PocketGamer.biz同日报道称NVIDIA股价因\"董事会考虑撤换黄仁勋\"的传闻下跌约8%。此事直接影响全球游戏GPU供应链格局，故列入本节。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "NVIDIA官方宣布CEO黄仁勋辞任，CFO Colette Kress任临时CEO",
+          "url": "https://www.4gamer.net/games/999/G999902/20261112001/",
+          "date": "2026-11-12",
+          "summary": "据4Gamer援引NVIDIA官方新闻稿（\"nvidia-announces-ceo-transition\"）报道，NVIDIA创始人兼CEO黄仁勋已辞任，公司CFO Colette Kress将任临时CEO，企业家Harvey C. Jones出任公司史上首位董事会主席；报道同时提及此前已披露的黄仁勋婚外情及FBI就其是否协助中国规避美国对NVIDIA高性能GPU出口管制展开调查等背景传闻，但该部分细节尚未获NVIDIA官方证实，PocketGamer.biz同日报道称NVIDIA股价因\"董事会考虑撤换黄仁勋\"的传闻下跌约8%。此事直接影响全球游戏GPU供应链格局，故列入本节。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

@@ -14,7 +14,7 @@
   "first_seen": "2026-09-13",
   "release_date": "2026-09-03",
   "summary": "NVIDIA states \"DLSS 5 is available now in the newly-released NBA 2K27\" and that DLSS 5 introduces \"3D-Guided Neural Rendering, infusing games with lifelike lighting and materials using advanced artist-guided AI models.\" It ships alongside Game Ready Driver 616.64.",
-  "last_update": "2026-11-05",
+  "last_update": "2026-11-12",
   "updates": [
    {
     "date": "2026-10-13",
@@ -27,6 +27,10 @@
    {
     "date": "2026-11-05",
     "change": "DLSS 5 with 3D-Guided Neural Rendering shipped in Hogwarts Legacy (available now via in-game \"Neural Rendering\" toggle, requires RTX 50 Series/RTX Spark/GeForce NOW Ultimate plus the Nov 4 Game Ready Driver); War Thunder (Eagle's Shadow update) and Where Winds Meet (Nov 23) confirmed for mid/late November rollout."
+   },
+   {
+    "date": "2026-11-12",
+    "change": "War Thunder's Eagle's Shadow update shipped DLSS 5 with 3D-Guided Neural Rendering (https://www.nvidia.com/en-us/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-out-now/), moving War Thunder from \"confirmed for mid/late November rollout\" to actually available on GeForce RTX 50 Series/RTX Spark; NVIDIA claims up to 400 fps at 4K and up to 550 fps at 1440p (Ultra, path tracing) in Gaijin's benchmark. Where Winds Meet's DLSS 5 update (stated for Nov 23) remains pending."
    }
   ]
  },
@@ -762,5 +766,13 @@
   "first_seen": "2026-11-10",
   "release_date": "2026-11-10",
   "summary": "Adobe states Firefly Design (beta) is a new Firefly workspace that brings raster, vector, motion, 3D and print together on a single canvas."
+ },
+ "https://devforum.roblox.com/t/increasing-the-minimum-draw-distance-to-500-studs-and-other-auto-quality-level-improvements/4977292": {
+  "name": "Roblox Engine — Minimum Draw Distance Raised to 500 Studs + Auto-Quality Level Improvements",
+  "company": "Roblox",
+  "tier": "GA",
+  "first_seen": "2026-11-12",
+  "release_date": "2026-11-05",
+  "summary": "Roblox's Rendering team raised the minimum draw distance at the lowest automatic quality level from 200 to 500 studs (with faster ramp-up across the first few levels), made terrain water transparent at all quality levels, and stopped beams from aggressively cutting segment counts at low quality; Roblox states the change rolls out automatically to every game with nothing creators need to turn on."
  }
 }

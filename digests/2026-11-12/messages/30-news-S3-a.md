@@ -1,0 +1,8 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **《铁拳》系列制作人原田胜弘：希望Xbox Series S这类硬件"从未被推出"**（2026-11-11）— 原田胜弘在采访中表示，他希望像Xbox Series S这样性能受限的硬件"从未被推出"，认为其拖累了多平台游戏的开发与优化；报道来自Game Developer。 <https://www.gamedeveloper.com/console/katsuhiro-harada-i-wish-hardware-like-the-xbox-series-s-wouldnt-be-released>
+- **欧盟《数字公平法案》遭行业强烈反对：EGDF、Video Games Europe与Supercell CEO齐声批评**（2026-11-11）— 欧洲游戏开发者联合会（EGDF）与Video Games Europe发表声明，批评欧盟《数字公平法案》草案可能将游戏内虚拟货币重新定义为类似比特币的"数字价值代表"；Supercell CEO Ilkka Paananen随后也发文称该法案将损害而非保护消费者。 <https://www.pocketgamer.biz/the-dfa-is-game-over-for-the-european-games-industry/>
+- **英国AI互动视频游戏新工作室Anorak获500万美元种子前轮融资**（2026-11-12）— 由Hutch联合创始人Shaun Rutland本月初创立的新工作室Anorak，获得由Backed VC和Play Ventures领投的500万美元种子前轮融资，用于开发主打"可交互生成式视频"的游戏项目。 <https://www.pocketgamer.biz/anorak-raises-5m-in-pre-seed-funding-led-by-backed-vc-and-play-ventures/>
+- **《赛马娘》成为"2027年F1日本大奖赛"首个冠名创始合作伙伴**（2026-11-12）— Cygames旗下《赛马娘 Pretty Derby》宣布成为2027年F1日本大奖赛的首个"创始合作伙伴"并取得相关冠名权益，是该IP继此前与MotoGP日本大奖赛合作后在赛车体育领域的又一次跨界赞助。 <https://www.pocketgamer.biz/umamusume-pretty-derby-becomes-first-founding-partner-of-2027-f1-japanese-grand-prix/>
+- **腾讯《无畏契约》端游与手游注册用户合计"双破亿"**（2026-11-11）— 游戏陀螺报道，腾讯《无畏契约》端游注册用户已突破1亿，手游《无畏契约：源能行动》注册用户也于2026年7月突破1亿，两端合计"双破亿"；腾讯二季度财报显示本土游戏收入同比增长17%，该IP为主要增长贡献产品之一。 <https://www.youxituoluo.com/535048.html>
+- **国产独立游戏《最差一届》登顶Steam新品节热门榜，正式版首日销量破10万**（2026-11-12）— 触乐报道，独立团队"顽核社"开发的《最差一届》在近期Steam新品节中试玩人数突破60万（海外玩家占比约15%），新品节后登上Steam热门游戏榜首；该作已于11月10日正式发售，首日销量超10万份，进入Steam国区销量榜前三。 <http://www.chuapp.com/article/291750.html>
+- **R星前资深开发者谈《GTA6》地图：系列未来舞台"没有绝对"，曾险些做《GTA:东京》**（2026-11-12）— 据IT之家援引外媒报道，前Rockstar资深开发者Obbe Vermeij透露，制作团队曾非常接近推出一款以东京为背景的《GTA》作品，但该企划最终被搁置；他认为出于商业风险与文化辨识度考虑，《GTA6》地图不太可能扩展至美国以外，但系列未来舞台"没有绝对"。 <https://www.ithome.com/1/026/388.htm>

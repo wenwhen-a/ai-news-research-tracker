@@ -1,0 +1,14 @@
+**[新闻 1] 《巫师3》新DLC用AI修复配音演员中风后受损的Geralt波兰语声线**
+- **日期：** 2026-11-11
+- **来源链接：** <https://www.videogameschronicle.com/news/the-witcher-3-expansion-uses-ai-to-adjust-geralts-polish-voiceover-because-the-actor-suffered-a-stroke/>
+- **核心事实：**
+  - CD Projekt Red向Game File证实，《巫师3：狂猎》新DLC《Songs of the Past》中，波兰语配音演员Jacek Rozenek（Geralt波兰语配音）完成台词录制后，交由AI声音公司Respeecher基于其本体游戏时期的历史录音训练声音模型进行调整，使新录台词更接近其12年前的声线
+  - Rozenek于2019年中风导致失语，2022年次世代版更新复出配音，但需每日高强度训练且录音后感到疲惫
+  - CDPR本地化制作人Mikołaj Szwed表示，因其声音与早年相比变化较大，团队才决定用AI处理
+  - Rozenek本人同意使用该技术，称信任制作团队并希望声音尽量贴近自己12年前的样子
+- **背景与起因：**
+  - CDPR此前已在《赛博朋克2077：往日之影》DLC中使用Respeecher技术，为已故配音演员Miłogost Reczek（Viktor Vektor波兰语配音）在获得其家属同意后生成新台词、而非更换配音演员，此次是同一思路的延续
+  - 报道将此事置于游戏行业AI使用争议加剧的背景下，提及House House《Big Walk》与《Clair Obscur: Expedition 33》因生成式AI使用引发争议（后者因此被取消独立游戏大奖年度游戏奖项）
+- **结果与进展：**
+  - 团队强调此举基于演员本人同意、出于健康原因且有明确正当目的，与未经同意的AI配音替换形成对比
+  - 《Songs of the Past》DLC已完成相关技术处理；报道未提供具体上线日期
