@@ -1,0 +1,12 @@
+**[新闻 4] 索尼PlayStation官方推出QSSR AI超分技术，首批接入《漫威蜘蛛侠2》《Control》等五款大作**
+- **日期：** 2026-11-13
+- **来源链接：** <https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/>
+- **核心事实：**
+  - 索尼PlayStation官方博客宣布，其与AMD联合研发项目Project Amethyst孕育的AI引导超分辨率技术QSSR（Quick Spectral Super Resolution）现已上线Insomniac Games的《漫威蜘蛛侠2》。
+  - 该技术将陆续登陆Remedy的《Control Resonant》（12月）、Embark Studios的《ARC Raiders》与《The Finals》，以及Hello Games《无人深空》和《Hell Let Loose: Vietnam》。
+  - QSSR与PS5 Pro专属的PSSR（PlayStation Spectral Super Resolution）共享接口设计，使已支持PSSR的游戏可更快适配。
+- **背景与起因：**
+  - 该技术延续了索尼与AMD自2023年起的Project Amethyst联合研发合作（涵盖神经网络渲染、角色动作等方向），是索尼10月推出的新一代AI超分方案，显示主机厂商持续在AI图形渲染领域对标NVIDIA DLSS、AMD FSR的竞争布局。
+- **结果与进展：**
+  - Insomniac技术负责人Mike Fitzgerald称该技术先在《金刚狼》中验证效果良好后才引入《蜘蛛侠2》，画面稳定性和锐度在「画质」与「性能」两种模式下均有提升。
+  - Remedy图形程序员Erik Jansson称公司与索尼紧密合作以确保12月更新按期上线。

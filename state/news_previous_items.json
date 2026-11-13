@@ -1,173 +1,5 @@
 [
  {
-  "title": "Epic Games副总裁称AI编程工具已消除Unreal Engine十年未解的「非确定性cooking错误」",
-  "url": "https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic",
-  "date": "2026-10-28",
-  "section": 1,
-  "posted": "2026-10-29"
- },
- {
-  "title": "3D模型网站Open3DLab指控Roblox旗下AI爬虫未经许可抓取145GB数据(含成人内容),Roblox确认已关停该爬虫",
-  "url": "https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-used-in-ai-training-after-scraping-open3dlab-data",
-  "date": "2026-10-28",
-  "section": 1,
-  "posted": "2026-10-29"
- },
- {
-  "title": "Valve在Steam Indie Connect活动上回应AI「仿制游戏」勒索与「AI垃圾内容」担忧,拒绝为AI工具设门槛",
-  "url": "https://www.invenglobal.com/articles/27761/valve-responds-directly-to-developers-fearful-of-ai-slop-and-game-cloning",
-  "date": "2026-10-27",
-  "section": 1,
-  "posted": "2026-10-29"
- },
- {
-  "title": "微软与Epic Games对AI「反编译」移植版游戏发起大量DMCA投诉,Tim Sweeney回应「AI是窃取」指控",
-  "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
-  "date": "2026-10-27",
-  "section": 1,
-  "posted": "2026-10-29"
- },
- {
-  "title": "Epic CEO Tim Sweeney炮轰Steam的AI披露要求「令人憎恶」,称是一种「政治表态」",
-  "url": "https://kotaku.com/epic-steam-valve-tim-sweeney-gen-ai-declaration-political-abhorrent-2000749706",
-  "date": "2026-10-26",
-  "section": 1,
-  "posted": "2026-10-29"
- },
- {
-  "title": "Epic Games公布「2026 Epic AI MegaJam」游戏创作大赛,联合Anthropic、OpenAI、谷歌等共6.5万美元奖金",
-  "url": "https://www.invenglobal.com/articles/27578/epic-games-announces-2026-epic-ai-megajam-with-up-to-50000-in-grants",
-  "date": "2026-10-22",
-  "section": 1,
-  "posted": "2026-10-29"
- },
- {
-  "title": "说明：本周经两批独立检索子代理（分别覆盖西方大厂/平台、中国大厂/引擎/硬件）及编排者本人约20次补充检索（涵盖Unity、Xbox Copilot、游戏AI融资、反作弊AI、DeepMind、Meta Horizon、Krafton、ByteDance Seed、PlayStation、SAG-AFTRA、网易伏羲、快手可灵、完美世界、三七互娱等方向）后，去除与此前七天内已报道事件重复或属同一事件后续报道的条目（8条），本部分仅有 3 条经核实的全新「游戏+AI」简讯，低于20条目标——这是经过充分检索后的真实结果，未进行任何编造或凑数。",
-  "url": "https://www.21jingji.com/article/20261029/herald/dd3031fa7cbaed3404c731e3b8014cc2.html",
-  "date": "2026-10-29",
-  "section": 2,
-  "posted": "2026-10-29"
- },
- {
-  "title": "NVIDIA为《Phantom Blade Zero》带来DLSS 4.5光线重构技术,并为多款游戏推出DLSS更新",
-  "url": "https://www.nvidia.com/en-us/geforce/news/phantom-blade-zero-path-tracing-dlss-4-5-ray-reconstruction/",
-  "date": "2026-10-28",
-  "section": 2,
-  "posted": "2026-10-29"
- },
- {
-  "title": "据报道AI编程工具助推PS5主机破解热潮,黑客通过漏洞赏金计划获5万美元披露虚拟化层漏洞",
-  "url": "https://kotaku.com/ai-has-triggered-a-ps5-homebrew-gold-rush-but-its-also-the-reason-gta-6-cant-be-pirated-at-release-2000749776",
-  "date": "2026-10-26",
-  "section": 2,
-  "posted": "2026-10-29"
- },
- {
-  "title": "FromSoftware《The Duskbloods》延期至2027年发售",
-  "url": "https://www.videogameschronicle.com/news/fromsoftwares-switch-2-exclusive-the-duskbloods-has-been-delayed-to-2027/",
-  "date": "2026-10-29",
-  "section": 3,
-  "posted": "2026-10-29"
- },
- {
-  "title": "《GTA6》官方原声专辑由Justice创作，12月11日发行，CD与黑胶现已开放预购",
-  "url": "https://www.videogameschronicle.com/news/the-official-grand-theft-auto-6-musical-score-by-justice-is-released-in-december-cd-and-vinyl-pre-orders-available-now/",
-  "date": "2026-10-29",
-  "section": 3,
-  "posted": "2026-10-29"
- },
- {
-  "title": "《魔兽世界：永恒》加入手柄支持，被视为暴雪布局Xbox Helix跨平台战略第一步",
-  "url": "https://www.videogameschronicle.com/news/world-of-warcraft-forever-controller-support-is-the-first-step-to-playing-anywhere-as-blizzard-prepares-for-xbox-helix/",
-  "date": "2026-10-29",
-  "section": 3,
-  "posted": "2026-10-29"
- },
- {
-  "title": "《南方公园》最新一集插入《GTA6》独家游戏画面",
-  "url": "https://www.videogameschronicle.com/news/the-latest-episode-of-south-park-features-exclusive-gta-6-footage-where-a-man-is-hit-in-the-head-with-dog-poo/",
-  "date": "2026-10-29",
-  "section": 3,
-  "posted": "2026-10-29"
- },
- {
-  "title": "韩国对谷歌、苹果开出约4760万美元罚单，指应用内支付政策违规",
-  "url": "https://www.pocketgamer.biz/south-korea-fines-google-and-apple-476m-over-app-payments/",
-  "date": "2026-10-29",
-  "section": 3,
-  "posted": "2026-10-29"
- },
- {
-  "title": "谷歌Play公布非洲独立游戏基金入选名单，10家工作室获百万美元扶持",
-  "url": "https://www.pocketgamer.biz/google-play-selects-10-african-studios-for-1m-indie-games-fund/",
-  "date": "2026-10-29",
-  "section": 3,
-  "posted": "2026-10-29"
- },
- {
-  "title": "11月PS Plus Essential会免游戏公布，《死亡岛2》《古墓丽影IV-VI重制合集》在列",
-  "url": "https://www.videogameschronicle.com/news/novembers-three-free-ps-plus-essential-monthly-games-include-dead-island-2-and-tomb-raider-4-6-remastered/",
-  "date": "2026-10-28",
-  "section": 3,
-  "posted": "2026-10-29"
- },
- {
-  "title": "《WWE 2K26》最终季票内容上线，新增地震者、台风等四名摔跤手",
-  "url": "https://www.videogameschronicle.com/news/wwe-2k26s-final-ringside-pass-launches-today-adding-four-more-wrestlers-including-earthquake-and-typhoon/",
-  "date": "2026-10-28",
-  "section": 3,
-  "posted": "2026-10-29"
- },
- {
-  "title": "约旦独立工作室Dimensions Games Studio运营四年后宣布关闭",
-  "url": "https://www.pocketgamer.biz/jordan-based-dimensions-games-studio-closes-after-four-years/",
-  "date": "2026-10-28",
-  "section": 3,
-  "posted": "2026-10-29"
- },
- {
-  "title": "Unity与投资机构PvX合作，为游戏开发者推出资金扶持计划",
-  "url": "https://www.pocketgamer.biz/unity-partners-with-pvx-to-offer-funding-for-game-developers/",
-  "date": "2026-10-28",
-  "section": 3,
-  "posted": "2026-10-29"
- },
- {
-  "title": "微软公布最新财季Xbox内容与服务收入同比下滑2%",
-  "url": "https://gamesbeat.com/xbox-content-and-services-revenue-decreased-2-in-september-quarter/",
-  "date": "2026-10-28",
-  "section": 3,
-  "posted": "2026-10-29"
- },
- {
-  "title": "雅虎游戏业务负责人在公司重组裁员中离职",
-  "url": "https://gamesbeat.com/yahoos-head-of-games-exits-amid-restructuring-and-layoffs/",
-  "date": "2026-10-28",
-  "section": 3,
-  "posted": "2026-10-29"
- },
- {
-  "title": "Relic公布《英雄连3》剧情DLC「Operation Torch」（火炬行动）",
-  "url": "https://gamesbeat.com/relic-unveils-company-of-heroes-3-operation-torch-campaign-dlc/",
-  "date": "2026-10-28",
-  "section": 3,
-  "posted": "2026-10-29"
- },
- {
-  "title": "据报道黑客在GitHub发布伪装PS5模拟器，植入窃取密码的恶意软件",
-  "url": "https://www.engadget.com/2299912/fake-ps5-emulators-on-github-are-spreading-password-stealing-malware/",
-  "date": "2026-10-28",
-  "section": 3,
-  "posted": "2026-10-29"
- },
- {
-  "title": "儿童体感游戏公司Nex Playground与英国NSPCC儿童保护机构达成合作",
-  "url": "https://gamesbeat.com/nex-playground-announces-new-partnership-with-nspcc/",
-  "date": "2026-10-28",
-  "section": 3,
-  "posted": "2026-10-29"
- },
- {
   "title": "更新】Anthropic为Claude Opus 5.5新增“反克隆”护栏，禁止复刻特定现有游戏",
   "url": "https://kotaku.com/anthropic-nerfs-claude-again-to-stop-users-from-making-ai-slop-out-of-any-specific-existing-game-2000751665（另见：https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
   "date": "2026-10-30",
@@ -1818,5 +1650,124 @@
   "date": "2026-11-12",
   "section": 3,
   "posted": "2026-11-12"
+ },
+ {
+  "title": "HoYoverse公布两款AI新作：生活模拟《小小星球》具备「记忆型」AI NPC，策略游戏《崩坏：异兽帧》11月25日终测",
+  "url": "https://www.digitaltoday.co.kr/en/view/122717/hoyoverse-unveils-two-new-titles-from-ai-social-to-strategy-combat",
+  "date": "2026-11-09",
+  "section": 1,
+  "posted": "2026-11-13"
+ },
+ {
+  "title": "GDC最新《游戏行业状况》调查（2026年11月版）：超四成从业者已用生成式AI，裁员比例同步攀升",
+  "url": "https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-",
+  "date": "2026-11-12",
+  "section": 1,
+  "posted": "2026-11-13"
+ },
+ {
+  "title": "Epic Games「2026 AI MegaJam」游戏创作大赛本周开赛，团队可无限使用AI代理",
+  "url": "https://forums.unrealengine.com/t/vibe-your-way-to-50k-the-2026-epic-ai-megajam-is-coming/2843983",
+  "date": "2026-11-11",
+  "section": 1,
+  "posted": "2026-11-13"
+ },
+ {
+  "title": "索尼PlayStation官方推出QSSR AI超分技术，首批接入《漫威蜘蛛侠2》《Control》等五款大作",
+  "url": "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/",
+  "date": "2026-11-13",
+  "section": 1,
+  "posted": "2026-11-13"
+ },
+ {
+  "title": "Krafton三季报披露AI战略进展：自研大模型Raon-1 mini将用于强化PUBG Ally等游戏AI能力",
+  "url": "https://press.krafton.com/KRAFTON-ANNOUNCES-THIRD-QUARTER-2026-RESULTS",
+  "date": "2026-11-10",
+  "section": 1,
+  "posted": "2026-11-13"
+ },
+ {
+  "title": "SAG-AFTRA推出游戏「预融资路演」新协议，被视为遏制生成式AI配音替代演员的举措",
+  "url": "https://www.gamedeveloper.com/production/sag-aftra-introduces-new-process-for-using-actors-in-game-pitches",
+  "date": "2026-11-06",
+  "section": 2,
+  "posted": "2026-11-13"
+ },
+ {
+  "title": "微软Auto SR（AI超分）正式登陆ROG Xbox Ally掌机并扩展至AMD Ryzen Copilot+ PC",
+  "url": "https://devblogs.microsoft.com/directx/autosr-performance-mode/",
+  "date": "2026-11-10",
+  "section": 2,
+  "posted": "2026-11-13"
+ },
+ {
+  "title": "Nexon研究团队凭「游戏内AI何时被玩家接受」论文获ICTAI 2026最佳论文奖",
+  "url": "https://www.invenglobal.com/articles/28324/nexon-wins-best-paper-award-at-ictai-2026",
+  "date": "2026-11-08",
+  "section": 2,
+  "posted": "2026-11-13"
+ },
+ {
+  "title": "谷歌、Akamai等在深圳研讨AI浪潮下国产游戏出海的合规与安全新挑战",
+  "url": "https://www.youxituoluo.com/535053.html",
+  "date": "2026-11-11",
+  "section": 2,
+  "posted": "2026-11-13"
+ },
+ {
+  "title": "《Talking Tom》开发商Outfit7：针对AI搜索优化（GEO）半年内让AI推荐流量增长357%",
+  "url": "https://www.pocketgamer.biz/ai-is-changing-discoverability-how-talking-tom-boosted-ai-referral-traffic-by-357/",
+  "date": "2026-11-12",
+  "section": 2,
+  "posted": "2026-11-13"
+ },
+ {
+  "title": "GDC调查】虚幻引擎与Unity使用率双降，专有引擎份额上升",
+  "url": "https://gameworldobserver.com/2026/11/13/fewer-developers-are-using-unreal-engine-and-unity-according-to-a-study",
+  "date": "2026-11-13",
+  "section": 3,
+  "posted": "2026-11-13"
+ },
+ {
+  "title": "网易《我的世界》中国版年活跃用户突破1亿",
+  "url": "https://www.pocketgamer.biz/minecraft-china-reaches-100m-annual-active-players/",
+  "date": "2026-11-13",
+  "section": 3,
+  "posted": "2026-11-13"
+ },
+ {
+  "title": "Xbox与MachineGames正式官方确认《德军总部3》进入制作阶段",
+  "url": "https://www.videogameschronicle.com/news/machinegames-has-finally-officially-confirmed-that-wolfenstein-3-is-in-development/",
+  "date": "2026-11-13",
+  "section": 3,
+  "posted": "2026-11-13"
+ },
+ {
+  "title": "G-STAR 2026同期G-CON公布完整演讲名单，三上真司、Shift Up金亨泰等参与",
+  "url": "https://www.pocketgamer.biz/shinji-mikami-kim-hyung-tae-and-greg-kasavin-to-speak-at-g-stars-g-con-2026/",
+  "date": "2026-11-13",
+  "section": 3,
+  "posted": "2026-11-13"
+ },
+ {
+  "title": "微软全球性服务中断近24小时，Xbox相关服务一度受波及",
+  "url": "https://www.videogameschronicle.com/news/microsoft-struggles-to-restore-online-services-after-major-outage/",
+  "date": "2026-11-13",
+  "section": 3,
+  "posted": "2026-11-13"
+ },
+ {
+  "title": "芬兰手游工作室Playnest运营四年后宣布解散",
+  "url": "https://www.pocketgamer.biz/playnest-shuts-down-after-four-years-of-mobile-game-development/",
+  "date": "2026-11-12",
+  "section": 3,
+  "posted": "2026-11-13"
+ },
+ {
+  "title": "id Software在裁员后确认新作已启动开发，《毁灭战士》导演Hugo Martin回归掌舵",
+  "url": "https://www.videogameschronicle.com/news/id-software-confirms-its-working-on-a-new-game-after-layoffs/",
+  "date": "2026-11-12",
+  "section": 3,
+  "posted": "2026-11-13"
  }
 ]

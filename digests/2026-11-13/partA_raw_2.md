@@ -1,0 +1,79 @@
+## Split-and-scale Latent 3D Representations
+- **arXiv:** 2611.16126 · https://arxiv.org/abs/2611.16126
+- **Submitted:** 2026-11-12
+- **Authors:** Dorian Chan, Muhammed Kocabas, Xiaoming Zhao, Oncel Tuzel, Jen-Hao Rick Chang
+- **Qualifying affiliation(s):** Apple — all five authors; paper states all funding came from Apple
+- **Categories:** cs.CV (accepted to NeurIPS 2026)
+- **Open release:** none (mentions a "supplemental website" with additional generation results, but no code/weight link found in the available text)
+- **Shipped counterpart:** none found
+
+**Summary (≤3 sentences):** Apple researchers propose "split-and-scale," a way to boost the effective capacity of latent 3D representations at inference time without retraining a larger tokenizer. By applying one pretrained tokenizer independently to sub-regions (voxels) of a scene, the same latent budget covers a smaller area, yielding more fine detail. They also train an autoregressive, voxel-based flow-matching 3D generator on top of this scheme.
+**Purpose (≤3 sentences):** Latent 3D representations (for compact scene encoding and 3D generative models) are capacity-limited by latent size; increasing capacity during training is expensive and naively adding latent tokens at inference gives limited gains. The paper seeks an inference-time way to get much higher effective detail from one pretrained tokenizer.
+**Breakthrough (≤3 sentences):** The authors report that split-and-scale at 32,768 inference tokens achieves LPIPS 0.091 versus 0.124 for a 8,192-token LiTo baseline and 0.230 for TRELLIS, and lower Chamfer distance than larger-latent baselines that exceed single-GPU memory. They also report their autoregressive generator performs competitively with state-of-the-art baselines on generation FID/KID metrics, while training fits on a single 80GB GPU (73.51GB peak) versus 145.58GB for an equivalent larger-latent model.
+**Tools & method (≤3 sentences):** The method splits a scene into n³ voxels, renormalizes each to [-1,1]³, and encodes/decodes them independently with a Perceiver-based tokenizer (built on "LiTo," with Gaussian and point-cloud decoders), skipping empty voxels and training on coarse subdivisions/voxel subsets to control memory. Generation uses an autoregressive voxel-based flow-matching diffusion transformer conditioned on an input image, evaluated on a TRELLIS-derived Objaverse-XL subset. Training used single 80GB A100/H100 GPUs.
+**Limitation (≤3 sentences):** The authors note independent voxel encoding can cause seam artifacts (especially in view-dependent highlights), uniform voxel subdivision ignores content complexity, and output Gaussian count grows with subdivision level, hurting rendering efficiency. The autoregressive generator can produce asymmetric or duplicated geometry since earlier voxels can't be revised, and teacher forcing creates a train/inference gap.
+
+## Topology-Aware 4D Gaussian Splatting for Egocentric Videos
+- **arXiv:** 2611.16012 · https://arxiv.org/abs/2611.16012
+- **Submitted:** 2026-11-11
+- **Authors:** Leonardo Vanni, Stefano Gasperini, Federico Tombari, Chiara Plizzari
+- **Qualifying affiliation(s):** Google — Federico Tombari (listed as Technical University of Munich; Google)
+- **Categories:** cs.CV
+- **Open release:** none yet — paper states "Code and data will be made publicly available"; project page at https://topoego.github.io
+- **Shipped counterpart:** none found
+
+**Summary (≤3 sentences):** The paper introduces TopoEgo, a benchmark of egocentric video clips with topology-changing object interactions (cutting, assembly, opening, closing), and Topo-4DGS, a 4D Gaussian Splatting method built to handle those topology changes. It reports that Topo-4DGS significantly outperforms prior 4DGS approaches, especially on frames after a topological event.
+**Purpose (≤3 sentences):** Existing 4D Gaussian Splatting methods deform a fixed representation and struggle with everyday topology-changing interactions in monocular egocentric video, producing visual artifacts. The authors aim to build a representation and benchmark that properly handle such topology changes.
+**Breakthrough (≤3 sentences):** The authors report full-scene PSNR of 27.95 for Topo-4DGS versus 27.80 for the best baseline (Def-3DGS without hands), with larger gains isolated to the changing object: 23.52 PSNR (+0.92 dB) and, on post-event frames specifically, 24.30 PSNR (about +4.47 dB over the best baseline). On a HyperNeRF comparison set they report 31.86 dB versus 21.11 dB for HyperNeRF.
+**Tools & method (≤3 sentences):** Topo-4DGS has two components: "Motion Bifurcation," which routes an object's Gaussians to independent rigid motions per part via a time-independent spatial branch and an event-gated temporal branch; and "Topological Boundary Resolution," which activates Gaussians for newly exposed surfaces and deactivates those for concealed/obsolete ones. TopoEgo comprises 24 clips (4,618 frames, 36 annotated dynamic objects, 34 topological events) drawn from EPIC-KITCHENS and Ego4D, evaluated with PSNR/SSIM/LPIPS against EgoGaussian, DeGauss, Def-3DGS, 4DGS, and HyperNeRF baselines.
+**Limitation (≤3 sentences):** The method assumes reliable event specifications and approximately piecewise-rigid parts; automatic topology discovery and strongly deformable objects are left as future work. Specific GPU hardware and the detailed limitations appendix were not visible in the fetched text (truncated).
+
+## VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender
+- **arXiv:** 2611.15789 · https://arxiv.org/abs/2611.15789
+- **Submitted:** 2026-11-11
+- **Authors:** Yuzhe Chen, Muxi Diao, Lele Yang, Wenbin Xu, Xuyang Liu, Qile Su, Changyi Liu, Jiankang Chen, Kaiyu Jiang, Haoyu Zhang, Hongyi Fu, Jianxiong Wang, Tianke Zhang, Haonan Fan, Yingxin Li, Bingyi Li, Xu Wang, Xuanyu Zheng, Bin Wen, Tingting Gao, Wentao Zhang, Jiale Cao
+- **Qualifying affiliation(s):** Kuaishou (Kling AI) — paper lists "Kling AI" as one of five author affiliations, with Yuzhe Chen's work explicitly "conducted during the author's internship at Kling AI." FLAG: borderline — the HTML extraction could not cleanly map every author to a numbered affiliation (no visible superscripts), so the full author↔institution mapping beyond Yuzhe Chen's internship footnote is inferred, not directly confirmed from the text.
+- **Categories:** cs.CV (primary), cs.AI
+- **Open release:** project page (vibeprevisbench.github.io); tasks/media/ground truth/scorer stated to be "frozen with checksums" for reproducibility "from the release" — no explicit code/data repo link found in fetched text
+- **Shipped counterpart:** none found (the paper cites Kuaishou's "Kling 4.0" and "Seedance 2.5" only as existing third-party video generation models used downstream of the Blender proxy video, not as something this paper ships into)
+
+**Summary (≤3 sentences):** The paper introduces VibePrevisBench, a 242-task benchmark that asks coding agents to turn a text/photo/video brief into an executable 4D scene in Blender and render a proxy ("previs") video. Eleven frontier coding agents are evaluated with a rule-based "Scene Check" (nine dimensions against hidden ground truth) and a VLM-based "Screen Check" (using Gemini 4 as judge).
+**Purpose (≤3 sentences):** Proxy-conditioned video generation pipelines depend on getting the underlying 4D scene right, but no existing benchmark checks both the generated proxy video and the longer, multi-shot scene logic behind it. VibePrevisBench aims to fill that gap for evaluating agentic coding on 4D scene/camera generation.
+**Breakthrough (≤3 sentences):** The authors report top overall scores of 77.7 (GPT-6 Astra), 76.1 (GPT-6.1 Sol), 75.0 (Gemini 4 Argon), and 74.1 (Opus 5.5), with the best-of-all-agents overall score only 80.6 and just 35 of 242 tasks reaching a 90+ Scene Check score for any agent. They also report agents handle basic camera work and staging reasonably but fail on harder spatial/camera requests, and that agents inspect their own renders without correcting errors.
+**Tools & method (≤3 sentences):** The benchmark spans four input types (scripts, photos, continuations, reference videos) across seven scene domains, run in sandboxes with Blender 5.2, eight CPU cores, no GPU, and a 4-hour budget per task. Scoring combines a rule-based re-run/compare against hidden ground-truth facts with a VLM judge (Gemini 4) checking whether passing facts are visually recognizable in the render; human agreement with the judges is reported at Spearman 0.90–0.92 across roughly 99.0k checks.
+**Limitation (≤3 sentences):** The authors note LLMs helped construct some tasks, so "a small preference cannot be ruled out," and five of ten adjacent agent pairs are not statistically separable. Appearance/style fidelity is not checked (left to the downstream video generator), photo-based tasks give no camera intrinsics, and the oracle-caption ablation covers only one agent.
+
+## MatrixSplat: Matrix-Parallel and Feature-Scalable 3D Gaussian Splatting Rendering on GPUs
+- **arXiv:** 2611.15153 · https://arxiv.org/abs/2611.15153
+- **Submitted:** 2026-11-11
+- **Authors:** Yangming Zhang, Siyi Wu, Jian Wang, Bingzhe Li, Wei Niu, Sheng Di, Ming Li, Miao Yin
+- **Qualifying affiliation(s):** Snap Inc. — Jian Wang. FLAG: borderline (Snap is not on the illustrative list but is a comparable industry research lab; other co-authors are from UT Arlington, UT Dallas, University of Georgia, and Argonne National Laboratory)
+- **Categories:** cs.CV (accepted to NeurIPS 2026)
+- **Open release:** none yet — authors state they "will release our CUDA implementation and evaluation scripts" (no link given in fetched text)
+- **Shipped counterpart:** none found
+
+**Summary (≤3 sentences):** MatrixSplat re-engineers 3D Gaussian Splatting (3DGS) rendering to better use GPU Tensor Cores, replacing the standard sequential depth-sorted alpha-compositing with an order-independent weighted accumulation expressible as matrix operations. The authors report up to 3.8x end-to-end speedup over vanilla 3DGS and 2x over TC-GS, with comparable visual/semantic quality.
+**Purpose (≤3 sentences):** Standard 3DGS rendering pipelines map poorly to modern GPUs because depth-sorted alpha compositing creates sequential per-pixel dependencies, leaving Tensor Cores (matrix units) underused and becoming worse as semantic feature dimensionality grows. The paper aims to make 3DGS rendering, especially with high-dimensional features, far more GPU-parallel.
+**Breakthrough (≤3 sentences):** The authors report 599.9 FPS vs. 156.0 FPS for 3DGS on Mip-NeRF 360 (PSNR 30.35 vs. 30.12), 702.6 vs. 237.9 FPS on LERF, and 510.9 vs. 162.0 FPS on 3D-OVS, plus up to 36.7x lower render-kernel time at 256 feature dimensions. Integrating the approach into existing fast renderers adds a further 1.69–2.84x speedup.
+**Tools & method (≤3 sentences):** The method has three parts: a tile-based pipeline mapping accumulation to warp-level matrix-multiply-accumulate (MMA) on Tensor Cores; warp-level packing of valid Gaussians to reduce visibility irregularity; and lazy, channel-batched feature fetching (8-channel slices) to cut shared-memory pressure at high feature dimensions. Experiments were run on an NVIDIA RTX 4090, with cross-GPU checks on an RTX 6000 Ada and an H100 80GB (reporting 2.33–2.37x speedup over 3DGS there), using Mip-NeRF 360, LERF, and 3D-OVS.
+**Limitation (≤3 sentences):** The order-independent approximation affects fidelity in a scene-dependent way (e.g., a 0.23 dB PSNR drop on one "teatime" scene) and may need threshold retuning. Training speeds up less than rendering because the backward pass still relies on scattered gradient updates/atomics, and non-matrix stages (radix sort, preprocessing, packing scan) cap end-to-end gains; only NVIDIA Tensor Cores were evaluated, not other matrix units (e.g., NPUs).
+
+## BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model
+- **arXiv:** 2611.14815 · https://arxiv.org/abs/2611.14815
+- **Submitted:** 2026-11-10
+- **Authors:** Junyoung Seo, Jaewoo Seo, Seungryong Kim, Laura Leal-Taixé, Xiuming Zhang, Seung Wook Kim
+- **Qualifying affiliation(s):** NVIDIA — Jaewoo Seo, Laura Leal-Taixé (project page hosted at research.nvidia.com/labs/sil); Seungryong Kim is listed with KAIST
+- **Categories:** cs.CV
+- **Open release:** project page only (https://research.nvidia.com/labs/sil/projects/birddreams/); no explicit code/weights release stated in fetched text
+- **Shipped counterpart:** none found
+
+**Summary (≤3 sentences):** BirdDreams is an autoregressive driving world model that generates a perspective (camera-view) video and a schematic bird's-eye-view (BEV) video jointly, so scene layout is part of the prediction rather than inferred implicitly. Two video diffusion transformers (one per stream) share information via joint attention, and the authors report it follows input ego trajectories more faithfully than prior driving world models.
+**Purpose (≤3 sentences):** Driving world models need to show plausible surrounding-vehicle motion and precise ego-trajectory control, but learning vehicle motion from perspective video alone is hard because motion is "entangled with appearance and vehicles can be occluded." The paper aims to disentangle layout from appearance by generating a BEV stream alongside the perspective stream.
+**Breakthrough (≤3 sentences):** The authors report, without ego conditioning, a 21% reduction in minADE vs. their OmniDreams (Vanilla) backbone on PhysicalAI-AV and 37% on nuScenes; with ego conditioning, ADE reductions of 35% (PhysicalAI-AV) and 36% (nuScenes) vs. an OmniDreams (Plücker) baseline. In a human evaluation (25 participants, 375 pairwise judgments), BirdDreams was preferred 57% of the time vs. 24% for a perspective-only baseline (19% ties) on realistic surrounding-vehicle behavior.
+**Tools & method (≤3 sentences):** The model builds on a pretrained "OmniDreams" backbone (~4B parameters) with Diffusion Forcing (per-stream noise sampling) followed by "Resampling Forcing"; at inference it needs only a single camera image, no HD map or vehicle-state input, and ego control works by reprojecting the latest BEV frame along an input trajectory as a soft condition. Training used 64 NVIDIA H100 GPUs (batch size 64) on roughly 670 hours from a subset of RDS-HQ-1M plus the nuScenes training split, evaluated on PhysicalAI-AV (200 clips) and all 150 nuScenes validation scenes.
+**Limitation (≤3 sentences):** No dedicated limitations section was found; limitations implied in the text include a limited BEV range (distant objects outside it are absent from the schematic stream), a preliminary world-action experiment, reliance on privileged inputs for the ground-truth BEV diagnostic, and ego trajectories being reconstructed from generated video via a separate depth model.
+
+# Near-misses
+- 2611.16417 · VBot Exo2Ego Policy: Lightweight Data Collection and Exocentric-to-Egocentric Video Generation · no qualifying industry affiliation (all authors at "Vbot Physical AI Lab," a small startup not comparable to listed labs); also off-topic (egocentric video generation for robot imitation-learning data, not 3D/world-model/character-animation/game content)
+- 2611.15983 · TRACE: Trajectory Synchronization for Training-Free Resolution Extension in Video Generation · off-topic: general text-to-video resolution-extension technique, not 3D, world-model simulation, character animation, or games (affiliation includes Huawei, borderline-qualifying, but topic gate fails)
+- 2611.15937 · MOSAIC: Modular Obstacle and Spatial-Aware Framework for Manipulation In Cluttered Scenes · off-topic: robotic manipulation/VLA policy work (cs.RO), not character animation or games (affiliation is Huawei Noah's Ark Lab, borderline-qualifying, but topic gate fails)

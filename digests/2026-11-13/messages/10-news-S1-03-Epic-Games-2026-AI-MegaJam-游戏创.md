@@ -1,0 +1,12 @@
+**[新闻 3] Epic Games「2026 AI MegaJam」游戏创作大赛本周开赛，团队可无限使用AI代理**
+- **日期：** 2026-11-11
+- **来源链接：** <https://forums.unrealengine.com/t/vibe-your-way-to-50k-the-2026-epic-ai-megajam-is-coming/2843983>
+- **核心事实：**
+  - Epic Games官方宣布的「2026 Epic AI MegaJam」于11月11日晚主题揭晓并正式开赛，赛程持续至11月15日（旧金山Digital Jungle设线下赛场，11月14-15日）。
+  - 参赛团队最多4名队友加任意数量AI代理，可选择Unreal Engine或UEFN开发，通过Unreal MCP将Claude Code、Codex、Cursor等代理连入编辑器；表现突出的作品可获最高5万美元的后续开发资助。
+  - Epic官方FAQ明确AI使用为可选而非强制项，比赛要求参赛者申报赛前已创建的提示词/脚本/素材。
+- **背景与起因：**
+  - 此次活动（本次为10月22日最初公布后正式开赛的阶段）延续了Epic近期一系列AI相关动作：10月底Epic修改Unreal Engine EULA，允许开发者选择在Unreal Engine及MetaHuman项目产出上训练AI模型；CEO Tim Sweeney此前亦公开表示Epic正将团队转向「AI加速开发」，并计划在Unreal Engine 6中集成Claude、Gemini等模型。
+- **结果与进展：**
+  - 【更新】活动面向全球开发者，但社区反馈指出土耳其、巴西等地参赛者在奖金发放资格上存在限制；Epic回应称MegaJam不设独立的「无AI」赛道。
+  - 比赛已进入正式开赛阶段，11月14-15日将在旧金山举行线下决赛环节。

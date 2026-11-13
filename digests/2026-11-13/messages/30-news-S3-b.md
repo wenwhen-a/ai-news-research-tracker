@@ -1,0 +1,1 @@
+- **id Software在裁员后确认新作已启动开发，《毁灭战士》导演Hugo Martin回归掌舵**（2026-11-12）— Xbox CEO Asha Sharma在FanFest上确认id Software德州与法兰克福团队已开始新项目开发，导演Hugo Martin回归；此前id在微软Xbox裁员潮中裁减136人，公司表示新作距离公开还需时间。 <https://www.videogameschronicle.com/news/id-software-confirms-its-working-on-a-new-game-after-layoffs/>

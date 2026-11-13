@@ -1,0 +1,436 @@
+{
+  "as_of": "2026-11-13",
+  "cutoff": "2026-11-06",
+  "window_days": 7,
+  "summary": {
+    "input_items": 17,
+    "denied_source": 0,
+    "in_window": 17,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 17,
+    "duplicate_clusters": 0,
+    "section1_count": 6,
+    "section2_count": 11,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": true,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 9,
+    "previously_covered_count": 8
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "独立游戏《Big Walk》承认使用AI编程，19名IGF评委联合抵制引发行业震动",
+        "url": "https://www.videogameschronicle.com/news/big-walk-studio-says-it-used-ai-sparingly-in-response-to-indie-award-jury-statement-against-its-use/",
+        "date": "2026-11-10",
+        "summary": "澳大利亚工作室House House确认其作品《Big Walk》在开发后期使用大语言模型协助排查技术难题和bug，估计涉及代码量“远低于0.1%”。独立游戏节（IGF）19名评委随后联合发表声明，宣布拒绝为任何使用生成式AI的参赛作品投票，并明确表示AI辅助编程并非例外。",
+        "section": 1,
+        "source_tier": "2",
+        "notes": "背景：House House此前在IGF参赛材料中已作类似披露，但未在Steam页面披露（因Steam不要求对代码/聊天机器人使用进行披露）。工作室承认开发期间缺乏内部AI使用政策，称此为“失败”。评委立场：19名评委statement称“编程是一门创造性学科，应获得与游戏其他部分同等的尊重”，暗示该作将失去其投票支持。结果：截至报道时IGF官方尚未就该作参赛资格作出正式裁定，但评委表态已构成事实上的抵制，是2026年生成式AI与独立游戏奖项体系冲突的最新案例（此前12月Clair Obscur: Expedition 33因AI素材被追回IGA奖项）。"
+      },
+      "members": [
+        {
+          "title": "独立游戏《Big Walk》承认使用AI编程，19名IGF评委联合抵制引发行业震动",
+          "url": "https://www.videogameschronicle.com/news/big-walk-studio-says-it-used-ai-sparingly-in-response-to-indie-award-jury-statement-against-its-use/",
+          "date": "2026-11-10",
+          "summary": "澳大利亚工作室House House确认其作品《Big Walk》在开发后期使用大语言模型协助排查技术难题和bug，估计涉及代码量“远低于0.1%”。独立游戏节（IGF）19名评委随后联合发表声明，宣布拒绝为任何使用生成式AI的参赛作品投票，并明确表示AI辅助编程并非例外。",
+          "section": 1,
+          "source_tier": "2",
+          "notes": "背景：House House此前在IGF参赛材料中已作类似披露，但未在Steam页面披露（因Steam不要求对代码/聊天机器人使用进行披露）。工作室承认开发期间缺乏内部AI使用政策，称此为“失败”。评委立场：19名评委statement称“编程是一门创造性学科，应获得与游戏其他部分同等的尊重”，暗示该作将失去其投票支持。结果：截至报道时IGF官方尚未就该作参赛资格作出正式裁定，但评委表态已构成事实上的抵制，是2026年生成式AI与独立游戏奖项体系冲突的最新案例（此前12月Clair Obscur: Expedition 33因AI素材被追回IGA奖项）。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《巫师3》新DLC用AI修复中风配音演员嗓音，CD Projekt Red称技术服务于人而非替代",
+        "url": "https://www.videogameschronicle.com/news/the-witcher-3-expansion-uses-ai-to-adjust-geralts-polish-voiceover-because-the-actor-suffered-a-stroke/",
+        "date": "2026-11-11",
+        "summary": "CD Projekt Red确认，在《巫师3》新DLC《Songs of the Past》中，波兰语杰洛特配音演员Jacek Rozenek于2019年中风后嗓音发生变化，工作室与AI语音公司Respeecher合作，基于其十年前为本体游戏录制的台词训练模型，将新录台词的音色调整得更接近原声。",
+        "section": 1,
+        "source_tier": "2",
+        "notes": "背景：Rozenek中风后2022年恢复配音工作，但需每日大量训练才能发声；本次AI处理在其本人知情同意下进行。本地化制作人Mikołaj Szwed向Game File表示，团队“基于他的台词构建了一个声音算法”，并强调该用途因获得同意且服务于善意目的（帮助患病演员继续工作）而“合乎伦理”，是业内较少见的AI语音技术用于无障碍/人道目的而非替代演员的案例，与Cyberpunk 2077此前用Respeecher技术还原已故演员声音的先例形成呼应。"
+      },
+      "members": [
+        {
+          "title": "《巫师3》新DLC用AI修复中风配音演员嗓音，CD Projekt Red称技术服务于人而非替代",
+          "url": "https://www.videogameschronicle.com/news/the-witcher-3-expansion-uses-ai-to-adjust-geralts-polish-voiceover-because-the-actor-suffered-a-stroke/",
+          "date": "2026-11-11",
+          "summary": "CD Projekt Red确认，在《巫师3》新DLC《Songs of the Past》中，波兰语杰洛特配音演员Jacek Rozenek于2019年中风后嗓音发生变化，工作室与AI语音公司Respeecher合作，基于其十年前为本体游戏录制的台词训练模型，将新录台词的音色调整得更接近原声。",
+          "section": 1,
+          "source_tier": "2",
+          "notes": "背景：Rozenek中风后2022年恢复配音工作，但需每日大量训练才能发声；本次AI处理在其本人知情同意下进行。本地化制作人Mikołaj Szwed向Game File表示，团队“基于他的台词构建了一个声音算法”，并强调该用途因获得同意且服务于善意目的（帮助患病演员继续工作）而“合乎伦理”，是业内较少见的AI语音技术用于无障碍/人道目的而非替代演员的案例，与Cyberpunk 2077此前用Respeecher技术还原已故演员声音的先例形成呼应。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "GDC最新《游戏行业状况》调查（2026年11月版）：超四成从业者已用生成式AI，裁员比例同步攀升",
+        "url": "https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-",
+        "date": "2026-11-12",
+        "summary": "GDC发布第15版《游戏行业状况》调查（本次调查样本超2600名从业者，发布时间由惯常的年初推迟至年末），显示40%的从业者在工作中使用生成式AI，其中73%主要用于“调研与头脑风暴”，62%用于数据分析/总结，56%用于代码生成与调试，仅6%用于制作直接面向玩家的内容。",
+        "section": 1,
+        "source_tier": "2",
+        "notes": "补充数据（来自同期关联报道 https://www.videogameschronicle.com/news/one-in-three-games-industry-professionals-surveyed-by-gdc-were-laid-off-in-the-past-two-years/ ，2026-11-12）：过去两年内34%的受访者曾被裁员（美国地区达39%），均高于今年1月版调查的28%/33%；被裁员者中54%仍处于失业状态；17%经历过两次裁员。创意与面向玩家的内容制作仍被认为“基本不在AI可用范围内”。该调查样本明显偏西方（东亚/东南亚仅占6%），且与今年1月发布的上一版调查（36%使用率、81%用于调研）相比，本次为年末新发布的独立版本，反映AI使用率和裁员率均呈上升趋势。"
+      },
+      "members": [
+        {
+          "title": "GDC最新《游戏行业状况》调查（2026年11月版）：超四成从业者已用生成式AI，裁员比例同步攀升",
+          "url": "https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-",
+          "date": "2026-11-12",
+          "summary": "GDC发布第15版《游戏行业状况》调查（本次调查样本超2600名从业者，发布时间由惯常的年初推迟至年末），显示40%的从业者在工作中使用生成式AI，其中73%主要用于“调研与头脑风暴”，62%用于数据分析/总结，56%用于代码生成与调试，仅6%用于制作直接面向玩家的内容。",
+          "section": 1,
+          "source_tier": "2",
+          "notes": "补充数据（来自同期关联报道 https://www.videogameschronicle.com/news/one-in-three-games-industry-professionals-surveyed-by-gdc-were-laid-off-in-the-past-two-years/ ，2026-11-12）：过去两年内34%的受访者曾被裁员（美国地区达39%），均高于今年1月版调查的28%/33%；被裁员者中54%仍处于失业状态；17%经历过两次裁员。创意与面向玩家的内容制作仍被认为“基本不在AI可用范围内”。该调查样本明显偏西方（东亚/东南亚仅占6%），且与今年1月发布的上一版调查（36%使用率、81%用于调研）相比，本次为年末新发布的独立版本，反映AI使用率和裁员率均呈上升趋势。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Epic Games「2026 AI MegaJam」游戏创作大赛本周开赛，团队可无限使用AI代理",
+        "url": "https://forums.unrealengine.com/t/vibe-your-way-to-50k-the-2026-epic-ai-megajam-is-coming/2843983",
+        "date": "2026-11-11",
+        "summary": "Epic Games官方宣布的「2026 Epic AI MegaJam」于11月11日晚主题揭晓并正式开赛，赛程持续至11月15日（旧金山Digital Jungle设线下赛场，11月14-15日）。参赛团队最多4名队友加任意数量AI代理，可选择Unreal Engine或UEFN开发，通过Unreal MCP将Claude Code、Codex、Cursor等代理连入编辑器，表现突出的作品可获最高5万美元的后续开发资助。",
+        "section": 1,
+        "source_tier": "1",
+        "notes": "背景：Epic官方FAQ明确AI使用为可选而非强制项（“不是必须使用AI”），比赛要求参赛者申报赛前已创建的提示词/脚本/素材。此次活动延续了Epic近期一系列AI相关动作——10月底Epic修改Unreal Engine EULA，允许开发者选择在Unreal Engine及MetaHuman项目产出上训练AI模型；CEO Tim Sweeney此前亦公开表示Epic正将团队转向“AI加速开发”，并计划在Unreal Engine 6中集成Claude、Gemini等模型。活动面向全球开发者，但社区反馈指出土耳其、巴西等地参赛者在奖金发放资格上存在限制，Epic回应称MegaJam不设独立的“无AI”赛道。"
+      },
+      "members": [
+        {
+          "title": "Epic Games「2026 AI MegaJam」游戏创作大赛本周开赛，团队可无限使用AI代理",
+          "url": "https://forums.unrealengine.com/t/vibe-your-way-to-50k-the-2026-epic-ai-megajam-is-coming/2843983",
+          "date": "2026-11-11",
+          "summary": "Epic Games官方宣布的「2026 Epic AI MegaJam」于11月11日晚主题揭晓并正式开赛，赛程持续至11月15日（旧金山Digital Jungle设线下赛场，11月14-15日）。参赛团队最多4名队友加任意数量AI代理，可选择Unreal Engine或UEFN开发，通过Unreal MCP将Claude Code、Codex、Cursor等代理连入编辑器，表现突出的作品可获最高5万美元的后续开发资助。",
+          "section": 1,
+          "source_tier": "1",
+          "notes": "背景：Epic官方FAQ明确AI使用为可选而非强制项（“不是必须使用AI”），比赛要求参赛者申报赛前已创建的提示词/脚本/素材。此次活动延续了Epic近期一系列AI相关动作——10月底Epic修改Unreal Engine EULA，允许开发者选择在Unreal Engine及MetaHuman项目产出上训练AI模型；CEO Tim Sweeney此前亦公开表示Epic正将团队转向“AI加速开发”，并计划在Unreal Engine 6中集成Claude、Gemini等模型。活动面向全球开发者，但社区反馈指出土耳其、巴西等地参赛者在奖金发放资格上存在限制，Epic回应称MegaJam不设独立的“无AI”赛道。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "索尼PlayStation官方推出QSSR AI超分技术，首批接入《漫威蜘蛛侠2》《Control》等五款大作",
+        "url": "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/",
+        "date": "2026-11-13",
+        "summary": "索尼PlayStation官方博客宣布，其与AMD联合研发项目Project Amethyst孕育的AI引导超分辨率技术QSSR（Quick Spectral Super Resolution）现已上线Insomniac Games的《漫威蜘蛛侠2》，并将陆续登陆Remedy的《Control Resonant》（12月）、Embark Studios的《ARC Raiders》与《The Finals》，以及Hello Games《无人深空》和《Hell Let Loose: Vietnam》。",
+        "section": 1,
+        "source_tier": "1",
+        "notes": "背景：QSSR与PS5 Pro专属的PSSR（PlayStation Spectral Super Resolution）共享接口设计，使已支持PSSR的游戏可更快适配，是索尼10月推出的新一代AI超分方案。技术意义：延续了索尼与AMD自2023年起的Project Amethyst联合研发合作（涵盖神经网络渲染、角色动作等方向），显示主机厂商持续在AI图形渲染领域对标NVIDIA DLSS、AMD FSR的竞争布局。开发者反馈：Insomniac技术负责人Mike Fitzgerald称该技术先在《金刚狼》中验证效果良好后才引入《蜘蛛侠2》，画面稳定性和锐度在“画质”与“性能”两种模式下均有提升；Remedy图形程序员Erik Jansson称公司与索尼紧密合作以确保12月更新按期上线。"
+      },
+      "members": [
+        {
+          "title": "索尼PlayStation官方推出QSSR AI超分技术，首批接入《漫威蜘蛛侠2》《Control》等五款大作",
+          "url": "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/",
+          "date": "2026-11-13",
+          "summary": "索尼PlayStation官方博客宣布，其与AMD联合研发项目Project Amethyst孕育的AI引导超分辨率技术QSSR（Quick Spectral Super Resolution）现已上线Insomniac Games的《漫威蜘蛛侠2》，并将陆续登陆Remedy的《Control Resonant》（12月）、Embark Studios的《ARC Raiders》与《The Finals》，以及Hello Games《无人深空》和《Hell Let Loose: Vietnam》。",
+          "section": 1,
+          "source_tier": "1",
+          "notes": "背景：QSSR与PS5 Pro专属的PSSR（PlayStation Spectral Super Resolution）共享接口设计，使已支持PSSR的游戏可更快适配，是索尼10月推出的新一代AI超分方案。技术意义：延续了索尼与AMD自2023年起的Project Amethyst联合研发合作（涵盖神经网络渲染、角色动作等方向），显示主机厂商持续在AI图形渲染领域对标NVIDIA DLSS、AMD FSR的竞争布局。开发者反馈：Insomniac技术负责人Mike Fitzgerald称该技术先在《金刚狼》中验证效果良好后才引入《蜘蛛侠2》，画面稳定性和锐度在“画质”与“性能”两种模式下均有提升；Remedy图形程序员Erik Jansson称公司与索尼紧密合作以确保12月更新按期上线。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "SAG-AFTRA推出游戏「预融资路演」新协议，被视为遏制生成式AI配音替代演员的举措",
+        "url": "https://www.gamedeveloper.com/production/sag-aftra-introduces-new-process-for-using-actors-in-game-pitches",
+        "date": "2026-11-06",
+        "summary": "美国演员工会SAG-AFTRA发布「Pre-Funding Pitch Interactive Media Agreement」，为游戏工作室在争取发行商资金阶段制作的垂直切片/演示内容雇用工会演员提供专门框架，此前该阶段一直缺乏明确的工会用工规范。协议规定已获得超30%首期制作资金或已确定商业发行的项目不适用该协议。",
+        "section": 2,
+        "source_tier": "2",
+        "notes": "工会主席Sean Astin称该协议旨在帮助开发者在竞争激烈的融资环境中更早引入专业配音和动作捕捉演员以提升路演质量；报道指出该举措客观上也有助于遏制工作室在前期路演阶段依赖可被随意替换、无需演员参与的生成式AI配音。"
+      },
+      "members": [
+        {
+          "title": "SAG-AFTRA推出游戏「预融资路演」新协议，被视为遏制生成式AI配音替代演员的举措",
+          "url": "https://www.gamedeveloper.com/production/sag-aftra-introduces-new-process-for-using-actors-in-game-pitches",
+          "date": "2026-11-06",
+          "summary": "美国演员工会SAG-AFTRA发布「Pre-Funding Pitch Interactive Media Agreement」，为游戏工作室在争取发行商资金阶段制作的垂直切片/演示内容雇用工会演员提供专门框架，此前该阶段一直缺乏明确的工会用工规范。协议规定已获得超30%首期制作资金或已确定商业发行的项目不适用该协议。",
+          "section": 2,
+          "source_tier": "2",
+          "notes": "工会主席Sean Astin称该协议旨在帮助开发者在竞争激烈的融资环境中更早引入专业配音和动作捕捉演员以提升路演质量；报道指出该举措客观上也有助于遏制工作室在前期路演阶段依赖可被随意替换、无需演员参与的生成式AI配音。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "微软Auto SR（AI超分）正式登陆ROG Xbox Ally掌机并扩展至AMD Ryzen Copilot+ PC",
+        "url": "https://devblogs.microsoft.com/directx/autosr-performance-mode/",
+        "date": "2026-11-10",
+        "summary": "微软DirectX开发者博客宣布，Windows的AI/NPU驱动超分辨率功能Auto Super Resolution（Auto SR）正式脱离预览阶段，登陆ROG Xbox Ally X及X20掌机，并扩展支持搭载AMD Ryzen芯片的Copilot+ PC。新版本支持1080p基础分辨率、掌机离线便携模式，并新增最高120帧的「性能模式」。",
+        "section": 2,
+        "source_tier": "1",
+        "notes": "官方示例：在ROG Xbox Ally X上以720p高画质运行《火箭联盟》，画质模式约70帧，性能模式可达约115帧。Auto HDR现可与Auto SR同时开启。性能模式和Auto HDR支持将随后续Windows更新逐步推送，并非所有设备同步到位。"
+      },
+      "members": [
+        {
+          "title": "微软Auto SR（AI超分）正式登陆ROG Xbox Ally掌机并扩展至AMD Ryzen Copilot+ PC",
+          "url": "https://devblogs.microsoft.com/directx/autosr-performance-mode/",
+          "date": "2026-11-10",
+          "summary": "微软DirectX开发者博客宣布，Windows的AI/NPU驱动超分辨率功能Auto Super Resolution（Auto SR）正式脱离预览阶段，登陆ROG Xbox Ally X及X20掌机，并扩展支持搭载AMD Ryzen芯片的Copilot+ PC。新版本支持1080p基础分辨率、掌机离线便携模式，并新增最高120帧的「性能模式」。",
+          "section": 2,
+          "source_tier": "1",
+          "notes": "官方示例：在ROG Xbox Ally X上以720p高画质运行《火箭联盟》，画质模式约70帧，性能模式可达约115帧。Auto HDR现可与Auto SR同时开启。性能模式和Auto HDR支持将随后续Windows更新逐步推送，并非所有设备同步到位。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "游戏广告AI创作工具Layer推出「Motion Designer Agent」，对话即可生成买量视频广告",
+        "url": "https://www.pocketgamer.biz/layer-launches-motion-designer-agent-game-studios-can-now-create-campaign-ready-ua-videos-just-by-chatting/",
+        "date": "2026-11-11",
+        "summary": "游戏营销AI公司Layer于11月2日推出「Motion Designer Agent」，工作室只需用自然语言描述需求，该代理即可自动完成脚本、分镜、素材采集、配音字幕、音乐音效、动画转场及成片剪辑等全流程买量视频广告制作，支持多比例成片输出及多轮对话式修改。",
+        "section": 2,
+        "source_tier": "2",
+        "notes": "Layer称其在制作每个镜头时会从其编排的数百个模型中挑选最优模型，具体技术未公开。Small Giant Games、Zynga、Socialpoint等为早期使用方；Layer此前9月已推出同类的互动可玩广告生成工具Playables Agent。该文章标注为赞助内容（sponsored）。"
+      },
+      "members": [
+        {
+          "title": "游戏广告AI创作工具Layer推出「Motion Designer Agent」，对话即可生成买量视频广告",
+          "url": "https://www.pocketgamer.biz/layer-launches-motion-designer-agent-game-studios-can-now-create-campaign-ready-ua-videos-just-by-chatting/",
+          "date": "2026-11-11",
+          "summary": "游戏营销AI公司Layer于11月2日推出「Motion Designer Agent」，工作室只需用自然语言描述需求，该代理即可自动完成脚本、分镜、素材采集、配音字幕、音乐音效、动画转场及成片剪辑等全流程买量视频广告制作，支持多比例成片输出及多轮对话式修改。",
+          "section": 2,
+          "source_tier": "2",
+          "notes": "Layer称其在制作每个镜头时会从其编排的数百个模型中挑选最优模型，具体技术未公开。Small Giant Games、Zynga、Socialpoint等为早期使用方；Layer此前9月已推出同类的互动可玩广告生成工具Playables Agent。该文章标注为赞助内容（sponsored）。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "游戏业高管谈AI分歧：移动端视为竞争必需，PC/主机团队更担心玩家反感",
+        "url": "https://www.pocketgamer.biz/is-the-games-industry-becoming-more-optimistic-about-ai-mobile-mavens-part-2/",
+        "date": "2026-11-09",
+        "summary": "PocketGamer.biz「Mobile Mavens」专栏第二部分访谈多家工作室高管，呈现业内对生成式AI态度的分化：移动游戏从业者多将AI视为竞争必需，而西方PC/主机团队则更担心披露AI使用会引发玩家负面反应；文章引用GDC数据指出，52%的从业者认为生成式AI对行业产生负面影响，较去年的30%和前年的18%显著上升。",
+        "section": 2,
+        "source_tier": "2",
+        "notes": "受访高管包括10Six Games联合创始人Susan Cummings、AppsFlyer产品总监Adam Smart等；观点涉及AI带来的可发现性危机（商店被AI生成内容淹没）、AI降低了“质量下限”但未提高“质量上限”、以及玩家对AI用于美术/音乐/叙事的接受度明显低于用于动态难度调整等玩法层面的应用。"
+      },
+      "members": [
+        {
+          "title": "游戏业高管谈AI分歧：移动端视为竞争必需，PC/主机团队更担心玩家反感",
+          "url": "https://www.pocketgamer.biz/is-the-games-industry-becoming-more-optimistic-about-ai-mobile-mavens-part-2/",
+          "date": "2026-11-09",
+          "summary": "PocketGamer.biz「Mobile Mavens」专栏第二部分访谈多家工作室高管，呈现业内对生成式AI态度的分化：移动游戏从业者多将AI视为竞争必需，而西方PC/主机团队则更担心披露AI使用会引发玩家负面反应；文章引用GDC数据指出，52%的从业者认为生成式AI对行业产生负面影响，较去年的30%和前年的18%显著上升。",
+          "section": 2,
+          "source_tier": "2",
+          "notes": "受访高管包括10Six Games联合创始人Susan Cummings、AppsFlyer产品总监Adam Smart等；观点涉及AI带来的可发现性危机（商店被AI生成内容淹没）、AI降低了“质量下限”但未提高“质量上限”、以及玩家对AI用于美术/音乐/叙事的接受度明显低于用于动态难度调整等玩法层面的应用。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《Talking Tom》开发商Outfit7：针对AI搜索优化（GEO）半年内让AI推荐流量增长357%",
+        "url": "https://www.pocketgamer.biz/ai-is-changing-discoverability-how-talking-tom-boosted-ai-referral-traffic-by-357/",
+        "date": "2026-11-12",
+        "summary": "《Talking Tom》开发商Outfit7工程高级总监Primož Bevk披露，公司自2025年10月发现其IP在主流大语言模型的间接提问（如“推荐一款虚拟宠物游戏”）中几乎“零曝光”后，组建跨部门团队开展生成式引擎优化（GEO），针对50个目标提示词进行内容与网站优化，半年内AI推荐流量增长357%，目标提示词中的品牌曝光率升至90%。",
+        "section": 2,
+        "source_tier": "2",
+        "notes": "该数据为相对增幅，未公开具体基数；Outfit7承认目前没有类似Google Search Console的AI推荐流量官方分析工具，增长也可能部分归因于大模型自身能力提升。案例反映游戏公司开始将“被AI推荐/引用”纳入用户获取策略，是生成式AI影响游戏行业商业运营（而非研发本身）的新动向。"
+      },
+      "members": [
+        {
+          "title": "《Talking Tom》开发商Outfit7：针对AI搜索优化（GEO）半年内让AI推荐流量增长357%",
+          "url": "https://www.pocketgamer.biz/ai-is-changing-discoverability-how-talking-tom-boosted-ai-referral-traffic-by-357/",
+          "date": "2026-11-12",
+          "summary": "《Talking Tom》开发商Outfit7工程高级总监Primož Bevk披露，公司自2025年10月发现其IP在主流大语言模型的间接提问（如“推荐一款虚拟宠物游戏”）中几乎“零曝光”后，组建跨部门团队开展生成式引擎优化（GEO），针对50个目标提示词进行内容与网站优化，半年内AI推荐流量增长357%，目标提示词中的品牌曝光率升至90%。",
+          "section": 2,
+          "source_tier": "2",
+          "notes": "该数据为相对增幅，未公开具体基数；Outfit7承认目前没有类似Google Search Console的AI推荐流量官方分析工具，增长也可能部分归因于大模型自身能力提升。案例反映游戏公司开始将“被AI推荐/引用”纳入用户获取策略，是生成式AI影响游戏行业商业运营（而非研发本身）的新动向。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Krafton三季报披露AI战略进展：自研大模型Raon-1 mini将用于强化PUBG Ally等游戏AI能力",
+        "url": "https://press.krafton.com/KRAFTON-ANNOUNCES-THIRD-QUARTER-2026-RESULTS",
+        "date": "2026-11-10",
+        "summary": "Krafton公布2026年第三季度财报：营收9714亿韩元（同比+11.6%），营业利润2250亿韩元（同比-35.5%）。公司在财报中确认，10月21日发布的自研大语言模型Raon-1 mini Preview（30B级）将用于强化包括PUBG Ally（《绝地求生》AI队友）在内的游戏AI能力，并计划推出更大规模的Raon-1模型及全双工语音模型。",
+        "section": 1,
+        "source_tier": "1",
+        "notes": "累计前三季度营收3.633万亿韩元（+51%），营业利润1.1975万亿韩元（+14%），均为历史同期最高。Raon-1 mini官方称其在同级别韩国模型中表现领先。PUBG Ally是基于NVIDIA ACE技术的AI队友功能，此前已进行过公开测试。"
+      },
+      "members": [
+        {
+          "title": "Krafton三季报披露AI战略进展：自研大模型Raon-1 mini将用于强化PUBG Ally等游戏AI能力",
+          "url": "https://press.krafton.com/KRAFTON-ANNOUNCES-THIRD-QUARTER-2026-RESULTS",
+          "date": "2026-11-10",
+          "summary": "Krafton公布2026年第三季度财报：营收9714亿韩元（同比+11.6%），营业利润2250亿韩元（同比-35.5%）。公司在财报中确认，10月21日发布的自研大语言模型Raon-1 mini Preview（30B级）将用于强化包括PUBG Ally（《绝地求生》AI队友）在内的游戏AI能力，并计划推出更大规模的Raon-1模型及全双工语音模型。",
+          "section": 1,
+          "source_tier": "1",
+          "notes": "累计前三季度营收3.633万亿韩元（+51%），营业利润1.1975万亿韩元（+14%），均为历史同期最高。Raon-1 mini官方称其在同级别韩国模型中表现领先。PUBG Ally是基于NVIDIA ACE技术的AI队友功能，此前已进行过公开测试。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Nexon研究团队凭「游戏内AI何时被玩家接受」论文获ICTAI 2026最佳论文奖",
+        "url": "https://www.invenglobal.com/articles/28324/nexon-wins-best-paper-award-at-ictai-2026",
+        "date": "2026-11-08",
+        "summary": "Nexon Korea旗下AI部门Applied Analytics Lab的研究团队（Ji Woo-seok、Jung Yeon-woo、Hwang Sang-ho、Ryu Sung-il）在IEEE举办的ICTAI 2026国际会议（11月2日至4日，美国佛罗里达）上，凭借论文《游戏内AI何时被接受、何时被拒绝》获得本届唯一的最佳论文奖。Nexon于11月9日对外公布获奖消息。",
+        "section": 2,
+        "source_tier": "2",
+        "notes": "研究分析了约1937万条Steam用户评测，发现当AI以“助手”身份自然融入玩法时玩家反应正面，而当AI游离于核心体验或难以掌控时则招致负面评价。Nexon已据此构建上线前AI功能评估框架，并计划将评估延伸至企划阶段。"
+      },
+      "members": [
+        {
+          "title": "Nexon研究团队凭「游戏内AI何时被玩家接受」论文获ICTAI 2026最佳论文奖",
+          "url": "https://www.invenglobal.com/articles/28324/nexon-wins-best-paper-award-at-ictai-2026",
+          "date": "2026-11-08",
+          "summary": "Nexon Korea旗下AI部门Applied Analytics Lab的研究团队（Ji Woo-seok、Jung Yeon-woo、Hwang Sang-ho、Ryu Sung-il）在IEEE举办的ICTAI 2026国际会议（11月2日至4日，美国佛罗里达）上，凭借论文《游戏内AI何时被接受、何时被拒绝》获得本届唯一的最佳论文奖。Nexon于11月9日对外公布获奖消息。",
+          "section": 2,
+          "source_tier": "2",
+          "notes": "研究分析了约1937万条Steam用户评测，发现当AI以“助手”身份自然融入玩法时玩家反应正面，而当AI游离于核心体验或难以掌控时则招致负面评价。Nexon已据此构建上线前AI功能评估框架，并计划将评估延伸至企划阶段。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "谷歌、Akamai等在深圳研讨AI浪潮下国产游戏出海的合规与安全新挑战",
+        "url": "https://www.youxituoluo.com/535053.html",
+        "date": "2026-11-11",
+        "summary": "11月11日，“AI浪潮下国产游戏出海合规与安全交流会”在深圳前海举行，由广东（深圳）游戏出海服务中心、深圳（南山）游戏创新发展中心主办，深圳市游戏产业协会承办、游戏陀螺等协办。谷歌大中华区游戏行业经理张修竹分享了借助AI驱动竞价与混合变现提升出海效能、构建端侧隐私与全链路风控的思路；Akamai资深售前经理钱江探讨了AI时代的推理加速与全栈合规方案；律师与财税顾问则分析了AI游戏在海外市场面临的新型法律与税务合规风险。",
+        "section": 2,
+        "source_tier": "2",
+        "notes": ""
+      },
+      "members": [
+        {
+          "title": "谷歌、Akamai等在深圳研讨AI浪潮下国产游戏出海的合规与安全新挑战",
+          "url": "https://www.youxituoluo.com/535053.html",
+          "date": "2026-11-11",
+          "summary": "11月11日，“AI浪潮下国产游戏出海合规与安全交流会”在深圳前海举行，由广东（深圳）游戏出海服务中心、深圳（南山）游戏创新发展中心主办，深圳市游戏产业协会承办、游戏陀螺等协办。谷歌大中华区游戏行业经理张修竹分享了借助AI驱动竞价与混合变现提升出海效能、构建端侧隐私与全链路风控的思路；Akamai资深售前经理钱江探讨了AI时代的推理加速与全栈合规方案；律师与财税顾问则分析了AI游戏在海外市场面临的新型法律与税务合规风险。",
+          "section": 2,
+          "source_tier": "2",
+          "notes": ""
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "游戏陀螺调查：AI冲击下，中国游戏企划正在「批量试错化」",
+        "url": "https://www.youxituoluo.com/535045.html",
+        "date": "2026-11-11",
+        "summary": "游戏陀螺一篇行业调查指出，生成式AI正改变中国游戏企划（策划）的工作方式，出现“批量生成方案、靠测试数据筛选留存”的“抽卡师”式工作模式。文章提到虎扑8月底上线“AI工坊”内测，允许用户用GPT、Claude、Cursor等工具本地搭建网页小游戏；TapTap“制造”平台也被列为AI游戏活跃阵地；字节跳动、腾讯、网易、米哈游均在加大AI驱动内容生产与内部AI基建投入。",
+        "section": 2,
+        "source_tier": "2",
+        "notes": "文章还提到Krafton在校园招聘中使用内部AI评估工具，Nexon改用生成式AI实操测试取代传统笔试考察候选人；有企划反映AI辅助工作量增长约50%。"
+      },
+      "members": [
+        {
+          "title": "游戏陀螺调查：AI冲击下，中国游戏企划正在「批量试错化」",
+          "url": "https://www.youxituoluo.com/535045.html",
+          "date": "2026-11-11",
+          "summary": "游戏陀螺一篇行业调查指出，生成式AI正改变中国游戏企划（策划）的工作方式，出现“批量生成方案、靠测试数据筛选留存”的“抽卡师”式工作模式。文章提到虎扑8月底上线“AI工坊”内测，允许用户用GPT、Claude、Cursor等工具本地搭建网页小游戏；TapTap“制造”平台也被列为AI游戏活跃阵地；字节跳动、腾讯、网易、米哈游均在加大AI驱动内容生产与内部AI基建投入。",
+          "section": 2,
+          "source_tier": "2",
+          "notes": "文章还提到Krafton在校园招聘中使用内部AI评估工具，Nexon改用生成式AI实操测试取代传统笔试考察候选人；有企划反映AI辅助工作量增长约50%。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "触乐调查：独立游戏《翡翠刮刮刮》走红一周内遭AI还原式抄袭围猎",
+        "url": "https://www.chuapp.com/article/291752.html",
+        "date": "2026-11-12",
+        "summary": "触乐报道独立工作室“失眠游戏工作室”开发的《翡翠刮刮刮》走红后，一周内即在抖音、Steam、Roblox、Google Play等平台出现大量玩法与美术高度相似的跟风作品，部分抄袭者通过AI将游戏原型2D美术转为3D重制，甚至复刻出原作的程序bug。报道估算单次AI逆向提取成本约55至60美元、耗时两小时，个人开发者据此可在半月到一个月内完成仿制，远低于原团队9至10个月的开发周期。",
+        "section": 2,
+        "source_tier": "2",
+        "notes": "维权过程中，原团队需耗时约两周自证著作权，而部分抄袭方的软件著作权登记仅比原作申请晚一天完成；在Steam平台的下架申诉中，抄袭方提出需在美国提起诉讼的反通知，背后公司注册资本仅1万元、员工3人。原团队目前已发出律师函，但对结果并不乐观。"
+      },
+      "members": [
+        {
+          "title": "触乐调查：独立游戏《翡翠刮刮刮》走红一周内遭AI还原式抄袭围猎",
+          "url": "https://www.chuapp.com/article/291752.html",
+          "date": "2026-11-12",
+          "summary": "触乐报道独立工作室“失眠游戏工作室”开发的《翡翠刮刮刮》走红后，一周内即在抖音、Steam、Roblox、Google Play等平台出现大量玩法与美术高度相似的跟风作品，部分抄袭者通过AI将游戏原型2D美术转为3D重制，甚至复刻出原作的程序bug。报道估算单次AI逆向提取成本约55至60美元、耗时两小时，个人开发者据此可在半月到一个月内完成仿制，远低于原团队9至10个月的开发周期。",
+          "section": 2,
+          "source_tier": "2",
+          "notes": "维权过程中，原团队需耗时约两周自证著作权，而部分抄袭方的软件著作权登记仅比原作申请晚一天完成；在Steam平台的下架申诉中，抄袭方提出需在美国提起诉讼的反通知，背后公司注册资本仅1万元、员工3人。原团队目前已发出律师函，但对结果并不乐观。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "触乐：一位资深游戏策划讲述在「AI战争」中如何求生",
+        "url": "https://www.chuapp.com/article/291741.html",
+        "date": "2026-11-06",
+        "summary": "触乐刊文讲述一位四十多岁的资深游戏策划（曾在上海软星、腾讯NExT Studio等任职）在项目被取消后求职受挫的经历，并以此观察AI如何重塑国内游戏研发团队协作：新人借助AI生成的论证挑战资深设计师、AI为双方各自提供支持论据从而延长争论、项目管理系统已集成AI自动拆解任务并分配给成员。",
+        "section": 2,
+        "source_tier": "2",
+        "notes": "文章提到有B站UP主使用月之暗面Kimi还原经典游戏《皇牌空战》；该策划自己的团队在开发《花冠战略》时，核心代码框架仍由人工编写，AI仅用于扩充内容与生成初始美术素材（再由人工精修）。"
+      },
+      "members": [
+        {
+          "title": "触乐：一位资深游戏策划讲述在「AI战争」中如何求生",
+          "url": "https://www.chuapp.com/article/291741.html",
+          "date": "2026-11-06",
+          "summary": "触乐刊文讲述一位四十多岁的资深游戏策划（曾在上海软星、腾讯NExT Studio等任职）在项目被取消后求职受挫的经历，并以此观察AI如何重塑国内游戏研发团队协作：新人借助AI生成的论证挑战资深设计师、AI为双方各自提供支持论据从而延长争论、项目管理系统已集成AI自动拆解任务并分配给成员。",
+          "section": 2,
+          "source_tier": "2",
+          "notes": "文章提到有B站UP主使用月之暗面Kimi还原经典游戏《皇牌空战》；该策划自己的团队在开发《花冠战略》时，核心代码框架仍由人工编写，AI仅用于扩充内容与生成初始美术素材（再由人工精修）。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "HoYoverse公布两款AI新作：生活模拟《小小星球》具备「记忆型」AI NPC，策略游戏《崩坏：异兽帧》11月25日终测",
+        "url": "https://www.digitaltoday.co.kr/en/view/122717/hoyoverse-unveils-two-new-titles-from-ai-social-to-strategy-combat",
+        "date": "2026-11-09",
+        "summary": "HoYoverse在韩国媒体见面会上公布生活模拟游戏《小小星球》（Petit Planet，12月4日全球上线PC与移动端）和策略游戏《崩坏：异兽帧》（Honkai: Nexus Anima，11月25日终测，2027年春季正式上线）。《小小星球》的策划负责人表示，游戏内AI NPC能够记住玩家此前的行为并给出个性化回应，玩家也可选择关闭AI功能；两款新作将于11月19日至22日的韩国G-STAR 2026首次向当地玩家展示。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "HoYoverse公布两款AI新作：生活模拟《小小星球》具备「记忆型」AI NPC，策略游戏《崩坏：异兽帧》11月25日终测",
+          "url": "https://www.digitaltoday.co.kr/en/view/122717/hoyoverse-unveils-two-new-titles-from-ai-social-to-strategy-combat",
+          "date": "2026-11-09",
+          "summary": "HoYoverse在韩国媒体见面会上公布生活模拟游戏《小小星球》（Petit Planet，12月4日全球上线PC与移动端）和策略游戏《崩坏：异兽帧》（Honkai: Nexus Anima，11月25日终测，2027年春季正式上线）。《小小星球》的策划负责人表示，游戏内AI NPC能够记住玩家此前的行为并给出个性化回应，玩家也可选择关闭AI功能；两款新作将于11月19日至22日的韩国G-STAR 2026首次向当地玩家展示。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
