@@ -1,0 +1,11 @@
+**[新闻 2] CD Projekt Red 用 AI 语音技术帮助中风后的《巫师 3》波兰语杰洛特配音演员回归角色**
+- **日期：** 2026-11-13
+- **来源链接：** <https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai>
+- **核心事实：**
+  - 《巫师 3》波兰语杰洛特配音演员 Jacek Rozenek（雅采克·罗泽内克）中风后嗓音发生永久性改变。
+  - CD Projekt Red 在为即将推出的资料片《Songs of the Past（往日之歌）》录制新台词时，使用双方此前合作过的 AI 语音工具 Respeecher，基于 Rozenek 过去的录音训练模型处理新录音，使其更接近十余年前的原始演出。
+  - 本地化制作人 Mikołaj Szwed 表示，这是在本人同意并获得报酬的前提下使用 AI，并强调这并非公司常规做法。
+- **背景与起因：**
+  - Rozenek 因中风导致嗓音永久改变，难以用原始音色继续为角色配音；《巫师 3》正在制作新资料片需要延续其角色台词，促使 CD Projekt Red 与此前已有合作的 Respeecher 寻找技术方案，以保留这名配音演员的参与而非更换演员或放弃该角色的延续性。
+- **结果与进展：**
+  - 通过 AI 处理，Rozenek 得以在本人同意和获得报酬的前提下继续为杰洛特配音；公司强调这是个案而非常规政策，为"演员同意下 AI 辅助配音"提供了一个具体的行业案例，而非普遍替代人声的做法。

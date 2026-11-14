@@ -1,0 +1,1 @@
+- **Mobile Factory 因 Suishow 收购纠纷和解上调全年净利预期**（2026-11-13）— 日本手游公司 Mobile Factory 因此前 Suishow 收购引发的诉讼达成和解并收到赔付款，将 2026 年 12 月期净利预期由 8.19 亿日元上调至 13.8 亿日元，营收与营业利润预期维持不变。 <https://gamebiz.jp/news/435529>

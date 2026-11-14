@@ -1,0 +1,232 @@
+{
+  "as_of": "2026-11-14",
+  "cutoff": "2026-11-13",
+  "window_days": 1,
+  "summary": {
+    "input_items": 10,
+    "denied_source": 0,
+    "in_window": 10,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 10,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 10,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 10,
+    "previously_covered_count": 0
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "《战神：斯巴达之子》确认登陆PS4并新增两种挑战模式",
+        "url": "https://www.videogameschronicle.com/news/playstations-god-of-war-spin-off-is-coming-to-ps4-and-getting-new-modes/",
+        "date": "2026-11-13",
+        "summary": "索尼宣布今年2月登陆PS5的2D衍生作《战神：斯巴达之子》将于11月16日通过补丁登陆PS4，新版本同时加入限时速通的“赫尔墨斯模式”与一击即死的“厄瑞波斯模式”。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《战神：斯巴达之子》确认登陆PS4并新增两种挑战模式",
+          "url": "https://www.videogameschronicle.com/news/playstations-god-of-war-spin-off-is-coming-to-ps4-and-getting-new-modes/",
+          "date": "2026-11-13",
+          "summary": "索尼宣布今年2月登陆PS5的2D衍生作《战神：斯巴达之子》将于11月16日通过补丁登陆PS4，新版本同时加入限时速通的“赫尔墨斯模式”与一击即死的“厄瑞波斯模式”。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Nexon三季报披露已取消六个项目，2027年将推行更深度重组",
+        "url": "https://pocketgamer.biz/nexon-plans-deeper-cuts-after-cancelling-six-projects/",
+        "date": "2026-11-13",
+        "summary": "Nexon在第三季度财报中披露近期已取消六个游戏项目并将相关预算与人力转移至商业潜力更高的项目，董事长Patrick Söderlund要求所有项目达到最低盈利标准，公司计划2027年推行比今年更深的重组。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Nexon三季报披露已取消六个项目，2027年将推行更深度重组",
+          "url": "https://pocketgamer.biz/nexon-plans-deeper-cuts-after-cancelling-six-projects/",
+          "date": "2026-11-13",
+          "summary": "Nexon在第三季度财报中披露近期已取消六个游戏项目并将相关预算与人力转移至商业潜力更高的项目，董事长Patrick Söderlund要求所有项目达到最低盈利标准，公司计划2027年推行比今年更深的重组。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "芬兰、德国游戏协会警告欧盟《数字公平法案》将冲击游戏产业",
+        "url": "https://pocketgamer.biz/finnish-and-german-games-associations-warn-eu-digital-fairness-act-could-hurt-industry/",
+        "date": "2026-11-13",
+        "summary": "欧盟委员会11日公布《数字公平法案》草案后，芬兰Neogames与德国游戏协会相继发声警告，称该法案可能削弱PEGI等年龄分级体系并冲击免费游玩商业模式，德国协会指出本国免费游玩游戏去年创造41亿欧元收入，远高于传统买断制的8亿欧元。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "芬兰、德国游戏协会警告欧盟《数字公平法案》将冲击游戏产业",
+          "url": "https://pocketgamer.biz/finnish-and-german-games-associations-warn-eu-digital-fairness-act-could-hurt-industry/",
+          "date": "2026-11-13",
+          "summary": "欧盟委员会11日公布《数字公平法案》草案后，芬兰Neogames与德国游戏协会相继发声警告，称该法案可能削弱PEGI等年龄分级体系并冲击免费游玩商业模式，德国协会指出本国免费游玩游戏去年创造41亿欧元收入，远高于传统买断制的8亿欧元。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《巫师3》波兰配音演员借助AI语音技术重返杰洛特角色",
+        "url": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
+        "date": "2026-11-13",
+        "summary": "CD Projekt Red在新DLC《往日之歌》中使用AI语音生成工具Respeecher，基于其过往录音训练模型，帮助因中风导致嗓音改变的波兰配音演员雅采克·罗泽内克在本人同意下重新演绎杰洛特一角。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《巫师3》波兰配音演员借助AI语音技术重返杰洛特角色",
+          "url": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
+          "date": "2026-11-13",
+          "summary": "CD Projekt Red在新DLC《往日之歌》中使用AI语音生成工具Respeecher，基于其过往录音训练模型，帮助因中风导致嗓音改变的波兰配音演员雅采克·罗泽内克在本人同意下重新演绎杰洛特一角。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "老牌PC网游运营商Gala Japan宣布解散清算",
+        "url": "https://gamebiz.jp/news/435530",
+        "date": "2026-11-13",
+        "summary": "日本上市公司Gala Inc.宣布旗下子公司、曾运营《飞飞Online》《Rappelz》等作品的老牌PC网游运营商Gala Japan将解散清算，该业务规模持续萎缩且近年已基本处于休眠状态，母公司将豁免约9.12亿日元债权。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "老牌PC网游运营商Gala Japan宣布解散清算",
+          "url": "https://gamebiz.jp/news/435530",
+          "date": "2026-11-13",
+          "summary": "日本上市公司Gala Inc.宣布旗下子公司、曾运营《飞飞Online》《Rappelz》等作品的老牌PC网游运营商Gala Japan将解散清算，该业务规模持续萎缩且近年已基本处于休眠状态，母公司将豁免约9.12亿日元债权。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "GungHo宣布《仙境传说：新世界》2027年上半年登陆日本",
+        "url": "https://gamebiz.jp/news/435512",
+        "date": "2026-11-13",
+        "summary": "GungHo Online Entertainment宣布其免费游玩MMORPG《仙境传说：新世界（Ragnarok: The New World）》将于2027年上半年登陆日本iOS、Android与PC平台。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "GungHo宣布《仙境传说：新世界》2027年上半年登陆日本",
+          "url": "https://gamebiz.jp/news/435512",
+          "date": "2026-11-13",
+          "summary": "GungHo Online Entertainment宣布其免费游玩MMORPG《仙境传说：新世界（Ragnarok: The New World）》将于2027年上半年登陆日本iOS、Android与PC平台。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "日本一软件上半财年扭亏为盈，新作销量突破20万份",
+        "url": "https://gamebiz.jp/news/435510",
+        "date": "2026-11-13",
+        "summary": "日本一软件公布截至2027年3月财年上半年财报，净销售额同比大增159.4%至32.27亿日元并实现扭亏为盈，主要受7月发售新作《温暖生活之庭》带动，该作日本国内销量已突破20万份。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "日本一软件上半财年扭亏为盈，新作销量突破20万份",
+          "url": "https://gamebiz.jp/news/435510",
+          "date": "2026-11-13",
+          "summary": "日本一软件公布截至2027年3月财年上半年财报，净销售额同比大增159.4%至32.27亿日元并实现扭亏为盈，主要受7月发售新作《温暖生活之庭》带动，该作日本国内销量已突破20万份。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "游戏直播平台Mirrativ前三财季营业利润大增194%",
+        "url": "https://gamebiz.jp/news/435525",
+        "date": "2026-11-13",
+        "summary": "游戏直播与发行公司Mirrativ公布2026年1至9月财报，营收同比增长11.9%至58.34亿日元，营业利润同比大增194.4%至8.13亿日元，公司维持全年业绩预期不变。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "游戏直播平台Mirrativ前三财季营业利润大增194%",
+          "url": "https://gamebiz.jp/news/435525",
+          "date": "2026-11-13",
+          "summary": "游戏直播与发行公司Mirrativ公布2026年1至9月财报，营收同比增长11.9%至58.34亿日元，营业利润同比大增194.4%至8.13亿日元，公司维持全年业绩预期不变。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Furyu公布10月单月销售额同比增长27%",
+        "url": "https://gamebiz.jp/news/435528",
+        "date": "2026-11-13",
+        "summary": "日本游戏及周边厂商Furyu公布10月单月销售额同比增长26.9%至43.13亿日元，为连续第七个月同比增长，公司将其归功于夹娃娃机周边、海外物贩及新游戏《Anomalith》的贡献。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Furyu公布10月单月销售额同比增长27%",
+          "url": "https://gamebiz.jp/news/435528",
+          "date": "2026-11-13",
+          "summary": "日本游戏及周边厂商Furyu公布10月单月销售额同比增长26.9%至43.13亿日元，为连续第七个月同比增长，公司将其归功于夹娃娃机周边、海外物贩及新游戏《Anomalith》的贡献。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Mobile Factory因Suishow收购纠纷和解上调全年净利预期",
+        "url": "https://gamebiz.jp/news/435529",
+        "date": "2026-11-13",
+        "summary": "日本手游公司Mobile Factory因此前Suishow收购引发的诉讼达成和解并收到赔付款，将2026年12月期净利预期由8.19亿日元上调至13.8亿日元，营收与营业利润预期维持不变。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Mobile Factory因Suishow收购纠纷和解上调全年净利预期",
+          "url": "https://gamebiz.jp/news/435529",
+          "date": "2026-11-13",
+          "summary": "日本手游公司Mobile Factory因此前Suishow收购引发的诉讼达成和解并收到赔付款，将2026年12月期净利预期由8.19亿日元上调至13.8亿日元，营收与营业利润预期维持不变。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

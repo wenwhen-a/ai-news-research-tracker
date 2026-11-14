@@ -1,0 +1,12 @@
+**[新闻 1] Epic CEO Tim Sweeney：AI 将为游戏开发带来数倍甚至 10 倍生产力提升**
+- **日期：** 2026-11-13
+- **来源链接：** <https://gamesbeat.com/epic-games-ceo-tim-sweeney-predicts-ai-revolution-in-gaming-with-10x-productivity-and-entirely-new-genres-if-devs-get-behind-it-exclusive/>
+- **核心事实：**
+  - Epic Games CEO Tim Sweeney 在接受 GamesBeat 采访时表示，AI 正在改变代码编写、内容制作、测试与修复漏洞等环节，预计可带来 4 倍甚至 10 倍的生产力提升。
+  - Epic 工程副总裁 Marcus Wassmer 透露，Unreal Engine 5.9 预览版的 WebGPU 移植工作由少数工程师借助 AI 代理团队完成，原型开发效率最高提升 20 倍。
+  - Sweeney 认为不采用 AI 的大型工作室将失去竞争力。
+  - Sweeney 同时反对 Steam 强制要求披露生成式 AI 使用情况的政策。
+- **背景与起因：**
+  - Epic 正通过 Unreal Engine 5.9 预览版推出实验性 AI 工具，并刚刚启动面向开发者的「2026 AI MegaJam」创作大赛，鼓励团队在比赛中无限制使用 AI 代理；本次采访是 Epic 高层首次系统阐述公司对 AI 在游戏开发全流程中角色的整体立场。
+- **结果与进展：**
+  - Epic 工程团队已将 AI 代理工作流用于具体的引擎移植任务（WebGPU 移植），证明该方式已在内部生产环节落地；Sweeney 公开表态反对行业的 AI 使用强制披露监管方向，显示出其对相关监管提案的立场。

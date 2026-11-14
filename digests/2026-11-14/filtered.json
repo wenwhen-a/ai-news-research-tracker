@@ -1,0 +1,312 @@
+{
+  "as_of": "2026-11-14",
+  "cutoff": "2026-11-07",
+  "window_days": 7,
+  "summary": {
+    "input_items": 14,
+    "denied_source": 0,
+    "in_window": 14,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 14,
+    "duplicate_clusters": 0,
+    "section1_count": 5,
+    "section2_count": 9,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": true,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 5,
+    "previously_covered_count": 9
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Epic Games发布Unreal Engine 5.9预览版,新增AI生成工具Unreal Canvas",
+        "url": "https://www.gamebusiness.jp/article/2026/11/11/28629.html",
+        "date": "2026-11-09",
+        "summary": "Epic Games于11月9日发布Unreal Engine 5.9预览版,新增实验性功能Unreal Canvas,可根据文字描述、参考图片和当前场景生成图像、视频及3D网格素材。该预览版同时升级了5.8引入的交互式AI接口Unreal MCP,开发团队用约一周时间借助AI代理完成移植和网页运行等功能,以配合11月12日开始的Epic AI MegaJam活动。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "Epic Games发布Unreal Engine 5.9预览版,新增AI生成工具Unreal Canvas",
+          "url": "https://www.gamebusiness.jp/article/2026/11/11/28629.html",
+          "date": "2026-11-09",
+          "summary": "Epic Games于11月9日发布Unreal Engine 5.9预览版,新增实验性功能Unreal Canvas,可根据文字描述、参考图片和当前场景生成图像、视频及3D网格素材。该预览版同时升级了5.8引入的交互式AI接口Unreal MCP,开发团队用约一周时间借助AI代理完成移植和网页运行等功能,以配合11月12日开始的Epic AI MegaJam活动。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Epic CEO Tim Sweeney预测AI将为游戏开发带来数倍生产力提升",
+        "url": "https://gamesbeat.com/epic-games-ceo-tim-sweeney-predicts-ai-revolution-in-gaming-with-10x-productivity-and-entirely-new-genres-if-devs-get-behind-it-exclusive/",
+        "date": "2026-11-13",
+        "summary": "Epic Games CEO Tim Sweeney在接受GamesBeat采访时表示,AI正在改变代码编写、内容制作、测试与修复漏洞等环节,预计可带来4倍甚至10倍的生产力提升,并认为不采用AI的大型工作室将失去竞争力。Epic工程副总裁Marcus Wassmer透露,Unreal Engine 5.9预览版的WebGPU移植工作由少数工程师借助AI代理团队完成,原型开发效率最高提升20倍。Sweeney同时反对Steam强制要求披露生成式AI使用情况的政策。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "Epic CEO Tim Sweeney预测AI将为游戏开发带来数倍生产力提升",
+          "url": "https://gamesbeat.com/epic-games-ceo-tim-sweeney-predicts-ai-revolution-in-gaming-with-10x-productivity-and-entirely-new-genres-if-devs-get-behind-it-exclusive/",
+          "date": "2026-11-13",
+          "summary": "Epic Games CEO Tim Sweeney在接受GamesBeat采访时表示,AI正在改变代码编写、内容制作、测试与修复漏洞等环节,预计可带来4倍甚至10倍的生产力提升,并认为不采用AI的大型工作室将失去竞争力。Epic工程副总裁Marcus Wassmer透露,Unreal Engine 5.9预览版的WebGPU移植工作由少数工程师借助AI代理团队完成,原型开发效率最高提升20倍。Sweeney同时反对Steam强制要求披露生成式AI使用情况的政策。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "CD Projekt Red用AI语音技术帮助中风后的《巫师3》波兰语杰洛特配音演员回归角色",
+        "url": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
+        "date": "2026-11-13",
+        "summary": "《巫师3》波兰语杰洛特配音演员Jacek Rozenek中风后嗓音发生变化,CD Projekt Red在为即将推出的资料片《Songs of the Past》录制新台词时,使用双方此前合作过的AI语音工具Respeecher,基于Rozenek过去的录音处理新录音,使其更接近十余年前的原始演出。本地化制作人Mikołaj Szwed表示这是在本人同意并获得报酬的前提下使用AI,并强调这并非公司常规做法。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "CD Projekt Red用AI语音技术帮助中风后的《巫师3》波兰语杰洛特配音演员回归角色",
+          "url": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
+          "date": "2026-11-13",
+          "summary": "《巫师3》波兰语杰洛特配音演员Jacek Rozenek中风后嗓音发生变化,CD Projekt Red在为即将推出的资料片《Songs of the Past》录制新台词时,使用双方此前合作过的AI语音工具Respeecher,基于Rozenek过去的录音处理新录音,使其更接近十余年前的原始演出。本地化制作人Mikołaj Szwed表示这是在本人同意并获得报酬的前提下使用AI,并强调这并非公司常规做法。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《任天堂明星大乱斗》制作人樱井政博公开表态对生成式AI持谨慎态度",
+        "url": "https://kotaku.com/super-smash-bros-creator-masahiro-sakurai-cautions-against-the-use-of-gen-ai-we-can-come-up-with-better-ideas-2000754922",
+        "date": "2026-11-09",
+        "summary": "在《Fami通》创刊40周年纪念活动上,游戏制作人樱井政博表示现阶段的AI尚不足以胜任游戏开发或创意构思工作,认为人类可以想出更好的点子,且创意还需综合考虑开发周期、团队规模与预算等现实因素。他表示包括《星之卡比 竞速》在内的近期项目均未使用AI,但也提到若技术持续进步,未来AI或有助于控制开发成本。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "《任天堂明星大乱斗》制作人樱井政博公开表态对生成式AI持谨慎态度",
+          "url": "https://kotaku.com/super-smash-bros-creator-masahiro-sakurai-cautions-against-the-use-of-gen-ai-we-can-come-up-with-better-ideas-2000754922",
+          "date": "2026-11-09",
+          "summary": "在《Fami通》创刊40周年纪念活动上,游戏制作人樱井政博表示现阶段的AI尚不足以胜任游戏开发或创意构思工作,认为人类可以想出更好的点子,且创意还需综合考虑开发周期、团队规模与预算等现实因素。他表示包括《星之卡比 竞速》在内的近期项目均未使用AI,但也提到若技术持续进步,未来AI或有助于控制开发成本。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "House House承认《Big Walk》开发中使用过AI,回应独立游戏节评审联合声明",
+        "url": "https://www.videogameschronicle.com/news/big-walk-studio-says-it-used-ai-sparingly-in-response-to-indie-award-jury-statement-against-its-use/",
+        "date": "2026-11-10",
+        "summary": "继19名独立游戏节(IGF)评审联合声明拒绝为任何使用生成式AI的参赛作品投票后,《Big Walk》开发商House House确认在开发后期曾借助大语言模型解决技术难题和漏洞,估计受影响代码量低于游戏总代码的0.1%。工作室表示此前未在Steam页面披露该情况,因为Steam并未要求披露代码或聊天机器人使用情况,并承认公司缺乏内部AI使用政策。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "House House承认《Big Walk》开发中使用过AI,回应独立游戏节评审联合声明",
+          "url": "https://www.videogameschronicle.com/news/big-walk-studio-says-it-used-ai-sparingly-in-response-to-indie-award-jury-statement-against-its-use/",
+          "date": "2026-11-10",
+          "summary": "继19名独立游戏节(IGF)评审联合声明拒绝为任何使用生成式AI的参赛作品投票后,《Big Walk》开发商House House确认在开发后期曾借助大语言模型解决技术难题和漏洞,估计受影响代码量低于游戏总代码的0.1%。工作室表示此前未在Steam页面披露该情况,因为Steam并未要求披露代码或聊天机器人使用情况,并承认公司缺乏内部AI使用政策。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "前Rockstar开发者警告AI技术可能让《GTA 6》PC版遭遇提前破解移植",
+        "url": "https://kotaku.com/former-rockstar-developer-says-they-should-hurry-up-on-gta-6s-pc-version-before-ai-gets-there-first-2000754810",
+        "date": "2026-11-07",
+        "summary": "曾任《GTA III》技术总监的前Rockstar开发者Obbe Vermeij表示,若他仍在Rockstar工作会担心有人利用AI技术将PS5版《GTA 6》转换为非官方PC版本并抢先发售,从而影响官方PC版销量,尽管他认为此类AI移植的质量难以达到Rockstar的标准。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "前Rockstar开发者警告AI技术可能让《GTA 6》PC版遭遇提前破解移植",
+          "url": "https://kotaku.com/former-rockstar-developer-says-they-should-hurry-up-on-gta-6s-pc-version-before-ai-gets-there-first-2000754810",
+          "date": "2026-11-07",
+          "summary": "曾任《GTA III》技术总监的前Rockstar开发者Obbe Vermeij表示,若他仍在Rockstar工作会担心有人利用AI技术将PS5版《GTA 6》转换为非官方PC版本并抢先发售,从而影响官方PC版销量,尽管他认为此类AI移植的质量难以达到Rockstar的标准。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "索尼为《蜘蛛侠2》《Arc Raiders》等6款PS5游戏追加QSSR AI超分辨率支持",
+        "url": "https://www.videogameschronicle.com/news/6-more-games-receive-ps5-performance-updates-via-qssr-including-arc-raiders-and-control-resonant/",
+        "date": "2026-11-13",
+        "summary": "索尼宣布《漫威蜘蛛侠2》《Control Resonant》《The Finals》《Arc Raiders》《Hell Let Loose: Vietnam》《无人深空》六款PS5游戏追加基于QSSR(Quick Spectral Super Resolution)AI超分技术的画质更新。该技术与PS5 Pro专属的PSSR同源,开发商Insomniac和Remedy均表示相关游戏的画面稳定性与细节表现有所提升。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "索尼为《蜘蛛侠2》《Arc Raiders》等6款PS5游戏追加QSSR AI超分辨率支持",
+          "url": "https://www.videogameschronicle.com/news/6-more-games-receive-ps5-performance-updates-via-qssr-including-arc-raiders-and-control-resonant/",
+          "date": "2026-11-13",
+          "summary": "索尼宣布《漫威蜘蛛侠2》《Control Resonant》《The Finals》《Arc Raiders》《Hell Let Loose: Vietnam》《无人深空》六款PS5游戏追加基于QSSR(Quick Spectral Super Resolution)AI超分技术的画质更新。该技术与PS5 Pro专属的PSSR同源,开发商Insomniac和Remedy均表示相关游戏的画面稳定性与细节表现有所提升。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Xbox负责人Asha Sharma在Xbox 25周年之际暗示AI是解决游戏行业困境的方案",
+        "url": "https://kotaku.com/xbox-ceo-hints-that-the-solution-to-an-imploding-video-game-industry-is-ai-2000756321",
+        "date": "2026-11-12",
+        "summary": "在纪念Xbox品牌成立25周年的官方博文中,微软游戏业务负责人Asha Sharma在全文未直接使用\"人工智能\"一词的情况下,表示现代游戏开发的成本、资源与风险急剧上升导致许多创意无法成形,并暗示未来单人或小团队将能够掌握过去需要庞大团队才能实现的制作能力。这是她本月第二次以类似方式间接提及AI对行业的影响。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "Xbox负责人Asha Sharma在Xbox 25周年之际暗示AI是解决游戏行业困境的方案",
+          "url": "https://kotaku.com/xbox-ceo-hints-that-the-solution-to-an-imploding-video-game-industry-is-ai-2000756321",
+          "date": "2026-11-12",
+          "summary": "在纪念Xbox品牌成立25周年的官方博文中,微软游戏业务负责人Asha Sharma在全文未直接使用\"人工智能\"一词的情况下,表示现代游戏开发的成本、资源与风险急剧上升导致许多创意无法成形,并暗示未来单人或小团队将能够掌握过去需要庞大团队才能实现的制作能力。这是她本月第二次以类似方式间接提及AI对行业的影响。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "GamesBeat Next 2026座谈聚焦\"AI原生\"游戏开发新形态",
+        "url": "https://gamesbeat.com/ai-native-game-development-making-games-that-can-only-be-made-with-ai-gamesbeat-next-2026/",
+        "date": "2026-11-12",
+        "summary": "在GamesBeat Next 2026大会上,Artificial Agency、Studio Atelico与Operative Games三家公司高管讨论了\"AI原生\"游戏设计理念,即探索只有借助AI才能实现的游戏体验,而非仅为现有游戏增加更智能的角色。与会者认为可信的AI角色需要拥有自身目标和独立性,且运行时AI推理成本将从设计阶段就影响游戏机制的选择。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "GamesBeat Next 2026座谈聚焦\"AI原生\"游戏开发新形态",
+          "url": "https://gamesbeat.com/ai-native-game-development-making-games-that-can-only-be-made-with-ai-gamesbeat-next-2026/",
+          "date": "2026-11-12",
+          "summary": "在GamesBeat Next 2026大会上,Artificial Agency、Studio Atelico与Operative Games三家公司高管讨论了\"AI原生\"游戏设计理念,即探索只有借助AI才能实现的游戏体验,而非仅为现有游戏增加更智能的角色。与会者认为可信的AI角色需要拥有自身目标和独立性,且运行时AI推理成本将从设计阶段就影响游戏机制的选择。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Krafton公布2026年第三季度财报,并透露后续AI模型扩展计划",
+        "url": "https://www.gamespress.com/ko-KR/KRAFTON-ANNOUNCES-THIRD-QUARTER-2026-RESULTS",
+        "date": "2026-11-10",
+        "summary": "Krafton发布2026年第三季度财报,营收同比增长11.6%至9714亿韩元,营业利润同比下滑35.5%至2250亿韩元。财报AI专项部分提到,公司计划在此前发布的自研大语言模型Raon-1 mini Preview基础上,进一步推出规模更大的Raon-1模型及全双工语音模型。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "Krafton公布2026年第三季度财报,并透露后续AI模型扩展计划",
+          "url": "https://www.gamespress.com/ko-KR/KRAFTON-ANNOUNCES-THIRD-QUARTER-2026-RESULTS",
+          "date": "2026-11-10",
+          "summary": "Krafton发布2026年第三季度财报,营收同比增长11.6%至9714亿韩元,营业利润同比下滑35.5%至2250亿韩元。财报AI专项部分提到,公司计划在此前发布的自研大语言模型Raon-1 mini Preview基础上,进一步推出规模更大的Raon-1模型及全双工语音模型。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "NVIDIA GeForce NOW本周新增10款云游戏,含搭载DLSS 4.5的显卡纪念Demo",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+        "date": "2026-11-12",
+        "summary": "NVIDIA宣布本周GeForce NOW云游戏平台新增10款游戏,其中纪念\"GeForce 8800 GTX发布20周年\"的演示程序支持DLSS 4.5神经渲染与云端路径追踪技术。公告同时提到《战争雷霆》与《燕云十六声》未来将获得DLSS 5支持,但尚未正式上线。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "NVIDIA GeForce NOW本周新增10款云游戏,含搭载DLSS 4.5的显卡纪念Demo",
+          "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+          "date": "2026-11-12",
+          "summary": "NVIDIA宣布本周GeForce NOW云游戏平台新增10款游戏,其中纪念\"GeForce 8800 GTX发布20周年\"的演示程序支持DLSS 4.5神经渲染与云端路径追踪技术。公告同时提到《战争雷霆》与《燕云十六声》未来将获得DLSS 5支持,但尚未正式上线。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "游戏行业的策划，正在\"抽卡师\"化吗？——AI冲击下中国游戏策划岗位生存调查",
+        "url": "https://www.youxituoluo.com/535045.html",
+        "date": "2026-11-11",
+        "summary": "游戏陀螺报道称，字节跳动、腾讯、网易、米哈游等大厂持续加码AI投入后，游戏策划的入门工作（配表、反拆同类游戏、搭建demo）正被AI大量取代，有策划反映\"抽卡式\"反复生成筛选的工作量增加约50%。文章援引GDC 2026行业报告称，策划在近期裁员中占比20%，为各工种中最高；猎聘数据显示73.34%的游戏岗位要求3年以上经验，应届岗位数量同比下降20%。文章还提到Hupu、TapTap等平台的AI游戏工坊，以及韩国Krafton、Nexon已采用AI能力测试取代部分传统校招笔试。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "游戏行业的策划，正在\"抽卡师\"化吗？——AI冲击下中国游戏策划岗位生存调查",
+          "url": "https://www.youxituoluo.com/535045.html",
+          "date": "2026-11-11",
+          "summary": "游戏陀螺报道称，字节跳动、腾讯、网易、米哈游等大厂持续加码AI投入后，游戏策划的入门工作（配表、反拆同类游戏、搭建demo）正被AI大量取代，有策划反映\"抽卡式\"反复生成筛选的工作量增加约50%。文章援引GDC 2026行业报告称，策划在近期裁员中占比20%，为各工种中最高；猎聘数据显示73.34%的游戏岗位要求3年以上经验，应届岗位数量同比下降20%。文章还提到Hupu、TapTap等平台的AI游戏工坊，以及韩国Krafton、Nexon已采用AI能力测试取代部分传统校招笔试。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "美团也入局AI游戏开发？LongCat-2.5开源模型一句话生成3D游戏场景",
+        "url": "https://www.youxituoluo.com/535049.html",
+        "date": "2026-11-12",
+        "summary": "游戏陀螺报道，美团于11月2日发布新一代大模型LongCat-2.5，并于11月10日以MIT协议正式开源，具备通过简单文字指令生成完整3D游戏场景及可运行Three.js代码的能力，开发者演示显示其可生成场景搭建、角色互动与载具物理效果。文章指出，月之暗面（Moonshot AI）此前已于11月2日推出面向Godot、Blender、Unity、Unreal等引擎的Kimi游戏开发方案，显示更多中国科技公司正加入AI游戏创作工具赛道，但将其用于大型商业项目仍需解决工程质量与团队协作等问题。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "美团也入局AI游戏开发？LongCat-2.5开源模型一句话生成3D游戏场景",
+          "url": "https://www.youxituoluo.com/535049.html",
+          "date": "2026-11-12",
+          "summary": "游戏陀螺报道，美团于11月2日发布新一代大模型LongCat-2.5，并于11月10日以MIT协议正式开源，具备通过简单文字指令生成完整3D游戏场景及可运行Three.js代码的能力，开发者演示显示其可生成场景搭建、角色互动与载具物理效果。文章指出，月之暗面（Moonshot AI）此前已于11月2日推出面向Godot、Blender、Unity、Unreal等引擎的Kimi游戏开发方案，显示更多中国科技公司正加入AI游戏创作工具赛道，但将其用于大型商业项目仍需解决工程质量与团队协作等问题。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《无畏契约》端游手游注册用户\"双破亿\"，腾讯AI互动小程序助力测试资格发放",
+        "url": "https://www.youxituoluo.com/535048.html",
+        "date": "2026-11-12",
+        "summary": "游戏陀螺报道，腾讯宣布《无畏契约》端游与手游《无畏契约：源能行动》注册用户均已突破1亿。文章提到，手游上线前腾讯推出\"AI放号官\"互动问答小程序，玩家通过与AI问答的方式获取测试资格，成为该品类较早的AI驱动营销案例之一，文章将AI列为腾讯游戏今年业务增长的重要主题之一。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "《无畏契约》端游手游注册用户\"双破亿\"，腾讯AI互动小程序助力测试资格发放",
+          "url": "https://www.youxituoluo.com/535048.html",
+          "date": "2026-11-12",
+          "summary": "游戏陀螺报道，腾讯宣布《无畏契约》端游与手游《无畏契约：源能行动》注册用户均已突破1亿。文章提到，手游上线前腾讯推出\"AI放号官\"互动问答小程序，玩家通过与AI问答的方式获取测试资格，成为该品类较早的AI驱动营销案例之一，文章将AI列为腾讯游戏今年业务增长的重要主题之一。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
