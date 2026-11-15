@@ -1,0 +1,136 @@
+{
+  "as_of": "2026-11-15",
+  "cutoff": "2026-11-14",
+  "window_days": 1,
+  "summary": {
+    "input_items": 13,
+    "denied_source": 0,
+    "in_window": 0,
+    "out_of_window": 13,
+    "invalid_date": 0,
+    "unique_after_dedup": 0,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 0,
+    "previously_covered_count": 0
+  },
+  "unique_items": [],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [
+    {
+      "title": "移动游戏发行商Fortis Games关闭，最多440个岗位受影响",
+      "url": "https://www.pocketgamer.biz/fortis-games-shuts-down-as-up-to-440-jobs-are-put-at-risk/",
+      "date": "2026-11-10",
+      "summary": "据PocketGamer.biz报道，背后投资方拉斯维加斯金沙集团撤资后，移动游戏发行商Fortis Games宣告关闭，CEO Steven Chiang确认此事，最多440名员工受到影响，旗下游戏《Twilight Towers》将于11月16日停服。",
+      "section": 3,
+      "_date_parsed": "2026-11-10"
+    },
+    {
+      "title": "Skydance Games并入华纳兄弟后裁员，称为\"重组\"的一部分",
+      "url": "https://www.videogameschronicle.com/news/skydance-games-has-been-laying-off-some-of-its-staff-a-month-after-merging-with-warner-bros/",
+      "date": "2026-11-10",
+      "summary": "派拉蒙天舞（Paramount Skydance）并购华纳兄弟探索公司约一个月后，其游戏部门Skydance Games开始裁员，公司称此举为跨部门的重组与运营调整，裁员人数据员工社交媒体透露约25至30人以上。",
+      "section": 3,
+      "_date_parsed": "2026-11-10"
+    },
+    {
+      "title": "Nexon取消六个在研项目，员工发起抗议要求保障岗位",
+      "url": "https://www.gamedeveloper.com/console/unionized-nexon-staff-rally-for-job-security-amid-company-wide-reorganization",
+      "date": "2026-11-10",
+      "summary": "据Game Developer报道，Nexon近期取消包括Project EL、Project Everett等六个研发项目并停止经典游戏《泡泡堂》（Crazy Arcade）运营，公司工会员工发起集会要求保障受影响员工的岗位安置。",
+      "section": 3,
+      "_date_parsed": "2026-11-10"
+    },
+    {
+      "title": "俄罗斯游戏公司My.Games获迪拜投资人支持完成管理层收购",
+      "url": "https://mobilegamer.biz/my-games-management-agrees-uae-backed-buyout-from-owner-alexander-chachava/",
+      "date": "2026-11-10",
+      "summary": "据MobileGamer.biz报道，游戏开发发行商My.Games与现任股东Alexander Chachava签署管理层收购协议，收购方由CEO Elena Grigorian和COO Denis Savuta牵头，并获得阿联酋投资人Georgy Nurislamov的资金支持，公司品牌及管理团队保持不变。",
+      "section": 3,
+      "_date_parsed": "2026-11-10"
+    },
+    {
+      "title": "中国监管部门无条件批准Savvy Games以超60亿美元收购字节跳动旗下Moonton",
+      "url": "https://www.pocketgamer.biz/china-approves-savvy-games-groups-moonton-acquisition",
+      "date": "2026-11-06",
+      "summary": "据PocketGamer.biz报道，中国国家市场监督管理总局已无条件批准沙特Savvy Games Group收购字节跳动旗下《无尽的拉格朗日》与《Mobile Legends: Bang Bang》开发商Moonton，该笔交易价值逾60亿美元，已于10月29日完成审查，11月6日公布批文。",
+      "section": 3,
+      "_date_parsed": "2026-11-06"
+    },
+    {
+      "title": "韩国DoubleU Games以约16.25美元/ADS价格收购DoubleDown Interactive剩余股份",
+      "url": "https://www.pocketgamer.biz/doubleu-games-agrees-to-buy-remaining-stake-in-doubledown-interactive/",
+      "date": "2026-11-10",
+      "summary": "据PocketGamer.biz报道，已持有DoubleDown Interactive约67.05%股份的DoubleU Games同意以每份美国存托股16.25美元的现金价格收购剩余股份，交易获独立委员会及董事会认可，需达到95%（或经同意后90%）持股门槛，资金来自自有现金及约2240亿韩元过桥贷款。",
+      "section": 3,
+      "_date_parsed": "2026-11-10"
+    },
+    {
+      "title": "《毁灭战士》开发商id Software确认已启动新作开发，被裁员工另立新工作室Hidden Horses",
+      "url": "https://www.videogameschronicle.com/news/id-software-confirms-its-working-on-a-new-game-after-layoffs/",
+      "date": "2026-11-12",
+      "summary": "据VGC报道，Xbox游戏业务负责人Asha Sharma确认id Software已在由Hugo Martin领导、得州与法兰克福团队共同参与开发新作，而此前被裁的20余名id前员工则组建了员工共有制的新工作室Hidden Horses，正在众筹开发单人射击游戏《Danger Pay》。",
+      "section": 3,
+      "_date_parsed": "2026-11-12"
+    },
+    {
+      "title": "索尼PS5全球出货量正式突破1亿台",
+      "url": "https://www.videogameschronicle.com/news/playstation-5-officially-clears-100-million-consoles-shipped/",
+      "date": "2026-11-10",
+      "summary": "据VGC报道，索尼PlayStation 5主机全球出货量已正式突破1亿台，成为继PS2、PS4和初代PS之后第四款达成此里程碑的PlayStation主机，这一消息恰逢《GTA VI》11月19日发售前夕公布。",
+      "section": 3,
+      "_date_parsed": "2026-11-10"
+    },
+    {
+      "title": "Playtika终止战略评估，确认将继续作为独立上市公司运营",
+      "url": "https://mobilegamer.biz/playtika-calls-off-sale-search-as-q3-revenue-holds-flat-at-674m/",
+      "date": "2026-11-10",
+      "summary": "据MobileGamer.biz报道，社交博彩游戏公司Playtika在完成包括潜在出售选项的战略评估后，宣布将继续作为独立上市公司运营，董事会认为独立发展最有利于股东长期价值；公司第三季度营收同比持平报约6.74亿美元，调整后EBITDA创历史新高。",
+      "section": 3,
+      "_date_parsed": "2026-11-10"
+    },
+    {
+      "title": "欧盟《数字公平法案》草案引发游戏业强烈反对，Supercell CEO警告或\"扼杀\"欧洲行业",
+      "url": "https://mobilegamer.biz/unworkable-unjustified-and-disproportionate-trade-bodies-slam-the-eus-digital-fairness-act/",
+      "date": "2026-11-11",
+      "summary": "欧盟委员会11日公布《数字公平法案》（DFA）草案后，欧洲游戏开发者联盟等多个行业协会联名致信批评草案\"不可执行、不合理且不成比例\"，Supercell CEO Ilkka Paananen亦公开警告新规可能重创欧洲价值270亿欧元的游戏行业及玩家体验。",
+      "section": 3,
+      "_date_parsed": "2026-11-11"
+    },
+    {
+      "title": "AI游戏创作公司Anorak获500万美元种子轮融资，Supercell参投",
+      "url": "https://tech.eu/2026/11/11/anorak-secures-5m-to-let-anyone-create-their-own-ai-powered-games/",
+      "date": "2026-11-11",
+      "summary": "据Tech.eu报道，由Hutch联合创始人Shaun Rutland创立的伦敦-成都团队Anorak获得500万美元种子轮融资，由Play Ventures和Backed VC联合领投，Supercell与MTG等参投，用于开发面向小众社区的AI生成式互动娱乐平台。",
+      "section": 3,
+      "_date_parsed": "2026-11-11"
+    },
+    {
+      "title": "Take-Two最新财季预订额同比下滑18%，但重申《GTA VI》11月19日发售不变，预购\"空前火爆\"",
+      "url": "https://gamesbeat.com/?p=338567",
+      "date": "2026-11-09",
+      "summary": "据GamesBeat报道，Take-Two 2027财年第二财季净预订额为16亿美元，同比下滑18%且低于预期，但公司重申《GTA VI》11月19日发售计划不变，CEO Strauss Zelnick称预购量\"持续达到空前水平\"，全年80-82亿美元预订额指引维持不变。",
+      "section": 3,
+      "_date_parsed": "2026-11-09"
+    },
+    {
+      "title": "《战神》衍生作《Sons of Sparta》登陆PS4，同步推出免费内容更新",
+      "url": "https://www.gematsu.com/2026/11/god-of-war-sons-of-sparta-coming-to-ps4-on-november-16-alongside-free-content-update",
+      "date": "2026-11-13",
+      "summary": "据Gematsu报道，索尼将于11月16日把《战神》衍生作《Sons of Sparta》移植上线PS4平台，并同步为该作推出一项免费内容更新。",
+      "section": 3,
+      "_date_parsed": "2026-11-13"
+    }
+  ],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
