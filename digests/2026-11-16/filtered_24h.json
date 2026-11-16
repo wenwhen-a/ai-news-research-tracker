@@ -1,0 +1,312 @@
+{
+  "as_of": "2026-11-16",
+  "cutoff": "2026-11-15",
+  "window_days": 1,
+  "summary": {
+    "input_items": 14,
+    "denied_source": 0,
+    "in_window": 14,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 14,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 14,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 13,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Xbox高管澄清Project Helix定位：\"是能玩PC游戏的主机，而非能玩主机游戏的PC\"",
+        "url": "https://www.videogameschronicle.com/news/xbox-says-project-helix-is-a-console-that-can-play-pc-games-not-a-pc-that-can-play-console-games/",
+        "date": "2026-11-16",
+        "summary": "Xbox高管Jason Ronald表示次世代主机Project Helix的定位是\"能玩PC游戏的主机\"而非反过来的PC设备，并称团队正专注于神经渲染技术，以在元件成本上涨背景下控制主机售价。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Xbox高管澄清Project Helix定位：\"是能玩PC游戏的主机，而非能玩主机游戏的PC\"",
+          "url": "https://www.videogameschronicle.com/news/xbox-says-project-helix-is-a-console-that-can-play-pc-games-not-a-pc-that-can-play-console-games/",
+          "date": "2026-11-16",
+          "summary": "Xbox高管Jason Ronald表示次世代主机Project Helix的定位是\"能玩PC游戏的主机\"而非反过来的PC设备，并称团队正专注于神经渲染技术，以在元件成本上涨背景下控制主机售价。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《夺宝奇兵：大环》主创谈开发历程：做一款\"少用枪\"的MachineGames作品很难",
+        "url": "https://www.videogameschronicle.com/news/indiana-jones-and-the-great-circle-designer-says-it-was-very-tough-to-make-a-machinegames-title-that-didnt-focus-on-guns/",
+        "date": "2026-11-16",
+        "summary": "《夺宝奇兵：大环》首席设计师Jens Andersson透露，一向擅长射击游戏的MachineGames在打造这款老少皆宜的冒险游戏时颇为吃力，团队通过加入缓慢换弹、可破坏武器等机制引导玩家更多使用近战，该作Metacritic评分达87分。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《夺宝奇兵：大环》主创谈开发历程：做一款\"少用枪\"的MachineGames作品很难",
+          "url": "https://www.videogameschronicle.com/news/indiana-jones-and-the-great-circle-designer-says-it-was-very-tough-to-make-a-machinegames-title-that-didnt-focus-on-guns/",
+          "date": "2026-11-16",
+          "summary": "《夺宝奇兵：大环》首席设计师Jens Andersson透露，一向擅长射击游戏的MachineGames在打造这款老少皆宜的冒险游戏时颇为吃力，团队通过加入缓慢换弹、可破坏武器等机制引导玩家更多使用近战，该作Metacritic评分达87分。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "2027年格莱美最佳游戏配乐提名公布，《007：首次曝光》《金刚狼》等入围",
+        "url": "https://www.videogameschronicle.com/news/this-years-video-game-soundtrack-grammy-nominations-include-bond-star-wars-and-wolverine/",
+        "date": "2026-11-16",
+        "summary": "2027年格莱美奖最佳游戏配乐提名名单公布，《007：首次曝光》《漫威金刚狼》《星球大战：零公司》等五部作品入围，其中四部改编自授权IP。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "2027年格莱美最佳游戏配乐提名公布，《007：首次曝光》《金刚狼》等入围",
+          "url": "https://www.videogameschronicle.com/news/this-years-video-game-soundtrack-grammy-nominations-include-bond-star-wars-and-wolverine/",
+          "date": "2026-11-16",
+          "summary": "2027年格莱美奖最佳游戏配乐提名名单公布，《007：首次曝光》《漫威金刚狼》《星球大战：零公司》等五部作品入围，其中四部改编自授权IP。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Unity推出\"Fellowship\"扶持计划，每年为10支独立团队提供5万美元无偿资助",
+        "url": "https://www.pocketgamer.biz/unity-launches-50000-fellowship-for-indie-game-studios/",
+        "date": "2026-11-16",
+        "summary": "Unity宣布设立\"Unity Fellowship\"计划，面向发行前约一年的独立游戏团队提供5万美元资助，不要求股权或还款，入选团队还可获得专属对接人、发行商资源对接与宣传支持，名单将于2027年3月GDC公布。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Unity推出\"Fellowship\"扶持计划，每年为10支独立团队提供5万美元无偿资助",
+          "url": "https://www.pocketgamer.biz/unity-launches-50000-fellowship-for-indie-game-studios/",
+          "date": "2026-11-16",
+          "summary": "Unity宣布设立\"Unity Fellowship\"计划，面向发行前约一年的独立游戏团队提供5万美元资助，不要求股权或还款，入选团队还可获得专属对接人、发行商资源对接与宣传支持，名单将于2027年3月GDC公布。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "ASGC统计：2022年以来全球至少170家游戏工作室关闭，92%集中在北美与欧洲",
+        "url": "https://www.pocketgamer.biz/asgc-tracks-170-game-studio-closures-since-2022-with-92-in-north-america-and-europe/",
+        "date": "2026-11-16",
+        "summary": "游戏行业互助组织ASGC创始人Amir Satvat披露，其统计的2022年以来工作室关闭数量已达170家，约92%位于北美和欧洲，约39%的关闭工作室此前曾被收购，但该组织强调这不能证明收购是关闭的直接原因。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "ASGC统计：2022年以来全球至少170家游戏工作室关闭，92%集中在北美与欧洲",
+          "url": "https://www.pocketgamer.biz/asgc-tracks-170-game-studio-closures-since-2022-with-92-in-north-america-and-europe/",
+          "date": "2026-11-16",
+          "summary": "游戏行业互助组织ASGC创始人Amir Satvat披露，其统计的2022年以来工作室关闭数量已达170家，约92%位于北美和欧洲，约39%的关闭工作室此前曾被收购，但该组织强调这不能证明收购是关闭的直接原因。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Xbox重组仍在持续：《黑色行动》系列20年老将编剧遭裁员",
+        "url": "https://kotaku.com/activision-treyarch-layoffs-call-of-duty-zombies-craig-houston-2000757439",
+        "date": "2026-11-16",
+        "summary": "Treyarch编剧Craig Houston在领英宣布自己被裁，他曾参与从初代到《黑色行动7》的每一部《黑色行动》系列作品及僵尸模式剧本创作，此次裁员是Xbox仍在持续的重组裁员的一部分。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Xbox重组仍在持续：《黑色行动》系列20年老将编剧遭裁员",
+          "url": "https://kotaku.com/activision-treyarch-layoffs-call-of-duty-zombies-craig-houston-2000757439",
+          "date": "2026-11-16",
+          "summary": "Treyarch编剧Craig Houston在领英宣布自己被裁，他曾参与从初代到《黑色行动7》的每一部《黑色行动》系列作品及僵尸模式剧本创作，此次裁员是Xbox仍在持续的重组裁员的一部分。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据报道：黄仁勋被曝正探索重返NVIDIA CEO职位，团队设\"作战室\"游说董事会",
+        "url": "https://kotaku.com/jesen-huang-reportedly-goes-from-calling-himself-a-piece-of-sht-to-exploring-a-return-to-nvidia-2000757422",
+        "date": "2026-11-16",
+        "summary": "据英国《金融时报》报道，此前因丑闻辞任NVIDIA CEO的黄仁勋目前正探索重返公司，其盟友据称已组建\"作战室\"准备向董事会和股东游说，该消息目前未获NVIDIA官方证实。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据报道：黄仁勋被曝正探索重返NVIDIA CEO职位，团队设\"作战室\"游说董事会",
+          "url": "https://kotaku.com/jesen-huang-reportedly-goes-from-calling-himself-a-piece-of-sht-to-exploring-a-return-to-nvidia-2000757422",
+          "date": "2026-11-16",
+          "summary": "据英国《金融时报》报道，此前因丑闻辞任NVIDIA CEO的黄仁勋目前正探索重返公司，其盟友据称已组建\"作战室\"准备向董事会和股东游说，该消息目前未获NVIDIA官方证实。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "万代南梦宫披露自研引擎SOL-AVES细节：渲染速度\"对格斗游戏至关重要\"",
+        "url": "https://kotaku.com/bandai-namco-game-engine-sol-aves-tekken-fighting-games-2000757390",
+        "date": "2026-11-16",
+        "summary": "万代南梦宫在CEDEC 2026上介绍自研引擎SOL-AVES，该引擎首次用于任天堂《星之卡比 竞速空战》，帮助团队将画面表现从720p/15帧提升至1440p/60帧；公司计划将其推广至RPG等更多品类，以降低对外部引擎的依赖。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "万代南梦宫披露自研引擎SOL-AVES细节：渲染速度\"对格斗游戏至关重要\"",
+          "url": "https://kotaku.com/bandai-namco-game-engine-sol-aves-tekken-fighting-games-2000757390",
+          "date": "2026-11-16",
+          "summary": "万代南梦宫在CEDEC 2026上介绍自研引擎SOL-AVES，该引擎首次用于任天堂《星之卡比 竞速空战》，帮助团队将画面表现从720p/15帧提升至1440p/60帧；公司计划将其推广至RPG等更多品类，以降低对外部引擎的依赖。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "网易《哈利波特：魔法觉醒》官宣停服，12月21日停充值，明年3月关服",
+        "url": "https://www.ithome.com/1/027/738.htm",
+        "date": "2026-11-16",
+        "summary": "网易宣布旗下《哈利波特：魔法觉醒》因版权授权到期，将于12月21日停止充值和新增注册，服务器于2027年3月3日正式关停；据Sensor Tower统计，该作2021年9月上线后两个月内全球流水即超2亿美元。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "网易《哈利波特：魔法觉醒》官宣停服，12月21日停充值，明年3月关服",
+          "url": "https://www.ithome.com/1/027/738.htm",
+          "date": "2026-11-16",
+          "summary": "网易宣布旗下《哈利波特：魔法觉醒》因版权授权到期，将于12月21日停止充值和新增注册，服务器于2027年3月3日正式关停；据Sensor Tower统计，该作2021年9月上线后两个月内全球流水即超2亿美元。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "加拿大9岁男孩充值约2.8万加元遭Roblox拒绝退款",
+        "url": "https://www.ithome.com/1/027/812.htm",
+        "date": "2026-11-16",
+        "summary": "据加拿大CTV News报道，哈利法克斯一家庭发现9岁儿子利用共享Apple Pay账户在暑假期间于游戏内消费约2.8万加元，其他涉及的游戏公司多已同意退款，但Roblox以交易经第三方处理为由拒绝退款。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "加拿大9岁男孩充值约2.8万加元遭Roblox拒绝退款",
+          "url": "https://www.ithome.com/1/027/812.htm",
+          "date": "2026-11-16",
+          "summary": "据加拿大CTV News报道，哈利法克斯一家庭发现9岁儿子利用共享Apple Pay账户在暑假期间于游戏内消费约2.8万加元，其他涉及的游戏公司多已同意退款，但Roblox以交易经第三方处理为由拒绝退款。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "中国战队BLG击败Gen.G 3:1夺得《英雄联盟》S16全球总决赛冠军",
+        "url": "https://www.ithome.com/1/027/258.htm",
+        "date": "2026-11-15",
+        "summary": "LPL战队BLG在决赛中以3:1击败韩国战队Gen.G，夺得队史首个《英雄联盟》全球总决赛冠军，也是LPL赛区自2021年以来首次夺冠；BLG本届赛事连克四支LCK战队（含半决赛淘汰T1），成为首支在单届世界赛中击败所有LCK对手并夺冠的队伍。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "中国战队BLG击败Gen.G 3:1夺得《英雄联盟》S16全球总决赛冠军",
+          "url": "https://www.ithome.com/1/027/258.htm",
+          "date": "2026-11-15",
+          "summary": "LPL战队BLG在决赛中以3:1击败韩国战队Gen.G，夺得队史首个《英雄联盟》全球总决赛冠军，也是LPL赛区自2021年以来首次夺冠；BLG本届赛事连克四支LCK战队（含半决赛淘汰T1），成为首支在单届世界赛中击败所有LCK对手并夺冠的队伍。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "广东省首届电竞粤超总决赛定档11月28-29日深圳南山举行",
+        "url": "https://www.youxituoluo.com/535054.html",
+        "date": "2026-11-16",
+        "summary": "据游戏陀螺报道，广东省电竞粤超总决赛及大湾区电竞嘉年华将于11月28日至29日在深圳南山文化体育中心举行，首日进行《王者荣耀》和《无畏契约》决赛，活动覆盖全省21个城市、总奖池超100万元，面向18岁以上非职业选手开放。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "广东省首届电竞粤超总决赛定档11月28-29日深圳南山举行",
+          "url": "https://www.youxituoluo.com/535054.html",
+          "date": "2026-11-16",
+          "summary": "据游戏陀螺报道，广东省电竞粤超总决赛及大湾区电竞嘉年华将于11月28日至29日在深圳南山文化体育中心举行，首日进行《王者荣耀》和《无畏契约》决赛，活动覆盖全省21个城市、总奖池超100万元，面向18岁以上非职业选手开放。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Nexon母公司NXC将回购并注销约2900亿韩元股份",
+        "url": "https://www.invenglobal.com/articles/28633/nxc-to-buy-back-and-cancel-290-billion-won-worth-of-shareholder-equity",
+        "date": "2026-11-15",
+        "summary": "Nexon集团控股公司NXC披露，将以每股540.4万韩元的价格，从董事柳静贤及其两名子女等股东手中回购约53,662股、总价约2900亿韩元的股份，并于12月注销，该笔场外交易未获韩国资产管理公社参与。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Nexon母公司NXC将回购并注销约2900亿韩元股份",
+          "url": "https://www.invenglobal.com/articles/28633/nxc-to-buy-back-and-cancel-290-billion-won-worth-of-shareholder-equity",
+          "date": "2026-11-15",
+          "summary": "Nexon集团控股公司NXC披露，将以每股540.4万韩元的价格，从董事柳静贤及其两名子女等股东手中回购约53,662股、总价约2900亿韩元的股份，并于12月注销，该笔场外交易未获韩国资产管理公社参与。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Krafton同时聘任前韩国企划财政部官员与三星法务高管",
+        "url": "https://www.invenglobal.com/articles/28645/krafton-hires-former-moef-senior-official-and-samsung-legal-executive",
+        "date": "2026-11-16",
+        "summary": "Krafton宣布聘任曾任企划财政部一级理财官的安相烈（音译）为兼职政策顾问，并任命前三星电子法务副社长金在勋（音译）为法务与对外关系负责人，两项任命同步进行，显示公司正强化政策应对与法务团队。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Krafton同时聘任前韩国企划财政部官员与三星法务高管",
+          "url": "https://www.invenglobal.com/articles/28645/krafton-hires-former-moef-senior-official-and-samsung-legal-executive",
+          "date": "2026-11-16",
+          "summary": "Krafton宣布聘任曾任企划财政部一级理财官的安相烈（音译）为兼职政策顾问，并任命前三星电子法务副社长金在勋（音译）为法务与对外关系负责人，两项任命同步进行，显示公司正强化政策应对与法务团队。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

@@ -1,96 +1,5 @@
 [
  {
-  "title": "更新】Roblox 2026年Q3财报披露AI渗透细节：超80%热门游戏使用AI加速创作，素材上传量翻三倍",
-  "url": "https://gamesbeat.com/roblox-says-more-than-80-of-its-top-100-games-used-ai-to-accelerate-creation/",
-  "date": "2026-10-29",
-  "section": 1,
-  "posted": "2026-11-01"
- },
- {
-  "title": "Roblox在东南亚游戏展披露AI建造工具\"Build\"数据：超50万人试用、7万余款游戏已发布",
-  "url": "https://www.4gamer.net/games/612/G061218/20261101007/",
-  "date": "2026-10-30",
-  "section": 1,
-  "posted": "2026-11-01"
- },
- {
-  "title": "AI游戏工具公司Ramen发布开源自动游玩测试工具Aura Autopilot，支持Unreal、Unity与Godot",
-  "url": "https://gamesbeat.com/ramen-launches-aura-autopilot-an-open-source-autonomous-game-tester/",
-  "date": "2026-10-30",
-  "section": 2,
-  "posted": "2026-11-01"
- },
- {
-  "title": "更新】米哈游《星布谷地》(国际服名Petit Planet)确认12月4日全球免费上线，并将登陆Switch 2",
-  "url": "https://www.gematsu.com/2026/10/petit-planet-launches-december-4",
-  "date": "2026-10-29",
-  "section": 2,
-  "posted": "2026-11-01"
- },
- {
-  "title": "解谜游戏《The Orphaned House》获游戏品类首个\"Proudly Human\"人类制作认证",
-  "url": "https://www.4gamer.net/games/032/G103218/20261031001/",
-  "date": "2026-10-29",
-  "section": 2,
-  "posted": "2026-11-01"
- },
- {
-  "title": "EA马德里办公室遭喷涂「拯救质量效应」涂鸦，联署签名已突破25万",
-  "url": "https://kotaku.com/ea-offices-tagged-with-save-mass-effect-graffiti-2000751962",
-  "date": "2026-10-31",
-  "section": 3,
-  "posted": "2026-11-01"
- },
- {
-  "title": "任天堂突袭推出专题直面会，宫本茂宣布11月1日起为年度「匹奇民日」",
-  "url": "https://kotaku.com/shigeru-miyamoto-declares-november-1st-pikmin-day-in-surprise-nintendo-direct-2000751948",
-  "date": "2026-10-31",
-  "section": 3,
-  "posted": "2026-11-01"
- },
- {
-  "title": "小岛秀夫新作《PHYSINT》东京展览曝光神秘机械原型，外形与《合金装备》机体相近",
-  "url": "https://www.dualshockers.com/kojima-confirms-that-physint-is-in-fact-about-metal-gear/",
-  "date": "2026-10-31",
-  "section": 3,
-  "posted": "2026-11-01"
- },
- {
-  "title": "据报道《Days Gone》开发商Bend Studio新作预计2027年公布，为非服务型第三人称射击游戏",
-  "url": "https://www.dualshockers.com/days-gone-developer-bend-studio-reveal-next-game-2027/",
-  "date": "2026-10-31",
-  "section": 3,
-  "posted": "2026-11-01"
- },
- {
-  "title": "据报道《女神异闻录1》重制版疑似实机画面网络流出，真实性未经官方确认",
-  "url": "https://www.pushsquare.com/news/2026/11/rumour-alleged-persona-1-remake-gameplay-leaks-online",
-  "date": "2026-11-01",
-  "section": 3,
-  "posted": "2026-11-01"
- },
- {
-  "title": "Valve已取消的《传送门》前传原型「F-Stop」相关资料遭泄露",
-  "url": "https://kotaku.com/valves-cancelled-portal-prequel-f-stop-has-leaked-2000752082",
-  "date": "2026-11-01",
-  "section": 3,
-  "posted": "2026-11-01"
- },
- {
-  "title": "VR工作室Resolution Games为XREAL AURA智能眼镜推出新游戏《Holochess》",
-  "url": "https://gamesbeat.com/resolution-games-launches-holochess-alongside-xreal-aura/",
-  "date": "2026-10-31",
-  "section": 3,
-  "posted": "2026-11-01"
- },
- {
-  "title": "众筹掌机Arduview自称全球首款「全透明」掌机，内置约400款游戏",
-  "url": "https://www.videogameschronicle.com/news/the-arduview-is-the-worlds-first-fully-transparent-handheld-including-the-screen/",
-  "date": "2026-10-31",
-  "section": 3,
-  "posted": "2026-11-01"
- },
- {
   "title": "谷歌DeepMind发布实时世界模型Genie 4，首次将游戏开发者列为首批测试对象",
   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
   "date": "2026-10-27",
@@ -1713,5 +1622,145 @@
   "date": "2026-11-11",
   "section": 2,
   "posted": "2026-11-15"
+ },
+ {
+  "title": "百度文心发布 ERNIE 5.5 Flash Preview：专项训练支持游戏开发，适配 Unity、Unreal、Godot 等引擎",
+  "url": "https://www.xinhuanet.com/tech/20261111/183aa161e70b4942b622e10b5e3da605/c.html",
+  "date": "2026-11-11",
+  "section": 1,
+  "posted": "2026-11-16"
+ },
+ {
+  "title": "腾讯总办发文号召\"AI 时代再创业\"，提及游戏团队与混元模型协同设计",
+  "url": "https://www.ithome.com/1/027/509.htm",
+  "date": "2026-11-16",
+  "section": 2,
+  "posted": "2026-11-16"
+ },
+ {
+  "title": "字节跳动火山引擎全面开放 Seedance 2.5 4K 视频生成模型 API",
+  "url": "https://www.ithome.com/1/027/736.htm",
+  "date": "2026-11-16",
+  "section": 2,
+  "posted": "2026-11-16"
+ },
+ {
+  "title": "腾讯混元发布 Hy4 flash：单任务成本降至 Hy4 约 5%，已接入元宝、企业微信等场景",
+  "url": "https://www.ithome.com/1/027/630.htm",
+  "date": "2026-11-16",
+  "section": 2,
+  "posted": "2026-11-16"
+ },
+ {
+  "title": "腾讯混元发布 Hy Realtime 实时语音大模型，支持点歌演唱与工具调用",
+  "url": "https://www.ithome.com/1/026/825.htm",
+  "date": "2026-11-13",
+  "section": 2,
+  "posted": "2026-11-16"
+ },
+ {
+  "title": "触乐：中国小游戏市场上半年收入增长 35%，但买量成本飙升抵消 AI 降本效果",
+  "url": "http://www.chuapp.com/article/291756.html",
+  "date": "2026-11-14",
+  "section": 2,
+  "posted": "2026-11-16"
+ },
+ {
+  "title": "美股保险分销商元保跨界游戏，曝光自研 AI 乙女向游戏《星河与你》",
+  "url": "https://www.youxituoluo.com/535060.html",
+  "date": "2026-11-16",
+  "section": 2,
+  "posted": "2026-11-16"
+ },
+ {
+  "title": "Xbox 高管澄清 Project Helix 定位：\"是能玩 PC 游戏的主机，而非能玩主机游戏的 PC\"",
+  "url": "https://www.videogameschronicle.com/news/xbox-says-project-helix-is-a-console-that-can-play-pc-games-not-a-pc-that-can-play-console-games/",
+  "date": "2026-11-16",
+  "section": 3,
+  "posted": "2026-11-16"
+ },
+ {
+  "title": "《夺宝奇兵：大环》主创谈开发历程：做一款\"少用枪\"的 MachineGames 作品很难",
+  "url": "https://www.videogameschronicle.com/news/indiana-jones-and-the-great-circle-designer-says-it-was-very-tough-to-make-a-machinegames-title-that-didnt-focus-on-guns/",
+  "date": "2026-11-16",
+  "section": 3,
+  "posted": "2026-11-16"
+ },
+ {
+  "title": "2027 年格莱美最佳游戏配乐提名公布，《007：首次曝光》《金刚狼》等入围",
+  "url": "https://www.videogameschronicle.com/news/this-years-video-game-soundtrack-grammy-nominations-include-bond-star-wars-and-wolverine/",
+  "date": "2026-11-16",
+  "section": 3,
+  "posted": "2026-11-16"
+ },
+ {
+  "title": "Unity 推出\"Fellowship\"扶持计划，每年为 10 支独立团队提供 5 万美元无偿资助",
+  "url": "https://www.pocketgamer.biz/unity-launches-50000-fellowship-for-indie-game-studios/",
+  "date": "2026-11-16",
+  "section": 3,
+  "posted": "2026-11-16"
+ },
+ {
+  "title": "ASGC 统计：2022 年以来全球至少 170 家游戏工作室关闭，92% 集中在北美与欧洲",
+  "url": "https://www.pocketgamer.biz/asgc-tracks-170-game-studio-closures-since-2022-with-92-in-north-america-and-europe/",
+  "date": "2026-11-16",
+  "section": 3,
+  "posted": "2026-11-16"
+ },
+ {
+  "title": "Xbox 重组仍在持续：《黑色行动》系列 20 年老将编剧遭裁员",
+  "url": "https://kotaku.com/activision-treyarch-layoffs-call-of-duty-zombies-craig-houston-2000757439",
+  "date": "2026-11-16",
+  "section": 3,
+  "posted": "2026-11-16"
+ },
+ {
+  "title": "据报道：黄仁勋被曝正探索重返 NVIDIA CEO 职位，团队设\"作战室\"游说董事会",
+  "url": "https://kotaku.com/jesen-huang-reportedly-goes-from-calling-himself-a-piece-of-sht-to-exploring-a-return-to-nvidia-2000757422",
+  "date": "2026-11-16",
+  "section": 3,
+  "posted": "2026-11-16"
+ },
+ {
+  "title": "万代南梦宫披露自研引擎 SOL-AVES 细节：渲染速度\"对格斗游戏至关重要\"",
+  "url": "https://kotaku.com/bandai-namco-game-engine-sol-aves-tekken-fighting-games-2000757390",
+  "date": "2026-11-16",
+  "section": 3,
+  "posted": "2026-11-16"
+ },
+ {
+  "title": "网易《哈利波特：魔法觉醒》官宣停服，12 月 21 日停充值，明年 3 月关服",
+  "url": "https://www.ithome.com/1/027/738.htm",
+  "date": "2026-11-16",
+  "section": 3,
+  "posted": "2026-11-16"
+ },
+ {
+  "title": "加拿大 9 岁男孩充值约 2.8 万加元遭 Roblox 拒绝退款",
+  "url": "https://www.ithome.com/1/027/812.htm",
+  "date": "2026-11-16",
+  "section": 3,
+  "posted": "2026-11-16"
+ },
+ {
+  "title": "广东省首届电竞粤超总决赛定档 11 月 28-29 日深圳南山举行",
+  "url": "https://www.youxituoluo.com/535054.html",
+  "date": "2026-11-16",
+  "section": 3,
+  "posted": "2026-11-16"
+ },
+ {
+  "title": "Nexon 母公司 NXC 将回购并注销约 2900 亿韩元股份",
+  "url": "https://www.invenglobal.com/articles/28633/nxc-to-buy-back-and-cancel-290-billion-won-worth-of-shareholder-equity",
+  "date": "2026-11-15",
+  "section": 3,
+  "posted": "2026-11-16"
+ },
+ {
+  "title": "Krafton 同时聘任前韩国企划财政部官员与三星法务高管",
+  "url": "https://www.invenglobal.com/articles/28645/krafton-hires-former-moef-senior-official-and-samsung-legal-executive",
+  "date": "2026-11-16",
+  "section": 3,
+  "posted": "2026-11-16"
  }
 ]

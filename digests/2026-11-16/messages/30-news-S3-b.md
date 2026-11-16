@@ -1,0 +1,6 @@
+- **【万代南梦宫披露自研引擎 SOL-AVES 细节：渲染速度"对格斗游戏至关重要"】**（2026-11-16）— 万代南梦宫披露其自研游戏引擎 SOL-AVES 的技术细节，并表示渲染速度对格斗类游戏体验至关重要。 <https://kotaku.com/bandai-namco-game-engine-sol-aves-tekken-fighting-games-2000757390>
+- **【网易《哈利波特：魔法觉醒》官宣停服，12 月 21 日停充值，明年 3 月关服】**（2026-11-16）— 网易公告旗下手游《哈利波特：魔法觉醒》将停止运营，12 月 21 日起停止充值，2027 年 3 月正式关服。 <https://www.ithome.com/1/027/738.htm>
+- **【加拿大 9 岁男孩充值约 2.8 万加元遭 Roblox 拒绝退款】**（2026-11-16）— 一名加拿大 9 岁男孩在 Roblox 平台充值约 2.8 万加元后申请退款被拒，相关报道引发关注。 <https://www.ithome.com/1/027/812.htm>
+- **【广东省首届电竞粤超总决赛定档 11 月 28-29 日深圳南山举行】**（2026-11-16）— 广东省首届电竞"粤超"联赛总决赛确定于 11 月 28 日至 29 日在深圳南山区举行。 <https://www.youxituoluo.com/535054.html>
+- **【Nexon 母公司 NXC 将回购并注销约 2900 亿韩元股份】**（2026-11-15）— Nexon 母公司 NXC 宣布将回购并注销约 2900 亿韩元（约 2.05 亿美元）的股东权益。 <https://www.invenglobal.com/articles/28633/nxc-to-buy-back-and-cancel-290-billion-won-worth-of-shareholder-equity>
+- **【Krafton 同时聘任前韩国企划财政部官员与三星法务高管】**（2026-11-16）— Krafton 宣布同时聘任一名韩国企划财政部前官员与一名三星法务高管加入公司。 <https://www.invenglobal.com/articles/28645/krafton-hires-former-moef-senior-official-and-samsung-legal-executive>
