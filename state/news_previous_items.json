@@ -1,124 +1,5 @@
 [
  {
-  "title": "谷歌DeepMind发布实时世界模型Genie 4，首次将游戏开发者列为首批测试对象",
-  "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-  "date": "2026-10-27",
-  "section": 1,
-  "posted": "2026-11-02"
- },
- {
-  "title": "NVIDIA发布RTX Spark神经渲染与AI角色技术更新，ACE新模型已用于《PUBG》AI队友公测与《上古卷轴5》AI NPC模组",
-  "url": "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/",
-  "date": "2026-10-27",
-  "section": 1,
-  "posted": "2026-11-02"
- },
- {
-  "title": "Y Combinator Labs与Olam Labs《我的世界》多智能体实验：50个GPT智能体陷入\"官僚化\"生存，对战中屡次击败Claude智能体",
-  "url": "https://labs.ycombinator.com/projects/games/index.html",
-  "date": "2026-11-02",
-  "section": 1,
-  "posted": "2026-11-02"
- },
- {
-  "title": "触乐调查：生成式AI冲击下，中国\"美术外包之城\"成都游戏外包行业两极分化",
-  "url": "https://www.chuapp.com/article/291728.html",
-  "date": "2026-11-02",
-  "section": 1,
-  "posted": "2026-11-02"
- },
- {
-  "title": "Epic认证首位女性Unreal讲师谈AI创作伙伴：\"AI能生成可能性，却无法替代创作意图\"",
-  "url": "https://pocketgamer.biz/sandra-kawar-unreal-ai-creative-partner-pgc-jordan/",
-  "date": "2026-10-30",
-  "section": 2,
-  "posted": "2026-11-02"
- },
- {
-  "title": "更新】网页游戏平台Playgama推出\"AI游戏指数\"：Claude Opus驱动过半新增AI游戏，补充Roblox此前AI渗透数据",
-  "url": "https://pocketgamer.biz/more-than-80-of-robloxs-top-games-now-use-ai-while-playgama-tracks-the-tools-developers-prefer/",
-  "date": "2026-10-30",
-  "section": 2,
-  "posted": "2026-11-02"
- },
- {
-  "title": "更新】独立游戏平台itch.io新游戏页面创建量两个月内近乎翻倍，平台方暗示与Claude等AI编程工具普及有关",
-  "url": "https://gameworldobserver.com/2026/11/02/itch-io-has-seen-a-sharp-increase-in-new-games-perhaps-its-all-thanks-to-ai",
-  "date": "2026-11-02",
-  "section": 2,
-  "posted": "2026-11-02"
- },
- {
-  "title": "网易撤资致项目停摆】《如龙》制作人名越稔洋工作室正式解散",
-  "url": "https://www.videogameschronicle.com/news/nagoshi-studio-officially-closes-after-netease-cuts-funding/",
-  "date": "2026-11-02",
-  "section": 3,
-  "posted": "2026-11-02"
- },
- {
-  "title": "《幻刀百兵：零》PC/PS5首发72小时销量突破400万份",
-  "url": "https://www.gematsu.com/2026/11/phantom-blade-zero-sales-top-four-million-in-72-hours",
-  "date": "2026-11-01",
-  "section": 3,
-  "posted": "2026-11-02"
- },
- {
-  "title": "SEGA街机联网服务ALL.Net与认证系统Aime疑遭未经授权访问紧急停服",
-  "url": "https://www.4gamer.net/games/999/G999905/20261102022/",
-  "date": "2026-11-02",
-  "section": 3,
-  "posted": "2026-11-02"
- },
- {
-  "title": "《宝可梦集换式卡牌Pocket》上线两年：第二年收入约2.34亿美元，同比暴跌68%",
-  "url": "https://www.pocketgamer.biz/pokmon-trading-card-game-pocket-celebrates-second-anniversary/",
-  "date": "2026-11-02",
-  "section": 3,
-  "posted": "2026-11-02"
- },
- {
-  "title": "迪拜多种商品中心联合本地工作室在《堡垒之夜》重建迪拜地标",
-  "url": "https://www.pocketgamer.biz/dmcc-and-wild-unlimited-team-up-to-bring-dubai-landmarks-to-fortnite/",
-  "date": "2026-11-02",
-  "section": 3,
-  "posted": "2026-11-02"
- },
- {
-  "title": "约旦电子竞技联合会与侯赛因商务园签署电竞合作备忘录",
-  "url": "https://www.pocketgamer.biz/jordan-esports-federation-signs-partnership-with-king-hussein-business-park/",
-  "date": "2026-11-02",
-  "section": 3,
-  "posted": "2026-11-02"
- },
- {
-  "title": "GOG谈经典RTS《沙丘2》重制梦：最想做却撞上版权死局",
-  "url": "https://www.videogameschronicle.com/news/classic-pc-strategy-game-dune-2-is-a-holy-grail-re-release-but-its-a-licensing-nightmare-gog-says/",
-  "date": "2026-11-02",
-  "section": 3,
-  "posted": "2026-11-02"
- },
- {
-  "title": "须田刚一确认特拉维斯将回归，预告《任侠血战：热血高校》20周年企划",
-  "url": "https://www.videogameschronicle.com/news/travis-touchdown-will-definitely-be-back-suda51-is-planning-something-for-no-more-heroes-20th-anniversary-next-year/",
-  "date": "2026-11-02",
-  "section": 3,
-  "posted": "2026-11-02"
- },
- {
-  "title": "独立后首度发声：须田刚一谈Grasshopper新方向，考虑\"类Roblox\"快速发行模式",
-  "url": "https://www.4gamer.net/games/916/G091623/20261027003/",
-  "date": "2026-11-02",
-  "section": 3,
-  "posted": "2026-11-02"
- },
- {
-  "title": "据报道：英雄联盟选手Zeus拒绝韩华人寿续约报价，或将试水自由市场",
-  "url": "https://www.invenglobal.com/articles/28018/zeus-choi-woo-je-fails-to-reach-agreement-on-contract-renewal-with-hanwha-life-prior-to-worlds",
-  "date": "2026-11-02",
-  "section": 3,
-  "posted": "2026-11-02"
- },
- {
   "title": "月之暗面Kimi发布游戏开发与创意工作解决方案，AI可直接操作Unity、虚幻引擎等专业工具",
   "url": "https://www.youxituoluo.com/535021.html",
   "date": "2026-11-02",
@@ -1762,5 +1643,124 @@
   "date": "2026-11-16",
   "section": 3,
   "posted": "2026-11-16"
+ },
+ {
+  "title": "说明：经严格验证并剔除与此前简报重复的事件后，本部分仅找到 3 条符合条件的新闻（低于 5 条的目标）。已对\"欧洲游戏从业者反生成式AI声明\"等多条候选线索（UE5.9 MegaJam预览版、GDC行业生成式AI调查、《巫师3》AI配音复刻、Krafton Q3财报及AI抄袭调查报道等）进行核查，但确认均为此前简报已报道过的事件，故予以剔除；经多轮补充检索（NVIDIA/AMD/Qualcomm硬件、EA/育碧/动视/任天堂/史克威尔艾尼克斯/世嘉/万代南梦宫、Steam/Epic平台政策、游戏AI领域融资并购、SAG-AFTRA等）均未找到额外的、真正属于过去7天且未被重复报道的游戏+AI深度新闻。",
+  "url": "https://kotaku.com/video-game-union-manifesto-calls-on-consumers-to-support-games-made-without-genai-2000757423",
+  "date": "2026-11-16",
+  "section": 1,
+  "posted": "2026-11-17"
+ },
+ {
+  "title": "独立游戏《Big Walk》因使用AI引发IGF评委联署抗议，开发商公开说明使用细节",
+  "url": "https://kotaku.com/house-igf-awards-big-walk-gen-ai-llm-untitled-goose-game-2000755488",
+  "date": "2026-11-10",
+  "section": 1,
+  "posted": "2026-11-17"
+ },
+ {
+  "title": "米哈游公布通用视觉-语言-动作游玩基础模型Gamer，可自主通关《崩坏：星穹铁道》",
+  "url": "https://www.ithome.com/1/028/503.htm",
+  "date": "2026-11-17",
+  "section": 1,
+  "posted": "2026-11-17"
+ },
+ {
+  "title": "说明：经严格验证并剔除与此前简报重复的事件（Xbox CEO 25周年致辞、腾讯\"鹅次元\"内测动态、索尼QSSR扩展至更多游戏、Layer's Motion Designer Agent、Outfit7 GEO优化、Anorak融资、Krafton Q3财报等均已在此前日期报道过）后，本部分仅找到 5 条符合条件、过去7天内且未重复的新闻（远低于 20 条目标）。已用多轮额外检索尝试覆盖 NVIDIA/AMD/Qualcomm 硬件、西方主要发行商（EA、育碧、动视暴雪）、日厂（任天堂、史克威尔艾尼克斯、Capcom、世嘉）、Steam/Epic 平台AI政策、游戏AI领域融资并购及SAG-AFTRA等角度，但均未找到额外的、真正属于窗口期内且未被重复报道的候选新闻；本周游戏+AI新闻周期本身相对平淡，大量候选线索与近几日已发布简报重叠。",
+  "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/",
+  "date": "2026-11-13",
+  "section": 2,
+  "posted": "2026-11-17"
+ },
+ {
+  "title": "MIGS与PGC蒙特利尔峰会AI圆桌：\"AI转移价值而非创造价值\"",
+  "url": "https://www.pocketgamer.biz/key-takeaways-from-migs-and-pgc-montreal/",
+  "date": "2026-11-13",
+  "section": 2,
+  "posted": "2026-11-17"
+ },
+ {
+  "title": "美国一教育类游戏开发项目因学生提交全AI制作作品而被取消",
+  "url": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/",
+  "date": "2026-11-10",
+  "section": 2,
+  "posted": "2026-11-17"
+ },
+ {
+  "title": "Take-Two CEO泽尔尼克痛批Anthropic、OpenAI：一边靠知识产权赚钱一边放任用户克隆游戏",
+  "url": "https://www.ithome.com/1/028/287.htm",
+  "date": "2026-11-17",
+  "section": 2,
+  "posted": "2026-11-17"
+ },
+ {
+  "title": "百度文心5.5适配主流游戏引擎，三七互娱2D美术资产超八成由AI生成",
+  "url": "https://stock.10jqka.com.cn/20261114/c681821079.shtml",
+  "date": "2026-11-14",
+  "section": 2,
+  "posted": "2026-11-17"
+ },
+ {
+  "title": "索尼在英国近20亿英镑PlayStation定价诉讼中胜诉",
+  "url": "https://www.ithome.com/1/028/544.htm",
+  "date": "2026-11-17",
+  "section": 3,
+  "posted": "2026-11-17"
+ },
+ {
+  "title": "IEM北京将连续三年落地，ESL与北京电竞协会签约2027、2028赛事",
+  "url": "https://www.ithome.com/1/028/521.htm",
+  "date": "2026-11-17",
+  "section": 3,
+  "posted": "2026-11-17"
+ },
+ {
+  "title": "索尼紧急推送PS5固件14.23，意在封堵GTA 6破解移植漏洞",
+  "url": "https://www.ithome.com/1/028/500.htm",
+  "date": "2026-11-17",
+  "section": 3,
+  "posted": "2026-11-17"
+ },
+ {
+  "title": "Steam新一周销量榜：《欧卡2》折扣夺全球榜首，国区《影之刃零》连续霸榜",
+  "url": "https://www.ithome.com/1/028/540.htm",
+  "date": "2026-11-17",
+  "section": 3,
+  "posted": "2026-11-17"
+ },
+ {
+  "title": "任天堂宫本茂成为D.I.C.E.传奇奖首位得主",
+  "url": "https://www.ithome.com/1/028/517.htm",
+  "date": "2026-11-17",
+  "section": 3,
+  "posted": "2026-11-17"
+ },
+ {
+  "title": "Circana：《塞尔达传说：时之笛》重制版成美国2026年最畅销实体游戏",
+  "url": "https://www.ithome.com/1/028/284.htm",
+  "date": "2026-11-17",
+  "section": 3,
+  "posted": "2026-11-17"
+ },
+ {
+  "title": "Metacritic已下架GTA 6虚假用户评分",
+  "url": "https://www.videogameschronicle.com/news/metacritic-has-already-had-to-remove-fake-gta-6-user-reviews/",
+  "date": "2026-11-17",
+  "section": 3,
+  "posted": "2026-11-17"
+ },
+ {
+  "title": "《喷射战士：突袭小队》免费试玩版登陆Switch 2",
+  "url": "https://www.videogameschronicle.com/news/a-free-demo-for-splatoon-raiders-is-now-available-on-switch-2/",
+  "date": "2026-11-17",
+  "section": 3,
+  "posted": "2026-11-17"
+ },
+ {
+  "title": "《NBA 2K27》将推出罪恶都市主题版本，与GTA 6联动",
+  "url": "https://www.ithome.com/1/028/226.htm",
+  "date": "2026-11-17",
+  "section": 3,
+  "posted": "2026-11-17"
  }
 ]

@@ -1,0 +1,737 @@
+{
+  "as_of": "2026-11-17",
+  "cutoff": "2026-11-10",
+  "window_days": 7,
+  "summary": {
+    "input_items": 26,
+    "denied_source": 0,
+    "in_window": 26,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 24,
+    "duplicate_clusters": 2,
+    "section1_count": 9,
+    "section2_count": 15,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": true,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 12,
+    "previously_covered_count": 12
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Epic发布Unreal Engine 5.9 MegaJam预览版，首次以AI代理工作流为主导构建引擎",
+        "url": "https://dev.epicgames.com/documentation/unreal-engine/unreal-engine-5-9-release-notes",
+        "date": "2026-11-10",
+        "summary": "Epic Games发布Unreal Engine 5.9 MegaJam预览版，重点改进Unreal MCP、Unreal Assistant和全新实验性功能Unreal Canvas，用于AI辅助内容创作与工作流。Epic称这是该公司首个主要依靠AI代理（agentic workflow）构建的引擎版本。",
+        "section": 1,
+        "facts": [
+          "预览版于2026年11月9日/10日发布（官方发布说明标注最后更新为11/9/26，日本媒体Automaton与GameBusiness.jp报道发布于11月10日），是为11月12日至15日举行的「2026 Epic AI MegaJam」游戏创作比赛准备的版本",
+          "新增Unreal Canvas（实验性功能）：一个人与AI代理共同创作的共享工作区，可通过文本提示、参考图或场景内容生成图像、视频与3D网格资源",
+          "Unreal MCP（Model Context Protocol）现在随编辑器启动自动运行，扩展了渲染与几何工具集，并与版本控制系统Lore集成，支持AI代理自动管理源码变更",
+          "Unreal Assistant升级，支持在编辑器内调用Claude Code、Codex、Cursor、OpenCode等外部AI编码代理，并可设置代理自主操作的权限范围",
+          "Epic开发副总裁表示，此预览版的大部分浏览器相关代码由AI编写，工程师负责审查与测试；由于准备时间仅一周左右，QA测试时间比以往更短，官方建议开发者在项目副本中试用",
+          "Unreal Engine 6已于2026年6月公布，Epic表示未来工具将支持包括Claude、Gemini等多种大模型"
+        ],
+        "background": "Epic近年持续将生成式AI整合进Unreal Engine的内容生产与代码开发流程，此前已在UE5.8中引入基础AI辅助功能。2026 Epic AI MegaJam（总奖金6.5万美元）的临近，促使Epic在原计划之外加速推出5.9预览版，以便开发者能在比赛期间使用其AI工具链，这也使该版本成为Epic官方承认的\"首个主要由AI代理工作流构建\"的引擎发布。",
+        "results": "目前该版本仍为实验性预览（Preview 1），官方提示生成的3D网格可能需要人工清理，且部分功能尚不稳定，正式的5.9版本计划于2027年推出；社区反应两极，部分开发者担忧AI深度介入引擎开发可能影响稳定性与代码质量。"
+      },
+      "members": [
+        {
+          "title": "Epic发布Unreal Engine 5.9 MegaJam预览版，首次以AI代理工作流为主导构建引擎",
+          "url": "https://dev.epicgames.com/documentation/unreal-engine/unreal-engine-5-9-release-notes",
+          "date": "2026-11-10",
+          "summary": "Epic Games发布Unreal Engine 5.9 MegaJam预览版，重点改进Unreal MCP、Unreal Assistant和全新实验性功能Unreal Canvas，用于AI辅助内容创作与工作流。Epic称这是该公司首个主要依靠AI代理（agentic workflow）构建的引擎版本。",
+          "section": 1,
+          "facts": [
+            "预览版于2026年11月9日/10日发布（官方发布说明标注最后更新为11/9/26，日本媒体Automaton与GameBusiness.jp报道发布于11月10日），是为11月12日至15日举行的「2026 Epic AI MegaJam」游戏创作比赛准备的版本",
+            "新增Unreal Canvas（实验性功能）：一个人与AI代理共同创作的共享工作区，可通过文本提示、参考图或场景内容生成图像、视频与3D网格资源",
+            "Unreal MCP（Model Context Protocol）现在随编辑器启动自动运行，扩展了渲染与几何工具集，并与版本控制系统Lore集成，支持AI代理自动管理源码变更",
+            "Unreal Assistant升级，支持在编辑器内调用Claude Code、Codex、Cursor、OpenCode等外部AI编码代理，并可设置代理自主操作的权限范围",
+            "Epic开发副总裁表示，此预览版的大部分浏览器相关代码由AI编写，工程师负责审查与测试；由于准备时间仅一周左右，QA测试时间比以往更短，官方建议开发者在项目副本中试用",
+            "Unreal Engine 6已于2026年6月公布，Epic表示未来工具将支持包括Claude、Gemini等多种大模型"
+          ],
+          "background": "Epic近年持续将生成式AI整合进Unreal Engine的内容生产与代码开发流程，此前已在UE5.8中引入基础AI辅助功能。2026 Epic AI MegaJam（总奖金6.5万美元）的临近，促使Epic在原计划之外加速推出5.9预览版，以便开发者能在比赛期间使用其AI工具链，这也使该版本成为Epic官方承认的\"首个主要由AI代理工作流构建\"的引擎发布。",
+          "results": "目前该版本仍为实验性预览（Preview 1），官方提示生成的3D网格可能需要人工清理，且部分功能尚不稳定，正式的5.9版本计划于2027年推出；社区反应两极，部分开发者担忧AI深度介入引擎开发可能影响稳定性与代码质量。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "欧洲六国游戏工会联合发布声明，呼吁玩家支持不使用生成式AI制作的游戏",
+        "url": "https://kotaku.com/video-game-union-manifesto-calls-on-consumers-to-support-games-made-without-genai-2000757423",
+        "date": "2026-11-16",
+        "summary": "来自英国、爱尔兰、法国、西班牙、德国和意大利的六个游戏行业工会联合发布题为《On Generative AI Usage in the Games Industry》的声明，呼吁消费者支持不使用生成式AI制作的游戏，并在网络上公开表达对游戏中使用AI的不满。",
+        "section": 1,
+        "facts": [
+          "联合声明的六个工会分别为：英国IWGB、爱尔兰GWUI、法国STJV、西班牙CSVI、德国GDRT、意大利FIOM-CGIL",
+          "声明于2026年11月16日发布，恰逢在英国曼彻斯特举行的第二届欧洲游戏从业者工会峰会（第一届于2025年11月举行）",
+          "声明呼吁消费者\"支持不使用生成式AI制作的游戏\"，并\"公开表达对游戏中使用生成式AI的反感\"",
+          "声明主张开发者应自主决定是否、何时及如何使用生成式AI，而非由管理层强制推行",
+          "声明列举的主要担忧包括：生成式AI造成的严重环境代价、行业初级岗位数量明显减少、模型训练涉嫌使用未经授权的第三方数据，以及部分发行商被指垄断AI相关知识并转卖给企业以削减成本、为裁员提供理由",
+          "文章援引同期另一案例作为背景：独立游戏《Big Walk》开发商House House此前承认游戏代码中\"低于0.1%\"由大语言模型辅助生成"
+        ],
+        "background": "2026年以来，生成式AI在游戏行业的应用争议持续升温：从独立游戏奖评委联署拒绝为使用生成式AI的游戏投票，到多家大型发行商（如EA、Krafton、HoYoverse等）公开宣布大规模投入AI，游戏从业者普遍担忧AI会压缩初级岗位、助长裁员并冲击创作者权益。此次六国工会的联合声明是2025年11月首届欧洲游戏工会峰会后的延续行动，试图将劳工诉求扩展至消费者层面，借助玩家的购买与舆论压力对行业施压。",
+        "results": "声明目前仅为倡议性质，尚未产生具体政策或商业影响；但其联合多国工会公开呼吁玩家抵制生成式AI游戏的做法，被视为游戏劳工运动在AI议题上采取的最新、最广泛的集体行动之一，后续能否影响发行商决策或引发更多地区工会跟进仍待观察。"
+      },
+      "members": [
+        {
+          "title": "欧洲六国游戏工会联合发布声明，呼吁玩家支持不使用生成式AI制作的游戏",
+          "url": "https://kotaku.com/video-game-union-manifesto-calls-on-consumers-to-support-games-made-without-genai-2000757423",
+          "date": "2026-11-16",
+          "summary": "来自英国、爱尔兰、法国、西班牙、德国和意大利的六个游戏行业工会联合发布题为《On Generative AI Usage in the Games Industry》的声明，呼吁消费者支持不使用生成式AI制作的游戏，并在网络上公开表达对游戏中使用AI的不满。",
+          "section": 1,
+          "facts": [
+            "联合声明的六个工会分别为：英国IWGB、爱尔兰GWUI、法国STJV、西班牙CSVI、德国GDRT、意大利FIOM-CGIL",
+            "声明于2026年11月16日发布，恰逢在英国曼彻斯特举行的第二届欧洲游戏从业者工会峰会（第一届于2025年11月举行）",
+            "声明呼吁消费者\"支持不使用生成式AI制作的游戏\"，并\"公开表达对游戏中使用生成式AI的反感\"",
+            "声明主张开发者应自主决定是否、何时及如何使用生成式AI，而非由管理层强制推行",
+            "声明列举的主要担忧包括：生成式AI造成的严重环境代价、行业初级岗位数量明显减少、模型训练涉嫌使用未经授权的第三方数据，以及部分发行商被指垄断AI相关知识并转卖给企业以削减成本、为裁员提供理由",
+            "文章援引同期另一案例作为背景：独立游戏《Big Walk》开发商House House此前承认游戏代码中\"低于0.1%\"由大语言模型辅助生成"
+          ],
+          "background": "2026年以来，生成式AI在游戏行业的应用争议持续升温：从独立游戏奖评委联署拒绝为使用生成式AI的游戏投票，到多家大型发行商（如EA、Krafton、HoYoverse等）公开宣布大规模投入AI，游戏从业者普遍担忧AI会压缩初级岗位、助长裁员并冲击创作者权益。此次六国工会的联合声明是2025年11月首届欧洲游戏工会峰会后的延续行动，试图将劳工诉求扩展至消费者层面，借助玩家的购买与舆论压力对行业施压。",
+          "results": "声明目前仅为倡议性质，尚未产生具体政策或商业影响；但其联合多国工会公开呼吁玩家抵制生成式AI游戏的做法，被视为游戏劳工运动在AI议题上采取的最新、最广泛的集体行动之一，后续能否影响发行商决策或引发更多地区工会跟进仍待观察。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "独立游戏《Big Walk》因使用AI引发IGF评委联署抗议，开发商公开说明使用细节",
+        "url": "https://kotaku.com/house-igf-awards-big-walk-gen-ai-llm-untitled-goose-game-2000755488",
+        "date": "2026-11-10",
+        "summary": "《Untitled Goose Game》开发商House House推出的新作《Big Walk》入围独立游戏节（IGF）奖项后，因被发现在开发过程中使用了大语言模型，遭19名IGF评委联署声明抵制；House House随后公开说明AI使用情况，称相关代码占比\"低于0.1%\"。",
+        "section": 1,
+        "facts": [
+          "House House确认在《Big Walk》开发末期使用大语言模型，主要用于排查漏洞和技术问题，部分AI回复片段被直接用作代码起点，估计相关代码量\"远低于0.1%\"",
+          "一个具体案例：团队自有工程师和一名Unity工程师都未能解决某个卡顿漏洞后，团队求助聊天机器人解决",
+          "19名IGF评委于本文发布前的周一联署声明，表示将拒绝为\"以任何形式使用生成式AI\"的游戏投票，并认为编程属于创作范畴，AI辅助编程不应获得豁免；声明同时反对AI模型未经授权训练创作者作品",
+          "House House表示未在Steam页面披露此事，原因是Steam的AI披露问卷并未询问代码或聊天机器人的使用情况",
+          "House House声明在此之外没有在其他环节使用生成式AI",
+          "本文发布当日（11月10日），Kotaku另发表一篇讨论文章《A Big Talk About Big Walk's AI Fallout》，对该事件的行业反应进行综述"
+        ],
+        "background": "独立游戏节（IGF）作为全球最具影响力的独立游戏奖项之一，其评委在AI问题上的立场具有较强的行业风向标意义。本次事件反映出游戏行业内部关于\"AI辅助编程是否等同于生成式AI创作内容\"的分歧：评委方坚持编程属于创作行为、不应有例外，而开发者则强调其使用范围极其有限、仅用于排错而非内容生成。该事件也暴露出现有平台（如Steam）AI披露机制未覆盖代码层面AI辅助的空白。",
+        "results": "事件尚未有官方裁决结果（如是否取消《Big Walk》的IGF提名资格），但已引发游戏开发者、评委和媒体关于\"AI辅助编程边界\"的广泛讨论，成为近期游戏行业AI伦理争议的代表性案例之一，也被多家游戏媒体（Kotaku、PC Gamer等）持续跟踪报道。"
+      },
+      "members": [
+        {
+          "title": "独立游戏《Big Walk》因使用AI引发IGF评委联署抗议，开发商公开说明使用细节",
+          "url": "https://kotaku.com/house-igf-awards-big-walk-gen-ai-llm-untitled-goose-game-2000755488",
+          "date": "2026-11-10",
+          "summary": "《Untitled Goose Game》开发商House House推出的新作《Big Walk》入围独立游戏节（IGF）奖项后，因被发现在开发过程中使用了大语言模型，遭19名IGF评委联署声明抵制；House House随后公开说明AI使用情况，称相关代码占比\"低于0.1%\"。",
+          "section": 1,
+          "facts": [
+            "House House确认在《Big Walk》开发末期使用大语言模型，主要用于排查漏洞和技术问题，部分AI回复片段被直接用作代码起点，估计相关代码量\"远低于0.1%\"",
+            "一个具体案例：团队自有工程师和一名Unity工程师都未能解决某个卡顿漏洞后，团队求助聊天机器人解决",
+            "19名IGF评委于本文发布前的周一联署声明，表示将拒绝为\"以任何形式使用生成式AI\"的游戏投票，并认为编程属于创作范畴，AI辅助编程不应获得豁免；声明同时反对AI模型未经授权训练创作者作品",
+            "House House表示未在Steam页面披露此事，原因是Steam的AI披露问卷并未询问代码或聊天机器人的使用情况",
+            "House House声明在此之外没有在其他环节使用生成式AI",
+            "本文发布当日（11月10日），Kotaku另发表一篇讨论文章《A Big Talk About Big Walk's AI Fallout》，对该事件的行业反应进行综述"
+          ],
+          "background": "独立游戏节（IGF）作为全球最具影响力的独立游戏奖项之一，其评委在AI问题上的立场具有较强的行业风向标意义。本次事件反映出游戏行业内部关于\"AI辅助编程是否等同于生成式AI创作内容\"的分歧：评委方坚持编程属于创作行为、不应有例外，而开发者则强调其使用范围极其有限、仅用于排错而非内容生成。该事件也暴露出现有平台（如Steam）AI披露机制未覆盖代码层面AI辅助的空白。",
+          "results": "事件尚未有官方裁决结果（如是否取消《Big Walk》的IGF提名资格），但已引发游戏开发者、评委和媒体关于\"AI辅助编程边界\"的广泛讨论，成为近期游戏行业AI伦理争议的代表性案例之一，也被多家游戏媒体（Kotaku、PC Gamer等）持续跟踪报道。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "GDC行业调查：约40%游戏从业者使用生成式AI，但半数以上认为其对行业影响负面",
+        "url": "https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-",
+        "date": "2026-11-12",
+        "summary": "GDC Festival of Gaming发布的《State of the Game Industry》调查显示，约40%的游戏行业从业者在工作中使用生成式AI，其中73%的使用者主要将其用于\"调研与头脑风暴\"而非编码；但调查同时显示超过半数受访者认为AI对行业有负面影响，且裁员与岗位流失现象持续。",
+        "section": 1,
+        "facts": [
+          "调查覆盖超过2600名游戏行业从业者",
+          "约40%受访者表示在工作中使用生成式AI（PC Gamer援引报告数据）",
+          "在使用AI的从业者中，73%将\"调研/头脑风暴\"列为首要用途，高于编码用途；其他用途依次为数据分析与总结（62%）、代码生成与调试（56%）、游戏原型制作（37%）、概念美术与视觉构思（22%），仅6%用于制作面向玩家的最终内容（受访者可多选）",
+          "半数以上受访者认为生成式AI对游戏行业的整体影响是负面的",
+          "调查显示过去两年中，超过三分之一的游戏开发者曾经历裁员，部分受访者在此期间多次被裁；报告新增的\"劳工\"板块涉及加班、高压工作（crunch）与裁员对从业者心理健康与职业安全感的影响",
+          "多数受访者表示创作性内容和直接面向玩家的内容仍基本不使用AI生成"
+        ],
+        "background": "GDC《State of the Game Industry》是游戏行业历史最长、样本量最大的从业者年度调查之一，长期被用作衡量行业技术采纳与情绪变化的权威风向标。随着过去两年行业持续裁员潮与AI工具加速普及同时发生，从业者对AI的态度呈现\"工具采用率上升但整体情绪负面\"的矛盾局面，成为2026年游戏行业最受关注的结构性议题之一。",
+        "results": "报告数据被PC Gamer、Kotaku、Game Developer等多家媒体广泛引用报道，进一步印证了\"AI采用率上升但从业者信任度未提升\"的行业现状；报告建议企业在推广AI工具时需正视从业者对裁员与岗位安全的担忧，但目前尚无证据显示这一调查结果已促使任何公司调整具体AI政策。"
+      },
+      "members": [
+        {
+          "title": "GDC行业调查：约40%游戏从业者使用生成式AI，但半数以上认为其对行业影响负面",
+          "url": "https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-",
+          "date": "2026-11-12",
+          "summary": "GDC Festival of Gaming发布的《State of the Game Industry》调查显示，约40%的游戏行业从业者在工作中使用生成式AI，其中73%的使用者主要将其用于\"调研与头脑风暴\"而非编码；但调查同时显示超过半数受访者认为AI对行业有负面影响，且裁员与岗位流失现象持续。",
+          "section": 1,
+          "facts": [
+            "调查覆盖超过2600名游戏行业从业者",
+            "约40%受访者表示在工作中使用生成式AI（PC Gamer援引报告数据）",
+            "在使用AI的从业者中，73%将\"调研/头脑风暴\"列为首要用途，高于编码用途；其他用途依次为数据分析与总结（62%）、代码生成与调试（56%）、游戏原型制作（37%）、概念美术与视觉构思（22%），仅6%用于制作面向玩家的最终内容（受访者可多选）",
+            "半数以上受访者认为生成式AI对游戏行业的整体影响是负面的",
+            "调查显示过去两年中，超过三分之一的游戏开发者曾经历裁员，部分受访者在此期间多次被裁；报告新增的\"劳工\"板块涉及加班、高压工作（crunch）与裁员对从业者心理健康与职业安全感的影响",
+            "多数受访者表示创作性内容和直接面向玩家的内容仍基本不使用AI生成"
+          ],
+          "background": "GDC《State of the Game Industry》是游戏行业历史最长、样本量最大的从业者年度调查之一，长期被用作衡量行业技术采纳与情绪变化的权威风向标。随着过去两年行业持续裁员潮与AI工具加速普及同时发生，从业者对AI的态度呈现\"工具采用率上升但整体情绪负面\"的矛盾局面，成为2026年游戏行业最受关注的结构性议题之一。",
+          "results": "报告数据被PC Gamer、Kotaku、Game Developer等多家媒体广泛引用报道，进一步印证了\"AI采用率上升但从业者信任度未提升\"的行业现状；报告建议企业在推广AI工具时需正视从业者对裁员与岗位安全的担忧，但目前尚无证据显示这一调查结果已促使任何公司调整具体AI政策。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《巫师3》用AI技术复原配音演员中风后的嗓音，为新资料片录制对白",
+        "url": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
+        "date": "2026-11-13",
+        "summary": "CD Projekt Red在《巫师3：狂猎》新资料片《Songs of the Past》的波兰语配音中，使用AI语音工具Respeecher帮助因中风导致嗓音变化的原版杰洛特配音演员Jacek Rozenek，使其新录台词能够匹配十余年前的原始嗓音；该演员本人同意使用并照常获得录音报酬。",
+        "section": 1,
+        "facts": [
+          "涉及角色：《巫师3：狂猎》波兰语版主角杰洛特（Geralt of Rivia）的原配音演员Jacek Rozenek",
+          "使用技术：Respeecher，一款CD Projekt Red此前已使用过的AI语音生成工具，此次基于Rozenek早期的《巫师》系列录音数据进行训练",
+          "起因：Rozenek因中风导致嗓音变得更粗哑、音调更低，与原角色嗓音存在明显差异",
+          "用途：新资料片《Songs of the Past》的新增台词需要通过AI处理，使其听感与十余年前的原始录音保持一致",
+          "伦理与劳工安排：Rozenek本人同意使用该技术，并作为配音演员正常参与新内容录制并获得报酬，未被AI替代其工作",
+          "报道发布于2026年11月13日"
+        ],
+        "background": "游戏行业在生成式AI配音应用上长期存在争议焦点——AI技术被担忧可能被用于绕过配音演员获取授权、压低报酬甚至完全替代人类演员，SAG-AFTRA等演员工会此前已就AI配音问题与游戏公司展开过长期劳资博弈并达成协议。CD Projekt Red此次的应用场景则呈现出AI技术的另一面：在配音演员因健康原因无法恢复原有嗓音状态时，用AI辅助\"修复\"而非替代其表演，演员本人全程知情同意并获得正常报酬。",
+        "results": "该案例被游戏媒体（Game Developer等）作为生成式AI在配音领域\"负责任使用\"的正面示例报道，与此前多起AI配音争议（如未经同意复刻已故或在世演员声音）形成对比；目前未见配音演员工会或行业组织对此案例提出异议。"
+      },
+      "members": [
+        {
+          "title": "《巫师3》用AI技术复原配音演员中风后的嗓音，为新资料片录制对白",
+          "url": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
+          "date": "2026-11-13",
+          "summary": "CD Projekt Red在《巫师3：狂猎》新资料片《Songs of the Past》的波兰语配音中，使用AI语音工具Respeecher帮助因中风导致嗓音变化的原版杰洛特配音演员Jacek Rozenek，使其新录台词能够匹配十余年前的原始嗓音；该演员本人同意使用并照常获得录音报酬。",
+          "section": 1,
+          "facts": [
+            "涉及角色：《巫师3：狂猎》波兰语版主角杰洛特（Geralt of Rivia）的原配音演员Jacek Rozenek",
+            "使用技术：Respeecher，一款CD Projekt Red此前已使用过的AI语音生成工具，此次基于Rozenek早期的《巫师》系列录音数据进行训练",
+            "起因：Rozenek因中风导致嗓音变得更粗哑、音调更低，与原角色嗓音存在明显差异",
+            "用途：新资料片《Songs of the Past》的新增台词需要通过AI处理，使其听感与十余年前的原始录音保持一致",
+            "伦理与劳工安排：Rozenek本人同意使用该技术，并作为配音演员正常参与新内容录制并获得报酬，未被AI替代其工作",
+            "报道发布于2026年11月13日"
+          ],
+          "background": "游戏行业在生成式AI配音应用上长期存在争议焦点——AI技术被担忧可能被用于绕过配音演员获取授权、压低报酬甚至完全替代人类演员，SAG-AFTRA等演员工会此前已就AI配音问题与游戏公司展开过长期劳资博弈并达成协议。CD Projekt Red此次的应用场景则呈现出AI技术的另一面：在配音演员因健康原因无法恢复原有嗓音状态时，用AI辅助\"修复\"而非替代其表演，演员本人全程知情同意并获得正常报酬。",
+          "results": "该案例被游戏媒体（Game Developer等）作为生成式AI在配音领域\"负责任使用\"的正面示例报道，与此前多起AI配音争议（如未经同意复刻已故或在世演员声音）形成对比；目前未见配音演员工会或行业组织对此案例提出异议。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "腾讯推出AI游戏陪伴应用\"Eciyuan\"，可观看玩家游玩过程并语音互动",
+        "url": "https://80.lv/articles/tencent-launches-ai-gaming-companions-that-watch-you-play-offer-advice/",
+        "date": "2026-11-12",
+        "summary": "腾讯在中国推出桌面应用Eciyuan（又称Goose Dimension）公开测试版，提供四名可供选择的AI虚拟伙伴，能够观看玩家游玩画面、结合游戏内情况给出建议，并通过语音与玩家聊天；目前仅限中国地区测试，暂无全球上线计划。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "腾讯推出AI游戏陪伴应用\"Eciyuan\"，可观看玩家游玩过程并语音互动",
+          "url": "https://80.lv/articles/tencent-launches-ai-gaming-companions-that-watch-you-play-offer-advice/",
+          "date": "2026-11-12",
+          "summary": "腾讯在中国推出桌面应用Eciyuan（又称Goose Dimension）公开测试版，提供四名可供选择的AI虚拟伙伴，能够观看玩家游玩画面、结合游戏内情况给出建议，并通过语音与玩家聊天；目前仅限中国地区测试，暂无全球上线计划。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "索尼QSSR AI超分辨率技术扩展至《蜘蛛侠2》等更多PS5游戏",
+        "url": "https://kotaku.com/spider-man-2-and-a-bunch-of-other-great-games-are-about-to-look-even-better-on-base-ps5-2000756594",
+        "date": "2026-11-13",
+        "summary": "索尼与AMD合作开发的Project Amethyst项目衍生出的AI超分辨率技术QSSR（Quick Spectral Super Resolution，PS5 Pro所用PSSR的轻量版）将新增支持《漫威蜘蛛侠2》《Control Resonant》《The Finals》《Arc Raiders》《无人深空》《Hell Let Loose: Vietnam》等游戏，陆续于2026年内登陆基础版PS5；Remedy、Embark等开发商表示该技术能提升画面稳定性与清晰度。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "索尼QSSR AI超分辨率技术扩展至《蜘蛛侠2》等更多PS5游戏",
+          "url": "https://kotaku.com/spider-man-2-and-a-bunch-of-other-great-games-are-about-to-look-even-better-on-base-ps5-2000756594",
+          "date": "2026-11-13",
+          "summary": "索尼与AMD合作开发的Project Amethyst项目衍生出的AI超分辨率技术QSSR（Quick Spectral Super Resolution，PS5 Pro所用PSSR的轻量版）将新增支持《漫威蜘蛛侠2》《Control Resonant》《The Finals》《Arc Raiders》《无人深空》《Hell Let Loose: Vietnam》等游戏，陆续于2026年内登陆基础版PS5；Remedy、Embark等开发商表示该技术能提升画面稳定性与清晰度。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Xbox CEO在Xbox诞生25周年文章中暗示AI将是行业解方",
+        "url": "https://news.xbox.com/en-us/2026/11/12/25-years-of-xbox/",
+        "date": "2026-11-12",
+        "summary": "Xbox CEO Asha Sharma在纪念Xbox诞生25周年的官方博文中表示，3A游戏开发成本与风险已变得过高，\"太多创意从未变成游戏\"，并预言\"未来一个人将能拥有过去需要举国之力才能具备的能力\"；Kotaku等媒体解读此言暗指生成式AI，尽管她本人未直接使用\"人工智能\"一词。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "Xbox CEO在Xbox诞生25周年文章中暗示AI将是行业解方",
+          "url": "https://news.xbox.com/en-us/2026/11/12/25-years-of-xbox/",
+          "date": "2026-11-12",
+          "summary": "Xbox CEO Asha Sharma在纪念Xbox诞生25周年的官方博文中表示，3A游戏开发成本与风险已变得过高，\"太多创意从未变成游戏\"，并预言\"未来一个人将能拥有过去需要举国之力才能具备的能力\"；Kotaku等媒体解读此言暗指生成式AI，尽管她本人未直接使用\"人工智能\"一词。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《黑色沙漠》开发商Pearl Abyss宣布扩大AI在整体开发流程中的应用",
+        "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/",
+        "date": "2026-11-13",
+        "summary": "《黑色沙漠》与《暗黑沙漠：荣耀（Crimson Desert）》开发商Pearl Abyss表示，将把AI应用扩展至\"整个开发流程\"，不顾部分玩家对游戏中使用AI技术的反感情绪，显示韩国大型游戏厂商持续加码AI投入的行业趋势。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "《黑色沙漠》开发商Pearl Abyss宣布扩大AI在整体开发流程中的应用",
+          "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/",
+          "date": "2026-11-13",
+          "summary": "《黑色沙漠》与《暗黑沙漠：荣耀（Crimson Desert）》开发商Pearl Abyss表示，将把AI应用扩展至\"整个开发流程\"，不顾部分玩家对游戏中使用AI技术的反感情绪，显示韩国大型游戏厂商持续加码AI投入的行业趋势。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "美国一教育类游戏开发项目因学生提交全AI制作作品而被取消",
+        "url": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/",
+        "date": "2026-11-10",
+        "summary": "美国一个教育性游戏开发项目因学生大量提交完全由生成式AI制作的游戏而被取消，组织方表示生成式AI的普及使得\"越来越难判断哪些内容是学生自己完成的\"，反映AI工具普及对教育类编程/游戏开发项目评估体系造成的冲击。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "美国一教育类游戏开发项目因学生提交全AI制作作品而被取消",
+          "url": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/",
+          "date": "2026-11-10",
+          "summary": "美国一个教育性游戏开发项目因学生大量提交完全由生成式AI制作的游戏而被取消，组织方表示生成式AI的普及使得\"越来越难判断哪些内容是学生自己完成的\"，反映AI工具普及对教育类编程/游戏开发项目评估体系造成的冲击。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "AI创意工具公司Layer推出\"Motion Designer Agent\"，聊天式生成游戏广告视频",
+        "url": "https://www.pocketgamer.biz/layer-launches-motion-designer-agent-game-studios-can-now-create-campaign-ready-ua-videos-just-by-chatting/",
+        "date": "2026-11-11",
+        "summary": "面向游戏厂商的AI创意制作平台Layer于11月2日上线\"Motion Designer Agent\"，用户只需用对话描述需求即可自动完成广告脚本、分镜、素材、配音、音乐、动画与成片剪辑；Small Giant Games、Zynga、Socialpoint等厂商已在使用该工具制作买量广告视频与预告片。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "AI创意工具公司Layer推出\"Motion Designer Agent\"，聊天式生成游戏广告视频",
+          "url": "https://www.pocketgamer.biz/layer-launches-motion-designer-agent-game-studios-can-now-create-campaign-ready-ua-videos-just-by-chatting/",
+          "date": "2026-11-11",
+          "summary": "面向游戏厂商的AI创意制作平台Layer于11月2日上线\"Motion Designer Agent\"，用户只需用对话描述需求即可自动完成广告脚本、分镜、素材、配音、音乐、动画与成片剪辑；Small Giant Games、Zynga、Socialpoint等厂商已在使用该工具制作买量广告视频与预告片。",
+          "section": 2
+        },
+        {
+          "title": "AI营销工具Layer推出Motion Designer Agent，对话式生成买量视频广告",
+          "url": "https://www.pocketgamer.biz/layer-launches-motion-designer-agent-game-studios-can-now-create-campaign-ready-ua-videos-just-by-chatting/",
+          "date": "2026-11-11",
+          "summary": "游戏工作室AI创意生产平台Layer推出Motion Designer Agent，用户通过对话描述需求即可由AI完成脚本撰写、分镜规划、素材采集、配音配乐及成片剪辑，单个视频制作耗时约15-30分钟，Small Giant Games、Zynga、Socialpoint等工作室已在使用。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《我的汤姆猫》开发商Outfit7通过AI搜索优化（GEO）将AI引荐流量提升357%",
+        "url": "https://www.pocketgamer.biz/ai-is-changing-discoverability-how-talking-tom-boosted-ai-referral-traffic-by-357/",
+        "date": "2026-11-12",
+        "summary": "《我的汤姆猫》系列开发商Outfit7披露，2025年10月发现自家游戏在AI聊天工具的间接提问中\"几乎没有可见度\"，随后组建跨部门团队优化\"生成式引擎优化（GEO）\"；经过半年优化，其在50个目标提示词中的出现率从接近零升至90%，网站AI引荐流量增长357%，凸显AI聊天工具正成为游戏发现渠道的新战场。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "《我的汤姆猫》开发商Outfit7通过AI搜索优化（GEO）将AI引荐流量提升357%",
+          "url": "https://www.pocketgamer.biz/ai-is-changing-discoverability-how-talking-tom-boosted-ai-referral-traffic-by-357/",
+          "date": "2026-11-12",
+          "summary": "《我的汤姆猫》系列开发商Outfit7披露，2025年10月发现自家游戏在AI聊天工具的间接提问中\"几乎没有可见度\"，随后组建跨部门团队优化\"生成式引擎优化（GEO）\"；经过半年优化，其在50个目标提示词中的出现率从接近零升至90%，网站AI引荐流量增长357%，凸显AI聊天工具正成为游戏发现渠道的新战场。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "MIGS与PGC蒙特利尔峰会AI圆桌：\"AI转移价值而非创造价值\"",
+        "url": "https://www.pocketgamer.biz/key-takeaways-from-migs-and-pgc-montreal/",
+        "date": "2026-11-13",
+        "summary": "在蒙特利尔国际游戏峰会（MIGS）与PGC Summit Montreal上，业内人士指出\"AI转移价值而非创造价值\"，速度提升不代表能降低对资深人才的需求；据Steam数据，标注使用AI的游戏约占新发行游戏的40%，但仅获得约13%的评论量，反映玩家对AI游戏质量的普遍警惕。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "MIGS与PGC蒙特利尔峰会AI圆桌：\"AI转移价值而非创造价值\"",
+          "url": "https://www.pocketgamer.biz/key-takeaways-from-migs-and-pgc-montreal/",
+          "date": "2026-11-13",
+          "summary": "在蒙特利尔国际游戏峰会（MIGS）与PGC Summit Montreal上，业内人士指出\"AI转移价值而非创造价值\"，速度提升不代表能降低对资深人才的需求；据Steam数据，标注使用AI的游戏约占新发行游戏的40%，但仅获得约13%的评论量，反映玩家对AI游戏质量的普遍警惕。",
+          "section": 2
+        },
+        {
+          "title": "PGC蒙特利尔与MIGS峰会：AI不直接创造价值，中国市场需本地化验证",
+          "url": "https://www.pocketgamer.biz/key-takeaways-from-migs-and-pgc-montreal/",
+          "date": "2026-11-13",
+          "summary": "在PG Connects蒙特利尔峰会与MIGS大会上，游戏并购顾问Rhys Dekle指出AI降低制作成本但不直接提升工作室估值，买家更看重IP、社群与数据等\"护城河\"；Steam数据显示评论数低于10条的游戏AI披露率（47%）远高于评论数超1000条的游戏（14%），显示玩家对AI游戏仍持怀疑态度。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "生成式视频游戏初创公司Anorak获Supercell等投资500万美元种子轮融资",
+        "url": "https://mobilegamer.biz/generative-video-startup-anorak-raises-5m-from-supercell-play-ventures-and-more/",
+        "date": "2026-11-11",
+        "summary": "由《Top Drives》开发商Hutch核心团队创办的生成式互动视频初创公司Anorak完成500万美元Pre-seed轮融资，由Play Ventures与Backed VC领投，Supercell、MTG及Zynga联合创始人Justin Waldron等参投，计划2027年初推出首个可玩内容形式与创作者平台，专注于服务难以支撑传统游戏开发成本的小众社群。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "生成式视频游戏初创公司Anorak获Supercell等投资500万美元种子轮融资",
+          "url": "https://mobilegamer.biz/generative-video-startup-anorak-raises-5m-from-supercell-play-ventures-and-more/",
+          "date": "2026-11-11",
+          "summary": "由《Top Drives》开发商Hutch核心团队创办的生成式互动视频初创公司Anorak完成500万美元Pre-seed轮融资，由Play Ventures与Backed VC领投，Supercell、MTG及Zynga联合创始人Justin Waldron等参投，计划2027年初推出首个可玩内容形式与创作者平台，专注于服务难以支撑传统游戏开发成本的小众社群。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Krafton公布2026年第三季度财报并首发自研大模型Raon-1 mini Preview",
+        "url": "https://www.invenglobal.com/articles/28397/krafton-preparing-largest-ever-content-for-pubg-10th-anniversary-in-2027",
+        "date": "2026-11-10",
+        "summary": "《PUBG》发行商Krafton在11月10日的财报电话会上公布2026年第三季度营收9714亿韩元（同比+11.6%），营业利润2250亿韩元（同比-35.5%），并首次公布完全自研、从零构建的大语言模型Raon的首款产品Raon-1 mini Preview。",
+        "section": 1,
+        "facts": [
+          "第三季度营收9714亿韩元（约合7.26亿美元），同比增长11.6%，但环比下降24.7%；营业利润2250亿韩元，同比下降35.5%，主要因PC端收入下滑及ADK并购后运营费用同比大增43.0%",
+          "公司出现净亏损684亿韩元，主要由汇兑相关非经营性损失导致；但2026年前三季度营收与营业利润均创历史新高，同比分别增长51%和14%",
+          "Raon是Krafton完全自研、从零开始训练的大语言模型，首款产品Raon-1 mini Preview已开放体验，据称在同级别韩国本土模型中多数基准测试表现位居第一梯队",
+          "CEO表示公司内部AI整体业务战略正在形成，将在后续时间点正式公布；管理层承认投资者对AI投资回报周期较长存在担忧，公司将优先推进能较快产生收入的举措",
+          "公司计划推出更大规模的Raon-1模型及全双工语音模型，目标是优化韩语场景表现并降低推理成本",
+          "2026年度股东回报计划总额917.2亿韩元（约6.862亿美元），为该回购计划2023年启动以来年度最高金额"
+        ],
+        "background": "Krafton此前已宣布转型为\"AI-first\"公司，并在2025年10月启动70美元/70亿韩元级别的GPU集群投资；此次财报是该战略下首次正式展示自研大模型成果，也是亚洲头部游戏公司在被NVIDIA、OpenAI等海外模型主导的市场中推进AI自主可控能力的代表性案例。",
+        "results": "Raon-1 mini Preview已开放预览测试，公司计划据反馈推进正式版发布；此前酝酿多时的\"AI整体战略\"仍未正式公布，市场将持续关注Krafton能否把自研模型能力转化为游戏内AI功能（如计划中的PUBG Ally AI队友技术）及新的收入来源。"
+      },
+      "members": [
+        {
+          "title": "Krafton公布2026年第三季度财报并首发自研大模型Raon-1 mini Preview",
+          "url": "https://www.invenglobal.com/articles/28397/krafton-preparing-largest-ever-content-for-pubg-10th-anniversary-in-2027",
+          "date": "2026-11-10",
+          "summary": "《PUBG》发行商Krafton在11月10日的财报电话会上公布2026年第三季度营收9714亿韩元（同比+11.6%），营业利润2250亿韩元（同比-35.5%），并首次公布完全自研、从零构建的大语言模型Raon的首款产品Raon-1 mini Preview。",
+          "section": 1,
+          "facts": [
+            "第三季度营收9714亿韩元（约合7.26亿美元），同比增长11.6%，但环比下降24.7%；营业利润2250亿韩元，同比下降35.5%，主要因PC端收入下滑及ADK并购后运营费用同比大增43.0%",
+            "公司出现净亏损684亿韩元，主要由汇兑相关非经营性损失导致；但2026年前三季度营收与营业利润均创历史新高，同比分别增长51%和14%",
+            "Raon是Krafton完全自研、从零开始训练的大语言模型，首款产品Raon-1 mini Preview已开放体验，据称在同级别韩国本土模型中多数基准测试表现位居第一梯队",
+            "CEO表示公司内部AI整体业务战略正在形成，将在后续时间点正式公布；管理层承认投资者对AI投资回报周期较长存在担忧，公司将优先推进能较快产生收入的举措",
+            "公司计划推出更大规模的Raon-1模型及全双工语音模型，目标是优化韩语场景表现并降低推理成本",
+            "2026年度股东回报计划总额917.2亿韩元（约6.862亿美元），为该回购计划2023年启动以来年度最高金额"
+          ],
+          "background": "Krafton此前已宣布转型为\"AI-first\"公司，并在2025年10月启动70美元/70亿韩元级别的GPU集群投资；此次财报是该战略下首次正式展示自研大模型成果，也是亚洲头部游戏公司在被NVIDIA、OpenAI等海外模型主导的市场中推进AI自主可控能力的代表性案例。",
+          "results": "Raon-1 mini Preview已开放预览测试，公司计划据反馈推进正式版发布；此前酝酿多时的\"AI整体战略\"仍未正式公布，市场将持续关注Krafton能否把自研模型能力转化为游戏内AI功能（如计划中的PUBG Ally AI队友技术）及新的收入来源。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "GDC《2026年11月游戏行业现状》调查：四成从业者已用生成式AI，逾半数认为其影响负面",
+        "url": "https://www.gamingonlinux.com/2026/11/gdc-november-2026-survey-shows-40-percent-of-developers-using-generative-ai/",
+        "date": "2026-11-13",
+        "summary": "游戏开发者大会（GDC）发布2026年11月版《游戏行业现状》调查报告，覆盖69个国家超过2600名游戏行业从业者，显示生成式AI使用率与从业者对AI负面评价同步攀升，裁员与职业焦虑问题依旧严峻。",
+        "section": 1,
+        "facts": [
+          "调查覆盖69个国家2600余名游戏行业从业者；40%的受访者表示会在工作中使用生成式AI，高于去年的36%；美国以外地区使用率从37%升至44%，美国本土从36%升至38%",
+          "45岁以上从业者使用率为54%（同比提升8个百分点）；男性受访者使用率45%，女性为33%；使用率最高的岗位是业务运营（63%）、市场与公关（51%）、编程（48%）",
+          "27%的3A（AAA）从业者表示被公司\"鼓励或施压\"使用生成式AI；62%的游戏开发教育者允许、鼓励或要求学生在课程作业中使用生成式AI",
+          "据GameDeveloper.com对同一调查的补充披露，使用生成式AI的从业者中，73%主要用于调研与头脑风暴，62%用于数据分析与摘要，56%用于代码生成与调试，37%用于游戏原型制作，仅22%用于概念美术构思，只有6%用于制作将直接呈现给玩家的内容",
+          "34%的受访者在过去两年内被裁员，其中17%曾被裁两次；54%的被裁员工表示目前仍处失业状态；51%的受访者对自身行业前景表示强烈担忧"
+        ],
+        "background": "这是GDC State of the Game Industry系列调查的最新一期，延续了该系列此前几期对裁员潮、生成式AI争议和从业者情绪的持续追踪，反映出全球游戏行业在生成式AI快速渗透的同时，从业者群体的不信任和就业不安全感仍在加深，成为AI与游戏产业劳资关系的重要风向标。",
+        "results": "报告以具体数据证实AI使用率与岗位、年龄、地区的分化趋势，并指出从业者主要将生成式AI用于调研、文档与代码辅助而非直接面向玩家的内容生产；相关数据已被GamesIndustry、GameDeveloper、PC Gamer等多家行业媒体引用讨论，成为年末行业AI政策与工会维权讨论的重要依据。"
+      },
+      "members": [
+        {
+          "title": "GDC《2026年11月游戏行业现状》调查：四成从业者已用生成式AI，逾半数认为其影响负面",
+          "url": "https://www.gamingonlinux.com/2026/11/gdc-november-2026-survey-shows-40-percent-of-developers-using-generative-ai/",
+          "date": "2026-11-13",
+          "summary": "游戏开发者大会（GDC）发布2026年11月版《游戏行业现状》调查报告，覆盖69个国家超过2600名游戏行业从业者，显示生成式AI使用率与从业者对AI负面评价同步攀升，裁员与职业焦虑问题依旧严峻。",
+          "section": 1,
+          "facts": [
+            "调查覆盖69个国家2600余名游戏行业从业者；40%的受访者表示会在工作中使用生成式AI，高于去年的36%；美国以外地区使用率从37%升至44%，美国本土从36%升至38%",
+            "45岁以上从业者使用率为54%（同比提升8个百分点）；男性受访者使用率45%，女性为33%；使用率最高的岗位是业务运营（63%）、市场与公关（51%）、编程（48%）",
+            "27%的3A（AAA）从业者表示被公司\"鼓励或施压\"使用生成式AI；62%的游戏开发教育者允许、鼓励或要求学生在课程作业中使用生成式AI",
+            "据GameDeveloper.com对同一调查的补充披露，使用生成式AI的从业者中，73%主要用于调研与头脑风暴，62%用于数据分析与摘要，56%用于代码生成与调试，37%用于游戏原型制作，仅22%用于概念美术构思，只有6%用于制作将直接呈现给玩家的内容",
+            "34%的受访者在过去两年内被裁员，其中17%曾被裁两次；54%的被裁员工表示目前仍处失业状态；51%的受访者对自身行业前景表示强烈担忧"
+          ],
+          "background": "这是GDC State of the Game Industry系列调查的最新一期，延续了该系列此前几期对裁员潮、生成式AI争议和从业者情绪的持续追踪，反映出全球游戏行业在生成式AI快速渗透的同时，从业者群体的不信任和就业不安全感仍在加深，成为AI与游戏产业劳资关系的重要风向标。",
+          "results": "报告以具体数据证实AI使用率与岗位、年龄、地区的分化趋势，并指出从业者主要将生成式AI用于调研、文档与代码辅助而非直接面向玩家的内容生产；相关数据已被GamesIndustry、GameDeveloper、PC Gamer等多家行业媒体引用讨论，成为年末行业AI政策与工会维权讨论的重要依据。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "调查报道：AI让爆款独立游戏一周内被\"扒皮\"抄袭，维权几乎无法可用",
+        "url": "https://www.chuapp.com/article/291752.html",
+        "date": "2026-11-12",
+        "summary": "游戏媒体触乐（ChuApp）深度调查显示，借助ChatGPT、Claude（包括Claude Code与Opus 5.5）等AI编程工具，抄袭者可在数小时至数天内通过拆包逆向或仅凭预告片\"氛围编程\"（Vibe Coding）复刻爆款独立游戏，国产游戏《翡翠刮刮刮》等案例显示维权流程漫长且难以追责。",
+        "section": 1,
+        "facts": [
+          "国产独立游戏《翡翠刮刮刮》（原名《赌石刮刮乐》）demo于2026年5月16日上线游戏节平台，约4天内即有高度相似的抄袭作品出现在抖音，此后同类作品又出现在Steam，而原作当时仍未定发行日期",
+          "抄袭手法分两类：一是直接拆包游戏安装包后用AI逆向重建近乎相同的版本；二是仅凭预告片或试玩视频，用\"Vibe Coding\"（向AI描述需求、让其直接写代码）重建核心玩法",
+          "开发者反映，AI提取游戏模型资产约需10分钟，完整一次两小时左右的拆解复刻会话token成本约55-60美元；重建一个Unity或Godot项目约需2小时，大部分时间用于测试，而一个成熟项目若由大型工作室制作，可能需要70-80人、9-10个月，AI加持下一人团队仅需数周即可完成类似工作量",
+          "2026年3月，Unity插件开发者Freya Holmér发布俄罗斯方块风格demo后数小时内评论区即出现抄袭作品；《Escape the Walls》预告片发布7余小时后即有Roblox抄袭版本上线",
+          "2026年10月Steam新品节期间，7100余款参展游戏中超过41%披露使用了AI辅助开发，28%为完全由AI生成",
+          "涉案抄袭发行方之一被认定为广州绿光网络有限公司，注册资本仅1万元人民币、员工3人；维权方反映，平台要求的软件著作权登记约需一个月，部分抄袭方甚至比原作更快拿到登记（原作申请次日即有抄袭方获得登记），下架申诉流程通常需约两周且举证要求高，抄袭方常在被投诉后迅速改版规避检测",
+          "Anthropic被曝已调整Claude底层代码以限制用户利用其复刻特定已有游戏，但开发者反映该限制容易被绕过且造成连带问题；Anthropic技术人员Adi Ozmani回应称利用Claude侵犯知识产权违反其使用政策，但原创游戏、同类型游戏及基于自有设计资产制作的游戏仍应可行"
+        ],
+        "background": "随着生成式AI编程工具能力快速提升，游戏开发的技术门槛被大幅拉低，独立开发者的创意和执行速度优势正被AI赋能的抄袭者迅速侵蚀；由于游戏玩法本身在多数司法辖区难以获得版权保护，而平台下架、著作权登记等维权流程又严重滞后于AI抄袭速度，整个独立游戏生态的创新激励机制面临系统性冲击，是当前AI与游戏产业交叉领域最紧迫的治理难题之一。",
+        "results": "《翡翠刮刮刮》开发团队\"失眠游戏工作室\"已向抄袭方发出律师函并考虑启动国内法律诉讼，但受限于诉讼成本与赔偿执行难度，维权进展有限；案例反映出Steam、抖音、Roblox、itch.io等平台（itch.io已开始下架AI\"劣质游戏\"）在应对AI抄袭上普遍滞后，行业呼吁平台与法律制度加快适配AI时代的知识产权保护机制。"
+      },
+      "members": [
+        {
+          "title": "调查报道：AI让爆款独立游戏一周内被\"扒皮\"抄袭，维权几乎无法可用",
+          "url": "https://www.chuapp.com/article/291752.html",
+          "date": "2026-11-12",
+          "summary": "游戏媒体触乐（ChuApp）深度调查显示，借助ChatGPT、Claude（包括Claude Code与Opus 5.5）等AI编程工具，抄袭者可在数小时至数天内通过拆包逆向或仅凭预告片\"氛围编程\"（Vibe Coding）复刻爆款独立游戏，国产游戏《翡翠刮刮刮》等案例显示维权流程漫长且难以追责。",
+          "section": 1,
+          "facts": [
+            "国产独立游戏《翡翠刮刮刮》（原名《赌石刮刮乐》）demo于2026年5月16日上线游戏节平台，约4天内即有高度相似的抄袭作品出现在抖音，此后同类作品又出现在Steam，而原作当时仍未定发行日期",
+            "抄袭手法分两类：一是直接拆包游戏安装包后用AI逆向重建近乎相同的版本；二是仅凭预告片或试玩视频，用\"Vibe Coding\"（向AI描述需求、让其直接写代码）重建核心玩法",
+            "开发者反映，AI提取游戏模型资产约需10分钟，完整一次两小时左右的拆解复刻会话token成本约55-60美元；重建一个Unity或Godot项目约需2小时，大部分时间用于测试，而一个成熟项目若由大型工作室制作，可能需要70-80人、9-10个月，AI加持下一人团队仅需数周即可完成类似工作量",
+            "2026年3月，Unity插件开发者Freya Holmér发布俄罗斯方块风格demo后数小时内评论区即出现抄袭作品；《Escape the Walls》预告片发布7余小时后即有Roblox抄袭版本上线",
+            "2026年10月Steam新品节期间，7100余款参展游戏中超过41%披露使用了AI辅助开发，28%为完全由AI生成",
+            "涉案抄袭发行方之一被认定为广州绿光网络有限公司，注册资本仅1万元人民币、员工3人；维权方反映，平台要求的软件著作权登记约需一个月，部分抄袭方甚至比原作更快拿到登记（原作申请次日即有抄袭方获得登记），下架申诉流程通常需约两周且举证要求高，抄袭方常在被投诉后迅速改版规避检测",
+            "Anthropic被曝已调整Claude底层代码以限制用户利用其复刻特定已有游戏，但开发者反映该限制容易被绕过且造成连带问题；Anthropic技术人员Adi Ozmani回应称利用Claude侵犯知识产权违反其使用政策，但原创游戏、同类型游戏及基于自有设计资产制作的游戏仍应可行"
+          ],
+          "background": "随着生成式AI编程工具能力快速提升，游戏开发的技术门槛被大幅拉低，独立开发者的创意和执行速度优势正被AI赋能的抄袭者迅速侵蚀；由于游戏玩法本身在多数司法辖区难以获得版权保护，而平台下架、著作权登记等维权流程又严重滞后于AI抄袭速度，整个独立游戏生态的创新激励机制面临系统性冲击，是当前AI与游戏产业交叉领域最紧迫的治理难题之一。",
+          "results": "《翡翠刮刮刮》开发团队\"失眠游戏工作室\"已向抄袭方发出律师函并考虑启动国内法律诉讼，但受限于诉讼成本与赔偿执行难度，维权进展有限；案例反映出Steam、抖音、Roblox、itch.io等平台（itch.io已开始下架AI\"劣质游戏\"）在应对AI抄袭上普遍滞后，行业呼吁平台与法律制度加快适配AI时代的知识产权保护机制。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "米哈游公布通用视觉语言动作基础模型Gamer，可自主通关《崩坏：星穹铁道》",
+        "url": "https://www.ithome.com/1/028/503.htm",
+        "date": "2026-11-17",
+        "summary": "米哈游《崩坏》系列AI研发团队公布通用视觉语言动作（VLA）基础模型Gamer，仅通过屏幕画面即可模拟人类操作键鼠自主游玩2D/3D游戏，在《崩坏：星穹铁道》主线任务、场景探索和解谜挑战中进行了演示。",
+        "section": 1,
+        "facts": [
+          "Gamer以5Hz频率读取屏幕画面作为输入，不读取游戏内部数据、不调用游戏专用API，输出等效30Hz的原生键盘状态与鼠标移动指令，模拟人类纯视觉操作方式",
+          "模型训练使用超过10000小时跨游戏键鼠操作轨迹数据，采用持续预训练、稀疏思维指令微调及时序感知强化学习等技术路线",
+          "团队自研推理引擎\"Streaming-vLLM\"，在NVIDIA H200硬件上将端到端请求延迟从1306毫秒压缩至65.12毫秒",
+          "经强化学习微调的版本Gamer-RL在40个未见过的小游戏任务上平均成功率达到49.7%，优于未微调的通用版本",
+          "出于数据安全考虑，团队仅开源了预训练早期阶段使用的通用文件，未公开《崩坏：星穹铁道》相关训练数据及训练后的模型权重，并明确禁止将该模型用于作弊、未授权访问、漏洞利用或破坏游戏公平性"
+        ],
+        "background": "作为中国头部游戏公司之一，米哈游近年持续加码AI研发投入（此前宣布未来三年AI领域投入规模最高达1000亿元人民币），Gamer是其AI团队继10月开源GameScaling键鼠操作模型后又一项通用游戏智能体研究成果，显示国产大厂正积极探索能自主玩游戏的通用智能体技术在游戏测试、无障碍辅助及人机交互研究等场景的应用潜力。",
+        "results": "团队将该项目定位为面向交互环境通用智能体的学术研究，而非商业化产品，未发布可直接使用的完整模型权重；该成果验证了纯视觉输入、无需读取游戏内部状态的通用游玩智能体路线的可行性，为游戏行业自动化测试与无障碍辅助技术提供了新的研究方向参考。"
+      },
+      "members": [
+        {
+          "title": "米哈游公布通用视觉语言动作基础模型Gamer，可自主通关《崩坏：星穹铁道》",
+          "url": "https://www.ithome.com/1/028/503.htm",
+          "date": "2026-11-17",
+          "summary": "米哈游《崩坏》系列AI研发团队公布通用视觉语言动作（VLA）基础模型Gamer，仅通过屏幕画面即可模拟人类操作键鼠自主游玩2D/3D游戏，在《崩坏：星穹铁道》主线任务、场景探索和解谜挑战中进行了演示。",
+          "section": 1,
+          "facts": [
+            "Gamer以5Hz频率读取屏幕画面作为输入，不读取游戏内部数据、不调用游戏专用API，输出等效30Hz的原生键盘状态与鼠标移动指令，模拟人类纯视觉操作方式",
+            "模型训练使用超过10000小时跨游戏键鼠操作轨迹数据，采用持续预训练、稀疏思维指令微调及时序感知强化学习等技术路线",
+            "团队自研推理引擎\"Streaming-vLLM\"，在NVIDIA H200硬件上将端到端请求延迟从1306毫秒压缩至65.12毫秒",
+            "经强化学习微调的版本Gamer-RL在40个未见过的小游戏任务上平均成功率达到49.7%，优于未微调的通用版本",
+            "出于数据安全考虑，团队仅开源了预训练早期阶段使用的通用文件，未公开《崩坏：星穹铁道》相关训练数据及训练后的模型权重，并明确禁止将该模型用于作弊、未授权访问、漏洞利用或破坏游戏公平性"
+          ],
+          "background": "作为中国头部游戏公司之一，米哈游近年持续加码AI研发投入（此前宣布未来三年AI领域投入规模最高达1000亿元人民币），Gamer是其AI团队继10月开源GameScaling键鼠操作模型后又一项通用游戏智能体研究成果，显示国产大厂正积极探索能自主玩游戏的通用智能体技术在游戏测试、无障碍辅助及人机交互研究等场景的应用潜力。",
+          "results": "团队将该项目定位为面向交互环境通用智能体的学术研究，而非商业化产品，未发布可直接使用的完整模型权重；该成果验证了纯视觉输入、无需读取游戏内部状态的通用游玩智能体路线的可行性，为游戏行业自动化测试与无障碍辅助技术提供了新的研究方向参考。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Take-Two CEO泽尔尼克痛批Anthropic、OpenAI：一边靠知识产权赚钱一边放任用户克隆游戏",
+        "url": "https://www.ithome.com/1/028/287.htm",
+        "date": "2026-11-17",
+        "summary": "《GTA 6》发行商Take-Two CEO Strauss Zelnick在接受IGN采访时表示，所有公司都应保护知识产权，并直指Anthropic和OpenAI本身依靠知识产权盈利，却放任用户用AI逆向工程、克隆其他公司的游戏，\"未免有些讽刺\"。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "Take-Two CEO泽尔尼克痛批Anthropic、OpenAI：一边靠知识产权赚钱一边放任用户克隆游戏",
+          "url": "https://www.ithome.com/1/028/287.htm",
+          "date": "2026-11-17",
+          "summary": "《GTA 6》发行商Take-Two CEO Strauss Zelnick在接受IGN采访时表示，所有公司都应保护知识产权，并直指Anthropic和OpenAI本身依靠知识产权盈利，却放任用户用AI逆向工程、克隆其他公司的游戏，\"未免有些讽刺\"。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "欧洲六国游戏工会联合发布生成式AI使用宣言，呼吁玩家抵制AI游戏",
+        "url": "https://www.ithome.com/1/028/341.htm",
+        "date": "2026-11-17",
+        "summary": "英国、爱尔兰、法国、西班牙、德国、意大利六国游戏行业工会（IWGB、GWUI、STJV、CSVI、GDRT、FIOM-CGIL）联合发布《游戏行业生成式AI使用宣言》，呼吁玩家用购买行为支持非AI制作的游戏，并强调是否、何时及如何使用生成式AI应由从业者自主决定。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "欧洲六国游戏工会联合发布生成式AI使用宣言，呼吁玩家抵制AI游戏",
+          "url": "https://www.ithome.com/1/028/341.htm",
+          "date": "2026-11-17",
+          "summary": "英国、爱尔兰、法国、西班牙、德国、意大利六国游戏行业工会（IWGB、GWUI、STJV、CSVI、GDRT、FIOM-CGIL）联合发布《游戏行业生成式AI使用宣言》，呼吁玩家用购买行为支持非AI制作的游戏，并强调是否、何时及如何使用生成式AI应由从业者自主决定。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "AI互动生成视频创业公司Anorak获500万美元种子前融资",
+        "url": "https://www.pocketgamer.biz/anorak-raises-5m-in-pre-seed-funding-led-by-backed-vc-and-play-ventures/",
+        "date": "2026-11-12",
+        "summary": "总部位于伦敦和成都、专注于实时生成式互动视频游戏的创业公司Anorak完成500万美元种子前轮融资，由Backed VC与Play Ventures联合领投，Supercell与MTG参投；公司由Hutch联合创始人Shaun Rutland创立，计划2027年初开放创作者平台。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "AI互动生成视频创业公司Anorak获500万美元种子前融资",
+          "url": "https://www.pocketgamer.biz/anorak-raises-5m-in-pre-seed-funding-led-by-backed-vc-and-play-ventures/",
+          "date": "2026-11-12",
+          "summary": "总部位于伦敦和成都、专注于实时生成式互动视频游戏的创业公司Anorak完成500万美元种子前轮融资，由Backed VC与Play Ventures联合领投，Supercell与MTG参投；公司由Hutch联合创始人Shaun Rutland创立，计划2027年初开放创作者平台。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "国产派对游戏《我带过的最差一届》登顶Steam新品节，折射AI游戏泛滥下的生存策略",
+        "url": "https://www.chuapp.com/article/291750.html",
+        "date": "2026-11-12",
+        "summary": "8人团队\"顽核社\"开发的派对游戏《我带过的最差一届》在2026年10月Steam新品节（参展游戏超8000款，约为去年同期两倍）中登顶热门榜，11月10日正式发售首日销量超10万份；报道指出AI工具已让Steam新品节充斥大量低门槛独立游戏，玩家称\"屎里淘金\"，优质游戏更难被发现。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "国产派对游戏《我带过的最差一届》登顶Steam新品节，折射AI游戏泛滥下的生存策略",
+          "url": "https://www.chuapp.com/article/291750.html",
+          "date": "2026-11-12",
+          "summary": "8人团队\"顽核社\"开发的派对游戏《我带过的最差一届》在2026年10月Steam新品节（参展游戏超8000款，约为去年同期两倍）中登顶热门榜，11月10日正式发售首日销量超10万份；报道指出AI工具已让Steam新品节充斥大量低门槛独立游戏，玩家称\"屎里淘金\"，优质游戏更难被发现。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "中国证券报：AI商业化加速渗透游戏产业，腾讯\"鹅次元\"内测、百度文心5.5适配主流引擎",
+        "url": "https://stock.10jqka.com.cn/20261114/c681821079.shtml",
+        "date": "2026-11-14",
+        "summary": "《中国证券报》报道称游戏行业有望成为AI商业化率先落地的领域之一：腾讯AI陪玩智能体\"鹅次元\"进入内测，可识别游戏画面并实时语音互动；百度文心5.5 Flash Preview模型已适配主流游戏引擎，可辅助游戏设计、编程与场景搭建；三七互娱2026年半年报显示其2D美术资产超80%由AI生成，单季产出超50万份。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "中国证券报：AI商业化加速渗透游戏产业，腾讯\"鹅次元\"内测、百度文心5.5适配主流引擎",
+          "url": "https://stock.10jqka.com.cn/20261114/c681821079.shtml",
+          "date": "2026-11-14",
+          "summary": "《中国证券报》报道称游戏行业有望成为AI商业化率先落地的领域之一：腾讯AI陪玩智能体\"鹅次元\"进入内测，可识别游戏画面并实时语音互动；百度文心5.5 Flash Preview模型已适配主流游戏引擎，可辅助游戏设计、编程与场景搭建；三七互娱2026年半年报显示其2D美术资产超80%由AI生成，单季产出超50万份。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Take-Two CEO泽尔尼克：AI让游戏素材制作更容易，但打造爆款仍取决于人类",
+        "url": "https://www.ithome.com/1/025/014.htm",
+        "date": "2026-11-10",
+        "summary": "在Take-Two 2027财年第二季度（对应自然年2026年Q3）财报电话会上，有投资者问及AI能否为Rockstar带来竞争优势，CEO Strauss Zelnick回应称游戏资产制作已因AI大幅变易，但\"能否打造出爆款游戏，最终仍取决于人类\"的创造力运用，这一规律不会改变；他同时表示《GTA 6》预购量远超预期。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "Take-Two CEO泽尔尼克：AI让游戏素材制作更容易，但打造爆款仍取决于人类",
+          "url": "https://www.ithome.com/1/025/014.htm",
+          "date": "2026-11-10",
+          "summary": "在Take-Two 2027财年第二季度（对应自然年2026年Q3）财报电话会上，有投资者问及AI能否为Rockstar带来竞争优势，CEO Strauss Zelnick回应称游戏资产制作已因AI大幅变易，但\"能否打造出爆款游戏，最终仍取决于人类\"的创造力运用，这一规律不会改变；他同时表示《GTA 6》预购量远超预期。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [
+    [
+      {
+        "title": "AI创意工具公司Layer推出\"Motion Designer Agent\"，聊天式生成游戏广告视频",
+        "url": "https://www.pocketgamer.biz/layer-launches-motion-designer-agent-game-studios-can-now-create-campaign-ready-ua-videos-just-by-chatting/",
+        "date": "2026-11-11",
+        "summary": "面向游戏厂商的AI创意制作平台Layer于11月2日上线\"Motion Designer Agent\"，用户只需用对话描述需求即可自动完成广告脚本、分镜、素材、配音、音乐、动画与成片剪辑；Small Giant Games、Zynga、Socialpoint等厂商已在使用该工具制作买量广告视频与预告片。",
+        "section": 2
+      },
+      {
+        "title": "AI营销工具Layer推出Motion Designer Agent，对话式生成买量视频广告",
+        "url": "https://www.pocketgamer.biz/layer-launches-motion-designer-agent-game-studios-can-now-create-campaign-ready-ua-videos-just-by-chatting/",
+        "date": "2026-11-11",
+        "summary": "游戏工作室AI创意生产平台Layer推出Motion Designer Agent，用户通过对话描述需求即可由AI完成脚本撰写、分镜规划、素材采集、配音配乐及成片剪辑，单个视频制作耗时约15-30分钟，Small Giant Games、Zynga、Socialpoint等工作室已在使用。",
+        "section": 2
+      }
+    ],
+    [
+      {
+        "title": "MIGS与PGC蒙特利尔峰会AI圆桌：\"AI转移价值而非创造价值\"",
+        "url": "https://www.pocketgamer.biz/key-takeaways-from-migs-and-pgc-montreal/",
+        "date": "2026-11-13",
+        "summary": "在蒙特利尔国际游戏峰会（MIGS）与PGC Summit Montreal上，业内人士指出\"AI转移价值而非创造价值\"，速度提升不代表能降低对资深人才的需求；据Steam数据，标注使用AI的游戏约占新发行游戏的40%，但仅获得约13%的评论量，反映玩家对AI游戏质量的普遍警惕。",
+        "section": 2
+      },
+      {
+        "title": "PGC蒙特利尔与MIGS峰会：AI不直接创造价值，中国市场需本地化验证",
+        "url": "https://www.pocketgamer.biz/key-takeaways-from-migs-and-pgc-montreal/",
+        "date": "2026-11-13",
+        "summary": "在PG Connects蒙特利尔峰会与MIGS大会上，游戏并购顾问Rhys Dekle指出AI降低制作成本但不直接提升工作室估值，买家更看重IP、社群与数据等\"护城河\"；Steam数据显示评论数低于10条的游戏AI披露率（47%）远高于评论数超1000条的游戏（14%），显示玩家对AI游戏仍持怀疑态度。",
+        "section": 2
+      }
+    ]
+  ],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
