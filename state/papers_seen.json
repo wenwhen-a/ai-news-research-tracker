@@ -24332,5 +24332,346 @@
   "first_seen": "2026-11-16",
   "submitted": "2026-11-12",
   "title": "Learning Latent Goal Costs for Visual World-Model Planning with an Expanding Curriculum"
+ },
+ "2611.21559": {
+  "status": "qualified",
+  "first_seen": "2026-11-17",
+  "submitted": "2026-11-16",
+  "title": "Reference Forcing: Long Video Generation with Region-Guided Drift Correction",
+  "affiliation": "Adobe — Haitian Zheng (co-authors otherwise at University of Rochester)",
+  "url": "https://arxiv.org/abs/2611.21559",
+  "summary": "Long autoregressive video generators drift in subject/background appearance over time because they are distilled over short windows and KV-cache history can itself have drifted."
+ },
+ "2611.21530": {
+  "status": "qualified",
+  "first_seen": "2026-11-17",
+  "submitted": "2026-11-16",
+  "title": "DuoFlow: Towards Synchronized Speech and Motion Generation with Fine-Grained Control",
+  "affiliation": "Tencent — Di Kang, Linchao Bao (other co-authors at Tsinghua University)",
+  "url": "https://arxiv.org/abs/2611.21530",
+  "summary": "Existing joint speech-motion generation models only implicitly condition on transcript semantics or speech features, giving little explicit control over motion hierarchy, body parts, or vocal style."
+ },
+ "2611.21339": {
+  "status": "qualified",
+  "first_seen": "2026-11-17",
+  "submitted": "2026-11-16",
+  "title": "MovieRoll: A Systematic Framework for Rolling Out Long-Form Videos",
+  "affiliation": "Tencent Hunyuan (one of three affiliations listed on the paper, alongside Peking University and HKUST; exact per-author mapping was not extractable from the HTML, but a footnote notes some authors' work was \"done during an internship at Tencent Hunyuan,\" indicating Tencent Hunyuan staff co-authorship)",
+  "url": "https://arxiv.org/abs/2611.21339",
+  "summary": "Streaming video generators must sustain quality beyond their training horizon while managing growing self-generated history and KV-cache costs."
+ },
+ "2611.21143": {
+  "status": "qualified",
+  "first_seen": "2026-11-17",
+  "submitted": "2026-11-16",
+  "title": "WinDEX: Metric 3D Hand Motion Reconstruction in the Wild for Dexterous Teleoperation and Policy Learning",
+  "affiliation": "FLAG: borderline — CyberOrigin (Xin You); other co-authors are at City University of Hong Kong",
+  "url": "https://arxiv.org/abs/2611.21143",
+  "summary": "Collecting large-scale, metrically accurate 3D hand-motion data in the wild is hard, limiting data for training dexterous robot hands."
+ },
+ "2611.21094": {
+  "status": "qualified",
+  "first_seen": "2026-11-17",
+  "submitted": "2026-11-16",
+  "title": "Conflict-Aware Multi-Teacher On-Policy Distillation in Aligned Action Spaces for Cross-Game Generalization",
+  "affiliation": "FLAG: borderline — LIGHTSPEED (Jing Yi, Haitao Li; likely Tencent's Lightspeed Studios, not independently confirmed beyond the paper's own \"LIGHTSPEED\" affiliation label); other co-authors at HKUST(GZ)/HKUST",
+  "url": "https://arxiv.org/abs/2611.21094",
+  "summary": "The authors target zero-shot cross-game generalization: consolidating several single-game vision-language-model (VLM) experts into one model that can control unseen games from raw pixels with no target-game training."
+ },
+ "2611.21517": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "Lazy-MOSAIC: Accelerating Skill-Centric Manipulation Planning with Learned Skill-Effect World Models"
+ },
+ "2611.21479": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "LynnReal-Hand: Unlocking World Interaction with Hand Control"
+ },
+ "2611.21383": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation"
+ },
+ "2611.21373": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection"
+ },
+ "2611.21302": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "Déjà-Events: Multi-view 3D Geometry with Event Cameras via Sparsity-Aware Adaptive Gating"
+ },
+ "2611.21253": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "QuantileGS: Quantile-Based Conformal Bounds on RGB Rendering Errors for Novel View Synthesis with 3D Gaussian Splatting"
+ },
+ "2611.21114": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "VAE Rhythm: Temporal Decoding Traces for AI-Generated Video Detection"
+ },
+ "2611.21072": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "Sage S2.1 Flash Technical Report"
+ },
+ "2611.21029": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "Sparse Attention for Visual Generation: Toward Algorithm-System Co-Design"
+ },
+ "2611.21038": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "ScoutCache: Efficient Few-Step Autoregressive Video Diffusion via Conditional Readout and Selective Caching"
+ },
+ "2611.20767": {
+  "status": "qualified",
+  "first_seen": "2026-11-17",
+  "submitted": "2026-11-16",
+  "title": "UNITE: Consolidating Embodied VLM Specialists via Shared-Anchor One-Bit Factorization",
+  "affiliation": "ACE Robotics, Shanghai — Tao Tao, Zhi Hou, Xiaogang Wang. FLAG: borderline — ACE Robotics (not on the explicit qualified-company list; standing unclear, kept per borderline rule). Other authors: Sichuan University, Nanyang Technological University, Sun Yat-sen University (Shenzhen).",
+  "url": "https://arxiv.org/abs/2611.20767",
+  "summary": "UNITE consolidates multiple fine-tuned vision-language-model (VLM) \"specialists\" — for visual grounding, spatial reasoning, navigation, and driving understanding — into a single compact mixture-of-experts model instead of deploying them separately or merging them into one conflict-prone dense model."
+ },
+ "2611.20351": {
+  "status": "qualified",
+  "first_seen": "2026-11-17",
+  "submitted": "2026-11-16",
+  "title": "BlockAlign: Preference Optimization for Trajectory-Distilled Video Generation",
+  "affiliation": "Alibaba Group — all eight authors (contact emails on alibaba-inc.com domain).",
+  "url": "https://arxiv.org/abs/2611.20351",
+  "summary": "BlockAlign is a preference-optimization framework for aligning few-step, \"trajectory-distilled\" video generators (e.g., Parallel Decoding Distillation and Parametric Trajectory Distillation models) without teacher fine-tuning or re-distillation."
+ },
+ "2611.20950": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "ROSE: A Shared Cross-Embodiment Facial-Motion Latent Space for Humanoid Robot Expression"
+ },
+ "2611.20899": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "SciWorldBench: Do Video World Models Really Understand Scientific Experiments?"
+ },
+ "2611.20888": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "Driving the Style: Velocity-Conditioned Whole-Body Control from Motion Demonstrations"
+ },
+ "2611.20791": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "QTOP: Scaling Humanoid Motion Tracking with Quantile Critics"
+ },
+ "2611.20788": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "VA-Assembly: View-Aligned Score Guidance for Training-Free 3D Part Assembly"
+ },
+ "2611.20704": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "QASK-Edit: Adaptive Sparse Attention Across Queries and Key Sources for Efficient Video Editing"
+ },
+ "2611.20703": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "Efficient Multi-View Generation with Iterative Global-Local Proxy Attention"
+ },
+ "2611.20546": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "A Gaussian Primitive Data Management Framework for Efficient 3DGS Trajectory Rendering"
+ },
+ "2611.20452": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "XMimic and XSoma: Learning Humanoid Motion Tracking and Locomotion in Under a Minute"
+ },
+ "2611.20107": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "SAFER: Navigating the Exploration-Exploitation Dilemma in World-Model-Based Planning for Autonomous Driving"
+ },
+ "2611.20090": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "Latent World Modeling for Point-Cloud Video Pretraining"
+ },
+ "2611.20076": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "SGIP: Learning Scene-Grounded Interaction Priors for Scene-Aware Human Motion Prediction"
+ },
+ "2611.19998": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "MoViC: Real-Time Humanoid Whole-Body Control from Monocular Video Streams"
+ },
+ "2611.19822": {
+  "status": "qualified",
+  "first_seen": "2026-11-17",
+  "submitted": "2026-11-15",
+  "title": "The Flip Test: Video World Models Fail to Learn the World State",
+  "affiliation": "Google DeepMind — Lijun Yu, Adams Wei Yu, Ang Cao, Baochen Sun, Ming-Hsuan Yang, Nan Hua, Yuan Hao, Ya Xu, Ed H. Chi, Xuezhi Wang, Yinxiao Liu (Mi Luo: UT Austin, work done as a Google DeepMind intern; Alex Dimakis: UC Berkeley)",
+  "url": "https://arxiv.org/abs/2611.19822",
+  "summary": "The authors introduce FlipTest, a counterfactual benchmark that probes whether video world models actually track physical world state rather than just drawing plausible pixels."
+ },
+ "2611.19429": {
+  "status": "qualified",
+  "first_seen": "2026-11-17",
+  "submitted": "2026-11-14",
+  "title": "Prepare Lighter and Faster for Open-Vocabulary Queries: A Query-Wise 3D Segmenter for Gaussian Splatting",
+  "affiliation": "Qualcomm (Qualcomm AI Research) — Khoi Nguyen; Nhat-Quynh Le-Pham (work done while at Qualcomm)",
+  "url": "https://arxiv.org/abs/2611.19429",
+  "summary": "The paper presents a training-free, query-driven framework for open-vocabulary 3D instance segmentation directly on pretrained 3D Gaussian Splatting scenes, avoiding the expensive preprocessing and per-scene training of prior methods."
+ },
+ "2611.19247": {
+  "status": "qualified",
+  "first_seen": "2026-11-17",
+  "submitted": "2026-11-14",
+  "title": "GameWM: Toward Next-Generation Video Games with Interaction-Centric World Models",
+  "affiliation": "Tencent (Lightspeed Studios) — all authors",
+  "url": "https://arxiv.org/abs/2611.19247",
+  "summary": "The authors propose GameWM, a design for next-generation video games that splits responsibilities between a lightweight \"engine\" that keeps exact rules/state/camera/world-layout and a generative video model (\"VM\") that renders the look of the world and the detail of player interactions."
+ },
+ "2611.19559": {
+  "status": "qualified",
+  "first_seen": "2026-11-17",
+  "submitted": "2026-11-14",
+  "title": "ResWAM: Learning What Changes, Not What Stays, for World-Action Models",
+  "affiliation": "FLAG: borderline — Cisco and IBM Research are listed among the paper's affiliations (alongside Michigan State University and University of Michigan); exact per-author mapping to Cisco/IBM was not clearly resolvable from the rendered HTML, but both corporate affiliations appear on the author block.",
+  "url": "https://arxiv.org/abs/2611.19559",
+  "summary": "The paper addresses world-action models (WAMs) — vision-language-action policies augmented with future prediction — which the authors argue waste capacity supervising mostly-static full future observations instead of task-relevant motion."
+ },
+ "2611.19969": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "Value and Policy Calibration from Execution Feedback for Socially Compatible Driving"
+ },
+ "2611.19857": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "PanDWM: Panoramic 4D Driving World Models"
+ },
+ "2611.19796": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "The Sense Paradigm for World Models"
+ },
+ "2611.19773": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "SemLite-GS: Semantic-Selective Parallel Gaussian Splatting for Lightweight Building Reconstruction from UAV Oblique Imagery"
+ },
+ "2611.19771": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "JEPA4R: Embodied JEPA World Models with 4D Point Planning"
+ },
+ "2611.19676": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "Score-Based Stochastic Closure Modeling via Offline Indirect Learning and Online Data Assimilation"
+ },
+ "2611.19621": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "Toward Planning Representations That Separate Task Structure from Visual Content"
+ },
+ "2611.19572": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "Spectral Steering: Local Inverse Geometry for Frozen Diffusion Generators"
+ },
+ "2611.19537": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "Continuation-Guided LLM Evolution of Program Policies and Goal Compilers in Craftax"
+ },
+ "2611.19466": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "Successive Convexification in Learned World Models for Safe Offline Planning"
+ },
+ "2611.19311": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "Macro Control and Capability Evaluation of Black-Box World Models: A Two-Regime Framework for LLM-Agent Markets"
+ },
+ "2611.19183": {
+  "status": "qualified",
+  "first_seen": "2026-11-17",
+  "submitted": "2026-11-14",
+  "title": "WA-JEPA: Goal-Aware Predictive Feedback Action Refinement for a World-Action Model",
+  "affiliation": "Hikvision Research Institute — Wenming Tan, Kai Zhang, Haibo Lei; FLAG: borderline — Hikvision (not on explicit company list; other co-authors are Harbin Institute of Technology and Anhui Polytechnic University)",
+  "url": "https://arxiv.org/abs/2611.19183",
+  "summary": "WA-JEPA is a JEPA-based \"world-action\" model that generates robot action proposals and then iteratively refines them using the model's own latent predictions of future scenes, instead of searching over candidate action sequences."
+ },
+ "2611.18866": {
+  "status": "qualified",
+  "first_seen": "2026-11-17",
+  "submitted": "2026-11-13",
+  "title": "Découpage: Directorial Audio-Visual Control for Long Multi-Shot Video Generation",
+  "affiliation": "Ant Group (affiliation listed for the author group alongside HKUST and Zhejiang University; the HTML rendering lost the footnote markers linking individual names to institutions, so the specific Ant Group author(s) could not be individually confirmed); FLAG: borderline — Ant Group",
+  "url": "https://arxiv.org/abs/2611.18866",
+  "summary": "DECOUPAGE is a screenplay-driven framework for generating long, multi-shot, multi-character videos with synchronized but independently-timed audio and visual tracks, addressing cinematic effects like dialogue that bridges across cuts (J-/L-cuts) and deliberate silences."
+ },
+ "2611.18822": {
+  "status": "qualified",
+  "first_seen": "2026-11-17",
+  "submitted": "2026-11-13",
+  "title": "LongCat-Video-Avatar 1.6 Technical Report",
+  "affiliation": "Meituan — authorship credited directly to \"Meituan LongCat Team\" on the paper itself; FLAG: borderline — Meituan (not on the explicit company list; no arXiv HTML version exists to independently verify affiliations, so this relies on the author-field attribution rather than an HTML affiliation block)",
+  "url": "https://arxiv.org/abs/2611.18822",
+  "summary": "This is a technical report on LongCat-Video-Avatar 1.6, an audio-driven avatar video generation model that builds on the team's prior 1.5 version, aiming to improve lip-audio synchronization, natural head/body motion, and visual consistency over long generated sequences."
+ },
+ "2611.19215": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "Mem2Fair: Online Fairness Control for Text-to-Video Generation via Fair Memory"
+ },
+ "2611.19196": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "Ego2Sim2Humanoid: Agentic Real-to-Sim for Learning Loco-Manipulation VLAs without Robot Demonstrations"
+ },
+ "2611.18979": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "Probing Where Surprise Happens: Localized Violation-of-Expectation Evaluation of Video World Models"
+ },
+ "2611.18807": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "Recovered or Memorized? Investigating Dynamical Consistency and Faithfulness in World Model Latents"
+ },
+ "2611.18770": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "AerialOcc: Unified 3D Aerial Perception without Task-Specific Head"
+ },
+ "2611.18761": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "Frame First, Decode Once: Object-Centric Coordinates and Single-Pass Decoding for System-1 World Models"
+ },
+ "2611.18723": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "Acting by Intent, Reacting by Sight: Visual Conditioned Reflexes for Real-Time VLM Agents"
+ },
+ "2611.18708": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "TopSDF: Topological Signed Distance Field for High-Quality Triangle Mesh Extraction from 3D Gaussian Splatting"
+ },
+ "2611.18666": {
+  "status": "near-miss",
+  "first_seen": "2026-11-17",
+  "title": "ReMoVe: Refining a Video Model's Own Motion for Coherent Human Video Generation"
  }
 }
