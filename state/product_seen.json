@@ -789,5 +789,13 @@
   "first_seen": "2026-11-16",
   "release_date": "2026-11-04",
   "summary": "Kuaishou shipped Kling 4.0 Flash, a faster/lower-latency 720P API endpoint (3-20s, text-to-video/image-to-video/omni reference-to-video) alongside the full Kling 4.0 model."
+ },
+ "https://kling.ai/document-api/updates/api.md#image-4.0": {
+  "name": "Kling Image 4.0 API",
+  "company": "Kuaishou",
+  "tier": "GA",
+  "first_seen": "2026-11-17",
+  "release_date": "2026-11-17",
+  "summary": "Kuaishou shipped Kling Image 4.0, succeeding Kling Image 3.0, via new API endpoints for standard and long-image generation, with native 8K resolution (up from 3.0's native 4K), improved realism/text rendering/instruction-following, and up to 10 combined image/subject references."
  }
 }

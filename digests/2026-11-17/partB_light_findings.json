@@ -1,0 +1,44 @@
+{
+  "new_products": [
+    {
+      "name": "Kling Image 4.0 API",
+      "company": "Kuaishou",
+      "tier": "GA",
+      "primary_source": "https://kling.ai/document-api/updates/api.md",
+      "release_date": "2026-11-17",
+      "surface": "cloud API",
+      "what_shipped": "Kling Image 4.0 launched via new API endpoints (/image-generation/kling-4.0 for text-to-image/image-to-image and image sets, /long-image-generation/kling-4.0 for long-image generation), succeeding Kling Image 3.0. It adds native 8K resolution (up from 3.0's native 4K), improved realism/text rendering/instruction-following, and up to 10 combined image/subject references.",
+      "underlying_research": "no traceable paper",
+      "availability": "Available now via Kling API; billing now counts both input reference images and output images (rate varies by resolution); long-image endpoint targets e-commerce/web design use cases.",
+      "practical_significance": "Per Kling's own API changelog, this is a full major-version jump (3.0->4.0) in image generation resolution and reference handling, directly comparable to the already-tracked Kling 4.0 video generation line.",
+      "engineering_details": "Supports 2K/4K/8K for single images and image sets (settings.series_amount 2-10 or auto), 1K/2K for long images, up to 50,000-character English prompts (21,000 for non-English), and task status via GET /tasks.",
+      "limitations": "No specific pricing figures were given in the changelog itself (points to a separate pricing page); no independent third-party coverage was found confirming quality claims."
+    }
+  ],
+  "updates": [],
+  "announced_only_notable": [],
+  "near_misses": [
+    "Sony PlayStation Blog (Nov 13): 'QSSR arrives in Marvel's Spider-Man 2, Control Resonant, The Finals, Arc Raiders, No Man's Sky, and Hell Let Loose: Vietnam' -- excluded per rules as 'one more game(s) adopting the same already-reported feature' (QSSR GA since 2026-10-01), not a tier/version change.",
+      "NVIDIA GeForce: DLSS 5 3D-Guided Neural Rendering rollout to Where Winds Meet remains scheduled for Nov 23, 2026 (per NVIDIA's own Nov 3 announcement and multiple outlets) -- has not shipped yet as of 2026-11-17, so still outside the reporting window; War Thunder rollout (~Nov 12) was already captured in the already-reported baseline.",
+    "Unreal Engine 5.9 'MegaJam Preview' build released Nov 9, 2026 -- one day before the 7-day window (Nov 10-17) and already listed in already-reported baseline; no further UE5.9 update found dated within the window.",
+    "Roblox DevForum Studio-beta items dated Nov 9-11 2026 (Quad Support for EditableMesh APIs, CreateSurfaceAppearance with Asset IDs, Generate R15 Animations From a Prompt, Orthographic Camera) all match items already in the already-reported baseline list verbatim -- no new material beyond what's already tracked.",
+    "Adobe blog front page (blog.adobe.com) Nov 10-11 posts are all Firefly/Premiere/marketing/MAX-recap content unrelated to Substance 3D or Firefly 3D/Design; the dedicated 3D/AR/VR topic page's newest post found was from Oct 2, so no in-window Substance 3D update was found beyond the already-reported Nov 13 Arm64 Windows beta baseline item (could not independently re-verify that Nov 13 item on a primary page in this check).",
+    "Tencent Motus/GIGA/MagicDawn -- searched for any beta/GA transition; found only gamescom 2026 (August) showcase coverage, no dated change in the Nov 10-17 window; remain 'announced only' as in baseline.",
+    "Unity Spark -- searched for beta transition (Synty Studios Asset Store tie-in mentioned in an undated unity.com/blog post); found no confirmation it moved out of 'announced/waitlist' status within the window; remains 'announced only' per baseline.",
+    "Alibaba Model Studio newly-released-models page: only new entries in window are qwen4-max (2026-11-16) and qwen4-max-preview (2026-11-11), both general LLMs outside the 3D/world-model/animation/game-engine scope; no Wan/Tripo/HappyOyster/ABot-World updates found in window.",
+    "Unity 6000.6.9f1 patch release (Nov 12, 2026) on Unity release notes page -- excluded as a minor patch release, not a material tier/version change."
+  ],
+  "surfaces_checked": [
+    "NVIDIA developer blog (developer.nvidia.com/blog)",
+    "NVIDIA GeForce news (nvidia.com/en-us/geforce/news)",
+    "Unreal Engine news (unrealengine.com/en-US/news) and forums.unrealengine.com/c/announcements (both blocked/404; covered via web search of unrealengine.com and dev.epicgames.com content instead)",
+    "Unity blog (unity.com/blog) and release notes (unity.com/releases/editor/whats-new)",
+    "Roblox newsroom (about.roblox.com/newsroom) and devforum.roblox.com updates/announcements",
+    "Adobe blog (blog.adobe.com) including 3D/AR/VR topic page",
+    "Tencent Hunyuan (hunyuan.tencent.com, 3d.hunyuan.tencent.com, cloud.tencent.com/product/hunyuan)",
+    "ByteDance Seed (seed.bytedance.com) and Volcano Engine (volcengine.com)",
+    "Alibaba Model Studio release notes (help.aliyun.com/zh/model-studio/newly-released-models)",
+    "Kuaishou Kling (klingai.com/kling.ai and kling.ai/document-api/updates/api.md)",
+    "PlayStation Blog (blog.playstation.com)"
+  ]
+}
