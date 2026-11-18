@@ -1,0 +1,9 @@
+- **Google Play公布2026年度最佳游戏榜单，《明日方舟：终末地》夺得年度最佳游戏**（2026-11-17）— Google Play公布年度游戏榜单，鹰角网络《明日方舟：终末地》获年度最佳游戏。 <https://www.pocketgamer.biz/google-plays-best-of-play-2026-winners-arknights-endfield-subway-surfers-city-sea-of-stars-and-more/>
+- **《王者荣耀》职业联赛KPL十周年：总决赛B站直播峰值超230万人观看**（2026-11-17）— 腾讯《王者荣耀》职业联赛KPL迎来十周年，年度总决赛B站直播峰值观看人数超230万创纪录。 <https://www.chuapp.com/article/291766.html>
+- **NC《永恒之塔2》获韩国游戏大赏优秀奖与人气奖**（2026-11-18）— 2026韩国游戏大赏上，NCSoft旗下MMORPG《永恒之塔2》斩获优秀奖与人气游戏奖。 <https://www.invenglobal.com/articles/28772/aion-2-wins-two-awards-at-korea-game-awards-takes-home-excellence-award-and-popular-game-award>
+- **Nexon为新作《蔚蓝档案：普罗米利亚》在首尔展开大规模户外广告攻势**（2026-11-18）— Nexon代理新作将于11月26日上线，为此在首尔核心商圈投放大规模广告。 <https://www.invenglobal.com/articles/28767/azur-promilia-launches-out-of-home-advertising-campaign-across-seoul>
+- **Konami《合金装备合集Vol.2》《寂静岭：小镇陷落》特别版首次上线8折促销**（2026-11-18）— 两款Konami游戏在PlayStation Store首次推出8折特惠，纳入平台黑五促销活动。 <https://www.famitsu.com/article/202611/94422>
+- **Capcom《生化危机：安魂曲》获The Game Awards 2026多项提名**（2026-11-18）— Capcom新作获得年度游戏、最佳游戏导演、最佳叙事等多项提名，提名数仅次于任天堂。 <https://www.4gamer.net/games/916/G091663/20261118006/>
+- **《崩坏：星穹铁道》主创访谈畅谈「二相乐园」剧情设计思路**（2026-11-18）— Famitsu刊出米哈游主创设计师访谈，围绕游戏内「二相乐园」篇章的剧情构思展开。 <https://www.famitsu.com/article/202611/90026>
+- **米哈游《绝区零》3.4版本「终有漫长一日之终」预告节目定档11月20日**（2026-11-17）— 米哈游宣布《绝区零》新版本预告直播节目档期。 <https://www.4gamer.net/games/421/G042182/20261116028/>
+- **Bandai Namco《铁拳8》开放新角色「小罗杰」，同步推出NIKE联动道具**（2026-11-17）— 《铁拳8》正式开放新角色供玩家使用，并同步上线NIKE联名外观道具。 <https://www.4gamer.net/games/657/G065722/20261117005/>

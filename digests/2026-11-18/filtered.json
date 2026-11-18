@@ -1,0 +1,412 @@
+{
+  "as_of": "2026-11-18",
+  "cutoff": "2026-11-11",
+  "window_days": 7,
+  "summary": {
+    "input_items": 19,
+    "denied_source": 0,
+    "in_window": 19,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 19,
+    "duplicate_clusters": 0,
+    "section1_count": 8,
+    "section2_count": 11,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": true,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 12,
+    "previously_covered_count": 7
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "NVIDIA公布2027财年第三季度财报，Vera Rubin平台拉动数据中心营收创纪录",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+        "date": "2026-11-17",
+        "summary": "NVIDIA发布截至10月25日的2027财年第三季度财报：总营收1158亿美元，同比增长103%，环比增长20%；数据中心业务营收1076亿美元，同比增长110%。公司表示新一代Vera Rubin NVL72平台已开始出货，被称为公司历史上爬坡最快的产品，并在本季度横扫MLPerf训练与推理基准测试。财报同时提及此前宣布的、约129亿美元收购开源AI平台Hugging Face的协议进展。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "NVIDIA公布2027财年第三季度财报，Vera Rubin平台拉动数据中心营收创纪录",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+          "date": "2026-11-17",
+          "summary": "NVIDIA发布截至10月25日的2027财年第三季度财报：总营收1158亿美元，同比增长103%，环比增长20%；数据中心业务营收1076亿美元，同比增长110%。公司表示新一代Vera Rubin NVL72平台已开始出货，被称为公司历史上爬坡最快的产品，并在本季度横扫MLPerf训练与推理基准测试。财报同时提及此前宣布的、约129亿美元收购开源AI平台Hugging Face的协议进展。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "NVIDIA为《战雷》与《燕云十六声》带来DLSS 5神经渲染，《战锤40K:战争黎明4》确认登陆GeForce NOW云游戏",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+        "date": "2026-11-12",
+        "summary": "NVIDIA在当周GFN Thursday文章中宣布，《战雷》(War Thunder)将在11月中旬的更新中获得DLSS 5与3D引导神经渲染技术支持，《燕云十六声》(Where Winds Meet)将于11月23日支持该技术；此前该技术已于11月5日率先登陆《霍格沃茨之遗》。同时，策略游戏《战锤40,000:战争黎明4》确认将于12月3日在Steam发售的同时同步登陆GeForce NOW云游戏平台，支持PC、Mac及掌机等设备云端畅玩。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "NVIDIA为《战雷》与《燕云十六声》带来DLSS 5神经渲染，《战锤40K:战争黎明4》确认登陆GeForce NOW云游戏",
+          "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+          "date": "2026-11-12",
+          "summary": "NVIDIA在当周GFN Thursday文章中宣布，《战雷》(War Thunder)将在11月中旬的更新中获得DLSS 5与3D引导神经渲染技术支持，《燕云十六声》(Where Winds Meet)将于11月23日支持该技术；此前该技术已于11月5日率先登陆《霍格沃茨之遗》。同时，策略游戏《战锤40,000:战争黎明4》确认将于12月3日在Steam发售的同时同步登陆GeForce NOW云游戏平台，支持PC、Mac及掌机等设备云端畅玩。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Sony为标准版PS5扩展AI超分辨率技术QSSR，覆盖《漫威蜘蛛侠2》等六款新游戏",
+        "url": "https://www.ggrecon.com/articles/ps5-qssr-spider-man-2-arc-raiders/",
+        "date": "2026-11-14",
+        "summary": "Sony于11月13日通过PlayStation Blog宣布，其机器学习超分辨率技术QSSR(Quick Spectral Super Resolution)将扩展至标准版PS5上的六款游戏，包括已上线的《漫威蜘蛛侠2》(支持画质与性能两种模式)，以及即将支持的《控制:共鸣》、《无人深空》、《The Finals》、《Arc Raiders》和《红丝绒:越南》。QSSR基于PS5 Pro的PSSR技术改造而来，让没有Pro主机的玩家也能获得AI画质提升，此前已于10月1日随《漫威金刚狼》和《对马岛之魂:幽灵》首次上线。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "Sony为标准版PS5扩展AI超分辨率技术QSSR，覆盖《漫威蜘蛛侠2》等六款新游戏",
+          "url": "https://www.ggrecon.com/articles/ps5-qssr-spider-man-2-arc-raiders/",
+          "date": "2026-11-14",
+          "summary": "Sony于11月13日通过PlayStation Blog宣布，其机器学习超分辨率技术QSSR(Quick Spectral Super Resolution)将扩展至标准版PS5上的六款游戏，包括已上线的《漫威蜘蛛侠2》(支持画质与性能两种模式)，以及即将支持的《控制:共鸣》、《无人深空》、《The Finals》、《Arc Raiders》和《红丝绒:越南》。QSSR基于PS5 Pro的PSSR技术改造而来，让没有Pro主机的玩家也能获得AI画质提升，此前已于10月1日随《漫威金刚狼》和《对马岛之魂:幽灵》首次上线。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Roblox公布AI创作最新进展：逾80%热门游戏使用AI工具，Studio MCP服务器日活增长近五倍",
+        "url": "https://about.roblox.com/newsroom/2026/11/building-the-next-era-of-creation-on-roblox",
+        "date": "2026-11-13",
+        "summary": "Roblox在官方新闻稿中披露最新AI创作数据：按游玩时长排名的前100款游戏中，超过80%的创作者在工作流中使用了AI工具；9月有一款几乎完全由AI制作的游戏进入同时在线人数前十；10月日均素材上传量较此前增长两倍。基于开放的Model Context Protocol构建的Studio MCP服务器，可让Claude Code、Codex等外部AI代理接入Studio会话，其日活用户较6月底增长近五倍。移动端AI建游工具Build的公测已吸引超50万用户，累计发布游戏超7万个，美国上线计划在今年晚些时候推出。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "Roblox公布AI创作最新进展：逾80%热门游戏使用AI工具，Studio MCP服务器日活增长近五倍",
+          "url": "https://about.roblox.com/newsroom/2026/11/building-the-next-era-of-creation-on-roblox",
+          "date": "2026-11-13",
+          "summary": "Roblox在官方新闻稿中披露最新AI创作数据：按游玩时长排名的前100款游戏中，超过80%的创作者在工作流中使用了AI工具；9月有一款几乎完全由AI制作的游戏进入同时在线人数前十；10月日均素材上传量较此前增长两倍。基于开放的Model Context Protocol构建的Studio MCP服务器，可让Claude Code、Codex等外部AI代理接入Studio会话，其日活用户较6月底增长近五倍。移动端AI建游工具Build的公测已吸引超50万用户，累计发布游戏超7万个，美国上线计划在今年晚些时候推出。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Epic Games发布Unreal Engine 5.9预览版，加入Unreal MCP、Assistant与Canvas等AI代理工具",
+        "url": "https://digitalproduction.com/2026/11/16/unreal-engine-5-9-preview-agents-canvas-and-a-browser-sized-ambition/",
+        "date": "2026-11-16",
+        "summary": "Epic Games发布的Unreal Engine 5.9预览版大幅强化了编辑器内的AI代理功能。Unreal MCP在编辑器进程中内置服务器，兼容客户端可通过本地HTTP调用针对Actor、蓝图、材质、Niagara和Sequencer等领域的工具集，端口与访问权限可在项目及编辑器偏好设置中配置；Unreal Assistant具备从「仅询问」「仅读取」到「编辑」「自动」「完全自主」的分级工具访问权限；实验性新功能Unreal Canvas则是供美术人员与AI代理协作迭代内容的共享工作区，整合文本、图像、视频与网格生成器，并可通过Canvas Bridge将Movie Render Graph渲染暴露为MCP工具供代理调用。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "Epic Games发布Unreal Engine 5.9预览版，加入Unreal MCP、Assistant与Canvas等AI代理工具",
+          "url": "https://digitalproduction.com/2026/11/16/unreal-engine-5-9-preview-agents-canvas-and-a-browser-sized-ambition/",
+          "date": "2026-11-16",
+          "summary": "Epic Games发布的Unreal Engine 5.9预览版大幅强化了编辑器内的AI代理功能。Unreal MCP在编辑器进程中内置服务器，兼容客户端可通过本地HTTP调用针对Actor、蓝图、材质、Niagara和Sequencer等领域的工具集，端口与访问权限可在项目及编辑器偏好设置中配置；Unreal Assistant具备从「仅询问」「仅读取」到「编辑」「自动」「完全自主」的分级工具访问权限；实验性新功能Unreal Canvas则是供美术人员与AI代理协作迭代内容的共享工作区，整合文本、图像、视频与网格生成器，并可通过Canvas Bridge将Movie Render Graph渲染暴露为MCP工具供代理调用。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "NVIDIA新一代Vera Rubin平台在MLPerf Training v6.1基准测试中创纪录",
+        "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/",
+        "date": "2026-11-16",
+        "summary": "在11月16日发布的MLPerf Training v6.1基准测试轮次中，NVIDIA新一代Vera Rubin NVL72平台首次亮相并包揽全部训练与端到端(Endpoints)基准测试项目，单GPU性能相较GB300 NVL72最高提升约2倍。据第三方测算，Vera Rubin NVL72在1024块GPU上将DeepSeek-V3 671B模型训练至目标精度仅耗时4.14分钟，较GB300平台快约1.94倍。Nebius、CoreWeave等云服务商也提交了基于Vera Rubin的多机架测试成绩，CoreWeave成为首家交付跨机架Vera Rubin结果的云厂商。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "NVIDIA新一代Vera Rubin平台在MLPerf Training v6.1基准测试中创纪录",
+          "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/",
+          "date": "2026-11-16",
+          "summary": "在11月16日发布的MLPerf Training v6.1基准测试轮次中，NVIDIA新一代Vera Rubin NVL72平台首次亮相并包揽全部训练与端到端(Endpoints)基准测试项目，单GPU性能相较GB300 NVL72最高提升约2倍。据第三方测算，Vera Rubin NVL72在1024块GPU上将DeepSeek-V3 671B模型训练至目标精度仅耗时4.14分钟，较GB300平台快约1.94倍。Nebius、CoreWeave等云服务商也提交了基于Vera Rubin的多机架测试成绩，CoreWeave成为首家交付跨机架Vera Rubin结果的云厂商。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "腾讯总办LinkTime内部讲话:号召全员面向AI时代「再创业」",
+        "url": "https://finance.eastmoney.com/a/202611163931610587.html",
+        "date": "2026-11-16",
+        "summary": "11月16日,腾讯文化公众号发布腾讯总办在年度LinkTime活动上的内部讲话原文,称当前的智能革命如果不投入拥抱就会被颠覆,要求所有核心业务团队「心态归零」、面向AI时代重新创业。讲话提出组织将变得更扁平,以小团队为基本单元,核心业务约一半人员守住现有阵地,另一半探索AI原生新方向,同时打破中层「山头主义」。文中还提到微信AI助理「小微」、「元宝」和「WorkBuddy」等产品是现阶段重点。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "腾讯总办LinkTime内部讲话:号召全员面向AI时代「再创业」",
+          "url": "https://finance.eastmoney.com/a/202611163931610587.html",
+          "date": "2026-11-16",
+          "summary": "11月16日,腾讯文化公众号发布腾讯总办在年度LinkTime活动上的内部讲话原文,称当前的智能革命如果不投入拥抱就会被颠覆,要求所有核心业务团队「心态归零」、面向AI时代重新创业。讲话提出组织将变得更扁平,以小团队为基本单元,核心业务约一半人员守住现有阵地,另一半探索AI原生新方向,同时打破中层「山头主义」。文中还提到微信AI助理「小微」、「元宝」和「WorkBuddy」等产品是现阶段重点。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "腾讯混元Hy4 flash模型上线并宣布开源,单任务成本降至Hy4的二十分之一",
+        "url": "https://www.ithome.com/1/028/701.htm",
+        "date": "2026-11-18",
+        "summary": "腾讯混元11月16日发布新模型Hy4 flash,11月18日进一步官宣开源Hy4 flash、Hy4 flash-FP8及Hy4 flash Base三个版本,开发者可在GitHub、Hugging Face、ModelScope等平台下载。该模型总参数224B(含64B Engram参数),激活参数仅12B,支持多模态与百万级上下文,百万Token输入价格0.5元、输出2元,官方称其内部评测单任务成本约为旗舰Hy4的二十分之一。目前已接入腾讯云TokenHub、WorkBuddy、元宝、企业微信、QQ等产品,腾讯表示将加速开源其他Hy4系列模型。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "腾讯混元Hy4 flash模型上线并宣布开源,单任务成本降至Hy4的二十分之一",
+          "url": "https://www.ithome.com/1/028/701.htm",
+          "date": "2026-11-18",
+          "summary": "腾讯混元11月16日发布新模型Hy4 flash,11月18日进一步官宣开源Hy4 flash、Hy4 flash-FP8及Hy4 flash Base三个版本,开发者可在GitHub、Hugging Face、ModelScope等平台下载。该模型总参数224B(含64B Engram参数),激活参数仅12B,支持多模态与百万级上下文,百万Token输入价格0.5元、输出2元,官方称其内部评测单任务成本约为旗舰Hy4的二十分之一。目前已接入腾讯云TokenHub、WorkBuddy、元宝、企业微信、QQ等产品,腾讯表示将加速开源其他Hy4系列模型。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "腾讯Q3财报会:WorkBuddy近七天年化收入超5亿美元,环比增长超5倍",
+        "url": "https://www.ithome.com/1/029/110.htm",
+        "date": "2026-11-18",
+        "summary": "在腾讯2026年第三季度业绩电话会上,总裁刘炽平披露,企业级AI产品WorkBuddy近七天收入按年化折算已超过5亿美元(约合33.3亿元人民币),是腾讯会议收入的两倍以上,第三季度收入更是第二季度的5倍以上。中国百强企业中六成已是其客户,企业版覆盖国内五百强企业的一半,日活跃用户超千万,日均Token调用量超百万亿次,为国内大模型产品最高。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "腾讯Q3财报会:WorkBuddy近七天年化收入超5亿美元,环比增长超5倍",
+          "url": "https://www.ithome.com/1/029/110.htm",
+          "date": "2026-11-18",
+          "summary": "在腾讯2026年第三季度业绩电话会上,总裁刘炽平披露,企业级AI产品WorkBuddy近七天收入按年化折算已超过5亿美元(约合33.3亿元人民币),是腾讯会议收入的两倍以上,第三季度收入更是第二季度的5倍以上。中国百强企业中六成已是其客户,企业版覆盖国内五百强企业的一半,日活跃用户超千万,日均Token调用量超百万亿次,为国内大模型产品最高。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "微信AI助理「小微」日活跃用户达3000万,计划部分推理任务端侧运行",
+        "url": "https://www.ithome.com/1/029/018.htm",
+        "date": "2026-11-18",
+        "summary": "腾讯在Q3财报沟通中披露,微信个人AI助理「小微」随着测试范围扩大,日活跃用户已达3000万。官方称其定位是在微信生态内为用户提供私人助理服务,注重隐私保护且运营成本极低,背后采用经过成本优化调校的WeLM模型,未来计划让部分推理任务直接在用户设备端运行。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "微信AI助理「小微」日活跃用户达3000万,计划部分推理任务端侧运行",
+          "url": "https://www.ithome.com/1/029/018.htm",
+          "date": "2026-11-18",
+          "summary": "腾讯在Q3财报沟通中披露,微信个人AI助理「小微」随着测试范围扩大,日活跃用户已达3000万。官方称其定位是在微信生态内为用户提供私人助理服务,注重隐私保护且运营成本极低,背后采用经过成本优化调校的WeLM模型,未来计划让部分推理任务直接在用户设备端运行。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "腾讯:芯片供应限制将拉长下一代大模型训练周期",
+        "url": "https://www.ithome.com/1/029/066.htm",
+        "date": "2026-11-18",
+        "summary": "腾讯在11月18日公布的2026年第三季度业绩沟通中表示,受芯片供应限制影响,训练下一代大模型将需要比此前更长的时间。该表态是在腾讯同期发布混元Hy4 flash开源版本、披露WorkBuddy及AI助理相关数据的背景下作出的,反映出算力瓶颈仍是中国大型科技公司推进AI战略的主要制约因素之一。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "腾讯:芯片供应限制将拉长下一代大模型训练周期",
+          "url": "https://www.ithome.com/1/029/066.htm",
+          "date": "2026-11-18",
+          "summary": "腾讯在11月18日公布的2026年第三季度业绩沟通中表示,受芯片供应限制影响,训练下一代大模型将需要比此前更长的时间。该表态是在腾讯同期发布混元Hy4 flash开源版本、披露WorkBuddy及AI助理相关数据的背景下作出的,反映出算力瓶颈仍是中国大型科技公司推进AI战略的主要制约因素之一。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "字节跳动AI办公产品「豆包工作」上线三个月日活破800万,接入第三方大模型",
+        "url": "https://www.ithome.com/1/029/064.htm",
+        "date": "2026-11-18",
+        "summary": "字节跳动旗下AI办公产品「豆包工作」上线三个月,日活跃用户突破800万,企业客户年化经常性收入(ARR)超过20亿元。该产品此前在11月12日更新中新增可选模型与按量计费模式,除字节自研模型外还接入了Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash等第三方大模型供用户按任务切换使用,此前还上线了覆盖金融、医疗、教育等21个专业场景的「工作台」,并取消了个人版的5小时额度限制。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "字节跳动AI办公产品「豆包工作」上线三个月日活破800万,接入第三方大模型",
+          "url": "https://www.ithome.com/1/029/064.htm",
+          "date": "2026-11-18",
+          "summary": "字节跳动旗下AI办公产品「豆包工作」上线三个月,日活跃用户突破800万,企业客户年化经常性收入(ARR)超过20亿元。该产品此前在11月12日更新中新增可选模型与按量计费模式,除字节自研模型外还接入了Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash等第三方大模型供用户按任务切换使用,此前还上线了覆盖金融、医疗、教育等21个专业场景的「工作台」,并取消了个人版的5小时额度限制。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "彭博社:字节跳动计划数周内推出类似Meta Muse的AI助手,张一鸣称追赶顶尖AI实验室至少还需三年",
+        "url": "https://tech.ifeng.com/c/8xyFW6aGucn",
+        "date": "2026-11-11",
+        "summary": "据彭博社11月11日报道,字节跳动计划在未来几周内推出一款类似Meta Muse的个人AI助手,目标是把对话工具豆包升级为能自主规划、执行任务的个人智能体。知情人士称,字节创始人张一鸣在面向AI团队的全员会议上介绍了该计划,并表示要真正追赶Anthropic、OpenAI等顶尖实验室的水平,至少还需要到2029或2030年,原因之一是Seed系列大模型的预训练数据规模比美国竞争对手小了数个数量级。报道还提到,字节内部代号「Spell」的个人助理项目早在今年4月便已启动,在Meta Muse 9月上线并迅速登顶美国应用商店后,字节加快了推进节奏。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "彭博社:字节跳动计划数周内推出类似Meta Muse的AI助手,张一鸣称追赶顶尖AI实验室至少还需三年",
+          "url": "https://tech.ifeng.com/c/8xyFW6aGucn",
+          "date": "2026-11-11",
+          "summary": "据彭博社11月11日报道,字节跳动计划在未来几周内推出一款类似Meta Muse的个人AI助手,目标是把对话工具豆包升级为能自主规划、执行任务的个人智能体。知情人士称,字节创始人张一鸣在面向AI团队的全员会议上介绍了该计划,并表示要真正追赶Anthropic、OpenAI等顶尖实验室的水平,至少还需要到2029或2030年,原因之一是Seed系列大模型的预训练数据规模比美国竞争对手小了数个数量级。报道还提到,字节内部代号「Spell」的个人助理项目早在今年4月便已启动,在Meta Muse 9月上线并迅速登顶美国应用商店后,字节加快了推进节奏。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "GDC《2026游戏行业状况》调查:40%从业者已用上生成式AI,55%认为AI正损害行业",
+        "url": "https://www.gamingonlinux.com/2026/11/gdc-november-2026-survey-shows-40-percent-of-developers-using-generative-ai/",
+        "date": "2026-11-13",
+        "summary": "GDC发布最新一期《游戏行业状况》调查,覆盖69个国家超过2600名游戏从业者。结果显示40%的受访者已在工作中使用生成式AI工具,高于去年的36%,其中AAA工作室员工中有27%表示被“鼓励或要求”使用AI;与此同时,超过一半受访者认为生成式AI正在对行业造成负面影响,34%的受访者在过去两年内经历过裁员,其中54%目前仍未找到新工作。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "GDC《2026游戏行业状况》调查:40%从业者已用上生成式AI,55%认为AI正损害行业",
+          "url": "https://www.gamingonlinux.com/2026/11/gdc-november-2026-survey-shows-40-percent-of-developers-using-generative-ai/",
+          "date": "2026-11-13",
+          "summary": "GDC发布最新一期《游戏行业状况》调查,覆盖69个国家超过2600名游戏从业者。结果显示40%的受访者已在工作中使用生成式AI工具,高于去年的36%,其中AAA工作室员工中有27%表示被“鼓励或要求”使用AI;与此同时,超过一半受访者认为生成式AI正在对行业造成负面影响,34%的受访者在过去两年内经历过裁员,其中54%目前仍未找到新工作。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "游戏业并购顾问:生成式AI降本不会自动提升工作室估值,买家开始核查“人类创作”证据",
+        "url": "https://www.pocketgamer.biz/strategic-alternatives-rhys-dekle-how-to-keep-the-value-ai-creates-at-your-studio/",
+        "date": "2026-11-11",
+        "summary": "并购顾问机构Strategic Alternatives的Rhys Dekle在PGC蒙特利尔峰会上表示,AI带来的制作成本下降在独立团队中最明显,在3A工作室中则主要被用于扩大项目规模而非降本增效。他指出,纯AI生成内容在美欧可能无法获得版权保护,买家在收购谈判中会要求卖方提供人类创作过程的文件记录,否则会在交割时扣留更多资金;反而是坚持人工制作、规避“AI糊脸”争议的工作室有机会获得估值溢价。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "游戏业并购顾问:生成式AI降本不会自动提升工作室估值,买家开始核查“人类创作”证据",
+          "url": "https://www.pocketgamer.biz/strategic-alternatives-rhys-dekle-how-to-keep-the-value-ai-creates-at-your-studio/",
+          "date": "2026-11-11",
+          "summary": "并购顾问机构Strategic Alternatives的Rhys Dekle在PGC蒙特利尔峰会上表示,AI带来的制作成本下降在独立团队中最明显,在3A工作室中则主要被用于扩大项目规模而非降本增效。他指出,纯AI生成内容在美欧可能无法获得版权保护,买家在收购谈判中会要求卖方提供人类创作过程的文件记录,否则会在交割时扣留更多资金;反而是坚持人工制作、规避“AI糊脸”争议的工作室有机会获得估值溢价。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "AI营销工具公司Layer推出“动态设计师Agent”,游戏厂商靠聊天即可生成买量视频广告",
+        "url": "https://www.pocketgamer.biz/layer-launches-motion-designer-agent-game-studios-can-now-create-campaign-ready-ua-videos-just-by-chatting/",
+        "date": "2026-11-11",
+        "summary": "AI营销技术公司Layer发布新工具“Motion Designer Agent”,游戏发行商的市场团队无需剪辑或设计技能,只需通过对话形式即可生成可直接投放的买量广告视频,进一步显示生成式AI正在被游戏行业的用户增长和营销环节广泛采用。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "AI营销工具公司Layer推出“动态设计师Agent”,游戏厂商靠聊天即可生成买量视频广告",
+          "url": "https://www.pocketgamer.biz/layer-launches-motion-designer-agent-game-studios-can-now-create-campaign-ready-ua-videos-just-by-chatting/",
+          "date": "2026-11-11",
+          "summary": "AI营销技术公司Layer发布新工具“Motion Designer Agent”,游戏发行商的市场团队无需剪辑或设计技能,只需通过对话形式即可生成可直接投放的买量广告视频,进一步显示生成式AI正在被游戏行业的用户增长和营销环节广泛采用。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "移动游戏巨头Outfit7:AI驱动的内容发现让《Talking Tom》AI引荐流量暴涨357%",
+        "url": "https://www.pocketgamer.biz/ai-is-changing-discoverability-how-talking-tom-boosted-ai-referral-traffic-by-357/",
+        "date": "2026-11-12",
+        "summary": "移动游戏厂商Outfit7的一名工程总监披露,随着玩家越来越多通过AI搜索引擎和AI推荐系统寻找游戏,该公司针对AI引荐流量进行专门优化后,《Talking Tom》系列获得的AI引荐流量增长了357%,反映出生成式AI正在改变移动游戏的用户获取和可发现性格局。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "移动游戏巨头Outfit7:AI驱动的内容发现让《Talking Tom》AI引荐流量暴涨357%",
+          "url": "https://www.pocketgamer.biz/ai-is-changing-discoverability-how-talking-tom-boosted-ai-referral-traffic-by-357/",
+          "date": "2026-11-12",
+          "summary": "移动游戏厂商Outfit7的一名工程总监披露,随着玩家越来越多通过AI搜索引擎和AI推荐系统寻找游戏,该公司针对AI引荐流量进行专门优化后,《Talking Tom》系列获得的AI引荐流量增长了357%,反映出生成式AI正在改变移动游戏的用户获取和可发现性格局。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "AI游戏创业公司Anorak完成500万美元种子前轮融资,Supercell等参投",
+        "url": "https://www.pocketgamer.biz/anorak-raises-5m-in-pre-seed-funding-led-by-backed-vc-and-play-ventures/",
+        "date": "2026-11-12",
+        "summary": "由Hutch前CEO Shaun Rutland创立的伦敦/成都双总部公司Anorak完成500万美元种子前轮融资,由Backed VC和Play Ventures联合领投,Supercell、MTG以及Zynga联合创始人Justin Waldron等天使投资人参投。该公司开发利用AI为垂直兴趣社群(如钓鱼、球鞋、观鸟等)制作游戏体验的平台,计划2027年初开放创作者平台。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "AI游戏创业公司Anorak完成500万美元种子前轮融资,Supercell等参投",
+          "url": "https://www.pocketgamer.biz/anorak-raises-5m-in-pre-seed-funding-led-by-backed-vc-and-play-ventures/",
+          "date": "2026-11-12",
+          "summary": "由Hutch前CEO Shaun Rutland创立的伦敦/成都双总部公司Anorak完成500万美元种子前轮融资,由Backed VC和Play Ventures联合领投,Supercell、MTG以及Zynga联合创始人Justin Waldron等天使投资人参投。该公司开发利用AI为垂直兴趣社群(如钓鱼、球鞋、观鸟等)制作游戏体验的平台,计划2027年初开放创作者平台。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "PGC蒙特利尔峰会与MIGS要点:出海中国市场、用好AI与强化live ops成焦点",
+        "url": "https://www.pocketgamer.biz/selling-into-china-getting-the-most-out-of-ai-strengthening-live-ops-key-takeaways-from-pgc-summit-montreal-and-migs/",
+        "date": "2026-11-13",
+        "summary": "在加拿大蒙特利尔举行的PGC峰会与MIGS游戏开发者大会上,如何有效利用AI提升研发效率、强化游戏live ops运营,以及如何打入中国市场成为与会行业人士讨论的三大重点话题,反映出AI工具已成为游戏公司日常运营和国际化战略讨论中的常规议题。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "PGC蒙特利尔峰会与MIGS要点:出海中国市场、用好AI与强化live ops成焦点",
+          "url": "https://www.pocketgamer.biz/selling-into-china-getting-the-most-out-of-ai-strengthening-live-ops-key-takeaways-from-pgc-summit-montreal-and-migs/",
+          "date": "2026-11-13",
+          "summary": "在加拿大蒙特利尔举行的PGC峰会与MIGS游戏开发者大会上,如何有效利用AI提升研发效率、强化游戏live ops运营,以及如何打入中国市场成为与会行业人士讨论的三大重点话题,反映出AI工具已成为游戏公司日常运营和国际化战略讨论中的常规议题。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

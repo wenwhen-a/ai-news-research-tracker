@@ -1,0 +1,536 @@
+{
+  "as_of": "2026-11-18",
+  "cutoff": "2026-11-17",
+  "window_days": 1,
+  "summary": {
+    "input_items": 25,
+    "denied_source": 0,
+    "in_window": 25,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 24,
+    "duplicate_clusters": 1,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 24,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 20,
+    "previously_covered_count": 4
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Xbox公布11月Game Pass第二波阵容，《The Outlast Trials》《Hela: of Mice & Magic》等将加入",
+        "url": "https://news.xbox.com/en-us/2026/11/17/xbox-game-pass-november-2026-wave-2/",
+        "date": "2026-11-17",
+        "summary": "Xbox官方公布11月Game Pass第二波更新：《Call of the Elder Gods》《High on Life 2》《Roadside Research》11月18日上线，《Black Jacket》11月19日上线，《Sniper Ghost Warrior Contracts 2》11月24日加入，《The Outlast Trials》与《Hela: of Mice & Magic》将于12月1日首发即加入订阅服务。同时公布8款游戏将于11月30日从服务中下架，包括《Aliens: Dark Descent》和《Banishers: Ghosts of New Eden》等。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Xbox公布11月Game Pass第二波阵容，《The Outlast Trials》《Hela: of Mice & Magic》等将加入",
+          "url": "https://news.xbox.com/en-us/2026/11/17/xbox-game-pass-november-2026-wave-2/",
+          "date": "2026-11-17",
+          "summary": "Xbox官方公布11月Game Pass第二波更新：《Call of the Elder Gods》《High on Life 2》《Roadside Research》11月18日上线，《Black Jacket》11月19日上线，《Sniper Ghost Warrior Contracts 2》11月24日加入，《The Outlast Trials》与《Hela: of Mice & Magic》将于12月1日首发即加入订阅服务。同时公布8款游戏将于11月30日从服务中下架，包括《Aliens: Dark Descent》和《Banishers: Ghosts of New Eden》等。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Xbox公布The Game Awards 2026提名作品，呼吁玩家在Xbox平台体验50款提名游戏",
+        "url": "https://news.xbox.com/en-us/2026/11/17/the-game-awards-2026-nominees-on-xbox/",
+        "date": "2026-11-17",
+        "summary": "Xbox官方博客公布其平台游戏在The Game Awards 2026获得的提名情况，Xbox第一方工作室作品共获得八项提名。年度最佳游戏提名包括《GTA VI》《生化危机 Requiem》《007 First Light》和《CONTROL Resonant》，Game Pass订阅用户可畅玩《战争机器:E日》《极限竞速:地平线6》《无人深空》等提名作品。颁奖典礼将于12月10日举行，投票已在TheGameAwards.com开放。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Xbox公布The Game Awards 2026提名作品，呼吁玩家在Xbox平台体验50款提名游戏",
+          "url": "https://news.xbox.com/en-us/2026/11/17/the-game-awards-2026-nominees-on-xbox/",
+          "date": "2026-11-17",
+          "summary": "Xbox官方博客公布其平台游戏在The Game Awards 2026获得的提名情况，Xbox第一方工作室作品共获得八项提名。年度最佳游戏提名包括《GTA VI》《生化危机 Requiem》《007 First Light》和《CONTROL Resonant》，Game Pass订阅用户可畅玩《战争机器:E日》《极限竞速:地平线6》《无人深空》等提名作品。颁奖典礼将于12月10日举行，投票已在TheGameAwards.com开放。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "11年来首次，Sony在The Game Awards年度游戏提名中缺席",
+        "url": "https://www.videogameschronicle.com/news/for-the-first-time-in-11-years-sony-doesnt-have-a-goty-nomination-at-the-game-awards/",
+        "date": "2026-11-17",
+        "summary": "The Game Awards 2026公布提名名单，Sony旗下作品首次自2015年以来未获得年度游戏(GOTY)提名。《漫威金刚狼》获最佳表演与最佳无障碍创新两项提名，《Saros》入围最佳动作游戏，《Marathon》入围最佳多人游戏；PlayStation阵营共获九项提名，与Annapurna Interactive并列第三，落后于Capcom和Nintendo，Xbox则获八项提名。Sony此前曾凭《战神》《最后生还者2》《宇宙机器人》三度问鼎GOTY。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "11年来首次，Sony在The Game Awards年度游戏提名中缺席",
+          "url": "https://www.videogameschronicle.com/news/for-the-first-time-in-11-years-sony-doesnt-have-a-goty-nomination-at-the-game-awards/",
+          "date": "2026-11-17",
+          "summary": "The Game Awards 2026公布提名名单，Sony旗下作品首次自2015年以来未获得年度游戏(GOTY)提名。《漫威金刚狼》获最佳表演与最佳无障碍创新两项提名，《Saros》入围最佳动作游戏，《Marathon》入围最佳多人游戏；PlayStation阵营共获九项提名，与Annapurna Interactive并列第三，落后于Capcom和Nintendo，Xbox则获八项提名。Sony此前曾凭《战神》《最后生还者2》《宇宙机器人》三度问鼎GOTY。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Rockstar称PS5 Pro性能不足以让《GTA VI》运行在60帧",
+        "url": "https://www.videogameschronicle.com/news/rockstar-says-ps5-pro-cant-handle-gta-6-at-60-fps/",
+        "date": "2026-11-18",
+        "summary": "Rockstar技术制作总监Marc Chambers向Kotaku表示，《GTA VI》发售后不会在PS5 Pro上推出60帧模式，因为该主机的CPU性能不足以在更高帧率下运行游戏复杂的模拟系统。游戏基础画面使用光线追踪反射、全局光照、光追阴影以及PSSR超分辨率技术，在此设置下PS5 Pro无法突破30帧。Digital Foundry的分析显示标准版PS5帧率波动更明显，Xbox Series S版本则因画质缩水仍存在掉帧问题。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Rockstar称PS5 Pro性能不足以让《GTA VI》运行在60帧",
+          "url": "https://www.videogameschronicle.com/news/rockstar-says-ps5-pro-cant-handle-gta-6-at-60-fps/",
+          "date": "2026-11-18",
+          "summary": "Rockstar技术制作总监Marc Chambers向Kotaku表示，《GTA VI》发售后不会在PS5 Pro上推出60帧模式，因为该主机的CPU性能不足以在更高帧率下运行游戏复杂的模拟系统。游戏基础画面使用光线追踪反射、全局光照、光追阴影以及PSSR超分辨率技术，在此设置下PS5 Pro无法突破30帧。Digital Foundry的分析显示标准版PS5帧率波动更明显，Xbox Series S版本则因画质缩水仍存在掉帧问题。",
+          "section": 3
+        },
+        {
+          "title": "Rockstar确认《GTA 6》PS5 Pro也无法实现60帧模式,CPU性能不足是主因",
+          "url": "https://www.videogameschronicle.com/news/rockstar-says-ps5-pro-cant-handle-gta-6-at-60-fps/",
+          "date": "2026-11-18",
+          "summary": "Rockstar技术制作总监Marc Chambers向Kotaku确认,《GTA 6》在PS5 Pro上同样不会提供60帧模式。他解释PS5 Pro在光线追踪反射、全局光照及PSSR超分辨率加持下画质更佳,但其CPU性能相较于标准PS5提升有限,无法支撑游戏模拟系统运行在更高帧率,目前该平台只能稳定维持30帧;Xbox Series S版本则在画质上做出妥协但仍存在掉帧问题。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "PS5在《GTA VI》发售前一个月内推出第三次系统更新",
+        "url": "https://www.videogameschronicle.com/news/ps5-gets-its-third-system-software-update-in-a-month-right-before-grand-theft-auto-6-is-released/",
+        "date": "2026-11-18",
+        "summary": "Sony发布PS5系统软件版本26.07-14.23.00，大小约1.2GB，玩家需安装该更新才能游玩《GTA VI》。更新说明仅注明「修复了部分系统安全问题」，这是近一个月内第三次系统更新，此前10月21日和11月2日均发布过内容相同的安全修复更新。PlayStation官方支持账号提醒玩家在游戏11月19日发售前的午夜前完成更新下载,报道将此类频繁更新与近期PS5破解盗版进展的传闻联系在一起。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "PS5在《GTA VI》发售前一个月内推出第三次系统更新",
+          "url": "https://www.videogameschronicle.com/news/ps5-gets-its-third-system-software-update-in-a-month-right-before-grand-theft-auto-6-is-released/",
+          "date": "2026-11-18",
+          "summary": "Sony发布PS5系统软件版本26.07-14.23.00，大小约1.2GB，玩家需安装该更新才能游玩《GTA VI》。更新说明仅注明「修复了部分系统安全问题」，这是近一个月内第三次系统更新，此前10月21日和11月2日均发布过内容相同的安全修复更新。PlayStation官方支持账号提醒玩家在游戏11月19日发售前的午夜前完成更新下载,报道将此类频繁更新与近期PS5破解盗版进展的传闻联系在一起。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "PlayStation官方博客预告《GTA VI》明日发售",
+        "url": "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/",
+        "date": "2026-11-18",
+        "summary": "PlayStation官方博客发文确认《GTA VI》将于11月19日登陆PS5，游戏已可在PlayStation Store购买。游戏背景设定在虚构州Leonida，包含Vice City、Leonida Keys等六个区域，主角为Jason Duval和Lucia Caminos，两人因一次失手的抢劫案被卷入跨越全州的犯罪阴谋。游戏首次引入车载及随身收听的点播播客功能，与传统电台节目并存。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "PlayStation官方博客预告《GTA VI》明日发售",
+          "url": "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/",
+          "date": "2026-11-18",
+          "summary": "PlayStation官方博客发文确认《GTA VI》将于11月19日登陆PS5，游戏已可在PlayStation Store购买。游戏背景设定在虚构州Leonida，包含Vice City、Leonida Keys等六个区域，主角为Jason Duval和Lucia Caminos，两人因一次失手的抢劫案被卷入跨越全州的犯罪阴谋。游戏首次引入车载及随身收听的点播播客功能，与传统电台节目并存。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "AMD重申「热爱玩家」，数周前刚称公司将以数据中心业务为先",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-it-loves-gamers-only-weeks-after-proclaiming-it-is-a-datacenter-first-company/",
+        "date": "2026-11-18",
+        "summary": "PC Gamer报道称，AMD近日公开表态称公司“热爱玩家”，而就在数周前，公司高层曾将AMD定位为“数据中心优先”的企业，引发玩家与媒体对其游戏业务优先级的担忧。报道将此次表态与AMD首席执行官苏姿丰此前在CES 2026上强调AI与数据中心业务增长的言论相对照，反映出AMD在数据中心AI芯片需求暴涨背景下，如何平衡游戏显卡业务资源投入的争议。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "AMD重申「热爱玩家」，数周前刚称公司将以数据中心业务为先",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-it-loves-gamers-only-weeks-after-proclaiming-it-is-a-datacenter-first-company/",
+          "date": "2026-11-18",
+          "summary": "PC Gamer报道称，AMD近日公开表态称公司“热爱玩家”，而就在数周前，公司高层曾将AMD定位为“数据中心优先”的企业，引发玩家与媒体对其游戏业务优先级的担忧。报道将此次表态与AMD首席执行官苏姿丰此前在CES 2026上强调AI与数据中心业务增长的言论相对照，反映出AMD在数据中心AI芯片需求暴涨背景下，如何平衡游戏显卡业务资源投入的争议。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《王者荣耀》职业联赛KPL十周年:总决赛B站直播峰值超230万人观看",
+        "url": "https://www.chuapp.com/article/291766.html",
+        "date": "2026-11-17",
+        "summary": "腾讯《王者荣耀》职业联赛KPL迎来十周年,2026年度总决赛于11月14日在成都举行,北京JDG对阵北京WB,次日举办「巅峰之夜」庆典。联赛公布了2016年至2025年十位「年度难忘人物」,本赛季四场分站赛决赛由四支不同战队夺冠,总决赛门票售罄,B站直播峰值观看人数超230万创纪录。KPL还在成都自然历史博物馆举办十周年展览,开展五天吸引超4万人次参观,并在杭州亚运会、名古屋亚运会上成为正式电竞比赛项目。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《王者荣耀》职业联赛KPL十周年:总决赛B站直播峰值超230万人观看",
+          "url": "https://www.chuapp.com/article/291766.html",
+          "date": "2026-11-17",
+          "summary": "腾讯《王者荣耀》职业联赛KPL迎来十周年,2026年度总决赛于11月14日在成都举行,北京JDG对阵北京WB,次日举办「巅峰之夜」庆典。联赛公布了2016年至2025年十位「年度难忘人物」,本赛季四场分站赛决赛由四支不同战队夺冠,总决赛门票售罄,B站直播峰值观看人数超230万创纪录。KPL还在成都自然历史博物馆举办十周年展览,开展五天吸引超4万人次参观,并在杭州亚运会、名古屋亚运会上成为正式电竞比赛项目。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "NC《永恒之塔2》获韩国游戏大赏优秀奖与人气奖",
+        "url": "https://www.invenglobal.com/articles/28772/aion-2-wins-two-awards-at-korea-game-awards-takes-home-excellence-award-and-popular-game-award",
+        "date": "2026-11-18",
+        "summary": "11月18日在釜山BEXCO举行的2026韩国游戏大赏上,NC(NCSoft)旗下MMORPG《永恒之塔2》斩获优秀奖(国务总理奖)与人气游戏奖两项大奖,公司本身还额外获得社会贡献奖。该作为2008年《永恒之塔》续作,采用Unreal Engine 5重制,10月5日起通过Steam与NC自有平台PURPLE拓展至北美、南美、欧洲、日本等地区,全球上线后Steam峰值在线人数超40万,抢先期一度登顶Steam全球畅销榜。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "NC《永恒之塔2》获韩国游戏大赏优秀奖与人气奖",
+          "url": "https://www.invenglobal.com/articles/28772/aion-2-wins-two-awards-at-korea-game-awards-takes-home-excellence-award-and-popular-game-award",
+          "date": "2026-11-18",
+          "summary": "11月18日在釜山BEXCO举行的2026韩国游戏大赏上,NC(NCSoft)旗下MMORPG《永恒之塔2》斩获优秀奖(国务总理奖)与人气游戏奖两项大奖,公司本身还额外获得社会贡献奖。该作为2008年《永恒之塔》续作,采用Unreal Engine 5重制,10月5日起通过Steam与NC自有平台PURPLE拓展至北美、南美、欧洲、日本等地区,全球上线后Steam峰值在线人数超40万,抢先期一度登顶Steam全球畅销榜。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Nexon为新作《蔚蓝档案:普罗米利亚》在首尔展开大规模户外广告攻势",
+        "url": "https://www.invenglobal.com/articles/28767/azur-promilia-launches-out-of-home-advertising-campaign-across-seoul",
+        "date": "2026-11-18",
+        "summary": "Nexon代理、《碧蓝航线》开发商莉莉丝(Manjuu Games)打造的奇幻世界RPG《蔚蓝档案:普罗米利亚》(Azur Promilia)将于11月26日登陆PC及移动平台,游戏提供全程韩语配音。Nexon为此在首尔江南、光化门、龙山、弘大等核心商圈及地铁2号线投放大规模广告,包括角色宣传视频、建筑LED大屏及地铁车厢主题包装,并同步举办「寻找普罗米利亚足迹」社交媒体抽奖活动,持续至11月25日。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Nexon为新作《蔚蓝档案:普罗米利亚》在首尔展开大规模户外广告攻势",
+          "url": "https://www.invenglobal.com/articles/28767/azur-promilia-launches-out-of-home-advertising-campaign-across-seoul",
+          "date": "2026-11-18",
+          "summary": "Nexon代理、《碧蓝航线》开发商莉莉丝(Manjuu Games)打造的奇幻世界RPG《蔚蓝档案:普罗米利亚》(Azur Promilia)将于11月26日登陆PC及移动平台,游戏提供全程韩语配音。Nexon为此在首尔江南、光化门、龙山、弘大等核心商圈及地铁2号线投放大规模广告,包括角色宣传视频、建筑LED大屏及地铁车厢主题包装,并同步举办「寻找普罗米利亚足迹」社交媒体抽奖活动,持续至11月25日。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Konami《合金装备合集Vol.2》《寂静岭:小镇陷落》特别版首次上线8折促销",
+        "url": "https://www.famitsu.com/article/202611/94422",
+        "date": "2026-11-18",
+        "summary": "Konami旗下《METAL GEAR SOLID: MASTER COLLECTION Vol.2》以及《寂静岭:小镇陷落》(Silent Hill: Townfall)特别版于11月18日起首次在PlayStation Store推出8折特惠,纳入平台黑五促销活动范围内。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Konami《合金装备合集Vol.2》《寂静岭:小镇陷落》特别版首次上线8折促销",
+          "url": "https://www.famitsu.com/article/202611/94422",
+          "date": "2026-11-18",
+          "summary": "Konami旗下《METAL GEAR SOLID: MASTER COLLECTION Vol.2》以及《寂静岭:小镇陷落》(Silent Hill: Townfall)特别版于11月18日起首次在PlayStation Store推出8折特惠,纳入平台黑五促销活动范围内。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Capcom《生化危机:安魂曲》获The Game Awards 2026多项提名",
+        "url": "https://www.4gamer.net/games/916/G091663/20261118006/",
+        "date": "2026-11-18",
+        "summary": "The Game Awards 2026提名名单于11月17日(美国时间)公布,Capcom新作《生化危机:安魂曲》获得年度游戏、最佳游戏导演、最佳叙事等多项提名,助力Capcom成为本届提名数仅次于任天堂的发行商。尚未发售的Rockstar《GTA 6》以8项提名领跑全场。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Capcom《生化危机:安魂曲》获The Game Awards 2026多项提名",
+          "url": "https://www.4gamer.net/games/916/G091663/20261118006/",
+          "date": "2026-11-18",
+          "summary": "The Game Awards 2026提名名单于11月17日(美国时间)公布,Capcom新作《生化危机:安魂曲》获得年度游戏、最佳游戏导演、最佳叙事等多项提名,助力Capcom成为本届提名数仅次于任天堂的发行商。尚未发售的Rockstar《GTA 6》以8项提名领跑全场。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《崩坏:星穹铁道》主创访谈畅谈「二相乐园」剧情设计思路",
+        "url": "https://www.famitsu.com/article/202611/90026",
+        "date": "2026-11-18",
+        "summary": "Famitsu刊出米哈游《崩坏:星穹铁道》主创设计师访谈,围绕游戏内「二相乐园」篇章的剧情构思展开,主创表示正因为角色「阿哈」的存在,才让故事出现了意料之外的发展走向。文章还提到该作将于11月24日推出罗森便利店联名活动。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《崩坏:星穹铁道》主创访谈畅谈「二相乐园」剧情设计思路",
+          "url": "https://www.famitsu.com/article/202611/90026",
+          "date": "2026-11-18",
+          "summary": "Famitsu刊出米哈游《崩坏:星穹铁道》主创设计师访谈,围绕游戏内「二相乐园」篇章的剧情构思展开,主创表示正因为角色「阿哈」的存在,才让故事出现了意料之外的发展走向。文章还提到该作将于11月24日推出罗森便利店联名活动。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "米哈游《绝区零》3.4版本「终有漫长一日之终」预告节目定档11月20日",
+        "url": "https://www.4gamer.net/games/421/G042182/20261116028/",
+        "date": "2026-11-17",
+        "summary": "米哈游宣布,《绝区零》Ver.3.4「终有漫长一日之终」版本预告直播节目将于11月20日播出,相关消息于11月17日通过4Gamer等渠道的「本周官方直播节目」栏目发布预告。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "米哈游《绝区零》3.4版本「终有漫长一日之终」预告节目定档11月20日",
+          "url": "https://www.4gamer.net/games/421/G042182/20261116028/",
+          "date": "2026-11-17",
+          "summary": "米哈游宣布,《绝区零》Ver.3.4「终有漫长一日之终」版本预告直播节目将于11月20日播出,相关消息于11月17日通过4Gamer等渠道的「本周官方直播节目」栏目发布预告。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Bandai Namco《铁拳8》开放新角色「小罗杰」,同步推出NIKE联动道具",
+        "url": "https://www.4gamer.net/games/657/G065722/20261117005/",
+        "date": "2026-11-17",
+        "summary": "Bandai Namco格斗游戏《铁拳8》11月17日正式开放亲子角色组合中的「小罗杰」(Roger Jr.)供玩家使用,并同步上线NIKE联名外观道具。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Bandai Namco《铁拳8》开放新角色「小罗杰」,同步推出NIKE联动道具",
+          "url": "https://www.4gamer.net/games/657/G065722/20261117005/",
+          "date": "2026-11-17",
+          "summary": "Bandai Namco格斗游戏《铁拳8》11月17日正式开放亲子角色组合中的「小罗杰」(Roger Jr.)供玩家使用,并同步上线NIKE联名外观道具。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Sega《疯狂出租车:世界巡游》公布第五座城市印度地图及宣传片",
+        "url": "https://www.4gamer.net/games/014/G101452/20261117031/",
+        "date": "2026-11-17",
+        "summary": "Sega公布旗下《疯狂出租车:世界巡游》(Crazy Taxi: World Tour)第五座登场城市——印度的地图信息及宣传片,进一步扩充游戏可游玩城市阵容。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Sega《疯狂出租车:世界巡游》公布第五座城市印度地图及宣传片",
+          "url": "https://www.4gamer.net/games/014/G101452/20261117031/",
+          "date": "2026-11-17",
+          "summary": "Sega公布旗下《疯狂出租车:世界巡游》(Crazy Taxi: World Tour)第五座登场城市——印度的地图信息及宣传片,进一步扩充游戏可游玩城市阵容。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《GTA 6》成《The Game Awards 2026》最多提名作品,入围年度游戏等多项大奖",
+        "url": "https://www.videogameschronicle.com/news/gta-6-is-the-most-nominated-game-at-the-game-awards-2026/",
+        "date": "2026-11-17",
+        "summary": "Take-Two旗下Rockstar Games开发的《GTA 6》成为《The Game Awards 2026》提名数量最多的作品,入围年度游戏、最佳游玩指导、最佳叙事、最佳美术指导、最佳配乐、最佳音效以及Lucia配音演员Manni L. Perez的最佳表演等多个重要奖项类别。年度游戏提名还包括《007: First Light》《心灵杀手2:湖中女巫》《影之刃零》《生化危机9》和《塞尔达传说:时之笛》重制版,最终得奖结果由评审团投票(占90%)与公众投票(占10%)共同决定。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《GTA 6》成《The Game Awards 2026》最多提名作品,入围年度游戏等多项大奖",
+          "url": "https://www.videogameschronicle.com/news/gta-6-is-the-most-nominated-game-at-the-game-awards-2026/",
+          "date": "2026-11-17",
+          "summary": "Take-Two旗下Rockstar Games开发的《GTA 6》成为《The Game Awards 2026》提名数量最多的作品,入围年度游戏、最佳游玩指导、最佳叙事、最佳美术指导、最佳配乐、最佳音效以及Lucia配音演员Manni L. Perez的最佳表演等多个重要奖项类别。年度游戏提名还包括《007: First Light》《心灵杀手2:湖中女巫》《影之刃零》《生化危机9》和《塞尔达传说:时之笛》重制版,最终得奖结果由评审团投票(占90%)与公众投票(占10%)共同决定。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Metacritic上线前出现虚假评论,平台紧急下架并暂停《GTA 6》用户评分功能",
+        "url": "https://www.videogameschronicle.com/news/metacritic-has-already-had-to-remove-fake-gta-6-user-reviews/",
+        "date": "2026-11-17",
+        "summary": "在《GTA 6》正式发售前数日,评分网站Metacritic上出现大量虚假用户评论,其中部分为负评,拉低了游戏尚未发售前的用户评分。Metacritic随后删除了这些评论并暂时关闭了用户评分功能,该平台通常会在游戏发售36小时后才开放用户评论,以防止“刷分攻击”,该游戏将于11月19日在PlayStation和Xbox平台发售,PC版稍后推出。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Metacritic上线前出现虚假评论,平台紧急下架并暂停《GTA 6》用户评分功能",
+          "url": "https://www.videogameschronicle.com/news/metacritic-has-already-had-to-remove-fake-gta-6-user-reviews/",
+          "date": "2026-11-17",
+          "summary": "在《GTA 6》正式发售前数日,评分网站Metacritic上出现大量虚假用户评论,其中部分为负评,拉低了游戏尚未发售前的用户评分。Metacritic随后删除了这些评论并暂时关闭了用户评分功能,该平台通常会在游戏发售36小时后才开放用户评论,以防止“刷分攻击”,该游戏将于11月19日在PlayStation和Xbox平台发售,PC版稍后推出。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "媒体评分出炉:《GTA 6》登顶Metacritic历史最高分游戏榜首",
+        "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-is-currently-the-highest-scoring-video-game-of-all-time-according-to-metacritic/",
+        "date": "2026-11-18",
+        "summary": "根据Metacritic媒体评分,《GTA 6》在PS5平台基于109篇评测获得99分,在Xbox Series X/S平台同样获得99分,成为2026年评分最高的游戏,并超越了此前并列第一的《塞尔达传说:时之笛》(同为99分但综合计算排名稍后),登上Metacritic史上最高分游戏榜首,VGC自家评测称其为“这一世代的游戏”。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "媒体评分出炉:《GTA 6》登顶Metacritic历史最高分游戏榜首",
+          "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-is-currently-the-highest-scoring-video-game-of-all-time-according-to-metacritic/",
+          "date": "2026-11-18",
+          "summary": "根据Metacritic媒体评分,《GTA 6》在PS5平台基于109篇评测获得99分,在Xbox Series X/S平台同样获得99分,成为2026年评分最高的游戏,并超越了此前并列第一的《塞尔达传说:时之笛》(同为99分但综合计算排名稍后),登上Metacritic史上最高分游戏榜首,VGC自家评测称其为“这一世代的游戏”。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "NBA迈阿密热火队为《GTA 6》打造限定主题球场,配合Rockstar推出联名周边",
+        "url": "https://www.videogameschronicle.com/news/first-look-at-gtas-miami-heat-full-stadium-transformation/",
+        "date": "2026-11-17",
+        "summary": "NBA迈阿密热火队将主场凯悦中心球馆地板改装为《GTA 6》“罪恶城市”主题设计,该造型仅在对阵密尔沃基雄鹿队的一场比赛中亮相,是Rockstar与球队联名合作的一部分,双方同时推出《GTA 6》主题球队周边商品,以配合游戏11月19日的发售。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "NBA迈阿密热火队为《GTA 6》打造限定主题球场,配合Rockstar推出联名周边",
+          "url": "https://www.videogameschronicle.com/news/first-look-at-gtas-miami-heat-full-stadium-transformation/",
+          "date": "2026-11-17",
+          "summary": "NBA迈阿密热火队将主场凯悦中心球馆地板改装为《GTA 6》“罪恶城市”主题设计,该造型仅在对阵密尔沃基雄鹿队的一场比赛中亮相,是Rockstar与球队联名合作的一部分,双方同时推出《GTA 6》主题球队周边商品,以配合游戏11月19日的发售。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "新西兰官方旅游局调侃玩家靠时区“偷跑”提前玩到《GTA 6》",
+        "url": "https://www.videogameschronicle.com/news/new-zealands-official-tourism-agency-jokes-about-gta-6-players-joining-us-to-play-the-game-early/",
+        "date": "2026-11-18",
+        "summary": "新西兰官方旅游机构Tourism New Zealand在其Instagram账号上调侃称,由于新西兰是西方主要地区中最早进入新一天的时区,当地玩家能比大部分西方国家玩家更早玩到《GTA 6》,并借机邀请玩家“亲自来新西兰看看”,为这款即将于11月19日发售的游戏造势。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "新西兰官方旅游局调侃玩家靠时区“偷跑”提前玩到《GTA 6》",
+          "url": "https://www.videogameschronicle.com/news/new-zealands-official-tourism-agency-jokes-about-gta-6-players-joining-us-to-play-the-game-early/",
+          "date": "2026-11-18",
+          "summary": "新西兰官方旅游机构Tourism New Zealand在其Instagram账号上调侃称,由于新西兰是西方主要地区中最早进入新一天的时区,当地玩家能比大部分西方国家玩家更早玩到《GTA 6》,并借机邀请玩家“亲自来新西兰看看”,为这款即将于11月19日发售的游戏造势。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Netflix证实游戏部门裁员,距上次全公司千人裁员计划不到一个月",
+        "url": "https://www.pocketgamer.biz/netflix-confirms-games-division-layoffs/",
+        "date": "2026-11-18",
+        "summary": "Netflix确认其游戏部门近期因“重组”裁减了部分员工,具体人数未披露。公司表示此次调整不会影响其整体游戏战略,并强调仍将通过新游戏发布(如《Scrabble Shake-Up》《Scattergories Party》)继续投资游戏业务。此次裁员距Netflix宣布全球裁员1000人的计划不到一个月,两者是否相关尚不明确;此前Netflix已出售Spry Fox、关闭Night School Studios和Boss Fight Entertainment等旗下工作室。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Netflix证实游戏部门裁员,距上次全公司千人裁员计划不到一个月",
+          "url": "https://www.pocketgamer.biz/netflix-confirms-games-division-layoffs/",
+          "date": "2026-11-18",
+          "summary": "Netflix确认其游戏部门近期因“重组”裁减了部分员工,具体人数未披露。公司表示此次调整不会影响其整体游戏战略,并强调仍将通过新游戏发布(如《Scrabble Shake-Up》《Scattergories Party》)继续投资游戏业务。此次裁员距Netflix宣布全球裁员1000人的计划不到一个月,两者是否相关尚不明确;此前Netflix已出售Spry Fox、关闭Night School Studios和Boss Fight Entertainment等旗下工作室。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Take-Two旗下Zynga将免费虚拟工作室体验Access All Areas扩展至印度、加拿大和美国",
+        "url": "https://www.pocketgamer.biz/zynga-expands-access-all-areas-virtual-studio-to-india-canada-and-us/",
+        "date": "2026-11-17",
+        "summary": "Take-Two旗下移动游戏厂商Zynga将其面向青少年的免费虚拟工作室体验项目“Access All Areas”从英国扩展至印度、加拿大和美国。该项目通过360度虚拟工作室参观、幕后内容和行业人士访谈,向年轻人介绍美术、设计、编程、数据科学等游戏开发相关职业路径。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Take-Two旗下Zynga将免费虚拟工作室体验Access All Areas扩展至印度、加拿大和美国",
+          "url": "https://www.pocketgamer.biz/zynga-expands-access-all-areas-virtual-studio-to-india-canada-and-us/",
+          "date": "2026-11-17",
+          "summary": "Take-Two旗下移动游戏厂商Zynga将其面向青少年的免费虚拟工作室体验项目“Access All Areas”从英国扩展至印度、加拿大和美国。该项目通过360度虚拟工作室参观、幕后内容和行业人士访谈,向年轻人介绍美术、设计、编程、数据科学等游戏开发相关职业路径。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Google Play公布2026年度最佳游戏榜单,《明日方舟:终末地》夺得年度最佳游戏",
+        "url": "https://www.pocketgamer.biz/google-plays-best-of-play-2026-winners-arknights-endfield-subway-surfers-city-sea-of-stars-and-more/",
+        "date": "2026-11-17",
+        "summary": "Google Play公布2026年度“Best of Play”获奖名单,《明日方舟:终末地》(Gryphline)获评年度最佳游戏,评委称赞其剧情、玩法机制、战斗系统、角色塑造与美术表现;其他获奖作品包括最佳多人游戏《Warframe》、最佳独立游戏《Deep Rock Galactic: Survivor》、最佳长线运营游戏《崩坏:星穹铁道》续作《绝区零》,以及移动版《群星之海》获得最佳叙事奖。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Google Play公布2026年度最佳游戏榜单,《明日方舟:终末地》夺得年度最佳游戏",
+          "url": "https://www.pocketgamer.biz/google-plays-best-of-play-2026-winners-arknights-endfield-subway-surfers-city-sea-of-stars-and-more/",
+          "date": "2026-11-17",
+          "summary": "Google Play公布2026年度“Best of Play”获奖名单,《明日方舟:终末地》(Gryphline)获评年度最佳游戏,评委称赞其剧情、玩法机制、战斗系统、角色塑造与美术表现;其他获奖作品包括最佳多人游戏《Warframe》、最佳独立游戏《Deep Rock Galactic: Survivor》、最佳长线运营游戏《崩坏:星穹铁道》续作《绝区零》,以及移动版《群星之海》获得最佳叙事奖。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [
+    [
+      {
+        "title": "Rockstar称PS5 Pro性能不足以让《GTA VI》运行在60帧",
+        "url": "https://www.videogameschronicle.com/news/rockstar-says-ps5-pro-cant-handle-gta-6-at-60-fps/",
+        "date": "2026-11-18",
+        "summary": "Rockstar技术制作总监Marc Chambers向Kotaku表示，《GTA VI》发售后不会在PS5 Pro上推出60帧模式，因为该主机的CPU性能不足以在更高帧率下运行游戏复杂的模拟系统。游戏基础画面使用光线追踪反射、全局光照、光追阴影以及PSSR超分辨率技术，在此设置下PS5 Pro无法突破30帧。Digital Foundry的分析显示标准版PS5帧率波动更明显，Xbox Series S版本则因画质缩水仍存在掉帧问题。",
+        "section": 3
+      },
+      {
+        "title": "Rockstar确认《GTA 6》PS5 Pro也无法实现60帧模式,CPU性能不足是主因",
+        "url": "https://www.videogameschronicle.com/news/rockstar-says-ps5-pro-cant-handle-gta-6-at-60-fps/",
+        "date": "2026-11-18",
+        "summary": "Rockstar技术制作总监Marc Chambers向Kotaku确认,《GTA 6》在PS5 Pro上同样不会提供60帧模式。他解释PS5 Pro在光线追踪反射、全局光照及PSSR超分辨率加持下画质更佳,但其CPU性能相较于标准PS5提升有限,无法支撑游戏模拟系统运行在更高帧率,目前该平台只能稳定维持30帧;Xbox Series S版本则在画质上做出妥协但仍存在掉帧问题。",
+        "section": 3
+      }
+    ]
+  ],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

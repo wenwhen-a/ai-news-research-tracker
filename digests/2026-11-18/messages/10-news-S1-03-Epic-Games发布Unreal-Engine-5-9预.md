@@ -1,0 +1,12 @@
+**[新闻 3] Epic Games发布Unreal Engine 5.9预览版，加入Unreal MCP、Assistant与Canvas等AI代理工具**
+- **日期：** 2026-11-16
+- **来源链接：** <https://digitalproduction.com/2026/11/16/unreal-engine-5-9-preview-agents-canvas-and-a-browser-sized-ambition/>
+- **核心事实：**
+  - Unreal Engine 5.9预览版新增Unreal MCP：在编辑器进程内内置服务器，兼容客户端可通过本地HTTP调用针对Actor、蓝图、材质、Niagara、Sequencer及PCG等领域的工具集，工具开放范围由"工具集注册表"控制，端口、允许来源与协议版本可在项目及编辑器偏好设置中配置
+  - 新增Assistant工具：提供分级工具访问权限，由"仅询问""仅读取"到"编辑""自动""完全自主"逐级放权，官方特别提示最高权限级别应配合版本控制系统使用
+  - 实验性新功能Unreal Canvas：供美术人员与AI代理协作迭代内容的共享工作区，整合文本、图像、视频与网格生成器，并提供"空间标注"功能在3D场景中添加带上下文的注释；其中Canvas Bridge可将Movie Render Graph渲染过程暴露为MCP工具供代理调用
+- **背景与起因：**
+  - 此前Epic已多次释放虚幻引擎深度整合AI代理的信号，包括此前曝光的"主要由AI智能体构建的虚幻引擎版本"相关预览细节
+  - 随着AI编程代理在游戏开发流程中的渗透加深，引擎厂商通过开放标准化协议（MCP）接口，争取成为AI代理操作的首选底层平台
+- **结果与进展：**
+  - 三项功能均标注为预览/实验性阶段，尚未进入正式发布版本；Epic在文档中就权限管理和版本控制使用提出了明确的风险提示
