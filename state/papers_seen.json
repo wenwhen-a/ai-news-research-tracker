@@ -20184,7 +20184,7 @@
  "2610.29845": {
   "status": "screened-out",
   "first_seen": "2026-10-22",
-  "submitted": "2026-10-21T15:06:08Z",
+  "submitted": "2026-10-21",
   "title": "RangeNav: Task-Aligned LiDAR Range-Image Pretraining for Robot Navigation"
  },
  "2610.29780": {
@@ -20244,7 +20244,7 @@
  "2610.29177": {
   "status": "screened-out",
   "first_seen": "2026-10-22",
-  "submitted": "2026-10-21T04:09:17Z",
+  "submitted": "2026-10-21",
   "title": "ROCOCO: Robust Outline Completion of Occluded Curvilinear Objects"
  },
  "2610.29169": {
@@ -20421,7 +20421,7 @@
  "2610.31275": {
   "status": "screened-out",
   "first_seen": "2026-10-23",
-  "submitted": "2026-10-22T13:43:47Z",
+  "submitted": "2026-10-22",
   "title": "Learning Robot Behavior Priors from Non-Robotic Synthetic Data"
  },
  "2610.31194": {
@@ -21012,7 +21012,7 @@
  "2610.34126": {
   "status": "screened-out",
   "first_seen": "2026-10-27",
-  "submitted": "2026-10-25T07:51:22Z",
+  "submitted": "2026-10-25",
   "title": "HumanoidNDM: Closing the Training-Deployment Gap of Motion Tracking via Humanoid Neural Dynamics Model"
  },
  "2610.34093": {
@@ -21186,7 +21186,7 @@
  "2610.37652": {
   "status": "screened-out",
   "first_seen": "2026-10-28",
-  "submitted": "2026-10-27T17:58:20Z",
+  "submitted": "2026-10-27",
   "title": "Dexterous In-Hand Object Pose Reaching with Learned Safety Filters"
  },
  "2610.37588": {
@@ -21744,7 +21744,7 @@
  "2610.38100": {
   "status": "screened-out",
   "first_seen": "2026-10-31",
-  "submitted": "2026-10-28T00:34:36Z",
+  "submitted": "2026-10-28",
   "title": "Evaluating Causal Reasoning in LLMs: A Case Study in the Challenges of Procedural Generation"
  },
  "2610.38080": {
@@ -22320,7 +22320,7 @@
  "2611.01048": {
   "status": "screened-out",
   "first_seen": "2026-11-03",
-  "submitted": "2026-10-31T15:41:16Z",
+  "submitted": "2026-10-31",
   "title": "Infinite Worlds from One Example: What Local Generators Must Share"
  },
  "2611.01039": {
@@ -22578,7 +22578,7 @@
  "2611.04392": {
   "status": "screened-out",
   "first_seen": "2026-11-04",
-  "submitted": "2026-11-03T06:25:06Z",
+  "submitted": "2026-11-03",
   "title": "Aero-VPA: Few-Step Flow-Matching Control over Non-Reconstructive JEPA Latents for Agile Flight on Edge Hardware"
  },
  "2611.04371": {
@@ -22863,7 +22863,7 @@
  "2611.05507": {
   "status": "screened-out",
   "first_seen": "2026-11-05",
-  "submitted": "2026-11-03T19:04:27Z",
+  "submitted": "2026-11-03",
   "title": "Ctrl-F: Force as an Interface for Humanoid Loco-Manipulation"
  },
  "2611.05450": {
@@ -23046,7 +23046,7 @@
  "2611.07437": {
   "status": "screened-out",
   "first_seen": "2026-11-06",
-  "submitted": "2026-11-05T04:35:16Z",
+  "submitted": "2026-11-05",
   "title": "IMUDINO: Self-distilled Foundation Model for Inertial Sensing"
  },
  "2611.07301": {
@@ -23169,7 +23169,7 @@
  "2611.08857": {
   "status": "screened-out",
   "first_seen": "2026-11-09",
-  "submitted": "2026-11-06T01:27:34Z",
+  "submitted": "2026-11-06",
   "title": "STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards"
  },
  "2611.08814": {
@@ -23181,7 +23181,7 @@
  "2611.08797": {
   "status": "screened-out",
   "first_seen": "2026-11-09",
-  "submitted": "2026-11-05T23:41:21Z",
+  "submitted": "2026-11-05",
   "title": "MotionBench-XAI: Benchmarking What Shapes Shapley Explanations in Spatiotemporal Machine Learning"
  },
  "2611.08795": {
@@ -23214,7 +23214,7 @@
  "2611.08544": {
   "status": "screened-out",
   "first_seen": "2026-11-09",
-  "submitted": "2026-11-05T04:08:45Z",
+  "submitted": "2026-11-05",
   "title": "GenStrain: Multi-Conditional Generative Diffusion Model To Synthesize High-quality Motion and Strain Maps From Cardiac Magnetic Resonance Images"
  },
  "2611.12875": {
@@ -23454,7 +23454,7 @@
  "2611.11517": {
   "status": "screened-out",
   "first_seen": "2026-11-10",
-  "submitted": "2026-11-08T17:49:43Z",
+  "submitted": "2026-11-08",
   "title": "InfCoiL: Coordinated Planner-Controller Learning for Closed-Loop Physics-Based Human-Object Interaction"
  },
  "2611.11516": {
@@ -24048,7 +24048,7 @@
  "2611.15966": {
   "status": "screened-out",
   "first_seen": "2026-11-13",
-  "submitted": "2026-11-11T20:05:55Z",
+  "submitted": "2026-11-11",
   "title": "Subject-Held-Out Evaluation of Deep Ground Reaction Force Estimators Across Two Laboratories: Leakage and Cross-Laboratory Transfer"
  },
  "2611.15937": {
@@ -24204,7 +24204,7 @@
  "2611.14838": {
   "status": "screened-out",
   "first_seen": "2026-11-13",
-  "submitted": "2026-11-10T23:40:14Z",
+  "submitted": "2026-11-10",
   "title": "Sophon: A Procedural Diagnostic for Spatial Reasoning in Vision-Language Models"
  },
  "2611.14815": {
@@ -25021,5 +25021,17 @@
   "first_seen": "2026-11-18",
   "submitted": "2026-11-11",
   "title": "TyphoonWorld: A Residual Token World Model for Probabilistic Forecasting of Typhoon Imagery"
+ },
+ "2611.24711": {
+  "status": "screened-out",
+  "first_seen": "2026-11-19",
+  "submitted": "2026-11-18",
+  "title": "Openhagen Worlds: Calibrated Environments for Measuring and Training Scientific Discovery Agents"
+ },
+ "2611.24596": {
+  "status": "screened-out",
+  "first_seen": "2026-11-19",
+  "submitted": "2026-11-18",
+  "title": "From Activity Recognition to Shift Detection: Variational Wi-Fi Sensing with Evidential Uncertainty"
  }
 }
