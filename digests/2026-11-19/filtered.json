@@ -1,0 +1,599 @@
+{
+  "as_of": "2026-11-19",
+  "cutoff": "2026-11-12",
+  "window_days": 7,
+  "summary": {
+    "input_items": 25,
+    "denied_source": 0,
+    "in_window": 25,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 21,
+    "duplicate_clusters": 4,
+    "section1_count": 8,
+    "section2_count": 13,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": true,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 9,
+    "previously_covered_count": 12
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "GDC《游戏产业状况:2026年11月》调查:40%开发者用生成式AI,55%认为影响负面",
+        "url": "https://www.gamedeveloper.com/business/layoffs-ai-and-next-gen-what-2-600-game-professionals-told-gdc-this-year",
+        "date": "2026-11-12",
+        "summary": "GDC于2026年11月12日发布《游戏产业状况:2026年11月》报告(官方链接reg.gdconf.com/soti-nov-2026),调查覆盖69个国家超过2600名游戏行业从业者。40%的受访者表示在工作中使用生成式AI,高于此前一期的36%,其中57%的使用者每天都在使用;常见用途依次为调研与头脑风暴(约75%)、代码生成与调试(56%)、概念美术(22%),仅7%用于面向玩家的功能。55%的受访者认为生成式AI正在对行业产生负面影响,35%认为影响复杂,仅8%认为正面,负面评价比例持续上升。按工作室类型看,移动端工作室AI使用率达70%,独立开发者仅29%;27%的3A团队员工感到被鼓励或被迫使用AI,独立团队这一比例为9%,23%的受访者表示所在工作室明令禁止使用AI。调查还显示过去两年中约三分之一(33%)的受访者曾被裁员,高于上一次报告的数字,行业持续的裁员潮与AI渗透同时发生。该报告通常在年初发布,此次移至年末发布,被PCGamer、Kotaku、TweakTown、MassivelyOP等多家媒体广泛引用,成为本周游戏与AI话题的核心数据来源,并引发关于技能退化和「AI疲劳」的讨论。",
+        "section": 1,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "GDC《游戏产业状况:2026年11月》调查:40%开发者用生成式AI,55%认为影响负面",
+          "url": "https://www.gamedeveloper.com/business/layoffs-ai-and-next-gen-what-2-600-game-professionals-told-gdc-this-year",
+          "date": "2026-11-12",
+          "summary": "GDC于2026年11月12日发布《游戏产业状况:2026年11月》报告(官方链接reg.gdconf.com/soti-nov-2026),调查覆盖69个国家超过2600名游戏行业从业者。40%的受访者表示在工作中使用生成式AI,高于此前一期的36%,其中57%的使用者每天都在使用;常见用途依次为调研与头脑风暴(约75%)、代码生成与调试(56%)、概念美术(22%),仅7%用于面向玩家的功能。55%的受访者认为生成式AI正在对行业产生负面影响,35%认为影响复杂,仅8%认为正面,负面评价比例持续上升。按工作室类型看,移动端工作室AI使用率达70%,独立开发者仅29%;27%的3A团队员工感到被鼓励或被迫使用AI,独立团队这一比例为9%,23%的受访者表示所在工作室明令禁止使用AI。调查还显示过去两年中约三分之一(33%)的受访者曾被裁员,高于上一次报告的数字,行业持续的裁员潮与AI渗透同时发生。该报告通常在年初发布,此次移至年末发布,被PCGamer、Kotaku、TweakTown、MassivelyOP等多家媒体广泛引用,成为本周游戏与AI话题的核心数据来源,并引发关于技能退化和「AI疲劳」的讨论。",
+          "section": 1,
+          "source_tier": "2"
+        },
+        {
+          "title": "GDC《2026年11月游戏行业状况报告》：裁员、AI使用与行业情绪调查",
+          "url": "https://www.gamedeveloper.com/business/layoffs-ai-and-next-gen-what-2-600-game-professionals-told-gdc-this-year",
+          "date": "2026-11-12",
+          "summary": "GDC于11月12日发布《2026年11月游戏行业状况报告》(State of the Game Industry)，调查覆盖69个国家超过2600名游戏行业从业者。核心事实：40%的受访者表示在工作中使用生成式AI，较上年上升4个百分点；但55%的受访者认为生成式AI对行业影响是负面的（上年为54%），35%认为影响复杂，仅8%认为是正面的；使用者中57%主要将AI用于文本生成、调研、早期原型设计、写代码及制作演示文稿等场景；专注移动游戏的工作室使用率高达70%，专注F2P（免费游玩）项目的从业者使用率为58%，均高于行业平均；QA测试与社区支持岗位对AI的负面评价最为集中。调查还显示，34%的受访者过去两年内曾被裁员（美国受访者为39%），其中54%目前仍处于失业状态；49%的受访者表示所在公司过去一年内发生过裁员，三A工作室该比例高达68%；约45%的工作室在过去12个月使用过联合开发（co-dev）服务；报告还涉及次世代主机（代号\"Project Helix\"）的行业准备情况。背景：该调查由GDC主办，是游戏行业规模较大、跨国覆盖面较广的从业者情绪与行业状况年度调查之一，此次为年内第二次发布（此前1月发布的版本中，52%的受访者认为AI影响负面）。结果与进展：报告发布后被PC Gamer、80.lv、Pocket Gamer等多家媒体转载讨论，凸显行业在持续裁员压力与AI快速渗透之间的矛盾心态；完整报告已在GDC官网免费开放下载。",
+          "section": 1,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "米哈游发布通用游戏智能体\"Gamer\"研究,用于游戏自动化测试",
+        "url": "https://arxiv.org/abs/2611.18397",
+        "date": "2026-11-13",
+        "summary": "米哈游崩坏AI研发团队联合新加坡国立大学、清华大学、中国科学院大学、中国科学技术大学及西安交通大学研究人员,于2026年11月13日在arXiv发布论文,介绍通用游戏智能体\"Gamer\"。该智能体以阿里巴巴Qwen3-VL(8B)为基础模型,通过观察游戏画面自主操作键盘与鼠标:先用数万小时游玩录像学习基础操作,再引入每步操作的目的说明进行目标导向训练,最后通过强化学习微调。团队在《崩坏:星穹铁道》两个未参与训练的支线任务及七种小游戏上测试其表现:两个支线任务的中间目标达成率分别为80.0%和83.6%,七种小游戏平均成功率49.7%,显著高于对比模型GPT-6.1-Sol的17.1%;团队还在基于DOOM的ViZDoom环境中测试了其泛化能力。研究团队将其设想用于游戏开发中的自动化测试,例如验证任务流程是否正确、以及版本更新后对既有内容的回归测试,这与米哈游近年持续加码AI研发(CEO刘伟今年早些时候公开表态未来三年AI总投入上限1000亿元)的战略相符。该研究已被日本游戏媒体GameBusiness.jp(2026年11月17日)、GameSpark等报道,被视为中国大型游戏公司将通用AI智能体用于自动化QA测试的最新尝试。",
+        "section": 1,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "米哈游发布通用游戏智能体\"Gamer\"研究,用于游戏自动化测试",
+          "url": "https://arxiv.org/abs/2611.18397",
+          "date": "2026-11-13",
+          "summary": "米哈游崩坏AI研发团队联合新加坡国立大学、清华大学、中国科学院大学、中国科学技术大学及西安交通大学研究人员,于2026年11月13日在arXiv发布论文,介绍通用游戏智能体\"Gamer\"。该智能体以阿里巴巴Qwen3-VL(8B)为基础模型,通过观察游戏画面自主操作键盘与鼠标:先用数万小时游玩录像学习基础操作,再引入每步操作的目的说明进行目标导向训练,最后通过强化学习微调。团队在《崩坏:星穹铁道》两个未参与训练的支线任务及七种小游戏上测试其表现:两个支线任务的中间目标达成率分别为80.0%和83.6%,七种小游戏平均成功率49.7%,显著高于对比模型GPT-6.1-Sol的17.1%;团队还在基于DOOM的ViZDoom环境中测试了其泛化能力。研究团队将其设想用于游戏开发中的自动化测试,例如验证任务流程是否正确、以及版本更新后对既有内容的回归测试,这与米哈游近年持续加码AI研发(CEO刘伟今年早些时候公开表态未来三年AI总投入上限1000亿元)的战略相符。该研究已被日本游戏媒体GameBusiness.jp(2026年11月17日)、GameSpark等报道,被视为中国大型游戏公司将通用AI智能体用于自动化QA测试的最新尝试。",
+          "section": 1,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "欧洲六国游戏从业者工会联合发布反生成式AI宣言",
+        "url": "https://kotaku.com/video-game-union-manifesto-calls-on-consumers-to-support-games-made-without-genai-2000757423",
+        "date": "2026-11-16",
+        "summary": "英国IWGB Game Workers、爱尔兰GWUI、法国STJV、西班牙CSVI、德国GDRT及意大利FIOM-CGIL六家欧洲游戏行业工会,于2026年11月16日在英国曼彻斯特举行的第二届欧洲游戏从业者工会峰会上,联合发布题为《On Generative AI Usage in the Games Industry》的宣言。宣言称生成式AI正对行业、从业者及游戏作品造成损害,列举环境代价高、初级岗位减少、模型训练涉嫌使用\"偷来的第三方数据\"等问题,并指责部分发行商囤积相关技术知识以转卖给企业、借此削减成本和裁员。宣言呼吁:员工应尽量避免使用生成式AI、公开发声并组建/加入工会;雇主应让员工自行决定何时及如何使用AI,在行为准则中禁止使用(包括原型阶段),对不可避免的使用进行明确标注,并设立委员会调查违规;玩家应支持未使用生成式AI制作的游戏并公开表态;监管机构应立法禁止未经授权和合理报酬将创作者作品纳入AI训练数据集。此次峰会是继2025年11月首届欧洲游戏从业者工会峰会后,六家工会代表首次再度集体会面,意在强化国际工会协作,应对行业内生成式AI使用扩大及持续裁员潮。该宣言已被Kotaku、Rock Paper Shotgun、Invenglobal等多家媒体报道,成为本周游戏行业关于生成式AI劳工争议的焦点事件。",
+        "section": 1,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "欧洲六国游戏从业者工会联合发布反生成式AI宣言",
+          "url": "https://kotaku.com/video-game-union-manifesto-calls-on-consumers-to-support-games-made-without-genai-2000757423",
+          "date": "2026-11-16",
+          "summary": "英国IWGB Game Workers、爱尔兰GWUI、法国STJV、西班牙CSVI、德国GDRT及意大利FIOM-CGIL六家欧洲游戏行业工会,于2026年11月16日在英国曼彻斯特举行的第二届欧洲游戏从业者工会峰会上,联合发布题为《On Generative AI Usage in the Games Industry》的宣言。宣言称生成式AI正对行业、从业者及游戏作品造成损害,列举环境代价高、初级岗位减少、模型训练涉嫌使用\"偷来的第三方数据\"等问题,并指责部分发行商囤积相关技术知识以转卖给企业、借此削减成本和裁员。宣言呼吁:员工应尽量避免使用生成式AI、公开发声并组建/加入工会;雇主应让员工自行决定何时及如何使用AI,在行为准则中禁止使用(包括原型阶段),对不可避免的使用进行明确标注,并设立委员会调查违规;玩家应支持未使用生成式AI制作的游戏并公开表态;监管机构应立法禁止未经授权和合理报酬将创作者作品纳入AI训练数据集。此次峰会是继2025年11月首届欧洲游戏从业者工会峰会后,六家工会代表首次再度集体会面,意在强化国际工会协作,应对行业内生成式AI使用扩大及持续裁员潮。该宣言已被Kotaku、Rock Paper Shotgun、Invenglobal等多家媒体报道,成为本周游戏行业关于生成式AI劳工争议的焦点事件。",
+          "section": 1,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《黑色沙漠2》开发商Pearl Abyss确认AI已用于开发多个环节,此前曾因AI美术道歉",
+        "url": "https://www.videogameschronicle.com/news/crimson-desert-studio-pearl-abyss-says-it-now-uses-ai-across-various-stages-of-development/",
+        "date": "2026-11-16",
+        "summary": "据VGC(Video Games Chronicle)2026年11月16日报道,《黑色沙漠2》(Crimson Desert)开发商Pearl Abyss在其2026年第三季度致股东财报信中确认,公司目前在开发的多个阶段使用AI,具体包括\"重复性任务自动化、内容创作支持及测试优化\"。信中称,《黑色沙漠2》资料片及加强版开发过程中使用的AI技术,正被用于加速另一款开放世界生物收集游戏《DokeV》(计划2028年末发售)的开发,且团队现在会先用AI测试设计构想,再由人工正式落地实现;公司强调AI只是\"工具\",不会取代员工,核心玩法与内容创作仍由开发团队主导。背景是2026年3月玩家发现《黑色沙漠2》游戏内2D过场美术中含有生成式AI痕迹,Pearl Abyss随后在社交媒体致歉,称部分早期迭代的视觉素材使用了实验性AI生成工具制作,原计划替换为符合质量标准的人工作品,并承诺进行全面审查,但当时并未承诺停止在美术资产中使用AI。此次股东信表态表明,尽管此前因AI美术资产引发玩家不满并公开致歉,Pearl Abyss并未收缩AI使用范围,反而将其扩展到更多开发环节及新项目,反映出游戏公司AI应用扩张与玩家、行业反AI情绪之间持续存在的张力。",
+        "section": 1,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "《黑色沙漠2》开发商Pearl Abyss确认AI已用于开发多个环节,此前曾因AI美术道歉",
+          "url": "https://www.videogameschronicle.com/news/crimson-desert-studio-pearl-abyss-says-it-now-uses-ai-across-various-stages-of-development/",
+          "date": "2026-11-16",
+          "summary": "据VGC(Video Games Chronicle)2026年11月16日报道,《黑色沙漠2》(Crimson Desert)开发商Pearl Abyss在其2026年第三季度致股东财报信中确认,公司目前在开发的多个阶段使用AI,具体包括\"重复性任务自动化、内容创作支持及测试优化\"。信中称,《黑色沙漠2》资料片及加强版开发过程中使用的AI技术,正被用于加速另一款开放世界生物收集游戏《DokeV》(计划2028年末发售)的开发,且团队现在会先用AI测试设计构想,再由人工正式落地实现;公司强调AI只是\"工具\",不会取代员工,核心玩法与内容创作仍由开发团队主导。背景是2026年3月玩家发现《黑色沙漠2》游戏内2D过场美术中含有生成式AI痕迹,Pearl Abyss随后在社交媒体致歉,称部分早期迭代的视觉素材使用了实验性AI生成工具制作,原计划替换为符合质量标准的人工作品,并承诺进行全面审查,但当时并未承诺停止在美术资产中使用AI。此次股东信表态表明,尽管此前因AI美术资产引发玩家不满并公开致歉,Pearl Abyss并未收缩AI使用范围,反而将其扩展到更多开发环节及新项目,反映出游戏公司AI应用扩张与玩家、行业反AI情绪之间持续存在的张力。",
+          "section": 1,
+          "source_tier": "2"
+        },
+        {
+          "title": "《Crimson Desert》开发商Pearl Abyss称已在开发全流程中使用AI",
+          "url": "https://www.videogameschronicle.com/news/crimson-desert-studio-pearl-abyss-says-it-now-uses-ai-across-various-stages-of-development/",
+          "date": "2026-11-13",
+          "summary": "韩国游戏公司Pearl Abyss在2026年第三季度股东业绩信中表示，公司已在开发多个环节使用AI，用于自动化重复性工作、辅助内容创作及优化测试流程；在新作《DokeV》开发中，团队用AI在正式制作前验证设计构想，并强调\"AI仅作为支持概念验证与流程效率的工具\"，不会取代开发团队对内容与核心玩法的掌控。此前3月，Pearl Abyss曾因《Crimson Desert》正式版中被玩家发现含有AI生成的2D美术道具而公开致歉，称相关资产属实验性早期内容，本应在发布前被移除。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Embark Studios为《The Finals》视频用AI配音替代真人解说员致歉并删除视频",
+        "url": "https://www.pcgamer.com/software/ai/embark-studios-apologizes-for-replacing-esports-casters-with-ai-voices-in-now-deleted-the-finals-video/",
+        "date": "2026-11-18",
+        "summary": "据PCGamer 2026年11月18日报道,《The Finals》开发商Embark Studios发布的一段相关视频中使用AI生成的声音替代了实际参与赛事解说的真人解说员,在遭遇大量玩家及解说从业者的批评后,工作室将视频删除并公开致歉,承认用AI配音取代曾实际参与该赛事解说工作的真人解说员这一做法是错误的。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Embark Studios为《The Finals》视频用AI配音替代真人解说员致歉并删除视频",
+          "url": "https://www.pcgamer.com/software/ai/embark-studios-apologizes-for-replacing-esports-casters-with-ai-voices-in-now-deleted-the-finals-video/",
+          "date": "2026-11-18",
+          "summary": "据PCGamer 2026年11月18日报道,《The Finals》开发商Embark Studios发布的一段相关视频中使用AI生成的声音替代了实际参与赛事解说的真人解说员,在遭遇大量玩家及解说从业者的批评后,工作室将视频删除并公开致歉,承认用AI配音取代曾实际参与该赛事解说工作的真人解说员这一做法是错误的。",
+          "section": 2,
+          "source_tier": "2"
+        },
+        {
+          "title": "《The Finals》开发商Embark Studios为用AI语音替代电竞解说道歉并下架视频",
+          "url": "https://www.pcgamer.com/software/ai/embark-studios-apologizes-for-replacing-esports-casters-with-ai-voices-in-now-deleted-the-finals-video/",
+          "date": "2026-11-18",
+          "summary": "《The Finals》开发商Embark Studios在一段赛事相关视频中使用AI生成的语音替代了实际参与该赛事解说工作的真人解说员，引发玩家与社区大量不满后，工作室于11月18日公开致歉并下架了该视频，承认\"这不是正确的决定\"。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "SteamDB:2026年Steam新游戏中40.4%标注使用AI,创历史新高",
+        "url": "https://steamdb.com/en/ai",
+        "date": "2026-11-16",
+        "summary": "据SteamDB基于Valve公开披露数据的统计,截至2026年11月16日,2026年内在Steam发行的29001款新游戏中有11721款(占40.4%)在商店页面标注使用了AI,这一比例远高于2023年的1.4%、2024年的13.2%和2025年的24%,创历史新高。由于该标注依赖开发者自行申报,未主动披露AI使用情况的游戏并未被计入统计。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "SteamDB:2026年Steam新游戏中40.4%标注使用AI,创历史新高",
+          "url": "https://steamdb.com/en/ai",
+          "date": "2026-11-16",
+          "summary": "据SteamDB基于Valve公开披露数据的统计,截至2026年11月16日,2026年内在Steam发行的29001款新游戏中有11721款(占40.4%)在商店页面标注使用了AI,这一比例远高于2023年的1.4%、2024年的13.2%和2025年的24%,创历史新高。由于该标注依赖开发者自行申报,未主动披露AI使用情况的游戏并未被计入统计。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Unreal Engine 5.9预览版强化AI创作工具\"Unreal Canvas\"与AI代理用MCP接口",
+        "url": "https://digitalproduction.com/2026/11/16/unreal-engine-5-9-preview-agents-canvas-and-a-browser-sized-ambition/",
+        "date": "2026-11-16",
+        "summary": "Epic Games于2026年11月9日发布Unreal Engine 5.9预览版(官方发行说明见dev.epicgames.com),11月16日多家媒体发文详细分析其AI相关新特性:新增实验性功能\"Unreal Canvas\",可根据文字提示、参考图或当前制作中的场景生成图片、视频及3D网格草案,生成的网格可能需要人工清理,Epic建议开发者检查内容版权与数据处理方式;同时扩展了连接AI代理与引擎的Unreal MCP工具(该功能于6月随5.8版本首次推出),新增可供AI代理调用的编辑器工具,涵盖Blueprint、文件操作及场景捕捉等,并设有工具注册表控制开放权限,Assistant工具的代理访问权限分为Ask、Read、Edit、Auto、Full等级。Epic表示这一预览版本身主要由AI在约一周内编写完成、QA审查周期相应缩短,是为11月12日开启的「Epic AI MegaJam」游戏开发比赛提前造势,官方建议开发者仅在项目副本中测试、谨防性能与稳定性问题。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Unreal Engine 5.9预览版强化AI创作工具\"Unreal Canvas\"与AI代理用MCP接口",
+          "url": "https://digitalproduction.com/2026/11/16/unreal-engine-5-9-preview-agents-canvas-and-a-browser-sized-ambition/",
+          "date": "2026-11-16",
+          "summary": "Epic Games于2026年11月9日发布Unreal Engine 5.9预览版(官方发行说明见dev.epicgames.com),11月16日多家媒体发文详细分析其AI相关新特性:新增实验性功能\"Unreal Canvas\",可根据文字提示、参考图或当前制作中的场景生成图片、视频及3D网格草案,生成的网格可能需要人工清理,Epic建议开发者检查内容版权与数据处理方式;同时扩展了连接AI代理与引擎的Unreal MCP工具(该功能于6月随5.8版本首次推出),新增可供AI代理调用的编辑器工具,涵盖Blueprint、文件操作及场景捕捉等,并设有工具注册表控制开放权限,Assistant工具的代理访问权限分为Ask、Read、Edit、Auto、Full等级。Epic表示这一预览版本身主要由AI在约一周内编写完成、QA审查周期相应缩短,是为11月12日开启的「Epic AI MegaJam」游戏开发比赛提前造势,官方建议开发者仅在项目副本中测试、谨防性能与稳定性问题。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Xbox高管称下一代主机Project Helix将靠\"神经渲染\"控制硬件成本",
+        "url": "https://www.videogameschronicle.com/news/xbox-says-project-helix-is-a-console-that-can-play-pc-games-not-a-pc-that-can-play-console-games/",
+        "date": "2026-11-16",
+        "summary": "据VGC 2026年11月16日报道,微软下一代主机业务副总裁Jason Ronald在Xbox 25周年纪念刊采访中表示,面对持续上涨的硬件元器件成本,下一代主机Project Helix将重点采用\"神经渲染\"技术,在不增加计算硬件投入的前提下生成画面帧,称其为\"一种全新的、无需更多算力即可生成画面帧的方式\"。报道指出\"神经渲染\"一词也可涵盖超分辨率、帧生成及光线追踪等AI图像技术,但文章未说明Helix是否会采用NVIDIA DLSS 5等具体方案;Ronald还表示预计未来三到五年行业技术创新速度将超过过去十年。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Xbox高管称下一代主机Project Helix将靠\"神经渲染\"控制硬件成本",
+          "url": "https://www.videogameschronicle.com/news/xbox-says-project-helix-is-a-console-that-can-play-pc-games-not-a-pc-that-can-play-console-games/",
+          "date": "2026-11-16",
+          "summary": "据VGC 2026年11月16日报道,微软下一代主机业务副总裁Jason Ronald在Xbox 25周年纪念刊采访中表示,面对持续上涨的硬件元器件成本,下一代主机Project Helix将重点采用\"神经渲染\"技术,在不增加计算硬件投入的前提下生成画面帧,称其为\"一种全新的、无需更多算力即可生成画面帧的方式\"。报道指出\"神经渲染\"一词也可涵盖超分辨率、帧生成及光线追踪等AI图像技术,但文章未说明Helix是否会采用NVIDIA DLSS 5等具体方案;Ronald还表示预计未来三到五年行业技术创新速度将超过过去十年。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《GTA6》Xbox Series S版疑似首次采用AMD FSR 4.1 AI升频技术",
+        "url": "https://www.videogameschronicle.com/news/the-xbox-series-s-version-of-gta-6-is-seemingly-the-first-to-use-amds-fsr-4-1-upscaling/",
+        "date": "2026-11-19",
+        "summary": "据VGC 2026年11月19日报道,Rockstar技术高管Jonathon Ashcroft、Chris Oat及Marc Chambers向Wccftech联合确认,《GTA6》Xbox Series S版本以720p为基础分辨率,通过\"FSR Upscaling 4\"机器学习升频技术渲染至1080p输出;对比来看,PS5及Xbox Series X版本使用Rockstar自研TAA从1440p升频至4K,PS5 Pro则使用PSSR2从1440p升频。FSR是AMD对标NVIDIA DLSS的AI升频方案,可在较低渲染分辨率下实现接近原生画质并提升帧率,外媒分析认为此次是Xbox Series S主机首次搭载该新版本升频技术的游戏,相关技术已于上月被宣布将登陆Xbox Series X|S及ROG Ally X平台。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "《GTA6》Xbox Series S版疑似首次采用AMD FSR 4.1 AI升频技术",
+          "url": "https://www.videogameschronicle.com/news/the-xbox-series-s-version-of-gta-6-is-seemingly-the-first-to-use-amds-fsr-4-1-upscaling/",
+          "date": "2026-11-19",
+          "summary": "据VGC 2026年11月19日报道,Rockstar技术高管Jonathon Ashcroft、Chris Oat及Marc Chambers向Wccftech联合确认,《GTA6》Xbox Series S版本以720p为基础分辨率,通过\"FSR Upscaling 4\"机器学习升频技术渲染至1080p输出;对比来看,PS5及Xbox Series X版本使用Rockstar自研TAA从1440p升频至4K,PS5 Pro则使用PSSR2从1440p升频。FSR是AMD对标NVIDIA DLSS的AI升频方案,可在较低渲染分辨率下实现接近原生画质并提升帧率,外媒分析认为此次是Xbox Series S主机首次搭载该新版本升频技术的游戏,相关技术已于上月被宣布将登陆Xbox Series X|S及ROG Ally X平台。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "NVIDIA驱动疑致SSD异常损耗,玩家怀疑AI编写代码是祸根",
+        "url": "https://kotaku.com/nvidia-update-degrading-ssds-ai-coding-jenson-huang-geforce-2000758372",
+        "date": "2026-11-19",
+        "summary": "据Kotaku 2026年11月19日报道,NVIDIA于11月12日发布的GeForce Game Ready驱动621.24被曝存在缺陷,导致NVDisplay.Container.exe进程异常地向部分用户固态硬盘持续写入大量数据,写入速率一度超出正常水平250倍,可能大幅缩短硬盘使用寿命;Reddit用户据此推测该驱动代码可能由AI编写并存在质量问题,并援引NVIDIA今年5月要求工程师大量使用AI编程工具的相关言论作为佐证,但报道并未证实该缺陷确系AI代码所致,截至发稿NVIDIA尚未就此修复或回应,AMD此前一周出现的类似驱动缺陷已被较快修复。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "NVIDIA驱动疑致SSD异常损耗,玩家怀疑AI编写代码是祸根",
+          "url": "https://kotaku.com/nvidia-update-degrading-ssds-ai-coding-jenson-huang-geforce-2000758372",
+          "date": "2026-11-19",
+          "summary": "据Kotaku 2026年11月19日报道,NVIDIA于11月12日发布的GeForce Game Ready驱动621.24被曝存在缺陷,导致NVDisplay.Container.exe进程异常地向部分用户固态硬盘持续写入大量数据,写入速率一度超出正常水平250倍,可能大幅缩短硬盘使用寿命;Reddit用户据此推测该驱动代码可能由AI编写并存在质量问题,并援引NVIDIA今年5月要求工程师大量使用AI编程工具的相关言论作为佐证,但报道并未证实该缺陷确系AI代码所致,截至发稿NVIDIA尚未就此修复或回应,AMD此前一周出现的类似驱动缺陷已被较快修复。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Epic\"AI MegaJam\"游戏开发赛中,未用AI制作的作品反夺人气榜首",
+        "url": "https://kotaku.com/epic-ai-megajam-game-jam-slop-lsd-fih-aura-farming-tim-sweeney-2000758352",
+        "date": "2026-11-19",
+        "summary": "据Kotaku 2026年11月19日报道,Epic Games举办的\"2026 Epic AI MegaJam\"游戏开发比赛允许参赛者在四天制作周期内使用任意AI工具,设5万美元奖金池,比赛于11月15日截止提交并进入投票阶段,参赛规则注明并非必须使用AI才能获奖。然而在itch.io提交页面人气最高的作品,却是开发者PolyCube明确标注未使用任何AI制作的《LSD: FIH》(一款操控持狙击枪的鱼进行连击的\"快速瞄准模拟器\"),这一结果被部分评论视为对Epic\"AI优先\"开发路线的一种无声讽刺或抗议,目前投票仍在进行、最终获奖结果尚未公布。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Epic\"AI MegaJam\"游戏开发赛中,未用AI制作的作品反夺人气榜首",
+          "url": "https://kotaku.com/epic-ai-megajam-game-jam-slop-lsd-fih-aura-farming-tim-sweeney-2000758352",
+          "date": "2026-11-19",
+          "summary": "据Kotaku 2026年11月19日报道,Epic Games举办的\"2026 Epic AI MegaJam\"游戏开发比赛允许参赛者在四天制作周期内使用任意AI工具,设5万美元奖金池,比赛于11月15日截止提交并进入投票阶段,参赛规则注明并非必须使用AI才能获奖。然而在itch.io提交页面人气最高的作品,却是开发者PolyCube明确标注未使用任何AI制作的《LSD: FIH》(一款操控持狙击枪的鱼进行连击的\"快速瞄准模拟器\"),这一结果被部分评论视为对Epic\"AI优先\"开发路线的一种无声讽刺或抗议,目前投票仍在进行、最终获奖结果尚未公布。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "索尼将AI超分技术QSSR推广至《蜘蛛侠2》等更多标准版PS5游戏",
+        "url": "https://kotaku.com/spider-man-2-and-a-bunch-of-other-great-games-are-about-to-look-even-better-on-base-ps5-2000756594",
+        "date": "2026-11-13",
+        "summary": "据Kotaku 2026年11月13日报道,索尼正将基于其与AMD合作项目\"Project Amethyst\"开发的AI图像升频技术QSSR(Quick Spectral Super Resolution,为PS5 Pro同款PSSR技术的轻量版)推广至标准版PS5主机,在无需升级硬件的前提下提升画面分辨率与清晰度。此前《对马岛之魂2:幽灵集》与《金刚狼》已于10月初首批支持该技术,此次新增支持的游戏包括《蜘蛛侠2》、《Control: Resonant》、《The Finals》、《Arc Raiders》、《无人深空》及《Hell Let Loose: Vietnam》,后续支持将在2026年内持续扩展。Remedy图形程序员Erik Jansson及Embark Studios技术总监Mikael Linderholm均表示,该技术带来画面稳定性、清晰度及整体视觉表现的提升。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "索尼将AI超分技术QSSR推广至《蜘蛛侠2》等更多标准版PS5游戏",
+          "url": "https://kotaku.com/spider-man-2-and-a-bunch-of-other-great-games-are-about-to-look-even-better-on-base-ps5-2000756594",
+          "date": "2026-11-13",
+          "summary": "据Kotaku 2026年11月13日报道,索尼正将基于其与AMD合作项目\"Project Amethyst\"开发的AI图像升频技术QSSR(Quick Spectral Super Resolution,为PS5 Pro同款PSSR技术的轻量版)推广至标准版PS5主机,在无需升级硬件的前提下提升画面分辨率与清晰度。此前《对马岛之魂2:幽灵集》与《金刚狼》已于10月初首批支持该技术,此次新增支持的游戏包括《蜘蛛侠2》、《Control: Resonant》、《The Finals》、《Arc Raiders》、《无人深空》及《Hell Let Loose: Vietnam》,后续支持将在2026年内持续扩展。Remedy图形程序员Erik Jansson及Embark Studios技术总监Mikael Linderholm均表示,该技术带来画面稳定性、清晰度及整体视觉表现的提升。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Xbox CEO在25周年纪念文章中暗示AI是行业困局的\"解药\"",
+        "url": "https://kotaku.com/xbox-ceo-hints-that-the-solution-to-an-imploding-video-game-industry-is-ai-2000756321",
+        "date": "2026-11-12",
+        "summary": "据Kotaku 2026年11月12日报道,微软游戏业务CEO Asha Sharma在纪念初代Xbox诞生25周年的博客文章中称当前3A主机游戏市场承压,\"太多创意未能变成游戏,太多游戏未能达到创作者的构想\",并表示团队规模、资本投入与创作能力之间长期存在的固定关联正开始被打破,暗示未来小团队有望完成如今需数百名开发者才能完成的项目。文章全程未出现\"AI\"一词,但舆论普遍将其解读为暗指生成式AI,这也是她10月16日关于Xbox Labs\"vibe coding\"实验文章后第二次使用类似暗示性表述。评论认为该说法与Epic Games的Tim Sweeney等AI支持者论调相似,并质疑此表态更多是面向股东或微软游戏业务潜在买家,而非面向长期玩家群体。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Xbox CEO在25周年纪念文章中暗示AI是行业困局的\"解药\"",
+          "url": "https://kotaku.com/xbox-ceo-hints-that-the-solution-to-an-imploding-video-game-industry-is-ai-2000756321",
+          "date": "2026-11-12",
+          "summary": "据Kotaku 2026年11月12日报道,微软游戏业务CEO Asha Sharma在纪念初代Xbox诞生25周年的博客文章中称当前3A主机游戏市场承压,\"太多创意未能变成游戏,太多游戏未能达到创作者的构想\",并表示团队规模、资本投入与创作能力之间长期存在的固定关联正开始被打破,暗示未来小团队有望完成如今需数百名开发者才能完成的项目。文章全程未出现\"AI\"一词,但舆论普遍将其解读为暗指生成式AI,这也是她10月16日关于Xbox Labs\"vibe coding\"实验文章后第二次使用类似暗示性表述。评论认为该说法与Epic Games的Tim Sweeney等AI支持者论调相似,并质疑此表态更多是面向股东或微软游戏业务潜在买家,而非面向长期玩家群体。",
+          "section": 2,
+          "source_tier": "2"
+        },
+        {
+          "title": "Xbox CEO Asha Sharma发文暗示AI将成为游戏制作未来方向",
+          "url": "https://kotaku.com/xbox-ceo-hints-that-the-solution-to-an-imploding-video-game-industry-is-ai-2000756321",
+          "date": "2026-11-12",
+          "summary": "在原版Xbox主机发布25周年当天（11月12日），微软游戏CEO Asha Sharma发布纪念博文，在题为\"The Next 25\"的结尾部分指出，现代游戏开发的成本、资源与风险急剧攀升，导致许多创意无法落地；她认为工作室规模与产出能力之间的关联正在被打破，小团队未来可能完成目前需要数百名开发者才能完成的工作。文章全文未出现\"人工智能\"字样，但报道解读其暗指生成式AI技术；此前10月16日，Sharma谈及Xbox Labs\"vibe-coding\"实验项目时，也提到游戏被反编译并移植至浏览器、源代码被\"重新混合\"等现象。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "腾讯\"元启\"(Eciyuan)AI游戏陪伴应用开启内测",
+        "url": "https://80.lv/articles/tencent-launches-ai-gaming-companions-that-watch-you-play-offer-advice/",
+        "date": "2026-11-12",
+        "summary": "腾讯于11月12日开启AI游戏陪伴应用\"元启\"（Eciyuan）的内测，目前仅在中国地区推出，暂无全球发布计划。应用提供四名具有独立人设、背景故事和语音的AI女性陪伴角色，如热衷电竞解说的沈路白、学习新闻传播学的夏夏等，她们能够识别并理解玩家的游戏画面，实时讨论对局走势、装备搭配和战术，目前兼容《英雄联盟》《无畏契约》（VALORANT）和《反恐精英2》等游戏。用户可通过文字、语音或实时通话与AI角色互动，角色还可作为桌面小部件或壁纸出现，并支持与手机QQ互通聊天。背景：腾讯近年持续推进\"AI游戏陪伴\"方向，此前《王者荣耀》已上线基于\"绝悟\"AI打造的AI队友\"灵宝\"，《和平精英》上线由混元大模型驱动的AI队友，腾讯AI陪伴产品正从单一游戏内功能扩展为跨场景、跨游戏的陪伴型产品。结果与进展：目前该应用处于内测阶段，所有功能限时免费，官方尚未公布正式上线后的收费模式及国际化计划；有报道认为该产品能否在真实对局中持续提供有效、有价值的建议仍有待观察。",
+        "section": 1,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "腾讯\"元启\"(Eciyuan)AI游戏陪伴应用开启内测",
+          "url": "https://80.lv/articles/tencent-launches-ai-gaming-companions-that-watch-you-play-offer-advice/",
+          "date": "2026-11-12",
+          "summary": "腾讯于11月12日开启AI游戏陪伴应用\"元启\"（Eciyuan）的内测，目前仅在中国地区推出，暂无全球发布计划。应用提供四名具有独立人设、背景故事和语音的AI女性陪伴角色，如热衷电竞解说的沈路白、学习新闻传播学的夏夏等，她们能够识别并理解玩家的游戏画面，实时讨论对局走势、装备搭配和战术，目前兼容《英雄联盟》《无畏契约》（VALORANT）和《反恐精英2》等游戏。用户可通过文字、语音或实时通话与AI角色互动，角色还可作为桌面小部件或壁纸出现，并支持与手机QQ互通聊天。背景：腾讯近年持续推进\"AI游戏陪伴\"方向，此前《王者荣耀》已上线基于\"绝悟\"AI打造的AI队友\"灵宝\"，《和平精英》上线由混元大模型驱动的AI队友，腾讯AI陪伴产品正从单一游戏内功能扩展为跨场景、跨游戏的陪伴型产品。结果与进展：目前该应用处于内测阶段，所有功能限时免费，官方尚未公布正式上线后的收费模式及国际化计划；有报道认为该产品能否在真实对局中持续提供有效、有价值的建议仍有待观察。",
+          "section": 1,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "米哈游崩坏AI研发团队发布通用视觉-语言-动作游戏智能体\"Gamer\"",
+        "url": "https://mihoyo-gamer.github.io/",
+        "date": "2026-11-13",
+        "summary": "米哈游崩坏（Honkai）AI研发团队于11月13日发布研究项目\"Gamer\"，一个通用视觉-语言-动作（VLA）基础模型，仅通过以5Hz频率采样的屏幕截图理解游戏画面，并输出等效30Hz控制频率的键盘鼠标操作指令，不读取游戏内部数据、不依赖专用API。核心事实：Gamer训练分三阶段——基于超过1万小时跨游戏键鼠轨迹的持续预训练（CPT）、约1千小时《崩坏：星穹铁道》素材的稀疏推理指令微调（SFT），以及采用TA-GRPO算法的在线强化学习；团队还开发了名为\"Streaming-vLLM\"的推理引擎，在NVIDIA H200上将端到端延迟从1306毫秒降至65.12毫秒，提速20.1倍。效果方面，强化学习版本Gamer-RL在40个未见过的小游戏任务（涵盖7种类型）中平均成功率为49.7%，高于未经强化学习的Gamer-SFT（39.2%）及最强通用基线模型（17.1%）；在《崩坏：星穹铁道》两项支线任务\"机不可失（上）\"和\"兽性之暴\"中分别取得80%和83.6%的目标完成度。背景：该项目由米哈游崩坏AI团队联合新加坡国立大学、清华大学等机构完成，是米哈游此前10月开源\"GameScaling\"系列模型（0.8B至27B参数，基于Qwen3.5视觉语言模型持续预训练）之后的后续研究成果，论文发布于arXiv（编号2611.18397）。米哈游明确将其定位为学术研究项目，不支持用于作弊、未授权访问或破坏游戏公平性，出于数据安全考虑仅公开了基础预训练阶段的通用模型文件和代码（Apache-2.0协议），未公开《崩坏：星穹铁道》专用训练数据与权重。结果与进展：团队表示该研究可帮助开发者在发布前自动检测任务与交互是否正常运作、复现并修复问题，从而降低测试与开发成本；目前论文、项目主页及部分代码已公开，相关报道称这\"仍是早期阶段\"的研究。",
+        "section": 1,
+        "source_tier": "1"
+      },
+      "members": [
+        {
+          "title": "米哈游崩坏AI研发团队发布通用视觉-语言-动作游戏智能体\"Gamer\"",
+          "url": "https://mihoyo-gamer.github.io/",
+          "date": "2026-11-13",
+          "summary": "米哈游崩坏（Honkai）AI研发团队于11月13日发布研究项目\"Gamer\"，一个通用视觉-语言-动作（VLA）基础模型，仅通过以5Hz频率采样的屏幕截图理解游戏画面，并输出等效30Hz控制频率的键盘鼠标操作指令，不读取游戏内部数据、不依赖专用API。核心事实：Gamer训练分三阶段——基于超过1万小时跨游戏键鼠轨迹的持续预训练（CPT）、约1千小时《崩坏：星穹铁道》素材的稀疏推理指令微调（SFT），以及采用TA-GRPO算法的在线强化学习；团队还开发了名为\"Streaming-vLLM\"的推理引擎，在NVIDIA H200上将端到端延迟从1306毫秒降至65.12毫秒，提速20.1倍。效果方面，强化学习版本Gamer-RL在40个未见过的小游戏任务（涵盖7种类型）中平均成功率为49.7%，高于未经强化学习的Gamer-SFT（39.2%）及最强通用基线模型（17.1%）；在《崩坏：星穹铁道》两项支线任务\"机不可失（上）\"和\"兽性之暴\"中分别取得80%和83.6%的目标完成度。背景：该项目由米哈游崩坏AI团队联合新加坡国立大学、清华大学等机构完成，是米哈游此前10月开源\"GameScaling\"系列模型（0.8B至27B参数，基于Qwen3.5视觉语言模型持续预训练）之后的后续研究成果，论文发布于arXiv（编号2611.18397）。米哈游明确将其定位为学术研究项目，不支持用于作弊、未授权访问或破坏游戏公平性，出于数据安全考虑仅公开了基础预训练阶段的通用模型文件和代码（Apache-2.0协议），未公开《崩坏：星穹铁道》专用训练数据与权重。结果与进展：团队表示该研究可帮助开发者在发布前自动检测任务与交互是否正常运作、复现并修复问题，从而降低测试与开发成本；目前论文、项目主页及部分代码已公开，相关报道称这\"仍是早期阶段\"的研究。",
+          "section": 1,
+          "source_tier": "1"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "欧洲多个游戏行业工会联合发布宣言，警告不加约束的AI使用",
+        "url": "https://www.gamedeveloper.com/production/europe-s-game-worker-unions-publish-a-manifesto-warning-against-unchecked-ai-usage",
+        "date": "2026-11-17",
+        "summary": "11月17日，英国IWGB游戏工作者分会（IWGB Game Workers' Branch）联合爱尔兰Game Workers Unite Ireland、西班牙CSVI及意大利FIOM-CGIL米兰工会委员会的成员，发布联合宣言，警告生成式AI（genAI）正在损害游戏行业从业者权益及游戏产品质量。核心事实：宣言称生成式AI被作为替代人类劳动力的工具推向市场，制造不切实际的工期与政策压力，并让雇主得以规避责任；宣言同时提出社会经济、环境、伦理及产品质量等多重担忧。宣言提出三项主张：尽可能停止使用生成式AI；为从业者、行业相关方和监管者制定统一准则与标准；减少并力争消除生成式AI对从业者造成的风险。背景：该宣言发布于游戏行业持续裁员、GDC《2026年11月游戏行业状况报告》显示过半数从业者认为生成式AI对行业产生负面影响的背景下，被视为欧洲多国游戏工会就AI议题发布的一次跨国联合表态。结果与进展：宣言发布后引发行业讨论，有评论指出该宣言主要聚焦AI对美术等创作类岗位的冲击，对编程类岗位风险谈及较少；截至目前，宣言尚未转化为具体的、对雇主具有约束力的行业协议。",
+        "section": 1,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "欧洲多个游戏行业工会联合发布宣言，警告不加约束的AI使用",
+          "url": "https://www.gamedeveloper.com/production/europe-s-game-worker-unions-publish-a-manifesto-warning-against-unchecked-ai-usage",
+          "date": "2026-11-17",
+          "summary": "11月17日，英国IWGB游戏工作者分会（IWGB Game Workers' Branch）联合爱尔兰Game Workers Unite Ireland、西班牙CSVI及意大利FIOM-CGIL米兰工会委员会的成员，发布联合宣言，警告生成式AI（genAI）正在损害游戏行业从业者权益及游戏产品质量。核心事实：宣言称生成式AI被作为替代人类劳动力的工具推向市场，制造不切实际的工期与政策压力，并让雇主得以规避责任；宣言同时提出社会经济、环境、伦理及产品质量等多重担忧。宣言提出三项主张：尽可能停止使用生成式AI；为从业者、行业相关方和监管者制定统一准则与标准；减少并力争消除生成式AI对从业者造成的风险。背景：该宣言发布于游戏行业持续裁员、GDC《2026年11月游戏行业状况报告》显示过半数从业者认为生成式AI对行业产生负面影响的背景下，被视为欧洲多国游戏工会就AI议题发布的一次跨国联合表态。结果与进展：宣言发布后引发行业讨论，有评论指出该宣言主要聚焦AI对美术等创作类岗位的冲击，对编程类岗位风险谈及较少；截至目前，宣言尚未转化为具体的、对雇主具有约束力的行业协议。",
+          "section": 1,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "AI游戏初创公司Anorak获500万美元种子前融资",
+        "url": "https://www.pocketgamer.biz/anorak-raises-5m-in-pre-seed-funding-led-by-backed-vc-and-play-ventures/",
+        "date": "2026-11-12",
+        "summary": "伦敦与成都双地办公的互动娱乐公司Anorak于11月12日宣布完成500万美元种子前（pre-seed）融资，由Backed VC和Play Ventures联合领投，Supercell、MTG及Zynga联合创始人Justin Waldron等天使投资人参与。公司由手游工作室Hutch联合创始人Shaun Rutland创立，专注开发围绕人们兴趣爱好（如钓鱼、球鞋收藏、观鸟、拍地网球等小众领域）打造的AI驱动可玩内容，团队共20人，计划于2027年初推出首批可玩产品并开放创作者平台。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "AI游戏初创公司Anorak获500万美元种子前融资",
+          "url": "https://www.pocketgamer.biz/anorak-raises-5m-in-pre-seed-funding-led-by-backed-vc-and-play-ventures/",
+          "date": "2026-11-12",
+          "summary": "伦敦与成都双地办公的互动娱乐公司Anorak于11月12日宣布完成500万美元种子前（pre-seed）融资，由Backed VC和Play Ventures联合领投，Supercell、MTG及Zynga联合创始人Justin Waldron等天使投资人参与。公司由手游工作室Hutch联合创始人Shaun Rutland创立，专注开发围绕人们兴趣爱好（如钓鱼、球鞋收藏、观鸟、拍地网球等小众领域）打造的AI驱动可玩内容，团队共20人，计划于2027年初推出首批可玩产品并开放创作者平台。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "百度世界2026大会发布专为游戏开发训练的文心5.5 Flash Preview模型",
+        "url": "https://stock.10jqka.com.cn/20261113/c681818774.shtml",
+        "date": "2026-11-13",
+        "summary": "百度世界2026大会于11月12日在北京国家会议中心举行，会上发布的文心5.5 Flash Preview模型（2800亿总参数，激活140亿参数，支持百万级上下文）据称专门针对编程、3D建模（含Blender、CAD工具）、知识工作与内容创作进行训练，用户可通过描述创意生成从网站开发、3D模拟到游戏创作的交互式成果；该模型已上线百度智能云千帆平台，并计划于11月25日向全球开源社区开放权重。百度同期发布了文心闪电深度思考模型、文心一镜微表情视频模型等应用模型，李彦宏在会上提出\"智能组织\"概念。注：此条信息主要来自同花顺财经转载的百度官方公众号内容，未检索到百度官方新闻稿的直接链接。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "百度世界2026大会发布专为游戏开发训练的文心5.5 Flash Preview模型",
+          "url": "https://stock.10jqka.com.cn/20261113/c681818774.shtml",
+          "date": "2026-11-13",
+          "summary": "百度世界2026大会于11月12日在北京国家会议中心举行，会上发布的文心5.5 Flash Preview模型（2800亿总参数，激活140亿参数，支持百万级上下文）据称专门针对编程、3D建模（含Blender、CAD工具）、知识工作与内容创作进行训练，用户可通过描述创意生成从网站开发、3D模拟到游戏创作的交互式成果；该模型已上线百度智能云千帆平台，并计划于11月25日向全球开源社区开放权重。百度同期发布了文心闪电深度思考模型、文心一镜微表情视频模型等应用模型，李彦宏在会上提出\"智能组织\"概念。注：此条信息主要来自同花顺财经转载的百度官方公众号内容，未检索到百度官方新闻稿的直接链接。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "GDC报告：移动游戏工作室员工生成式AI使用率达70%，远超行业平均",
+        "url": "https://www.pocketgamer.biz/gdc-report-70-of-mobile-studio-workers-use-generative-ai/",
+        "date": "2026-11-16",
+        "summary": "据Pocket Gamer.biz 11月16日报道，GDC《2026年11月游戏行业状况报告》（调查覆盖69个国家超2600名从业者）显示，专注移动游戏的工作室中高达70%的员工在工作中使用生成式AI工具，远高于40%的行业整体平均水平；其中专注F2P（免费游玩）项目的从业者使用率为58%，专注买断制游戏的为32%，老牌独立工作室为29%。移动端AI使用者中30%将其用于图像生成，高于全行业22%的平均比例；报告援引Sensor Tower数据称，2025年发布的22.5万款游戏中91%登陆移动端，其中96%为F2P模式。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "GDC报告：移动游戏工作室员工生成式AI使用率达70%，远超行业平均",
+          "url": "https://www.pocketgamer.biz/gdc-report-70-of-mobile-studio-workers-use-generative-ai/",
+          "date": "2026-11-16",
+          "summary": "据Pocket Gamer.biz 11月16日报道，GDC《2026年11月游戏行业状况报告》（调查覆盖69个国家超2600名从业者）显示，专注移动游戏的工作室中高达70%的员工在工作中使用生成式AI工具，远高于40%的行业整体平均水平；其中专注F2P（免费游玩）项目的从业者使用率为58%，专注买断制游戏的为32%，老牌独立工作室为29%。移动端AI使用者中30%将其用于图像生成，高于全行业22%的平均比例；报告援引Sensor Tower数据称，2025年发布的22.5万款游戏中91%登陆移动端，其中96%为F2P模式。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "CD Projekt Red在《巫师3》新DLC中使用AI技术还原杰洛特波兰语配音",
+        "url": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
+        "date": "2026-11-13",
+        "summary": "CD Projekt Red在即将推出的《巫师3：狂猎》新扩展《Songs of the Past》中，使用AI公司Respeecher的语音技术调整杰洛特波兰语配音演员Jacek Rozenek的声音。Rozenek于2019年中风后嗓音发生明显变化，与十余年前录制初代游戏时差异较大，经其本人同意后，制作组让他照常录制新台词，再用基于其早期录音训练的AI工具使声音更贴近当年表现。CDPR本地化制作人Mikołaj Szwed强调该做法是在获得同意并出于正当理由（演员健康问题）前提下进行的\"伦理性\"AI使用，属特殊个案；游戏英文版配音演员Doug Cockle的台词未采用同类处理。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "CD Projekt Red在《巫师3》新DLC中使用AI技术还原杰洛特波兰语配音",
+          "url": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
+          "date": "2026-11-13",
+          "summary": "CD Projekt Red在即将推出的《巫师3：狂猎》新扩展《Songs of the Past》中，使用AI公司Respeecher的语音技术调整杰洛特波兰语配音演员Jacek Rozenek的声音。Rozenek于2019年中风后嗓音发生明显变化，与十余年前录制初代游戏时差异较大，经其本人同意后，制作组让他照常录制新台词，再用基于其早期录音训练的AI工具使声音更贴近当年表现。CDPR本地化制作人Mikołaj Szwed强调该做法是在获得同意并出于正当理由（演员健康问题）前提下进行的\"伦理性\"AI使用，属特殊个案；游戏英文版配音演员Doug Cockle的台词未采用同类处理。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "独立游戏《翡翠刮刮刮》爆红一周后遭AI驱动的大规模抄袭",
+        "url": "http://www.chuapp.com/article/291752.html",
+        "date": "2026-11-12",
+        "summary": "触乐11月12日报道，独立工作室\"失眠游戏工作室\"开发的刮刮卡玩法游戏《翡翠刮刮刮》（原名《赌石刮刮乐》）于5月16日在独立游戏展上放出试玩Demo并被主播带火后，很快被发行方提醒\"一周内就会被抄\"，这一预言随后应验。核心事实：约一周内，抖音等平台上出现大量玩法核心高度相似、画面几乎一致的小游戏，部分抄袭者借助AI工具将原作2D美术转制为3D风格；7、8月间，Steam上也出现多款与之高度相似的未发布游戏，其中一款的开发商\"广州绿光网络有限公司\"被文章认定为注册资本仅1万元、仅3名员工的\"壳公司\"，部分抄袭版本甚至复刻了原作的程序bug。背景：文章指出，原作可下载、无保护的试玩包是抄袭者获取素材的主要来源，而AI工具大幅降低了逆向还原与重建游戏所需的技术门槛；类似案例还包括Unity插件开发者Freya Holmér的俄罗斯方块变体demo在数小时内被抄、《Escape the Walls》预告片发布7小时后在Roblox被复刻、《Bills Must Be Paid》在国内发行前已被仿制为《最强的老六》等。文章援引Steam 2026年10月\"新品节\"数据称，超7100款参展游戏中41%以上公开披露使用了AI辅助开发，28%为完全AI生成。结果与进展：维权层面，平台下架需工作室提供所有权、公司资质及发行历史证明，耗时约两周；软件著作权登记通常需一个月，但有抄袭方的登记时间仅比原作晚一天，文章称部分公司持有可快速套用的预先登记证书；Steam下架后抄袭方提出反通知并以起诉施压，工作室评估美国诉讼成本过高后转为通过国内律师函与潜在诉讼维权，赔偿可能以侵权方利润为计算依据；中国现行著作权法仅保护具体表达、不保护玩法创意本身，这使得多数\"玩法抄袭\"难以被认定侵权。文章还提到，Anthropic已限制Claude被用于逆向分析老游戏，但开发者反映该限制存在误判且易被绕过；Valve表示不会限制AI生成游戏上架，仅itch.io已开始清理\"AI垃圾\"作品；受访工作室普遍反映，开发者、玩家、平台与发行商之间的信任短期内难以重建。",
+        "section": 1,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "独立游戏《翡翠刮刮刮》爆红一周后遭AI驱动的大规模抄袭",
+          "url": "http://www.chuapp.com/article/291752.html",
+          "date": "2026-11-12",
+          "summary": "触乐11月12日报道，独立工作室\"失眠游戏工作室\"开发的刮刮卡玩法游戏《翡翠刮刮刮》（原名《赌石刮刮乐》）于5月16日在独立游戏展上放出试玩Demo并被主播带火后，很快被发行方提醒\"一周内就会被抄\"，这一预言随后应验。核心事实：约一周内，抖音等平台上出现大量玩法核心高度相似、画面几乎一致的小游戏，部分抄袭者借助AI工具将原作2D美术转制为3D风格；7、8月间，Steam上也出现多款与之高度相似的未发布游戏，其中一款的开发商\"广州绿光网络有限公司\"被文章认定为注册资本仅1万元、仅3名员工的\"壳公司\"，部分抄袭版本甚至复刻了原作的程序bug。背景：文章指出，原作可下载、无保护的试玩包是抄袭者获取素材的主要来源，而AI工具大幅降低了逆向还原与重建游戏所需的技术门槛；类似案例还包括Unity插件开发者Freya Holmér的俄罗斯方块变体demo在数小时内被抄、《Escape the Walls》预告片发布7小时后在Roblox被复刻、《Bills Must Be Paid》在国内发行前已被仿制为《最强的老六》等。文章援引Steam 2026年10月\"新品节\"数据称，超7100款参展游戏中41%以上公开披露使用了AI辅助开发，28%为完全AI生成。结果与进展：维权层面，平台下架需工作室提供所有权、公司资质及发行历史证明，耗时约两周；软件著作权登记通常需一个月，但有抄袭方的登记时间仅比原作晚一天，文章称部分公司持有可快速套用的预先登记证书；Steam下架后抄袭方提出反通知并以起诉施压，工作室评估美国诉讼成本过高后转为通过国内律师函与潜在诉讼维权，赔偿可能以侵权方利润为计算依据；中国现行著作权法仅保护具体表达、不保护玩法创意本身，这使得多数\"玩法抄袭\"难以被认定侵权。文章还提到，Anthropic已限制Claude被用于逆向分析老游戏，但开发者反映该限制存在误判且易被绕过；Valve表示不会限制AI生成游戏上架，仅itch.io已开始清理\"AI垃圾\"作品；受访工作室普遍反映，开发者、玩家、平台与发行商之间的信任短期内难以重建。",
+          "section": 1,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    }
+  ],
+  "duplicate_groups": [
+    [
+      {
+        "title": "GDC《游戏产业状况:2026年11月》调查:40%开发者用生成式AI,55%认为影响负面",
+        "url": "https://www.gamedeveloper.com/business/layoffs-ai-and-next-gen-what-2-600-game-professionals-told-gdc-this-year",
+        "date": "2026-11-12",
+        "summary": "GDC于2026年11月12日发布《游戏产业状况:2026年11月》报告(官方链接reg.gdconf.com/soti-nov-2026),调查覆盖69个国家超过2600名游戏行业从业者。40%的受访者表示在工作中使用生成式AI,高于此前一期的36%,其中57%的使用者每天都在使用;常见用途依次为调研与头脑风暴(约75%)、代码生成与调试(56%)、概念美术(22%),仅7%用于面向玩家的功能。55%的受访者认为生成式AI正在对行业产生负面影响,35%认为影响复杂,仅8%认为正面,负面评价比例持续上升。按工作室类型看,移动端工作室AI使用率达70%,独立开发者仅29%;27%的3A团队员工感到被鼓励或被迫使用AI,独立团队这一比例为9%,23%的受访者表示所在工作室明令禁止使用AI。调查还显示过去两年中约三分之一(33%)的受访者曾被裁员,高于上一次报告的数字,行业持续的裁员潮与AI渗透同时发生。该报告通常在年初发布,此次移至年末发布,被PCGamer、Kotaku、TweakTown、MassivelyOP等多家媒体广泛引用,成为本周游戏与AI话题的核心数据来源,并引发关于技能退化和「AI疲劳」的讨论。",
+        "section": 1,
+        "source_tier": "2"
+      },
+      {
+        "title": "GDC《2026年11月游戏行业状况报告》：裁员、AI使用与行业情绪调查",
+        "url": "https://www.gamedeveloper.com/business/layoffs-ai-and-next-gen-what-2-600-game-professionals-told-gdc-this-year",
+        "date": "2026-11-12",
+        "summary": "GDC于11月12日发布《2026年11月游戏行业状况报告》(State of the Game Industry)，调查覆盖69个国家超过2600名游戏行业从业者。核心事实：40%的受访者表示在工作中使用生成式AI，较上年上升4个百分点；但55%的受访者认为生成式AI对行业影响是负面的（上年为54%），35%认为影响复杂，仅8%认为是正面的；使用者中57%主要将AI用于文本生成、调研、早期原型设计、写代码及制作演示文稿等场景；专注移动游戏的工作室使用率高达70%，专注F2P（免费游玩）项目的从业者使用率为58%，均高于行业平均；QA测试与社区支持岗位对AI的负面评价最为集中。调查还显示，34%的受访者过去两年内曾被裁员（美国受访者为39%），其中54%目前仍处于失业状态；49%的受访者表示所在公司过去一年内发生过裁员，三A工作室该比例高达68%；约45%的工作室在过去12个月使用过联合开发（co-dev）服务；报告还涉及次世代主机（代号\"Project Helix\"）的行业准备情况。背景：该调查由GDC主办，是游戏行业规模较大、跨国覆盖面较广的从业者情绪与行业状况年度调查之一，此次为年内第二次发布（此前1月发布的版本中，52%的受访者认为AI影响负面）。结果与进展：报告发布后被PC Gamer、80.lv、Pocket Gamer等多家媒体转载讨论，凸显行业在持续裁员压力与AI快速渗透之间的矛盾心态；完整报告已在GDC官网免费开放下载。",
+        "section": 1,
+        "source_tier": "2"
+      }
+    ],
+    [
+      {
+        "title": "《黑色沙漠2》开发商Pearl Abyss确认AI已用于开发多个环节,此前曾因AI美术道歉",
+        "url": "https://www.videogameschronicle.com/news/crimson-desert-studio-pearl-abyss-says-it-now-uses-ai-across-various-stages-of-development/",
+        "date": "2026-11-16",
+        "summary": "据VGC(Video Games Chronicle)2026年11月16日报道,《黑色沙漠2》(Crimson Desert)开发商Pearl Abyss在其2026年第三季度致股东财报信中确认,公司目前在开发的多个阶段使用AI,具体包括\"重复性任务自动化、内容创作支持及测试优化\"。信中称,《黑色沙漠2》资料片及加强版开发过程中使用的AI技术,正被用于加速另一款开放世界生物收集游戏《DokeV》(计划2028年末发售)的开发,且团队现在会先用AI测试设计构想,再由人工正式落地实现;公司强调AI只是\"工具\",不会取代员工,核心玩法与内容创作仍由开发团队主导。背景是2026年3月玩家发现《黑色沙漠2》游戏内2D过场美术中含有生成式AI痕迹,Pearl Abyss随后在社交媒体致歉,称部分早期迭代的视觉素材使用了实验性AI生成工具制作,原计划替换为符合质量标准的人工作品,并承诺进行全面审查,但当时并未承诺停止在美术资产中使用AI。此次股东信表态表明,尽管此前因AI美术资产引发玩家不满并公开致歉,Pearl Abyss并未收缩AI使用范围,反而将其扩展到更多开发环节及新项目,反映出游戏公司AI应用扩张与玩家、行业反AI情绪之间持续存在的张力。",
+        "section": 1,
+        "source_tier": "2"
+      },
+      {
+        "title": "《Crimson Desert》开发商Pearl Abyss称已在开发全流程中使用AI",
+        "url": "https://www.videogameschronicle.com/news/crimson-desert-studio-pearl-abyss-says-it-now-uses-ai-across-various-stages-of-development/",
+        "date": "2026-11-13",
+        "summary": "韩国游戏公司Pearl Abyss在2026年第三季度股东业绩信中表示，公司已在开发多个环节使用AI，用于自动化重复性工作、辅助内容创作及优化测试流程；在新作《DokeV》开发中，团队用AI在正式制作前验证设计构想，并强调\"AI仅作为支持概念验证与流程效率的工具\"，不会取代开发团队对内容与核心玩法的掌控。此前3月，Pearl Abyss曾因《Crimson Desert》正式版中被玩家发现含有AI生成的2D美术道具而公开致歉，称相关资产属实验性早期内容，本应在发布前被移除。",
+        "section": 2,
+        "source_tier": "2"
+      }
+    ],
+    [
+      {
+        "title": "Embark Studios为《The Finals》视频用AI配音替代真人解说员致歉并删除视频",
+        "url": "https://www.pcgamer.com/software/ai/embark-studios-apologizes-for-replacing-esports-casters-with-ai-voices-in-now-deleted-the-finals-video/",
+        "date": "2026-11-18",
+        "summary": "据PCGamer 2026年11月18日报道,《The Finals》开发商Embark Studios发布的一段相关视频中使用AI生成的声音替代了实际参与赛事解说的真人解说员,在遭遇大量玩家及解说从业者的批评后,工作室将视频删除并公开致歉,承认用AI配音取代曾实际参与该赛事解说工作的真人解说员这一做法是错误的。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      {
+        "title": "《The Finals》开发商Embark Studios为用AI语音替代电竞解说道歉并下架视频",
+        "url": "https://www.pcgamer.com/software/ai/embark-studios-apologizes-for-replacing-esports-casters-with-ai-voices-in-now-deleted-the-finals-video/",
+        "date": "2026-11-18",
+        "summary": "《The Finals》开发商Embark Studios在一段赛事相关视频中使用AI生成的语音替代了实际参与该赛事解说工作的真人解说员，引发玩家与社区大量不满后，工作室于11月18日公开致歉并下架了该视频，承认\"这不是正确的决定\"。",
+        "section": 2,
+        "source_tier": "2"
+      }
+    ],
+    [
+      {
+        "title": "Xbox CEO在25周年纪念文章中暗示AI是行业困局的\"解药\"",
+        "url": "https://kotaku.com/xbox-ceo-hints-that-the-solution-to-an-imploding-video-game-industry-is-ai-2000756321",
+        "date": "2026-11-12",
+        "summary": "据Kotaku 2026年11月12日报道,微软游戏业务CEO Asha Sharma在纪念初代Xbox诞生25周年的博客文章中称当前3A主机游戏市场承压,\"太多创意未能变成游戏,太多游戏未能达到创作者的构想\",并表示团队规模、资本投入与创作能力之间长期存在的固定关联正开始被打破,暗示未来小团队有望完成如今需数百名开发者才能完成的项目。文章全程未出现\"AI\"一词,但舆论普遍将其解读为暗指生成式AI,这也是她10月16日关于Xbox Labs\"vibe coding\"实验文章后第二次使用类似暗示性表述。评论认为该说法与Epic Games的Tim Sweeney等AI支持者论调相似,并质疑此表态更多是面向股东或微软游戏业务潜在买家,而非面向长期玩家群体。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      {
+        "title": "Xbox CEO Asha Sharma发文暗示AI将成为游戏制作未来方向",
+        "url": "https://kotaku.com/xbox-ceo-hints-that-the-solution-to-an-imploding-video-game-industry-is-ai-2000756321",
+        "date": "2026-11-12",
+        "summary": "在原版Xbox主机发布25周年当天（11月12日），微软游戏CEO Asha Sharma发布纪念博文，在题为\"The Next 25\"的结尾部分指出，现代游戏开发的成本、资源与风险急剧攀升，导致许多创意无法落地；她认为工作室规模与产出能力之间的关联正在被打破，小团队未来可能完成目前需要数百名开发者才能完成的工作。文章全文未出现\"人工智能\"字样，但报道解读其暗指生成式AI技术；此前10月16日，Sharma谈及Xbox Labs\"vibe-coding\"实验项目时，也提到游戏被反编译并移植至浏览器、源代码被\"重新混合\"等现象。",
+        "section": 2,
+        "source_tier": "2"
+      }
+    ]
+  ],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

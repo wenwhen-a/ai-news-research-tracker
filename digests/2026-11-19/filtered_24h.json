@@ -1,0 +1,341 @@
+{
+  "as_of": "2026-11-19",
+  "cutoff": "2026-11-18",
+  "window_days": 1,
+  "summary": {
+    "input_items": 19,
+    "denied_source": 0,
+    "in_window": 13,
+    "out_of_window": 6,
+    "invalid_date": 0,
+    "unique_after_dedup": 13,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 13,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 12,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "GTA 6首日成绩出炉:预售超17亿美元,直播同时观看人数破790万",
+        "url": "https://www.pocketgamer.biz/the-big-data-behind-gta-6s-blockbuster-launch/",
+        "date": "2026-11-19",
+        "summary": "Rockstar《GTA 6》今日在PS5和Xbox Series X|S上正式发售;据Sensor Tower估算,预售已售出超1700万份、收入超16.5亿美元(PS5占75%、Xbox占25%),Stream Charts称发售时跨平台直播同时观看人数达790万,创下新纪录。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "GTA 6首日成绩出炉:预售超17亿美元,直播同时观看人数破790万",
+          "url": "https://www.pocketgamer.biz/the-big-data-behind-gta-6s-blockbuster-launch/",
+          "date": "2026-11-19",
+          "summary": "Rockstar《GTA 6》今日在PS5和Xbox Series X|S上正式发售;据Sensor Tower估算,预售已售出超1700万份、收入超16.5亿美元(PS5占75%、Xbox占25%),Stream Charts称发售时跨平台直播同时观看人数达790万,创下新纪录。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Ubisoft蒙特利尔与魁北克城办公室裁员166人",
+        "url": "https://www.videogameschronicle.com/news/ubisoft-is-laying-off-166-staff-in-its-montreal-and-quebec-city-offices/",
+        "date": "2026-11-19",
+        "summary": "Ubisoft宣布在加拿大蒙特利尔与魁北克城工作室裁员166人,约占其加拿大员工总数的4%,公司称是因部分项目取消或调整规模所致,这是其持续成本削减计划的最新一轮。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Ubisoft蒙特利尔与魁北克城办公室裁员166人",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-is-laying-off-166-staff-in-its-montreal-and-quebec-city-offices/",
+          "date": "2026-11-19",
+          "summary": "Ubisoft宣布在加拿大蒙特利尔与魁北克城工作室裁员166人,约占其加拿大员工总数的4%,公司称是因部分项目取消或调整规模所致,这是其持续成本削减计划的最新一轮。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Unity收购低多边形资产工作室Synty Studios,并入AI原生创作平台Unity Spark",
+        "url": "https://www.pocketgamer.biz/unity-acquires-synty-studios-to-bring-its-asset-library-to-unity-spark/",
+        "date": "2026-11-18",
+        "summary": "Unity宣布收购拥有超过6万个低多边形3D资产的Synty Studios(Polygon系列素材作者),收购金额未披露;Synty创始人及大部分美术人员将加入Unity,其资产库将接入Unity即将推出的AI原生游戏创作平台Unity Spark。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Unity收购低多边形资产工作室Synty Studios,并入AI原生创作平台Unity Spark",
+          "url": "https://www.pocketgamer.biz/unity-acquires-synty-studios-to-bring-its-asset-library-to-unity-spark/",
+          "date": "2026-11-18",
+          "summary": "Unity宣布收购拥有超过6万个低多边形3D资产的Synty Studios(Polygon系列素材作者),收购金额未披露;Synty创始人及大部分美术人员将加入Unity,其资产库将接入Unity即将推出的AI原生游戏创作平台Unity Spark。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Netflix证实游戏部门裁员",
+        "url": "https://www.pocketgamer.biz/netflix-confirms-games-division-layoffs/",
+        "date": "2026-11-18",
+        "summary": "Netflix确认其游戏部门进行了小规模裁员,公司称是近期游戏开发方式调整所致,并表示整体游戏战略不变;此次裁员发生在Netflix宣布全球裁减1000个职位不到一个月后,两者是否相关尚不明确。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Netflix证实游戏部门裁员",
+          "url": "https://www.pocketgamer.biz/netflix-confirms-games-division-layoffs/",
+          "date": "2026-11-18",
+          "summary": "Netflix确认其游戏部门进行了小规模裁员,公司称是近期游戏开发方式调整所致,并表示整体游戏战略不变;此次裁员发生在Netflix宣布全球裁减1000个职位不到一个月后,两者是否相关尚不明确。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "索尼在英国27亿美元数字垄断集体诉讼中胜诉",
+        "url": "https://www.gamedeveloper.com/console/playstation-emerges-victorious-in-a-2-6-billion-lawsuit-alleging-a-digital-monopoly",
+        "date": "2026-11-18",
+        "summary": "伦敦竞争申诉庭11月17日驳回了针对索尼约20亿英镑(约26亿美元)的集体诉讼,该诉讼指控索尼通过PlayStation Store对数字游戏销售形成垄断、抬高价格;法庭认定索尼在与Xbox、Nintendo、PC构成的更大“系统市场”中竞争,未违反竞争法。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "索尼在英国27亿美元数字垄断集体诉讼中胜诉",
+          "url": "https://www.gamedeveloper.com/console/playstation-emerges-victorious-in-a-2-6-billion-lawsuit-alleging-a-digital-monopoly",
+          "date": "2026-11-18",
+          "summary": "伦敦竞争申诉庭11月17日驳回了针对索尼约20亿英镑(约26亿美元)的集体诉讼,该诉讼指控索尼通过PlayStation Store对数字游戏销售形成垄断、抬高价格;法庭认定索尼在与Xbox、Nintendo、PC构成的更大“系统市场”中竞争,未违反竞争法。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据报道,约1600名Rockstar员工在GTA 6发售前夕投票决定是否成立工会",
+        "url": "https://www.pcgamer.com/gaming-industry/we-need-to-come-together-on-the-eve-of-gta-6-1-600-rockstar-workers-are-voting-on-unionization/",
+        "date": "2026-11-18",
+        "summary": "据PC Gamer报道,在《GTA 6》发售前夕,约1600名Rockstar Games员工正在就组建工会进行投票,工人组织者称“我们需要团结起来”。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据报道,约1600名Rockstar员工在GTA 6发售前夕投票决定是否成立工会",
+          "url": "https://www.pcgamer.com/gaming-industry/we-need-to-come-together-on-the-eve-of-gta-6-1-600-rockstar-workers-are-voting-on-unionization/",
+          "date": "2026-11-18",
+          "summary": "据PC Gamer报道,在《GTA 6》发售前夕,约1600名Rockstar Games员工正在就组建工会进行投票,工人组织者称“我们需要团结起来”。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《MindsEye》开发商Build A Rocket Boy称将起诉“破坏者”以偿还6200万英镑债务",
+        "url": "https://www.videogameschronicle.com/news/mindseye-studio-wants-to-sue-saboteurs-to-pay-off-62-million-debt/",
+        "date": "2026-11-18",
+        "summary": "已进入破产托管程序的《MindsEye》开发商Build A Rocket Boy表示,公司董事指控有第三方组织并资助了针对该游戏的“协同负评与恶意评论活动”,损害了销量,并计划起诉这些未具名方以偿还6200万英镑债务。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《MindsEye》开发商Build A Rocket Boy称将起诉“破坏者”以偿还6200万英镑债务",
+          "url": "https://www.videogameschronicle.com/news/mindseye-studio-wants-to-sue-saboteurs-to-pay-off-62-million-debt/",
+          "date": "2026-11-18",
+          "summary": "已进入破产托管程序的《MindsEye》开发商Build A Rocket Boy表示,公司董事指控有第三方组织并资助了针对该游戏的“协同负评与恶意评论活动”,损害了销量,并计划起诉这些未具名方以偿还6200万英镑债务。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "调查:过去一年欧洲游戏行业30%从业者经历过裁员",
+        "url": "https://www.pocketgamer.biz/report-30-of-european-games-workers-laid-off-as-loyalty-hits-record-low/",
+        "date": "2026-11-18",
+        "summary": "一项欧洲游戏行业就业调查显示,过去一年中30%的受访从业者曾遭遇裁员,员工对雇主的忠诚度降至历史新低,反映出行业持续的裁员潮和不稳定的就业环境。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "调查:过去一年欧洲游戏行业30%从业者经历过裁员",
+          "url": "https://www.pocketgamer.biz/report-30-of-european-games-workers-laid-off-as-loyalty-hits-record-low/",
+          "date": "2026-11-18",
+          "summary": "一项欧洲游戏行业就业调查显示,过去一年中30%的受访从业者曾遭遇裁员,员工对雇主的忠诚度降至历史新低,反映出行业持续的裁员潮和不稳定的就业环境。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Rockstar“打压工会”听证案结束审理,等待裁决",
+        "url": "https://www.videogameschronicle.com/news/rockstars-union-busting-tribunal-comes-to-an-end-pending-verdict/",
+        "date": "2026-11-18",
+        "summary": "针对Rockstar Games被指控“打压工会”行为的劳资仲裁听证已结束审理程序,目前裁决结果尚未公布,该案与近期Rockstar员工组建工会的投票行动同期进行。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Rockstar“打压工会”听证案结束审理,等待裁决",
+          "url": "https://www.videogameschronicle.com/news/rockstars-union-busting-tribunal-comes-to-an-end-pending-verdict/",
+          "date": "2026-11-18",
+          "summary": "针对Rockstar Games被指控“打压工会”行为的劳资仲裁听证已结束审理程序,目前裁决结果尚未公布,该案与近期Rockstar员工组建工会的投票行动同期进行。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "休闲游戏平台PlayDucky创始人回购股份,成为公司多数股东",
+        "url": "https://www.pocketgamer.biz/playducky-founders-buy-out-initial-investor-to-become-majority-owners/",
+        "date": "2026-11-19",
+        "summary": "移动游戏发行平台PlayDucky的创始团队完成对早期投资方股份的回购交易,重新成为公司的多数股权持有人,具体交易金额未披露。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "休闲游戏平台PlayDucky创始人回购股份,成为公司多数股东",
+          "url": "https://www.pocketgamer.biz/playducky-founders-buy-out-initial-investor-to-become-majority-owners/",
+          "date": "2026-11-19",
+          "summary": "移动游戏发行平台PlayDucky的创始团队完成对早期投资方股份的回购交易,重新成为公司的多数股权持有人,具体交易金额未披露。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《Clair Obscur: Expedition 33》叙事主创确认已离开开发商Sandfall",
+        "url": "https://www.videogameschronicle.com/news/clair-obscur-expedition-33-writer-has-parted-ways-with-sandfall/",
+        "date": "2026-11-18",
+        "summary": "《Clair Obscur: Expedition 33》的叙事负责人已确认与开发商Sandfall Interactive分道扬镳,目前双方及工作室均未详细说明具体原因。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《Clair Obscur: Expedition 33》叙事主创确认已离开开发商Sandfall",
+          "url": "https://www.videogameschronicle.com/news/clair-obscur-expedition-33-writer-has-parted-ways-with-sandfall/",
+          "date": "2026-11-18",
+          "summary": "《Clair Obscur: Expedition 33》的叙事负责人已确认与开发商Sandfall Interactive分道扬镳,目前双方及工作室均未详细说明具体原因。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "中国与日本厂商霸榜游戏大奖“最佳移动游戏”提名名单",
+        "url": "https://www.pocketgamer.biz/china-and-japan-dominate-the-game-awards-best-mobile-game-nominees/",
+        "date": "2026-11-18",
+        "summary": "2027年游戏大奖“最佳移动游戏”类别提名名单显示,来自中国和日本厂商的作品占据了名单的主要位置,反映出两国厂商在全球移动游戏市场的持续领先地位。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "中国与日本厂商霸榜游戏大奖“最佳移动游戏”提名名单",
+          "url": "https://www.pocketgamer.biz/china-and-japan-dominate-the-game-awards-best-mobile-game-nominees/",
+          "date": "2026-11-18",
+          "summary": "2027年游戏大奖“最佳移动游戏”类别提名名单显示,来自中国和日本厂商的作品占据了名单的主要位置,反映出两国厂商在全球移动游戏市场的持续领先地位。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Xbox Series S版《GTA 6》成为首个采用AMD FSR 4.1超分辨率技术的作品",
+        "url": "https://www.videogameschronicle.com/news/the-xbox-series-s-version-of-gta-6-is-seemingly-the-first-to-use-amds-fsr-4-1-upscaling/",
+        "date": "2026-11-19",
+        "summary": "据VGC报道,《GTA 6》Xbox Series S版本似乎是业内首个采用AMD最新FSR 4.1画面超分辨率技术的主机游戏,用以在性能较弱的主机上保证画面表现。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Xbox Series S版《GTA 6》成为首个采用AMD FSR 4.1超分辨率技术的作品",
+          "url": "https://www.videogameschronicle.com/news/the-xbox-series-s-version-of-gta-6-is-seemingly-the-first-to-use-amds-fsr-4-1-upscaling/",
+          "date": "2026-11-19",
+          "summary": "据VGC报道,《GTA 6》Xbox Series S版本似乎是业内首个采用AMD最新FSR 4.1画面超分辨率技术的主机游戏,用以在性能较弱的主机上保证画面表现。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [
+    {
+      "title": "《古墓丽影》开发商Crystal Dynamics两年内第五次裁员",
+      "url": "https://www.pcgamer.com/gaming-industry/tomb-raider-developer-makes-fifth-round-of-layoffs-in-less-than-2-years/",
+      "date": "2026-11-17",
+      "summary": "据PC Gamer报道,Embracer旗下《古墓丽影》开发商Crystal Dynamics本周确认裁员8人,这是其不到两年内的第五轮裁员;文章同时提到翻拍作品《Tomb Raider: Legacy of Atlantis》已推迟至2027年2月发售。",
+      "section": 3,
+      "_date_parsed": "2026-11-17"
+    },
+    {
+      "title": "《文明》与《幽浮》开发商Firaxis裁员约三分之一员工,工作室负责人离职",
+      "url": "https://www.videogameschronicle.com/news/take-two-lays-off-third-of-firaxis-staff/",
+      "date": "2026-11-17",
+      "summary": "Take-Two旗下2K工作室Firaxis Games(《文明》《幽浮》系列开发商)11月17日确认裁减约60名员工,约为其员工总数的三分之一,工作室负责人Heather Hazen同时离职;2K称此举是为了让工作室“重新聚焦于策略游戏核心优势”。此次裁员恰好发生在Take-Two旗下Rockstar推出《GTA 6》两天前。",
+      "section": 3,
+      "_date_parsed": "2026-11-17"
+    },
+    {
+      "title": "欧洲游戏从业者工会联合发布声明,警告不受约束地使用AI",
+      "url": "https://www.gamedeveloper.com/production/europe-s-game-worker-unions-publish-a-manifesto-warning-against-unchecked-ai-usage",
+      "date": "2026-11-17",
+      "summary": "多个欧洲游戏行业工人工会联合发布一份宣言,警告游戏公司不受约束地使用AI技术可能带来的劳工风险,呼吁行业建立相应的保障机制。",
+      "section": 3,
+      "_date_parsed": "2026-11-17"
+    },
+    {
+      "title": "报告:韩国移动游戏下载量同比下滑28%,但收入仍维持在近50亿美元",
+      "url": "https://www.pocketgamer.biz/report-south-koreas-mobile-game-downloads-fall-28-as-revenue-holds-near-5bn/",
+      "date": "2026-11-17",
+      "summary": "据PocketGamer.biz报道,一份行业报告显示韩国移动游戏下载量同比下降28%,但得益于内购等消费模式,整体收入仍保持在接近50亿美元的水平。",
+      "section": 3,
+      "_date_parsed": "2026-11-17"
+    },
+    {
+      "title": "《GTA 6》与《塞尔达传说》领跑2027年游戏大奖(TGA)提名",
+      "url": "https://www.gamedeveloper.com/marketing/zelda-and-grand-theft-auto-headline-the-nominees-for-the-2027-game-awards",
+      "date": "2026-11-17",
+      "summary": "2027年游戏大奖(The Game Awards)提名名单公布,《GTA 6》(发售前获8项提名)与任天堂的《塞尔达传说》相关作品成为提名最多的游戏,凸显两大IP在本年度的行业影响力。",
+      "section": 3,
+      "_date_parsed": "2026-11-17"
+    },
+    {
+      "title": "Zynga将“Access All Areas”虚拟工作室模式扩展至印度、加拿大与美国",
+      "url": "https://www.pocketgamer.biz/zynga-expands-access-all-areas-virtual-studio-to-india-canada-and-us/",
+      "date": "2026-11-17",
+      "summary": "移动游戏发行商Zynga宣布将其远程协作的“Access All Areas”虚拟工作室项目扩展至印度、加拿大和美国,以更灵活的方式吸纳分布在不同地区的开发人才。",
+      "section": 3,
+      "_date_parsed": "2026-11-17"
+    }
+  ],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
