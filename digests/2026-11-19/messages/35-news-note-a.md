@@ -1,0 +1,3 @@
+**新闻备注**
+- 说明：经严格验证并剔除与此前简报重复的事件后，本部分仅找到 2 条符合条件、过去7天内且未重复报道的新闻（低于 5 条的目标）。本周大量候选线索（GDC《游戏行业状况》11月调查、米哈游"Gamer"游玩智能体、欧洲工会反生成式AI宣言、索尼QSSR扩展、Xbox CEO 25周年致辞、CD Projekt Red《巫师3》AI配音复刻、百度文心5.5游戏模型、Anorak融资、Unreal Engine 5.9预览版AI工具、Xbox Project Helix神经渲染）经核查均已在此前日期的简报中报道过，故予以剔除；另对NetEase、ByteDance、阿里巴巴、Qualcomm、SAG-AFTRA、EA/育碧/动视等方向进行了补充检索，未发现额外的、真正属于窗口期内且未被重复报道的深度新闻。
+- 说明：经严格验证并剔除与此前简报重复的事件后，本部分仅找到 4 条符合条件、过去7天内且未重复报道的新闻（远低于 20 条的目标）。本周游戏+AI新闻周期本身相对平淡，大量候选线索（米哈游"Gamer"、Unreal Engine 5.9 AI工具、Xbox Project Helix神经渲染、《GTA6》Xbox预载FSR 4.1组件、索尼QSSR扩展、Xbox CEO 25周年致辞、Anorak融资、百度文心5.5、CD Projekt Red《巫师3》AI配音复刻、独立游戏《翡翠刮刮刮》遭AI抄袭、GDC移动工作室AI使用率调查）经核查均与近几日已发布简报重叠，已予以剔除；经多轮补充检索（NetEase、ByteDance、阿里巴巴、Qualcomm、SAG-AFTRA、EA/育碧/动视暴雪、Steam/Epic平台AI政策、游戏AI领域融资并购）仍未找到额外的、真正属于窗口期内且未被重复报道的候选新闻。
