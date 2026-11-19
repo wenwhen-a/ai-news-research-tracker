@@ -5,7 +5,14 @@
   "tier": "GA",
   "first_seen": "2026-10-02",
   "release_date": "2026-10-01",
-  "summary": "Sony shipped QSSR, a new AI upscaler for the base (non-Pro) PS5, distinct from PSSR which remains the standard on PS5 Pro."
+  "summary": "Sony shipped QSSR, a new AI upscaler for the base (non-Pro) PS5, distinct from PSSR which remains the standard on PS5 Pro.",
+  "last_update": "2026-11-13",
+  "updates": [
+   {
+    "date": "2026-11-13",
+    "change": "QSSR expanded beyond launch: live now in Marvel's Spider-Man 2 (Fidelity and Performance modes); confirmed coming to Control: Resonant (December), The Finals, Arc Raiders, No Man's Sky, and Hell Let Loose: Vietnam. Source: https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/"
+   }
+  ]
  },
  "https://www.nvidia.com/en-us/geforce/news/nba-2k27-dlss-5-3d-guided-neural-rendering-geforce-game-ready-driver/": {
   "name": "NVIDIA DLSS 5 with 3D-Guided Neural Rendering (in NBA 2K27)",
