@@ -478,11 +478,15 @@
   "first_seen": "2026-10-04",
   "release_date": "2026-10-15",
   "summary": "Kuaishou globally launched Kling 4.0, a next-generation video-generation model superseding the earlier Kling 4.0 Flash early access.",
-  "last_update": "2026-10-15",
+  "last_update": "2026-11-19",
   "updates": [
    {
     "date": "2026-10-15",
     "change": "Kling 4.0 Flash early access superseded by full global launch of Kling 4.0: native 30s single-pass generation, Omni Reference (up to 15 refs), up to 10 keyframes, 10-bit HDR, 8000-token prompts, Kling MCP/CLI for agent workflows. 4K/1080p/21:9 output and 2-min extensions still future-tense."
+   },
+   {
+    "date": "2026-11-19",
+    "change": "Kling's API changelog (https://kling.ai/document-api/updates/api.md) shows the Kling 4.0 and Kling 4.0 Flash text-to-video/image-to-video/omni-reference-to-video APIs now actually support native 4K resolution (settings.resolution=\"4k\") and HDR output (new settings.dynamic_range=\"hdr\" parameter, at 1080p or 4K, with an added per-second fee) — closing the gap flagged at the Oct 15 full launch as still future-tense. A separate Nov 14 changelog entry also added 4:3/3:4 aspect ratios to Kling 4.0 and Kling 4.0 Flash (minor, not itself recorded as a material update)."
    }
   ]
  },
@@ -513,10 +517,17 @@
  "https://devforum.roblox.com/t/studio-beta-introducing-state-machines-and-luau-expressions-for-animation-graphs/4921939": {
   "name": "Roblox Studio — State Machines and Luau Expressions for Animation Graphs (beta)",
   "company": "Roblox",
-  "tier": "Public beta/preview (Studio Beta, opt-in)",
+  "tier": "GA",
   "first_seen": "2026-10-09",
   "release_date": "2026-10-08",
-  "summary": "Roblox added State Machine and Luau Expression nodes to its Animation Graph Editor, letting creators define animation states/transitions visually and write parameter math inline as Luau instead of in script; works only in Studio (not live games) and is an early beta ahead of full release."
+  "summary": "Roblox added State Machine and Luau Expression nodes to its Animation Graph Editor, letting creators define animation states/transitions visually and write parameter math inline as Luau instead of in script; works only in Studio (not live games) and is an early beta ahead of full release.",
+  "last_update": "2026-11-19",
+  "updates": [
+   {
+    "date": "2026-11-19",
+    "change": "Roblox moved State Machine and Luau Expression nodes in the Animation Graph Editor out of Studio Beta into full release (https://devforum.roblox.com/t/full-release-state-machines-and-luau-expressions-in-animation-graphs/4997058) — a tier change from Public beta/preview to GA. Now usable in published, live experiences, not just Studio. Adds live state/transition preview during playtest, immediate application of expression edits, parameter-less graph wiring, nil-comparison support in expressions, and fixes to several beta-era bugs (state renaming/duplication, looping-state Wait-For-Finished, double-advancing looping clips, a respawn memory leak, trigger parameters not firing from server scripts)."
+   }
+  ]
  },
  "https://devforum.roblox.com/t/automatic-translation-for-text-to-speech/4922029": {
   "name": "Automatic Translation for Text-to-Speech",
@@ -804,5 +815,13 @@
   "first_seen": "2026-11-17",
   "release_date": "2026-11-17",
   "summary": "Kuaishou shipped Kling Image 4.0, succeeding Kling Image 3.0, via new API endpoints for standard and long-image generation, with native 8K resolution (up from 3.0's native 4K), improved realism/text rendering/instruction-following, and up to 10 combined image/subject references."
+ },
+ "https://devforum.roblox.com/t/sharper-web-play-rendering-with-webgpu/4996719": {
+  "name": "Roblox Web Play — WebGPU rendering backend (Creator Beta)",
+  "company": "Roblox",
+  "tier": "Public beta/preview (Creator Beta)",
+  "first_seen": "2026-11-20",
+  "release_date": "2026-11-19",
+  "summary": "Roblox switched the renderer for its browser-based \"Web Play\" Creator Beta from WebGL to WebGPU, fixing missing grass/terrain-decoration rendering, color-pixel artifacts on Intel Macs, blurry UI/emissive surfaces, distorted avatars and lighting quality, while adding texture streaming and faster instancing."
  }
 }
