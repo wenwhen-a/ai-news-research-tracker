@@ -1,0 +1,441 @@
+{
+  "as_of": "2026-11-20",
+  "cutoff": "2026-11-13",
+  "window_days": 7,
+  "summary": {
+    "input_items": 20,
+    "denied_source": 0,
+    "in_window": 20,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 18,
+    "duplicate_clusters": 2,
+    "section1_count": 6,
+    "section2_count": 12,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": true,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 18,
+    "previously_covered_count": 0
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Ubisoft正式确认成立生成式AI子公司\"Motherbrain\"",
+        "url": "https://staticctf.ubisoft.com/8aefmxkxpxwl/4rjH83tyAju38erlDGV0sm/5f6d973ac0db88ac2bef4d21fe1a4835/Ubisoft_FY27_H1_Earnings_PR_EN_vF.pdf",
+        "date": "2026-11-19",
+        "summary": "育碧在11月19日发布的2026-27财年上半年财报中正式确认成立全资子公司Motherbrain，由此前推出玩家语音互动NPC原型\"Teammates\"的团队组成，专注于游戏性相关的生成式AI技术研发（包括具备记忆的NPC与可管理大型系统化游戏世界的AI\"游戏主持人\"方向），将同时服务育碧内部工作室与外部开发者。财报同时披露，公司整体员工数在该半财年内减少近1100人，与蒙特利尔、魁北克办公室裁员166人几乎同步公布。",
+        "section": 1,
+        "secondary_url": "https://www.videogameschronicle.com/news/ubisoft-has-founded-a-studio-dedicated-to-generative-ai-in-games/"
+      },
+      "members": [
+        {
+          "title": "Ubisoft正式确认成立生成式AI子公司\"Motherbrain\"",
+          "url": "https://staticctf.ubisoft.com/8aefmxkxpxwl/4rjH83tyAju38erlDGV0sm/5f6d973ac0db88ac2bef4d21fe1a4835/Ubisoft_FY27_H1_Earnings_PR_EN_vF.pdf",
+          "date": "2026-11-19",
+          "summary": "育碧在11月19日发布的2026-27财年上半年财报中正式确认成立全资子公司Motherbrain，由此前推出玩家语音互动NPC原型\"Teammates\"的团队组成，专注于游戏性相关的生成式AI技术研发（包括具备记忆的NPC与可管理大型系统化游戏世界的AI\"游戏主持人\"方向），将同时服务育碧内部工作室与外部开发者。财报同时披露，公司整体员工数在该半财年内减少近1100人，与蒙特利尔、魁北克办公室裁员166人几乎同步公布。",
+          "section": 1,
+          "secondary_url": "https://www.videogameschronicle.com/news/ubisoft-has-founded-a-studio-dedicated-to-generative-ai-in-games/"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "腾讯Q3财报披露游戏AI全链路布局：灵宝AI《王者万象棋》日活超95%，自研天工引擎开启测试",
+        "url": "https://www.donews.com/news/detail/8/6774948.html",
+        "date": "2026-11-18",
+        "summary": "腾讯11月18日发布2026年第三季度财报，本土游戏收入达476亿元人民币，同比增长11%，《三角洲行动》《无畏契约》DAU双双创历史新高。财报特别提及AI落地成果：《王者万象棋》AI智能教学助手\"灵宝\"日均服务超95%的新玩家；造化工坊自研、开源的AI原生游戏引擎\"天工引擎\"及一站式生产平台\"MagicLomix\"已开启测试体验。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "腾讯Q3财报披露游戏AI全链路布局：灵宝AI《王者万象棋》日活超95%，自研天工引擎开启测试",
+          "url": "https://www.donews.com/news/detail/8/6774948.html",
+          "date": "2026-11-18",
+          "summary": "腾讯11月18日发布2026年第三季度财报，本土游戏收入达476亿元人民币，同比增长11%，《三角洲行动》《无畏契约》DAU双双创历史新高。财报特别提及AI落地成果：《王者万象棋》AI智能教学助手\"灵宝\"日均服务超95%的新玩家；造化工坊自研、开源的AI原生游戏引擎\"天工引擎\"及一站式生产平台\"MagicLomix\"已开启测试体验。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "G-STAR 2026｜《剑星》金亨泰对谈三上真司：AI已令怪物3D建模耗时从一个月缩短至20分钟",
+        "url": "https://www.4gamer.net/games/991/G999110/20261120014/",
+        "date": "2026-11-20",
+        "summary": "G-STAR 2026同期举办的G-CON大会上，Shift Up CEO金亨泰与现任Unbound Games负责人三上真司围绕AI与游戏开发展开对谈（报道发布于11月20日）。金亨泰透露团队用AI将概念草图渲染为写实效果以辅助怪物设计评估和取舍，并称AI是\"进阶版Photoshop\"；三上真司称团队用AI把美术概念图转化为可在游戏内测试的3D模型，耗时从过去约一个月压缩到约20分钟，但强调设计环节本身不使用AI，并预计未来会出现更多拟人化会话式AI角色。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "G-STAR 2026｜《剑星》金亨泰对谈三上真司：AI已令怪物3D建模耗时从一个月缩短至20分钟",
+          "url": "https://www.4gamer.net/games/991/G999110/20261120014/",
+          "date": "2026-11-20",
+          "summary": "G-STAR 2026同期举办的G-CON大会上，Shift Up CEO金亨泰与现任Unbound Games负责人三上真司围绕AI与游戏开发展开对谈（报道发布于11月20日）。金亨泰透露团队用AI将概念草图渲染为写实效果以辅助怪物设计评估和取舍，并称AI是\"进阶版Photoshop\"；三上真司称团队用AI把美术概念图转化为可在游戏内测试的3D模型，耗时从过去约一个月压缩到约20分钟，但强调设计环节本身不使用AI，并预计未来会出现更多拟人化会话式AI角色。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "G-STAR 2026｜AI内容平台Wrtn首次以非游戏企业身份担纲主赞助商，提出\"AI超个性化叙事\"",
+        "url": "https://www.4gamer.net/games/991/G999104/20261120011/",
+        "date": "2026-11-20",
+        "summary": "作为G-STAR历史上首个非游戏类主赞助商，韩国AI内容平台Wrtn（在韩国以\"Crack\"运营，日本为\"キャラぷ\"）11月19日在G-CON开幕演讲中提出\"AI娱乐\"（AI Entertainment）概念，称其头部创作者的内容制作周期可压缩至传统游戏/影视IP的数十分之一，并现场演示：同一开场剧情会因玩家的不同选择，实时生成完全不同的互动叙事走向。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "G-STAR 2026｜AI内容平台Wrtn首次以非游戏企业身份担纲主赞助商，提出\"AI超个性化叙事\"",
+          "url": "https://www.4gamer.net/games/991/G999104/20261120011/",
+          "date": "2026-11-20",
+          "summary": "作为G-STAR历史上首个非游戏类主赞助商，韩国AI内容平台Wrtn（在韩国以\"Crack\"运营，日本为\"キャラぷ\"）11月19日在G-CON开幕演讲中提出\"AI娱乐\"（AI Entertainment）概念，称其头部创作者的内容制作周期可压缩至传统游戏/影视IP的数十分之一，并现场演示：同一开场剧情会因玩家的不同选择，实时生成完全不同的互动叙事走向。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "阿里云发布旗舰模型Qwen4-Max，官方称支持游戏开发与3D建模场景",
+        "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max",
+        "date": "2026-11-16",
+        "summary": "阿里云11月16日正式发布新一代旗舰大模型Qwen4-Max，采用稀疏MoE架构，总参数2.4万亿、单次推理激活约710亿参数，支持百万级token上下文与原生视觉理解。官方新闻稿明确将其定位为可支持3D建模、游戏开发与智能体视频创作等专业创作工作流的\"AI队友\"，但未给出游戏场景的具体演示或基准测试数据。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "阿里云发布旗舰模型Qwen4-Max，官方称支持游戏开发与3D建模场景",
+          "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max",
+          "date": "2026-11-16",
+          "summary": "阿里云11月16日正式发布新一代旗舰大模型Qwen4-Max，采用稀疏MoE架构，总参数2.4万亿、单次推理激活约710亿参数，支持百万级token上下文与原生视觉理解。官方新闻稿明确将其定位为可支持3D建模、游戏开发与智能体视频创作等专业创作工作流的\"AI队友\"，但未给出游戏场景的具体演示或基准测试数据。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "传奇设计师约翰·罗梅洛谈AI：移动平台充斥AI生成\"垃圾\"游戏，设计质量比以往更重要",
+        "url": "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/",
+        "date": "2026-11-20",
+        "summary": "id Software联合创始人约翰·罗梅洛在11月20日发布的采访中表示，如今借助成熟引擎、框架和SDK做游戏远比当年容易，但这也导致大量\"AI生成\"或经一键生成工具批量产出的低质游戏涌入商店，在移动端尤为泛滥，他直言多数是\"垃圾\"。他认为在此背景下，扎实的游戏设计反而比以往任何时候都更能帮助作品脱颖而出，并建议独立开发者积极参加独立游戏节、注重口碑传播。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "传奇设计师约翰·罗梅洛谈AI：移动平台充斥AI生成\"垃圾\"游戏，设计质量比以往更重要",
+          "url": "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/",
+          "date": "2026-11-20",
+          "summary": "id Software联合创始人约翰·罗梅洛在11月20日发布的采访中表示，如今借助成熟引擎、框架和SDK做游戏远比当年容易，但这也导致大量\"AI生成\"或经一键生成工具批量产出的低质游戏涌入商店，在移动端尤为泛滥，他直言多数是\"垃圾\"。他认为在此背景下，扎实的游戏设计反而比以往任何时候都更能帮助作品脱颖而出，并建议独立开发者积极参加独立游戏节、注重口碑传播。",
+          "section": 2
+        },
+        {
+          "title": "《毁灭战士》联合创始人罗梅罗：游戏越来越容易做，但AI量产的\"大多是垃圾\"",
+          "url": "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/",
+          "date": "2026-11-20",
+          "summary": "《毁灭战士》联合创始人约翰·罗梅罗表示，他很高兴如今做游戏比以往容易，任何人都能发布自己的作品，但同时警告Android等平台上涌现的大量劣质游戏\"大多是垃圾\"，其中不少正是由AI或自动生成套件批量产出。他认为，正因为引擎、框架与SDK已大幅降低开发门槛，游戏设计本身的质量如今比以往更重要，并建议独立开发者多参加展会展示作品以获得关注。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "独立开发者将樱井政博257期游戏开发讲解视频字幕打造成AI智能体技能包",
+        "url": "https://www.ithome.com/1/030/228.htm",
+        "date": "2026-11-20",
+        "summary": "日本独立开发者kociden将已停更的YouTube频道《桜井政博のゲーム作るには》（樱井政博讲游戏制作）共257期视频字幕整理为约2.7万字、分14个章节的设计原则参考资料，制作成非官方的、可供Claude Code等AI智能体调用的\"Agent Skill\"技能包\"sakurai-skill\"，于11月20日在GitHub发布，并附带一款用Godot引擎制作的演示小游戏来验证其手感调优建议，项目与樱井本人无官方关联。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "独立开发者将樱井政博257期游戏开发讲解视频字幕打造成AI智能体技能包",
+          "url": "https://www.ithome.com/1/030/228.htm",
+          "date": "2026-11-20",
+          "summary": "日本独立开发者kociden将已停更的YouTube频道《桜井政博のゲーム作るには》（樱井政博讲游戏制作）共257期视频字幕整理为约2.7万字、分14个章节的设计原则参考资料，制作成非官方的、可供Claude Code等AI智能体调用的\"Agent Skill\"技能包\"sakurai-skill\"，于11月20日在GitHub发布，并附带一款用Godot引擎制作的演示小游戏来验证其手感调优建议，项目与樱井本人无官方关联。",
+          "section": 2
+        },
+        {
+          "title": "开发者将樱井政博游戏制作教程整合为AI智能体可调用的\"Skill\"技能包",
+          "url": "https://www.ithome.com/1/030/228.htm",
+          "date": "2026-11-20",
+          "summary": "日本开发者kociden发布非官方GitHub项目\"sakurai-skill\"，将任天堂设计师樱井政博YouTube频道《游戏制作入门》257期视频字幕整理为约2.7万字、分14章的AI智能体可调用技能文件，涵盖玩法设计、操作手感调试、关卡与UI等主题。AI智能体可按需只加载相关分类内容，开发者可向其提问\"樱井会怎么做\"或要求审查游戏操作手感，智能体据此给出改进建议；作者同时用Godot 4.6.3制作了演示游戏加以验证，并说明内容基于自动字幕整理、非樱井本人逐字表述，需结合具体项目调整。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Unity联合OpenAI、Meshy举办AI游戏创作赛，三支团队在G-STAR开幕前夜摘冠",
+        "url": "https://www.invenglobal.com/articles/28843/three-winning-games-selected-at-unity-ai-game-jam-joined-by-unity-openai-and-meshy",
+        "date": "2026-11-19",
+        "summary": "G-STAR 2026开幕前夜（11月18-19日），Unity联合韩国游戏产业协会、OpenAI及Meshy AI在釜山BEXCO举办24小时\"Unity AI Game Jam\"，54名入选创作者使用Unity CLI、Codex插件及OpenAI、Meshy.ai提供的工具与额度开发游戏。《Swing & Swing》获现场人气票选冠军；《Dungeon Tycoon》让AI\"英雄\"自主对话、协同攻克地牢，获OpenAI特别奖（API调用成本仅0.26美元）；《Colla-Zoo》凭借全流程使用Unity CLI获Unity CLI特别奖。获奖作品将在G-STAR的Unity展台展出，团队各获一年ChatGPT Pro订阅。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "Unity联合OpenAI、Meshy举办AI游戏创作赛，三支团队在G-STAR开幕前夜摘冠",
+          "url": "https://www.invenglobal.com/articles/28843/three-winning-games-selected-at-unity-ai-game-jam-joined-by-unity-openai-and-meshy",
+          "date": "2026-11-19",
+          "summary": "G-STAR 2026开幕前夜（11月18-19日），Unity联合韩国游戏产业协会、OpenAI及Meshy AI在釜山BEXCO举办24小时\"Unity AI Game Jam\"，54名入选创作者使用Unity CLI、Codex插件及OpenAI、Meshy.ai提供的工具与额度开发游戏。《Swing & Swing》获现场人气票选冠军；《Dungeon Tycoon》让AI\"英雄\"自主对话、协同攻克地牢，获OpenAI特别奖（API调用成本仅0.26美元）；《Colla-Zoo》凭借全流程使用Unity CLI获Unity CLI特别奖。获奖作品将在G-STAR的Unity展台展出，团队各获一年ChatGPT Pro订阅。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Nexon领衔产学联合体公布AI游戏分级分类研究：AI初筛定位场景，人工终审定级",
+        "url": "https://www.invenglobal.com/articles/28903/ai-evaluates-humans-decide-the-next-step-in-game-rating-classification",
+        "date": "2026-11-20",
+        "summary": "在韩国游戏法与政策学会于釜山BEXCO举行的第25届学术大会上，由Nexon领衔、明知大学、高丽大学与Smilegate参与的产学联合体公布首年研究成果：AI模型对游戏视频、截图、音频及分级申请文件进行预处理，评估七项分级标准，并以自主游玩的AI智能体定位需要人工复核的场景，训练数据来自韩国游戏管理委员会（GRAC）及Smilegate旗下STOVE平台近2900条自评数据。与会专家一致认为AI可大幅降低长时游戏的人工审核负担，但强调最终分级决定必须由人工复核，相关验证计划2027年起分阶段扩大。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "Nexon领衔产学联合体公布AI游戏分级分类研究：AI初筛定位场景，人工终审定级",
+          "url": "https://www.invenglobal.com/articles/28903/ai-evaluates-humans-decide-the-next-step-in-game-rating-classification",
+          "date": "2026-11-20",
+          "summary": "在韩国游戏法与政策学会于釜山BEXCO举行的第25届学术大会上，由Nexon领衔、明知大学、高丽大学与Smilegate参与的产学联合体公布首年研究成果：AI模型对游戏视频、截图、音频及分级申请文件进行预处理，评估七项分级标准，并以自主游玩的AI智能体定位需要人工复核的场景，训练数据来自韩国游戏管理委员会（GRAC）及Smilegate旗下STOVE平台近2900条自评数据。与会专家一致认为AI可大幅降低长时游戏的人工审核负担，但强调最终分级决定必须由人工复核，相关验证计划2027年起分阶段扩大。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "前Take-Two CEO费德：《GTA 6》将是AI时代前夜最后一部\"传统\"3A大作",
+        "url": "https://www.ithome.com/1/030/238.htm",
+        "date": "2026-11-20",
+        "summary": "前Take-Two CEO本·费德在《财富》杂志撰文称，《GTA 6》会是一部杰作，但也将是同类作品中按传统开发模式制作的最后一部3A大作，因为AI即将从根本上降低游戏开发中更改创意决策的时间与技术成本。他将AI对游戏业的冲击比作摄影术对绘画的冲击：当年肖像画家市场萎缩，但也催生了印象派等新艺术形式，未来文化史学家或会以同样视角回看《GTA 6》这批\"最后的写实主义作品\"。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "前Take-Two CEO费德：《GTA 6》将是AI时代前夜最后一部\"传统\"3A大作",
+          "url": "https://www.ithome.com/1/030/238.htm",
+          "date": "2026-11-20",
+          "summary": "前Take-Two CEO本·费德在《财富》杂志撰文称，《GTA 6》会是一部杰作，但也将是同类作品中按传统开发模式制作的最后一部3A大作，因为AI即将从根本上降低游戏开发中更改创意决策的时间与技术成本。他将AI对游戏业的冲击比作摄影术对绘画的冲击：当年肖像画家市场萎缩，但也催生了印象派等新艺术形式，未来文化史学家或会以同样视角回看《GTA 6》这批\"最后的写实主义作品\"。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "G-STAR 2026开幕：AI角色聊天应用Crack成史上首个非游戏类主赞助商",
+        "url": "https://www.invenglobal.com/articles/28742/what-to-see-at-g-star-2026-what-to-watch-from-home",
+        "date": "2026-11-17",
+        "summary": "韩国最大游戏展会G-STAR 2026于11月19日至22日在釜山BEXCO举行，本届以\"游戏与AI、移动出行、网络漫画等产业融合\"为核心主题。Wrtn Technologies旗下AI角色聊天平台Crack成为大会及旗舰论坛G-CON的主赞助商，这是G-STAR历史上首次由非游戏类公司担任主赞助商；G-CON以\"叙事\"为主题设置对谈，回应AI对内容生产日益增长的影响，Unity同期联合举办全新AI游戏创作赛\"Unity AI Game Jam\"。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "G-STAR 2026开幕：AI角色聊天应用Crack成史上首个非游戏类主赞助商",
+          "url": "https://www.invenglobal.com/articles/28742/what-to-see-at-g-star-2026-what-to-watch-from-home",
+          "date": "2026-11-17",
+          "summary": "韩国最大游戏展会G-STAR 2026于11月19日至22日在釜山BEXCO举行，本届以\"游戏与AI、移动出行、网络漫画等产业融合\"为核心主题。Wrtn Technologies旗下AI角色聊天平台Crack成为大会及旗舰论坛G-CON的主赞助商，这是G-STAR历史上首次由非游戏类公司担任主赞助商；G-CON以\"叙事\"为主题设置对谈，回应AI对内容生产日益增长的影响，Unity同期联合举办全新AI游戏创作赛\"Unity AI Game Jam\"。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "釜山游戏法学研讨会聚焦AI聊天应用监管空白：Crack、zeta或游离于游戏用户保护之外",
+        "url": "https://www.invenglobal.com/articles/28894/legal-experts-re-examine-boundaries-of-games-surrounding-ai-chat-apps-and-private-server-users",
+        "date": "2026-11-20",
+        "summary": "G-STAR 2026期间，韩国第四次产业革命法学会、数据与AI法政策学会等机构在釜山BEXCO联合举办\"跨越边界：游戏技术与法律\"研讨会。与会律师指出，Wrtn旗下\"Crack\"、Scatter Lab旗下\"zeta\"等AI聊天应用虽带有好感度、数值、抽卡等游戏化机制，但因以文字为主、未必满足现行《游戏产业振兴法》对\"影像物\"的定义，可能游离于掉落概率公示等游戏用户保护条款之外；专家还讨论了私服用户入罪化争议，以及欧盟新版《产品责任指令》将软件视为\"产品\"、承认精神损害可赔偿，可能令成瘾性设计与live service持续更新面临新的赔偿风险。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "釜山游戏法学研讨会聚焦AI聊天应用监管空白：Crack、zeta或游离于游戏用户保护之外",
+          "url": "https://www.invenglobal.com/articles/28894/legal-experts-re-examine-boundaries-of-games-surrounding-ai-chat-apps-and-private-server-users",
+          "date": "2026-11-20",
+          "summary": "G-STAR 2026期间，韩国第四次产业革命法学会、数据与AI法政策学会等机构在釜山BEXCO联合举办\"跨越边界：游戏技术与法律\"研讨会。与会律师指出，Wrtn旗下\"Crack\"、Scatter Lab旗下\"zeta\"等AI聊天应用虽带有好感度、数值、抽卡等游戏化机制，但因以文字为主、未必满足现行《游戏产业振兴法》对\"影像物\"的定义，可能游离于掉落概率公示等游戏用户保护条款之外；专家还讨论了私服用户入罪化争议，以及欧盟新版《产品责任指令》将软件视为\"产品\"、承认精神损害可赔偿，可能令成瘾性设计与live service持续更新面临新的赔偿风险。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "韩国游戏赠品禁令推高营销成本逾1.4万亿韩元，AI聊天应用用户保护现空白",
+        "url": "https://www.invenglobal.com/articles/28895/butterfly-effect-of-giveaway-regulations-from-14-trillion-won-in-ad-costs-to-ai-protection-gaps",
+        "date": "2026-11-20",
+        "summary": "在釜山举行的一场游戏法律研讨会上，韩国游戏产业协会（K-GAMES）崔承勋指出，源于2013年行政指导文件的游玩内赠品实质禁令，迫使游戏公司转向应用商店与平台广告营销，据K-GAMES估算每年由此产生约1.4万亿韩元的额外营销成本缺口。与会者同时警告，部分带有好感度、数值与抽卡机制的AI聊天应用可能因规避\"游戏\"认定而逃脱掉落概率公示等用户保护义务，形成监管空白，呼吁针对性修订相关法规。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "韩国游戏赠品禁令推高营销成本逾1.4万亿韩元，AI聊天应用用户保护现空白",
+          "url": "https://www.invenglobal.com/articles/28895/butterfly-effect-of-giveaway-regulations-from-14-trillion-won-in-ad-costs-to-ai-protection-gaps",
+          "date": "2026-11-20",
+          "summary": "在釜山举行的一场游戏法律研讨会上，韩国游戏产业协会（K-GAMES）崔承勋指出，源于2013年行政指导文件的游玩内赠品实质禁令，迫使游戏公司转向应用商店与平台广告营销，据K-GAMES估算每年由此产生约1.4万亿韩元的额外营销成本缺口。与会者同时警告，部分带有好感度、数值与抽卡机制的AI聊天应用可能因规避\"游戏\"认定而逃脱掉落概率公示等用户保护义务，形成监管空白，呼吁针对性修订相关法规。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Wrtn创始人：AI聊天应用Crack原创IP或联合专业团队进军游戏领域",
+        "url": "https://www.invenglobal.com/articles/28850/wrtn-ceo-seyoung-lee-crack-ip-can-expand-into-games-with-specialized-partners",
+        "date": "2026-11-19",
+        "summary": "在作为G-STAR 2026主赞助商的新闻发布会上，Wrtn Technologies CEO李瑞荣表示，公司计划将旗下AI角色聊天应用Crack（韩国）、Charafu（日本）、OOC（北美）孕育出的原创IP，联合网络漫画、动画、游戏领域的专业团队进行跨媒介开发，优先选择在Crack上快速走红的IP对外合作而非全部自研。他还表示，随着IP走向游戏化，成立类似Krafton旗下AI原生工作室ReLU Games那样的自有游戏工作室\"将是自然而然的下一步\"。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "Wrtn创始人：AI聊天应用Crack原创IP或联合专业团队进军游戏领域",
+          "url": "https://www.invenglobal.com/articles/28850/wrtn-ceo-seyoung-lee-crack-ip-can-expand-into-games-with-specialized-partners",
+          "date": "2026-11-19",
+          "summary": "在作为G-STAR 2026主赞助商的新闻发布会上，Wrtn Technologies CEO李瑞荣表示，公司计划将旗下AI角色聊天应用Crack（韩国）、Charafu（日本）、OOC（北美）孕育出的原创IP，联合网络漫画、动画、游戏领域的专业团队进行跨媒介开发，优先选择在Crack上快速走红的IP对外合作而非全部自研。他还表示，随着IP走向游戏化，成立类似Krafton旗下AI原生工作室ReLU Games那样的自有游戏工作室\"将是自然而然的下一步\"。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "3D生成AI平台Tripo AI登陆G-STAR大众展区，拓展独立开发者与学生用户",
+        "url": "https://www.invenglobal.com/articles/28886/making-3d-modeling-easy-for-everyone-tripo-ai-expands-reach-to-b2c",
+        "date": "2026-11-19",
+        "summary": "文本/图像生成3D模型平台Tripo AI在G-STAR 2026的大众（B2C）展区设立展台，意在触达以往以B2B展区难以覆盖的学生与小型独立团队，现场提供模型生成试玩、Pro版七日免费试用码及抽奖活动。其P2.0模型可在5秒内生成面数低于5万、便于导入引擎编辑的轻量模型，并提供团队共享资产的付费方案；公司韩日市场负责人称今年来自游戏行业客户的兴趣大幅增长。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "3D生成AI平台Tripo AI登陆G-STAR大众展区，拓展独立开发者与学生用户",
+          "url": "https://www.invenglobal.com/articles/28886/making-3d-modeling-easy-for-everyone-tripo-ai-expands-reach-to-b2c",
+          "date": "2026-11-19",
+          "summary": "文本/图像生成3D模型平台Tripo AI在G-STAR 2026的大众（B2C）展区设立展台，意在触达以往以B2B展区难以覆盖的学生与小型独立团队，现场提供模型生成试玩、Pro版七日免费试用码及抽奖活动。其P2.0模型可在5秒内生成面数低于5万、便于导入引擎编辑的轻量模型，并提供团队共享资产的付费方案；公司韩日市场负责人称今年来自游戏行业客户的兴趣大幅增长。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "G-CON对谈：导演张伉准、李炳宪谈AI时代的台词创作——\"成败都要靠自己\"",
+        "url": "https://www.invenglobal.com/articles/28849/whether-it-succeeds-or-flops-its-by-my-own-hand-jang-hang-jun-and-lee-byeong-heon-on-the-flavor-of-dialogue-in-the-ai-era",
+        "date": "2026-11-19",
+        "summary": "G-STAR 2026旗舰论坛G-CON上，导演张伉准与李炳宪在对谈中讨论AI时代的台词创作：两人均强调台词应贴近真实口语而非书面文本，演员的演绎常能让台词超出文本本身的表达。谈及AI，李炳宪认为创作者的个人经历与情感是AI无法复制的部分；张伉准则表示AI发展速度\"令人生畏\"，预计不少技术性工作岗位将萎缩或消失，但审美判断仍需要由人做最终决定。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "G-CON对谈：导演张伉准、李炳宪谈AI时代的台词创作——\"成败都要靠自己\"",
+          "url": "https://www.invenglobal.com/articles/28849/whether-it-succeeds-or-flops-its-by-my-own-hand-jang-hang-jun-and-lee-byeong-heon-on-the-flavor-of-dialogue-in-the-ai-era",
+          "date": "2026-11-19",
+          "summary": "G-STAR 2026旗舰论坛G-CON上，导演张伉准与李炳宪在对谈中讨论AI时代的台词创作：两人均强调台词应贴近真实口语而非书面文本，演员的演绎常能让台词超出文本本身的表达。谈及AI，李炳宪认为创作者的个人经历与情感是AI无法复制的部分；张伉准则表示AI发展速度\"令人生畏\"，预计不少技术性工作岗位将萎缩或消失，但审美判断仍需要由人做最终决定。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《极限竞速：地平线6》玩家偶遇已故好友的Drivatar AI车手，再度\"并肩驾车\"",
+        "url": "https://www.ithome.com/1/030/231.htm",
+        "date": "2026-11-20",
+        "summary": "《极限竞速：地平线6》玩家Samohteht在社交媒体分享视频：行驶中偶遇四个月前去世好友Mabel1411留下的Drivatar——该系统会学习真实玩家驾驶习惯并生成AI车手，在他人游戏中随机出现。两人的AI座驾并肩行驶片刻，他说这是能最接近\"再见到朋友\"的方式之一，并借此送上生日祝福。相关视频在Instagram获得177万余次点赞。Drivatar系统自2005年《极限竞速》系列首次亮相、2013年加入在线分享功能，使其能在原玩家离世后仍存在于其他玩家的游戏世界中。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "《极限竞速：地平线6》玩家偶遇已故好友的Drivatar AI车手，再度\"并肩驾车\"",
+          "url": "https://www.ithome.com/1/030/231.htm",
+          "date": "2026-11-20",
+          "summary": "《极限竞速：地平线6》玩家Samohteht在社交媒体分享视频：行驶中偶遇四个月前去世好友Mabel1411留下的Drivatar——该系统会学习真实玩家驾驶习惯并生成AI车手，在他人游戏中随机出现。两人的AI座驾并肩行驶片刻，他说这是能最接近\"再见到朋友\"的方式之一，并借此送上生日祝福。相关视频在Instagram获得177万余次点赞。Drivatar系统自2005年《极限竞速》系列首次亮相、2013年加入在线分享功能，使其能在原玩家离世后仍存在于其他玩家的游戏世界中。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "miHoYo发布通用游戏AI智能体\"Gamer\"：读屏操作键鼠，自动化测试《崩坏：星穹铁道》",
+        "url": "https://arxiv.org/abs/2611.18397",
+        "date": "2026-11-13",
+        "summary": "miHoYo内部Honkai AI研发团队11月13日在arXiv发布研究论文，公开通用游戏AI智能体\"Gamer\"：基于阿里巴巴Qwen3-VL（8B）模型，通过读取游戏画面并输出键鼠操作完成任务，训练数据包含数万小时游玩录像及动作标注，并经强化学习微调。在《崩坏：星穹铁道》两个支线任务中，中间目标完成率分别为80.0%和83.6%；在七款小游戏测试中平均成功率49.7%，高于对照的GPT-6.1-Sol（17.1%）。团队提出可将其用于自动化游戏测试，如任务流程校验与版本更新回归测试；测试环境还包括基于DOOM的ViZDoom。（11月17日GameBusiness.jp等媒体跟进报道）",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "miHoYo发布通用游戏AI智能体\"Gamer\"：读屏操作键鼠，自动化测试《崩坏：星穹铁道》",
+          "url": "https://arxiv.org/abs/2611.18397",
+          "date": "2026-11-13",
+          "summary": "miHoYo内部Honkai AI研发团队11月13日在arXiv发布研究论文，公开通用游戏AI智能体\"Gamer\"：基于阿里巴巴Qwen3-VL（8B）模型，通过读取游戏画面并输出键鼠操作完成任务，训练数据包含数万小时游玩录像及动作标注，并经强化学习微调。在《崩坏：星穹铁道》两个支线任务中，中间目标完成率分别为80.0%和83.6%；在七款小游戏测试中平均成功率49.7%，高于对照的GPT-6.1-Sol（17.1%）。团队提出可将其用于自动化游戏测试，如任务流程校验与版本更新回归测试；测试环境还包括基于DOOM的ViZDoom。（11月17日GameBusiness.jp等媒体跟进报道）",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [
+    [
+      {
+        "title": "传奇设计师约翰·罗梅洛谈AI：移动平台充斥AI生成\"垃圾\"游戏，设计质量比以往更重要",
+        "url": "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/",
+        "date": "2026-11-20",
+        "summary": "id Software联合创始人约翰·罗梅洛在11月20日发布的采访中表示，如今借助成熟引擎、框架和SDK做游戏远比当年容易，但这也导致大量\"AI生成\"或经一键生成工具批量产出的低质游戏涌入商店，在移动端尤为泛滥，他直言多数是\"垃圾\"。他认为在此背景下，扎实的游戏设计反而比以往任何时候都更能帮助作品脱颖而出，并建议独立开发者积极参加独立游戏节、注重口碑传播。",
+        "section": 2
+      },
+      {
+        "title": "《毁灭战士》联合创始人罗梅罗：游戏越来越容易做，但AI量产的\"大多是垃圾\"",
+        "url": "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/",
+        "date": "2026-11-20",
+        "summary": "《毁灭战士》联合创始人约翰·罗梅罗表示，他很高兴如今做游戏比以往容易，任何人都能发布自己的作品，但同时警告Android等平台上涌现的大量劣质游戏\"大多是垃圾\"，其中不少正是由AI或自动生成套件批量产出。他认为，正因为引擎、框架与SDK已大幅降低开发门槛，游戏设计本身的质量如今比以往更重要，并建议独立开发者多参加展会展示作品以获得关注。",
+        "section": 2
+      }
+    ],
+    [
+      {
+        "title": "独立开发者将樱井政博257期游戏开发讲解视频字幕打造成AI智能体技能包",
+        "url": "https://www.ithome.com/1/030/228.htm",
+        "date": "2026-11-20",
+        "summary": "日本独立开发者kociden将已停更的YouTube频道《桜井政博のゲーム作るには》（樱井政博讲游戏制作）共257期视频字幕整理为约2.7万字、分14个章节的设计原则参考资料，制作成非官方的、可供Claude Code等AI智能体调用的\"Agent Skill\"技能包\"sakurai-skill\"，于11月20日在GitHub发布，并附带一款用Godot引擎制作的演示小游戏来验证其手感调优建议，项目与樱井本人无官方关联。",
+        "section": 2
+      },
+      {
+        "title": "开发者将樱井政博游戏制作教程整合为AI智能体可调用的\"Skill\"技能包",
+        "url": "https://www.ithome.com/1/030/228.htm",
+        "date": "2026-11-20",
+        "summary": "日本开发者kociden发布非官方GitHub项目\"sakurai-skill\"，将任天堂设计师樱井政博YouTube频道《游戏制作入门》257期视频字幕整理为约2.7万字、分14章的AI智能体可调用技能文件，涵盖玩法设计、操作手感调试、关卡与UI等主题。AI智能体可按需只加载相关分类内容，开发者可向其提问\"樱井会怎么做\"或要求审查游戏操作手感，智能体据此给出改进建议；作者同时用Godot 4.6.3制作了演示游戏加以验证，并说明内容基于自动字幕整理、非樱井本人逐字表述，需结合具体项目调整。",
+        "section": 2
+      }
+    ]
+  ],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

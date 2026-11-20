@@ -1,131 +1,5 @@
 [
  {
-  "title": "Itch.io 大规模删除\"AI 垃圾\"游戏，并上线 AI 内容过滤器",
-  "url": "https://www.videogameschronicle.com/news/itch-mass-deletes-ai-slop-lets-users-filter-out-any-ai-assisted-games/",
-  "date": "2026-11-03",
-  "section": 1,
-  "posted": "2026-11-05"
- },
- {
-  "title": "更新】腾讯 AI 游戏陪玩应用\"鹅次元\"正式开启首测，此前仅为招募报名",
-  "url": "https://news.qq.com/rain/a/20261101A08FZA00?id=20261101A08FZA00&path=a&app=news&suid=&redirect_pc=1",
-  "date": "2026-11-01",
-  "section": 1,
-  "posted": "2026-11-05"
- },
- {
-  "title": "昆仑万维三季报：AI 游戏列入\"4+3 战略\"三大 AI 原生平台之一，前三季营收增 54%",
-  "url": "https://stock.10jqka.com.cn/20261030/c681287206.shtml",
-  "date": "2026-10-29",
-  "section": 1,
-  "posted": "2026-11-05"
- },
- {
-  "title": "OpenAI CEO 阿尔特曼谈 PC 玩家\"占用内存\"言论引发游戏玩家不满",
-  "url": "https://www.videogameschronicle.com/news/fing-annoying-sam-altman-claims-comments-about-pc-gamers-buying-ram-taken-out-of-context/",
-  "date": "2026-11-04",
-  "section": 2,
-  "posted": "2026-11-05"
- },
- {
-  "title": "报道：itch.io 游戏页面数量较此前翻倍，AI 生成游戏大量涌入平台",
-  "url": "https://www.gamedeveloper.com/business/the-number-of-game-pages-doubles-on-itch-io-as-ai-games-flood-the-store",
-  "date": "2026-11-02",
-  "section": 2,
-  "posted": "2026-11-05"
- },
- {
-  "title": "三七互娱三季报：自研\"小七\"AI 能力平台已沉淀超 70 项能力、240 余个模型工具",
-  "url": "https://www.nbd.com.cn/articles/2026-10-29/4628481.html",
-  "date": "2026-10-29",
-  "section": 2,
-  "posted": "2026-11-05"
- },
- {
-  "title": "巨人网络三季报：营收增 98% 创新高，三季度继续加码投资硅基流动等 AI 公司",
-  "url": "https://www.caiwennews.com/article/1676083.shtml",
-  "date": "2026-10-29",
-  "section": 2,
-  "posted": "2026-11-05"
- },
- {
-  "title": "土耳其游戏风投机构 e2vc 设立 1.5 亿美元成长基金",
-  "url": "https://www.pocketgamer.biz/e2vc-launches-150m-fund-to-back-turkish-games-and-tech-companies/",
-  "date": "2026-11-05",
-  "section": 3,
-  "posted": "2026-11-05"
- },
- {
-  "title": "AMC 与 Yodo1 达成授权合作，助中国开发者改编《行尸走肉》等 IP 出海",
-  "url": "https://www.pocketgamer.biz/amc-partners-with-yodo1-to-bring-walking-dead-and-vampire-ip-to-chinese-game-developers/",
-  "date": "2026-11-05",
-  "section": 3,
-  "posted": "2026-11-05"
- },
- {
-  "title": "美国法院限制 Papaya Gaming 向境外转移资产",
-  "url": "https://www.pocketgamer.biz/us-court-restricts-papaya-gaming-from-moving-assets-outside-the-country/",
-  "date": "2026-11-04",
-  "section": 3,
-  "posted": "2026-11-05"
- },
- {
-  "title": "BAFTA 公布 2026 年度 Breakthrough 新秀名单，六位游戏从业者入选",
-  "url": "https://www.pocketgamer.biz/bafta-names-six-games-creatives-in-2026-breakthrough-cohort/",
-  "date": "2026-11-05",
-  "section": 3,
-  "posted": "2026-11-05"
- },
- {
-  "title": "任天堂财报：Switch 2 上半财年销量同比下滑 37%，公司称暂不考虑涨价",
-  "url": "https://www.videogameschronicle.com/news/nintendo-switch-2-sales-have-dropped-37-but-its-still-comfortably-beating-the-original-console/",
-  "date": "2026-11-05",
-  "section": 3,
-  "posted": "2026-11-05"
- },
- {
-  "title": "索尼财报：PS5 累计销量达 9790 万台，PS6 研发\"按计划推进\"",
-  "url": "https://www.videogameschronicle.com/news/sony-says-playstation-6-development-is-progressing-as-scheduled-as-ps5-sales-hit-97-9m/",
-  "date": "2026-11-05",
-  "section": 3,
-  "posted": "2026-11-05"
- },
- {
-  "title": "DRM-free 平台 GOG 将举办首次自办游戏展示会",
-  "url": "https://www.videogameschronicle.com/news/gog-announces-first-ever-games-showcase/",
-  "date": "2026-11-04",
-  "section": 3,
-  "posted": "2026-11-05"
- },
- {
-  "title": "法国工会指控 Xbox\"蓄意破坏\"Arkane 工作室《刀锋战士》开发",
-  "url": "https://www.videogameschronicle.com/news/arkane-union-says-xbox-is-sabotaging-blade-development/",
-  "date": "2026-11-04",
-  "section": 3,
-  "posted": "2026-11-05"
- },
- {
-  "title": "加拿大玩家发起请愿，呼吁政府出资扶持 BioWare 工作室独立",
-  "url": "https://www.videogameschronicle.com/news/canadian-bioware-fans-are-calling-on-the-government-to-fund-the-studio/",
-  "date": "2026-11-04",
-  "section": 3,
-  "posted": "2026-11-05"
- },
- {
-  "title": "游戏行业互助组织 ASGC 成立四周年，累计促成超 5400 次求职",
-  "url": "https://www.pocketgamer.biz/asgc-marks-four-years-with-more-than-5400-games-industry-job-placements/",
-  "date": "2026-11-04",
-  "section": 3,
-  "posted": "2026-11-05"
- },
- {
-  "title": "Epic 调整 Fortnite Crew 订阅制度，取消月度专属皮肤包改为阶梯式 V 币返还",
-  "url": "https://www.videogameschronicle.com/news/fortnite-crew-subscribers-are-no-longer-getting-free-skins-or-the-og-pass-will-get-more-v-bucks-instead/",
-  "date": "2026-11-05",
-  "section": 3,
-  "posted": "2026-11-05"
- },
- {
   "title": "更新】NVIDIA DLSS 5「3D 引导神经渲染」正式登陆《霍格沃茨之遗》，《战争雷霆》《燕云十六声》11 月跟进",
   "url": "https://www.nvidia.com/en-us/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/",
   "date": "2026-11-05",
@@ -1867,5 +1741,194 @@
   "date": "2026-11-19",
   "section": 3,
   "posted": "2026-11-19"
+ },
+ {
+  "title": "G-STAR 2026｜《剑星》金亨泰对谈三上真司：AI已令怪物3D建模耗时从一个月缩短至20分钟",
+  "url": "https://www.4gamer.net/games/991/G999110/20261120014/",
+  "date": "2026-11-20",
+  "section": 1,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "G-STAR 2026｜AI内容平台Wrtn首次以非游戏企业身份担纲主赞助商，提出\"AI超个性化叙事\"",
+  "url": "https://www.4gamer.net/games/991/G999104/20261120011/",
+  "date": "2026-11-20",
+  "section": 1,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "Nexon领衔产学联合体公布AI游戏分级分类研究：AI初筛定位场景，人工终审定级",
+  "url": "https://www.invenglobal.com/articles/28903/ai-evaluates-humans-decide-the-next-step-in-game-rating-classification",
+  "date": "2026-11-20",
+  "section": 1,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "Ubisoft正式确认成立生成式AI子公司\"Motherbrain\"",
+  "url": "https://staticctf.ubisoft.com/8aefmxkxpxwl/4rjH83tyAju38erlDGV0sm/5f6d973ac0db88ac2bef4d21fe1a4835/Ubisoft_FY27_H1_Earnings_PR_EN_vF.pdf",
+  "date": "2026-11-19",
+  "section": 1,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "腾讯Q3财报披露游戏AI全链路布局：灵宝AI《王者万象棋》日活超95%，自研天工引擎开启测试",
+  "url": "https://www.donews.com/news/detail/8/6774948.html",
+  "date": "2026-11-18",
+  "section": 1,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "G-STAR 2026开幕：AI角色聊天应用Crack成史上首个非游戏类主赞助商",
+  "url": "https://www.invenglobal.com/articles/28742/what-to-see-at-g-star-2026-what-to-watch-from-home",
+  "date": "2026-11-17",
+  "section": 2,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "Unity联合OpenAI、Meshy举办AI游戏创作赛，三支团队在G-STAR开幕前夜摘冠",
+  "url": "https://www.invenglobal.com/articles/28843/three-winning-games-selected-at-unity-ai-game-jam-joined-by-unity-openai-and-meshy",
+  "date": "2026-11-19",
+  "section": 2,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "Wrtn创始人：AI聊天应用Crack原创IP或联合专业团队进军游戏领域",
+  "url": "https://www.invenglobal.com/articles/28850/wrtn-ceo-seyoung-lee-crack-ip-can-expand-into-games-with-specialized-partners",
+  "date": "2026-11-19",
+  "section": 2,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "3D生成AI平台Tripo AI登陆G-STAR大众展区，拓展独立开发者与学生用户",
+  "url": "https://www.invenglobal.com/articles/28886/making-3d-modeling-easy-for-everyone-tripo-ai-expands-reach-to-b2c",
+  "date": "2026-11-19",
+  "section": 2,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "G-CON对谈：导演张伉准、李炳宪谈AI时代的台词创作——\"成败都要靠自己\"",
+  "url": "https://www.invenglobal.com/articles/28849/whether-it-succeeds-or-flops-its-by-my-own-hand-jang-hang-jun-and-lee-byeong-heon-on-the-flavor-of-dialogue-in-the-ai-era",
+  "date": "2026-11-19",
+  "section": 2,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "阿里云发布旗舰模型Qwen4-Max，官方称支持游戏开发与3D建模场景",
+  "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max",
+  "date": "2026-11-16",
+  "section": 2,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "miHoYo发布通用游戏AI智能体\"Gamer\"：读屏操作键鼠，自动化测试《崩坏：星穹铁道》",
+  "url": "https://arxiv.org/abs/2611.18397",
+  "date": "2026-11-13",
+  "section": 2,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "传奇设计师约翰·罗梅洛谈AI：移动平台充斥AI生成\"垃圾\"游戏，设计质量比以往更重要",
+  "url": "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/",
+  "date": "2026-11-20",
+  "section": 2,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "独立开发者将樱井政博257期游戏开发讲解视频字幕打造成AI智能体技能包",
+  "url": "https://www.ithome.com/1/030/228.htm",
+  "date": "2026-11-20",
+  "section": 2,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "釜山游戏法学研讨会聚焦AI聊天应用监管空白：Crack、zeta或游离于游戏用户保护之外",
+  "url": "https://www.invenglobal.com/articles/28894/legal-experts-re-examine-boundaries-of-games-surrounding-ai-chat-apps-and-private-server-users",
+  "date": "2026-11-20",
+  "section": 2,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "韩国游戏赠品禁令推高营销成本逾1.4万亿韩元，AI聊天应用用户保护现空白",
+  "url": "https://www.invenglobal.com/articles/28895/butterfly-effect-of-giveaway-regulations-from-14-trillion-won-in-ad-costs-to-ai-protection-gaps",
+  "date": "2026-11-20",
+  "section": 2,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "《极限竞速：地平线6》玩家偶遇已故好友的Drivatar AI车手，再度\"并肩驾车\"",
+  "url": "https://www.ithome.com/1/030/231.htm",
+  "date": "2026-11-20",
+  "section": 2,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "据报道】Sensor Tower估算：《GTA 6》首日卖出约2458万份，收入达23.6亿美元",
+  "url": "https://www.videogameschronicle.com/news/gta-6-sold-around-25-million-copies-and-made-2-36-billion-in-its-first-day-estimates-suggest/",
+  "date": "2026-11-20",
+  "section": 3,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "美国参议院就Roblox儿童安全问题举行听证，多名自称遭诱骗受害者出席作证",
+  "url": "https://www.pocketgamer.biz/roblox-faces-senate-hearing-as-alleged-grooming-survivors-testify/",
+  "date": "2026-11-20",
+  "section": 3,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "香港独立工作室猫见茶财务告急：公司账户仅余552元，靠创始人垫款度日",
+  "url": "https://www.chuapp.com/article/291775.html",
+  "date": "2026-11-20",
+  "section": 3,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "育碧财报：《刺客信条：黑旗重制版》销量超预期，诺兰新片带动《奥德赛》回暖",
+  "url": "https://www.videogameschronicle.com/news/ubisoft-pins-strong-assassins-creed-sales-on-black-flag-resynced-and-nolans-odyssey/",
+  "date": "2026-11-19",
+  "section": 3,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "《怪物猎人：崛起》将于11月24日通过Netflix Games登陆手机",
+  "url": "https://www.pocketgamer.biz/monster-hunter-rise-coming-to-mobile-via-netflix-games-on-november-24th/",
+  "date": "2026-11-19",
+  "section": 3,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "苹果公布2026年App Store年度大奖45强，《明日方舟：终末地》《燕云十六声》入围iPad游戏类",
+  "url": "https://www.pocketgamer.biz/apple-reveals-45-finalists-for-2026-app-store-awards/",
+  "date": "2026-11-19",
+  "section": 3,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "网易三季报：《燕云十六声》全球玩家破1亿，《无限大》定档2027年1月15日",
+  "url": "https://www.youxituoluo.com/535078.html",
+  "date": "2026-11-19",
+  "section": 3,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "腾讯Q3财报：游戏收入665亿元，《三角洲行动》日活跃账户数创纪录突破5800万",
+  "url": "https://www.youxituoluo.com/535077.html",
+  "date": "2026-11-19",
+  "section": 3,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "欧盟《数字公平法案》草案公开征求意见，征询期至2027年1月14日",
+  "url": "https://www.pocketgamer.biz/have-your-say-feedback-on-the-eus-digital-fairness-act-proposal-is-open-until-january-14th/",
+  "date": "2026-11-19",
+  "section": 3,
+  "posted": "2026-11-20"
+ },
+ {
+  "title": "TIGA游戏产业大奖2026揭晓，IO Interactive《007：第一道光》获年度游戏",
+  "url": "https://www.pocketgamer.biz/dovetail-games-wins-four-awards-at-tiga-games-industry-awards-2026/",
+  "date": "2026-11-19",
+  "section": 3,
+  "posted": "2026-11-20"
  }
 ]
