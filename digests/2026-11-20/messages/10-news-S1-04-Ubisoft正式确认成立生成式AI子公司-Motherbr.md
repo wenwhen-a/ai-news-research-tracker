@@ -1,0 +1,12 @@
+**[新闻 4] Ubisoft正式确认成立生成式AI子公司"Motherbrain"**
+- **日期：** 2026-11-19
+- **来源链接：** <https://staticctf.ubisoft.com/8aefmxkxpxwl/4rjH83tyAju38erlDGV0sm/5f6d973ac0db88ac2bef4d21fe1a4835/Ubisoft_FY27_H1_Earnings_PR_EN_vF.pdf> （另见VGC报道：<https://www.videogameschronicle.com/news/ubisoft-has-founded-a-studio-dedicated-to-generative-ai-in-games/>）
+- **核心事实：**
+  - 育碧在11月19日发布的2026-27财年上半年财报中正式确认成立全资子公司Motherbrain。
+  - 该团队由此前推出玩家语音互动NPC原型"Teammates"的团队组成，专注于游戏性相关的生成式AI技术研发。
+  - 研究方向包括具备记忆的NPC，以及可管理大型系统化游戏世界的AI"游戏主持人"。
+  - Motherbrain将同时服务育碧内部各创意工作室与外部开发者。
+- **背景与起因：**
+  - Teammates此前只是实验性原型项目，此次独立成子公司意味着从研发原型升级为正式业务线；财报同期披露公司整体员工数在该半财年内减少近1100人，与蒙特利尔、魁北克办公室裁员166人几乎同步公布，反映育碧在收缩传统开发人力的同时加码AI研发投入。
+- **结果与进展：**
+  - 目前为财报附带披露的组织架构调整，育碧未公布Motherbrain的具体产品路线图或上线时间表。
