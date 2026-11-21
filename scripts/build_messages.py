@@ -8,8 +8,12 @@ each item starting with "## <title>", a bullet list of fields, then bold-labelle
 lines are collected into the footer.
 
 Output files (sorted order = posting order):
-  00-header.md, 10-A01-<slug>.md ..., 20-B01-<slug>.md ..., 30-B-previously-reported.md (if any),
-  90-footer.md (split 90a/90b/... if needed).
+  50-research-header.md, 60-papers-summary.md (paper COUNTS by category only), 70-B01-<slug>.md ...,
+  90a-footer.md (split 90b/... if needed).
+
+Papers (Part A) are tracked and saved in the repository digest but are NOT posted to Discord: no titles,
+no summaries, no cards. Discord gets one message with how many papers are new today and how many are in
+the 30-day window, broken down by category. Products (Part B) are posted one message per new or updated item.
 
 Condensing rule per item: try full text; if over the limit, cut every block to 2 sentences, then 1;
 then shorten the author list to "First Author et al."; never cut mid-sentence. Never drops the title,
@@ -78,7 +82,7 @@ def embed_files(prefix, title, rows):
 SRC = sys.argv[1]
 OUT = sys.argv[2]
 WEEKDAY = sys.argv[3] if len(sys.argv) > 3 else None  # ISO weekday string, "5" = Friday
-SHOW_PREV_PAPERS_LIST = WEEKDAY == "5"  # full cards only on Friday; missing arg => compact count
+# WEEKDAY is accepted for backward compatibility and ignored: papers are never listed on Discord.
 
 text = open(SRC, encoding="utf-8").read().replace("\r\n", "\n")
 
@@ -94,10 +98,11 @@ TOPICS = [
         r"\b3DGS\b|\b3D|\b4D|gaussian|splat|\bmesh\b|reconstruct|texture|relight|view synthesis|"
         r"point ?cloud|geometry|stereo|editing|deformation", re.I)),
 ]
-def classify_topic(title):
-    for name, pat in TOPICS:
-        if pat.search(title or ""):
-            return name
+def classify_topic(title, extra=""):
+    for text_ in (title, extra):
+        for name, pat in TOPICS:
+            if pat.search(text_ or ""):
+                return name
     return "Other"
 
 def slug(s, n=40):
@@ -250,16 +255,12 @@ else:
     header += ["**Part A — Papers.** No Part A in this digest.", ""]
 if winB:
     header += ["**Part B — Research → Product.** " + short_window(winB), ""]
-prev_papers_note = ("compact cards (title · companies · one line) follow" if SHOW_PREV_PAPERS_LIST
-                     else "a one-line count by topic follows; the full list posts on Fridays")
-header += [f"One message per item: {len(itemsA)} new papers (A01–A{len(itemsA):02d}), "
-           f"{nB_new} new and {nB_upd} updated products (B01–B{len(newB):02d}). Products reported earlier are not repeated; "
-           f"they return only when they change. For previously reported papers, {prev_papers_note}. "
+header += [f"Papers are tracked and saved in the repository only; a count by category follows, with no titles or "
+           f"summaries. Products: one message per item, {nB_new} new and {nB_upd} updated (B01–B{len(newB):02d}); "
+           "products reported earlier are not repeated and return only when they change. "
            "Near-miss details are kept in the repository digest."]
 files["50-research-header.md"] = "\n".join(header)
 
-for i, (t, b) in enumerate(itemsA, 1):
-    files[f"60-A{i:02d}-{slug(t)}.md"] = condense(t, b, f"[A{i:02d}]")
 for i, (t, b) in enumerate(newB, 1):
     files[f"70-B{i:02d}-{slug(t)}.md"] = condense(t, b, f"[B{i:02d} · Update]" if is_update(b) else f"[B{i:02d}]")
 if prevB:
@@ -294,37 +295,36 @@ if mprevB:
     # not posted any more (products are not re-listed); the block is only removed from the footer text
     trailB = trailB[:mprevB.start()] + trailB[mprevB.end():]
 
-# Part A previously reported papers: full compact embed cards on Fridays only (title · companies ·
-# one line, no links); on other days, a single bold count message broken down by topic instead —
-# the full list still lives in the repository digest every day.
+# Part A: papers are never listed on Discord. One message with counts by category: new today and total
+# in the 30-day window (new + previously reported). Titles and summaries stay in the repository digest.
+CAT_ORDER = [n for n, _ in TOPICS] + ["Other"]
+new_counts, win_counts = {}, {}
+for t, b in itemsA:
+    summ = re.search(r"\*\*Summary[^*]*\*\*\s*([^\n]+)", b)
+    cat = classify_topic(t, summ.group(1) if summ else "")
+    new_counts[cat] = new_counts.get(cat, 0) + 1
+    win_counts[cat] = win_counts.get(cat, 0) + 1
+n_prev = 0
 mprev = re.search(r"^### Previously reported papers[^\n]*\n((?:- .*\n?)+)", trailA, flags=re.M)
 if mprev:
-    rows, titles = [], []
     for l in mprev.group(1).split("\n"):
         if not l.strip():
             continue
         parts = l[2:].split(" · ")
-        # digest line: title · affiliation · date · summary · url  (summary may itself contain " · ")
-        if len(parts) >= 5:
-            title, affil, summary = parts[0], parts[1], " · ".join(parts[3:-1])
-        elif len(parts) == 4:
-            title, affil, summary = parts[0], parts[1], ""
-        else:
-            title, affil, summary = parts[0], "", ""
-        rows.append((title, f"{companies_of(affil)} — {summary}".strip(" —")))
-        titles.append(title)
-    if SHOW_PREV_PAPERS_LIST:
-        files.update(embed_files("65", "Previously reported papers (still in the 30-day window)", rows))
-    else:
-        counts = {}
-        for t in titles:
-            cat = classify_topic(t)
-            counts[cat] = counts.get(cat, 0) + 1
-        lines = [f"**Papers currently tracked (previously reported, still in the 30-day window): {len(rows)}**"]
-        lines += [f"- {cat}: {n}" for cat, n in sorted(counts.items(), key=lambda kv: -kv[1])]
-        lines.append("_Full list of previously reported papers posts on Fridays._")
-        files["65-previously-reported-summary.md"] = "\n".join(lines)
+        # digest line: title · affiliation · date · summary · url
+        summary = " · ".join(parts[3:-1]) if len(parts) >= 5 else ""
+        cat = classify_topic(parts[0], summary)
+        win_counts[cat] = win_counts.get(cat, 0) + 1
+        n_prev += 1
     trailA = trailA[:mprev.start()] + trailA[mprev.end():]
+if "A" in sections:
+    lines = [f"**Papers tracked — {date}**",
+             f"New today: **{len(itemsA)}** · In the 30-day window: **{len(itemsA) + n_prev}**"]
+    for cat in CAT_ORDER:
+        if win_counts.get(cat):
+            lines.append(f"- {cat}: {new_counts.get(cat, 0)} new · {win_counts[cat]} in window")
+    lines.append("_Titles and summaries are saved in the repository digest and are not posted here._")
+    files["60-papers-summary.md"] = "\n".join(lines)
 
 # Footer: announced-only items only, plus a one-line count of near-misses (details stay in the repo digest)
 footer_lines = []

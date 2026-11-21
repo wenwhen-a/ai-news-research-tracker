@@ -3,8 +3,9 @@
 A Claude Code cloud routine clones this repo every morning, produces the Simplified-Chinese games + AI news digest, runs the
 `research-paper-tracker` skill (Part A: arXiv papers from tracked industry
 labs, last 30 days; Part B: research that shipped as a product, last 90
-days), posts one Discord message per item through a webhook, and pushes the
-digest and dedup state back here.
+days), posts the news, a paper count by category and one message per new or
+updated product to Discord through a webhook, and pushes the full digest
+(including every paper's details) and dedup state back here.
 
 ## Layout
 
@@ -22,14 +23,14 @@ digest and dedup state back here.
 | `scripts/arxiv_site_scan.py` | Website fallback for Part A discovery when the arXiv API is rate-limited (exact-phrase searches on arxiv.org) |
 | `scripts/arxiv_affil_screen.py` | Fetches each candidate's arxiv.org/html page and flags tracked company names near the author block (leads only) |
 | `scripts/assemble_digest.py` | Sorts verified paper blocks newest first and writes `digest.md` with Part B appended |
-| `scripts/build_messages.py` | Splits `digest.md` into per-item Discord messages (≤2000 chars); takes an optional WEEKDAY arg. Previously reported products always become embed cards (`*.json`, ≤25 rows each: title, companies, one line, no links). Previously reported papers get the same embed cards only on Friday (WEEKDAY=5); other days collapse into one bold count message broken down by topic instead. Near-miss details stay in `digest.md` |
+| `scripts/build_messages.py` | Builds the research Discord messages from `digest.md`. Papers are NOT posted: one message (`60-papers-summary.md`) gives the number of new papers and of papers in the 30-day window by category, with no titles or summaries. Products get one message per new or updated item (≤2000 chars). Paper details and near-misses stay in `digest.md` |
 | `scripts/send_local.ps1` / `scripts/test_discord.ps1` | Send a messages folder / a test message from this PC (asks for the webhook URL, hidden) |
 | `state/product_seen.json` | Products already reported (keyed by primary-source URL) with `updates` history; a product is posted once and only reappears as an Update when it materially changes |
 | `state/papers_seen.json` | Every arXiv id already checked (qualified / near-miss / screened-out); the screener skips these, so daily runs only verify new papers |
 | `scripts/update_papers_seen.py` | Merges a day's results into `papers_seen.json` |
 
 | `digests/YYYY-MM-DD/news.md` | Full news digest for that day (Simplified Chinese) |
-| `digests/YYYY-MM-DD/digest.md` | Full research digest for that day |
+| `digests/YYYY-MM-DD/digest.md` | Full research digest for that day: every tracked paper with its summary blocks (saved here only, not posted to Discord) and the products |
 | `digests/YYYY-MM-DD/messages/*.md` | The exact messages that were posted, in order (news first, then research) |
 | `ROUTINE_PROMPT.md` | The prompt the cloud routine runs. Edit here, then update the routine |
 
@@ -40,8 +41,8 @@ listed as unverifiable rather than parsed from PDF. The news digest is produced 
 
 ## Schedule
 
-Routine `daily-research-tracker-discord`, cron `0 15 * * *` UTC
-(8:00 AM Pacific Daylight Time, 7:00 AM Pacific Standard Time), model
+Routine `daily-research-tracker-discord`, cron `0 8 * * *` in America/Los_Angeles
+(8:00 AM Pacific all year), model
 `claude-sonnet-5`. Manage it at https://claude.ai/code/routines.
 
 ## One-time setup (done by the repo owner)
