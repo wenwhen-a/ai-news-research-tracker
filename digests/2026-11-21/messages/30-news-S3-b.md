@@ -1,0 +1,8 @@
+- **数字游戏平台Fanatical黑五推出"自选卡普空合集"捆绑包，27款游戏低至6.2美元一部**（2026-11-20）— Fanatical黑色星期五推出"自选卡普空合集"捆绑包，涵盖27款Steam游戏，购买8件及以上每款低至6.2美元，集齐全部27件总价167.37美元，较Steam官方总价约1027美元大幅优惠。 <https://www.videogameschronicle.com/news/fanaticals-black-friday-build-your-own-capcom-collection-bundle-lets-you-stock-up-on-classics-from-6-20-per-game/>
+- **阅文系《群星漫卡》首曝，打造国内首款多IP电子集换式卡牌手游**（2026-11-20）— 蹊迹游戏与阅文集团合作的《群星漫卡》11月20日放出首个宣传片，整合《斗罗大陆》《吞噬星空》《狐妖小红娘》等多部阅文IP于同一套集换式卡牌规则中，首测将在宣传片公开约一周后开启。 <https://www.youxituoluo.com/535081.html>
+- **"假"整理游戏《超级整理师》登顶中国App Store免费榜**（2026-11-20）— 11月2日上线的消除类手游《超级整理师》凭"整理"题材包装，约十天内登顶中国App Store免费游戏榜，超过《王者荣耀》《和平精英》等长青产品。 <https://www.youxituoluo.com/535079.html>
+- **《梦幻西游》手游新版本上线，老牌IP持续靠玩法迭代保鲜**（2026-11-20）— 网易《梦幻西游》手游11月20日推出新版本，加入新召唤兽、角色染色方案与门派/召唤兽技能平衡调整，并开设12月11日开启的新服务器。 <https://www.youxituoluo.com/535080.html>
+- **《GTA6》差评众生相：各平台玩家在吐槽什么**（2026-11-20）— 触乐11月20日梳理《GTA6》发售后在X、Bluesky、Reddit等平台出现的负面评价，发现多数批评与游戏本身关系不大，更多围绕主角人设引发的"觉醒议题"争论、对3A高成本模式的质疑，以及跨平台共同吐槽的帧率问题。 <https://www.chuapp.com/article/291777.html>
+- **腾讯收购北京江芯互动26.9%股权，持续加码休闲游戏领域**（2026-11-20）— 据GameLook报道并经Niko Partners发现的工商变更信息，腾讯通过广西腾讯创业投资有限公司取得北京江芯互动娱乐26.9%的股权，交易金额未披露；今年以来腾讯已参与土耳其Flow Games、Circle Games等多笔休闲游戏领域投资。 <https://www.pocketgamer.biz/tencent-takes-269-stake-in-beijing-jiangxin-interactive-entertainment-4193182/>
+- **腾讯承诺三年投入1.5亿美元发展《金铲铲之战》电竞生态**（2026-11-20）— 腾讯游戏副总裁黄凌东在《金铲铲之战》2027战略发布会上宣布，未来三年将投入1.5亿美元用于玩家文化、内容创作者扶持和电竞生态建设；该游戏注册用户已突破2.4亿，月活跃用户超5000万。 <https://www.pocketgamer.biz/tencent-commits-150m-to-battle-of-golden-spatula-esports-and-growth/>
+- **移动游戏发行商Jam City裁员约10%（60人），此前出售《侵略性恐龙》开发商Ludia上市计划搁浅**（2026-11-20）— 美国手游发行商Jam City宣布裁员约10%，据发言人透露约影响60名员工，公司称不会关闭任何工作室或游戏项目，但仍需进一步调整以实现可持续发展。 <https://www.pocketgamer.biz/jam-city-lays-off-10-of-staff/>

@@ -1,0 +1,399 @@
+{
+  "as_of": "2026-11-21",
+  "cutoff": "2026-11-14",
+  "window_days": 7,
+  "summary": {
+    "input_items": 18,
+    "denied_source": 0,
+    "in_window": 18,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 16,
+    "duplicate_clusters": 2,
+    "section1_count": 4,
+    "section2_count": 12,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 13,
+    "previously_covered_count": 3
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "欧洲多国游戏从业者工会发布联合宣言,警告不加约束使用生成式AI",
+        "url": "https://www.gamedeveloper.com/production/europe-s-game-worker-unions-publish-a-manifesto-warning-against-unchecked-ai-usage",
+        "date": "2026-11-17",
+        "summary": "英国IWGB、爱尔兰GWUI、西班牙CSVI、法国STJV、德国GDRT及意大利FIOM-CGIL等多国游戏从业者工会,在曼彻斯特欧洲游戏工会峰会前联合发布题为《关于游戏行业生成式AI使用》的宣言,称生成式AI正在损害行业、从业者及其作品质量。宣言呼吁雇主让员工自主决定是否使用相关工具、理想情况下全面禁止在原型阶段使用,并要求监管机构禁止未经同意和付费将创作者作品纳入AI训练数据集,同时指出生成式AI已导致初级岗位明显减少。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "欧洲多国游戏从业者工会发布联合宣言,警告不加约束使用生成式AI",
+          "url": "https://www.gamedeveloper.com/production/europe-s-game-worker-unions-publish-a-manifesto-warning-against-unchecked-ai-usage",
+          "date": "2026-11-17",
+          "summary": "英国IWGB、爱尔兰GWUI、西班牙CSVI、法国STJV、德国GDRT及意大利FIOM-CGIL等多国游戏从业者工会,在曼彻斯特欧洲游戏工会峰会前联合发布题为《关于游戏行业生成式AI使用》的宣言,称生成式AI正在损害行业、从业者及其作品质量。宣言呼吁雇主让员工自主决定是否使用相关工具、理想情况下全面禁止在原型阶段使用,并要求监管机构禁止未经同意和付费将创作者作品纳入AI训练数据集,同时指出生成式AI已导致初级岗位明显减少。",
+          "section": 1
+        },
+        {
+          "title": "欧洲多国游戏工会联合发布宣言，警告生成式AI“失控使用”正在伤害行业",
+          "url": "https://www.gamedeveloper.com/production/europe-s-game-worker-unions-publish-a-manifesto-warning-against-unchecked-ai-usage",
+          "date": "2026-11-17",
+          "summary": "英国IWGB游戏工作者分支联合爱尔兰Game Workers Unite Ireland、西班牙CSVI、意大利FIOM-CGIL米兰工作委员会等组织发布联合宣言，从社会经济、环境、伦理和产品质量四个维度警告生成式AI（genAI）对游戏行业的危害。宣言称“生成式AI正在伤害游戏行业、从业者及其作品”，指责企业将其包装为裁员借口、制造不合理的排期压力并借此逃避责任，呼吁尽可能停止使用genAI，并为从业者、业界和监管者制定准则与标准以减少或消除相关风险。宣言引用2026年GDC行业状况调查数据：40%从业者在工作中使用genAI工具（去年为36%），55%认为其对行业影响为负面，35%认为利弊参半，仅8%认为是正面影响。宣言末尾设FAQ回应“工会反对未来”的批评，强调从业者希望参与塑造AI应用方式，而非被剥削和过度加班。文章未提及任何游戏公司或发行商对此作出回应。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Embark Studios为《The Finals》电竞赛事用AI配音替换真人解说致歉并下架视频",
+        "url": "https://www.pcgamer.com/software/ai/embark-studios-apologizes-for-replacing-esports-casters-with-ai-voices-in-now-deleted-the-finals-video/",
+        "date": "2026-11-18",
+        "summary": "Embark Studios在旗下射击游戏The Finals电竞赛事\"Grand Major\"亚太区预选赛的精彩集锦视频中,用游戏内AI解说角色Scotty和June的合成语音取代了真人解说Proto和Bluepanda的原始解说,引发玩家与解说员不满后迅速下架视频。该公司社区与竞技运营负责人Oscar Lundberg在X平台承认此举\"是个错误\",感谢玩家的坦诚反馈;事件也促使部分电竞从业者呼吁加强工会化以保护自身权益。这是Embark继此前游戏内AI解说/旁白争议后,又一次因AI语音使用引发的公开致歉。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "Embark Studios为《The Finals》电竞赛事用AI配音替换真人解说致歉并下架视频",
+          "url": "https://www.pcgamer.com/software/ai/embark-studios-apologizes-for-replacing-esports-casters-with-ai-voices-in-now-deleted-the-finals-video/",
+          "date": "2026-11-18",
+          "summary": "Embark Studios在旗下射击游戏The Finals电竞赛事\"Grand Major\"亚太区预选赛的精彩集锦视频中,用游戏内AI解说角色Scotty和June的合成语音取代了真人解说Proto和Bluepanda的原始解说,引发玩家与解说员不满后迅速下架视频。该公司社区与竞技运营负责人Oscar Lundberg在X平台承认此举\"是个错误\",感谢玩家的坦诚反馈;事件也促使部分电竞从业者呼吁加强工会化以保护自身权益。这是Embark继此前游戏内AI解说/旁白争议后,又一次因AI语音使用引发的公开致歉。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "NVIDIA推出RTX Spark紧凑型AI开发主机,联动Adobe Substance 3D与Blender服务游戏开发者",
+        "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+        "date": "2026-11-18",
+        "summary": "NVIDIA宣布华硕、戴尔、微星等厂商的RTX Spark紧凑型桌面主机正式开售(宏碁、技嘉、惠普及微软Surface版本将陆续上市),搭载20核Grace CPU与Blackwell RTX GPU、最高128GB统一内存及1 petaflop AI算力,面向本地AI智能体开发、模型微调与创作工作流。同期,Adobe Substance 3D Painter 12.2为RTX Spark带来原生Arm架构公测支持,供游戏、视效美术师使用;Blender 5.3则为Cycles视口引入DLSS 4.5光线重建功能,方便预览接近最终品质的光照与材质效果。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "NVIDIA推出RTX Spark紧凑型AI开发主机,联动Adobe Substance 3D与Blender服务游戏开发者",
+          "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+          "date": "2026-11-18",
+          "summary": "NVIDIA宣布华硕、戴尔、微星等厂商的RTX Spark紧凑型桌面主机正式开售(宏碁、技嘉、惠普及微软Surface版本将陆续上市),搭载20核Grace CPU与Blackwell RTX GPU、最高128GB统一内存及1 petaflop AI算力,面向本地AI智能体开发、模型微调与创作工作流。同期,Adobe Substance 3D Painter 12.2为RTX Spark带来原生Arm架构公测支持,供游戏、视效美术师使用;Blender 5.3则为Cycles视口引入DLSS 4.5光线重建功能,方便预览接近最终品质的光照与材质效果。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Unity高管回应Silver Lake与沙特PIF收购传闻,开发者担忧重演EA式AI裁员",
+        "url": "https://www.gamedeveloper.com/business/-it-s-common-for-there-to-be-speculation-and-headlines-unity-exec-addresses-acquisition-rumors",
+        "date": "2026-11-16",
+        "summary": "针对路透社此前报道Silver Lake与沙特公共投资基金(PIF,目前已持有Unity约8%股份)牵头的财团正与Unity商谈整体私有化收购一事,Unity产品高级副总裁Adam Smith在采访中回应称\"业绩好的季度出现收购传闻很常见\",但未进一步置评。由于同一财团此前收购EA后已裁员约400人并关闭包括BioWare等工作室,开发者担忧Unity若遭收购,可能同样以AI驱动降本为名裁员,并对沙特资方背景表示关切。Unity最新季度营收同比增长32%至6.22亿美元,其中引擎业务Create Solutions增长8%。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "Unity高管回应Silver Lake与沙特PIF收购传闻,开发者担忧重演EA式AI裁员",
+          "url": "https://www.gamedeveloper.com/business/-it-s-common-for-there-to-be-speculation-and-headlines-unity-exec-addresses-acquisition-rumors",
+          "date": "2026-11-16",
+          "summary": "针对路透社此前报道Silver Lake与沙特公共投资基金(PIF,目前已持有Unity约8%股份)牵头的财团正与Unity商谈整体私有化收购一事,Unity产品高级副总裁Adam Smith在采访中回应称\"业绩好的季度出现收购传闻很常见\",但未进一步置评。由于同一财团此前收购EA后已裁员约400人并关闭包括BioWare等工作室,开发者担忧Unity若遭收购,可能同样以AI驱动降本为名裁员,并对沙特资方背景表示关切。Unity最新季度营收同比增长32%至6.22亿美元,其中引擎业务Create Solutions增长8%。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "GDC行业调查:纯移动游戏工作室生成式AI使用率高达70%,远超全行业平均水平",
+        "url": "https://www.pocketgamer.biz/gdc-report-70-of-mobile-studio-workers-use-generative-ai/",
+        "date": "2026-11-16",
+        "summary": "GDC发布的2026年11月版《游戏行业现状》调查显示,覆盖69个国家逾2600名从业者的数据中,纯移动游戏工作室员工生成式AI使用率高达70%,远高于全行业40%的平均水平(去年为36%);免费游戏(F2P)团队使用率为58%,付费游戏团队为32%,老牌独立工作室仅29%。调查同时显示55%受访者认为生成式AI对行业造成负面影响,仅8%认为是正面影响;过去一年49%的受访公司进行过裁员,3A工作室该比例高达68%。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "GDC行业调查:纯移动游戏工作室生成式AI使用率高达70%,远超全行业平均水平",
+          "url": "https://www.pocketgamer.biz/gdc-report-70-of-mobile-studio-workers-use-generative-ai/",
+          "date": "2026-11-16",
+          "summary": "GDC发布的2026年11月版《游戏行业现状》调查显示,覆盖69个国家逾2600名从业者的数据中,纯移动游戏工作室员工生成式AI使用率高达70%,远高于全行业40%的平均水平(去年为36%);免费游戏(F2P)团队使用率为58%,付费游戏团队为32%,老牌独立工作室仅29%。调查同时显示55%受访者认为生成式AI对行业造成负面影响,仅8%认为是正面影响;过去一年49%的受访公司进行过裁员,3A工作室该比例高达68%。",
+          "section": 2
+        },
+        {
+          "title": "GDC行业状况调查：70%手游团队员工已使用生成式AI，远高于行业平均",
+          "url": "https://www.pocketgamer.biz/gdc-report-70-of-mobile-studio-workers-use-generative-ai/",
+          "date": "2026-11-16",
+          "summary": "数据平台Playgama基于2026年GDC《游戏行业状况》调查数据分析发现，以2026年10月游玩时长计算的Roblox等平台头部游戏及手游公司中，超过80%的头部开发商借助AI加快开发速度，而在纯手游工作室中，多达70%的员工在工作中使用生成式AI，远高于全行业40%的整体使用率（去年为36%）。头部创作者在Roblox AI工具上花费的时间自2026年第二季度以来增长了约三倍。细分数据显示，商务运营与服务岗位使用率最高达71%，纯手游工作室70%，F2P项目员工58%。不过GDC自身提示，非美国、F2P及手游细分样本量有限，相关结论应被视为受访者回答而非全行业普查。该调查同时显示55%受访者认为生成式AI对行业影响负面，33%受访者过去24个月内曾被裁员。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "生成式AI创作公司Manus成为开源游戏引擎Godot基金会白金级赞助商",
+        "url": "https://www.gamefromscratch.com/godots-new-sponsor-manus-ai/",
+        "date": "2026-11-18",
+        "summary": "AI游戏创作平台Manus成为开源游戏引擎Godot基金会新晋白金级赞助商。Manus联合创始人张涛表示,AI能降低游戏制作的技术门槛,但\"知道该做什么\"的创意构想仍是最稀缺的能力,他希望用Manus做出第一款游戏的用户未来能转向Godot进行更深入的开发。同期JetBrains也续签白金赞助,通过其Rider IDE为Godot提供GDScript、C#及C++扩展工具链支持。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "生成式AI创作公司Manus成为开源游戏引擎Godot基金会白金级赞助商",
+          "url": "https://www.gamefromscratch.com/godots-new-sponsor-manus-ai/",
+          "date": "2026-11-18",
+          "summary": "AI游戏创作平台Manus成为开源游戏引擎Godot基金会新晋白金级赞助商。Manus联合创始人张涛表示,AI能降低游戏制作的技术门槛,但\"知道该做什么\"的创意构想仍是最稀缺的能力,他希望用Manus做出第一款游戏的用户未来能转向Godot进行更深入的开发。同期JetBrains也续签白金赞助,通过其Rider IDE为Godot提供GDScript、C#及C++扩展工具链支持。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "NVIDIA公布2027财年第三财季业绩:营收1158亿美元,DLSS 5登陆《NBA 2K27》等新作",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+        "date": "2026-11-17",
+        "summary": "NVIDIA公布截至10月25日的2027财年第三财季财报,总营收1158亿美元,同比增长103%;数据中心业务营收1076亿美元,同比增长110%;公司预计下一财季营收约1300亿美元。财报同时披露,搭载AI驱动\"3D引导神经渲染\"技术的DLSS 5已登陆《NBA 2K27》与《霍格沃茨之遗》,并将陆续登陆GeForce NOW云游戏服务及RTX Spark设备,涵盖PC及消费电子的\"Edge Computing\"分部营收同比增长42%、环比增长14%。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "NVIDIA公布2027财年第三财季业绩:营收1158亿美元,DLSS 5登陆《NBA 2K27》等新作",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+          "date": "2026-11-17",
+          "summary": "NVIDIA公布截至10月25日的2027财年第三财季财报,总营收1158亿美元,同比增长103%;数据中心业务营收1076亿美元,同比增长110%;公司预计下一财季营收约1300亿美元。财报同时披露,搭载AI驱动\"3D引导神经渲染\"技术的DLSS 5已登陆《NBA 2K27》与《霍格沃茨之遗》,并将陆续登陆GeForce NOW云游戏服务及RTX Spark设备,涵盖PC及消费电子的\"Edge Computing\"分部营收同比增长42%、环比增长14%。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "快手游戏上线Yoola，一站式AIGC互动玩法创作平台开启内测",
+        "url": "https://www.itbear.com.cn/html/2026-11/1586583.html",
+        "date": "2026-11-17",
+        "summary": "快手游戏于11月17日正式推出AIGC互动玩法创作平台Yoola并同步开启内测，创作者可用自然语言与AI协作生成可直接在快手信息流内体验的互动玩法作品，无需下载即可游玩。平台提供创作者挂载、流量扶持与广告分成等变现工具，后续将推出最高10万元奖金的创作者赛事。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "快手游戏上线Yoola，一站式AIGC互动玩法创作平台开启内测",
+          "url": "https://www.itbear.com.cn/html/2026-11/1586583.html",
+          "date": "2026-11-17",
+          "summary": "快手游戏于11月17日正式推出AIGC互动玩法创作平台Yoola并同步开启内测，创作者可用自然语言与AI协作生成可直接在快手信息流内体验的互动玩法作品，无需下载即可游玩。平台提供创作者挂载、流量扶持与广告分成等变现工具，后续将推出最高10万元奖金的创作者赛事。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "巨人网络调整AI实验室架构，并入技术中台聚焦买量AI漫剧与反外挂",
+        "url": "https://www.youxituoluo.com/535065.html",
+        "date": "2026-11-17",
+        "summary": "巨人网络11月16日宣布将AI实验室团队与技术能力并入公司技术中台，原先围绕自研大模型与音视频生成工具的探索转向与研发、买量、安全等业务场景深度结合。公司表示将在买量端加大AI漫剧素材投入，并用大模型加强外挂与欺诈检测，呼应当前国内游戏买量成本上涨、多家厂商转向AI漫剧素材的行业趋势。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "巨人网络调整AI实验室架构，并入技术中台聚焦买量AI漫剧与反外挂",
+          "url": "https://www.youxituoluo.com/535065.html",
+          "date": "2026-11-17",
+          "summary": "巨人网络11月16日宣布将AI实验室团队与技术能力并入公司技术中台，原先围绕自研大模型与音视频生成工具的探索转向与研发、买量、安全等业务场景深度结合。公司表示将在买量端加大AI漫剧素材投入，并用大模型加强外挂与欺诈检测，呼应当前国内游戏买量成本上涨、多家厂商转向AI漫剧素材的行业趋势。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "智令互动推出Ctrl Video AI互动影游创作平台，瞄准AI漫剧团队转型",
+        "url": "https://www.youxituoluo.com/535064.html",
+        "date": "2026-11-17",
+        "summary": "专注真人互动影视制作的智令互动于11月17日正式上线Ctrl Video AI互动影游制作平台，提供AI辅助的剧本、分镜、人设与图像/视频生成，以及可视化互动节点编排、打包测试与国内主流内容流量平台的分发对接工具。该平台主要面向希望转型互动内容的AI漫剧团队与新入局创作者。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "智令互动推出Ctrl Video AI互动影游创作平台，瞄准AI漫剧团队转型",
+          "url": "https://www.youxituoluo.com/535064.html",
+          "date": "2026-11-17",
+          "summary": "专注真人互动影视制作的智令互动于11月17日正式上线Ctrl Video AI互动影游制作平台，提供AI辅助的剧本、分镜、人设与图像/视频生成，以及可视化互动节点编排、打包测试与国内主流内容流量平台的分发对接工具。该平台主要面向希望转型互动内容的AI漫剧团队与新入局创作者。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "G-STAR法律论坛：AI让游戏“秒级克隆”，现有版权框架面临挑战",
+        "url": "https://www.invenglobal.com/articles/28912/imitation-disputes-shift-from-like-games-to-ai-cloning",
+        "date": "2026-11-20",
+        "summary": "韩国游戏法学会第25届学术大会11月20日在釜山BEXCO（G-STAR期间）召开，与会律师与独立开发者指出，游戏抄袭纠纷正从“同类玩法模仿”转向AI驱动的“整游戏克隆”：AI可在一天内完整复刻一款游戏并上架海外平台，而维权诉讼往往耗时一到两年，小型工作室难以承受。专家建议用AI做代码相似度分析辅助取证，并呼吁建立行政救济机制加快维权。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "G-STAR法律论坛：AI让游戏“秒级克隆”，现有版权框架面临挑战",
+          "url": "https://www.invenglobal.com/articles/28912/imitation-disputes-shift-from-like-games-to-ai-cloning",
+          "date": "2026-11-20",
+          "summary": "韩国游戏法学会第25届学术大会11月20日在釜山BEXCO（G-STAR期间）召开，与会律师与独立开发者指出，游戏抄袭纠纷正从“同类玩法模仿”转向AI驱动的“整游戏克隆”：AI可在一天内完整复刻一款游戏并上架海外平台，而维权诉讼往往耗时一到两年，小型工作室难以承受。专家建议用AI做代码相似度分析辅助取证，并呼吁建立行政救济机制加快维权。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "G-STAR法律论坛：AI聊天应用是否算“游戏”？私服用户监管空白引关注",
+        "url": "https://www.invenglobal.com/articles/28894/legal-experts-re-examine-boundaries-of-games-surrounding-ai-chat-apps-and-private-server-users",
+        "date": "2026-11-20",
+        "summary": "同场釜山研讨会上，律师指出Wrtn旗下Crack、Scatter Lab的zeta等文本类AI聊天应用可能不满足韩国《游戏产业法》对“影像物”的定义，若不被认定为游戏，现行的用户保护条款将无法适用，相关的“关系型AI服务法”立法仍进展缓慢。与会者还讨论了欧盟新版产品责任指令将软件和持续运营的live-service更新纳入可追责范围，可能影响游戏行业。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "G-STAR法律论坛：AI聊天应用是否算“游戏”？私服用户监管空白引关注",
+          "url": "https://www.invenglobal.com/articles/28894/legal-experts-re-examine-boundaries-of-games-surrounding-ai-chat-apps-and-private-server-users",
+          "date": "2026-11-20",
+          "summary": "同场釜山研讨会上，律师指出Wrtn旗下Crack、Scatter Lab的zeta等文本类AI聊天应用可能不满足韩国《游戏产业法》对“影像物”的定义，若不被认定为游戏，现行的用户保护条款将无法适用，相关的“关系型AI服务法”立法仍进展缓慢。与会者还讨论了欧盟新版产品责任指令将软件和持续运营的live-service更新纳入可追责范围，可能影响游戏行业。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "调查：会用AI的人在游戏行业更容易找到工作？",
+        "url": "https://www.chuapp.com/article/291769.html",
+        "date": "2026-11-18",
+        "summary": "触乐11月18日的调查显示，腾讯互娱2026年校招材料已出现更多AI相关岗位及AI面试/编程测试环节；GDC同月发布的调查称40%游戏从业者工作中使用生成式AI、其中57%为每日使用；中国音数协数据显示游戏企业研发环节AI应用率达86.36%。但多位HR表示AI技能目前仅占面试考察的5%-10%，核心专业能力仍是主要门槛。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "调查：会用AI的人在游戏行业更容易找到工作？",
+          "url": "https://www.chuapp.com/article/291769.html",
+          "date": "2026-11-18",
+          "summary": "触乐11月18日的调查显示，腾讯互娱2026年校招材料已出现更多AI相关岗位及AI面试/编程测试环节；GDC同月发布的调查称40%游戏从业者工作中使用生成式AI、其中57%为每日使用；中国音数协数据显示游戏企业研发环节AI应用率达86.36%。但多位HR表示AI技能目前仅占面试考察的5%-10%，核心专业能力仍是主要门槛。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "【更新】育碧上半财年净预订额暴跌16.5%、股价年内跌42%，仍押注新设AI部门Motherbrain",
+        "url": "https://www.gamedeveloper.com/business/ubisoft-misses-forecast-and-bets-big-on-ai-development",
+        "date": "2026-11-20",
+        "summary": "育碧公布截至9月底的上半财年业绩：净预订额同比下滑16.5%至6.447亿欧元（约7.073亿美元），营业现金流净亏损3.239亿欧元（约3.553亿美元）；第二财季净预订额3.89亿欧元，同比降16.5%（环比优于指引1900万欧元），营业亏损1.559亿欧元，去年同期为盈利2710万欧元。公司因“假期档异常拥挤”下调第三财季指引至约2.5亿欧元净预订额，消息公布后股价单日跌11%，2026年全年累计跌42%。财报同时确认此前已披露的AI子部门Motherbrain正式成立（由去年的AI原型项目Teammates拆分而来），主攻面向全公司的中间层AI工具及用于填充游戏世界的“智能NPC”技术——此前报道已覆盖Motherbrain设立本身及蒙特利尔/魁北克城166人裁员，本次为新的、带具体财务数据的财报与股价反应。财报指出业绩疲软部分源于新作匮乏，未来产品线依赖《雷曼》《魔法门之英雄无敌》重制版；亮点为《刺客信条4：黑旗重制版》销量超预期及《刺客信条：奥德赛》因诺兰电影《奥德赛》带动小幅回暖。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "【更新】育碧上半财年净预订额暴跌16.5%、股价年内跌42%，仍押注新设AI部门Motherbrain",
+          "url": "https://www.gamedeveloper.com/business/ubisoft-misses-forecast-and-bets-big-on-ai-development",
+          "date": "2026-11-20",
+          "summary": "育碧公布截至9月底的上半财年业绩：净预订额同比下滑16.5%至6.447亿欧元（约7.073亿美元），营业现金流净亏损3.239亿欧元（约3.553亿美元）；第二财季净预订额3.89亿欧元，同比降16.5%（环比优于指引1900万欧元），营业亏损1.559亿欧元，去年同期为盈利2710万欧元。公司因“假期档异常拥挤”下调第三财季指引至约2.5亿欧元净预订额，消息公布后股价单日跌11%，2026年全年累计跌42%。财报同时确认此前已披露的AI子部门Motherbrain正式成立（由去年的AI原型项目Teammates拆分而来），主攻面向全公司的中间层AI工具及用于填充游戏世界的“智能NPC”技术——此前报道已覆盖Motherbrain设立本身及蒙特利尔/魁北克城166人裁员，本次为新的、带具体财务数据的财报与股价反应。财报指出业绩疲软部分源于新作匮乏，未来产品线依赖《雷曼》《魔法门之英雄无敌》重制版；亮点为《刺客信条4：黑旗重制版》销量超预期及《刺客信条：奥德赛》因诺兰电影《奥德赛》带动小幅回暖。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "AppsFlyer扩展Agent Hub与MCP工具，帮助游戏公司自动化营销工作流",
+        "url": "https://www.pocketgamer.biz/appsflyer-expands-agent-hub-and-mcp-tools-to-automate-marketing-workflows/",
+        "date": "2026-11-19",
+        "summary": "移动归因与营销数据分析公司AppsFlyer宣布扩展其Agentic AI产品线，营销人员现可用自然语言描述任意营销效果工作流来创建自定义AI代理，其中Apple Ads Share of Voice代理已进入封闭测试，所有变更均需人工批准后才会执行。公司展示了一个面向游戏团队的示例代理：将最近一天的数据与此前七天对比并标记异常变化；据介绍某游戏买量团队曾借此在凌晨2点发现Google与TikTok渠道的预算配速问题，估计挽回了约40%的周末可能浪费支出。AppsFlyer还通过MCP（模型上下文协议）让营销人员把AppsFlyer数据接入自己常用的AI助手（如Claude），据案例显示Square公司一项过去需数小时的人工取数任务缩短到两分钟以内完成。公司2026年AI使用报告显示，53%使用MCP的账户在第7天及以后仍保持活跃，最受欢迎的自动化工作流为“周度表现报告”，占全部配置的38.6%。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "AppsFlyer扩展Agent Hub与MCP工具，帮助游戏公司自动化营销工作流",
+          "url": "https://www.pocketgamer.biz/appsflyer-expands-agent-hub-and-mcp-tools-to-automate-marketing-workflows/",
+          "date": "2026-11-19",
+          "summary": "移动归因与营销数据分析公司AppsFlyer宣布扩展其Agentic AI产品线，营销人员现可用自然语言描述任意营销效果工作流来创建自定义AI代理，其中Apple Ads Share of Voice代理已进入封闭测试，所有变更均需人工批准后才会执行。公司展示了一个面向游戏团队的示例代理：将最近一天的数据与此前七天对比并标记异常变化；据介绍某游戏买量团队曾借此在凌晨2点发现Google与TikTok渠道的预算配速问题，估计挽回了约40%的周末可能浪费支出。AppsFlyer还通过MCP（模型上下文协议）让营销人员把AppsFlyer数据接入自己常用的AI助手（如Claude），据案例显示Square公司一项过去需数小时的人工取数任务缩短到两分钟以内完成。公司2026年AI使用报告显示，53%使用MCP的账户在第7天及以后仍保持活跃，最受欢迎的自动化工作流为“周度表现报告”，占全部配置的38.6%。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "首届全球AI游戏创作大赛北京落幕：244款作品背后的版号审批与版权确权难题",
+        "url": "https://www.bjnews.com.cn/detail/1794956884189270.html",
+        "date": "2026-11-18",
+        "summary": "据《北京日报》报道（中国科技网11月18日转载），首届全球人工智能（AI）游戏创作大赛已于10月21日在北京亦庄落下帷幕，由OriginAI与香港游戏开发者联盟主办、北京经济技术开发区相关部门指导，以“AI赋能创作、人人皆可造世界”为理念，共收到来自21个国家和地区的244款参赛作品，参赛者涵盖高中生、高校研究生、普通爱好者及初创团队。报道指出，AI工具显著降低了普通人做游戏的门槛，但个人创作者要实现商业化仍面临现实阻碍：传统游戏版号审批机制及审核节奏难以适配AI高频产出的轻量化、碎片化游戏，同时AI生成素材的版权归属与生成作品的权属规则尚不明确。该事件折射出AI正推动游戏创作民主化的同时，监管与产业配套仍滞后于技术发展速度。报道未提供官方获奖名单。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "首届全球AI游戏创作大赛北京落幕：244款作品背后的版号审批与版权确权难题",
+          "url": "https://www.bjnews.com.cn/detail/1794956884189270.html",
+          "date": "2026-11-18",
+          "summary": "据《北京日报》报道（中国科技网11月18日转载），首届全球人工智能（AI）游戏创作大赛已于10月21日在北京亦庄落下帷幕，由OriginAI与香港游戏开发者联盟主办、北京经济技术开发区相关部门指导，以“AI赋能创作、人人皆可造世界”为理念，共收到来自21个国家和地区的244款参赛作品，参赛者涵盖高中生、高校研究生、普通爱好者及初创团队。报道指出，AI工具显著降低了普通人做游戏的门槛，但个人创作者要实现商业化仍面临现实阻碍：传统游戏版号审批机制及审核节奏难以适配AI高频产出的轻量化、碎片化游戏，同时AI生成素材的版权归属与生成作品的权属规则尚不明确。该事件折射出AI正推动游戏创作民主化的同时，监管与产业配套仍滞后于技术发展速度。报道未提供官方获奖名单。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [
+    [
+      {
+        "title": "欧洲多国游戏从业者工会发布联合宣言,警告不加约束使用生成式AI",
+        "url": "https://www.gamedeveloper.com/production/europe-s-game-worker-unions-publish-a-manifesto-warning-against-unchecked-ai-usage",
+        "date": "2026-11-17",
+        "summary": "英国IWGB、爱尔兰GWUI、西班牙CSVI、法国STJV、德国GDRT及意大利FIOM-CGIL等多国游戏从业者工会,在曼彻斯特欧洲游戏工会峰会前联合发布题为《关于游戏行业生成式AI使用》的宣言,称生成式AI正在损害行业、从业者及其作品质量。宣言呼吁雇主让员工自主决定是否使用相关工具、理想情况下全面禁止在原型阶段使用,并要求监管机构禁止未经同意和付费将创作者作品纳入AI训练数据集,同时指出生成式AI已导致初级岗位明显减少。",
+        "section": 1
+      },
+      {
+        "title": "欧洲多国游戏工会联合发布宣言，警告生成式AI“失控使用”正在伤害行业",
+        "url": "https://www.gamedeveloper.com/production/europe-s-game-worker-unions-publish-a-manifesto-warning-against-unchecked-ai-usage",
+        "date": "2026-11-17",
+        "summary": "英国IWGB游戏工作者分支联合爱尔兰Game Workers Unite Ireland、西班牙CSVI、意大利FIOM-CGIL米兰工作委员会等组织发布联合宣言，从社会经济、环境、伦理和产品质量四个维度警告生成式AI（genAI）对游戏行业的危害。宣言称“生成式AI正在伤害游戏行业、从业者及其作品”，指责企业将其包装为裁员借口、制造不合理的排期压力并借此逃避责任，呼吁尽可能停止使用genAI，并为从业者、业界和监管者制定准则与标准以减少或消除相关风险。宣言引用2026年GDC行业状况调查数据：40%从业者在工作中使用genAI工具（去年为36%），55%认为其对行业影响为负面，35%认为利弊参半，仅8%认为是正面影响。宣言末尾设FAQ回应“工会反对未来”的批评，强调从业者希望参与塑造AI应用方式，而非被剥削和过度加班。文章未提及任何游戏公司或发行商对此作出回应。",
+        "section": 1
+      }
+    ],
+    [
+      {
+        "title": "GDC行业调查:纯移动游戏工作室生成式AI使用率高达70%,远超全行业平均水平",
+        "url": "https://www.pocketgamer.biz/gdc-report-70-of-mobile-studio-workers-use-generative-ai/",
+        "date": "2026-11-16",
+        "summary": "GDC发布的2026年11月版《游戏行业现状》调查显示,覆盖69个国家逾2600名从业者的数据中,纯移动游戏工作室员工生成式AI使用率高达70%,远高于全行业40%的平均水平(去年为36%);免费游戏(F2P)团队使用率为58%,付费游戏团队为32%,老牌独立工作室仅29%。调查同时显示55%受访者认为生成式AI对行业造成负面影响,仅8%认为是正面影响;过去一年49%的受访公司进行过裁员,3A工作室该比例高达68%。",
+        "section": 2
+      },
+      {
+        "title": "GDC行业状况调查：70%手游团队员工已使用生成式AI，远高于行业平均",
+        "url": "https://www.pocketgamer.biz/gdc-report-70-of-mobile-studio-workers-use-generative-ai/",
+        "date": "2026-11-16",
+        "summary": "数据平台Playgama基于2026年GDC《游戏行业状况》调查数据分析发现，以2026年10月游玩时长计算的Roblox等平台头部游戏及手游公司中，超过80%的头部开发商借助AI加快开发速度，而在纯手游工作室中，多达70%的员工在工作中使用生成式AI，远高于全行业40%的整体使用率（去年为36%）。头部创作者在Roblox AI工具上花费的时间自2026年第二季度以来增长了约三倍。细分数据显示，商务运营与服务岗位使用率最高达71%，纯手游工作室70%，F2P项目员工58%。不过GDC自身提示，非美国、F2P及手游细分样本量有限，相关结论应被视为受访者回答而非全行业普查。该调查同时显示55%受访者认为生成式AI对行业影响负面，33%受访者过去24个月内曾被裁员。",
+        "section": 2
+      }
+    ]
+  ],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

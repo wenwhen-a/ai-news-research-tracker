@@ -1,0 +1,372 @@
+{
+  "as_of": "2026-11-21",
+  "cutoff": "2026-11-20",
+  "window_days": 1,
+  "summary": {
+    "input_items": 17,
+    "denied_source": 0,
+    "in_window": 17,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 17,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 17,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 15,
+    "previously_covered_count": 2
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "《女神异闻录5 皇家版》发售七周年之际,Atlus称《女神异闻录6》后续新作\"玩家不必等这么久\"",
+        "url": "https://www.pcgamer.com/games/rpg/seven-years-on-since-persona-5-royal-atlus-says-people-wont-have-to-wait-as-long-as-they-have-previously-for-the-next-game-after-persona-6/",
+        "date": "2026-11-21",
+        "summary": "在《女神异闻录5 皇家版》发售七周年之际,Atlus表示在《女神异闻录6》之后的下一部正统续作上,\"玩家不必像以往那样等待这么久\"。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《女神异闻录5 皇家版》发售七周年之际,Atlus称《女神异闻录6》后续新作\"玩家不必等这么久\"",
+          "url": "https://www.pcgamer.com/games/rpg/seven-years-on-since-persona-5-royal-atlus-says-people-wont-have-to-wait-as-long-as-they-have-previously-for-the-next-game-after-persona-6/",
+          "date": "2026-11-21",
+          "summary": "在《女神异闻录5 皇家版》发售七周年之际,Atlus表示在《女神异闻录6》之后的下一部正统续作上,\"玩家不必像以往那样等待这么久\"。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Toby Fox确认《三角战略》开发者游戏《Deltarune》第6章结构已完成,第7章已开始制作",
+        "url": "https://www.pcgamer.com/games/rpg/deltarune-chapter-6-is-structurally-complete-while-development-has-begun-on-chapter-7-according-to-toby-fox/",
+        "date": "2026-11-21",
+        "summary": "《Deltarune》创作者Toby Fox透露,游戏第6章在结构层面已经完成制作,第7章的开发工作也已正式启动。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Toby Fox确认《三角战略》开发者游戏《Deltarune》第6章结构已完成,第7章已开始制作",
+          "url": "https://www.pcgamer.com/games/rpg/deltarune-chapter-6-is-structurally-complete-while-development-has-begun-on-chapter-7-according-to-toby-fox/",
+          "date": "2026-11-21",
+          "summary": "《Deltarune》创作者Toby Fox透露,游戏第6章在结构层面已经完成制作,第7章的开发工作也已正式启动。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "爆料称AMD下一代Zen 6桌面处理器或推迟至2027年下半年发布",
+        "url": "https://www.pcgamer.com/hardware/processors/amds-next-gen-zen-6-desktop-cpus-are-rumoured-to-be-delayed-may-be-pushed-back-to-second-half-of-2027/",
+        "date": "2026-11-20",
+        "summary": "据业内传闻,AMD下一代Zen 6桌面处理器的发布时间可能从原计划推迟至2027年下半年,相关消息尚未获得AMD官方证实。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "爆料称AMD下一代Zen 6桌面处理器或推迟至2027年下半年发布",
+          "url": "https://www.pcgamer.com/hardware/processors/amds-next-gen-zen-6-desktop-cpus-are-rumoured-to-be-delayed-may-be-pushed-back-to-second-half-of-2027/",
+          "date": "2026-11-20",
+          "summary": "据业内传闻,AMD下一代Zen 6桌面处理器的发布时间可能从原计划推迟至2027年下半年,相关消息尚未获得AMD官方证实。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "玩家反映NVIDIA显卡驱动异常高频写入SSD,官方回应前建议回退至621.01版本",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/pc-gamers-notice-nvidias-drivers-hammering-their-ssds-with-tens-of-gb-hr-of-unnecessary-writes-revert-to-621-01-asap/",
+        "date": "2026-11-20",
+        "summary": "多名PC玩家反映,近期版本的NVIDIA显卡驱动会导致固态硬盘出现每小时数十GB的异常写入量,可能加速SSD损耗;在NVIDIA官方回应或修复前,社区建议用户暂时回退至621.01版本驱动以规避该问题。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "玩家反映NVIDIA显卡驱动异常高频写入SSD,官方回应前建议回退至621.01版本",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/pc-gamers-notice-nvidias-drivers-hammering-their-ssds-with-tens-of-gb-hr-of-unnecessary-writes-revert-to-621-01-asap/",
+          "date": "2026-11-20",
+          "summary": "多名PC玩家反映,近期版本的NVIDIA显卡驱动会导致固态硬盘出现每小时数十GB的异常写入量,可能加速SSD损耗;在NVIDIA官方回应或修复前,社区建议用户暂时回退至621.01版本驱动以规避该问题。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "数字游戏平台Fanatical黑五推出\"自选卡普空合集\"捆绑包,27款游戏低至6.2美元一部",
+        "url": "https://www.videogameschronicle.com/news/fanaticals-black-friday-build-your-own-capcom-collection-bundle-lets-you-stock-up-on-classics-from-6-20-per-game/",
+        "date": "2026-11-20",
+        "summary": "数字游戏零售平台Fanatical黑色星期五推出\"自选卡普空合集\"捆绑包,涵盖27款Steam游戏(含多部双人合集),购买8件及以上每款低至6.2美元;若集齐全部27件总价167.37美元,较Steam官方总价约1027美元大幅优惠。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "数字游戏平台Fanatical黑五推出\"自选卡普空合集\"捆绑包,27款游戏低至6.2美元一部",
+          "url": "https://www.videogameschronicle.com/news/fanaticals-black-friday-build-your-own-capcom-collection-bundle-lets-you-stock-up-on-classics-from-6-20-per-game/",
+          "date": "2026-11-20",
+          "summary": "数字游戏零售平台Fanatical黑色星期五推出\"自选卡普空合集\"捆绑包,涵盖27款Steam游戏(含多部双人合集),购买8件及以上每款低至6.2美元;若集齐全部27件总价167.37美元,较Steam官方总价约1027美元大幅优惠。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《毁灭战士》之父John Romero谈游戏设计:制作门槛降低是好事,但\"大多数游戏仍是垃圾\"",
+        "url": "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/",
+        "date": "2026-11-20",
+        "summary": "id Software联合创始人、《毁灭战士》与《雷神之锤》缔造者John Romero在采访中表示,他很欣慰如今做游戏比当年容易得多,但自助发行的泛滥导致大量低质量作品——尤其在移动平台,其中不少是AI生成或用建站式工具拼凑而成,\"大多数都是垃圾\"。他认为如今\"设计比以往任何时候都更重要\",建议独立开发者多参加独立游戏节、积累人脉以获得关注。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《毁灭战士》之父John Romero谈游戏设计:制作门槛降低是好事,但\"大多数游戏仍是垃圾\"",
+          "url": "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/",
+          "date": "2026-11-20",
+          "summary": "id Software联合创始人、《毁灭战士》与《雷神之锤》缔造者John Romero在采访中表示,他很欣慰如今做游戏比当年容易得多,但自助发行的泛滥导致大量低质量作品——尤其在移动平台,其中不少是AI生成或用建站式工具拼凑而成,\"大多数都是垃圾\"。他认为如今\"设计比以往任何时候都更重要\",建议独立开发者多参加独立游戏节、积累人脉以获得关注。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "育碧确认《刺客信条》中国题材手游“代号JADE”仍在开发中",
+        "url": "https://www.ithome.com/1/030/507.htm",
+        "date": "2026-11-21",
+        "summary": "育碧11月21日确认，此前曝光的中国背景《刺客信条》系列手游“代号JADE”项目仍在正常开发，未被取消。该作此前因育碧近期多轮重组与裁员而一度传出进度存疑的消息。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "育碧确认《刺客信条》中国题材手游“代号JADE”仍在开发中",
+          "url": "https://www.ithome.com/1/030/507.htm",
+          "date": "2026-11-21",
+          "summary": "育碧11月21日确认，此前曝光的中国背景《刺客信条》系列手游“代号JADE”项目仍在正常开发，未被取消。该作此前因育碧近期多轮重组与裁员而一度传出进度存疑的消息。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《GTA6》雷奥奈达州完整地图海报上线Rockstar官网供玩家下载打印",
+        "url": "https://www.ithome.com/1/030/462.htm",
+        "date": "2026-11-21",
+        "summary": "Rockstar Games 11月21日在官网放出《GTA6》游戏世界雷奥奈达州的完整高清地图海报，玩家可自行下载并打印收藏，这是该作上市后官方持续释出的周边物料之一。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《GTA6》雷奥奈达州完整地图海报上线Rockstar官网供玩家下载打印",
+          "url": "https://www.ithome.com/1/030/462.htm",
+          "date": "2026-11-21",
+          "summary": "Rockstar Games 11月21日在官网放出《GTA6》游戏世界雷奥奈达州的完整高清地图海报，玩家可自行下载并打印收藏，这是该作上市后官方持续释出的周边物料之一。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "育碧《雷曼：传奇再叙》通过Steam Deck认证，12月3日发售",
+        "url": "https://www.ithome.com/1/030/461.htm",
+        "date": "2026-11-21",
+        "summary": "育碧宣布《雷曼：传奇再叙》已通过Steam Deck掌机兼容性认证，确认可在掌机上流畅运行，游戏将于12月3日正式发售。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "育碧《雷曼：传奇再叙》通过Steam Deck认证，12月3日发售",
+          "url": "https://www.ithome.com/1/030/461.htm",
+          "date": "2026-11-21",
+          "summary": "育碧宣布《雷曼：传奇再叙》已通过Steam Deck掌机兼容性认证，确认可在掌机上流畅运行，游戏将于12月3日正式发售。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "阅文系《群星漫卡》首曝，打造国内首款多IP电子集换式卡牌手游",
+        "url": "https://www.youxituoluo.com/535081.html",
+        "date": "2026-11-20",
+        "summary": "蹊迹游戏与阅文集团合作的《群星漫卡》11月20日放出首个宣传片，整合《斗罗大陆》《吞噬星空》《狐妖小红娘》等多部阅文IP于同一套集换式卡牌规则中，首测将在宣传片公开约一周后开启。该项目由与阅文股东关系密切的姚记主导研发团队。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "阅文系《群星漫卡》首曝，打造国内首款多IP电子集换式卡牌手游",
+          "url": "https://www.youxituoluo.com/535081.html",
+          "date": "2026-11-20",
+          "summary": "蹊迹游戏与阅文集团合作的《群星漫卡》11月20日放出首个宣传片，整合《斗罗大陆》《吞噬星空》《狐妖小红娘》等多部阅文IP于同一套集换式卡牌规则中，首测将在宣传片公开约一周后开启。该项目由与阅文股东关系密切的姚记主导研发团队。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "“假”整理游戏《超级整理师》登顶中国App Store免费榜",
+        "url": "https://www.youxituoluo.com/535079.html",
+        "date": "2026-11-20",
+        "summary": "11月2日上线的消除类手游《超级整理师》凭“整理”题材包装，约十天内登顶中国App Store免费游戏榜，超过《王者荣耀》《和平精英》等长青产品，反映出轻量解压类小游戏对年轻玩家的持续吸引力。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "“假”整理游戏《超级整理师》登顶中国App Store免费榜",
+          "url": "https://www.youxituoluo.com/535079.html",
+          "date": "2026-11-20",
+          "summary": "11月2日上线的消除类手游《超级整理师》凭“整理”题材包装，约十天内登顶中国App Store免费游戏榜，超过《王者荣耀》《和平精英》等长青产品，反映出轻量解压类小游戏对年轻玩家的持续吸引力。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《梦幻西游》手游新版本上线，老牌IP持续靠玩法迭代保鲜",
+        "url": "https://www.youxituoluo.com/535080.html",
+        "date": "2026-11-20",
+        "summary": "网易《梦幻西游》手游11月20日推出新版本，加入新召唤兽、角色染色方案与门派/召唤兽技能平衡调整，并开设12月11日开启的新服务器，显示这款老牌长青手游仍通过周期性内容更新维持活跃度。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《梦幻西游》手游新版本上线，老牌IP持续靠玩法迭代保鲜",
+          "url": "https://www.youxituoluo.com/535080.html",
+          "date": "2026-11-20",
+          "summary": "网易《梦幻西游》手游11月20日推出新版本，加入新召唤兽、角色染色方案与门派/召唤兽技能平衡调整，并开设12月11日开启的新服务器，显示这款老牌长青手游仍通过周期性内容更新维持活跃度。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《GTA6》差评众生相：各平台玩家在吐槽什么",
+        "url": "https://www.chuapp.com/article/291777.html",
+        "date": "2026-11-20",
+        "summary": "触乐11月20日梳理了《GTA6》发售后在X、Bluesky、Reddit等平台出现的负面评价，发现多数批评与游戏本身关系不大，更多围绕主角人设引发的“觉醒议题”争论、对3A高成本模式的质疑，以及跨平台共同吐槽的帧率问题，彼时该作在Metacritic尚无玩家评分。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《GTA6》差评众生相：各平台玩家在吐槽什么",
+          "url": "https://www.chuapp.com/article/291777.html",
+          "date": "2026-11-20",
+          "summary": "触乐11月20日梳理了《GTA6》发售后在X、Bluesky、Reddit等平台出现的负面评价，发现多数批评与游戏本身关系不大，更多围绕主角人设引发的“觉醒议题”争论、对3A高成本模式的质疑，以及跨平台共同吐槽的帧率问题，彼时该作在Metacritic尚无玩家评分。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "腾讯收购北京江芯互动26.9%股权，持续加码休闲游戏领域",
+        "url": "https://www.pocketgamer.biz/tencent-takes-269-stake-in-beijing-jiangxin-interactive-entertainment-4193182/",
+        "date": "2026-11-20",
+        "summary": "据GameLook报道并经Niko Partners发现的工商变更信息，腾讯通过广西腾讯创业投资有限公司取得北京江芯互动娱乐26.9%的股权，交易金额未披露。江芯互动成立于2026年6月，由休闲游戏开发商北京江芯欢游（代表作《我的家我的世界》，2021年发布）创始人刘佳志实际控制。文章将此交易视为腾讯持续扩张休闲游戏版图的一部分：今年10月腾讯参与土耳其Flow Games 4600万美元融资（出资约占75%），9月领投土耳其Circle Games 2500万美元融资；7月传出腾讯计划以10亿至15亿美元估值收购Playtika旗下SuperPlay。与此同时，腾讯近两年也在收缩部分投资，包括退出Splash Damage、出售Marvelous股份、将Netmarble持股从18.11%降至4.69%，其子公司Sumo Group也出售了发行品牌Secret Mode。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "腾讯收购北京江芯互动26.9%股权，持续加码休闲游戏领域",
+          "url": "https://www.pocketgamer.biz/tencent-takes-269-stake-in-beijing-jiangxin-interactive-entertainment-4193182/",
+          "date": "2026-11-20",
+          "summary": "据GameLook报道并经Niko Partners发现的工商变更信息，腾讯通过广西腾讯创业投资有限公司取得北京江芯互动娱乐26.9%的股权，交易金额未披露。江芯互动成立于2026年6月，由休闲游戏开发商北京江芯欢游（代表作《我的家我的世界》，2021年发布）创始人刘佳志实际控制。文章将此交易视为腾讯持续扩张休闲游戏版图的一部分：今年10月腾讯参与土耳其Flow Games 4600万美元融资（出资约占75%），9月领投土耳其Circle Games 2500万美元融资；7月传出腾讯计划以10亿至15亿美元估值收购Playtika旗下SuperPlay。与此同时，腾讯近两年也在收缩部分投资，包括退出Splash Damage、出售Marvelous股份、将Netmarble持股从18.11%降至4.69%，其子公司Sumo Group也出售了发行品牌Secret Mode。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "腾讯承诺三年投入1.5亿美元发展《金铲铲之战》电竞生态",
+        "url": "https://www.pocketgamer.biz/tencent-commits-150m-to-battle-of-golden-spatula-esports-and-growth/",
+        "date": "2026-11-20",
+        "summary": "腾讯游戏副总裁黄凌东11月6日在西安举行的《金铲铲之战》（Riot Games《Teamfight Tactics》中国专属手游版本）2027战略发布会上宣布，未来三年将投入1.5亿美元（约合10亿元人民币）用于玩家文化、内容创作者扶持和电竞生态建设。该游戏注册用户已突破2.4亿，月活跃用户超5000万，过去两年每年参赛玩家均超1000万。2027年电竞计划包括：延续三项全国公开赛、新增总奖金池1000万元人民币的年度冠军赛、总奖金翻倍，并推出新的高校电竞品牌“棋位学院”（Prism Academy）。游戏还将在下赛季推出支持键鼠操作的PC版本，并与手游版共享账号数据、匹配系统和好友列表。Niko Partners数据显示该游戏及《Teamfight Tactics》2026年位列中国游戏直播平台最受关注的前20大作品。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "腾讯承诺三年投入1.5亿美元发展《金铲铲之战》电竞生态",
+          "url": "https://www.pocketgamer.biz/tencent-commits-150m-to-battle-of-golden-spatula-esports-and-growth/",
+          "date": "2026-11-20",
+          "summary": "腾讯游戏副总裁黄凌东11月6日在西安举行的《金铲铲之战》（Riot Games《Teamfight Tactics》中国专属手游版本）2027战略发布会上宣布，未来三年将投入1.5亿美元（约合10亿元人民币）用于玩家文化、内容创作者扶持和电竞生态建设。该游戏注册用户已突破2.4亿，月活跃用户超5000万，过去两年每年参赛玩家均超1000万。2027年电竞计划包括：延续三项全国公开赛、新增总奖金池1000万元人民币的年度冠军赛、总奖金翻倍，并推出新的高校电竞品牌“棋位学院”（Prism Academy）。游戏还将在下赛季推出支持键鼠操作的PC版本，并与手游版共享账号数据、匹配系统和好友列表。Niko Partners数据显示该游戏及《Teamfight Tactics》2026年位列中国游戏直播平台最受关注的前20大作品。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《MindsEye》开发商Build a Rocket Boy背负6180万英镑债务，起诉“幕后黑手”操纵差评",
+        "url": "https://80.lv/articles/mindseye-developers-build-a-rocket-boy-are-trying-to-get-out-of-their-usd80-98-million-debt",
+        "date": "2026-11-20",
+        "summary": "由前Rockstar North总裁Leslie Benzies领导的英国工作室Build a Rocket Boy（《MindsEye》开发商）提交“管理人提案通知”，披露未担保债权人索赔总额达6180万英镑（约8098万美元）。公司管理层称游戏商业表现受到“有组织的网络差评与负面言论活动”影响，并将经营不及预期归结为“流动性压力”持续加大；公司表示已获得信息显示有第三方组织并资助了该活动，已对部分相关方展开诉讼（文件称起诉对象为组织和资助该活动的第三方，而非泛指所有留差评玩家）。《MindsEye》上市已超一年，Steam评价褒贬不一，玩家普遍反映性能问题、画面粗糙、玩法薄弱，定价34.99美元，不少玩家退款并认为不值这个价。公司此前已进行大规模裁员并面临前员工法律诉讼，2026年秋曾传出濒临倒闭，多名团队成员曾公开指出公司管理混乱、员工压力过大。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《MindsEye》开发商Build a Rocket Boy背负6180万英镑债务，起诉“幕后黑手”操纵差评",
+          "url": "https://80.lv/articles/mindseye-developers-build-a-rocket-boy-are-trying-to-get-out-of-their-usd80-98-million-debt",
+          "date": "2026-11-20",
+          "summary": "由前Rockstar North总裁Leslie Benzies领导的英国工作室Build a Rocket Boy（《MindsEye》开发商）提交“管理人提案通知”，披露未担保债权人索赔总额达6180万英镑（约8098万美元）。公司管理层称游戏商业表现受到“有组织的网络差评与负面言论活动”影响，并将经营不及预期归结为“流动性压力”持续加大；公司表示已获得信息显示有第三方组织并资助了该活动，已对部分相关方展开诉讼（文件称起诉对象为组织和资助该活动的第三方，而非泛指所有留差评玩家）。《MindsEye》上市已超一年，Steam评价褒贬不一，玩家普遍反映性能问题、画面粗糙、玩法薄弱，定价34.99美元，不少玩家退款并认为不值这个价。公司此前已进行大规模裁员并面临前员工法律诉讼，2026年秋曾传出濒临倒闭，多名团队成员曾公开指出公司管理混乱、员工压力过大。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "移动游戏发行商Jam City裁员约10%（60人），此前出售《侵略性恐龙》开发商Ludia上市计划搁浅",
+        "url": "https://www.pocketgamer.biz/jam-city-lays-off-10-of-staff/",
+        "date": "2026-11-20",
+        "summary": "美国手游发行商Jam City宣布裁员约10%，据发言人透露约影响60名员工，公司称不会关闭任何工作室或游戏项目。公司表示“已努力提升游戏表现并强化业务”，但仍需进一步调整以实现可持续发展。背景方面，联合创始人Joshua Yguado今年早些时候卸任CEO一职（任职16年），由同属Netmarble体系、现同时掌管Kabam与Jam City的Chul-min Sim接任。公司去年已将《侵略性恐龙》开发商Ludia出售给一家加拿大投资者财团——此前Jam City曾以1.65亿美元收购Ludia，当初出售部分是为公司上市铺路，但该上市计划最终未能实现。文章未披露本次裁员涉及的具体财务数据。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "移动游戏发行商Jam City裁员约10%（60人），此前出售《侵略性恐龙》开发商Ludia上市计划搁浅",
+          "url": "https://www.pocketgamer.biz/jam-city-lays-off-10-of-staff/",
+          "date": "2026-11-20",
+          "summary": "美国手游发行商Jam City宣布裁员约10%，据发言人透露约影响60名员工，公司称不会关闭任何工作室或游戏项目。公司表示“已努力提升游戏表现并强化业务”，但仍需进一步调整以实现可持续发展。背景方面，联合创始人Joshua Yguado今年早些时候卸任CEO一职（任职16年），由同属Netmarble体系、现同时掌管Kabam与Jam City的Chul-min Sim接任。公司去年已将《侵略性恐龙》开发商Ludia出售给一家加拿大投资者财团——此前Jam City曾以1.65亿美元收购Ludia，当初出售部分是为公司上市铺路，但该上市计划最终未能实现。文章未披露本次裁员涉及的具体财务数据。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

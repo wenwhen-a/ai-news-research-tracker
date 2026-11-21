@@ -823,5 +823,13 @@
   "first_seen": "2026-11-20",
   "release_date": "2026-11-19",
   "summary": "Roblox switched the renderer for its browser-based \"Web Play\" Creator Beta from WebGL to WebGPU, fixing missing grass/terrain-decoration rendering, color-pixel artifacts on Intel Macs, blurry UI/emissive surfaces, distorted avatars and lighting quality, while adding texture streaming and faster instancing."
+ },
+ "https://forums.unrealengine.com/t/semantic-search-is-now-live-in-uefn-v43-12": {
+  "name": "UEFN Semantic Search (AI-powered Content Browser search)",
+  "company": "Epic Games",
+  "tier": "GA",
+  "first_seen": "2026-11-21",
+  "release_date": "2026-11-18",
+  "summary": "An AI search mode for the UEFN Content Browser: toggling the AI button next to any Content Browser search bar lets a creator type a natural-language description and get matching assets by appearance/type rather than literal filename match."
  }
 }

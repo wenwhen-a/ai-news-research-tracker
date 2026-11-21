@@ -1,0 +1,13 @@
+**[新闻 3] Unity高管回应Silver Lake与沙特PIF收购传闻，开发者担忧重演EA式AI裁员**
+- **日期：** 2026-11-16
+- **来源链接：** <https://www.gamedeveloper.com/business/-it-s-common-for-there-to-be-speculation-and-headlines-unity-exec-addresses-acquisition-rumors>
+- **核心事实：**
+  - 针对路透社此前报道Silver Lake与沙特公共投资基金（PIF，目前已持有Unity约8%股份）牵头的财团正与Unity商谈整体私有化收购一事，Unity产品高级副总裁Adam Smith在采访中回应称"业绩好的季度出现收购传闻很常见"，但未进一步置评
+  - Unity最新季度营收同比增长32%至6.22亿美元，其中引擎业务Create Solutions增长8%
+- **背景与起因：**
+  - 【更新】该收购传闻最早于2026年11月6日前后由路透社报道；本次为Unity官方首次正面回应，是在原报道基础上的新发展
+  - 由于同一财团此前收购EA后已裁员约400人并关闭包括BioWare等工作室，开发者担忧Unity若遭收购，可能同样以AI驱动降本为名裁员
+  - 开发者同时对交易背后的沙特资方背景表示关切
+- **结果与进展：**
+  - Unity高管未否认传闻，也未承诺不裁员或维持现有AI工具策略方向
+  - 文章未披露Silver Lake/PIF财团或Unity董事会的进一步声明

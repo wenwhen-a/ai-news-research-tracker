@@ -1,0 +1,8 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **育碧确认《刺客信条》中国题材手游"代号JADE"仍在开发中**（2026-11-21）— 育碧11月21日确认，此前曝光的中国背景《刺客信条》系列手游"代号JADE"项目仍在正常开发，未被取消，此前因公司近期多轮重组与裁员一度传出进度存疑的消息。 <https://www.ithome.com/1/030/507.htm>
+- **《GTA6》雷奥奈达州完整地图海报上线Rockstar官网供玩家下载打印**（2026-11-21）— Rockstar Games 11月21日在官网放出《GTA6》游戏世界雷奥奈达州的完整高清地图海报，玩家可自行下载并打印收藏，为该作上市后官方持续释出的周边物料之一。 <https://www.ithome.com/1/030/462.htm>
+- **育碧《雷曼：传奇再叙》通过Steam Deck认证，12月3日发售**（2026-11-21）— 育碧宣布《雷曼：传奇再叙》已通过Steam Deck掌机兼容性认证，确认可在掌机上流畅运行，游戏将于12月3日正式发售。 <https://www.ithome.com/1/030/461.htm>
+- **《女神异闻录5 皇家版》发售七周年之际，Atlus称《女神异闻录6》后续新作"玩家不必等这么久"**（2026-11-21）— 在《女神异闻录5 皇家版》发售七周年之际，Atlus表示在《女神异闻录6》之后的下一部正统续作，"玩家不必像以往那样等待这么久"。 <https://www.pcgamer.com/games/rpg/seven-years-on-since-persona-5-royal-atlus-says-people-wont-have-to-wait-as-long-as-they-have-previously-for-the-next-game-after-persona-6/>
+- **Toby Fox确认《Deltarune》第6章结构已完成，第7章已开始制作**（2026-11-21）— 《Deltarune》创作者Toby Fox透露，游戏第6章在结构层面已完成制作，第7章开发工作已正式启动。 <https://www.pcgamer.com/games/rpg/deltarune-chapter-6-is-structurally-complete-while-development-has-begun-on-chapter-7-according-to-toby-fox/>
+- **爆料称AMD下一代Zen 6桌面处理器或推迟至2027年下半年发布**（2026-11-20）— 据业内传闻，AMD下一代Zen 6桌面处理器的发布时间可能从原计划推迟至2027年下半年，相关消息尚未获得AMD官方证实。 <https://www.pcgamer.com/hardware/processors/amds-next-gen-zen-6-desktop-cpus-are-rumoured-to-be-delayed-may-be-pushed-back-to-second-half-of-2027/>
+- **玩家反映NVIDIA显卡驱动异常高频写入SSD，官方回应前建议回退至621.01版本**（2026-11-20）— 多名PC玩家反映，近期版本的NVIDIA显卡驱动会导致固态硬盘出现每小时数十GB的异常写入量，可能加速SSD损耗；在NVIDIA官方回应或修复前，社区建议用户暂时回退至621.01版本驱动。 <https://www.pcgamer.com/hardware/graphics-cards/pc-gamers-notice-nvidias-drivers-hammering-their-ssds-with-tens-of-gb-hr-of-unnecessary-writes-revert-to-621-01-asap/>
