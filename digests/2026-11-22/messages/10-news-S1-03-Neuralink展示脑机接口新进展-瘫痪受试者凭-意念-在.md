@@ -1,0 +1,15 @@
+**[新闻 3] Neuralink展示脑机接口新进展：瘫痪受试者凭"意念"在《GTA 6》中驾驶与射击，告别口咬式操控杆**
+- **日期：** 2026-11-22
+- **来源链接：** <https://www.tomshardware.com/peripherals/wearable-tech/neuralink-trial-participant-ditches-mouth-stick-to-play-gta-6-with-his-mind-brain-computer-interface-maps-imagined-ring-finger-taps-and-hand-slides-to-a-playstation-5-controller> （另见 <https://www.ithome.com/1/030/625.htm> ）
+- **核心事实：**
+  - 埃隆·马斯克旗下脑机接口公司Neuralink于11月21日发布视频，展示一名瘫痪受试者通过植入式脑机接口芯片畅玩《GTA 6》，可自主驾驶汽车与快艇、瞄准射击并完成漂移等操作
+  - 据Tom's Hardware报道，这是Neuralink迄今演示过的"最复杂"游玩案例之一：受试者通过"想象"手指轻敲（如无名指点按）、手部滑动等动作，由脑机接口将对应神经信号映射为PS5 DualSense手柄的操作指令
+  - 据IT之家转述该演示视频内容，系统目前已能识别连续的方向与力度变化，而非仅能识别简单的"开/关"式指令，可覆盖DualSense手柄的全部按键操作
+  - 受试者此前需依赖口咬式操控杆（mouth stick）进行游戏操作，此次演示后不再需要该辅助设备
+  - 受试者在报道引用的表述中称："你（通过这套系统）立刻找回了通往世界的入口（You immediately get your portal to the world back）"
+- **背景与起因：**
+  - Neuralink的脑机接口芯片通过机器学习模型对受试者大脑皮层运动相关区域的神经信号进行解码，并将解码结果转译为具体设备操作指令，这一解码环节依赖AI/机器学习技术，而非固定的硬编码映射
+  - 此次演示选择刚于11月19日发售、全球热度最高的《GTA 6》作为测试场景，意在凸显脑机接口在高自由度3A游戏中的可用性进展
+- **结果与进展：**
+  - 报道称该演示展示了脑机接口从简单二元指令向连续、多维度指令识别的技术进展，被视为Neuralink借助AI辅助瘫痪患者提升游戏与日常生活能力的最新案例
+  - 报道未披露具体的解码准确率、延迟等量化指标，相关内容来自Neuralink在X平台发布的演示视频，尚无独立第三方验证

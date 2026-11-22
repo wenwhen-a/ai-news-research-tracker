@@ -1,0 +1,292 @@
+{
+  "as_of": "2026-11-22",
+  "cutoff": "2026-11-21",
+  "window_days": 1,
+  "summary": {
+    "input_items": 13,
+    "denied_source": 0,
+    "in_window": 13,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 13,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 13,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 10,
+    "previously_covered_count": 3
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Rockstar公布《GTA 6》预售纪录：发售前全球销量已达3250万份",
+        "url": "https://www.4gamer.net/games/758/G075801/20261121002/",
+        "date": "2026-11-21",
+        "summary": "Rockstar Games宣布《GTA 6》发售前全球预售销量已达3250万份，创下各平台预售销量新纪录；此前发售首日收入已达37.9亿美元。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Rockstar公布《GTA 6》预售纪录：发售前全球销量已达3250万份",
+          "url": "https://www.4gamer.net/games/758/G075801/20261121002/",
+          "date": "2026-11-21",
+          "summary": "Rockstar Games宣布《GTA 6》发售前全球预售销量已达3250万份，创下各平台预售销量新纪录；此前发售首日收入已达37.9亿美元。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "NVIDIA发布GeForce Hotfix驱动621.35，修复SSD异常写入问题",
+        "url": "https://www.4gamer.net/games/022/G002210/20261121009/",
+        "date": "2026-11-21",
+        "summary": "NVIDIA针对此前曝光的NVDisplay.Container.exe异常高频写入SSD问题发布非WHQL认证的Hotfix驱动621.35进行修复，官方同时提示该驱动未经完整质量测试，谨慎用户可继续使用617.42版本等待下一个WHQL正式版。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "NVIDIA发布GeForce Hotfix驱动621.35，修复SSD异常写入问题",
+          "url": "https://www.4gamer.net/games/022/G002210/20261121009/",
+          "date": "2026-11-21",
+          "summary": "NVIDIA针对此前曝光的NVDisplay.Container.exe异常高频写入SSD问题发布非WHQL认证的Hotfix驱动621.35进行修复，官方同时提示该驱动未经完整质量测试，谨慎用户可继续使用617.42版本等待下一个WHQL正式版。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《辐射》官宣猫咪主题衍生新作",
+        "url": "https://www.ithome.com/1/030/607.htm",
+        "date": "2026-11-22",
+        "summary": "Bethesda旗下《辐射》系列官方宣布推出猫咪主题衍生游戏，玩家将扮演避难所内的猫咪展开拯救同伴的冒险。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《辐射》官宣猫咪主题衍生新作",
+          "url": "https://www.ithome.com/1/030/607.htm",
+          "date": "2026-11-22",
+          "summary": "Bethesda旗下《辐射》系列官方宣布推出猫咪主题衍生游戏，玩家将扮演避难所内的猫咪展开拯救同伴的冒险。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据报道《黑色洛城2》或为Rockstar下一部作品，取材\"黄道十二宫\"案件",
+        "url": "https://www.ithome.com/1/030/664.htm",
+        "date": "2026-11-22",
+        "summary": "据报道，Rockstar Games下一部新作可能是《黑色洛城2》，题材取自旧金山\"黄道十二宫\"连环杀手悬案，预计2030年发售，该消息尚未获官方证实。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据报道《黑色洛城2》或为Rockstar下一部作品，取材\"黄道十二宫\"案件",
+          "url": "https://www.ithome.com/1/030/664.htm",
+          "date": "2026-11-22",
+          "summary": "据报道，Rockstar Games下一部新作可能是《黑色洛城2》，题材取自旧金山\"黄道十二宫\"连环杀手悬案，预计2030年发售，该消息尚未获官方证实。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《塞尔达传说：时之笛》重制版遭恶意刷差评，M站用户评分骤降",
+        "url": "https://www.ithome.com/1/030/601.htm",
+        "date": "2026-11-22",
+        "summary": "《塞尔达传说：时之笛》重制版近日遭玩家恶意刷差评，Metacritic用户评分由9.6骤降至8.7。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《塞尔达传说：时之笛》重制版遭恶意刷差评，M站用户评分骤降",
+          "url": "https://www.ithome.com/1/030/601.htm",
+          "date": "2026-11-22",
+          "summary": "《塞尔达传说：时之笛》重制版近日遭玩家恶意刷差评，Metacritic用户评分由9.6骤降至8.7。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "日厂Entergram预告《Farland Saga》30周年新企划",
+        "url": "https://www.gematsu.com/2026/11/entergram-teases-farland-saga-30th-anniversary-project",
+        "date": "2026-11-21",
+        "summary": "日本厂商Entergram预告将为经典战略RPG系列《Farland Saga》推出30周年纪念新企划，具体内容尚未公布。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "日厂Entergram预告《Farland Saga》30周年新企划",
+          "url": "https://www.gematsu.com/2026/11/entergram-teases-farland-saga-30th-anniversary-project",
+          "date": "2026-11-21",
+          "summary": "日本厂商Entergram预告将为经典战略RPG系列《Farland Saga》推出30周年纪念新企划，具体内容尚未公布。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《明日方舟：终末地》\"蘑菇世界\"版本更新定档11月25日",
+        "url": "https://www.gematsu.com/2026/11/arknights-endfield-version-update-meeting-you-in-the-world-oshrooms-launches-november-25",
+        "date": "2026-11-21",
+        "summary": "鹰角网络公布《明日方舟：终末地》新版本更新\"在蘑菇的世界里与你相逢\"将于11月25日正式上线。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《明日方舟：终末地》\"蘑菇世界\"版本更新定档11月25日",
+          "url": "https://www.gematsu.com/2026/11/arknights-endfield-version-update-meeting-you-in-the-world-oshrooms-launches-november-25",
+          "date": "2026-11-21",
+          "summary": "鹰角网络公布《明日方舟：终末地》新版本更新\"在蘑菇的世界里与你相逢\"将于11月25日正式上线。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "G-STAR 2026闭幕，四天吸引约20.1万观众",
+        "url": "https://www.invenglobal.com/articles/28938/g-star-2026-closes-drawing-201000-visitors-over-four-days",
+        "date": "2026-11-22",
+        "summary": "韩国釜山游戏展会G-STAR 2026正式闭幕，官方统计四天展期共吸引约20.1万名观众到场参观。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "G-STAR 2026闭幕，四天吸引约20.1万观众",
+          "url": "https://www.invenglobal.com/articles/28938/g-star-2026-closes-drawing-201000-visitors-over-four-days",
+          "date": "2026-11-22",
+          "summary": "韩国釜山游戏展会G-STAR 2026正式闭幕，官方统计四天展期共吸引约20.1万名观众到场参观。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "史克威尔艾尼克斯北濑佳范在G-STAR畅谈《最终幻想VII重制版》系列重构历程",
+        "url": "https://www.4gamer.net/games/991/G999110/20261122008/",
+        "date": "2026-11-22",
+        "summary": "《最终幻想VII重制版》制作人北濑佳范在韩国G-STAR 2026上发表演讲，回顾该系列在新时代背景下的重新构建过程。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "史克威尔艾尼克斯北濑佳范在G-STAR畅谈《最终幻想VII重制版》系列重构历程",
+          "url": "https://www.4gamer.net/games/991/G999110/20261122008/",
+          "date": "2026-11-22",
+          "summary": "《最终幻想VII重制版》制作人北濑佳范在韩国G-STAR 2026上发表演讲，回顾该系列在新时代背景下的重新构建过程。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "韩国著作权保护院亮相G-STAR，谈反盗版与AI应用新进展",
+        "url": "https://www.4gamer.net/games/999/G999905/20261122016/",
+        "date": "2026-11-22",
+        "summary": "韩国著作权保护院（KCOPA）在G-STAR 2026展会上接受采访，介绍其参展目的、游戏反盗版举措以及在相关工作中运用AI技术的情况。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "韩国著作权保护院亮相G-STAR，谈反盗版与AI应用新进展",
+          "url": "https://www.4gamer.net/games/999/G999905/20261122016/",
+          "date": "2026-11-22",
+          "summary": "韩国著作权保护院（KCOPA）在G-STAR 2026展会上接受采访，介绍其参展目的、游戏反盗版举措以及在相关工作中运用AI技术的情况。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Atari《E.T.》设计师称AI游戏泛滥重现1980年代行业崩盘前兆",
+        "url": "https://www.pcgamer.com/gaming-industry/game-development/the-designer-of-ataris-notorious-e-t-likens-the-deluge-of-ai-games-to-events-that-preceded-the-80s-industry-crash-there-was-a-glut-of-crap-on-the-market/",
+        "date": "2026-11-22",
+        "summary": "曾设计Atari著名\"灾难游戏\"《E.T.》的设计师警告，当前市场上AI生成游戏泛滥的景象，与1980年代导致游戏业大崩盘前\"劣质游戏充斥市场\"的情形相似。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Atari《E.T.》设计师称AI游戏泛滥重现1980年代行业崩盘前兆",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/the-designer-of-ataris-notorious-e-t-likens-the-deluge-of-ai-games-to-events-that-preceded-the-80s-industry-crash-there-was-a-glut-of-crap-on-the-market/",
+          "date": "2026-11-22",
+          "summary": "曾设计Atari著名\"灾难游戏\"《E.T.》的设计师警告，当前市场上AI生成游戏泛滥的景象，与1980年代导致游戏业大崩盘前\"劣质游戏充斥市场\"的情形相似。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "韩国独立团队Jebi Studio公布第一人称Roguelite新作《Human Forge》",
+        "url": "https://www.famitsu.com/article/202611/94763",
+        "date": "2026-11-22",
+        "summary": "韩国一人团队Jebi Studio公布Steam新作《Human Forge》，玩家在游戏中\"制造\"人类并直播其人生，人生事件越\"精彩\"获利越多，该作计划于2027年上半年发售。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "韩国独立团队Jebi Studio公布第一人称Roguelite新作《Human Forge》",
+          "url": "https://www.famitsu.com/article/202611/94763",
+          "date": "2026-11-22",
+          "summary": "韩国一人团队Jebi Studio公布Steam新作《Human Forge》，玩家在游戏中\"制造\"人类并直播其人生，人生事件越\"精彩\"获利越多，该作计划于2027年上半年发售。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Capcom《洛克人X》传承合集2实体版开启预购，推出\"猛男猎人版\"豪华礼盒",
+        "url": "https://www.4gamer.net/games/415/G041594/20261121020/",
+        "date": "2026-11-21",
+        "summary": "Limited Run Games开启《洛克人X》传承合集2 Switch实体版预购，豪华版\"Maverick Hunter Edition\"含金属原人钥匙扣、仿光能胶囊造型灯具等周边，预购截止至2027年1月4日。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Capcom《洛克人X》传承合集2实体版开启预购，推出\"猛男猎人版\"豪华礼盒",
+          "url": "https://www.4gamer.net/games/415/G041594/20261121020/",
+          "date": "2026-11-21",
+          "summary": "Limited Run Games开启《洛克人X》传承合集2 Switch实体版预购，豪华版\"Maverick Hunter Edition\"含金属原人钥匙扣、仿光能胶囊造型灯具等周边，预购截止至2027年1月4日。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

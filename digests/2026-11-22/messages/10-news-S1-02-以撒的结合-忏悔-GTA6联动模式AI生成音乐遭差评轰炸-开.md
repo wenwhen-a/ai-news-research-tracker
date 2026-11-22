@@ -1,0 +1,16 @@
+**[新闻 2] 《以撒的结合：忏悔+》GTA6联动模式AI生成音乐遭差评轰炸，开发商连夜下架并致歉**
+- **日期：** 2026-11-21
+- **来源链接：** <https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213> （另见 <https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed> ）
+- **核心事实：**
+  - 《以撒的结合：忏悔+》（The Binding of Isaac: Repentance+）于《GTA 6》发售当日（11月19日）推出免费的"Vice City"致敬联动模式，玩家需输入代码"V1CE BSMT"进入该挑战，解锁专属武器与背景音乐
+  - 11月20日，Reddit用户ShweetsStuff发现该模式音乐文件元数据中含有AI音乐工具Suno的署名信息（如文件drivingsong1.ogg的注释写明由Suno制作），据此指出该模式音乐"100%由Suno（AI）生成，且有证据"
+  - 消息曝出后，玩家在Steam评测区与游戏Reddit社区发起差评轰炸，批评使用AI生成音乐是偷懒之举，有评论甚至称"给已购买游玩的玩家退款才合理"
+  - 游戏创作者Edmund McMillen在X平台回应称自己"一早起来就看到一地鸡毛（woke up to a sh*t show）"，"显然事先并不知情"，并表示正调查音乐是如何混入游戏的，要求玩家持续关注后续处理
+  - 发行商Nicalis随后在X平台确认已推送新版本，修复内容包括"移除AI生成音乐文件"等，该更新已在PC端上线，并已提交至Microsoft、Nintendo、Sony平台审核
+  - 截至报道发布，McMillen与Nicalis均未正式说明AI生成音乐具体是如何被加入游戏的
+- **背景与起因：**
+  - Repentance+是2024年为《以撒的结合：重生》推出的免费扩展内容，新增了在线联机功能；该系列此前的Afterbirth、Afterbirth+、Repentance等资料片已持续运营超过十年
+  - 本次"Vice City"模式是为呼应《GTA 6》同日发售而制作的限时致敬内容，反映出部分开发团队在制作联动活动内容时使用AI生成工具（如Suno）作为音乐素材来源的做法
+- **结果与进展：**
+  - 游戏已在PC端完成修复并下架AI生成音乐，主机平台更新正在平台审核中
+  - 该事件发生于《以撒的结合：重生》系列在Steam创下12年来新高并发玩家纪录之后，成为近期游戏行业中生成式AI内容引发玩家负面反应的又一案例
