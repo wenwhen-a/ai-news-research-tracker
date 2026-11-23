@@ -1,0 +1,19 @@
+**[新闻 1] Unity在Unite Tokyo 2026公布Unity 7路线图：AI编程代理工具Unity CLI 1.0正式上线，Synty Studios加入公司**
+- **日期：** 2026-11-17
+- **来源链接：** <https://unity.com/blog/unite-tokyo-2026-keynote-recap>
+- **核心事实：**
+  - Unity CLI 1.0正式发布（GA），官方插件使Claude、Codex、Google Antigravity、Grok等AI编程代理可直接连接Unity编辑器，开发者还可自定义CLI指令；现场演示了AI代理在真实项目中搭建一个第一人称解谜游戏原型。
+  - 推出"Unity Neural"AI工具集以加速渲染并降低内存占用，其中Neural Texture Compression（神经纹理压缩）在Atrio演示场景中将纹理显存占用降低近30%，目前作为Unity 6.7 LTS的实验性功能，计划随Unity 7正式发布。
+  - 推出全新图形后端Unity Graphics Kernel（UGK），在开启光线追踪的Atrio演示场景中将GPU性能提升超过62%。
+  - 资产工作室Synty Studios宣布加入Unity，其资产将通过Asset Store、Unity CLI及首发支持的Unity Spark继续提供。
+  - 公布"Unity Fellowship"计划：为10个独立团队各提供5万美元无偿资助（不收取股权或分成），首批入选团队名单将于2027年3月GDC公布。
+  - Unity 7还将引入"ECS for All"（让每个GameObject同时具备Entity身份以提升性能，5000飞船演示保持稳定帧率）以及URP的Surface Cache GI动态全局光照技术。
+- **背景与起因：**
+  - 本次Unite Tokyo是Unity自2019年以来首次在东京举办的Unite大会。
+  - Unity此前已在2026年7月21日的Unite Seoul大会上首次公布Unity 7路线图及其基于CoreCLR的技术基础，东京场在此基础上进一步公布AI工具与合作伙伴细节。
+  - 游戏引擎厂商正竞相将AI编程代理和AI渲染工具纳入核心工作流，竞争对手Epic旗下Unreal Engine此前也宣布将Anthropic Claude、谷歌Gemini等模型整合进Unreal Engine 6。
+- **结果与进展：**
+  - Unity CLI 1.0已正式可用，开发者可立即将AI编程代理接入Unity编辑器工作流。
+  - Unity Neural的神经纹理压缩已作为实验功能在Unity 6.7 LTS中提供，全面版本计划随Unity 7发布。
+  - 面向团队协作的Unity Pipeline API（可将项目带入浏览器）进入Beta阶段，计划2027年全面上线。
+  - Unity Fellowship已开放申请，面向使用Unity引擎、预计一年内发布游戏的独立团队。

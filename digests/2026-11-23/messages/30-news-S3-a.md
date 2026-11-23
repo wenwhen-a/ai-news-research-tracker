@@ -1,0 +1,9 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **《龙腾世纪》前负责人称EA管理不善导致BioWare解散**（2026-11-23）— 《龙腾世纪》前负责人表示，EA方面的管理问题导致BioWare工作室最终解散，称当时摆在面前的选项"都很糟糕"。 <https://www.pcgamer.com/gaming-industry/dragon-ages-former-boss-explains-that-poor-management-from-ea-led-to-bioware-shutting-down-because-the-options-on-the-table-were-all-terrible/>
+- **《虚幻引擎6》提前放弃一项关键脚本功能，转向AI编码**（2026-11-22）— Epic Games宣布虚幻引擎6将比原计划更早放弃一项关键脚本功能，转而优先推进AI辅助编码能力。 <https://www.pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding/>
+- **《英雄联盟》确认加入2027电竞世界杯，韩国力争四连冠**（2026-11-22）— 《英雄联盟》正式确认将参加2027年电竞世界杯，韩国战队将力争实现该项赛事的四连冠。 <https://gamesbeat.com/league-of-legends-confirmed-for-esports-world-cup-2027-as-south-korea-targets-fourth-consecutive-title/>
+- **Blast与Fever达成全球票务合作，简化电竞赛事购票流程**（2026-11-22）— 电竞赛事主办方Blast与票务平台Fever宣布达成全球票务合作，旨在让线下电竞赛事购票更便捷、更安全。 <https://gamesbeat.com/blast-and-fever-announce-global-ticketing-partnership-to-make-live-esports-events-easier-and-safer-to-access/>
+- **《汤姆猫跑酷金币版》更新加入风险收益玩法"撤离模式"**（2026-11-22）— 手游《汤姆猫跑酷金币版》最新更新加入了具有风险与回报机制的"撤离模式"新玩法。 <https://gamesbeat.com/talking-tom-gold-run-adds-risk-and-reward-extraction-mode-in-latest-update/>
+- **2022年泄露《GTA 6》画面的黑客已获假释**（2026-11-23）— 2022年泄露《GTA 6》早期开发画面的黑客已获假释出狱，并被要求不得再犯类似行为。 <https://www.videogameschronicle.com/news/gta-6-hacker-who-leaked-footage-in-2022-has-been-released-on-licence-and-told-not-to-do-it-again/>
+- **《GTA 6》推出新补丁修复自动存档问题**（2026-11-23）— Rockstar为《GTA 6》发布新补丁，修复了游戏中的自动存档相关问题。 <https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/>
+- **《生化危机》之父三上真司谈AI：希望其完全消失，但仍会作为工具尝试**（2026-11-23）— 《生化危机》创作者三上真司表示，他希望AI技术能够完全消失，但自己仍会将其作为工具进行尝试，并担忧其导致大规模失业。 <https://www.videogameschronicle.com/news/resident-evil-creator-shinji-mikami-says-he-wishes-ai-would-disappear-entirely-but-that-he-experiments-with-it-as-a-tool/>

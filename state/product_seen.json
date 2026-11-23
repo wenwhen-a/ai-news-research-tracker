@@ -21,7 +21,7 @@
   "first_seen": "2026-09-13",
   "release_date": "2026-09-03",
   "summary": "NVIDIA states \"DLSS 5 is available now in the newly-released NBA 2K27\" and that DLSS 5 introduces \"3D-Guided Neural Rendering, infusing games with lifelike lighting and materials using advanced artist-guided AI models.\" It ships alongside Game Ready Driver 616.64.",
-  "last_update": "2026-11-12",
+  "last_update": "2026-11-23",
   "updates": [
    {
     "date": "2026-10-13",
@@ -38,6 +38,10 @@
    {
     "date": "2026-11-12",
     "change": "War Thunder's Eagle's Shadow update shipped DLSS 5 with 3D-Guided Neural Rendering (https://www.nvidia.com/en-us/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-out-now/), moving War Thunder from \"confirmed for mid/late November rollout\" to actually available on GeForce RTX 50 Series/RTX Spark; NVIDIA claims up to 400 fps at 4K and up to 550 fps at 1440p (Ultra, path tracing) in Gaijin's benchmark. Where Winds Meet's DLSS 5 update (stated for Nov 23) remains pending."
+   },
+   {
+    "date": "2026-11-23",
+    "change": "DLSS 5 with 3D-Guided Neural Rendering shipped in Where Winds Meet (NetEase/Everstone Studio), available Nov 23 in North America (Nov 24 elsewhere) per https://www.nvidia.com/en-us/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/ — completing the three-game rollout (Hogwarts Legacy, War Thunder, Where Winds Meet) announced as pending on Nov 12."
    }
   ]
  },
@@ -766,7 +770,14 @@
   "tier": "Public beta/preview",
   "first_seen": "2026-11-09",
   "release_date": "2026-11-09",
-  "summary": "Epic released a public preview build of Unreal Engine 5.9, which it says was built \"primarily with AI agents, with engineers directing and reviewing the work.\""
+  "summary": "Epic released a public preview build of Unreal Engine 5.9, which it says was built \"primarily with AI agents, with engineers directing and reviewing the work.\"",
+  "last_update": "2026-11-19",
+  "updates": [
+   {
+    "date": "2026-11-19",
+    "change": "UE5.9 Preview revised to Preview 2 (https://dev.epicgames.com/documentation/unreal-engine/unreal-engine-5-9-release-notes), adding the experimental UAF AnimGen plugin (flow-matching neural character-animation controller), plus expanded Python/Unreal MCP agent tooling and an experimental WebAssembly/WebGPU export target."
+   }
+  ]
  },
  "https://devforum.roblox.com/t/studio-beta-createsurfaceappearance-now-with-asset-ids-and-datamodel-content/4977713": {
   "name": "Roblox Studio CreateSurfaceAppearance: Asset IDs and DataModel Content",
@@ -831,5 +842,29 @@
   "first_seen": "2026-11-21",
   "release_date": "2026-11-18",
   "summary": "An AI search mode for the UEFN Content Browser: toggling the AI button next to any Content Browser search bar lets a creator type a natural-language description and get matching assets by appearance/type rather than literal filename match."
+ },
+ "https://create.roblox.com/docs/production/localization/image-translations": {
+  "name": "Roblox Studio — Automatic In-Game Image Text Translation (Beta)",
+  "company": "Roblox",
+  "tier": "Public beta/preview",
+  "first_seen": "2026-11-23",
+  "release_date": "2026-11-10",
+  "summary": "Roblox shipped a beta that automatically detects and translates text baked into in-game images (signs, UI graphics, textures), regenerating the image with translated text while preserving style."
+ },
+ "https://seed.bytedance.com/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5": {
+  "name": "Seedream 5.5",
+  "company": "ByteDance",
+  "tier": "GA",
+  "first_seen": "2026-11-23",
+  "release_date": "2026-11-09",
+  "summary": "ByteDance shipped Seedream 5.5, an image generation/editing model with improved multi-turn edit stability and native transparent (RGBA) output, via Dola, BytePlus Playground and API."
+ },
+ "https://gpuopen.com/manuals/fsr_sdk/whats-new/": {
+  "name": "AMD FSR SDK 2.4 — FSR Upscaling 4.1.2 on RDNA 2, Vulkan parity, driver-assisted frame pacing",
+  "company": "AMD",
+  "tier": "GA",
+  "first_seen": "2026-11-23",
+  "release_date": "2026-10-28",
+  "summary": "AMD's FSR SDK moved from 2.3 to 2.4, extending full-INT8 FSR Upscaling 4.1.2 support down to Radeon RX 6000 (RDNA 2) GPUs, bringing several FSR effects to Vulkan/DirectX-12 parity, and adding Driver-Assisted Frame Pacing for RX 9000-series and newer."
  }
 }

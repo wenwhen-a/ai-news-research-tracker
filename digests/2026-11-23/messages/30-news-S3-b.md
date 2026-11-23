@@ -1,0 +1,3 @@
+- **《Acts of Blood》PC版延期至2027年春季**（2026-11-23）— 游戏《Acts of Blood》的PC版发布日期被宣布延期至2027年春季。 <https://www.gematsu.com/2026/11/acts-of-blood-for-pc-delayed-to-spring-2027>
+- **《魔法少女禁忌村》与《直播者的小号迷宫》双双宣布延期**（2026-11-23）— 两款游戏《魔法少女禁忌村》（Magical Girl Taboo Village）和《直播者的小号迷宫》（The Streamer's Alt Account Labyrinth）均宣布延期发布。 <https://www.gematsu.com/2026/11/magical-girl-taboo-village-and-the-streamers-alt-account-labyrinth-delayed>
+- **INDIE Live Expo将于12月1日举行，公布逾百款游戏阵容**（2026-11-23）— 独立游戏展会INDIE Live Expo宣布将于12月1日举行，本次活动将展示超过100款游戏。 <https://www.gematsu.com/2026/11/indie-live-expo-december-1-2026-to-feature-more-than-100-games>

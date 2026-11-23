@@ -1,89 +1,5 @@
 [
  {
-  "title": "谷歌高管演示AI移植《塞尔达传说：时之笛》引争议，重制版发售三天已被AI工具协助移植至PS5和iPhone",
-  "url": "https://www.gamersky.com/news/202611/2242611.shtml",
-  "date": "2026-11-08",
-  "section": 1,
-  "posted": "2026-11-08"
- },
- {
-  "title": "PocketGamer深度调查：Claude用户克隆独立游戏引发行业警觉，Valve拒绝出手整治AI克隆",
-  "url": "https://www.pocketgamer.biz/the-good-bad-and-the-ugly-of-ai-in-games/",
-  "date": "2026-11-07",
-  "section": 1,
-  "posted": "2026-11-08"
- },
- {
-  "title": "前Rockstar技术总监警告：AI可能抢先\"破解\"移植《GTA6》PC版，威胁官方销售策略",
-  "url": "https://kotaku.com/former-rockstar-developer-says-they-should-hurry-up-on-gta-6s-pc-version-before-ai-gets-there-first-2000754810",
-  "date": "2026-11-07",
-  "section": 2,
-  "posted": "2026-11-08"
- },
- {
-  "title": "索尼重拾\"PlayStation Exclusive\"独占标识，PS5大作回归主机专属策略",
-  "url": "https://www.pushsquare.com/news/2026/11/playstation-exclusive-branding-added-to-tentpole-ps5-games-as-sony-doubles-down",
-  "date": "2026-11-07",
-  "section": 3,
-  "posted": "2026-11-08"
- },
- {
-  "title": "索尼无限期推迟PS5 Pulse Elevate无线音箱发售",
-  "url": "https://kotaku.com/sony-delays-wireless-playstation-pulse-speakers-a-week-away-from-launch-2000754806",
-  "date": "2026-11-07",
-  "section": 3,
-  "posted": "2026-11-08"
- },
- {
-  "title": "《GTA6》PS5实体版包装曝光：盒内无光盘仅附下载码",
-  "url": "https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo",
-  "date": "2026-11-07",
-  "section": 3,
-  "posted": "2026-11-08"
- },
- {
-  "title": "Aniplex与CYBIRD公布黑暗奇幻视觉小说新作《LunaReverse》，登陆Switch/PC",
-  "url": "https://www.gematsu.com/2026/11/aniplex-and-cybird-announce-dark-fantasy-visual-novel-lunareverse-for-switch-pc",
-  "date": "2026-11-07",
-  "section": 3,
-  "posted": "2026-11-08"
- },
- {
-  "title": "塞尔达制作人青沼英二：任天堂成功秘诀是留住长期任职的老员工",
-  "url": "https://www.nintendolife.com/news/2026/11/zelda-producer-eiji-aonuma-talks-about-the-benefits-of-long-term-tenured-staff-at-nintendo",
-  "date": "2026-11-07",
-  "section": 3,
-  "posted": "2026-11-08"
- },
- {
-  "title": "据报道《GTA6》日版文件容量比全球版少约1.1GB，玩家担忧内容遭\"和谐\"删减",
-  "url": "https://www.gamersky.com/news/202611/2242440.shtml",
-  "date": "2026-11-07",
-  "section": 3,
-  "posted": "2026-11-08"
- },
- {
-  "title": "《英雄联盟》S16世界赛半决赛：Gen.G 3比0淘汰iG晋级总决赛",
-  "url": "https://www.gamersky.com/news/202611/2242588.shtml",
-  "date": "2026-11-08",
-  "section": 3,
-  "posted": "2026-11-08"
- },
- {
-  "title": "前索尼高管肖恩·莱登谈PS6：性能升级不重要，便宜才是真创新",
-  "url": "https://www.gamersky.com/news/202611/2242700.shtml",
-  "date": "2026-11-08",
-  "section": 3,
-  "posted": "2026-11-08"
- },
- {
-  "title": "《影之刃零》PC版遭差评轰炸，M站用户评分从9.3暴跌至8.6",
-  "url": "https://www.gamersky.com/news/202611/2242829.shtml",
-  "date": "2026-11-08",
-  "section": 3,
-  "posted": "2026-11-08"
- },
- {
   "title": "Unreal Engine 5.9「MegaJam Preview」发布，Epic称其为首个「主要由AI智能体构建」的虚幻引擎版本",
   "url": "https://forums.unrealengine.com/t/unreal-engine-5-9-megajam-preview/2852840",
   "date": "2026-11-09",
@@ -2021,5 +1937,222 @@
   "date": "2026-11-21",
   "section": 3,
   "posted": "2026-11-22"
+ },
+ {
+  "title": "Unity在Unite Tokyo 2026公布Unity 7路线图：AI编程代理工具Unity CLI 1.0正式上线，Synty Studios加入公司",
+  "url": "https://unity.com/blog/unite-tokyo-2026-keynote-recap",
+  "date": "2026-11-17",
+  "section": 1,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "腾讯公布2026年第三季度业绩：游戏长青产品创新高，AI新产品拖累利润但云服务提速",
+  "url": "https://www.cnfin.com/yw-lb/detail/20261118/4497202_1.html",
+  "date": "2026-11-18",
+  "section": 1,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "网易公布2026年第三季度财报：游戏收入三年来首次同比下滑，丁磊谈AI与短剧对游戏的影响",
+  "url": "https://www.sec.gov/Archives/edgar/data/1110646/000110465926129894/tm2630023d1_ex99-1.htm",
+  "date": "2026-11-19",
+  "section": 1,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "快手公布2026年第三季度财报：可灵AI投入拖累利润但进入游戏等新场景，日活用户创新高",
+  "url": "https://news.bjd.com.cn/2026/11/19/12036569.shtml",
+  "date": "2026-11-19",
+  "section": 1,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "NVIDIA DLSS 5神经渲染技术本月扩展至《风起渔阳》，此前已登陆《霍格沃茨之遗》和《战争雷霆》",
+  "url": "https://www.nvidia.com/en-us/geforce/news/dlss5-breakthrough-in-visual-fidelity-for-games/",
+  "date": "2026-11-23",
+  "section": 2,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "Epic Games发布Unreal Engine 5.9第二次预览版，加入AI驱动的AnimGen角色动画插件",
+  "url": "https://dev.epicgames.com/documentation/unreal-engine/unreal-engine-5-9-release-notes",
+  "date": "2026-11-19",
+  "section": 2,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "育碧成立独立AI子公司Motherbrain，专注游戏玩法生成式AI技术",
+  "url": "https://www.videogameschronicle.com/news/ubisoft-has-founded-a-studio-dedicated-to-generative-ai-in-games/",
+  "date": "2026-11-19",
+  "section": 2,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "Discord将于11月16日起为公开服务器开放网页版，AI自动生成频道摘要",
+  "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+  "date": "2026-11-16",
+  "section": 2,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "腾讯开源混元Hy4完整版模型权重，百万Token上下文支持游戏开发等工作流",
+  "url": "https://technode.com/2026/11/20/tencent-releases-hy4-model-weights-with-million-token-context/",
+  "date": "2026-11-20",
+  "section": 2,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "OpenAI关闭Sora，快手旗下可灵AI加码布局并冲刺香港IPO",
+  "url": "https://technode.com/2026/11/17/kuaishou-kling-sora-hong-kong-ipo/",
+  "date": "2026-11-17",
+  "section": 2,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "阿里云发布新一代旗舰模型Qwen4-Max，将游戏开发列入专业创作应用场景",
+  "url": "https://www.alibabacloud.com/blog/alibaba-unveils-qwen4-max-new-ai-teammate-for-work-creativity-and-discovery_603783",
+  "date": "2026-11-16",
+  "section": 2,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "英伟达GeForce NOW黑五活动上线，DLSS 5神经渲染技术月底登陆网易等多款游戏",
+  "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
+  "date": "2026-11-19",
+  "section": 2,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "36氪：AI「一键克隆」冲击独立游戏行业，腾讯「AI重组」传闻引发内部震动",
+  "url": "https://36kr.com/p/4073486195332226",
+  "date": "2026-11-17",
+  "section": 2,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "巨人网络调整AI实验室组织架构，并入技术中台强化游戏业务结合",
+  "url": "https://cbgc.scol.com.cn/news/8146999",
+  "date": "2026-11-16",
+  "section": 2,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "昆仑万维Matrix-Game 4.0登陆Reactor平台，单卡RTX 5090实现480p/60FPS实时生成",
+  "url": "https://m.rccaijing.com/news-7527911852643907418.html",
+  "date": "2026-11-16",
+  "section": 2,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "AMD完成对李飞飞创办的World Labs收购，其世界模型技术与游戏开发相关",
+  "url": "https://www.hpcwire.com/aiwire/2026/11/16/amd-completes-acquisition-of-world-labs/",
+  "date": "2026-11-16",
+  "section": 2,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "方正证券研报：世界模型持续迭代，AI重塑游戏制作与互动体验",
+  "url": "https://wap.stockstar.com/detail/IG2026111600007378",
+  "date": "2026-11-16",
+  "section": 2,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "行业周报：AI加速落地传媒游戏产业，上市游企前三季营收净利双增超18%",
+  "url": "https://news.10jqka.com.cn/20261119/c681996199.shtml",
+  "date": "2026-11-19",
+  "section": 2,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "国内首场「AI游戏×互动剧」黑客松AI PLAY 72H定档11月27日杭州开跑",
+  "url": "https://app.myzaker.com/article/6afb0b3e1bc8e03d4b000008",
+  "date": "2026-11-16",
+  "section": 2,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "快手可灵（Kling）4.0视频生成API上线4K分辨率与HDR输出",
+  "url": "https://app.klingai.com/global/dev/document-api",
+  "date": "2026-11-19",
+  "section": 2,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "《龙腾世纪》前负责人称EA管理不善导致BioWare解散",
+  "url": "https://www.pcgamer.com/gaming-industry/dragon-ages-former-boss-explains-that-poor-management-from-ea-led-to-bioware-shutting-down-because-the-options-on-the-table-were-all-terrible/",
+  "date": "2026-11-23",
+  "section": 3,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "《虚幻引擎6》提前放弃一项关键脚本功能，转向AI编码",
+  "url": "https://www.pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding/",
+  "date": "2026-11-22",
+  "section": 3,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "《英雄联盟》确认加入2027电竞世界杯，韩国力争四连冠",
+  "url": "https://gamesbeat.com/league-of-legends-confirmed-for-esports-world-cup-2027-as-south-korea-targets-fourth-consecutive-title/",
+  "date": "2026-11-22",
+  "section": 3,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "Blast与Fever达成全球票务合作，简化电竞赛事购票流程",
+  "url": "https://gamesbeat.com/blast-and-fever-announce-global-ticketing-partnership-to-make-live-esports-events-easier-and-safer-to-access/",
+  "date": "2026-11-22",
+  "section": 3,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "《汤姆猫跑酷金币版》更新加入风险收益玩法\"撤离模式\"",
+  "url": "https://gamesbeat.com/talking-tom-gold-run-adds-risk-and-reward-extraction-mode-in-latest-update/",
+  "date": "2026-11-22",
+  "section": 3,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "2022年泄露《GTA 6》画面的黑客已获假释",
+  "url": "https://www.videogameschronicle.com/news/gta-6-hacker-who-leaked-footage-in-2022-has-been-released-on-licence-and-told-not-to-do-it-again/",
+  "date": "2026-11-23",
+  "section": 3,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "《GTA 6》推出新补丁修复自动存档问题",
+  "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/",
+  "date": "2026-11-23",
+  "section": 3,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "《生化危机》之父三上真司谈AI：希望其完全消失，但仍会作为工具尝试",
+  "url": "https://www.videogameschronicle.com/news/resident-evil-creator-shinji-mikami-says-he-wishes-ai-would-disappear-entirely-but-that-he-experiments-with-it-as-a-tool/",
+  "date": "2026-11-23",
+  "section": 3,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "《Acts of Blood》PC版延期至2027年春季",
+  "url": "https://www.gematsu.com/2026/11/acts-of-blood-for-pc-delayed-to-spring-2027",
+  "date": "2026-11-23",
+  "section": 3,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "《魔法少女禁忌村》与《直播者的小号迷宫》双双宣布延期",
+  "url": "https://www.gematsu.com/2026/11/magical-girl-taboo-village-and-the-streamers-alt-account-labyrinth-delayed",
+  "date": "2026-11-23",
+  "section": 3,
+  "posted": "2026-11-23"
+ },
+ {
+  "title": "INDIE Live Expo将于12月1日举行，公布逾百款游戏阵容",
+  "url": "https://www.gematsu.com/2026/11/indie-live-expo-december-1-2026-to-feature-more-than-100-games",
+  "date": "2026-11-23",
+  "section": 3,
+  "posted": "2026-11-23"
  }
 ]

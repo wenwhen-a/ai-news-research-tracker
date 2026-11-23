@@ -1,0 +1,312 @@
+{
+  "as_of": "2026-11-23",
+  "cutoff": "2026-11-22",
+  "window_days": 1,
+  "summary": {
+    "input_items": 14,
+    "denied_source": 0,
+    "in_window": 14,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 14,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 14,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 11,
+    "previously_covered_count": 3
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "《龙腾世纪》前负责人称EA管理不善导致BioWare解散",
+        "url": "https://www.pcgamer.com/gaming-industry/dragon-ages-former-boss-explains-that-poor-management-from-ea-led-to-bioware-shutting-down-because-the-options-on-the-table-were-all-terrible/",
+        "date": "2026-11-23",
+        "summary": "《龙腾世纪》前负责人表示，EA方面的管理问题导致BioWare工作室最终解散，称当时摆在面前的选项“都很糟糕”。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《龙腾世纪》前负责人称EA管理不善导致BioWare解散",
+          "url": "https://www.pcgamer.com/gaming-industry/dragon-ages-former-boss-explains-that-poor-management-from-ea-led-to-bioware-shutting-down-because-the-options-on-the-table-were-all-terrible/",
+          "date": "2026-11-23",
+          "summary": "《龙腾世纪》前负责人表示，EA方面的管理问题导致BioWare工作室最终解散，称当时摆在面前的选项“都很糟糕”。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《虚幻引擎6》提前放弃一项关键脚本功能，转向AI编码",
+        "url": "https://www.pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding/",
+        "date": "2026-11-22",
+        "summary": "Epic Games宣布虚幻引擎6将比原计划更早放弃一项关键脚本功能，转而优先推进AI辅助编码能力。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《虚幻引擎6》提前放弃一项关键脚本功能，转向AI编码",
+          "url": "https://www.pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding/",
+          "date": "2026-11-22",
+          "summary": "Epic Games宣布虚幻引擎6将比原计划更早放弃一项关键脚本功能，转而优先推进AI辅助编码能力。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《英雄联盟》确认加入2027电竞世界杯，韩国力争四连冠",
+        "url": "https://gamesbeat.com/league-of-legends-confirmed-for-esports-world-cup-2027-as-south-korea-targets-fourth-consecutive-title/",
+        "date": "2026-11-22",
+        "summary": "《英雄联盟》正式确认将参加2027年电竞世界杯，韩国战队将力争实现该项赛事的四连冠。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《英雄联盟》确认加入2027电竞世界杯，韩国力争四连冠",
+          "url": "https://gamesbeat.com/league-of-legends-confirmed-for-esports-world-cup-2027-as-south-korea-targets-fourth-consecutive-title/",
+          "date": "2026-11-22",
+          "summary": "《英雄联盟》正式确认将参加2027年电竞世界杯，韩国战队将力争实现该项赛事的四连冠。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "宫本茂成为D.I.C.E.奖新设“传奇奖”首位获奖者",
+        "url": "https://gamesbeat.com/shigeru-miyamoto-selected-as-inaugural-legend-award-inductee-at-30th-annual-d-i-c-e-awards/",
+        "date": "2026-11-22",
+        "summary": "任天堂宫本茂被选为第30届D.I.C.E.互动成就奖新设“传奇奖”的首位获奖者。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "宫本茂成为D.I.C.E.奖新设“传奇奖”首位获奖者",
+          "url": "https://gamesbeat.com/shigeru-miyamoto-selected-as-inaugural-legend-award-inductee-at-30th-annual-d-i-c-e-awards/",
+          "date": "2026-11-22",
+          "summary": "任天堂宫本茂被选为第30届D.I.C.E.互动成就奖新设“传奇奖”的首位获奖者。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Blast与Fever达成全球票务合作，简化电竞赛事购票流程",
+        "url": "https://gamesbeat.com/blast-and-fever-announce-global-ticketing-partnership-to-make-live-esports-events-easier-and-safer-to-access/",
+        "date": "2026-11-22",
+        "summary": "电竞赛事主办方Blast与票务平台Fever宣布达成全球票务合作，旨在让线下电竞赛事购票更便捷、更安全。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Blast与Fever达成全球票务合作，简化电竞赛事购票流程",
+          "url": "https://gamesbeat.com/blast-and-fever-announce-global-ticketing-partnership-to-make-live-esports-events-easier-and-safer-to-access/",
+          "date": "2026-11-22",
+          "summary": "电竞赛事主办方Blast与票务平台Fever宣布达成全球票务合作，旨在让线下电竞赛事购票更便捷、更安全。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《汤姆猫跑酷金币版》更新加入风险收益玩法“撤离模式”",
+        "url": "https://gamesbeat.com/talking-tom-gold-run-adds-risk-and-reward-extraction-mode-in-latest-update/",
+        "date": "2026-11-22",
+        "summary": "手游《汤姆猫跑酷金币版》最新更新加入了具有风险与回报机制的“撤离模式”新玩法。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《汤姆猫跑酷金币版》更新加入风险收益玩法“撤离模式”",
+          "url": "https://gamesbeat.com/talking-tom-gold-run-adds-risk-and-reward-extraction-mode-in-latest-update/",
+          "date": "2026-11-22",
+          "summary": "手游《汤姆猫跑酷金币版》最新更新加入了具有风险与回报机制的“撤离模式”新玩法。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "2022年泄露《GTA 6》画面的黑客已获假释",
+        "url": "https://www.videogameschronicle.com/news/gta-6-hacker-who-leaked-footage-in-2022-has-been-released-on-licence-and-told-not-to-do-it-again/",
+        "date": "2026-11-23",
+        "summary": "2022年泄露《GTA 6》早期开发画面的黑客已获假释出狱，并被要求不得再犯类似行为。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "2022年泄露《GTA 6》画面的黑客已获假释",
+          "url": "https://www.videogameschronicle.com/news/gta-6-hacker-who-leaked-footage-in-2022-has-been-released-on-licence-and-told-not-to-do-it-again/",
+          "date": "2026-11-23",
+          "summary": "2022年泄露《GTA 6》早期开发画面的黑客已获假释出狱，并被要求不得再犯类似行为。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《GTA 6》推出新补丁修复自动存档问题",
+        "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/",
+        "date": "2026-11-23",
+        "summary": "Rockstar为《GTA 6》发布新补丁，修复了游戏中的自动存档相关问题。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《GTA 6》推出新补丁修复自动存档问题",
+          "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/",
+          "date": "2026-11-23",
+          "summary": "Rockstar为《GTA 6》发布新补丁，修复了游戏中的自动存档相关问题。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《生化危机》之父三上真司谈AI：希望其完全消失，但仍会作为工具尝试",
+        "url": "https://www.videogameschronicle.com/news/resident-evil-creator-shinji-mikami-says-he-wishes-ai-would-disappear-entirely-but-that-he-experiments-with-it-as-a-tool/",
+        "date": "2026-11-23",
+        "summary": "《生化危机》创作者三上真司表示，他希望AI技术能够完全消失，但自己仍会将其作为工具进行尝试，并担忧其导致大规模失业。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《生化危机》之父三上真司谈AI：希望其完全消失，但仍会作为工具尝试",
+          "url": "https://www.videogameschronicle.com/news/resident-evil-creator-shinji-mikami-says-he-wishes-ai-would-disappear-entirely-but-that-he-experiments-with-it-as-a-tool/",
+          "date": "2026-11-23",
+          "summary": "《生化危机》创作者三上真司表示，他希望AI技术能够完全消失，但自己仍会将其作为工具进行尝试，并担忧其导致大规模失业。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《GTA 6》在Metacritic遭刷低分，部分玩家转而“反向刷低分”《塞尔达传说：时之笛》",
+        "url": "https://www.videogameschronicle.com/news/as-gta-6-gets-review-bombed-on-metacritic-gta-fans-have-started-review-bombing-ocarina-of-time-in-response/",
+        "date": "2026-11-23",
+        "summary": "《GTA 6》在Metacritic网站遭遇玩家刷低分，部分《GTA》粉丝随后转而给《塞尔达传说：时之笛》刷低分作为回应。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《GTA 6》在Metacritic遭刷低分，部分玩家转而“反向刷低分”《塞尔达传说：时之笛》",
+          "url": "https://www.videogameschronicle.com/news/as-gta-6-gets-review-bombed-on-metacritic-gta-fans-have-started-review-bombing-ocarina-of-time-in-response/",
+          "date": "2026-11-23",
+          "summary": "《GTA 6》在Metacritic网站遭遇玩家刷低分，部分《GTA》粉丝随后转而给《塞尔达传说：时之笛》刷低分作为回应。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "NVIDIA董事会重新任命黄仁勋为总裁兼CEO",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm",
+        "date": "2026-11-23",
+        "summary": "NVIDIA官方公告称，董事会已一致投票决定重新任命黄仁勋为总裁、首席执行官及董事会成员，即时生效，并表示已就国家安全风险征询美国政府高层意见、确认无相关风险；此前黄仁勋于11月12日辞职，由首席财务官科莱特·克雷斯担任临时CEO。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "NVIDIA董事会重新任命黄仁勋为总裁兼CEO",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm",
+          "date": "2026-11-23",
+          "summary": "NVIDIA官方公告称，董事会已一致投票决定重新任命黄仁勋为总裁、首席执行官及董事会成员，即时生效，并表示已就国家安全风险征询美国政府高层意见、确认无相关风险；此前黄仁勋于11月12日辞职，由首席财务官科莱特·克雷斯担任临时CEO。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《Acts of Blood》PC版延期至2027年春季",
+        "url": "https://www.gematsu.com/2026/11/acts-of-blood-for-pc-delayed-to-spring-2027",
+        "date": "2026-11-23",
+        "summary": "游戏《Acts of Blood》的PC版发布日期被宣布延期至2027年春季。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《Acts of Blood》PC版延期至2027年春季",
+          "url": "https://www.gematsu.com/2026/11/acts-of-blood-for-pc-delayed-to-spring-2027",
+          "date": "2026-11-23",
+          "summary": "游戏《Acts of Blood》的PC版发布日期被宣布延期至2027年春季。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《魔法少女禁忌村》与《直播者的小号迷宫》双双宣布延期",
+        "url": "https://www.gematsu.com/2026/11/magical-girl-taboo-village-and-the-streamers-alt-account-labyrinth-delayed",
+        "date": "2026-11-23",
+        "summary": "两款游戏《魔法少女禁忌村》（Magical Girl Taboo Village）和《直播者的小号迷宫》（The Streamer's Alt Account Labyrinth）均宣布延期发布。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《魔法少女禁忌村》与《直播者的小号迷宫》双双宣布延期",
+          "url": "https://www.gematsu.com/2026/11/magical-girl-taboo-village-and-the-streamers-alt-account-labyrinth-delayed",
+          "date": "2026-11-23",
+          "summary": "两款游戏《魔法少女禁忌村》（Magical Girl Taboo Village）和《直播者的小号迷宫》（The Streamer's Alt Account Labyrinth）均宣布延期发布。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "INDIE Live Expo将于12月1日举行，公布逾百款游戏阵容",
+        "url": "https://www.gematsu.com/2026/11/indie-live-expo-december-1-2026-to-feature-more-than-100-games",
+        "date": "2026-11-23",
+        "summary": "独立游戏展会INDIE Live Expo宣布将于12月1日举行，本次活动将展示超过100款游戏。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "INDIE Live Expo将于12月1日举行，公布逾百款游戏阵容",
+          "url": "https://www.gematsu.com/2026/11/indie-live-expo-december-1-2026-to-feature-more-than-100-games",
+          "date": "2026-11-23",
+          "summary": "独立游戏展会INDIE Live Expo宣布将于12月1日举行，本次活动将展示超过100款游戏。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
