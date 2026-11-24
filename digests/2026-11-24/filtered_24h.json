@@ -1,0 +1,272 @@
+{
+  "as_of": "2026-11-24",
+  "cutoff": "2026-11-23",
+  "window_days": 1,
+  "summary": {
+    "input_items": 12,
+    "denied_source": 0,
+    "in_window": 12,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 12,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 12,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 11,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "《GTA6》全球首日零售销售额达37.9亿美元,创史上最大娱乐产品首发纪录",
+        "url": "https://www.pocketgamer.biz/gta-6-generates-379bn-in-day-one-sales-to-become-the-biggest-entertainment-launch-in-history/",
+        "date": "2026-11-23",
+        "summary": "Take-Two与Rockstar公布数据显示,《GTA6》全球首日零售销售额达37.9亿美元,约为2013年《GTA5》首日销售额(8.15亿美元)的近五倍,成为迄今规模最大的娱乐产品首发。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《GTA6》全球首日零售销售额达37.9亿美元,创史上最大娱乐产品首发纪录",
+          "url": "https://www.pocketgamer.biz/gta-6-generates-379bn-in-day-one-sales-to-become-the-biggest-entertainment-launch-in-history/",
+          "date": "2026-11-23",
+          "summary": "Take-Two与Rockstar公布数据显示,《GTA6》全球首日零售销售额达37.9亿美元,约为2013年《GTA5》首日销售额(8.15亿美元)的近五倍,成为迄今规模最大的娱乐产品首发。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "索尼:《GTA6》成PlayStation历史上规模最大的游戏首发,PS5玩家突破3900万",
+        "url": "https://www.videogameschronicle.com/news/gta-6-was-the-biggest-launch-in-playstation-history-with-over-39-million-players/",
+        "date": "2026-11-23",
+        "summary": "索尼官方披露,截至11月22日《GTA6》PS5玩家数已超过3900万、累计游玩时长达6.83亿小时,创下PlayStation平台单款游戏同时在线人数纪录,并带动新增PS5主机数量单日大幅上涨。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "索尼:《GTA6》成PlayStation历史上规模最大的游戏首发,PS5玩家突破3900万",
+          "url": "https://www.videogameschronicle.com/news/gta-6-was-the-biggest-launch-in-playstation-history-with-over-39-million-players/",
+          "date": "2026-11-23",
+          "summary": "索尼官方披露,截至11月22日《GTA6》PS5玩家数已超过3900万、累计游玩时长达6.83亿小时,创下PlayStation平台单款游戏同时在线人数纪录,并带动新增PS5主机数量单日大幅上涨。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《Monopoly Go》玩家终身消费突破80亿美元",
+        "url": "https://www.pocketgamer.biz/monopoly-go-surpasses-8-billion-in-lifetime-player-spending/",
+        "date": "2026-11-23",
+        "summary": "据PocketGamer.biz独家报道,Scopely确认手游《Monopoly Go》玩家终身消费已突破80亿美元,相比2025年披露的60亿美元进一步增长,该作2023年4月上线。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《Monopoly Go》玩家终身消费突破80亿美元",
+          "url": "https://www.pocketgamer.biz/monopoly-go-surpasses-8-billion-in-lifetime-player-spending/",
+          "date": "2026-11-23",
+          "summary": "据PocketGamer.biz独家报道,Scopely确认手游《Monopoly Go》玩家终身消费已突破80亿美元,相比2025年披露的60亿美元进一步增长,该作2023年4月上线。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《GTA6》上线当日拖累美国手游大盘内购消费降至年内最低",
+        "url": "https://www.pocketgamer.biz/us-mobile-game-spending-plummets-to-lowest-of-the-year-on-gta-6-launch-day/",
+        "date": "2026-11-23",
+        "summary": "据报道,受《GTA6》发售冲击,美国手游玩家当日内购消费降至2026年全年最低水平,显示大型主机游戏首发对移动游戏消费有明显挤出效应。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《GTA6》上线当日拖累美国手游大盘内购消费降至年内最低",
+          "url": "https://www.pocketgamer.biz/us-mobile-game-spending-plummets-to-lowest-of-the-year-on-gta-6-launch-day/",
+          "date": "2026-11-23",
+          "summary": "据报道,受《GTA6》发售冲击,美国手游玩家当日内购消费降至2026年全年最低水平,显示大型主机游戏首发对移动游戏消费有明显挤出效应。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "数据显示英国手游动作、策略品类内购收入因《GTA6》上线暴跌24.5%",
+        "url": "https://www.pocketgamer.biz/uk-mobile-action-and-strategy-game-spending-falls-245-following-gta-6-launch/",
+        "date": "2026-11-24",
+        "summary": "数据平台AppsFlyer统计显示,《GTA6》发售后数日内英国手游动作与策略品类内购收入下跌24.5%,整体手游内购收入环比下滑10.5%;AppsFlyer分析师表示玩家并未停止玩手游,但暂停了消费。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "数据显示英国手游动作、策略品类内购收入因《GTA6》上线暴跌24.5%",
+          "url": "https://www.pocketgamer.biz/uk-mobile-action-and-strategy-game-spending-falls-245-following-gta-6-launch/",
+          "date": "2026-11-24",
+          "summary": "数据平台AppsFlyer统计显示,《GTA6》发售后数日内英国手游动作与策略品类内购收入下跌24.5%,整体手游内购收入环比下滑10.5%;AppsFlyer分析师表示玩家并未停止玩手游,但暂停了消费。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "发行商Plug In Digital收购独立游戏发行商Twin Sails Interactive",
+        "url": "https://www.pocketgamer.biz/plug-in-digital-acquires-twin-sails-interactive/",
+        "date": "2026-11-24",
+        "summary": "据报道,游戏发行与分销商Plug In Digital已收购发行商Twin Sails Interactive(代表作包括《Gloomhaven》《Ember Knights》),交易金额未披露;原Twin Sails CEO将出任合并后集团CEO。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "发行商Plug In Digital收购独立游戏发行商Twin Sails Interactive",
+          "url": "https://www.pocketgamer.biz/plug-in-digital-acquires-twin-sails-interactive/",
+          "date": "2026-11-24",
+          "summary": "据报道,游戏发行与分销商Plug In Digital已收购发行商Twin Sails Interactive(代表作包括《Gloomhaven》《Ember Knights》),交易金额未披露;原Twin Sails CEO将出任合并后集团CEO。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Rockstar施压下,非官方《GTA6》PC移植项目\"Leonida\"被关闭",
+        "url": "https://www.videogameschronicle.com/news/unofficial-gta-6-pc-ports-are-already-getting-shut-down/",
+        "date": "2026-11-24",
+        "summary": "据报道,旨在让《GTA6》Xbox版可在PC上运行的非官方移植项目\"Leonida\"的GitHub页面已被下架,其Discord服务器也在Rockstar Games与Take-Two要求下被关闭,项目作者已宣布退出该项目。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Rockstar施压下,非官方《GTA6》PC移植项目\"Leonida\"被关闭",
+          "url": "https://www.videogameschronicle.com/news/unofficial-gta-6-pc-ports-are-already-getting-shut-down/",
+          "date": "2026-11-24",
+          "summary": "据报道,旨在让《GTA6》Xbox版可在PC上运行的非官方移植项目\"Leonida\"的GitHub页面已被下架,其Discord服务器也在Rockstar Games与Take-Two要求下被关闭,项目作者已宣布退出该项目。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "ITV Studios旗下Metavision与Roblox合作,将经典剧集《雷鸟神机队》改编为Roblox体验",
+        "url": "https://www.pocketgamer.biz/itv-studios-metavision-to-bring-thunderbirds-ip-to-roblox/",
+        "date": "2026-11-24",
+        "summary": "ITV Studios旗下工作室Metavision宣布与Roblox合作,将1960年代经典剧集《雷鸟神机队》(Thunderbirds)改编为同名Roblox体验,原剧创作者之子Jamie Anderson担任执行制片人,项目预计2026年内上线。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "ITV Studios旗下Metavision与Roblox合作,将经典剧集《雷鸟神机队》改编为Roblox体验",
+          "url": "https://www.pocketgamer.biz/itv-studios-metavision-to-bring-thunderbirds-ip-to-roblox/",
+          "date": "2026-11-24",
+          "summary": "ITV Studios旗下工作室Metavision宣布与Roblox合作,将1960年代经典剧集《雷鸟神机队》(Thunderbirds)改编为同名Roblox体验,原剧创作者之子Jamie Anderson担任执行制片人,项目预计2026年内上线。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Scopely与Marvel合作,为《Monopoly Go》推出\"复仇者联盟:末日崩塌\"联动",
+        "url": "https://www.pocketgamer.biz/scopely-partners-with-marvel-for-monopoly-go-and-avengers-doomsday-crossover/",
+        "date": "2026-11-23",
+        "summary": "Scopely宣布与Marvel Games合作,在刚突破80亿美元终身消费的《Monopoly Go》中推出\"复仇者联盟:末日崩塌\"主题联动内容,活动将于11月25日至次年1月27日举行,配合同名电影12月18日上映,是双方第三次漫威主题合作。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Scopely与Marvel合作,为《Monopoly Go》推出\"复仇者联盟:末日崩塌\"联动",
+          "url": "https://www.pocketgamer.biz/scopely-partners-with-marvel-for-monopoly-go-and-avengers-doomsday-crossover/",
+          "date": "2026-11-23",
+          "summary": "Scopely宣布与Marvel Games合作,在刚突破80亿美元终身消费的《Monopoly Go》中推出\"复仇者联盟:末日崩塌\"主题联动内容,活动将于11月25日至次年1月27日举行,配合同名电影12月18日上映,是双方第三次漫威主题合作。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "PUBG Mobile与宾利合作推出限定豪车联动内容",
+        "url": "https://www.pocketgamer.biz/pubg-mobile-partners-with-bentley-to-bring-luxury-vehicles-to-the-game/",
+        "date": "2026-11-23",
+        "summary": "《PUBG Mobile》宣布与英国豪华汽车品牌宾利合作,游戏内上线三款宾利限定载具及主题装饰内容,活动已于11月20日开始,持续至2027年1月12日。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "PUBG Mobile与宾利合作推出限定豪车联动内容",
+          "url": "https://www.pocketgamer.biz/pubg-mobile-partners-with-bentley-to-bring-luxury-vehicles-to-the-game/",
+          "date": "2026-11-23",
+          "summary": "《PUBG Mobile》宣布与英国豪华汽车品牌宾利合作,游戏内上线三款宾利限定载具及主题装饰内容,活动已于11月20日开始,持续至2027年1月12日。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "韩国发行商NEOWIZ与瑞典studio Winterkeep Interactive签署新IP发行合作",
+        "url": "https://www.gematsu.com/2026/11/neowiz-signs-publishing-partnership-with-winterkeep-interactive-for-fantasy-4x-strategy-game",
+        "date": "2026-11-24",
+        "summary": "韩国发行商NEOWIZ宣布与瑞典团队Winterkeep Interactive(核心成员曾参与Paradox Interactive的《群星》《王国风云2》等作品)达成发行合作,将推出一款全新奇幻4X策略游戏新IP,NEOWIZ联合CEO称其为公司发行版图的\"关键投资\";具体平台与上线时间尚未公布。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "韩国发行商NEOWIZ与瑞典studio Winterkeep Interactive签署新IP发行合作",
+          "url": "https://www.gematsu.com/2026/11/neowiz-signs-publishing-partnership-with-winterkeep-interactive-for-fantasy-4x-strategy-game",
+          "date": "2026-11-24",
+          "summary": "韩国发行商NEOWIZ宣布与瑞典团队Winterkeep Interactive(核心成员曾参与Paradox Interactive的《群星》《王国风云2》等作品)达成发行合作,将推出一款全新奇幻4X策略游戏新IP,NEOWIZ联合CEO称其为公司发行版图的\"关键投资\";具体平台与上线时间尚未公布。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《昭和美国物语》延期至2027年10月28日发售",
+        "url": "https://www.gematsu.com/2026/11/showa-american-story-delayed-to-october-28-2027",
+        "date": "2026-11-24",
+        "summary": "发行商4Divinity与开发商NEKCOM Games宣布,末日爱情题材RPG《Showa American Story》(昭和美国物语)从原定的2026年发售窗口再度延期至2027年10月28日,登陆PS5与Steam平台,团队表示游戏主体已完成,目前专注于打磨与优化。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《昭和美国物语》延期至2027年10月28日发售",
+          "url": "https://www.gematsu.com/2026/11/showa-american-story-delayed-to-october-28-2027",
+          "date": "2026-11-24",
+          "summary": "发行商4Divinity与开发商NEKCOM Games宣布,末日爱情题材RPG《Showa American Story》(昭和美国物语)从原定的2026年发售窗口再度延期至2027年10月28日,登陆PS5与Steam平台,团队表示游戏主体已完成,目前专注于打磨与优化。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

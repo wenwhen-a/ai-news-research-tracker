@@ -1,0 +1,352 @@
+{
+  "as_of": "2026-11-24",
+  "cutoff": "2026-11-17",
+  "window_days": 7,
+  "summary": {
+    "input_items": 10,
+    "denied_source": 0,
+    "in_window": 10,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 9,
+    "duplicate_clusters": 1,
+    "section1_count": 3,
+    "section2_count": 6,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 4,
+    "previously_covered_count": 5
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "育碧成立Motherbrain生成式AI子公司,聚焦游戏玩法创新",
+        "url": "https://www.videogameschronicle.com/news/ubisoft-has-founded-a-studio-dedicated-to-generative-ai-in-games/",
+        "date": "2026-11-19",
+        "summary": "Ubisoft在2026-27财年上半年财报中正式宣布成立Motherbrain,一家专注于“游戏玩法AI创新”的生成式AI子公司,由此前的Teammates生成式AI实验团队组建而成;该消息公布前不久,育碧刚宣布在魁北克和蒙特利尔裁员166人。",
+        "section": 1,
+        "core_facts": [
+          "Ubisoft于2026年11月19日发布2026-27财年上半年财报(净预订额6.447亿欧元,同比下降16.5%;IFRS营业亏损1.892亿欧元),同时宣布成立Motherbrain",
+          "Motherbrain被官方描述为“专注于游戏玩法AI创新的专属子公司”,是开发Ubisoft首个可玩生成式AI体验Teammates的团队",
+          "据Ubisoft发布的财报文件,Motherbrain当前聚焦方向包括新型玩家体验、具备记忆能力的智能NPC,以及用于大型系统性世界的AI“游戏主持人”(AI game masters)",
+          "CEO Yves Guillemot在财报声明中直接提及该子公司:“We have also established Motherbrain, the team behind our first playable generative AI experience Teammates”",
+          "Motherbrain名称最早于2026年9月因Ubisoft申请商标而曝光,此次财报是官方首次正式确认其存在",
+          "财报公布前,Ubisoft刚确认在加拿大魁北克省和蒙特利尔裁员166人,公司上半财年整体裁员近1100人,截至9月30日员工总数约15500人"
+        ],
+        "background": [
+          "Motherbrain是Ubisoft自2026年1月起推行的“新运营模式”(将工作室划分为按类型组织的“创意屋”Creative Houses)的组成部分,公司称该模式现已“全面落地”",
+          "此前Ubisoft已通过Teammates(2025年11月公开的语音控制AI队友原型)、1月重组计划中“加速投入玩家可见的生成式AI”等多次表态,显示其将生成式AI作为降本增效和內容创新的核心战略方向",
+          "Ubisoft在2025-26财年出现创纪录的13亿欧元运营亏损,持续的裁员与工作室关闭背景下继续加码AI投入,引发对“裁员同时扩大AI”做法的关注"
+        ],
+        "results": [
+          "Motherbrain由在Ubisoft任职23年的Xavier Manzanares领导(据早前内部通报),其工作目标据称覆盖整个集团而非单一项目",
+          "媒体报道指出,目前尚不清楚Motherbrain开发的技术会作为独立产品发布,还是将被整合进育碧其他游戏项目",
+          "本次财报同时显示,受《刺客信条4:黑旗》重制版(Black Flag Resynced)热销带动,第二季度净预订额达3.889亿欧元,超出约3.7亿欧元的指引"
+        ]
+      },
+      "members": [
+        {
+          "title": "育碧成立Motherbrain生成式AI子公司,聚焦游戏玩法创新",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-has-founded-a-studio-dedicated-to-generative-ai-in-games/",
+          "date": "2026-11-19",
+          "summary": "Ubisoft在2026-27财年上半年财报中正式宣布成立Motherbrain,一家专注于“游戏玩法AI创新”的生成式AI子公司,由此前的Teammates生成式AI实验团队组建而成;该消息公布前不久,育碧刚宣布在魁北克和蒙特利尔裁员166人。",
+          "section": 1,
+          "core_facts": [
+            "Ubisoft于2026年11月19日发布2026-27财年上半年财报(净预订额6.447亿欧元,同比下降16.5%;IFRS营业亏损1.892亿欧元),同时宣布成立Motherbrain",
+            "Motherbrain被官方描述为“专注于游戏玩法AI创新的专属子公司”,是开发Ubisoft首个可玩生成式AI体验Teammates的团队",
+            "据Ubisoft发布的财报文件,Motherbrain当前聚焦方向包括新型玩家体验、具备记忆能力的智能NPC,以及用于大型系统性世界的AI“游戏主持人”(AI game masters)",
+            "CEO Yves Guillemot在财报声明中直接提及该子公司:“We have also established Motherbrain, the team behind our first playable generative AI experience Teammates”",
+            "Motherbrain名称最早于2026年9月因Ubisoft申请商标而曝光,此次财报是官方首次正式确认其存在",
+            "财报公布前,Ubisoft刚确认在加拿大魁北克省和蒙特利尔裁员166人,公司上半财年整体裁员近1100人,截至9月30日员工总数约15500人"
+          ],
+          "background": [
+            "Motherbrain是Ubisoft自2026年1月起推行的“新运营模式”(将工作室划分为按类型组织的“创意屋”Creative Houses)的组成部分,公司称该模式现已“全面落地”",
+            "此前Ubisoft已通过Teammates(2025年11月公开的语音控制AI队友原型)、1月重组计划中“加速投入玩家可见的生成式AI”等多次表态,显示其将生成式AI作为降本增效和內容创新的核心战略方向",
+            "Ubisoft在2025-26财年出现创纪录的13亿欧元运营亏损,持续的裁员与工作室关闭背景下继续加码AI投入,引发对“裁员同时扩大AI”做法的关注"
+          ],
+          "results": [
+            "Motherbrain由在Ubisoft任职23年的Xavier Manzanares领导(据早前内部通报),其工作目标据称覆盖整个集团而非单一项目",
+            "媒体报道指出,目前尚不清楚Motherbrain开发的技术会作为独立产品发布,还是将被整合进育碧其他游戏项目",
+            "本次财报同时显示,受《刺客信条4:黑旗》重制版(Black Flag Resynced)热销带动,第二季度净预订额达3.889亿欧元,超出约3.7亿欧元的指引"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "英伟达公布2027财年第三财季财报:DLSS 5已登陆NBA 2K27与《霍格华兹的遗产》,RTX Spark笔记本开始出货",
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/",
+        "date": "2026-11-17",
+        "summary": "NVIDIA公布截至2026年10月25日的2027财年第三季度财报,总营收1158亿美元(同比增103%),其中包含消费级GeForce/RTX业务的“边缘计算”(Edge Computing)板块营收82亿美元(同比增42%);财报同时披露DLSS 5已在NBA 2K27和《霍格华兹的遗产》中上线,《燕云十六声》的DLSS 5支持“即将推出”。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "英伟达公布2027财年第三财季财报:DLSS 5已登陆NBA 2K27与《霍格华兹的遗产》,RTX Spark笔记本开始出货",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/",
+          "date": "2026-11-17",
+          "summary": "NVIDIA公布截至2026年10月25日的2027财年第三季度财报,总营收1158亿美元(同比增103%),其中包含消费级GeForce/RTX业务的“边缘计算”(Edge Computing)板块营收82亿美元(同比增42%);财报同时披露DLSS 5已在NBA 2K27和《霍格华兹的遗产》中上线,《燕云十六声》的DLSS 5支持“即将推出”。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "G-STAR 2026于釜山开幕,首次将AI主题置于游戏展核心位置",
+        "url": "https://www.koreajoongangdaily.com/business/gstar-2026-puts-ai-storytelling-center-stage/12823574",
+        "date": "2026-11-19",
+        "summary": "韩国最大游戏展G-STAR 2026于11月19日在釜山BEXCO开幕(至11月22日),本届以“连接游戏、AI、网络漫画与出行”为主题,AI叙事创作平台Crack(Wrtn Technologies旗下)首次由非游戏公司担任主赞助商;同期举办的G-CON论坛邀请《巫师4》开发商CD PROJEKT RED的叙事总监Philipp Weber与故事总监Marcin Blacha,围绕“AI时代的叙事创作”展开对谈。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "G-STAR 2026于釜山开幕,首次将AI主题置于游戏展核心位置",
+          "url": "https://www.koreajoongangdaily.com/business/gstar-2026-puts-ai-storytelling-center-stage/12823574",
+          "date": "2026-11-19",
+          "summary": "韩国最大游戏展G-STAR 2026于11月19日在釜山BEXCO开幕(至11月22日),本届以“连接游戏、AI、网络漫画与出行”为主题,AI叙事创作平台Crack(Wrtn Technologies旗下)首次由非游戏公司担任主赞助商;同期举办的G-CON论坛邀请《巫师4》开发商CD PROJEKT RED的叙事总监Philipp Weber与故事总监Marcin Blacha,围绕“AI时代的叙事创作”展开对谈。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "腾讯2026年第三季度财报:云业务营收因AI需求增长35%,WorkBuddy日活破千万",
+        "url": "https://www.thestandard.com.hk/finance/article/348892/Tencent-Q3-adjusted-profit-down-57pc",
+        "date": "2026-11-18",
+        "summary": "腾讯11月18日公布截至9月30日的2026年第三季度业绩,总营收2073.4亿元人民币(同比增8%),国内游戏收入同比增长11%至476亿元,主要由《三角洲行动》和《无畏契约手游》创纪录日活用户带动;同期云服务收入因AI相关需求同比增长35%,AI应用WorkBuddy日活用户超过1000万,成为按大模型Token消耗量计算中国使用量最高的AI产品。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "腾讯2026年第三季度财报:云业务营收因AI需求增长35%,WorkBuddy日活破千万",
+          "url": "https://www.thestandard.com.hk/finance/article/348892/Tencent-Q3-adjusted-profit-down-57pc",
+          "date": "2026-11-18",
+          "summary": "腾讯11月18日公布截至9月30日的2026年第三季度业绩,总营收2073.4亿元人民币(同比增8%),国内游戏收入同比增长11%至476亿元,主要由《三角洲行动》和《无畏契约手游》创纪录日活用户带动;同期云服务收入因AI相关需求同比增长35%,AI应用WorkBuddy日活用户超过1000万,成为按大模型Token消耗量计算中国使用量最高的AI产品。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "NVIDIA确认DLSS 5神经渲染技术本周登陆网易《燕云十六声》",
+        "url": "https://www.nvidia.com/en-us/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/",
+        "date": "2026-11-23",
+        "summary": "据NVIDIA官方公告及多家硬件媒体报道,由Everstone Studio开发、网易发行的武侠开放世界游戏《燕云十六声》于11月23日起接入DLSS 5的“3D引导式神经渲染”功能,成为全球首批支持该技术的三款游戏之一(另两款为《霍格华兹的遗产》和《战争雷霆》),目前仅支持GeForce RTX 50系列显卡、RTX Spark设备及GeForce NOW Ultimate订阅。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "NVIDIA确认DLSS 5神经渲染技术本周登陆网易《燕云十六声》",
+          "url": "https://www.nvidia.com/en-us/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/",
+          "date": "2026-11-23",
+          "summary": "据NVIDIA官方公告及多家硬件媒体报道,由Everstone Studio开发、网易发行的武侠开放世界游戏《燕云十六声》于11月23日起接入DLSS 5的“3D引导式神经渲染”功能,成为全球首批支持该技术的三款游戏之一(另两款为《霍格华兹的遗产》和《战争雷霆》),目前仅支持GeForce RTX 50系列显卡、RTX Spark设备及GeForce NOW Ultimate订阅。",
+          "section": 2
+        },
+        {
+          "title": "NVIDIA DLSS 5神经渲染技术登陆网易《燕云十六声》，需RTX 50系显卡",
+          "url": "https://www.nvidia.com/en-us/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/",
+          "secondary_url": "https://news.17173.com/content/11182026/111459823.shtml",
+          "date": "2026-11-23",
+          "summary": "NVIDIA官方公告，其基于AI神经网络的DLSS 5“3D引导式神经渲染”技术于11月23日登陆网易Everstone工作室开发的武侠游戏《燕云十六声》（Where Winds Meet），该技术通过AI模型为画面注入更真实的光影与材质细节，需搭配GeForce RTX 50系列显卡及新版Game Ready驱动使用。",
+          "section": 2,
+          "summary_detail": "NVIDIA于11月5日官方公告中确认，继《霍格沃茨之遗》《战争雷霆》后，《燕云十六声》将于11月23日接入DLSS 5“3D引导式神经渲染”技术，该技术通过AI模型增强光照与材质表现，需RTX 50系显卡支持；开发方表示将允许玩家开关该功能并调节相关参数。"
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "米哈游发布通用游戏AI代理「Gamer」，可读屏幕操作键鼠完成游戏任务",
+        "url": "https://arxiv.org/abs/2611.18397",
+        "secondary_url": "https://mihoyo-gamer.github.io/",
+        "date": "2026-11-17",
+        "summary": "米哈游「崩坏」AI研发团队（联合新加坡国立大学、清华大学研究者）发布论文与项目主页，公开通用视觉-语言-动作游戏智能体「Gamer」，该模型仅通过屏幕截图感知画面并输出键盘鼠标操作，在《崩坏：星穹铁道》及多个小游戏基准上进行了测试，目标是辅助自动化游戏测试与回归测试。",
+        "section": 1,
+        "core_facts": [
+          "论文《Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent》于2026年11月13日提交arXiv（编号2611.18397），11月18日发布修订版v3，署名作者27人（含Run Luo等）。",
+          "模型以Qwen3-VL(8B)为基础架构，先在超过1万小时的游戏操作数据上持续预训练，再用约1000小时精选的《崩坏：星穹铁道》录屏数据做指令微调（稀疏推理+记忆机制），并用名为TA-GRPO的多轮强化学习方法训练长时程交互能力，推理服务基于自研Streaming-vLLM系统。",
+          "在7类、共40个未见过的《崩坏：星穹铁道》小游戏关卡测试中，Gamer-RL版本平均成功率为49.7%，高于Gamer-SFT版本的39.2%，而对比的通用模型基线仅为17.1%。",
+          "在两个未参与训练的主线/支线任务测试中，子目标完成率分别为80.0%和83.6%。",
+          "在NVIDIA H200上运行Qwen3.5-35B-A3B MoE模型时，端到端请求延迟由1306毫秒降至65.12毫秒，提速20.1倍；从“暂停评测”切换为真实时评测后，对比通用基线模型分数下降17-35分，而Gamer-35B-A3B-CPT版本反而提升3.4分。",
+          "团队已公开CPT阶段的scaling checkpoints，但未公开《崩坏：星穹铁道》训练数据及在该数据上训练出的模型权重。",
+          "该研究于11月17-19日由Game*Spark、GameBusiness.jp、Automaton等日本游戏媒体报道。"
+        ],
+        "background": [
+          "米哈游将Gamer定位为游戏测试工具，用于在不接触游戏代码的情况下，像真实玩家一样通过屏幕画面检验任务流程与交互是否正常，以应对长期运营类游戏内容更新频繁、人工测试难以覆盖的问题。",
+          "该研究延续了游戏行业近年来利用大模型构建通用游玩代理的趋势（如DeepMind SIMA系列、NVIDIA NitroGen等），米哈游此前也在《崩坏：星穹铁道》中短暂测试过AI助手“Pam AI”。"
+        ],
+        "results": [
+          "论文与项目主页已公开发布，并开放了预训练阶段的scaling checkpoints供研究参考。",
+          "相关测试结果显示该代理在真实时交互设置下相对通用基线模型具备更强稳定性，在多项小游戏基准上超过对比的通用模型基线。"
+        ]
+      },
+      "members": [
+        {
+          "title": "米哈游发布通用游戏AI代理「Gamer」，可读屏幕操作键鼠完成游戏任务",
+          "url": "https://arxiv.org/abs/2611.18397",
+          "secondary_url": "https://mihoyo-gamer.github.io/",
+          "date": "2026-11-17",
+          "summary": "米哈游「崩坏」AI研发团队（联合新加坡国立大学、清华大学研究者）发布论文与项目主页，公开通用视觉-语言-动作游戏智能体「Gamer」，该模型仅通过屏幕截图感知画面并输出键盘鼠标操作，在《崩坏：星穹铁道》及多个小游戏基准上进行了测试，目标是辅助自动化游戏测试与回归测试。",
+          "section": 1,
+          "core_facts": [
+            "论文《Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent》于2026年11月13日提交arXiv（编号2611.18397），11月18日发布修订版v3，署名作者27人（含Run Luo等）。",
+            "模型以Qwen3-VL(8B)为基础架构，先在超过1万小时的游戏操作数据上持续预训练，再用约1000小时精选的《崩坏：星穹铁道》录屏数据做指令微调（稀疏推理+记忆机制），并用名为TA-GRPO的多轮强化学习方法训练长时程交互能力，推理服务基于自研Streaming-vLLM系统。",
+            "在7类、共40个未见过的《崩坏：星穹铁道》小游戏关卡测试中，Gamer-RL版本平均成功率为49.7%，高于Gamer-SFT版本的39.2%，而对比的通用模型基线仅为17.1%。",
+            "在两个未参与训练的主线/支线任务测试中，子目标完成率分别为80.0%和83.6%。",
+            "在NVIDIA H200上运行Qwen3.5-35B-A3B MoE模型时，端到端请求延迟由1306毫秒降至65.12毫秒，提速20.1倍；从“暂停评测”切换为真实时评测后，对比通用基线模型分数下降17-35分，而Gamer-35B-A3B-CPT版本反而提升3.4分。",
+            "团队已公开CPT阶段的scaling checkpoints，但未公开《崩坏：星穹铁道》训练数据及在该数据上训练出的模型权重。",
+            "该研究于11月17-19日由Game*Spark、GameBusiness.jp、Automaton等日本游戏媒体报道。"
+          ],
+          "background": [
+            "米哈游将Gamer定位为游戏测试工具，用于在不接触游戏代码的情况下，像真实玩家一样通过屏幕画面检验任务流程与交互是否正常，以应对长期运营类游戏内容更新频繁、人工测试难以覆盖的问题。",
+            "该研究延续了游戏行业近年来利用大模型构建通用游玩代理的趋势（如DeepMind SIMA系列、NVIDIA NitroGen等），米哈游此前也在《崩坏：星穹铁道》中短暂测试过AI助手“Pam AI”。"
+          ],
+          "results": [
+            "论文与项目主页已公开发布，并开放了预训练阶段的scaling checkpoints供研究参考。",
+            "相关测试结果显示该代理在真实时交互设置下相对通用基线模型具备更强稳定性，在多项小游戏基准上超过对比的通用模型基线。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "腾讯Q3财报披露游戏AI成绩单：《王者荣耀》灵宝日调用率80%，《王者万象棋》灵宝AI新玩家覆盖超95%",
+        "url": "https://www.plataformamedia.com/en/2026/11/18/tencent-announces-2026-third-quarter-results/",
+        "secondary_url": "https://www.pingwest.com/a/319677",
+        "date": "2026-11-18",
+        "summary": "腾讯2026年第三季度财报（11月18日发布）显示，网络游戏收入665亿元（同比+5%），其中本土市场476亿元（同比+11%）；财报同时披露旗下游戏AI功能的具体使用数据，包括《王者荣耀》AI伙伴「灵宝」日调用率达80%，新游《王者万象棋》的教学助手「灵宝AI」每日服务超过95%的新玩家，满意度85%。",
+        "section": 1,
+        "core_facts": [
+          "财报数据：网络游戏总收入665亿元，同比增长5%；本土市场收入476亿元，同比增长11%；国际市场收入189亿元，同比下降9%（固定汇率下降4%），主要受上年同期高基数影响。",
+          "《王者荣耀》AI伙伴「灵宝」（基于自研“绝悟”AI打造）日活玩家调用率达到80%。",
+          "9月10日全平台上线的《王者万象棋》搭载自研教学助手「灵宝AI」，可基于实时棋局提供阵容推荐、操作指导、语音问答与策略讲解，每日有超过95%的新玩家使用该功能，玩家满意度为85%；该游戏上线后迅速登顶iOS免费榜。",
+          "《王者荣耀》AI解说已从KPL职业赛事扩展到大众赛事及第一人称视角解说：AI解说员“张大仙”直播间有效弹幕量增长6.24倍，5分钟深度留存提升7.7%；第一人称AI解说使总观看时长提升24.8%。",
+          "《和平精英》计划在其“绿洲启元”UGC平台上线基于WorkBuddy的AI专家服务；腾讯游戏正与自研Hy大模型协同共创以提升其能力；自研开源AI原生引擎「造化工坊·天工引擎」及一站式制作平台「MagicLomix」处于测试阶段。",
+          "公司整体云服务收入同比增长35%，部分受AI相关需求拉动；资本开支（现金口径）同比增长225%至651亿元，反映AI基础设施投入加大。"
+        ],
+        "background": [
+          "此前腾讯已在2026年5月游戏发布会及GDC 2026上展示多项游戏AI技术布局（如AI队友、AI解说、3D生成工具等），本次财报首次以具体使用率/满意度数据的形式披露核心IP产品中AI功能的实际落地效果。",
+          "这一披露发生在国内游戏行业AI渗透率快速上升的背景下（据行业报告，2025年国内游戏企业AI应用率已超过86%），也伴随腾讯整体AI相关资本开支大幅增加。"
+        ],
+        "results": [
+          "財報所披露的「灵宝」80%日调用率、「灵宝AI」95%+新玩家覆盖率、85%满意度等，均为腾讯截至2026年第三季度的官方披露数据，显示AI伴侣/教学功能已在其头部IP《王者荣耀》及衍生新作中实现规模化落地。",
+          "AI解说相关互动指标（弹幕量6.24倍、观看时长+24.8%等）表明AI解说功能已对直播观看体验产生可衡量的提升效果。"
+        ]
+      },
+      "members": [
+        {
+          "title": "腾讯Q3财报披露游戏AI成绩单：《王者荣耀》灵宝日调用率80%，《王者万象棋》灵宝AI新玩家覆盖超95%",
+          "url": "https://www.plataformamedia.com/en/2026/11/18/tencent-announces-2026-third-quarter-results/",
+          "secondary_url": "https://www.pingwest.com/a/319677",
+          "date": "2026-11-18",
+          "summary": "腾讯2026年第三季度财报（11月18日发布）显示，网络游戏收入665亿元（同比+5%），其中本土市场476亿元（同比+11%）；财报同时披露旗下游戏AI功能的具体使用数据，包括《王者荣耀》AI伙伴「灵宝」日调用率达80%，新游《王者万象棋》的教学助手「灵宝AI」每日服务超过95%的新玩家，满意度85%。",
+          "section": 1,
+          "core_facts": [
+            "财报数据：网络游戏总收入665亿元，同比增长5%；本土市场收入476亿元，同比增长11%；国际市场收入189亿元，同比下降9%（固定汇率下降4%），主要受上年同期高基数影响。",
+            "《王者荣耀》AI伙伴「灵宝」（基于自研“绝悟”AI打造）日活玩家调用率达到80%。",
+            "9月10日全平台上线的《王者万象棋》搭载自研教学助手「灵宝AI」，可基于实时棋局提供阵容推荐、操作指导、语音问答与策略讲解，每日有超过95%的新玩家使用该功能，玩家满意度为85%；该游戏上线后迅速登顶iOS免费榜。",
+            "《王者荣耀》AI解说已从KPL职业赛事扩展到大众赛事及第一人称视角解说：AI解说员“张大仙”直播间有效弹幕量增长6.24倍，5分钟深度留存提升7.7%；第一人称AI解说使总观看时长提升24.8%。",
+            "《和平精英》计划在其“绿洲启元”UGC平台上线基于WorkBuddy的AI专家服务；腾讯游戏正与自研Hy大模型协同共创以提升其能力；自研开源AI原生引擎「造化工坊·天工引擎」及一站式制作平台「MagicLomix」处于测试阶段。",
+            "公司整体云服务收入同比增长35%，部分受AI相关需求拉动；资本开支（现金口径）同比增长225%至651亿元，反映AI基础设施投入加大。"
+          ],
+          "background": [
+            "此前腾讯已在2026年5月游戏发布会及GDC 2026上展示多项游戏AI技术布局（如AI队友、AI解说、3D生成工具等），本次财报首次以具体使用率/满意度数据的形式披露核心IP产品中AI功能的实际落地效果。",
+            "这一披露发生在国内游戏行业AI渗透率快速上升的背景下（据行业报告，2025年国内游戏企业AI应用率已超过86%），也伴随腾讯整体AI相关资本开支大幅增加。"
+          ],
+          "results": [
+            "財報所披露的「灵宝」80%日调用率、「灵宝AI」95%+新玩家覆盖率、85%满意度等，均为腾讯截至2026年第三季度的官方披露数据，显示AI伴侣/教学功能已在其头部IP《王者荣耀》及衍生新作中实现规模化落地。",
+            "AI解说相关互动指标（弹幕量6.24倍、观看时长+24.8%等）表明AI解说功能已对直播观看体验产生可衡量的提升效果。"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "网易Q3财报：CEO丁磊称AI大幅提升研发效率，但尚难带来玩法根本性创新",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001110646/000110465926129894/tm2630023d1_ex99-1.htm",
+        "date": "2026-11-19",
+        "summary": "网易公布2026年第三季度财报（11月19日），净收入279亿元，同比下降1.8%，其中游戏及相关增值服务收入约229亿元，同比下降1.7%；在财报电话会议上，CEO丁磊表示AI为行业带来显著的效率提升，但目前在推动玩法根本性创新方面能力仍有限。",
+        "section": 2,
+        "summary_detail": "网易2026年Q3净收入279亿元（同比-1.8%），游戏业务收入约229亿元（同比-1.7%），毛利190亿元（同比+4.8%）。CEO丁磊在财报电话会议上指出，AI目前对游戏研发的主要价值在于效率提升而非玩法创新。公司新作《万鈞》计划于2027年1月15日全球多平台上线。"
+      },
+      "members": [
+        {
+          "title": "网易Q3财报：CEO丁磊称AI大幅提升研发效率，但尚难带来玩法根本性创新",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001110646/000110465926129894/tm2630023d1_ex99-1.htm",
+          "date": "2026-11-19",
+          "summary": "网易公布2026年第三季度财报（11月19日），净收入279亿元，同比下降1.8%，其中游戏及相关增值服务收入约229亿元，同比下降1.7%；在财报电话会议上，CEO丁磊表示AI为行业带来显著的效率提升，但目前在推动玩法根本性创新方面能力仍有限。",
+          "section": 2,
+          "summary_detail": "网易2026年Q3净收入279亿元（同比-1.8%），游戏业务收入约229亿元（同比-1.7%），毛利190亿元（同比+4.8%）。CEO丁磊在财报电话会议上指出，AI目前对游戏研发的主要价值在于效率提升而非玩法创新。公司新作《万鈞》计划于2027年1月15日全球多平台上线。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "北京日报回访首届全球AI游戏创作大赛：244件作品背后，商业化仍待破局",
+        "url": "https://www.bjnews.com.cn/detail/1794956884189270.html",
+        "secondary_url": "https://www.ncsti.gov.cn/kjdt/xwjj/202611/t20261118_264200.html",
+        "date": "2026-11-18",
+        "summary": "北京日报11月18日刊文回访10月21日在北京落幕的“首届全球人工智能游戏创作大赛”，该赛事共收到来自21个国家和地区的244件参赛作品，参赛者涵盖高中生、研究生、独立开发者及初创团队；报道指出个人创作者在商业化上仍面临版号申报流程复杂、成本高企，以及AI素材版权与生成作品权属规则不明确等问题。",
+        "section": 2,
+        "summary_detail": "首届全球人工智能游戏创作大赛于10月21日在北京落幕，共收到21个国家和地区的244件作品。北京日报11月18日的回访报道提到，清华大学研究生邓雨蝶凭作品《红楼未完》获“最佳文化出海奖”，赛后注册公司并入驻亦庄AI游戏创作社区；报道同时指出AI游戏个人创作者在版号申报、成本及版权权属方面仍面临现实阻碍。"
+      },
+      "members": [
+        {
+          "title": "北京日报回访首届全球AI游戏创作大赛：244件作品背后，商业化仍待破局",
+          "url": "https://www.bjnews.com.cn/detail/1794956884189270.html",
+          "secondary_url": "https://www.ncsti.gov.cn/kjdt/xwjj/202611/t20261118_264200.html",
+          "date": "2026-11-18",
+          "summary": "北京日报11月18日刊文回访10月21日在北京落幕的“首届全球人工智能游戏创作大赛”，该赛事共收到来自21个国家和地区的244件参赛作品，参赛者涵盖高中生、研究生、独立开发者及初创团队；报道指出个人创作者在商业化上仍面临版号申报流程复杂、成本高企，以及AI素材版权与生成作品权属规则不明确等问题。",
+          "section": 2,
+          "summary_detail": "首届全球人工智能游戏创作大赛于10月21日在北京落幕，共收到21个国家和地区的244件作品。北京日报11月18日的回访报道提到，清华大学研究生邓雨蝶凭作品《红楼未完》获“最佳文化出海奖”，赛后注册公司并入驻亦庄AI游戏创作社区；报道同时指出AI游戏个人创作者在版号申报、成本及版权权属方面仍面临现实阻碍。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    }
+  ],
+  "duplicate_groups": [
+    [
+      {
+        "title": "NVIDIA确认DLSS 5神经渲染技术本周登陆网易《燕云十六声》",
+        "url": "https://www.nvidia.com/en-us/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/",
+        "date": "2026-11-23",
+        "summary": "据NVIDIA官方公告及多家硬件媒体报道,由Everstone Studio开发、网易发行的武侠开放世界游戏《燕云十六声》于11月23日起接入DLSS 5的“3D引导式神经渲染”功能,成为全球首批支持该技术的三款游戏之一(另两款为《霍格华兹的遗产》和《战争雷霆》),目前仅支持GeForce RTX 50系列显卡、RTX Spark设备及GeForce NOW Ultimate订阅。",
+        "section": 2
+      },
+      {
+        "title": "NVIDIA DLSS 5神经渲染技术登陆网易《燕云十六声》，需RTX 50系显卡",
+        "url": "https://www.nvidia.com/en-us/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/",
+        "secondary_url": "https://news.17173.com/content/11182026/111459823.shtml",
+        "date": "2026-11-23",
+        "summary": "NVIDIA官方公告，其基于AI神经网络的DLSS 5“3D引导式神经渲染”技术于11月23日登陆网易Everstone工作室开发的武侠游戏《燕云十六声》（Where Winds Meet），该技术通过AI模型为画面注入更真实的光影与材质细节，需搭配GeForce RTX 50系列显卡及新版Game Ready驱动使用。",
+        "section": 2,
+        "summary_detail": "NVIDIA于11月5日官方公告中确认，继《霍格沃茨之遗》《战争雷霆》后，《燕云十六声》将于11月23日接入DLSS 5“3D引导式神经渲染”技术，该技术通过AI模型增强光照与材质表现，需RTX 50系显卡支持；开发方表示将允许玩家开关该功能并调节相关参数。"
+      }
+    ]
+  ],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
