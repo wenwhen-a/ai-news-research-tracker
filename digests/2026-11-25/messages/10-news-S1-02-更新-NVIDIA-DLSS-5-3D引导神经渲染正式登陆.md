@@ -1,0 +1,15 @@
+**[新闻 2] 更新】NVIDIA DLSS 5 3D引导神经渲染正式登陆《燕云十六声》（Where Winds Meet），此前仅为"11月23日定档"的预告**
+- **日期：** 2026-11-24
+- **来源链接：** <https://www.nvidia.com/en-us/geforce/news/where-winds-meet-dlss-5-3d-guided-neural-rendering-out-now/> （背景：<https://www.nvidia.com/en-us/geforce/news/warhammer-40000-dawn-of-war-4-geforce-rtx-spark-game-ready-driver/>）
+- **核心事实：**
+  - NVIDIA于2026年11月24日（作者Andrew Burnes）在GeForce官网确认，DLSS 5 3D引导神经渲染（3D-Guided Neural Rendering）已正式在网易武侠开放世界游戏《燕云十六声》（Where Winds Meet，开发商Everstone Studio）上线，支持GeForce RTX 50系列GPU、RTX Spark设备，以及通过GeForce NOW Ultimate会员进行云端串流。
+  - 具体改进包括：优化高光与阴影细节、增强微对比度（microcontrast）、改善环境光遮蔽（AO）与全局光照；蜡烛获得次表面散射效果，使火焰透过蜡体发出暖光；草木、竹叶等植被获得更真实的光照穿透效果（如阳光透过树叶）；石碑与岩石材质细节表现增强。
+  - 开发者可调节Structure Intensity（影响AO、反射、次表面散射等高频效果强度）和Tone Intensity（影响整体光照与色调）等参数，并可对玻璃器皿、水滴、植被等特定资产进行语义遮罩（semantic masking）控制。
+  - 官方公布的性能数据（叠加DLSS 5超分辨率与多帧生成）：4K分辨率、Ultra画质、超分辨率性能模式+6倍多帧生成下最高可达430帧/秒；2560×1440分辨率、Ultra画质（GeForce RTX系列）最高570帧/秒；1920×1080分辨率（GeForce RTX 50系列）最高700帧/秒；RTX 5090笔记本GPU在2560×1440、High画质下最高320帧/秒；RTX 50系列笔记本GPU在1920×1080下最高430帧/秒。
+  - Everstone Studio美术总监Muzi Li表示："DLSS 5能够识别并降低过曝的高光区域，同时在这些区域展现更多细节。"
+- **背景与起因：**
+  - 此前该升级计划已于更早的NVIDIA Game Ready驱动公告（2026年11月11日发布）中预告，称《燕云十六声》DLSS 5支持将"定档11月23日"上线，当时仅为预告性质，尚未提供画面细节或性能数据。
+  - NVIDIA今年已陆续为多款游戏（如《战争雷霆》《霍格沃茨之遗》）推出DLSS 5 3D引导神经渲染支持，《燕云十六声》是本轮适配中的重点作品之一，也是中国大型武侠题材开放世界游戏首批接入该技术的案例。
+- **结果与进展：**
+  - 截至11月24日，该功能已对符合条件的硬件正式开放，而非此前的"即将上线"状态，玩家可立即在GeForce RTX 50系列显卡、RTX Spark设备及GeForce NOW云游戏上体验。
+  - NVIDIA同时公布了具体的帧率数据，为玩家购买硬件、评估画质与性能权衡提供了官方参考依据。

@@ -1,0 +1,172 @@
+{
+  "as_of": "2026-11-25",
+  "cutoff": "2026-11-18",
+  "window_days": 7,
+  "summary": {
+    "input_items": 7,
+    "denied_source": 0,
+    "in_window": 7,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 7,
+    "duplicate_clusters": 0,
+    "section1_count": 4,
+    "section2_count": 3,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 5,
+    "previously_covered_count": 2
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "【更新】NVIDIA DLSS 5 3D引导神经渲染正式登陆《燕云十六声》（Where Winds Meet），此前仅为\"11月23日定档\"的预告",
+        "url": "https://www.nvidia.com/en-us/geforce/news/where-winds-meet-dlss-5-3d-guided-neural-rendering-out-now/",
+        "date": "2026-11-24",
+        "summary": "NVIDIA官方11月24日确认，DLSS 5 3D引导神经渲染技术已正式在网易武侠开放世界游戏《燕云十六声》（Where Winds Meet，开发商Everstone Studio）上线，此前该功能仅为\"11月23日定档\"的预告，并公布了具体的画面改进细节与性能数据。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "【更新】NVIDIA DLSS 5 3D引导神经渲染正式登陆《燕云十六声》（Where Winds Meet），此前仅为\"11月23日定档\"的预告",
+          "url": "https://www.nvidia.com/en-us/geforce/news/where-winds-meet-dlss-5-3d-guided-neural-rendering-out-now/",
+          "date": "2026-11-24",
+          "summary": "NVIDIA官方11月24日确认，DLSS 5 3D引导神经渲染技术已正式在网易武侠开放世界游戏《燕云十六声》（Where Winds Meet，开发商Everstone Studio）上线，此前该功能仅为\"11月23日定档\"的预告，并公布了具体的画面改进细节与性能数据。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "谷歌DeepMind正式推出Genie 4世界模型：消费端Project Genie开放AI Ultra订阅用户，开发者可通过Gemini API调用",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+        "date": "2026-11-18",
+        "summary": "谷歌DeepMind于11月18日正式在Project Genie中向Google AI Ultra订阅用户开放新一代交互式世界模型Genie 4，支持实时音频与中途文字提示修改世界；次日（11月19日）谷歌进一步宣布开发者可通过Gemini API（Interactions API）与Google AI Studio调用Genie 4。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "谷歌DeepMind正式推出Genie 4世界模型：消费端Project Genie开放AI Ultra订阅用户，开发者可通过Gemini API调用",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+          "date": "2026-11-18",
+          "summary": "谷歌DeepMind于11月18日正式在Project Genie中向Google AI Ultra订阅用户开放新一代交互式世界模型Genie 4，支持实时音频与中途文字提示修改世界；次日（11月19日）谷歌进一步宣布开发者可通过Gemini API（Interactions API）与Google AI Studio调用Genie 4。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "育碧上半财年业绩：净预订下滑16.5%，成立AI子公司Motherbrain主攻\"智能NPC\"中间层技术",
+        "url": "https://staticctf.ubisoft.com/8aefmxkxpxwl/4rjH83tyAju38erlDGV0sm/5f6d973ac0db88ac2bef4d21fe1a4835/Ubisoft_FY27_H1_Earnings_PR_EN_vF.pdf",
+        "date": "2026-11-20",
+        "summary": "育碧11月20日发布截至9月的2027财年上半年财报：净预订同比下滑16.5%至6.447亿欧元，第三财季预期进一步下调；公司同时宣布将AI原型项目\"Teammates\"独立为新子公司Motherbrain，专注开发可供全公司使用的中间层AI技术及游戏内\"智能NPC\"。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "育碧上半财年业绩：净预订下滑16.5%，成立AI子公司Motherbrain主攻\"智能NPC\"中间层技术",
+          "url": "https://staticctf.ubisoft.com/8aefmxkxpxwl/4rjH83tyAju38erlDGV0sm/5f6d973ac0db88ac2bef4d21fe1a4835/Ubisoft_FY27_H1_Earnings_PR_EN_vF.pdf",
+          "date": "2026-11-20",
+          "summary": "育碧11月20日发布截至9月的2027财年上半年财报：净预订同比下滑16.5%至6.447亿欧元，第三财季预期进一步下调；公司同时宣布将AI原型项目\"Teammates\"独立为新子公司Motherbrain，专注开发可供全公司使用的中间层AI技术及游戏内\"智能NPC\"。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "【更新】NVIDIA董事会11月23日宣布恢复黄仁勋CEO职务，此前17日曾表态\"不打算让其复职\"",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm",
+        "date": "2026-11-23",
+        "summary": "NVIDIA通过SEC 8-K文件于11月23日宣布，董事会一致投票恢复黄仁勋总裁、CEO及董事职务，即刻生效；此前董事会主席曾于11月17日财报电话会议上表示不打算让黄仁勋复职，这是该事件发生新转折后的最新进展。",
+        "section": 1
+      },
+      "members": [
+        {
+          "title": "【更新】NVIDIA董事会11月23日宣布恢复黄仁勋CEO职务，此前17日曾表态\"不打算让其复职\"",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm",
+          "date": "2026-11-23",
+          "summary": "NVIDIA通过SEC 8-K文件于11月23日宣布，董事会一致投票恢复黄仁勋总裁、CEO及董事职务，即刻生效；此前董事会主席曾于11月17日财报电话会议上表示不打算让黄仁勋复职，这是该事件发生新转折后的最新进展。",
+          "section": 1
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "独立工作室Seeker Entertainment解散后，开发者用Claude Code在4小时内让游戏KinForge脱离AWS服务器独立运行",
+        "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+        "date": "2026-11-18",
+        "summary": "据IEEE Spectrum 11月18日报道，独立工作室Seeker Entertainment因9月资金耗尽而解散，其在线游戏《KinForge》（基于Unreal Engine 5.7开发，依赖AWS托管服务器）因无人继续支付服务器费用而无法运行。联合创始人Travis McGeathy让Anthropic的Claude Code在约4小时基本无人值守的工作后，生成了一个不再依赖AWS的版本，支持玩家通过互联网或局域网自建服务器进行对等联机，并意外新增了断线后可继续游戏的存档持久化功能。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "独立工作室Seeker Entertainment解散后，开发者用Claude Code在4小时内让游戏KinForge脱离AWS服务器独立运行",
+          "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+          "date": "2026-11-18",
+          "summary": "据IEEE Spectrum 11月18日报道，独立工作室Seeker Entertainment因9月资金耗尽而解散，其在线游戏《KinForge》（基于Unreal Engine 5.7开发，依赖AWS托管服务器）因无人继续支付服务器费用而无法运行。联合创始人Travis McGeathy让Anthropic的Claude Code在约4小时基本无人值守的工作后，生成了一个不再依赖AWS的版本，支持玩家通过互联网或局域网自建服务器进行对等联机，并意外新增了断线后可继续游戏的存档持久化功能。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "NC AI在G-STAR 2026期间运营「VARCO」体验咖啡馆，展示3D与音效生成AI技术",
+        "url": "https://www.etnews.com/20261105000225",
+        "date": "2026-11-19",
+        "summary": "据韩国媒体etnews报道，NCSoft旗下NC AI于G-STAR 2026展会期间（11月19日至21日）在釜山BEXCO第二展览馆附近的Chacha Coffee门店运营生成式AI平台「VARCO」体验咖啡馆，开放游客试用VARCO 3D与VARCO Sound的生成功能，体验从3D素材生成编辑到生物音效制作的全流程；企业用户还可预约一对一咨询了解VARCO的引入方案，参与无需到场，可通过问卷预约咨询时段。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "NC AI在G-STAR 2026期间运营「VARCO」体验咖啡馆，展示3D与音效生成AI技术",
+          "url": "https://www.etnews.com/20261105000225",
+          "date": "2026-11-19",
+          "summary": "据韩国媒体etnews报道，NCSoft旗下NC AI于G-STAR 2026展会期间（11月19日至21日）在釜山BEXCO第二展览馆附近的Chacha Coffee门店运营生成式AI平台「VARCO」体验咖啡馆，开放游客试用VARCO 3D与VARCO Sound的生成功能，体验从3D素材生成编辑到生物音效制作的全流程；企业用户还可预约一对一咨询了解VARCO的引入方案，参与无需到场，可通过问卷预约咨询时段。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "首届全球AI游戏创作大赛收官报道：21个国家/地区244部作品参赛，\"人人造游\"商业化仍待破局",
+        "url": "https://www.ncsti.gov.cn/kjdt/xwjj/202611/t20261118_264200.html",
+        "date": "2026-11-18",
+        "summary": "北京日报11月18日报道回顾了10月21日在北京落幕的首届全球人工智能(AI)游戏创作大赛，共收到21个国家和地区的244部参赛作品，参赛者涵盖中学生、研究生及创业团队。报道同时指出AI降低了游戏创作门槛，但个人开发者商业化仍面临算力成本高、版号审批流程不适配小型项目、AI版权归属不清晰等困境。",
+        "section": 2
+      },
+      "members": [
+        {
+          "title": "首届全球AI游戏创作大赛收官报道：21个国家/地区244部作品参赛，\"人人造游\"商业化仍待破局",
+          "url": "https://www.ncsti.gov.cn/kjdt/xwjj/202611/t20261118_264200.html",
+          "date": "2026-11-18",
+          "summary": "北京日报11月18日报道回顾了10月21日在北京落幕的首届全球人工智能(AI)游戏创作大赛，共收到21个国家和地区的244部参赛作品，参赛者涵盖中学生、研究生及创业团队。报道同时指出AI降低了游戏创作门槛，但个人开发者商业化仍面临算力成本高、版号审批流程不适配小型项目、AI版权归属不清晰等困境。",
+          "section": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

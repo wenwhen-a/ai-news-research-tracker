@@ -1,138 +1,5 @@
 [
  {
-  "title": "IGF评委联合声明拒绝为使用生成式AI开发的游戏投票，入围工作室House House回应\"少量\"使用AI排查bug",
-  "url": "https://www.videogameschronicle.com/news/big-walk-studio-says-it-used-ai-sparingly-in-response-to-indie-award-jury-statement-against-its-use/",
-  "date": "2026-11-10",
-  "section": 1,
-  "posted": "2026-11-10"
- },
- {
-  "title": "Take-Two CEO泽尔尼克：盗版是娱乐行业\"永恒的事实\"，GTA 6发行前被问及AI复刻PS4游戏案例",
-  "url": "https://mp1st.com/?p=318140",
-  "date": "2026-11-06",
-  "section": 1,
-  "posted": "2026-11-10"
- },
- {
-  "title": "NVIDIA为《霍格沃茨之遗》GeForce NOW云游戏版本带来DLSS 5神经渲染升级",
-  "url": "https://blogs.nvidia.com/?p=99635",
-  "date": "2026-11-05",
-  "section": 1,
-  "posted": "2026-11-10"
- },
- {
-  "title": "《刺客信条：英灵殿》更新为PS5 Pro加入AI超分辨率技术PSSR，画质模式默认帧率提升至60帧",
-  "url": "https://news.ubisoft.com/en-us/article/79bZ5I440uHPJ3p3WmUMoB/assassins-creed-valhalla-the-most-requested-update-new-game-new-content-and-progression-and-more",
-  "date": "2026-11-05",
-  "section": 2,
-  "posted": "2026-11-10"
- },
- {
-  "title": "ArtStation上线AI声明与默认AI内容过滤功能",
-  "url": "https://80.lv/articles/artstation-adds-ai-declarations-default-ai-filtering-for-artwork",
-  "date": "2026-11-10",
-  "section": 2,
-  "posted": "2026-11-10"
- },
- {
-  "title": "Valve警告Steam新游审核大幅延迟，AI游戏激增被视为潜在诱因",
-  "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games",
-  "date": "2026-11-04",
-  "section": 2,
-  "posted": "2026-11-10"
- },
- {
-  "title": "网易《永劫无间》突袭上线英伟达DLSS 5神经渲染技术，成国内首款实装游戏",
-  "url": "https://tech.ifeng.com/c/8xnpF8R3mie",
-  "date": "2026-11-05",
-  "section": 2,
-  "posted": "2026-11-10"
- },
- {
-  "title": "网易亮相乌镇峰会：企业级AI Agent平台\"帝王蟹\"上新，《燕云十六声》入选CCTV出海案例",
-  "url": "https://www.ithome.com/1/022/322.htm",
-  "date": "2026-11-04",
-  "section": 2,
-  "posted": "2026-11-10"
- },
- {
-  "title": "Hutch联合创始人Shaun Rutland推出新工作室Anorak，主打\"可交互生成式视频\"游戏",
-  "url": "https://mobilegamer.biz/hutch-cofounder-shaun-rutland-teases-his-new-interactive-generative-video-studio-anorak/",
-  "date": "2026-11-04",
-  "section": 2,
-  "posted": "2026-11-10"
- },
- {
-  "title": "Skydance Games在与华纳兄弟合并一个月后被曝裁员",
-  "url": "https://www.videogameschronicle.com/news/skydance-games-has-been-laying-off-some-of-its-staff-a-month-after-merging-with-warner-bros/",
-  "date": "2026-11-10",
-  "section": 3,
-  "posted": "2026-11-10"
- },
- {
-  "title": "Take-Two称《GTA6》预订量远超预期，但《NBA 2K27》表现不及预测",
-  "url": "https://www.videogameschronicle.com/news/gta-6-pre-orders-are-far-above-initial-expectations-but-nba-2k27-was-below-our-forecast-take-two-says/",
-  "date": "2026-11-10",
-  "section": 3,
-  "posted": "2026-11-10"
- },
- {
-  "title": "韩国DoubleU Games提出要约收购DoubleDown Interactive剩余股份",
-  "url": "https://www.pocketgamer.biz/doubleu-games-agrees-to-buy-remaining-stake-in-doubledown-interactive/",
-  "date": "2026-11-10",
-  "section": 3,
-  "posted": "2026-11-10"
- },
- {
-  "title": "中国监管部门批准沙特Savvy Games Group收购《无限法则》开发商Moonton",
-  "url": "https://www.pocketgamer.biz/china-approves-savvy-games-groups-moonton-acquisition/",
-  "date": "2026-11-10",
-  "section": 3,
-  "posted": "2026-11-10"
- },
- {
-  "title": "手游厂商Playtika宣布放弃出售计划，将继续独立运营",
-  "url": "https://www.pocketgamer.biz/playtika-rules-out-sale-and-will-continue-as-independent-company/",
-  "date": "2026-11-09",
-  "section": 3,
-  "posted": "2026-11-10"
- },
- {
-  "title": "万代南梦宫宣布解散并清算《Unknown 9》开发商Reflector Entertainment",
-  "url": "https://www.gematsu.com/2026/11/bandai-namco-to-shut-down-reflector-entertainment",
-  "date": "2026-11-09",
-  "section": 3,
-  "posted": "2026-11-10"
- },
- {
-  "title": "BioWare联合创始人与《星球大战：旧共和国武士》导演有意联手拯救BioWare的IP",
-  "url": "https://www.videogameschronicle.com/news/bioware-co-founder-and-star-wars-kotor-director-say-theyre-interested-in-reuniting-to-try-and-save-biowares-ip/",
-  "date": "2026-11-10",
-  "section": 3,
-  "posted": "2026-11-10"
- },
- {
-  "title": "据游戏陀螺梳理：A股游戏公司三季报分化，头部企业狂揽利润，腰部陷买量泥潭",
-  "url": "https://youxituoluo.com/535038.html",
-  "date": "2026-11-09",
-  "section": 3,
-  "posted": "2026-11-10"
- },
- {
-  "title": "Nexon公布2026年第三季度财报，《ARC Raiders》累计销量突破1700万份",
-  "url": "https://www.4gamer.net/games/999/G999905/20261110027/",
-  "date": "2026-11-10",
-  "section": 3,
-  "posted": "2026-11-10"
- },
- {
-  "title": "Krafton公布2026年第三季度财报，营业利润同比下滑35.5%，预告PUBG十周年最大更新",
-  "url": "https://www.4gamer.net/games/348/G034868/20261110046/",
-  "date": "2026-11-10",
-  "section": 3,
-  "posted": "2026-11-10"
- },
- {
   "title": "AMD与微软联合为Xbox Series X|S带来机器学习升级技术FSR Upscaling 4.1",
   "url": "https://developer.microsoft.com/en-us/games/articles/2026/11/amd-fsr-upscaling-4-is-now-available-for-xbox",
   "date": "2026-11-04",
@@ -2119,5 +1986,145 @@
   "date": "2026-11-24",
   "section": 3,
   "posted": "2026-11-24"
+ },
+ {
+  "title": "谷歌DeepMind正式推出Genie 4世界模型：消费端Project Genie开放AI Ultra订阅用户，开发者可通过Gemini API调用",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+  "date": "2026-11-18",
+  "section": 1,
+  "posted": "2026-11-25"
+ },
+ {
+  "title": "更新】NVIDIA DLSS 5 3D引导神经渲染正式登陆《燕云十六声》（Where Winds Meet），此前仅为\"11月23日定档\"的预告",
+  "url": "https://www.nvidia.com/en-us/geforce/news/where-winds-meet-dlss-5-3d-guided-neural-rendering-out-now/",
+  "date": "2026-11-24",
+  "section": 1,
+  "posted": "2026-11-25"
+ },
+ {
+  "title": "更新】NVIDIA董事会11月23日宣布恢复黄仁勋CEO职务，此前17日曾表态\"不打算让其复职\"",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm",
+  "date": "2026-11-23",
+  "section": 1,
+  "posted": "2026-11-25"
+ },
+ {
+  "title": "独立工作室Seeker Entertainment解散后，开发者用Claude Code在4小时内让游戏KinForge脱离AWS服务器独立运行",
+  "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+  "date": "2026-11-18",
+  "section": 2,
+  "posted": "2026-11-25"
+ },
+ {
+  "title": "NC AI在G-STAR 2026期间运营「VARCO」体验咖啡馆，展示3D与音效生成AI技术",
+  "url": "https://www.etnews.com/20261105000225",
+  "date": "2026-11-19",
+  "section": 2,
+  "posted": "2026-11-25"
+ },
+ {
+  "title": "首届全球AI游戏创作大赛收官报道：21个国家/地区244部作品参赛，\"人人造游\"商业化仍待破局",
+  "url": "https://www.ncsti.gov.cn/kjdt/xwjj/202611/t20261118_264200.html",
+  "date": "2026-11-18",
+  "section": 2,
+  "posted": "2026-11-25"
+ },
+ {
+  "title": "《EA Sports FC 27》将加入已故解说员约翰·莫特森的AI语音解说",
+  "url": "https://www.videogameschronicle.com/news/ea-sports-fc-27-is-adding-an-ai-generated-john-motson-to-its-commentary-team-three-years-after-his-death/",
+  "date": "2026-11-25",
+  "section": 3,
+  "posted": "2026-11-25"
+ },
+ {
+  "title": "《使命召唤》21年老将称已无法推荐游戏开发作为职业",
+  "url": "https://www.videogameschronicle.com/news/21-year-call-of-duty-veteran-says-he-can-no-longer-recommend-a-career-in-game-development/",
+  "date": "2026-11-25",
+  "section": 3,
+  "posted": "2026-11-25"
+ },
+ {
+  "title": "卡普空宣布《Exoprimal》将于2027年9月29日终止服务",
+  "url": "https://www.gematsu.com/2026/11/exoprimal-to-end-service-on-september-29-2027",
+  "date": "2026-11-24",
+  "section": 3,
+  "posted": "2026-11-25"
+ },
+ {
+  "title": "《马里奥赛车 世界》v1.9.0更新上线，新增多条赛道与竞速模式",
+  "url": "https://www.gematsu.com/2026/11/mario-kart-world-version-1-9-0-update-now-available-adds-new-rallies-and-courses",
+  "date": "2026-11-24",
+  "section": 3,
+  "posted": "2026-11-25"
+ },
+ {
+  "title": "《堕落之主2》公布，2027年4月发售",
+  "url": "https://www.gematsu.com/2026/11/lords-of-the-fallen-ii-launches-in-april-2027",
+  "date": "2026-11-24",
+  "section": 3,
+  "posted": "2026-11-25"
+ },
+ {
+  "title": "《我们身边的狼人》Remastered版将于11月29日登陆Switch",
+  "url": "https://www.gematsu.com/2026/11/the-wolf-among-us-remastered-for-switch-launches-november-29",
+  "date": "2026-11-24",
+  "section": 3,
+  "posted": "2026-11-25"
+ },
+ {
+  "title": "《空洞骑士：丝之歌》将于11月27日直播公布免费DLC「Sea of Sorrow」等内容",
+  "url": "https://www.gematsu.com/2026/11/cherry-time-broadcast-set-for-november-27-featuring-exciting-announcements-and-hollow-knight-silksong-free-expansion-sea-of-sorrow",
+  "date": "2026-11-25",
+  "section": 3,
+  "posted": "2026-11-25"
+ },
+ {
+  "title": "《数码宝贝 Alysion》正式上线",
+  "url": "https://www.gematsu.com/2026/11/digimon-alysion-now-available",
+  "date": "2026-11-25",
+  "section": 3,
+  "posted": "2026-11-25"
+ },
+ {
+  "title": "《大战略SSB2》西方版正式上线",
+  "url": "https://www.gematsu.com/2026/11/daisenryaku-ssb2-now-available-in-the-west",
+  "date": "2026-11-25",
+  "section": 3,
+  "posted": "2026-11-25"
+ },
+ {
+  "title": "《信长之野望：飞翔》确认2027年3月12日在日本、亚洲地区发售",
+  "url": "https://www.gematsu.com/2026/11/nobunagas-ambition-hishou-launches-march-12-2027-in-japan-asia",
+  "date": "2026-11-25",
+  "section": 3,
+  "posted": "2026-11-25"
+ },
+ {
+  "title": "《恶魔浪潮》公布登陆PS5、Switch 2及Switch，2027年1月21日发售",
+  "url": "https://www.gematsu.com/2026/11/demon-tides-coming-to-ps5-switch-2-and-switch-on-january-21-2027",
+  "date": "2026-11-24",
+  "section": 3,
+  "posted": "2026-11-25"
+ },
+ {
+  "title": "蛮啾《蓝色星原：旅谣》今日开启公测，覆盖PC、iOS、安卓、鸿蒙及PS5",
+  "url": "https://www.ithome.com/1/032/534.htm",
+  "date": "2026-11-25",
+  "section": 3,
+  "posted": "2026-11-25"
+ },
+ {
+  "title": "《GTA 6》发售日YouTube相关视频播放量突破35亿，创非音乐类视频纪录",
+  "url": "https://www.ithome.com/1/032/474.htm",
+  "date": "2026-11-25",
+  "section": 3,
+  "posted": "2026-11-25"
+ },
+ {
+  "title": "《萨迦3：命运联结》公布更多旅伴、经营小游戏及对决、战斗要素细节",
+  "url": "https://www.gematsu.com/2026/11/romancing-saga-3-destinies-united-details-more-traveling-companions-business-minigames-zwei-tournament-and-battle-elements",
+  "date": "2026-11-25",
+  "section": 3,
+  "posted": "2026-11-25"
  }
 ]

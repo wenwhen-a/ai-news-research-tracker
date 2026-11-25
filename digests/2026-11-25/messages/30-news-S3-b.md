@@ -1,0 +1,6 @@
+- **《大战略SSB2》西方版正式上线**（2026-11-25）— 战略游戏《大战略SSB2》（Daisenryaku SSB2）西方语言版本已正式上线发售。 <https://www.gematsu.com/2026/11/daisenryaku-ssb2-now-available-in-the-west>
+- **《信长之野望：飞翔》确认2027年3月12日在日本、亚洲地区发售**（2026-11-25）— 光荣特库摩旗下历史模拟游戏新作《信长之野望：飞翔》确认将于2027年3月12日在日本及亚洲地区发售。 <https://www.gematsu.com/2026/11/nobunagas-ambition-hishou-launches-march-12-2027-in-japan-asia>
+- **《恶魔浪潮》公布登陆PS5、Switch 2及Switch，2027年1月21日发售**（2026-11-24）— 游戏《恶魔浪潮》（Demon Tides）公布将登陆PS5、Switch 2及Switch平台，发售日期定为2027年1月21日。 <https://www.gematsu.com/2026/11/demon-tides-coming-to-ps5-switch-2-and-switch-on-january-21-2027>
+- **蛮啾《蓝色星原：旅谣》今日开启公测，覆盖PC、iOS、安卓、鸿蒙及PS5**（2026-11-25）— 厂商蛮啾旗下新作《蓝色星原：旅谣》于11月25日在PC、iOS、安卓、HarmonyOS及PS5平台同步开启公开测试。 <https://www.ithome.com/1/032/534.htm>
+- **《GTA 6》发售日YouTube相关视频播放量突破35亿，创非音乐类视频纪录**（2026-11-25）— 据报道，Rockstar《GTA 6》发售当日相关YouTube视频播放量已突破35亿次，创下非音乐类视频播放量纪录。 <https://www.ithome.com/1/032/474.htm>
+- **《萨迦3：命运联结》公布更多旅伴、经营小游戏及对决、战斗要素细节**（2026-11-25）— 史克威尔艾尼克斯公布《萨迦3：命运联结》更多游玩细节，包括新增旅伴角色、经营类小游戏、Zwei对决赛及战斗系统相关内容。 <https://www.gematsu.com/2026/11/romancing-saga-3-destinies-united-details-more-traveling-companions-business-minigames-zwei-tournament-and-battle-elements>

@@ -1,0 +1,392 @@
+{
+  "as_of": "2026-11-25",
+  "cutoff": "2026-11-24",
+  "window_days": 1,
+  "summary": {
+    "input_items": 18,
+    "denied_source": 0,
+    "in_window": 18,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 18,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 18,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 15,
+    "previously_covered_count": 3
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "《EA Sports FC 27》将加入已故解说员约翰·莫特森的AI语音解说",
+        "url": "https://www.videogameschronicle.com/news/ea-sports-fc-27-is-adding-an-ai-generated-john-motson-to-its-commentary-team-three-years-after-his-death/",
+        "date": "2026-11-25",
+        "summary": "EA宣布将在《EA Sports FC 27》中加入已故解说员约翰·莫特森（2023年去世）的AI生成语音解说，该语音由存档录音结合生成式AI制作，经其遗孀与儿子授权、EA向家属支付费用，11月26日作为可选解说组合上线；此举引发关于逝者本人无法同意使用其AI形象的争议。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《EA Sports FC 27》将加入已故解说员约翰·莫特森的AI语音解说",
+          "url": "https://www.videogameschronicle.com/news/ea-sports-fc-27-is-adding-an-ai-generated-john-motson-to-its-commentary-team-three-years-after-his-death/",
+          "date": "2026-11-25",
+          "summary": "EA宣布将在《EA Sports FC 27》中加入已故解说员约翰·莫特森（2023年去世）的AI生成语音解说，该语音由存档录音结合生成式AI制作，经其遗孀与儿子授权、EA向家属支付费用，11月26日作为可选解说组合上线；此举引发关于逝者本人无法同意使用其AI形象的争议。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《使命召唤》21年老将称已无法推荐游戏开发作为职业",
+        "url": "https://www.videogameschronicle.com/news/21-year-call-of-duty-veteran-says-he-can-no-longer-recommend-a-career-in-game-development/",
+        "date": "2026-11-25",
+        "summary": "曾在Treyarch参与13款《使命召唤》作品关卡设计、今年7月被迫离职的资深员工Gavin Goslin在LinkedIn发文，援引GDC行业调查数据（34%受访者两年内被裁，其中54%仍未再就业）称已无法推荐游戏开发作为职业，呼吁行业提供更有保障的工作稳定性。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《使命召唤》21年老将称已无法推荐游戏开发作为职业",
+          "url": "https://www.videogameschronicle.com/news/21-year-call-of-duty-veteran-says-he-can-no-longer-recommend-a-career-in-game-development/",
+          "date": "2026-11-25",
+          "summary": "曾在Treyarch参与13款《使命召唤》作品关卡设计、今年7月被迫离职的资深员工Gavin Goslin在LinkedIn发文，援引GDC行业调查数据（34%受访者两年内被裁，其中54%仍未再就业）称已无法推荐游戏开发作为职业，呼吁行业提供更有保障的工作稳定性。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "卡普空宣布《Exoprimal》将于2027年9月29日终止服务",
+        "url": "https://www.gematsu.com/2026/11/exoprimal-to-end-service-on-september-29-2027",
+        "date": "2026-11-24",
+        "summary": "卡普空宣布多人恐龙题材射击游戏《Exoprimal》将于2027年9月29日终止服务并不再可玩，游戏及其DLC将于2027年3月30日从各数字商店下架，首批4个赛季的Survival Pass高级档已于11月24日起下架，官方为此致歉。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "卡普空宣布《Exoprimal》将于2027年9月29日终止服务",
+          "url": "https://www.gematsu.com/2026/11/exoprimal-to-end-service-on-september-29-2027",
+          "date": "2026-11-24",
+          "summary": "卡普空宣布多人恐龙题材射击游戏《Exoprimal》将于2027年9月29日终止服务并不再可玩，游戏及其DLC将于2027年3月30日从各数字商店下架，首批4个赛季的Survival Pass高级档已于11月24日起下架，官方为此致歉。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《马里奥赛车 世界》v1.9.0更新上线，新增多条赛道与竞速模式",
+        "url": "https://www.gematsu.com/2026/11/mario-kart-world-version-1-9-0-update-now-available-adds-new-rallies-and-courses",
+        "date": "2026-11-24",
+        "summary": "任天堂为《马里奥赛车 世界》推出v1.9.0免费更新，新增多条赛道及新的竞速（Rally）模式内容。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《马里奥赛车 世界》v1.9.0更新上线，新增多条赛道与竞速模式",
+          "url": "https://www.gematsu.com/2026/11/mario-kart-world-version-1-9-0-update-now-available-adds-new-rallies-and-courses",
+          "date": "2026-11-24",
+          "summary": "任天堂为《马里奥赛车 世界》推出v1.9.0免费更新，新增多条赛道及新的竞速（Rally）模式内容。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《堕落之主2》公布，2027年4月发售",
+        "url": "https://www.gematsu.com/2026/11/lords-of-the-fallen-ii-launches-in-april-2027",
+        "date": "2026-11-24",
+        "summary": "《堕落之主2》正式公布，确认将于2027年4月发售。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《堕落之主2》公布，2027年4月发售",
+          "url": "https://www.gematsu.com/2026/11/lords-of-the-fallen-ii-launches-in-april-2027",
+          "date": "2026-11-24",
+          "summary": "《堕落之主2》正式公布，确认将于2027年4月发售。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《我们身边的狼人》Remastered版将于11月29日登陆Switch",
+        "url": "https://www.gematsu.com/2026/11/the-wolf-among-us-remastered-for-switch-launches-november-29",
+        "date": "2026-11-24",
+        "summary": "《我们身边的狼人》重制版（The Wolf Among Us Remastered）确认将于11月29日登陆Nintendo Switch平台。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《我们身边的狼人》Remastered版将于11月29日登陆Switch",
+          "url": "https://www.gematsu.com/2026/11/the-wolf-among-us-remastered-for-switch-launches-november-29",
+          "date": "2026-11-24",
+          "summary": "《我们身边的狼人》重制版（The Wolf Among Us Remastered）确认将于11月29日登陆Nintendo Switch平台。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《空洞骑士：丝之歌》将于11月27日直播公布免费DLC「Sea of Sorrow」等内容",
+        "url": "https://www.gematsu.com/2026/11/cherry-time-broadcast-set-for-november-27-featuring-exciting-announcements-and-hollow-knight-silksong-free-expansion-sea-of-sorrow",
+        "date": "2026-11-25",
+        "summary": "一场名为「Cherry Time!」的直播节目确认将于11月27日举行，预告将公布多项游戏消息，其中包括《空洞骑士：丝之歌》免费扩展内容「Sea of Sorrow」的相关信息。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《空洞骑士：丝之歌》将于11月27日直播公布免费DLC「Sea of Sorrow」等内容",
+          "url": "https://www.gematsu.com/2026/11/cherry-time-broadcast-set-for-november-27-featuring-exciting-announcements-and-hollow-knight-silksong-free-expansion-sea-of-sorrow",
+          "date": "2026-11-25",
+          "summary": "一场名为「Cherry Time!」的直播节目确认将于11月27日举行，预告将公布多项游戏消息，其中包括《空洞骑士：丝之歌》免费扩展内容「Sea of Sorrow」的相关信息。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《数码宝贝 Alysion》正式上线",
+        "url": "https://www.gematsu.com/2026/11/digimon-alysion-now-available",
+        "date": "2026-11-25",
+        "summary": "万代南梦宫旗下新作《数码宝贝 Alysion》已正式发售上线。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《数码宝贝 Alysion》正式上线",
+          "url": "https://www.gematsu.com/2026/11/digimon-alysion-now-available",
+          "date": "2026-11-25",
+          "summary": "万代南梦宫旗下新作《数码宝贝 Alysion》已正式发售上线。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《大战略SSB2》西方版正式上线",
+        "url": "https://www.gematsu.com/2026/11/daisenryaku-ssb2-now-available-in-the-west",
+        "date": "2026-11-25",
+        "summary": "战略游戏《大战略SSB2》（Daisenryaku SSB2）西方语言版本已正式上线发售。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《大战略SSB2》西方版正式上线",
+          "url": "https://www.gematsu.com/2026/11/daisenryaku-ssb2-now-available-in-the-west",
+          "date": "2026-11-25",
+          "summary": "战略游戏《大战略SSB2》（Daisenryaku SSB2）西方语言版本已正式上线发售。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《信长之野望：飞翔》确认2027年3月12日在日本、亚洲地区发售",
+        "url": "https://www.gematsu.com/2026/11/nobunagas-ambition-hishou-launches-march-12-2027-in-japan-asia",
+        "date": "2026-11-25",
+        "summary": "光荣特库摩旗下历史模拟游戏新作《信长之野望：飞翔》确认将于2027年3月12日在日本及亚洲地区发售。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《信长之野望：飞翔》确认2027年3月12日在日本、亚洲地区发售",
+          "url": "https://www.gematsu.com/2026/11/nobunagas-ambition-hishou-launches-march-12-2027-in-japan-asia",
+          "date": "2026-11-25",
+          "summary": "光荣特库摩旗下历史模拟游戏新作《信长之野望：飞翔》确认将于2027年3月12日在日本及亚洲地区发售。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《昭和美国故事》延期至2027年10月28日发售",
+        "url": "https://www.gematsu.com/2026/11/showa-american-story-delayed-to-october-28-2027",
+        "date": "2026-11-24",
+        "summary": "游戏《昭和美国故事》（Showa American Story）宣布延期，新发售日期定为2027年10月28日。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《昭和美国故事》延期至2027年10月28日发售",
+          "url": "https://www.gematsu.com/2026/11/showa-american-story-delayed-to-october-28-2027",
+          "date": "2026-11-24",
+          "summary": "游戏《昭和美国故事》（Showa American Story）宣布延期，新发售日期定为2027年10月28日。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《恶魔浪潮》公布登陆PS5、Switch 2及Switch，2027年1月21日发售",
+        "url": "https://www.gematsu.com/2026/11/demon-tides-coming-to-ps5-switch-2-and-switch-on-january-21-2027",
+        "date": "2026-11-24",
+        "summary": "游戏《恶魔浪潮》（Demon Tides）公布将登陆PS5、Switch 2及Switch平台，发售日期定为2027年1月21日。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《恶魔浪潮》公布登陆PS5、Switch 2及Switch，2027年1月21日发售",
+          "url": "https://www.gematsu.com/2026/11/demon-tides-coming-to-ps5-switch-2-and-switch-on-january-21-2027",
+          "date": "2026-11-24",
+          "summary": "游戏《恶魔浪潮》（Demon Tides）公布将登陆PS5、Switch 2及Switch平台，发售日期定为2027年1月21日。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "蛮啾《蓝色星原：旅谣》今日开启公测，覆盖PC、iOS、安卓、鸿蒙及PS5",
+        "url": "https://www.ithome.com/1/032/534.htm",
+        "date": "2026-11-25",
+        "summary": "厂商蛮啾旗下新作《蓝色星原：旅谣》于11月25日在PC、iOS、安卓、HarmonyOS及PS5平台同步开启公开测试。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "蛮啾《蓝色星原：旅谣》今日开启公测，覆盖PC、iOS、安卓、鸿蒙及PS5",
+          "url": "https://www.ithome.com/1/032/534.htm",
+          "date": "2026-11-25",
+          "summary": "厂商蛮啾旗下新作《蓝色星原：旅谣》于11月25日在PC、iOS、安卓、HarmonyOS及PS5平台同步开启公开测试。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《GTA 6》发售日YouTube相关视频播放量突破35亿，创非音乐类视频纪录",
+        "url": "https://www.ithome.com/1/032/474.htm",
+        "date": "2026-11-25",
+        "summary": "据报道，Rockstar《GTA 6》发售当日相关YouTube视频播放量已突破35亿次，创下非音乐类视频播放量纪录。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《GTA 6》发售日YouTube相关视频播放量突破35亿，创非音乐类视频纪录",
+          "url": "https://www.ithome.com/1/032/474.htm",
+          "date": "2026-11-25",
+          "summary": "据报道，Rockstar《GTA 6》发售当日相关YouTube视频播放量已突破35亿次，创下非音乐类视频播放量纪录。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《怪物猎人：崛起》登陆iOS与安卓，需Netflix会员解锁",
+        "url": "https://www.ithome.com/1/032/351.htm",
+        "date": "2026-11-25",
+        "summary": "卡普空《怪物猎人：崛起》登陆iOS与安卓平台，玩家需开通Netflix会员方可游玩。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《怪物猎人：崛起》登陆iOS与安卓，需Netflix会员解锁",
+          "url": "https://www.ithome.com/1/032/351.htm",
+          "date": "2026-11-25",
+          "summary": "卡普空《怪物猎人：崛起》登陆iOS与安卓平台，玩家需开通Netflix会员方可游玩。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《燕云十六声》上手体验NVIDIA DLSS 5画质与性能表现",
+        "url": "https://www.ithome.com/1/032/414.htm",
+        "date": "2026-11-25",
+        "summary": "媒体对国产游戏《燕云十六声》接入NVIDIA DLSS 5技术后的画质与性能表现进行了上手体验报道。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《燕云十六声》上手体验NVIDIA DLSS 5画质与性能表现",
+          "url": "https://www.ithome.com/1/032/414.htm",
+          "date": "2026-11-25",
+          "summary": "媒体对国产游戏《燕云十六声》接入NVIDIA DLSS 5技术后的画质与性能表现进行了上手体验报道。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《萨迦3：命运联结》公布更多旅伴、经营小游戏及对决、战斗要素细节",
+        "url": "https://www.gematsu.com/2026/11/romancing-saga-3-destinies-united-details-more-traveling-companions-business-minigames-zwei-tournament-and-battle-elements",
+        "date": "2026-11-25",
+        "summary": "史克威尔艾尼克斯公布《萨迦3：命运联结》更多游玩细节，包括新增旅伴角色、经营类小游戏、Zwei对决赛及战斗系统相关内容。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《萨迦3：命运联结》公布更多旅伴、经营小游戏及对决、战斗要素细节",
+          "url": "https://www.gematsu.com/2026/11/romancing-saga-3-destinies-united-details-more-traveling-companions-business-minigames-zwei-tournament-and-battle-elements",
+          "date": "2026-11-25",
+          "summary": "史克威尔艾尼克斯公布《萨迦3：命运联结》更多游玩细节，包括新增旅伴角色、经营类小游戏、Zwei对决赛及战斗系统相关内容。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《鼎海：海之柱》确认12月3日发售",
+        "url": "https://www.gematsu.com/2026/11/dinghai-the-ocean-pillar-launches-december-3",
+        "date": "2026-11-24",
+        "summary": "游戏《鼎海：海之柱》（Dinghai: The Ocean Pillar）确认将于12月3日正式发售。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《鼎海：海之柱》确认12月3日发售",
+          "url": "https://www.gematsu.com/2026/11/dinghai-the-ocean-pillar-launches-december-3",
+          "date": "2026-11-24",
+          "summary": "游戏《鼎海：海之柱》（Dinghai: The Ocean Pillar）确认将于12月3日正式发售。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

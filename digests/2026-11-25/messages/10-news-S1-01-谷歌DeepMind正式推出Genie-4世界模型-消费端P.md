@@ -1,0 +1,16 @@
+**[新闻 1] 谷歌DeepMind正式推出Genie 4世界模型：消费端Project Genie开放AI Ultra订阅用户，开发者可通过Gemini API调用**
+- **日期：** 2026-11-18
+- **来源链接：** <https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/> （开发者端：<https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/>）
+- **核心事实：**
+  - 谷歌官方博客（blog.google，署名Diego Rivas与Pavan Kumar）于2026年11月18日宣布，Genie 4已在Project Genie中向符合条件的Google AI Ultra订阅用户开放，官方称其为"我们迄今最逼真、最具交互性的世界模型"。
+  - Genie 4是该系列首个将实时原生音频（随场景自适应的环境声、角色对白等）与画面同步生成的模型；用户可在会话过程中随时输入新的文字提示，实时改变天气、新增角色或改变剧情走向。
+  - 旧版本Genie 3在模型选择器中保留使用，单次生成时长由此前的60秒延长至最长3分钟，并新增多世界串联（world chaining）、360度全景图像锚定，以及可通过自然语言实时触发的世界内事件等功能。
+  - Google AI Pro会员可在同一Project Genie页面加入候补名单（waitlist），尚无法直接使用。
+  - 文章说明Project Genie中生成的所有视频与音频均带有SynthID水印，所有模型输入输出均经过安全筛查；谷歌同时列出仍在攻克的技术难题：摄像机延迟、复杂物理交互、实时音频精度、长期场景一致性。
+  - 次日（11月19日），谷歌在另一篇官方博客（blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/）宣布Genie 4已向开发者开放，可通过Gemini API（具体为Interactions API）及Google AI Studio调用；开发者可从文字提示、参考图像或两者结合出发，生成带同步原生音频的持续720p、24fps交互世界，用户可通过实时键盘操作在环境中移动，并用实时文字提示改变天气、光照、物体或事件，Gemini负责维持世界状态的一致性；AI Studio内置交互式画布与入门示例应用，文档见aistudio.google.com/docs/genie；所有输出同样带SynthID水印。
+- **背景与起因：**
+  - Genie系列是谷歌DeepMind的世界模型研究方向，Genie 3于2026年1月作为付费订阅功能（Project Genie）首次面向用户开放；Genie 4此前于2026年10月27日以"研究预览"形式首次公开展示，当时已预告下一步将面向AI Ultra订阅用户开放。
+  - 谷歌将Genie模型定位为通用交互世界生成技术，此前曾被分析视为对依赖传统关卡/场景制作的游戏开发模式具潜在冲击的技术路线。
+- **结果与进展：**
+  - 消费端：Genie 4已可被符合条件的Google AI Ultra订阅用户立即使用，体验包括实时修改世界与原生音频；Google AI Pro用户仍需候补。
+  - 开发端：仅一天之后，谷歌即把Genie 4能力开放给第三方开发者，通过Gemini API与AI Studio进行调用和二次开发，体现谷歌在同一周内从消费应用到开发者生态的快速铺开节奏。

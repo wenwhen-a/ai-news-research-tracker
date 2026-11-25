@@ -1,0 +1,9 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **《EA Sports FC 27》将加入已故解说员约翰·莫特森的AI语音解说**（2026-11-25）— EA宣布将在《EA Sports FC 27》中加入已故解说员约翰·莫特森（2023年去世）的AI生成语音解说，该语音结合存档录音与生成式AI制作，经其遗孀与儿子授权、EA向家属支付费用，11月26日作为可选解说组合上线，此举也引发关于逝者本人无法同意使用其AI形象的争议。 <https://www.videogameschronicle.com/news/ea-sports-fc-27-is-adding-an-ai-generated-john-motson-to-its-commentary-team-three-years-after-his-death/>
+- **《使命召唤》21年老将称已无法推荐游戏开发作为职业**（2026-11-25）— 曾在Treyarch参与13款《使命召唤》作品关卡设计、今年7月被迫离职的资深员工Gavin Goslin在LinkedIn发文，援引GDC行业调查数据（34%受访者两年内被裁，其中54%仍未再就业）称已无法推荐游戏开发作为职业。 <https://www.videogameschronicle.com/news/21-year-call-of-duty-veteran-says-he-can-no-longer-recommend-a-career-in-game-development/>
+- **卡普空宣布《Exoprimal》将于2027年9月29日终止服务**（2026-11-24）— 多人恐龙题材射击游戏《Exoprimal》将于2027年9月29日终止服务并不再可玩，游戏及DLC将于2027年3月30日从各数字商店下架，首批4个赛季的Survival Pass高级档已于11月24日起下架，官方为此致歉。 <https://www.gematsu.com/2026/11/exoprimal-to-end-service-on-september-29-2027>
+- **《马里奥赛车 世界》v1.9.0更新上线，新增多条赛道与竞速模式**（2026-11-24）— 任天堂为《马里奥赛车 世界》推出v1.9.0免费更新，新增多条赛道及新的竞速（Rally）模式内容。 <https://www.gematsu.com/2026/11/mario-kart-world-version-1-9-0-update-now-available-adds-new-rallies-and-courses>
+- **《堕落之主2》公布，2027年4月发售**（2026-11-24）— 《堕落之主2》正式公布，确认将于2027年4月发售。 <https://www.gematsu.com/2026/11/lords-of-the-fallen-ii-launches-in-april-2027>
+- **《我们身边的狼人》Remastered版将于11月29日登陆Switch**（2026-11-24）— 《我们身边的狼人》重制版（The Wolf Among Us Remastered）确认将于11月29日登陆Nintendo Switch平台。 <https://www.gematsu.com/2026/11/the-wolf-among-us-remastered-for-switch-launches-november-29>
+- **《空洞骑士：丝之歌》将于11月27日直播公布免费DLC「Sea of Sorrow」等内容**（2026-11-25）— 直播节目「Cherry Time!」确认将于11月27日举行，预告将公布多项游戏消息，其中包括《空洞骑士：丝之歌》免费扩展内容「Sea of Sorrow」的相关信息。 <https://www.gematsu.com/2026/11/cherry-time-broadcast-set-for-november-27-featuring-exciting-announcements-and-hollow-knight-silksong-free-expansion-sea-of-sorrow>
+- **《数码宝贝 Alysion》正式上线**（2026-11-25）— 万代南梦宫旗下新作《数码宝贝 Alysion》已正式发售上线。 <https://www.gematsu.com/2026/11/digimon-alysion-now-available>
