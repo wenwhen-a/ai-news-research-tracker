@@ -866,5 +866,13 @@
   "first_seen": "2026-11-23",
   "release_date": "2026-10-28",
   "summary": "AMD's FSR SDK moved from 2.3 to 2.4, extending full-INT8 FSR Upscaling 4.1.2 support down to Radeon RX 6000 (RDNA 2) GPUs, bringing several FSR effects to Vulkan/DirectX-12 parity, and adding Driver-Assisted Frame Pacing for RX 9000-series and newer."
+ },
+ "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/": {
+  "name": "NVIDIA Kimodo motion-generation model in Unreal Engine 5.9's guided animation framework",
+  "company": "NVIDIA",
+  "tier": "Public beta/preview",
+  "first_seen": "2026-11-26",
+  "release_date": "2026-11-19",
+  "summary": "NVIDIA states Kimodo is the first model integrated with Unreal Engine 5.9 Preview's new guided animation framework, letting animators generate character motion directly inside Sequencer's timeline editor from text prompts, spline paths and keyframed target poses."
  }
 }

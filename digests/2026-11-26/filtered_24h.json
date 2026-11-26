@@ -1,0 +1,312 @@
+{
+  "as_of": "2026-11-26",
+  "cutoff": "2026-11-25",
+  "window_days": 1,
+  "summary": {
+    "input_items": 14,
+    "denied_source": 0,
+    "in_window": 14,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 14,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 14,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 12,
+    "previously_covered_count": 2
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Rockstar员工投票反对加入工会，75%反对票否决成立诉求",
+        "url": "https://www.videogameschronicle.com/news/75-of-rockstars-workers-have-voted-against-unionizing/",
+        "date": "2026-11-26",
+        "summary": "此前约1600名Rockstar员工就是否成立工会进行投票，最终结果显示75%员工投下反对票，工会化提案未获通过。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "Rockstar员工投票反对加入工会，75%反对票否决成立诉求",
+          "url": "https://www.videogameschronicle.com/news/75-of-rockstars-workers-have-voted-against-unionizing/",
+          "date": "2026-11-26",
+          "summary": "此前约1600名Rockstar员工就是否成立工会进行投票，最终结果显示75%员工投下反对票，工会化提案未获通过。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "CDPR称索尼营销协议不涉及独占，《巫师4》仍将首发同步登陆Xbox",
+        "url": "https://www.videogameschronicle.com/news/no-one-gets-left-behind-cdpr-says-the-witcher-4-will-launch-on-xbox-day-one-despite-sony-agreement/",
+        "date": "2026-11-25",
+        "summary": "针对外界关于《巫师4》与索尼营销合作是否意味着平台独占的疑虑，CD Projekt Red明确表示游戏仍将在发售当天同步登陆Xbox平台。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "CDPR称索尼营销协议不涉及独占，《巫师4》仍将首发同步登陆Xbox",
+          "url": "https://www.videogameschronicle.com/news/no-one-gets-left-behind-cdpr-says-the-witcher-4-will-launch-on-xbox-day-one-despite-sony-agreement/",
+          "date": "2026-11-25",
+          "summary": "针对外界关于《巫师4》与索尼营销合作是否意味着平台独占的疑虑，CD Projekt Red明确表示游戏仍将在发售当天同步登陆Xbox平台。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据报道育碧要求开发团队必须说明未使用生成式AI的理由",
+        "url": "https://www.videogameschronicle.com/news/ubisoft-is-reportedly-requiring-developers-to-justify-not-using-generative-ai/",
+        "date": "2026-11-25",
+        "summary": "据报道，育碧正加大力度推动生成式AI深度融入游戏开发流程，若项目未引入相关AI工具，团队需要向公司说明原因。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据报道育碧要求开发团队必须说明未使用生成式AI的理由",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-is-reportedly-requiring-developers-to-justify-not-using-generative-ai/",
+          "date": "2026-11-25",
+          "summary": "据报道，育碧正加大力度推动生成式AI深度融入游戏开发流程，若项目未引入相关AI工具，团队需要向公司说明原因。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《鳄鱼小顽皮丹迪闯天关》确认推出Switch 2版本",
+        "url": "https://www.videogameschronicle.com/news/yooka-laylee-and-the-impossible-lair-is-getting-a-switch-2-definitive-edition/",
+        "date": "2026-11-25",
+        "summary": "Playtonic宣布平台动作游戏《Yooka-Laylee and the Impossible Lair》将推出Switch 2版本的终极版（Definitive Edition）。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《鳄鱼小顽皮丹迪闯天关》确认推出Switch 2版本",
+          "url": "https://www.videogameschronicle.com/news/yooka-laylee-and-the-impossible-lair-is-getting-a-switch-2-definitive-edition/",
+          "date": "2026-11-25",
+          "summary": "Playtonic宣布平台动作游戏《Yooka-Laylee and the Impossible Lair》将推出Switch 2版本的终极版（Definitive Edition）。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "索尼公布2026年12月PS Plus会免游戏阵容",
+        "url": "https://www.gematsu.com/2026/11/playstation-plus-monthly-games-lineup-for-december-2026-announced",
+        "date": "2026-11-25",
+        "summary": "索尼公布PlayStation Plus 2026年12月会员免费游戏名单，其中包括《托尼霍克职业滑手3+4》等作品。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "索尼公布2026年12月PS Plus会免游戏阵容",
+          "url": "https://www.gematsu.com/2026/11/playstation-plus-monthly-games-lineup-for-december-2026-announced",
+          "date": "2026-11-25",
+          "summary": "索尼公布PlayStation Plus 2026年12月会员免费游戏名单，其中包括《托尼霍克职业滑手3+4》等作品。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "腾讯《英雄联盟电竞经理》宣布2027年1月26日停运",
+        "url": "https://www.ithome.com/1/032/718.htm",
+        "date": "2026-11-26",
+        "summary": "腾讯发布公告称《英雄联盟电竞经理》将于2027年1月26日11点停止服务，自11月26日起停止充值与新用户注册，未消耗点券可在停服前兑换《英雄联盟》《无畏契约》等其他产品礼包。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "腾讯《英雄联盟电竞经理》宣布2027年1月26日停运",
+          "url": "https://www.ithome.com/1/032/718.htm",
+          "date": "2026-11-26",
+          "summary": "腾讯发布公告称《英雄联盟电竞经理》将于2027年1月26日11点停止服务，自11月26日起停止充值与新用户注册，未消耗点券可在停服前兑换《英雄联盟》《无畏契约》等其他产品礼包。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "PS5游戏《毁灭全明星》正式关服，运营近五年半落幕",
+        "url": "https://www.ithome.com/1/032/980.htm",
+        "date": "2026-11-26",
+        "summary": "Lucid Games旗下载具竞技游戏《毁灭全明星》（Destruction AllStars）服务器已下线，官方确认玩家此后仍可游玩街机模式单人挑战内容，该作2021年2月上线，运营约五年半。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "PS5游戏《毁灭全明星》正式关服，运营近五年半落幕",
+          "url": "https://www.ithome.com/1/032/980.htm",
+          "date": "2026-11-26",
+          "summary": "Lucid Games旗下载具竞技游戏《毁灭全明星》（Destruction AllStars）服务器已下线，官方确认玩家此后仍可游玩街机模式单人挑战内容，该作2021年2月上线，运营约五年半。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "B站Q3财报：总营收83.2亿元增8%，手游收入同比下滑7%至14.1亿元",
+        "url": "https://www.youxituoluo.com/535092.html",
+        "date": "2026-11-25",
+        "summary": "哔哩哔哩公布未经审计的2026年第三季度财报，总营收83.2亿元人民币同比增长8%，净利润5.04亿元；但手游业务收入同比下滑7%至14.1亿元，是唯一下滑的业务板块，主要因SLG《三国：谋定天下》去年同期高基数效应消退。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "B站Q3财报：总营收83.2亿元增8%，手游收入同比下滑7%至14.1亿元",
+          "url": "https://www.youxituoluo.com/535092.html",
+          "date": "2026-11-25",
+          "summary": "哔哩哔哩公布未经审计的2026年第三季度财报，总营收83.2亿元人民币同比增长8%，净利润5.04亿元；但手游业务收入同比下滑7%至14.1亿元，是唯一下滑的业务板块，主要因SLG《三国：谋定天下》去年同期高基数效应消退。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据报道分析师估计《使命召唤》因《GTA6》上线流失约44%玩家，回流缓慢",
+        "url": "https://www.pcgamer.com/gaming-industry/analyst-says-call-of-duty-lost-an-estimated-44-percent-of-its-players-when-gta-6-came-out-and-unlike-fans-of-its-live-service-competitors-theyve-been-slow-to-come-back/",
+        "date": "2026-11-25",
+        "summary": "据报道，有分析师估计《GTA6》发售后《使命召唤》流失了约44%的玩家，且与其他服务型游戏竞品相比，这部分玩家回流速度明显更慢。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "据报道分析师估计《使命召唤》因《GTA6》上线流失约44%玩家，回流缓慢",
+          "url": "https://www.pcgamer.com/gaming-industry/analyst-says-call-of-duty-lost-an-estimated-44-percent-of-its-players-when-gta-6-came-out-and-unlike-fans-of-its-live-service-competitors-theyve-been-slow-to-come-back/",
+          "date": "2026-11-25",
+          "summary": "据报道，有分析师估计《GTA6》发售后《使命召唤》流失了约44%的玩家，且与其他服务型游戏竞品相比，这部分玩家回流速度明显更慢。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《仁王3完全版》官宣登陆Xbox平台，2027年1月28日发售",
+        "url": "https://www.ithome.com/1/033/127.htm",
+        "date": "2026-11-26",
+        "summary": "光荣特库摩与忍者组公布《仁王3完全版》将于2027年1月28日发售，收录两款付费DLC，并首次登陆微软Xbox平台。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《仁王3完全版》官宣登陆Xbox平台，2027年1月28日发售",
+          "url": "https://www.ithome.com/1/033/127.htm",
+          "date": "2026-11-26",
+          "summary": "光荣特库摩与忍者组公布《仁王3完全版》将于2027年1月28日发售，收录两款付费DLC，并首次登陆微软Xbox平台。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "恐怖新作《HARK THE GHOUL》公布，2027年1月21日登陆PS5、Xbox、Switch 2/Switch及PC",
+        "url": "https://www.gematsu.com/2026/11/hark-the-ghoul-launches-january-21-2027-for-ps5-xbox-series-switch-2-switch-and-pc",
+        "date": "2026-11-26",
+        "summary": "新作《HARK THE GHOUL》宣布将于2027年1月21日同步登陆PS5、Xbox Series、Switch 2、Switch与PC平台。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "恐怖新作《HARK THE GHOUL》公布，2027年1月21日登陆PS5、Xbox、Switch 2/Switch及PC",
+          "url": "https://www.gematsu.com/2026/11/hark-the-ghoul-launches-january-21-2027-for-ps5-xbox-series-switch-2-switch-and-pc",
+          "date": "2026-11-26",
+          "summary": "新作《HARK THE GHOUL》宣布将于2027年1月21日同步登陆PS5、Xbox Series、Switch 2、Switch与PC平台。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "格莱美获奖乐队因任天堂版权交涉下架数十首曲目",
+        "url": "https://www.videogameschronicle.com/news/grammy-award-winning-band-removes-dozens-of-tracks-following-nintendo-copyright-issues/",
+        "date": "2026-11-25",
+        "summary": "一支格莱美获奖乐队在与任天堂发生版权交涉后，从平台上下架了数十首翻奏其游戏音乐的曲目。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "格莱美获奖乐队因任天堂版权交涉下架数十首曲目",
+          "url": "https://www.videogameschronicle.com/news/grammy-award-winning-band-removes-dozens-of-tracks-following-nintendo-copyright-issues/",
+          "date": "2026-11-25",
+          "summary": "一支格莱美获奖乐队在与任天堂发生版权交涉后，从平台上下架了数十首翻奏其游戏音乐的曲目。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "小游戏平台Playgama：2026年前九个月开发者分成收入突破100万美元",
+        "url": "https://www.pocketgamer.biz/playgama-developers-earn-over-1m-in-first-nine-months-of-2026/",
+        "date": "2026-11-25",
+        "summary": "即玩（instant games）平台Playgama披露数据称，2026年前九个月其平台上的开发者合计获得超过100万美元分成收入。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "小游戏平台Playgama：2026年前九个月开发者分成收入突破100万美元",
+          "url": "https://www.pocketgamer.biz/playgama-developers-earn-over-1m-in-first-nine-months-of-2026/",
+          "date": "2026-11-25",
+          "summary": "即玩（instant games）平台Playgama披露数据称，2026年前九个月其平台上的开发者合计获得超过100万美元分成收入。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《GTA6》带动系列手游下载量暴涨4倍",
+        "url": "https://www.pocketgamer.biz/gta-6-launch-results-in-4x-downloads-boost-for-series-mobile-games/",
+        "date": "2026-11-25",
+        "summary": "据报道，《GTA6》发售带动旗下GTA系列手游下载量较发售前出现约4倍增长，显示主机大作对移动端衍生产品的联动效应。",
+        "section": 3
+      },
+      "members": [
+        {
+          "title": "《GTA6》带动系列手游下载量暴涨4倍",
+          "url": "https://www.pocketgamer.biz/gta-6-launch-results-in-4x-downloads-boost-for-series-mobile-games/",
+          "date": "2026-11-25",
+          "summary": "据报道，《GTA6》发售带动旗下GTA系列手游下载量较发售前出现约4倍增长，显示主机大作对移动端衍生产品的联动效应。",
+          "section": 3
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

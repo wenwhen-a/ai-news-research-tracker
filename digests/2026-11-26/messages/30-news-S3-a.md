@@ -1,0 +1,9 @@
+**第三部分：24 小时游戏与投资快讯（目标至少 10 条；不限 AI 主题）**
+- **Rockstar员工投票反对加入工会，75%反对票否决成立诉求**（2026-11-26）— 此前约1600名Rockstar员工就是否成立工会进行投票，最终结果显示75%员工投下反对票，工会化提案未获通过。 <https://www.videogameschronicle.com/news/75-of-rockstars-workers-have-voted-against-unionizing/>
+- **CDPR称索尼营销协议不涉及独占，《巫师4》仍将首发同步登陆Xbox**（2026-11-25）— 针对外界关于《巫师4》与索尼营销合作是否意味着平台独占的疑虑，CD Projekt Red明确表示游戏仍将在发售当天同步登陆Xbox平台。 <https://www.videogameschronicle.com/news/no-one-gets-left-behind-cdpr-says-the-witcher-4-will-launch-on-xbox-day-one-despite-sony-agreement/>
+- **《鳄鱼小顽皮丹迪闯天关》确认推出Switch 2版本**（2026-11-25）— Playtonic宣布平台动作游戏《Yooka-Laylee and the Impossible Lair》将推出Switch 2版本的终极版（Definitive Edition）。 <https://www.videogameschronicle.com/news/yooka-laylee-and-the-impossible-lair-is-getting-a-switch-2-definitive-edition/>
+- **索尼公布2026年12月PS Plus会免游戏阵容**（2026-11-25）— 索尼公布PlayStation Plus 2026年12月会员免费游戏名单，其中包括《托尼霍克职业滑手3+4》等作品。 <https://www.gematsu.com/2026/11/playstation-plus-monthly-games-lineup-for-december-2026-announced>
+- **腾讯《英雄联盟电竞经理》宣布2027年1月26日停运**（2026-11-26）— 腾讯发布公告称《英雄联盟电竞经理》将于2027年1月26日11点停止服务，自11月26日起停止充值与新用户注册，未消耗点券可在停服前兑换《英雄联盟》《无畏契约》等其他产品礼包。 <https://www.ithome.com/1/032/718.htm>
+- **PS5游戏《毁灭全明星》正式关服，运营近五年半落幕**（2026-11-26）— Lucid Games旗下载具竞技游戏《毁灭全明星》（Destruction AllStars）服务器已下线，官方确认玩家此后仍可游玩街机模式单人挑战内容，该作2021年2月上线，运营约五年半。 <https://www.ithome.com/1/032/980.htm>
+- **B站Q3财报：总营收83.2亿元增8%，手游收入同比下滑7%至14.1亿元**（2026-11-25）— 哔哩哔哩公布未经审计的2026年第三季度财报，总营收83.2亿元人民币同比增长8%，净利润5.04亿元；但手游业务收入同比下滑7%至14.1亿元，是唯一下滑的业务板块，主要因SLG《三国：谋定天下》去年同期高基数效应消退。 <https://www.youxituoluo.com/535092.html>
+- **据报道分析师估计《使命召唤》因《GTA6》上线流失约44%玩家，回流缓慢**（2026-11-25）— 据报道，有分析师估计《GTA6》发售后《使命召唤》流失了约44%的玩家，且与其他服务型游戏竞品相比，这部分玩家回流速度明显更慢。 <https://www.pcgamer.com/gaming-industry/analyst-says-call-of-duty-lost-an-estimated-44-percent-of-its-players-when-gta-6-came-out-and-unlike-fans-of-its-live-service-competitors-theyve-been-slow-to-come-back/>

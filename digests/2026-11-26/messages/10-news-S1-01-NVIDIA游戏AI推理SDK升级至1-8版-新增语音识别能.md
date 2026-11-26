@@ -1,0 +1,13 @@
+**[新闻 1] NVIDIA游戏AI推理SDK升级至1.8版，新增语音识别能力并全面扩展对RTX Spark平台的支持**
+- **日期：** 2026-11-24
+- **来源链接：** <https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/>
+- **核心事实：**
+  - NVIDIA开发者博客发布公告：In-Game Inferencing SDK升级至1.8版本，更新了面向NVIDIA ACE游戏AI角色的llama.cpp与whisper.cpp推理后端，并新增基于whisper.cpp的Parakeet自动语音识别（ASR）能力，同时加入Vulkan优先级API等改进。
+  - In-Game Inferencing SDK让开发者可以在GPU与CPU上本地运行NVIDIA ACE AI模型，与游戏图形渲染并行执行，无需依赖云端算力。
+  - 新增的Parakeet自动语音识别通过whisper.cpp后端实现，可用于让玩家以语音与游戏内AI角色互动。
+  - 同一批更新还包括RTX Dynamic Illumination 3.2、RTX Path Tracing 1.9与Real-Time BVH Viewer 1.0，三者均同步强化了对RTX Spark平台的支持。
+- **背景与起因：**
+  - RTX Spark是NVIDIA今年推出的面向本地AI开发与游戏的紧凑型Windows主机/工作站平台，此次SDK升级是其开发者工具链进一步成熟、向本地离线AI推理靠拢的信号。
+  - 同一篇博客同时介绍了AI文本驱动动作生成模型Kimodo已集成进《虚幻引擎5.9》预览版的引导式动画框架（该集成已作为独立产品条目记录在研究追踪器Part B中），显示NVIDIA正围绕"本地AI推理+游戏引擎工具链"同步推进其游戏开发者生态布局。
+- **结果与进展：**
+  - 开发者现可使用升级后的In-Game Inferencing SDK 1.8获得语音识别与本地推理能力；面向RTX Spark平台的四款开发者工具（SDK本身、RTX Dynamic Illumination 3.2、RTX Path Tracing 1.9、Real-Time BVH Viewer 1.0）均已完成适配并发布。

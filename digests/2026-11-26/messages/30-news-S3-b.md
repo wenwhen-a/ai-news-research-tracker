@@ -1,0 +1,3 @@
+- **格莱美获奖乐队因任天堂版权交涉下架数十首曲目**（2026-11-25）— 一支格莱美获奖乐队在与任天堂发生版权交涉后，从平台上下架了数十首翻奏其游戏音乐的曲目。 <https://www.videogameschronicle.com/news/grammy-award-winning-band-removes-dozens-of-tracks-following-nintendo-copyright-issues/>
+- **小游戏平台Playgama：2026年前九个月开发者分成收入突破100万美元**（2026-11-25）— 即玩（instant games）平台Playgama披露数据称，2026年前九个月其平台上的开发者合计获得超过100万美元分成收入。 <https://www.pocketgamer.biz/playgama-developers-earn-over-1m-in-first-nine-months-of-2026/>
+- **《GTA6》带动系列手游下载量暴涨4倍**（2026-11-25）— 据报道，《GTA6》发售带动旗下GTA系列手游下载量较发售前出现约4倍增长，显示主机大作对移动端衍生产品的联动效应。 <https://www.pocketgamer.biz/gta-6-launch-results-in-4x-downloads-boost-for-series-mobile-games/>

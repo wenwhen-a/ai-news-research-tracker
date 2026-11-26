@@ -26014,7 +26014,7 @@
  "2611.26730": {
   "status": "screened-out",
   "first_seen": "2026-11-23",
-  "title": "SparseHPS: A Unified Model for Human Pose and Shape across Depth Cameras and LiDARs",
+  "title": "SparseHPS: A Unified Model for Human Pose and Shape Estimation across Depth Cameras and LiDARs",
   "submitted": "2026-11-19T19:25:14Z"
  },
  "2611.26717": {
@@ -27348,5 +27348,503 @@
   "first_seen": "2026-11-25",
   "submitted": "2026-11-23T19:14:07Z",
   "title": "Enhancing Sparse-View Gaussian Splatting with Feed-Forward Priors via Spectral Fusion and Distillation"
+ },
+ "2611.34944": {
+  "status": "qualified",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T18:59:59Z",
+  "title": "AnyCam: Anything Can Represent Camera for Video Generation",
+  "affiliation": "Adobe Research — Zhixin Shu (co-authors: Weijie Lyu and Ming-Hsuan Yang, UC Merced; Yuntian Ke, University of Pennsylvania)",
+  "url": "https://arxiv.org/abs/2611.34944",
+  "summary": "AnyCam is a camera-controlled video generation method that represents the target camera trajectory with a reconstructed 3D anchor object rendered along that trajectory, rather than conditioning directly on camera parameters or explicit scene geometry."
+ },
+ "2611.34940": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T18:59:46Z",
+  "title": "LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies"
+ },
+ "2611.34939": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T18:59:45Z",
+  "title": "A Mesh for Every Moment"
+ },
+ "2611.34932": {
+  "status": "near-miss",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T18:59:23Z",
+  "title": "MERLoc: Robust Robot Localization in Dynamic Environments with Pose-Based Retrieval over 3D Gaussian Splatting References"
+ },
+ "2611.34907": {
+  "status": "qualified",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T18:54:03Z",
+  "title": "Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation",
+  "affiliation": "NVIDIA — Shuai Yang, Wei Huang, Luozhou Wang, Song Han, Yukang Chen (Song Han also lists MIT; Shaoteng Liu lists CUHK)",
+  "url": "https://arxiv.org/abs/2611.34907",
+  "summary": "The paper presents Agentic LongLive, an asynchronous memory system for real-time autoregressive video generators that keeps persistent text/image state for people, objects, and scenes across long generations."
+ },
+ "2611.34830": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T18:11:49Z",
+  "title": "Not all world models can doubt: how training objective and architecture shape epistemic uncertainty in JEPA and RSSM world models"
+ },
+ "2611.34813": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T18:01:22Z",
+  "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models"
+ },
+ "2611.34810": {
+  "status": "qualified",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T17:58:06Z",
+  "title": "WorldExpand: Building Coherent 3D Worlds via Sparse Joint Panoramic Expansion",
+  "affiliation": "Tencent Hunyuan — all authors are listed under joint affiliation with Beijing Jiaotong University and Tencent Hunyuan in the paper's author block",
+  "url": "https://arxiv.org/abs/2611.34810",
+  "summary": "WorldExpand builds complete 3D worlds from a single panorama by generating a sparse set of complementary, high-resolution panoramas instead of a dense sequential video."
+ },
+ "2611.34783": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T17:41:34Z",
+  "title": "SceneDesigner3D: Agentic Evolutionary Search for Principled Rearrangement of 3D Indoor Scenes"
+ },
+ "2611.34739": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T17:18:15Z",
+  "title": "Was the Model Given the Right Action? Auditing and Repairing Action Interfaces in Navigation World Models"
+ },
+ "2611.34730": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T17:14:27Z",
+  "title": "WorldInteract: Controllable Streaming Video Generation for Multi-Material Interactions"
+ },
+ "2611.34693": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T16:52:46Z",
+  "title": "ShowNow: Fine-Grained Speculative Streaming for Responsive World Models"
+ },
+ "2611.34680": {
+  "status": "qualified",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T16:44:16Z",
+  "title": "Neural Rendering Compiler: Generative Video Models as Programmable Renderers",
+  "affiliation": "Tencent (listed as one of three institutional affiliations — Peking University, University of Chinese Academy of Sciences, Tencent — in the paper's affiliation block; the arXiv HTML rendering did not preserve which individual authors map to which numbered affiliation, so exact author-to-Tencent mapping could not be confirmed, only that Tencent is a genuine listed affiliation for the author group)",
+  "url": "https://arxiv.org/abs/2611.34680",
+  "summary": "The paper introduces the Neural Rendering Compiler (NeurCo), which probes frozen video generation models to learn which semantic requirements each model can reliably satisfy, then compiles a model-agnostic user intent (objects, constraints, events, cameras) into model-specific execution strategies."
+ },
+ "2611.34656": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T16:29:37Z",
+  "title": "Do We Still Need Reinforcement Learning When We Can Read the World Model?"
+ },
+ "2611.34644": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T16:24:11Z",
+  "title": "Motion Beyond Pixels: Learning Future Visual Representations for Object-Centric Dynamics"
+ },
+ "2611.34622": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T16:08:58Z",
+  "title": "Beyond Pose Control: Anatomically Consistent Ultrasound Video Generation"
+ },
+ "2611.34597": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T15:56:47Z",
+  "title": "$μ$MPC: Microsecond-Scale Nonlinear and World Model Control from Edge to GPU via Koopman-Linearized Precompilation"
+ },
+ "2611.34519": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T15:06:26Z",
+  "title": "AGLR: Attribute-Guided Latent Refinement for Fine-Grained Humanoid Motion Generation and Editing"
+ },
+ "2611.34509": {
+  "status": "near-miss",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T14:58:31Z",
+  "title": "Long-Horizon Planning with Latent World Models via Graph Anchors"
+ },
+ "2611.34489": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T14:48:48Z",
+  "title": "Who Is Ego? Scaling Cross-View Camera Wearer Identification and Segmentation beyond Humans"
+ },
+ "2611.34478": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T14:43:03Z",
+  "title": "Feed-Forward Adaptive Gaussian Splatting for Interactive Medical Volume Rendering"
+ },
+ "2611.34476": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T14:41:33Z",
+  "title": "TACC: Target-Aware Carrier Compression for Dense-Context Novel View Synthesis"
+ },
+ "2611.34457": {
+  "status": "qualified",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T14:31:23Z",
+  "title": "ProxyGenBench: Benchmarking Proxy-Guided Video Generation",
+  "affiliation": "Tencent — Xiaotong Zhao, Ran Zhang, Shuai Li, Haotian Fan, Haobin Zhong, Yanni Zhang, Songlian Li, Ning Zhang, Xun Gao, Alan Zhao (affiliation #4 in the paper's institution list)",
+  "url": "https://arxiv.org/abs/2611.34457",
+  "summary": "ProxyGenBench is a benchmark for proxy-guided video generation, where structural proxies such as animated 3D blockouts guide a video generator's layout, motion, camera behavior, and event order."
+ },
+ "2611.34435": {
+  "status": "qualified",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T14:19:27Z",
+  "title": "Most of the Way There: Turning a Strong Video Prior into an Action-Conditioned World Model",
+  "affiliation": "Horizon Robotics — Xia Chen, Liu Liu, Tingyang Xiao, Zhizhong Su (also Zanyi Wang, UC San Diego/Horizon Robotics); FLAG: borderline (Horizon Robotics is a Chinese autonomous-driving/robotics chip and AI company; comparability to the core qualified-company list is a judgment call)",
+  "url": "https://arxiv.org/abs/2611.34435",
+  "summary": "The paper presents Dianjing, which adapts a strong pretrained video foundation model (MiniMax H3, 33B parameters) into an action-conditioned world model for robotics with minimal added training."
+ },
+ "2611.34422": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T14:12:10Z",
+  "title": "Can Visual World Models See Force?"
+ },
+ "2611.34319": {
+  "status": "qualified",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T13:05:42Z",
+  "title": "PostMesh: Self-Rewarded Preference Post-Training for Flow-Based Artist Mesh Generation",
+  "affiliation": "Amazon — Gihyun Kwon (note: the paper's author-notes footnote states \"Work done outside Amazon,\" so this may not represent Amazon-sponsored research; included per the listed affiliation but flagged for this caveat)",
+  "url": "https://arxiv.org/abs/2611.34319",
+  "summary": "PostMesh is presented as the first post-training method for diffusion/flow-based artist mesh generators, which are much faster than autoregressive mesh generators but previously produced lower artist-quality output."
+ },
+ "2611.34302": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T12:54:52Z",
+  "title": "Co-World Model for Human-Video-to-Robot Transfer via Co-Constructed Shared Latent Dynamics"
+ },
+ "2611.34288": {
+  "status": "qualified",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T12:41:56Z",
+  "title": "Rehearse in 3D, Render in 2D: Physically Consistent and Editable Robot World Models",
+  "affiliation": "Huawei Technologies Ltd. (listed among three affiliations — Tongji University, Huawei Technologies Ltd., Zhejiang University — exact per-author mapping not resolved in the HTML render); FLAG: borderline (Huawei's comparability to the core qualified-company list is a judgment call per the tracker's borderline-company guidance)",
+  "url": "https://arxiv.org/abs/2611.34288",
+  "summary": "The paper introduces RehearsalWorld, an editable robot world model built on \"3D Interaction Rehearsal\": a pretrained 3D point-flow motion prior is refined to preserve scene stability, object structure, and grasp attachments, then projected into geometric conditioning for a fine-tuned video generator"
+ },
+ "2611.34261": {
+  "status": "near-miss",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T12:24:14Z",
+  "title": "TORE: Token-Wise Taylor Order Selection via Decomposed Residual Error Estimation for Diffusion Acceleration"
+ },
+ "2611.34237": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T11:59:44Z",
+  "title": "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation"
+ },
+ "2611.34226": {
+  "status": "qualified",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T11:51:37Z",
+  "title": "LiveRelight: Sub-Second Global Illumination Editing for Gaussian Interiors",
+  "affiliation": "Google DeepMind — Dor Verbin (other authors: University of Copenhagen)",
+  "url": "https://arxiv.org/abs/2611.34226",
+  "summary": "LiveRelight is a hybrid relighting method for 3D-Gaussian-splatting reconstructions of indoor scenes that supports sub-second edits to direct and indirect illumination, including changes to emission and surface reflectance, without re-running per-edit optimization."
+ },
+ "2611.34223": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T11:47:58Z",
+  "title": "AnyCam4D: Ray-Based 4D Gaussian Rendering for Arbitrary Camera Models"
+ },
+ "2611.34155": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T10:49:40Z",
+  "title": "OceanFix: Reference-Guided Diffusion for Sparse-View Underwater 3D Reconstruction"
+ },
+ "2611.34141": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T10:40:00Z",
+  "title": "Spe3DUp: Faithful Trajectory Distillation for Fast Image-to-3D Generation"
+ },
+ "2611.34130": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T10:30:48Z",
+  "title": "WorldPhy: Benchmarking Fine-Grained Physical Plausibility of World Models in Robotics"
+ },
+ "2611.34115": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T10:17:35Z",
+  "title": "A Simple Yet Effective Agent for Open-World Aerial Object Search"
+ },
+ "2611.34067": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T09:39:19Z",
+  "title": "When to Respond, Where to Ground: Streaming 3D Affordance Grounding"
+ },
+ "2611.34062": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T09:36:20Z",
+  "title": "Surf-Style: Surface-Based Scene Stylization"
+ },
+ "2611.34054": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T09:31:37Z",
+  "title": "CARE-WM: Same-Horizon Self-Conditioning with Constraint-Adaptive Regularization for Latent World Models"
+ },
+ "2611.34027": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T09:13:29Z",
+  "title": "ContextHands: Completing Hand Motion with Learned Context and Joint-Specific Body Kinematics"
+ },
+ "2611.34022": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T09:09:12Z",
+  "title": "MoSk: A Unified Motion-Skeleton Foundation Model for Human Motion Understanding and Generation"
+ },
+ "2611.33993": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T08:46:50Z",
+  "title": "Aegis-VLA: Reliability-Gated Action Refinement via a Trajectory World Model for Dynamic Object Manipulation"
+ },
+ "2611.33939": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T07:57:29Z",
+  "title": "CondUQ: Calibrated Conditional Uncertainty Quantification Using Distribution Matching"
+ },
+ "2611.33925": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T07:45:51Z",
+  "title": "Beyond the Happy Path: Generalizing Robot World Models from Simulated Failures"
+ },
+ "2611.33920": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T07:39:20Z",
+  "title": "UPP-Gauss: Ultrasound Propagation Physics-informed Gaussian Splatting for B-mode Novel-View Synthesis"
+ },
+ "2611.33911": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T07:29:12Z",
+  "title": "CoTAMP: Cooperative Task and Motion Planning for Quadruped Robots with Large Language Models"
+ },
+ "2611.33905": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T07:27:09Z",
+  "title": "Tortho-Gaussian++: Suppressing Geometric Drift and Floaters for Robust Gravity-Aligned TDOM Generation in Large-Scale Aerial Scenes"
+ },
+ "2611.33886": {
+  "status": "qualified",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T07:00:59Z",
+  "title": "DeltaRAE: Derivative Tokenization for Long Video Generation",
+  "affiliation": "Google — Mingzhuo Yu, Di Jiang; Google DeepMind — Shengcao Cao, Yong Cheng, Lijun Yu (Chengzhi Mao: Rutgers University)",
+  "url": "https://arxiv.org/abs/2611.33886",
+  "summary": "DeltaRAE is a causal video \"representation autoencoder\" that fully encodes periodic anchor frames and represents all other frames with only a handful of tokens each via derivative (\"delta\") tokenization, leaning on a frozen pretrained image encoder."
+ },
+ "2611.33872": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T06:52:43Z",
+  "title": "Normalizing Flows are Capable World Models"
+ },
+ "2611.33835": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T06:03:25Z",
+  "title": "3D CoCa v3: Contrastive Learners with Scene Graphs for Urban Scene Understanding"
+ },
+ "2611.33826": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T05:55:45Z",
+  "title": "MotionODE: Enhancing Autoregressive Text-to-Motion Generation with Continuous-Depth Modeling"
+ },
+ "2611.33824": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T05:54:14Z",
+  "title": "Revisiting Monocular In-Hand Object Scanning: Dataset, Pose Estimation, and Surface Reconstruction"
+ },
+ "2611.33819": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T05:48:24Z",
+  "title": "MMotion: Collaborative Cross-Scale Memory for Text-to-Motion Generation"
+ },
+ "2611.33797": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T05:23:59Z",
+  "title": "DriftWAM: Faster World-Action Models via Action-Aware Video Drifting"
+ },
+ "2611.33796": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T05:21:54Z",
+  "title": "SprintGS: Eliminating Redundancy for Fast 3D Gaussian Splatting Training"
+ },
+ "2611.33779": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T05:04:06Z",
+  "title": "DuoWM:Integrating Dual 6-DoF Visual Flows into Action-Conditioned Drone World Model"
+ },
+ "2611.33775": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T05:00:19Z",
+  "title": "CHD-Bench: Diagnosing Congenital Heart Disease through Interactive Examination"
+ },
+ "2611.33764": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T04:25:59Z",
+  "title": "Improving Building Energy Efficiency with an Indoor Environmental World Model and Counterfactual Adaptive Learning"
+ },
+ "2611.33761": {
+  "status": "near-miss",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T04:18:55Z",
+  "title": "ScanAR: Parallel Row-Scan Decoding for Efficient Image Generation in Unified Autoregressive Models"
+ },
+ "2611.33745": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T04:06:11Z",
+  "title": "WhatIf: Counterfactual World Models over Action-Grounded Causal Graphs for Robotic Manipulation"
+ },
+ "2611.33734": {
+  "status": "near-miss",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T03:54:18Z",
+  "title": "(title on page: \"DualCast: Dual-Image Conditioned Diffusion Transformers for Digital Human E-Commerce Video Generation\"; the page's actual abstract describes an unrelated system, \"GameWeaver,\" for game camera-trajectory/video generation — an arXiv metadata mismatch)"
+ },
+ "2611.33698": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T03:07:19Z",
+  "title": "Efficient Scene-Distribution-Aware Second-Order Optimization for 3D Gaussian Splatting"
+ },
+ "2611.33693": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T02:58:48Z",
+  "title": "GeoTex: Geometry-as-Texture Encoding and History-Grounded 4D Occupancy Forecasting"
+ },
+ "2611.33682": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T02:47:02Z",
+  "title": "WorldUAV: Scaling UAV Data Synthesis via World Models"
+ },
+ "2611.33650": {
+  "status": "near-miss",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T02:17:32Z",
+  "title": "Linear-Time Online Visual Geometry Transformer with Hybrid Architecture (LinearVGGT)"
+ },
+ "2611.33591": {
+  "status": "qualified",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-25T01:00:43Z",
+  "title": "VivaWorld: Long-Horizon Video World Model With Compositional 3D Priors",
+  "affiliation": "NVIDIA — all authors",
+  "url": "https://arxiv.org/abs/2611.33591",
+  "summary": "VivaWorld generates long, geometry- and view-consistent videos from a single input image with accurate camera control, aimed at long-horizon world exploration."
+ },
+ "2611.33467": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-24T21:43:32Z",
+  "title": "SplatWAM: Splatting World Action Models for Real-Time 3D Imagination"
+ },
+ "2611.33465": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-24T21:40:03Z",
+  "title": "OrdiHand-GS: Ordinal-Guided Tracking and Hand-Refined Gaussian Avatars for Digital Signers"
+ },
+ "2611.33460": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-24T21:36:26Z",
+  "title": "Fast Muscle-Driven Whole-Body Motion Tracking with a Differentiable World Model"
+ },
+ "2611.33457": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-24T21:30:09Z",
+  "title": "Playfulness as Feedback for Agentic Game Development"
+ },
+ "2611.33407": {
+  "status": "near-miss",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-24T20:33:56Z",
+  "title": "An Adversarial Multi-Agent Pursuit Game for Locomotor Agility Pretraining"
+ },
+ "2611.33387": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-24T20:10:55Z",
+  "title": "Synchronizing Cameras via 3D Object Relationships"
+ },
+ "2611.33380": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-24T20:05:59Z",
+  "title": "FOCI: Trajectory Optimization on Gaussian Splats for Gaussian Robots"
+ },
+ "2611.33378": {
+  "status": "qualified",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-24T20:05:52Z",
+  "title": "DreamTour: Layout Steering for Training-Free World Exploration",
+  "affiliation": "Amazon — Srikumar Sastry, Allen Tu (paper states the work was completed during an internship at Amazon)",
+  "url": "https://arxiv.org/abs/2611.33378",
+  "summary": "DreamTour is a training-free method that turns a single image into a long, camera-controllable video \"tour\" of the implied 3D scene."
+ },
+ "2611.33374": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-24T20:03:06Z",
+  "title": "VersionGS: Compact and Motion-Robust Dynamic Gaussian Splatting via Versioned Gaussians"
+ },
+ "2611.33303": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-24T19:00:49Z",
+  "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data"
+ },
+ "2611.33268": {
+  "status": "screened-out",
+  "first_seen": "2026-11-26",
+  "submitted": "2026-11-24T18:59:48Z",
+  "title": "JetDiffusion: Pushing the Speed Limits of Video Generation with NVFP4 Sparse Attention"
  }
 }
