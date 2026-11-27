@@ -1,0 +1,13 @@
+**[新闻 1] 育碧否认强制员工使用生成式AI，此前报道称开发者须为不用AI作出说明**
+- **日期：** 2026-11-26
+- **来源链接：** <https://www.videogameschronicle.com/news/ubisoft-denies-requiring-developers-to-use-generative-ai/> （背景报道：<https://www.videogameschronicle.com/news/ubisoft-is-reportedly-requiring-developers-to-justify-not-using-generative-ai/> ，原始消息来源 Vertical Slice）
+- **核心事实：**
+  - 据 Vertical Slice 11月25日报道（经 VGC 转载），育碧要求为新项目立项的开发者说明将如何使用生成式AI，若团队不打算使用AI则需给出理由。
+  - 育碧于11月26日回应 VGC，称公司并未设立"全公司范围的AI强制使用政策"，但表示会鼓励团队探索AI可以提供帮助的场景。
+  - VGC 指出，育碧的回应并未直接否认"开发者需为不使用AI作出说明"这一具体说法，只是否定了存在"强制性AI政策"的表述方式。
+- **背景与起因：**
+  - 该报道紧随育碧公布本财年上半财年业绩：净预订额同比下跌16.5%至6.447亿欧元，经营性现金流亏损3.239亿欧元，股价应声下跌11%，公司同时下调第三季度展望。
+  - 同一份财报中，育碧披露将原"Teammates"AI原型团队整合为独立子公司 Motherbrain，专注开发面向游戏玩法与"智能NPC"的自研生成式AI技术，作为公司业绩转型的核心押注之一；育碧近期也进行了相关裁员。
+- **结果与进展：**
+  - 截至目前，育碧仅通过书面声明回应，未公开具体的AI使用政策文件，也未说明不使用AI时具体需要走何种"说明"流程。
+  - 该事件在 VGC 上形成连续报道（11月25日原始报道、11月26日公司回应），后续是否会有更正式的官方政策声明仍待观察。

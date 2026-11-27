@@ -1,0 +1,340 @@
+{
+  "as_of": "2026-11-27",
+  "cutoff": "2026-11-26",
+  "window_days": 1,
+  "summary": {
+    "input_items": 14,
+    "denied_source": 0,
+    "in_window": 14,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 14,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 14,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": true,
+    "new_vs_previous": 14,
+    "previously_covered_count": 0
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Rockstar UK staff vote overwhelmingly against union recognition",
+        "url": "https://www.pcgamer.com/gaming-industry/rockstar-workers-vote-overwhelmingly-against-union-recognition/",
+        "date": "2026-11-26",
+        "summary": "Rockstar Games' roughly 1,600 UK-based staff voted against recognizing the IWGB-affiliated Rockstar Game Workers Union, in a ballot that ran from November 12 to November 26. The vote follows a voluntary recognition request workers filed in June 2026 and comes alongside a separate ongoing tribunal over 2025 firings.",
+        "section": 3,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Rockstar UK staff vote overwhelmingly against union recognition",
+          "url": "https://www.pcgamer.com/gaming-industry/rockstar-workers-vote-overwhelmingly-against-union-recognition/",
+          "date": "2026-11-26",
+          "summary": "Rockstar Games' roughly 1,600 UK-based staff voted against recognizing the IWGB-affiliated Rockstar Game Workers Union, in a ballot that ran from November 12 to November 26. The vote follows a voluntary recognition request workers filed in June 2026 and comes alongside a separate ongoing tribunal over 2025 firings.",
+          "section": 3,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Marvelous offers early retirement, aims to cut 65 jobs in Consumer Business Division",
+        "url": "https://www.videogameschronicle.com/news/story-of-seasons-and-rune-factory-developer-marvelous-is-offering-early-retirement-as-it-tries-to-cut-65-jobs/",
+        "date": "2026-11-27",
+        "summary": "Marvelous Inc., developer of Story of Seasons and Rune Factory, launched a voluntary \"External Career Transition Support Program\" targeting 65 roles in its console/PC Consumer Business Division as it shifts more development to outside studios. Applications run December 14, 2026 to January 8, 2027, with departures by March 31, 2027 and a lump-sum payment.",
+        "section": 3,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Marvelous offers early retirement, aims to cut 65 jobs in Consumer Business Division",
+          "url": "https://www.videogameschronicle.com/news/story-of-seasons-and-rune-factory-developer-marvelous-is-offering-early-retirement-as-it-tries-to-cut-65-jobs/",
+          "date": "2026-11-27",
+          "summary": "Marvelous Inc., developer of Story of Seasons and Rune Factory, launched a voluntary \"External Career Transition Support Program\" targeting 65 roles in its console/PC Consumer Business Division as it shifts more development to outside studios. Applications run December 14, 2026 to January 8, 2027, with departures by March 31, 2027 and a lump-sum payment.",
+          "section": 3,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "New Radical Games' Simpsons: Hit & Run remake reportedly cancelled",
+        "url": "https://www.videogameschronicle.com/news/the-simpsons-hit-run-remake-may-have-been-cancelled-as-developer-drops-hints-they-were-working-on-it/",
+        "date": "2026-11-27",
+        "summary": "据报道, New Radical Games senior designer Darren Evenson said on LinkedIn that the studio's unannounced project was scrapped as part of a wider round of cancellations, fueling speculation that a rumored Simpsons: Hit & Run remake has been cancelled. Evenson did not explicitly confirm the project was Hit & Run, so VGC flags the identification as unconfirmed.",
+        "section": 3,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "New Radical Games' Simpsons: Hit & Run remake reportedly cancelled",
+          "url": "https://www.videogameschronicle.com/news/the-simpsons-hit-run-remake-may-have-been-cancelled-as-developer-drops-hints-they-were-working-on-it/",
+          "date": "2026-11-27",
+          "summary": "据报道, New Radical Games senior designer Darren Evenson said on LinkedIn that the studio's unannounced project was scrapped as part of a wider round of cancellations, fueling speculation that a rumored Simpsons: Hit & Run remake has been cancelled. Evenson did not explicitly confirm the project was Hit & Run, so VGC flags the identification as unconfirmed.",
+          "section": 3,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "GTA 6's Lucia actress Manni L. Perez thanks fans, says she worked on the game 'almost a decade'",
+        "url": "https://www.videogameschronicle.com/news/lucia-actress-manni-l-perez-claims-she-worked-on-gta-6-for-almost-a-decade/",
+        "date": "2026-11-26",
+        "summary": "Manni L. Perez, the actress who plays Lucia in Grand Theft Auto VI, said publicly that she worked on the record-breaking game for close to a decade, following its launch.",
+        "section": 3,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "GTA 6's Lucia actress Manni L. Perez thanks fans, says she worked on the game 'almost a decade'",
+          "url": "https://www.videogameschronicle.com/news/lucia-actress-manni-l-perez-claims-she-worked-on-gta-6-for-almost-a-decade/",
+          "date": "2026-11-26",
+          "summary": "Manni L. Perez, the actress who plays Lucia in Grand Theft Auto VI, said publicly that she worked on the record-breaking game for close to a decade, following its launch.",
+          "section": 3,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "GTA 6's car physics were tuned by a Gran Turismo veteran",
+        "url": "https://www.pushsquare.com/news/2026/11/gta-6s-car-physics-were-tuned-by-a-gran-turismo-pro",
+        "date": "2026-11-27",
+        "summary": "Push Square reports that Rockstar brought in a driving-physics specialist with a Gran Turismo background to help tune Grand Theft Auto VI's vehicle handling.",
+        "section": 3,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "GTA 6's car physics were tuned by a Gran Turismo veteran",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-car-physics-were-tuned-by-a-gran-turismo-pro",
+          "date": "2026-11-27",
+          "summary": "Push Square reports that Rockstar brought in a driving-physics specialist with a Gran Turismo background to help tune Grand Theft Auto VI's vehicle handling.",
+          "section": 3,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Melon Sandbox creator payouts rise 102% to $1.37m in 2026",
+        "url": "https://www.pocketgamer.biz/melon-sandbox-creator-payouts-rise-102-to-137m-in-2026/",
+        "date": "2026-11-27",
+        "summary": "User-generated content platform Melon reported that payouts to Sandbox creators more than doubled year-on-year to $1.37 million in 2026, pointing to growth in its creator economy.",
+        "section": 3,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Melon Sandbox creator payouts rise 102% to $1.37m in 2026",
+          "url": "https://www.pocketgamer.biz/melon-sandbox-creator-payouts-rise-102-to-137m-in-2026/",
+          "date": "2026-11-27",
+          "summary": "User-generated content platform Melon reported that payouts to Sandbox creators more than doubled year-on-year to $1.37 million in 2026, pointing to growth in its creator economy.",
+          "section": 3,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Roblox signs music licensing agreement with PRS for Music",
+        "url": "https://www.pocketgamer.biz/roblox-signs-music-licensing-agreement-with-prs-for-music/",
+        "date": "2026-11-26",
+        "summary": "Roblox signed a licensing deal with UK performing-rights organization PRS for Music, allowing music from PRS members to be used legally within Roblox experiences.",
+        "section": 3,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Roblox signs music licensing agreement with PRS for Music",
+          "url": "https://www.pocketgamer.biz/roblox-signs-music-licensing-agreement-with-prs-for-music/",
+          "date": "2026-11-26",
+          "summary": "Roblox signed a licensing deal with UK performing-rights organization PRS for Music, allowing music from PRS members to be used legally within Roblox experiences.",
+          "section": 3,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "PocketGamer.biz: how much direct-to-consumer revenue game publishers really made in Q3 2026",
+        "url": "https://www.pocketgamer.biz/revealed-how-much-direct-to-consumer-revenue-games-publishers-really-made-in-q3-2026/",
+        "date": "2026-11-27",
+        "summary": "PocketGamer.biz published a data analysis breaking down how much revenue major games publishers generated directly from consumers (bypassing app-store cuts) in Q3 2026, based on industry financial reporting.",
+        "section": 3,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "PocketGamer.biz: how much direct-to-consumer revenue game publishers really made in Q3 2026",
+          "url": "https://www.pocketgamer.biz/revealed-how-much-direct-to-consumer-revenue-games-publishers-really-made-in-q3-2026/",
+          "date": "2026-11-27",
+          "summary": "PocketGamer.biz published a data analysis breaking down how much revenue major games publishers generated directly from consumers (bypassing app-store cuts) in Q3 2026, based on industry financial reporting.",
+          "section": 3,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "How World War Heroes merged over 100 million player accounts and reshaped matchmaking",
+        "url": "https://www.pocketgamer.biz/how-world-war-heroes-merged-100m-player-accounts-and-reshaped-matchmaking/",
+        "date": "2026-11-26",
+        "summary": "PocketGamer.biz detailed how mobile shooter World War Heroes' developer consolidated over 100 million player accounts across regions and overhauled its matchmaking system as part of a technical migration.",
+        "section": 3,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "How World War Heroes merged over 100 million player accounts and reshaped matchmaking",
+          "url": "https://www.pocketgamer.biz/how-world-war-heroes-merged-100m-player-accounts-and-reshaped-matchmaking/",
+          "date": "2026-11-26",
+          "summary": "PocketGamer.biz detailed how mobile shooter World War Heroes' developer consolidated over 100 million player accounts across regions and overhauled its matchmaking system as part of a technical migration.",
+          "section": 3,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Hollow Knight: Silksong free expansion 'Sea of Sorrow' launches December 11",
+        "url": "https://www.gematsu.com/2026/11/hollow-knight-silksong-free-expansion-sea-of-sorrow-launches-december-11",
+        "date": "2026-11-27",
+        "summary": "Team Cherry announced that a free content expansion for Hollow Knight: Silksong, titled 'Sea of Sorrow,' will launch on December 11, 2026, adding new content to the hit title.",
+        "section": 3,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Hollow Knight: Silksong free expansion 'Sea of Sorrow' launches December 11",
+          "url": "https://www.gematsu.com/2026/11/hollow-knight-silksong-free-expansion-sea-of-sorrow-launches-december-11",
+          "date": "2026-11-27",
+          "summary": "Team Cherry announced that a free content expansion for Hollow Knight: Silksong, titled 'Sea of Sorrow,' will launch on December 11, 2026, adding new content to the hit title.",
+          "section": 3,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "China's LVG advances to CS2 PGL Major Singapore 2026 stage two with 3-2 win",
+        "url": "https://www.ithome.com/1/033/535.htm",
+        "date": "2026-11-27",
+        "summary": "Chinese esports team LVG defeated its opponent 3-2 to advance to the second stage of the Counter-Strike 2 PGL Major Singapore 2026 tournament, per IT之家.",
+        "section": 3,
+        "source_tier": "other (IT之家)"
+      },
+      "members": [
+        {
+          "title": "China's LVG advances to CS2 PGL Major Singapore 2026 stage two with 3-2 win",
+          "url": "https://www.ithome.com/1/033/535.htm",
+          "date": "2026-11-27",
+          "summary": "Chinese esports team LVG defeated its opponent 3-2 to advance to the second stage of the Counter-Strike 2 PGL Major Singapore 2026 tournament, per IT之家.",
+          "section": 3,
+          "source_tier": "other (IT之家)"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Sony files new patent for a controller button that switches graphics quality/frame-rate modes on the fly",
+        "url": "https://www.ithome.com/1/033/351.htm",
+        "date": "2026-11-27",
+        "summary": "据报道 (IT之家), Sony filed a patent for a PlayStation controller with a dedicated button letting players toggle between graphics-quality and performance (frame-rate) modes during gameplay. The feature's commercial plans, if any, are unconfirmed.",
+        "section": 3,
+        "source_tier": "other (IT之家)"
+      },
+      "members": [
+        {
+          "title": "Sony files new patent for a controller button that switches graphics quality/frame-rate modes on the fly",
+          "url": "https://www.ithome.com/1/033/351.htm",
+          "date": "2026-11-27",
+          "summary": "据报道 (IT之家), Sony filed a patent for a PlayStation controller with a dedicated button letting players toggle between graphics-quality and performance (frame-rate) modes during gameplay. The feature's commercial plans, if any, are unconfirmed.",
+          "section": 3,
+          "source_tier": "other (IT之家)"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "AMD's new Vulkan extension cuts VRAM usage for ray-traced games by up to ~92%",
+        "url": "https://www.ithome.com/1/033/178.htm",
+        "date": "2026-11-27",
+        "summary": "据报道 (IT之家), AMD introduced a new Vulkan-based technique aimed at reducing video memory consumption in ray-tracing-enabled games, with reported VRAM savings of up to about 92% in some scenarios.",
+        "section": 3,
+        "source_tier": "other (IT之家)"
+      },
+      "members": [
+        {
+          "title": "AMD's new Vulkan extension cuts VRAM usage for ray-traced games by up to ~92%",
+          "url": "https://www.ithome.com/1/033/178.htm",
+          "date": "2026-11-27",
+          "summary": "据报道 (IT之家), AMD introduced a new Vulkan-based technique aimed at reducing video memory consumption in ray-tracing-enabled games, with reported VRAM savings of up to about 92% in some scenarios.",
+          "section": 3,
+          "source_tier": "other (IT之家)"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Fans race to port leaked 209GB GTA 6 PC build, with some reporting 60FPS unlocked in parts",
+        "url": "https://www.ithome.com/1/033/173.htm",
+        "date": "2026-11-27",
+        "summary": "据报道 (IT之家), after a leak of roughly 209GB of Grand Theft Auto VI game files, independent developers worldwide are racing to port the console build to PC, with one porting effort reportedly reaching 91.3% completion and some play sessions unlocking 60FPS in certain scenes. This is community/unofficial activity, not an official Rockstar PC release, and details are unconfirmed beyond the report.",
+        "section": 3,
+        "source_tier": "other (IT之家)"
+      },
+      "members": [
+        {
+          "title": "Fans race to port leaked 209GB GTA 6 PC build, with some reporting 60FPS unlocked in parts",
+          "url": "https://www.ithome.com/1/033/173.htm",
+          "date": "2026-11-27",
+          "summary": "据报道 (IT之家), after a leak of roughly 209GB of Grand Theft Auto VI game files, independent developers worldwide are racing to port the console build to PC, with one porting effort reportedly reaching 91.3% completion and some play sessions unlocking 60FPS in certain scenes. This is community/unofficial activity, not an official Rockstar PC release, and details are unconfirmed beyond the report.",
+          "section": 3,
+          "source_tier": "other (IT之家)"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

@@ -1,0 +1,13 @@
+**[新闻 2] Epic Games 确认 Unreal Engine 6 将不包含 Blueprints 与 Actor 框架，并用AI将《堡垒之夜》迁移到 Verse**
+- **日期：** 2026-11-23
+- **来源链接：** <https://www.gamedeveloper.com/production/epic-games-no-longer-plans-to-include-blueprints-or-actor-gameplay-framework-in-unreal-engine-6>
+- **核心事实：**
+  - Epic Games 确认 Unreal Engine 6 将不会包含其可视化脚本系统 Blueprints，也不会包含 Actor Gameplay Framework，此举推翻了此前"两套系统将与基于新 Verse 语言的框架并存"的计划。
+  - UE6 的玩法编程将改为完全基于 Verse 语言与新的 Scene Graph 系统构建；仍使用 UE5 分支的项目可以继续留在该分支，Epic 表示 UE5 将持续获得支持。
+  - Epic 技术负责人 Marcus Wassmer 表示，AI 能够大幅降低现有项目向新框架迁移的成本，并演示了用AI将《堡垒之夜大逃杀》的 Blueprints 代码转换为约300万行 Verse 代码的可运行原型。
+- **背景与起因：**
+  - 此前 Epic 的公开路线图曾承诺 Blueprints 与 Actor 框架会在 UE6 中与 Verse 新框架共存，以降低现有开发者的迁移门槛；本次属于对该路线图的直接调整。
+  - Epic 将这次AI辅助代码迁移的 Fortnite 实验，定位为未来帮助其他第三方开发者完成同类迁移的工具化基础。
+- **结果与进展：**
+  - 《堡垒之夜大逃杀》的 Verse 转换目前仍是内部原型（约300万行代码），而非已上线的生产版本。
+  - Epic 表示将把这次迁移中积累的经验用于构建面向其他开发者的迁移工具，具体工具发布时间暂未公布。

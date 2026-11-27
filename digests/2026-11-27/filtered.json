@@ -1,0 +1,673 @@
+{
+  "as_of": "2026-11-27",
+  "cutoff": "2026-11-20",
+  "window_days": 7,
+  "summary": {
+    "input_items": 28,
+    "denied_source": 0,
+    "in_window": 28,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 22,
+    "duplicate_clusters": 6,
+    "section1_count": 8,
+    "section2_count": 14,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": true,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 14,
+    "previously_covered_count": 8
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Ubisoft misses H1 forecast, discloses new 'Motherbrain' generative-AI subsidiary",
+        "url": "https://www.gamedeveloper.com/business/ubisoft-misses-forecast-and-bets-big-on-ai-development",
+        "date": "2026-11-20",
+        "summary": "In its first-half FY2026-27 earnings report, Ubisoft reported a 16.5% year-over-year drop in net bookings to €644.7 million and a €323.9 million operating cash-flow loss, and lowered its Q3 outlook, sending shares down 11%. Alongside the miss, Ubisoft disclosed that it has spun its 'Teammates' AI prototype team into Motherbrain, a dedicated subsidiary building proprietary generative-AI technology for gameplay and 'smart NPCs,' positioning AI development as central to its turnaround.",
+        "section": 1,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Ubisoft misses H1 forecast, discloses new 'Motherbrain' generative-AI subsidiary",
+          "url": "https://www.gamedeveloper.com/business/ubisoft-misses-forecast-and-bets-big-on-ai-development",
+          "date": "2026-11-20",
+          "summary": "In its first-half FY2026-27 earnings report, Ubisoft reported a 16.5% year-over-year drop in net bookings to €644.7 million and a €323.9 million operating cash-flow loss, and lowered its Q3 outlook, sending shares down 11%. Alongside the miss, Ubisoft disclosed that it has spun its 'Teammates' AI prototype team into Motherbrain, a dedicated subsidiary building proprietary generative-AI technology for gameplay and 'smart NPCs,' positioning AI development as central to its turnaround.",
+          "section": 1,
+          "source_tier": "2"
+        },
+        {
+          "title": "Ubisoft misses first-half forecast, launches AI subsidiary Motherbrain",
+          "url": "https://www.gamedeveloper.com/business/ubisoft-misses-forecast-and-bets-big-on-ai-development",
+          "date": "2026-11-20",
+          "summary": "Ubisoft reported first-half FY2026-27 net bookings down 16.5% year-over-year to €644.7 million and a €323.9 million negative operating cash flow, and cut its Q3 outlook to about €250 million citing a crowded holiday season; shares fell 11% on the news and are down 42% for 2026. Alongside the results, Ubisoft announced Motherbrain, a new AI subsidiary grown out of its Teammates generative-AI prototype, focused on middleware AI and \"smart NPCs\" for its other studios.",
+          "section": 1,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Ubisoft denies mandating generative AI after report developers must justify not using it",
+        "url": "https://www.videogameschronicle.com/news/ubisoft-denies-requiring-developers-to-use-generative-ai/",
+        "date": "2026-11-26",
+        "summary": "Vertical Slice reported (via VGC, Nov 25) that Ubisoft developers pitching new games are being asked to explain how they will use generative AI and to justify not using it. Ubisoft told VGC (Nov 26) it has no company-wide AI mandate, though it encourages teams to explore where AI can help, following its new Motherbrain generative-AI subsidiary and recent layoffs.",
+        "section": 1,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Ubisoft denies mandating generative AI after report developers must justify not using it",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-denies-requiring-developers-to-use-generative-ai/",
+          "date": "2026-11-26",
+          "summary": "Vertical Slice reported (via VGC, Nov 25) that Ubisoft developers pitching new games are being asked to explain how they will use generative AI and to justify not using it. Ubisoft told VGC (Nov 26) it has no company-wide AI mandate, though it encourages teams to explore where AI can help, following its new Motherbrain generative-AI subsidiary and recent layoffs.",
+          "section": 1,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Epic Games confirms Blueprints and Actor framework won't ship in Unreal Engine 6; AI used to convert Fortnite to Verse",
+        "url": "https://www.gamedeveloper.com/production/epic-games-no-longer-plans-to-include-blueprints-or-actor-gameplay-framework-in-unreal-engine-6",
+        "date": "2026-11-23",
+        "summary": "Epic Games confirmed it will not include Blueprints, its visual scripting system, or the Actor Gameplay Framework in Unreal Engine 6, reversing an earlier plan for the two systems to coexist with the new Verse-based framework at launch; gameplay programming will instead be built on Verse and a new Scene Graph system. Epic's Marcus Wassmer said AI can substantially cut the cost of migrating existing projects and demonstrated this by using AI to convert Fortnite Battle Royale's Blueprints into a working prototype of roughly 3 million lines of Verse code, work the company says will inform migration tooling for other developers; projects can otherwise remain on the UE5 line, which continues to receive support.",
+        "section": 1,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Epic Games confirms Blueprints and Actor framework won't ship in Unreal Engine 6; AI used to convert Fortnite to Verse",
+          "url": "https://www.gamedeveloper.com/production/epic-games-no-longer-plans-to-include-blueprints-or-actor-gameplay-framework-in-unreal-engine-6",
+          "date": "2026-11-23",
+          "summary": "Epic Games confirmed it will not include Blueprints, its visual scripting system, or the Actor Gameplay Framework in Unreal Engine 6, reversing an earlier plan for the two systems to coexist with the new Verse-based framework at launch; gameplay programming will instead be built on Verse and a new Scene Graph system. Epic's Marcus Wassmer said AI can substantially cut the cost of migrating existing projects and demonstrated this by using AI to convert Fortnite Battle Royale's Blueprints into a working prototype of roughly 3 million lines of Verse code, work the company says will inform migration tooling for other developers; projects can otherwise remain on the UE5 line, which continues to receive support.",
+          "section": 1,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Take-Two and Rockstar move to shut down AI 'vibe-coded' PC ports of GTA 6",
+        "url": "https://kotaku.com/attempts-to-vibe-code-pc-ports-of-gta-6-are-being-shut-down-but-it-might-be-too-late-to-put-the-genie-back-in-the-bottle-2001000396",
+        "date": "2026-11-25",
+        "summary": "After a leaked Xbox Series X executable of GTA 6 circulated online, community members began using AI coding tools (mainly Claude) to build unofficial PC 'recompilation' ports, with the largest effort, Project Leonida, becoming playable at under 5 frames per second. Take-Two and Rockstar had the Project Leonida Discord taken down and had GitHub remove its repository along with all 3,007 forks via DMCA notice, while some streamers continue similar AI-assisted porting attempts on other platforms, an enforcement effort the article frames as a 'chilling warning' about AI tools' potential impact on game IP.",
+        "section": 1,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Take-Two and Rockstar move to shut down AI 'vibe-coded' PC ports of GTA 6",
+          "url": "https://kotaku.com/attempts-to-vibe-code-pc-ports-of-gta-6-are-being-shut-down-but-it-might-be-too-late-to-put-the-genie-back-in-the-bottle-2001000396",
+          "date": "2026-11-25",
+          "summary": "After a leaked Xbox Series X executable of GTA 6 circulated online, community members began using AI coding tools (mainly Claude) to build unofficial PC 'recompilation' ports, with the largest effort, Project Leonida, becoming playable at under 5 frames per second. Take-Two and Rockstar had the Project Leonida Discord taken down and had GitHub remove its repository along with all 3,007 forks via DMCA notice, while some streamers continue similar AI-assisted porting attempts on other platforms, an enforcement effort the article frames as a 'chilling warning' about AI tools' potential impact on game IP.",
+          "section": 1,
+          "source_tier": "2"
+        },
+        {
+          "title": "AI-assisted 'vibe-coded' PC ports of GTA 6 shut down by Rockstar and Take-Two",
+          "url": "https://kotaku.com/attempts-to-vibe-code-pc-ports-of-gta-6-are-being-shut-down-but-it-might-be-too-late-to-put-the-genie-back-in-the-bottle-2001000396",
+          "date": "2026-11-25",
+          "summary": "Community members, including a 15-year-old behind the largest effort, \"Project Leonida,\" have been using AI coding tools, including Anthropic's Claude and Google Antigravity, to attempt unauthorized PC recompilations of GTA 6. At Rockstar and Take-Two's request, Discord took down Project Leonida's server and GitHub issued a DMCA takedown covering more than 3,000 repositories, though a leaked Xbox Series X executable and other community efforts continue, with one tracking site describing playable builds running at under 5 frames per second.",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "NVIDIA debuts Kimodo AI animation model and new RTX dev tools, first integrated into Unreal Engine 5.9",
+        "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/",
+        "date": "2026-11-24",
+        "summary": "NVIDIA announced Kimodo, its new AI animation-generation model, as the first model integrated into Unreal Engine 5.9 Preview's guided-animation framework, letting animators direct character motion via text prompts, spline paths, and keyframe pose targets inside Sequencer. The post also detailed In-Game Inferencing SDK 1.8 (expanded NVIDIA ACE support, RTX Spark hardening, updated llama.cpp/whisper.cpp backends, Parakeet speech recognition), plus RTX Dynamic Illumination 3.2, RTX Path Tracing 1.9, and a new Real-Time BVH Viewer 1.0, alongside a DLSS 5 case study from Gaijin Entertainment's War Thunder.",
+        "section": 1,
+        "source_tier": "1"
+      },
+      "members": [
+        {
+          "title": "NVIDIA debuts Kimodo AI animation model and new RTX dev tools, first integrated into Unreal Engine 5.9",
+          "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/",
+          "date": "2026-11-24",
+          "summary": "NVIDIA announced Kimodo, its new AI animation-generation model, as the first model integrated into Unreal Engine 5.9 Preview's guided-animation framework, letting animators direct character motion via text prompts, spline paths, and keyframe pose targets inside Sequencer. The post also detailed In-Game Inferencing SDK 1.8 (expanded NVIDIA ACE support, RTX Spark hardening, updated llama.cpp/whisper.cpp backends, Parakeet speech recognition), plus RTX Dynamic Illumination 3.2, RTX Path Tracing 1.9, and a new Real-Time BVH Viewer 1.0, alongside a DLSS 5 case study from Gaijin Entertainment's War Thunder.",
+          "section": 1,
+          "source_tier": "1"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Team Ninja (Koei Tecmo) says it uses AI for QA, but creative decisions 'must be done by humans'",
+        "url": "https://kotaku.com/team-ninja-ai-qa-difficulty-nioh-wo-long-koei-temco-capcom-2001000539",
+        "date": "2026-11-26",
+        "summary": "At GCON 2026 in South Korea, Team Ninja producers Kohei Shibata (Nioh) and Masakazu Hirayama (Wo Long) told Inven Global that the Koei Tecmo studio already uses AI for QA and verification tasks to streamline workflows and plans to reinvest the time saved into overall game quality. Shibata said creative decisions must stay with people because 'a game becomes fun when crafted by human hands,' framing AI as suited to repetitive tasks rather than creative ones.",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Team Ninja (Koei Tecmo) says it uses AI for QA, but creative decisions 'must be done by humans'",
+          "url": "https://kotaku.com/team-ninja-ai-qa-difficulty-nioh-wo-long-koei-temco-capcom-2001000539",
+          "date": "2026-11-26",
+          "summary": "At GCON 2026 in South Korea, Team Ninja producers Kohei Shibata (Nioh) and Masakazu Hirayama (Wo Long) told Inven Global that the Koei Tecmo studio already uses AI for QA and verification tasks to streamline workflows and plans to reinvest the time saved into overall game quality. Shibata said creative decisions must stay with people because 'a game becomes fun when crafted by human hands,' framing AI as suited to repetitive tasks rather than creative ones.",
+          "section": 2,
+          "source_tier": "2"
+        },
+        {
+          "title": "Team Ninja says it uses AI for quality assurance, but creative decisions 'must be done by humans'",
+          "url": "https://kotaku.com/team-ninja-ai-qa-difficulty-nioh-wo-long-koei-temco-capcom-2001000539",
+          "date": "2026-11-26",
+          "summary": "Team Ninja producers Kohei Shibata (Nioh series) and Masakazu Hirayama (Wo Long series) said the studio uses AI for quality assurance and other verification tasks to save development time that can be redirected toward polishing games. Shibata said \"deciding how to craft the game and what makes it enjoyable must be done by humans\" and that \"using AI itself should never become the goal,\" adding the studio is still evaluating the best uses for the technology.",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Nicalis pulls AI-generated music from Binding of Isaac: Repentance+ after Steam review-bombing",
+        "url": "https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213",
+        "date": "2026-11-21",
+        "summary": "A free Binding of Isaac: Repentance+ update timed to GTA 6's launch included a Vice City-themed Daily Run whose music was found, via file metadata, to be AI-generated with Suno, prompting backlash that dropped the Steam page to about 9% positive reviews. Creator Edmund McMillen said the GTA-themed idea came from publisher/co-developer Nicalis and that he had no idea generated music was used; Nicalis issued an emergency update removing the AI music but has not otherwise publicly addressed it, and the page had lacked Steam's required AI-content disclosure.",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Nicalis pulls AI-generated music from Binding of Isaac: Repentance+ after Steam review-bombing",
+          "url": "https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213",
+          "date": "2026-11-21",
+          "summary": "A free Binding of Isaac: Repentance+ update timed to GTA 6's launch included a Vice City-themed Daily Run whose music was found, via file metadata, to be AI-generated with Suno, prompting backlash that dropped the Steam page to about 9% positive reviews. Creator Edmund McMillen said the GTA-themed idea came from publisher/co-developer Nicalis and that he had no idea generated music was used; Nicalis issued an emergency update removing the AI music but has not otherwise publicly addressed it, and the page had lacked Steam's required AI-content disclosure.",
+          "section": 2,
+          "source_tier": "2"
+        },
+        {
+          "title": "The Binding of Isaac update review-bombed over AI-generated music in GTA 6-themed mode",
+          "url": "https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213",
+          "date": "2026-11-21",
+          "summary": "A free update to The Binding of Isaac: Repentance+ added a GTA-inspired \"Vice City\" daily-run mode whose music a Reddit user identified as AI-generated via Suno based on file metadata, without the AI disclosure Steam requires. The game's Steam reviews dropped to about 9% positive; creator Edmund McMillen said he hadn't known the music was AI-generated and that the idea came from publisher/co-developer Nicalis, and an emergency patch subsequently removed the AI-generated tracks.",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Atari Homebrew Awards canceled after organizer says AI-made games left 'no path forward'",
+        "url": "https://kotaku.com/atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path-forward-2001000096",
+        "date": "2026-11-24",
+        "summary": "ZeroPage Homebrew canceled the ninth Atari Homebrew Awards, citing a surge of developers releasing multiple AI-assisted games per week that made submissions unmanageable and left no reliable way to verify how much AI was used in a given entry. The organizer wrote that AI marked 'a seismic shift in the way retro games were being made' and said 'I saw no path forward,' while confirming the related ZeroPage Homebrew livestream will continue.",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Atari Homebrew Awards canceled after organizer says AI-made games left 'no path forward'",
+          "url": "https://kotaku.com/atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path-forward-2001000096",
+          "date": "2026-11-24",
+          "summary": "ZeroPage Homebrew canceled the ninth Atari Homebrew Awards, citing a surge of developers releasing multiple AI-assisted games per week that made submissions unmanageable and left no reliable way to verify how much AI was used in a given entry. The organizer wrote that AI marked 'a seismic shift in the way retro games were being made' and said 'I saw no path forward,' while confirming the related ZeroPage Homebrew livestream will continue.",
+          "section": 2,
+          "source_tier": "2"
+        },
+        {
+          "title": "Atari Homebrew Awards canceled after flood of AI-made game submissions",
+          "url": "https://kotaku.com/atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path-forward-2001000096",
+          "date": "2026-11-24",
+          "summary": "Organizer ZeroPage Homebrew suspended the ninth annual Atari Homebrew Awards, saying it reached an impasse on how to qualify and judge entries amid a surge of AI-assisted submissions, with some developers releasing multiple games per week. The group ruled out fully AI-generated games but said partial AI use in music, art or code was difficult to define or verify, and wrote: \"I saw no path forward and made the difficult decision to suspend the Atari Homebrew Awards this year.\"",
+          "section": 1,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Atari's E.T. creator warns AI could trigger a repeat of the 1983 video game crash",
+        "url": "https://kotaku.com/creator-of-infamous-e-t-atari-game-warns-that-ai-could-trigger-another-83-style-crash-2000759257",
+        "date": "2026-11-22",
+        "summary": "Speaking at the DevGAMM conference in Lisbon, Howard Scott Warshaw, programmer of Atari's E.T. and Yar's Revenge, said AI-assisted development could flood the market with low-quality games at a larger scale than the glut that caused the 1983 crash, when Atari's open platform let almost anyone publish. He said the industry needs better filters to surface quality games and that AI could ultimately push developers toward design work it can't easily replicate.",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Atari's E.T. creator warns AI could trigger a repeat of the 1983 video game crash",
+          "url": "https://kotaku.com/creator-of-infamous-e-t-atari-game-warns-that-ai-could-trigger-another-83-style-crash-2000759257",
+          "date": "2026-11-22",
+          "summary": "Speaking at the DevGAMM conference in Lisbon, Howard Scott Warshaw, programmer of Atari's E.T. and Yar's Revenge, said AI-assisted development could flood the market with low-quality games at a larger scale than the glut that caused the 1983 crash, when Atari's open platform let almost anyone publish. He said the industry needs better filters to surface quality games and that AI could ultimately push developers toward design work it can't easily replicate.",
+          "section": 2,
+          "source_tier": "2"
+        },
+        {
+          "title": "E.T. Atari creator warns AI-made games could trigger a new 1983-style industry crash",
+          "url": "https://kotaku.com/creator-of-infamous-e-t-atari-game-warns-that-ai-could-trigger-another-83-style-crash-2000759257",
+          "date": "2026-11-22",
+          "summary": "Speaking at the DevGAMM conference in Lisbon, Howard Scott Warshaw, designer of the notorious 1982 Atari E.T. game often linked to the 1983 video game crash, said a flood of low-quality AI-made games on storefronts like Steam and itch.io echoes the conditions behind that crash and could trigger a similar crisis at a larger scale. He said AI can speed up coding but brings \"sloppiness,\" and called for better filtering tools so legitimate games aren't buried under AI-generated volume.",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 2,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "EA adds AI-recreated voice of late commentator John Motson to EA Sports FC 27",
+        "url": "https://www.ea.com/games/ea-sports-fc/fc-27/news/fc-27-john-motson-tribute",
+        "date": "2026-11-25",
+        "summary": "EA announced that EA Sports FC 27's Title Update v1.3.0, arriving November 26, adds an optional AI-recreated commentary track from John Motson, the series' original commentator who died in February 2023, combining his archive recordings with AI voice recreation trained on them. EA said the tribute was made 'with the blessing and partnership' of Motson's family, who were paid for use of his voice and likeness, and is intended to cover lines he never recorded rather than replace EA's current commentary team.",
+        "section": 2,
+        "source_tier": "1"
+      },
+      "members": [
+        {
+          "title": "EA adds AI-recreated voice of late commentator John Motson to EA Sports FC 27",
+          "url": "https://www.ea.com/games/ea-sports-fc/fc-27/news/fc-27-john-motson-tribute",
+          "date": "2026-11-25",
+          "summary": "EA announced that EA Sports FC 27's Title Update v1.3.0, arriving November 26, adds an optional AI-recreated commentary track from John Motson, the series' original commentator who died in February 2023, combining his archive recordings with AI voice recreation trained on them. EA said the tribute was made 'with the blessing and partnership' of Motson's family, who were paid for use of his voice and likeness, and is intended to cover lines he never recorded rather than replace EA's current commentary team.",
+          "section": 2,
+          "source_tier": "1"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Activision patents machine-learning system to generate NPC audio from players' in-game voice chat",
+        "url": "https://www.gamesindustry.biz/activision-files-patent-for-neural-network-to-train-npcs-from-in-game-voice-chat",
+        "date": "2026-11-23",
+        "summary": "A newly published Activision patent, filed in July, describes a machine-learning system that captures players' in-game voice-chat reactions, links them to gameplay events like kills and deaths, and uses those pairings to train a neural network that generates NPC audio reactions intended to sound less canned than prerecorded voice lines. The filing also suggests potential use outside games, including social apps, though a patent filing does not confirm the technology will ship in any game.",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Activision patents machine-learning system to generate NPC audio from players' in-game voice chat",
+          "url": "https://www.gamesindustry.biz/activision-files-patent-for-neural-network-to-train-npcs-from-in-game-voice-chat",
+          "date": "2026-11-23",
+          "summary": "A newly published Activision patent, filed in July, describes a machine-learning system that captures players' in-game voice-chat reactions, links them to gameplay events like kills and deaths, and uses those pairings to train a neural network that generates NPC audio reactions intended to sound less canned than prerecorded voice lines. The filing also suggests potential use outside games, including social apps, though a patent filing does not confirm the technology will ship in any game.",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Unity adds Asset Store access and AI asset generators to the Unity CLI for coding agents",
+        "url": "https://unity.com/blog/unity-asset-store-ai-generators-coding-agents",
+        "date": "2026-11-23",
+        "summary": "Unity announced an open beta letting AI coding agents (Claude Code, Codex, Grok Build, Google Antigravity) use the Unity CLI to search and download individual Asset Store items or generate new ones, replacing the older full-package import workflow. The update gives access to more than 60 AI models for sprites, 3D models, and sound effects, with each generated asset recording its source model, prompt, and credit cost for traceability; Asset Store access is free, while AI generation draws on a developer's paid-plan credits.",
+        "section": 2,
+        "source_tier": "1"
+      },
+      "members": [
+        {
+          "title": "Unity adds Asset Store access and AI asset generators to the Unity CLI for coding agents",
+          "url": "https://unity.com/blog/unity-asset-store-ai-generators-coding-agents",
+          "date": "2026-11-23",
+          "summary": "Unity announced an open beta letting AI coding agents (Claude Code, Codex, Grok Build, Google Antigravity) use the Unity CLI to search and download individual Asset Store items or generate new ones, replacing the older full-package import workflow. The update gives access to more than 60 AI models for sprites, 3D models, and sound effects, with each generated asset recording its source model, prompt, and credit cost for traceability; Asset Store access is free, while AI generation draws on a developer's paid-plan credits.",
+          "section": 2,
+          "source_tier": "1"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "NVIDIA DLSS 5 with 3D-Guided Neural Rendering arrives in Where Winds Meet",
+        "url": "https://www.nvidia.com/en-us/geforce/news/where-winds-meet-dlss-5-3d-guided-neural-rendering-out-now/",
+        "date": "2026-11-24",
+        "summary": "NVIDIA released DLSS 5 with 3D-Guided Neural Rendering for Where Winds Meet, Everstone Studio's open-world Wuxia RPG that has surpassed 100 million players and a 250,000 concurrent-player peak on Steam, available now on GeForce RTX 50 Series GPUs, RTX Spark systems, and GeForce NOW. The update improves highlight, shadow and subsurface-scattering detail (e.g., candles, foliage), and NVIDIA reports performance up to 700 fps at 1080p on RTX 50 Series when combined with Multi Frame Generation.",
+        "section": 1,
+        "source_tier": "1"
+      },
+      "members": [
+        {
+          "title": "NVIDIA DLSS 5 with 3D-Guided Neural Rendering arrives in Where Winds Meet",
+          "url": "https://www.nvidia.com/en-us/geforce/news/where-winds-meet-dlss-5-3d-guided-neural-rendering-out-now/",
+          "date": "2026-11-24",
+          "summary": "NVIDIA released DLSS 5 with 3D-Guided Neural Rendering for Where Winds Meet, Everstone Studio's open-world Wuxia RPG that has surpassed 100 million players and a 250,000 concurrent-player peak on Steam, available now on GeForce RTX 50 Series GPUs, RTX Spark systems, and GeForce NOW. The update improves highlight, shadow and subsurface-scattering detail (e.g., candles, foliage), and NVIDIA reports performance up to 700 fps at 1080p on RTX 50 Series when combined with Multi Frame Generation.",
+          "section": 1,
+          "source_tier": "1"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Major Chinese game publishers pour money into AI 'comic dramas,' pricing out smaller studios",
+        "url": "http://www.chuapp.com/article/291797.html",
+        "date": "2026-11-27",
+        "summary": "Chinese outlet Chuapp reports that major publishers including Tencent, NetEase and ByteDance are expanding investment in AI-generated \"comic drama\" (漫剧) marketing content, with platforms like Tencent's Huolong offering revenue-share bonuses up to 200% for exclusive content and several firms opening dedicated AI-comic roles or studios. Industry estimates cited put the cost of an 80-episode AI comic drama at roughly RMB 80,000–400,000, which small and mid-size studios say they \"can't afford,\" pushing many toward cheaper AI tools instead; third-party data cited puts China's AI short-drama/comic-drama market at about RMB 22 billion for the first five months of 2026, though over 90% of such projects reportedly fail to break out.",
+        "section": 1,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Major Chinese game publishers pour money into AI 'comic dramas,' pricing out smaller studios",
+          "url": "http://www.chuapp.com/article/291797.html",
+          "date": "2026-11-27",
+          "summary": "Chinese outlet Chuapp reports that major publishers including Tencent, NetEase and ByteDance are expanding investment in AI-generated \"comic drama\" (漫剧) marketing content, with platforms like Tencent's Huolong offering revenue-share bonuses up to 200% for exclusive content and several firms opening dedicated AI-comic roles or studios. Industry estimates cited put the cost of an 80-episode AI comic drama at roughly RMB 80,000–400,000, which small and mid-size studios say they \"can't afford,\" pushing many toward cheaper AI tools instead; third-party data cited puts China's AI short-drama/comic-drama market at about RMB 22 billion for the first five months of 2026, though over 90% of such projects reportedly fail to break out.",
+          "section": 1,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Resident Evil creator Shinji Mikami says he wishes AI would disappear, despite using it as a tool",
+        "url": "https://www.videogameschronicle.com/news/resident-evil-creator-shinji-mikami-says-he-wishes-ai-would-disappear-entirely-but-that-he-experiments-with-it-as-a-tool/",
+        "date": "2026-11-23",
+        "summary": "At a G-STAR 2026 panel in South Korea, Resident Evil creator Shinji Mikami said he wishes AI \"would disappear entirely\" even though he experiments with it as a tool. Shift Up CEO Kim Hyung-tae, on the same panel, said Shift Up adopted a policy of not starting projects with AI after fan backlash over an AI-generated Stellar Blade music video, using AI only for tasks like lighting tests and texture work after artists build the foundation by hand.",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Resident Evil creator Shinji Mikami says he wishes AI would disappear, despite using it as a tool",
+          "url": "https://www.videogameschronicle.com/news/resident-evil-creator-shinji-mikami-says-he-wishes-ai-would-disappear-entirely-but-that-he-experiments-with-it-as-a-tool/",
+          "date": "2026-11-23",
+          "summary": "At a G-STAR 2026 panel in South Korea, Resident Evil creator Shinji Mikami said he wishes AI \"would disappear entirely\" even though he experiments with it as a tool. Shift Up CEO Kim Hyung-tae, on the same panel, said Shift Up adopted a policy of not starting projects with AI after fan backlash over an AI-generated Stellar Blade music video, using AI only for tasks like lighting tests and texture work after artists build the foundation by hand.",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Cyberpunk sim Probably Stolen tops 1 million sales; publisher credits fast launch for outrunning AI clones",
+        "url": "https://www.youxituoluo.com/535090.html",
+        "date": "2026-11-25",
+        "summary": "Publisher TinyBuild says its cyberpunk pawn-shop simulation game Probably Stolen (深空当钺：可能是偷的), developed by Questing Goose Studio, has sold over 1 million copies and drew more than 80,000 concurrent players at launch, about 75% from China. TinyBuild said compressing the gap between its August 3 announcement and October 28 release to under three months, rather than building hype over a long wishlist period, helped limit the window for AI-assisted reverse-engineered clones to appear, after an earlier TinyBuild title was cloned following reverse engineering.",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Cyberpunk sim Probably Stolen tops 1 million sales; publisher credits fast launch for outrunning AI clones",
+          "url": "https://www.youxituoluo.com/535090.html",
+          "date": "2026-11-25",
+          "summary": "Publisher TinyBuild says its cyberpunk pawn-shop simulation game Probably Stolen (深空当钺：可能是偷的), developed by Questing Goose Studio, has sold over 1 million copies and drew more than 80,000 concurrent players at launch, about 75% from China. TinyBuild said compressing the gap between its August 3 announcement and October 28 release to under three months, rather than building hype over a long wishlist period, helped limit the window for AI-assisted reverse-engineered clones to appear, after an earlier TinyBuild title was cloned following reverse engineering.",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Ludo.ai 推出 AI 驱动的 2D 游戏瓦片集生成工具 Tileset Generator",
+        "url": "https://www.pocketgamer.biz/ludoai-launches-ai-powered-tileset-generator-for-2d-game-development/",
+        "date": "2026-11-26",
+        "summary": "游戏开发工具公司 Ludo.ai 发布了 Tileset Generator，可根据文字描述生成俯视角或等距 2D 游戏所需的地形瓦片集，每套包含连接不同地表所需的 16 块边角瓷砖，并支持道路、河流等元素。该工具已可通过 Ludo.ai 平台、CLI、MCP 服务器及 REST API 使用，并提供 Godot 4 和 Tiled 引擎的现成文件。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Ludo.ai 推出 AI 驱动的 2D 游戏瓦片集生成工具 Tileset Generator",
+          "url": "https://www.pocketgamer.biz/ludoai-launches-ai-powered-tileset-generator-for-2d-game-development/",
+          "date": "2026-11-26",
+          "summary": "游戏开发工具公司 Ludo.ai 发布了 Tileset Generator，可根据文字描述生成俯视角或等距 2D 游戏所需的地形瓦片集，每套包含连接不同地表所需的 16 块边角瓷砖，并支持道路、河流等元素。该工具已可通过 Ludo.ai 平台、CLI、MCP 服务器及 REST API 使用，并提供 Godot 4 和 Tiled 引擎的现成文件。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "日本成人视觉小说《Muv-Luv Girls Gaiden》因 AI 翻译拒绝色情内容引发差评",
+        "url": "https://kotaku.com/the-japanese-erotic-visual-novel-thats-filled-with-ais-prudish-refusals-to-translate-explicit-sexual-content-2001000228",
+        "date": "2026-11-25",
+        "summary": "《Muv-Luv》系列衍生作、放置型 RPG《Muv-Luv Girls Gaiden》英文版 Steam 页面中出现大量未经校对的 AI 翻译文本，部分对话直接显示“我无法为色情内容提供翻译”等拒绝提示。开发商 Moedoki 被曝使用未具名的 AI 工具处理部分文本并直接上线，该全年龄版本在 Steam 上收获大量负评，许多玩家指出翻译质量问题。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "日本成人视觉小说《Muv-Luv Girls Gaiden》因 AI 翻译拒绝色情内容引发差评",
+          "url": "https://kotaku.com/the-japanese-erotic-visual-novel-thats-filled-with-ais-prudish-refusals-to-translate-explicit-sexual-content-2001000228",
+          "date": "2026-11-25",
+          "summary": "《Muv-Luv》系列衍生作、放置型 RPG《Muv-Luv Girls Gaiden》英文版 Steam 页面中出现大量未经校对的 AI 翻译文本，部分对话直接显示“我无法为色情内容提供翻译”等拒绝提示。开发商 Moedoki 被曝使用未具名的 AI 工具处理部分文本并直接上线，该全年龄版本在 Steam 上收获大量负评，许多玩家指出翻译质量问题。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "GamesBeat 对谈投资人 Alex Xu：中国文字 AI 游戏与英国 AI 角色创作工作室成新案例",
+        "url": "https://gamesbeat.com/from-chicken-farms-to-ai-games-alex-xu-and-dean-takahashi-on-the-future-of-gaming/",
+        "date": "2026-11-25",
+        "summary": "游戏投资人、MagicFind Ventures 合伙人 Alex Xu（曾领导被腾讯以 14 亿美元收购的 LeYou）在 GamesBeat 访谈中谈及行业对 AI 的分裂态度，举例一款设定在明朝背景的中文文字游戏，其 AI 会出现“遗忘”现象并被设计为游戏机制之一；记者 Dean Takahashi 则提到英国工作室 10Six Games 让玩家用生成式 AI 创建角色的做法，两人均指出不少开发者与玩家仍对 AI 内容持怀疑态度。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "GamesBeat 对谈投资人 Alex Xu：中国文字 AI 游戏与英国 AI 角色创作工作室成新案例",
+          "url": "https://gamesbeat.com/from-chicken-farms-to-ai-games-alex-xu-and-dean-takahashi-on-the-future-of-gaming/",
+          "date": "2026-11-25",
+          "summary": "游戏投资人、MagicFind Ventures 合伙人 Alex Xu（曾领导被腾讯以 14 亿美元收购的 LeYou）在 GamesBeat 访谈中谈及行业对 AI 的分裂态度，举例一款设定在明朝背景的中文文字游戏，其 AI 会出现“遗忘”现象并被设计为游戏机制之一；记者 Dean Takahashi 则提到英国工作室 10Six Games 让玩家用生成式 AI 创建角色的做法，两人均指出不少开发者与玩家仍对 AI 内容持怀疑态度。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Unity CEO 与分析师 Eric Seufert 将在 PGC London 探讨移动游戏 AI 增长机遇",
+        "url": "https://www.pocketgamer.biz/unity-ceo-matt-bromberg-and-eric-seufert-to-talk-ai-discovery-and-growth-at-pgc-london/",
+        "date": "2026-11-24",
+        "summary": "据 PocketGamer.biz 报道，Unity 首席执行官 Matt Bromberg 与 Mobile Dev Memo 创始人 Eric Seufert 将在 2027 年 1 月 18 至 19 日举行的 Pocket Gamer Connects London 大会上同台对谈，session 名为“More Games, More Players: Mobile's AI Growth Opportunity”，聚焦 AI 时代下的游戏发现机制、增长经济模式变化以及工作室应对策略。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "Unity CEO 与分析师 Eric Seufert 将在 PGC London 探讨移动游戏 AI 增长机遇",
+          "url": "https://www.pocketgamer.biz/unity-ceo-matt-bromberg-and-eric-seufert-to-talk-ai-discovery-and-growth-at-pgc-london/",
+          "date": "2026-11-24",
+          "summary": "据 PocketGamer.biz 报道，Unity 首席执行官 Matt Bromberg 与 Mobile Dev Memo 创始人 Eric Seufert 将在 2027 年 1 月 18 至 19 日举行的 Pocket Gamer Connects London 大会上同台对谈，session 名为“More Games, More Players: Mobile's AI Growth Opportunity”，聚焦 AI 时代下的游戏发现机制、增长经济模式变化以及工作室应对策略。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "PocketGamer.biz 10 月手游榜单：AI 语音评分玩法游戏单月下载量达 780 万",
+        "url": "https://www.pocketgamer.biz/october-2026-mobile-game-charts-top-lords-takes-off-tencent-falls-11-and-ai-listens-in/",
+        "date": "2026-11-24",
+        "summary": "PocketGamer.biz 发布的 2026 年 10 月全球手游榜单分析提到，派对游戏《MemeMix Challenge: Funny Party》凭借其 AI 语音评测玩法（AI 会根据玩家模仿的音调、节奏等打分）在 10 月实现快速增长，单月下载量达到约 780 万次。",
+        "section": 2,
+        "source_tier": "2"
+      },
+      "members": [
+        {
+          "title": "PocketGamer.biz 10 月手游榜单：AI 语音评分玩法游戏单月下载量达 780 万",
+          "url": "https://www.pocketgamer.biz/october-2026-mobile-game-charts-top-lords-takes-off-tencent-falls-11-and-ai-listens-in/",
+          "date": "2026-11-24",
+          "summary": "PocketGamer.biz 发布的 2026 年 10 月全球手游榜单分析提到，派对游戏《MemeMix Challenge: Funny Party》凭借其 AI 语音评测玩法（AI 会根据玩家模仿的音调、节奏等打分）在 10 月实现快速增长，单月下载量达到约 780 万次。",
+          "section": 2,
+          "source_tier": "2"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Krafton正式发布自研大语言模型「Raon-1 mini」完整版，性能较预览版显著提升",
+        "url": "https://www.invenglobal.com/articles/29095/krafton-officially-launches-in-house-llm-raon-1-mini",
+        "date": "2026-11-24",
+        "summary": "Krafton于11月24日正式发布自研300亿参数（MoE架构，激活约40亿参数）大语言模型「Raon-1 mini」完整版，该模型从架构设计到训练均为自主研发，采用专有线性注意力技术，并在MultiChallenge、GDPVal、BrowseComp Plus等基准测试中较10月发布的预览版有明显提升，部分指标领先同类MoE基准模型。模型以Apache 2.0协议开源，可用于研究与商业用途，公司计划以此为基础推出更大规模的Raon-1模型及实时全双工语音模型。该模型现已在Hugging Face的Krafton官方账号下可查，模型卡标注的文件检查日期为2026年11月25日，与报道时间互相印证。",
+        "section": 1,
+        "source_tier": 2
+      },
+      "members": [
+        {
+          "title": "Krafton正式发布自研大语言模型「Raon-1 mini」完整版，性能较预览版显著提升",
+          "url": "https://www.invenglobal.com/articles/29095/krafton-officially-launches-in-house-llm-raon-1-mini",
+          "date": "2026-11-24",
+          "summary": "Krafton于11月24日正式发布自研300亿参数（MoE架构，激活约40亿参数）大语言模型「Raon-1 mini」完整版，该模型从架构设计到训练均为自主研发，采用专有线性注意力技术，并在MultiChallenge、GDPVal、BrowseComp Plus等基准测试中较10月发布的预览版有明显提升，部分指标领先同类MoE基准模型。模型以Apache 2.0协议开源，可用于研究与商业用途，公司计划以此为基础推出更大规模的Raon-1模型及实时全双工语音模型。该模型现已在Hugging Face的Krafton官方账号下可查，模型卡标注的文件检查日期为2026年11月25日，与报道时间互相印证。",
+          "section": 1,
+          "source_tier": 2
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [
+    [
+      {
+        "title": "Ubisoft misses H1 forecast, discloses new 'Motherbrain' generative-AI subsidiary",
+        "url": "https://www.gamedeveloper.com/business/ubisoft-misses-forecast-and-bets-big-on-ai-development",
+        "date": "2026-11-20",
+        "summary": "In its first-half FY2026-27 earnings report, Ubisoft reported a 16.5% year-over-year drop in net bookings to €644.7 million and a €323.9 million operating cash-flow loss, and lowered its Q3 outlook, sending shares down 11%. Alongside the miss, Ubisoft disclosed that it has spun its 'Teammates' AI prototype team into Motherbrain, a dedicated subsidiary building proprietary generative-AI technology for gameplay and 'smart NPCs,' positioning AI development as central to its turnaround.",
+        "section": 1,
+        "source_tier": "2"
+      },
+      {
+        "title": "Ubisoft misses first-half forecast, launches AI subsidiary Motherbrain",
+        "url": "https://www.gamedeveloper.com/business/ubisoft-misses-forecast-and-bets-big-on-ai-development",
+        "date": "2026-11-20",
+        "summary": "Ubisoft reported first-half FY2026-27 net bookings down 16.5% year-over-year to €644.7 million and a €323.9 million negative operating cash flow, and cut its Q3 outlook to about €250 million citing a crowded holiday season; shares fell 11% on the news and are down 42% for 2026. Alongside the results, Ubisoft announced Motherbrain, a new AI subsidiary grown out of its Teammates generative-AI prototype, focused on middleware AI and \"smart NPCs\" for its other studios.",
+        "section": 1,
+        "source_tier": "2"
+      }
+    ],
+    [
+      {
+        "title": "Take-Two and Rockstar move to shut down AI 'vibe-coded' PC ports of GTA 6",
+        "url": "https://kotaku.com/attempts-to-vibe-code-pc-ports-of-gta-6-are-being-shut-down-but-it-might-be-too-late-to-put-the-genie-back-in-the-bottle-2001000396",
+        "date": "2026-11-25",
+        "summary": "After a leaked Xbox Series X executable of GTA 6 circulated online, community members began using AI coding tools (mainly Claude) to build unofficial PC 'recompilation' ports, with the largest effort, Project Leonida, becoming playable at under 5 frames per second. Take-Two and Rockstar had the Project Leonida Discord taken down and had GitHub remove its repository along with all 3,007 forks via DMCA notice, while some streamers continue similar AI-assisted porting attempts on other platforms, an enforcement effort the article frames as a 'chilling warning' about AI tools' potential impact on game IP.",
+        "section": 1,
+        "source_tier": "2"
+      },
+      {
+        "title": "AI-assisted 'vibe-coded' PC ports of GTA 6 shut down by Rockstar and Take-Two",
+        "url": "https://kotaku.com/attempts-to-vibe-code-pc-ports-of-gta-6-are-being-shut-down-but-it-might-be-too-late-to-put-the-genie-back-in-the-bottle-2001000396",
+        "date": "2026-11-25",
+        "summary": "Community members, including a 15-year-old behind the largest effort, \"Project Leonida,\" have been using AI coding tools, including Anthropic's Claude and Google Antigravity, to attempt unauthorized PC recompilations of GTA 6. At Rockstar and Take-Two's request, Discord took down Project Leonida's server and GitHub issued a DMCA takedown covering more than 3,000 repositories, though a leaked Xbox Series X executable and other community efforts continue, with one tracking site describing playable builds running at under 5 frames per second.",
+        "section": 2,
+        "source_tier": "2"
+      }
+    ],
+    [
+      {
+        "title": "Team Ninja (Koei Tecmo) says it uses AI for QA, but creative decisions 'must be done by humans'",
+        "url": "https://kotaku.com/team-ninja-ai-qa-difficulty-nioh-wo-long-koei-temco-capcom-2001000539",
+        "date": "2026-11-26",
+        "summary": "At GCON 2026 in South Korea, Team Ninja producers Kohei Shibata (Nioh) and Masakazu Hirayama (Wo Long) told Inven Global that the Koei Tecmo studio already uses AI for QA and verification tasks to streamline workflows and plans to reinvest the time saved into overall game quality. Shibata said creative decisions must stay with people because 'a game becomes fun when crafted by human hands,' framing AI as suited to repetitive tasks rather than creative ones.",
+        "section": 2,
+        "source_tier": "2"
+      },
+      {
+        "title": "Team Ninja says it uses AI for quality assurance, but creative decisions 'must be done by humans'",
+        "url": "https://kotaku.com/team-ninja-ai-qa-difficulty-nioh-wo-long-koei-temco-capcom-2001000539",
+        "date": "2026-11-26",
+        "summary": "Team Ninja producers Kohei Shibata (Nioh series) and Masakazu Hirayama (Wo Long series) said the studio uses AI for quality assurance and other verification tasks to save development time that can be redirected toward polishing games. Shibata said \"deciding how to craft the game and what makes it enjoyable must be done by humans\" and that \"using AI itself should never become the goal,\" adding the studio is still evaluating the best uses for the technology.",
+        "section": 2,
+        "source_tier": "2"
+      }
+    ],
+    [
+      {
+        "title": "Nicalis pulls AI-generated music from Binding of Isaac: Repentance+ after Steam review-bombing",
+        "url": "https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213",
+        "date": "2026-11-21",
+        "summary": "A free Binding of Isaac: Repentance+ update timed to GTA 6's launch included a Vice City-themed Daily Run whose music was found, via file metadata, to be AI-generated with Suno, prompting backlash that dropped the Steam page to about 9% positive reviews. Creator Edmund McMillen said the GTA-themed idea came from publisher/co-developer Nicalis and that he had no idea generated music was used; Nicalis issued an emergency update removing the AI music but has not otherwise publicly addressed it, and the page had lacked Steam's required AI-content disclosure.",
+        "section": 2,
+        "source_tier": "2"
+      },
+      {
+        "title": "The Binding of Isaac update review-bombed over AI-generated music in GTA 6-themed mode",
+        "url": "https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213",
+        "date": "2026-11-21",
+        "summary": "A free update to The Binding of Isaac: Repentance+ added a GTA-inspired \"Vice City\" daily-run mode whose music a Reddit user identified as AI-generated via Suno based on file metadata, without the AI disclosure Steam requires. The game's Steam reviews dropped to about 9% positive; creator Edmund McMillen said he hadn't known the music was AI-generated and that the idea came from publisher/co-developer Nicalis, and an emergency patch subsequently removed the AI-generated tracks.",
+        "section": 2,
+        "source_tier": "2"
+      }
+    ],
+    [
+      {
+        "title": "Atari Homebrew Awards canceled after organizer says AI-made games left 'no path forward'",
+        "url": "https://kotaku.com/atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path-forward-2001000096",
+        "date": "2026-11-24",
+        "summary": "ZeroPage Homebrew canceled the ninth Atari Homebrew Awards, citing a surge of developers releasing multiple AI-assisted games per week that made submissions unmanageable and left no reliable way to verify how much AI was used in a given entry. The organizer wrote that AI marked 'a seismic shift in the way retro games were being made' and said 'I saw no path forward,' while confirming the related ZeroPage Homebrew livestream will continue.",
+        "section": 2,
+        "source_tier": "2"
+      },
+      {
+        "title": "Atari Homebrew Awards canceled after flood of AI-made game submissions",
+        "url": "https://kotaku.com/atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path-forward-2001000096",
+        "date": "2026-11-24",
+        "summary": "Organizer ZeroPage Homebrew suspended the ninth annual Atari Homebrew Awards, saying it reached an impasse on how to qualify and judge entries amid a surge of AI-assisted submissions, with some developers releasing multiple games per week. The group ruled out fully AI-generated games but said partial AI use in music, art or code was difficult to define or verify, and wrote: \"I saw no path forward and made the difficult decision to suspend the Atari Homebrew Awards this year.\"",
+        "section": 1,
+        "source_tier": "2"
+      }
+    ],
+    [
+      {
+        "title": "Atari's E.T. creator warns AI could trigger a repeat of the 1983 video game crash",
+        "url": "https://kotaku.com/creator-of-infamous-e-t-atari-game-warns-that-ai-could-trigger-another-83-style-crash-2000759257",
+        "date": "2026-11-22",
+        "summary": "Speaking at the DevGAMM conference in Lisbon, Howard Scott Warshaw, programmer of Atari's E.T. and Yar's Revenge, said AI-assisted development could flood the market with low-quality games at a larger scale than the glut that caused the 1983 crash, when Atari's open platform let almost anyone publish. He said the industry needs better filters to surface quality games and that AI could ultimately push developers toward design work it can't easily replicate.",
+        "section": 2,
+        "source_tier": "2"
+      },
+      {
+        "title": "E.T. Atari creator warns AI-made games could trigger a new 1983-style industry crash",
+        "url": "https://kotaku.com/creator-of-infamous-e-t-atari-game-warns-that-ai-could-trigger-another-83-style-crash-2000759257",
+        "date": "2026-11-22",
+        "summary": "Speaking at the DevGAMM conference in Lisbon, Howard Scott Warshaw, designer of the notorious 1982 Atari E.T. game often linked to the 1983 video game crash, said a flood of low-quality AI-made games on storefronts like Steam and itch.io echoes the conditions behind that crash and could trigger a similar crisis at a larger scale. He said AI can speed up coding but brings \"sloppiness,\" and called for better filtering tools so legitimate games aren't buried under AI-generated volume.",
+        "section": 2,
+        "source_tier": "2"
+      }
+    ]
+  ],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

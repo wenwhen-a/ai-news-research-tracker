@@ -1,0 +1,13 @@
+**[新闻 3] Take-Two 与 Rockstar 出手打击AI"vibe-coded"GTA 6 PC移植项目**
+- **日期：** 2026-11-25
+- **来源链接：** <https://kotaku.com/attempts-to-vibe-code-pc-ports-of-gta-6-are-being-shut-down-but-it-might-be-too-late-to-put-the-genie-back-in-the-bottle-2001000396>
+- **核心事实：**
+  - 一份泄露的 Xbox Series X 版《GTA 6》可执行文件在网上流传后，社区成员开始使用AI编程工具（主要是 Claude）尝试构建非官方PC"重编译"移植版本，其中规模最大的项目 Project Leonida 已能以不足5帧/秒的速度运行。
+  - Take-Two 与 Rockstar 已促使 Project Leonida 所用的 Discord 服务器被关闭，并通过 DMCA 通知要求 GitHub 下架其代码仓库及全部3007个复刻（fork）。
+  - 尽管主项目被下架，仍有部分主播在其他平台继续尝试类似的AI辅助移植工作。
+- **背景与起因：**
+  - 事件源于《GTA 6》主机版可执行文件遭泄露，而AI编程工具的普及让此前需要专业逆向工程团队才能完成的"移植"工作，变得普通玩家社区也能尝试。
+  - Kotaku 将此事定性为AI编程工具对游戏知识产权保护构成潜在冲击的"警示信号"。
+- **结果与进展：**
+  - Project Leonida 的 Discord 与 GitHub 仓库（含全部复刻）已被下架/关闭，但文章指出由于技术已扩散，后续类似尝试可能难以被完全遏制。
+  - 截至报道时，暂无关于 Take-Two／Rockstar 是否会采取进一步法律行动的官方说明。

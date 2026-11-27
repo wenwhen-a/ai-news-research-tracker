@@ -1,0 +1,11 @@
+**[新闻 5] Krafton 正式发布自研大语言模型「Raon-1 mini」完整版，性能较预览版显著提升**
+- **日期：** 2026-11-24
+- **来源链接：** <https://www.invenglobal.com/articles/29095/krafton-officially-launches-in-house-llm-raon-1-mini>
+- **核心事实：**
+  - 《PUBG》开发商 Krafton 于11月24日正式发布自研大语言模型「Raon-1 mini」完整版，该模型采用MoE（混合专家）架构，总参数约300亿、激活参数约40亿，从架构设计到训练均为自主研发，并使用了专有的线性注意力技术。
+  - 相比10月发布的预览版，完整版在 MultiChallenge、GDPVal、BrowseComp Plus 等基准测试中的表现有明显提升，部分指标领先同类规模的MoE基准模型。
+  - 该模型以 Apache 2.0 协议开源，允许用于研究与商业用途，目前已在 Hugging Face 的 Krafton 官方账号下公开。
+- **背景与起因：**
+  - Krafton 此前已发布 Raon-1 mini 预览版，完整版发布是对预览阶段反馈与基准测试结果的迭代优化。
+- **结果与进展：**
+  - Krafton 表示将以 Raon-1 mini 为基础，推出规模更大的 Raon-1 模型，并计划开发实时全双工语音模型；具体发布时间尚未公布。

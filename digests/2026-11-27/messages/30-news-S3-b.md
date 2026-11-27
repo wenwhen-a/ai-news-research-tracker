@@ -1,0 +1,7 @@
+- **【财务】PocketGamer.biz解析游戏发行商2026年第三季度直接面向消费者（D2C）收入情况**（2026-11-27）— PocketGamer.biz基于各公司财报数据，发布分析文章，披露主要游戏发行商在2026年第三季度绕过应用商店分成、直接从消费者处获得的收入规模。 <https://www.pocketgamer.biz/revealed-how-much-direct-to-consumer-revenue-games-publishers-really-made-in-q3-2026/>
+- **【技术】《War World Heroes》完成逾1亿玩家账号合并并重构匹配系统**（2026-11-26）— PocketGamer.biz详细报道了手游射击游戏《World War Heroes》开发商如何完成跨地区逾1亿玩家账号的合并，并借此契机对匹配系统进行了重构升级。 <https://www.pocketgamer.biz/how-world-war-heroes-merged-100m-player-accounts-and-reshaped-matchmaking/>
+- **《空洞骑士：丝之歌》免费扩展内容"Sea of Sorrow"定档12月11日上线**（2026-11-27）— 开发商Team Cherry宣布，《空洞骑士：丝之歌》的免费扩展内容"Sea of Sorrow"将于2026年12月11日上线，为这款热门作品新增内容。 <https://www.gematsu.com/2026/11/hollow-knight-silksong-free-expansion-sea-of-sorrow-launches-december-11>
+- **【电竞】中国队伍LVG以3-2战胜对手，晋级CS2 PGL Major新加坡站第二阶段**（2026-11-27）— 据IT之家报道，中国《反恐精英2》战队LVG在PGL Major Singapore 2026赛事中以3-2的比分击败对手，成功晋级赛事第二阶段。 <https://www.ithome.com/1/033/535.htm>
+- **【据报道】索尼申请新专利，设想在手柄上加入可切换画质/帧率模式的按键**（2026-11-27）— 据IT之家报道，索尼为PlayStation手柄申请了一项新专利，设想加入一个专用按键，供玩家在游戏运行时直接切换"画质优先"与"帧率优先（性能）"模式；该功能是否会实际商用尚无法确认。 <https://www.ithome.com/1/033/351.htm>
+- **【据报道】AMD推出新Vulkan扩展技术，宣称可将光线追踪游戏显存占用降低最多约92%**（2026-11-27）— 据IT之家报道，AMD发布一项基于Vulkan的新技术，旨在降低开启光线追踪的游戏的显存占用，部分场景下宣称可实现最多约92%的显存节省。 <https://www.ithome.com/1/033/178.htm>
+- **【据报道】209GB《GTA 6》泄露PC版文件外流后，玩家社区竞相推进非官方移植，部分场景解锁60帧**（2026-11-27）— 据IT之家报道，在约209GB的《GTA 6》游戏文件泄露后，全球独立开发者正竞相将主机版内容移植至PC，其中一项移植工作据称已完成91.3%，部分场景的试玩画面显示已解锁60帧；这属于社区自发的非官方行为，并非Rockstar官方PC版发布，细节未经进一步证实。 <https://www.ithome.com/1/033/173.htm>
