@@ -1,0 +1,2 @@
+- **《漫威争锋》联动K-pop翻唱曲目，为《复仇者联盟：毁灭日》主题赛季预热**（2026-11-28）— NetEase旗下《漫威争锋》继《守望先锋》先例，推出角色Luna Snow的K-pop联动翻唱曲目，为即将到来的《复仇者联盟：毁灭日》主题赛季内容造势。 <https://www.gamesradar.com/games/third-person-shooter/marvel-rivals-takes-another-page-from-overwatchs-playbook-this-time-with-a-k-pop-collab-promoting-its-avengers-doomsday-season/>
+- **独立新作《主播的小号迷宫》公布，2027年1月29日登陆PC**（2026-11-27）— 独立游戏《The Streamer's Alt Account Labyrinth》公布，将于2027年1月29日率先登陆PC，Switch版随后跟进。 <https://www.gematsu.com/2026/11/the-streamers-alt-account-labyrinth-launches-january-29-2027-for-pc-later-for-switch>

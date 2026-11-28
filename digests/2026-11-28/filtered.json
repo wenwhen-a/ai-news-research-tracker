@@ -1,0 +1,354 @@
+{
+  "as_of": "2026-11-28",
+  "cutoff": "2026-11-21",
+  "window_days": 7,
+  "summary": {
+    "input_items": 9,
+    "denied_source": 0,
+    "in_window": 9,
+    "out_of_window": 0,
+    "invalid_date": 0,
+    "unique_after_dedup": 9,
+    "duplicate_clusters": 0,
+    "section1_count": 4,
+    "section2_count": 5,
+    "section3_count": 0,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 0,
+    "previously_covered_count": 9
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "Ubisoft被曝要求团队为「不使用生成式AI」给出理由，公司随后否认强制要求",
+        "url": "https://www.videogameschronicle.com/news/ubisoft-is-reportedly-requiring-developers-to-justify-not-using-generative-ai/",
+        "secondary_url": "https://kotaku.com/ubisoft-ceo-ai-psychosis-slop-tech-yves-guillemot-assassins-creed-2001000601",
+        "date": "2026-11-26",
+        "section": 1,
+        "outlet": "videogameschronicle.com",
+        "facts_cn": [
+          "行业媒体Vertical Slice（Chris Kerr）11月25日报道，多名匿名Ubisoft在职员工称，公司在立项阶段要求团队说明将如何使用生成式AI，若团队不打算使用AI则必须给出理由",
+          "员工称这并非正式强制政策，但表示管理层态度已让大家'感觉被逼到墙角'，并认为生成式AI'不可避免'",
+          "员工将这一趋势归因于CEO Yves Guillemot，称其'已把公司前途押在这项技术上'，公司内部弥漫关于AI的'自上而下的焦虑'",
+          "报道同时提到Ubisoft 10月底为生成式AI软件项目注册了商标'Motherbrain'，该项目此前已于11月19日随财报正式确认为独立子公司",
+          "Ubisoft 11月26日通过官方声明回应，否认存在'公司层面强制使用生成式AI'的规定，称是鼓励团队在有价值的地方'探索'AI，决定权留给具体项目组",
+          "官方声明未直接否认'需为不用AI找理由'这一具体说法，匿名员工此前还提到裁员潮期间几乎每隔几周就有同事离职欢送会"
+        ],
+        "background_cn": [
+          "Ubisoft近期财报表现不及预期，同时推进组织重组、裁员及项目削减，11月19日的财报沟通中已确认成立名为Motherbrain的生成式AI专属子公司，由资深高管Xavier Manzanares领导，技术源自此前的Teammates AI实验项目",
+          "游戏行业近一年围绕生成式AI的使用持续引发开发者与玩家的争议，包括多家欧洲游戏工会近期联合发表声明警告'不受约束地使用AI'的风险"
+        ],
+        "results_cn": [
+          "Ubisoft官方于11月26日发布声明回应报道，强调'项目并不被要求使用生成式AI'，试图平息争议",
+          "报道发布后在开发者和玩家社群中引发广泛讨论，但Ubisoft尚未就'团队需为不用AI提供理由'的具体指控作出直接回应"
+        ]
+      },
+      "members": [
+        {
+          "title": "Ubisoft被曝要求团队为「不使用生成式AI」给出理由，公司随后否认强制要求",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-is-reportedly-requiring-developers-to-justify-not-using-generative-ai/",
+          "secondary_url": "https://kotaku.com/ubisoft-ceo-ai-psychosis-slop-tech-yves-guillemot-assassins-creed-2001000601",
+          "date": "2026-11-26",
+          "section": 1,
+          "outlet": "videogameschronicle.com",
+          "facts_cn": [
+            "行业媒体Vertical Slice（Chris Kerr）11月25日报道，多名匿名Ubisoft在职员工称，公司在立项阶段要求团队说明将如何使用生成式AI，若团队不打算使用AI则必须给出理由",
+            "员工称这并非正式强制政策，但表示管理层态度已让大家'感觉被逼到墙角'，并认为生成式AI'不可避免'",
+            "员工将这一趋势归因于CEO Yves Guillemot，称其'已把公司前途押在这项技术上'，公司内部弥漫关于AI的'自上而下的焦虑'",
+            "报道同时提到Ubisoft 10月底为生成式AI软件项目注册了商标'Motherbrain'，该项目此前已于11月19日随财报正式确认为独立子公司",
+            "Ubisoft 11月26日通过官方声明回应，否认存在'公司层面强制使用生成式AI'的规定，称是鼓励团队在有价值的地方'探索'AI，决定权留给具体项目组",
+            "官方声明未直接否认'需为不用AI找理由'这一具体说法，匿名员工此前还提到裁员潮期间几乎每隔几周就有同事离职欢送会"
+          ],
+          "background_cn": [
+            "Ubisoft近期财报表现不及预期，同时推进组织重组、裁员及项目削减，11月19日的财报沟通中已确认成立名为Motherbrain的生成式AI专属子公司，由资深高管Xavier Manzanares领导，技术源自此前的Teammates AI实验项目",
+            "游戏行业近一年围绕生成式AI的使用持续引发开发者与玩家的争议，包括多家欧洲游戏工会近期联合发表声明警告'不受约束地使用AI'的风险"
+          ],
+          "results_cn": [
+            "Ubisoft官方于11月26日发布声明回应报道，强调'项目并不被要求使用生成式AI'，试图平息争议",
+            "报道发布后在开发者和玩家社群中引发广泛讨论，但Ubisoft尚未就'团队需为不用AI提供理由'的具体指控作出直接回应"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Epic Games官方确认《Unreal Engine 6》将彻底移除Blueprints可视化脚本，全面转向AI驱动的Verse架构",
+        "url": "https://www.gamedeveloper.com/programming/unreal-engine-6-to-remove-blueprints-and-actor-gameplay-framework-from-the-beginning",
+        "secondary_url": "https://www.pocketgamer.biz/epic-games-to-drop-blueprints-from-unreal-engine-6-as-ai-reshapes-migration-plans/",
+        "date": "2026-11-23",
+        "section": 1,
+        "outlet": "gamedeveloper.com",
+        "facts_cn": [
+          "Epic Games确认《Unreal Engine 6》将不再包含Blueprints可视化脚本系统及Actor Gameplay Framework（C++游戏框架），这一决定推翻了今年6月提出的'早期版本保留、后续逐步淘汰'方案",
+          "UE6的玩法编程将改为基于Verse专有编程语言与全新的Scene Graph（场景图）层级系统构建",
+          "Epic技术负责人Marcus Wassmer表示，AI能力的进展让公司认为可以大幅降低UE5项目迁移到UE6的成本与复杂度，甚至有望实现接近全自动的迁移，这也是舍弃Blueprints的主要原因",
+          "Epic透露已用AI将《Fortnite》大逃杀模式的Blueprints代码转换为Verse，移植超过2万个Blueprint后得到一个约300万行Verse代码的可运行原型",
+          "仍在使用Blueprints的工作室受到影响，《Clair Obscur: Expedition 33》开发商Sandfall曾表示该作95%由Blueprints搭建；前Valve编剧Chet Faliszek表态其团队将继续留在UE5",
+          "Epic表示UE5仍会持续更新，愿意留在UE5的开发者不受影响；UE6相关的AI工具（扩展的Python脚本、MCP改进、浏览器端运行目标、用于生成资产的Unreal Canvas等）已率先在UE 5.9 MegaJam预览版中提供"
+        ],
+        "background_cn": [
+          "Epic CEO Tim Sweeney此前已在11月3日东京Unreal Fest 2026上透露这一方向调整，称这是'痛苦的改变'并向社区致歉，此次是Epic以官方说明形式正式确认细节",
+          "Epic近期持续推进'AI优先'的引擎开发模式，此前已称UE 5.9预览版是首个主要由AI代理参与构建的Unreal Engine版本"
+        ],
+        "results_cn": [
+          "消息公布后，Unreal Engine官方论坛上出现大量开发者反对声音，担心失去Blueprints会让非程序员及独立开发者难以上手，部分人认为这会把创作主导权进一步转移给基于提示词的AI工具",
+          "Epic表示UE6 Early Access计划于2027年底推出，项目迁移将伴随AI辅助转换工具，但具体格式尚未确定"
+        ]
+      },
+      "members": [
+        {
+          "title": "Epic Games官方确认《Unreal Engine 6》将彻底移除Blueprints可视化脚本，全面转向AI驱动的Verse架构",
+          "url": "https://www.gamedeveloper.com/programming/unreal-engine-6-to-remove-blueprints-and-actor-gameplay-framework-from-the-beginning",
+          "secondary_url": "https://www.pocketgamer.biz/epic-games-to-drop-blueprints-from-unreal-engine-6-as-ai-reshapes-migration-plans/",
+          "date": "2026-11-23",
+          "section": 1,
+          "outlet": "gamedeveloper.com",
+          "facts_cn": [
+            "Epic Games确认《Unreal Engine 6》将不再包含Blueprints可视化脚本系统及Actor Gameplay Framework（C++游戏框架），这一决定推翻了今年6月提出的'早期版本保留、后续逐步淘汰'方案",
+            "UE6的玩法编程将改为基于Verse专有编程语言与全新的Scene Graph（场景图）层级系统构建",
+            "Epic技术负责人Marcus Wassmer表示，AI能力的进展让公司认为可以大幅降低UE5项目迁移到UE6的成本与复杂度，甚至有望实现接近全自动的迁移，这也是舍弃Blueprints的主要原因",
+            "Epic透露已用AI将《Fortnite》大逃杀模式的Blueprints代码转换为Verse，移植超过2万个Blueprint后得到一个约300万行Verse代码的可运行原型",
+            "仍在使用Blueprints的工作室受到影响，《Clair Obscur: Expedition 33》开发商Sandfall曾表示该作95%由Blueprints搭建；前Valve编剧Chet Faliszek表态其团队将继续留在UE5",
+            "Epic表示UE5仍会持续更新，愿意留在UE5的开发者不受影响；UE6相关的AI工具（扩展的Python脚本、MCP改进、浏览器端运行目标、用于生成资产的Unreal Canvas等）已率先在UE 5.9 MegaJam预览版中提供"
+          ],
+          "background_cn": [
+            "Epic CEO Tim Sweeney此前已在11月3日东京Unreal Fest 2026上透露这一方向调整，称这是'痛苦的改变'并向社区致歉，此次是Epic以官方说明形式正式确认细节",
+            "Epic近期持续推进'AI优先'的引擎开发模式，此前已称UE 5.9预览版是首个主要由AI代理参与构建的Unreal Engine版本"
+          ],
+          "results_cn": [
+            "消息公布后，Unreal Engine官方论坛上出现大量开发者反对声音，担心失去Blueprints会让非程序员及独立开发者难以上手，部分人认为这会把创作主导权进一步转移给基于提示词的AI工具",
+            "Epic表示UE6 Early Access计划于2027年底推出，项目迁移将伴随AI辅助转换工具，但具体格式尚未确定"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "玩家用Claude、Antigravity等AI编程工具\"氛围编程\"移植《GTA 6》PC版，Take-Two发DMCA强制下架相关项目",
+        "url": "https://kotaku.com/attempts-to-vibe-code-pc-ports-of-gta-6-are-being-shut-down-but-it-might-be-too-late-to-put-the-genie-back-in-the-bottle-2001000396",
+        "date": "2026-11-25",
+        "section": 1,
+        "outlet": "kotaku.com",
+        "facts_cn": [
+          "在《GTA 6》Xbox Series X可执行文件被泄露后，部分玩家社群开始尝试用Anthropic Claude、Google Antigravity等AI编程工具'氛围编程'（vibe coding），试图在官方PC版发布前自制移植版本",
+          "最大规模的社区项目Project Leonida进展可通过第三方追踪网站PortWatch VI查看，据报道其重新编译的版本帧率一度低于每秒5帧，开发过程常被直播，很大程度上只是不断向AI下达'继续'指令",
+          "Take-Two与Rockstar Games已要求Discord关停Project Leonida的服务器，该项目15岁的主导者据称账号被禁两年",
+          "Take-Two同时向GitHub提交DMCA下架通知，要求移除Project Leonida主仓库，GitHub的处理范围覆盖了该代码网络下全部3007个相关仓库",
+          "报道指出此类重新编译项目存在法律灰色地带，因其仍需要玩家持有正版游戏文件才能运行，但泄露的可执行文件使情况复杂化"
+        ],
+        "background_cn": [
+          "《GTA 6》此前历经多次泄露，自8月起代号Cyberleek的泄密者持续放出游戏内容，本次事件源于其进一步公开了Xbox Series X版可执行文件",
+          "生成式AI编程工具近年被广泛应用于代码移植与逆向工程场景，引发游戏发行商对知识产权被规避保护机制绕过的担忧"
+        ],
+        "results_cn": [
+          "Take-Two与Rockstar已成功通过平台举报机制下架主要社区项目的Discord服务器及GitHub代码仓库",
+          "报道认为执法效果有限，形容这更像一场'打地鼠'游戏，不公开进展的项目可能更容易逃避监管并最终完成移植，预计类似尝试仍会持续出现"
+        ]
+      },
+      "members": [
+        {
+          "title": "玩家用Claude、Antigravity等AI编程工具\"氛围编程\"移植《GTA 6》PC版，Take-Two发DMCA强制下架相关项目",
+          "url": "https://kotaku.com/attempts-to-vibe-code-pc-ports-of-gta-6-are-being-shut-down-but-it-might-be-too-late-to-put-the-genie-back-in-the-bottle-2001000396",
+          "date": "2026-11-25",
+          "section": 1,
+          "outlet": "kotaku.com",
+          "facts_cn": [
+            "在《GTA 6》Xbox Series X可执行文件被泄露后，部分玩家社群开始尝试用Anthropic Claude、Google Antigravity等AI编程工具'氛围编程'（vibe coding），试图在官方PC版发布前自制移植版本",
+            "最大规模的社区项目Project Leonida进展可通过第三方追踪网站PortWatch VI查看，据报道其重新编译的版本帧率一度低于每秒5帧，开发过程常被直播，很大程度上只是不断向AI下达'继续'指令",
+            "Take-Two与Rockstar Games已要求Discord关停Project Leonida的服务器，该项目15岁的主导者据称账号被禁两年",
+            "Take-Two同时向GitHub提交DMCA下架通知，要求移除Project Leonida主仓库，GitHub的处理范围覆盖了该代码网络下全部3007个相关仓库",
+            "报道指出此类重新编译项目存在法律灰色地带，因其仍需要玩家持有正版游戏文件才能运行，但泄露的可执行文件使情况复杂化"
+          ],
+          "background_cn": [
+            "《GTA 6》此前历经多次泄露，自8月起代号Cyberleek的泄密者持续放出游戏内容，本次事件源于其进一步公开了Xbox Series X版可执行文件",
+            "生成式AI编程工具近年被广泛应用于代码移植与逆向工程场景，引发游戏发行商对知识产权被规避保护机制绕过的担忧"
+          ],
+          "results_cn": [
+            "Take-Two与Rockstar已成功通过平台举报机制下架主要社区项目的Discord服务器及GitHub代码仓库",
+            "报道认为执法效果有限，形容这更像一场'打地鼠'游戏，不公开进展的项目可能更容易逃避监管并最终完成移植，预计类似尝试仍会持续出现"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Krafton正式发布自研300亿参数大模型Raon-1 mini，开源至Hugging Face",
+        "url": "https://www.invenglobal.com/articles/29095/krafton-officially-launches-in-house-llm-raon-1-mini",
+        "date": "2026-11-24",
+        "section": 1,
+        "outlet": "invenglobal.com",
+        "facts_cn": [
+          "Krafton正式全量发布自研大语言模型Raon-1 mini，公司称其架构设计与训练均为自主完成，此前10月已发布过预览版",
+          "该模型采用总参数约300亿、实际激活约40亿参数的MoE（混合专家）架构，并结合自研的Linear Attention技术，以保持与预览版相近的响应速度和推理效率",
+          "官方公布的基准测试显示：MultiChallenge得分64.9（比预览版提升5.9分），GDPVal得分72.3，BrowseComp Plus得分55.9，后两项据称为同类MoE基线模型中最高",
+          "模型面向推理与智能体（agent）任务执行优化，提供从'直接回答无推理'到'最大推理深度'的六档响应模式，并改善长对话中的指令遵循能力",
+          "Raon-1 mini以Apache 2.0许可证开源至Hugging Face，允许研究、商业服务及产品开发使用，Krafton同时提供在线演示平台和API",
+          "官方表示该模型将作为后续Raon系列产品（包括更大规模的Raon-1本体及实时全双工语音模型）的基础"
+        ],
+        "background_cn": [
+          "Krafton于2026年4月推出Raon品牌，并在今年二季度后持续推进'AI优先'战略，此前在11月的三季度财报沟通中已披露将把Raon-1 mini用于强化PUBG Ally等游戏内AI能力的计划",
+          "Krafton2026年来已设立首席AI官职位并推行全员AI工具使用，同时伴随招聘冻结与自愿离职计划，其AI战略在业内持续引发关于效率提升与裁员压力并存的讨论"
+        ],
+        "results_cn": [
+          "模型已在Hugging Face开源发布并附带在线演示与API，供外部开发者和企业调用",
+          "Krafton将其定位为PUBG Ally等自家游戏AI功能的底层技术基础，后续将推进更大规模模型与语音模型的研发"
+        ]
+      },
+      "members": [
+        {
+          "title": "Krafton正式发布自研300亿参数大模型Raon-1 mini，开源至Hugging Face",
+          "url": "https://www.invenglobal.com/articles/29095/krafton-officially-launches-in-house-llm-raon-1-mini",
+          "date": "2026-11-24",
+          "section": 1,
+          "outlet": "invenglobal.com",
+          "facts_cn": [
+            "Krafton正式全量发布自研大语言模型Raon-1 mini，公司称其架构设计与训练均为自主完成，此前10月已发布过预览版",
+            "该模型采用总参数约300亿、实际激活约40亿参数的MoE（混合专家）架构，并结合自研的Linear Attention技术，以保持与预览版相近的响应速度和推理效率",
+            "官方公布的基准测试显示：MultiChallenge得分64.9（比预览版提升5.9分），GDPVal得分72.3，BrowseComp Plus得分55.9，后两项据称为同类MoE基线模型中最高",
+            "模型面向推理与智能体（agent）任务执行优化，提供从'直接回答无推理'到'最大推理深度'的六档响应模式，并改善长对话中的指令遵循能力",
+            "Raon-1 mini以Apache 2.0许可证开源至Hugging Face，允许研究、商业服务及产品开发使用，Krafton同时提供在线演示平台和API",
+            "官方表示该模型将作为后续Raon系列产品（包括更大规模的Raon-1本体及实时全双工语音模型）的基础"
+          ],
+          "background_cn": [
+            "Krafton于2026年4月推出Raon品牌，并在今年二季度后持续推进'AI优先'战略，此前在11月的三季度财报沟通中已披露将把Raon-1 mini用于强化PUBG Ally等游戏内AI能力的计划",
+            "Krafton2026年来已设立首席AI官职位并推行全员AI工具使用，同时伴随招聘冻结与自愿离职计划，其AI战略在业内持续引发关于效率提升与裁员压力并存的讨论"
+          ],
+          "results_cn": [
+            "模型已在Hugging Face开源发布并附带在线演示与API，供外部开发者和企业调用",
+            "Krafton将其定位为PUBG Ally等自家游戏AI功能的底层技术基础，后续将推进更大规模模型与语音模型的研发"
+          ]
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "美国Atari同人游戏大奖因AI作品泛滥无法甄别而宣布暂停举办",
+        "url": "https://kotaku.com/atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path-forward-2001000096",
+        "date": "2026-11-24",
+        "section": 2,
+        "outlet": "kotaku.com",
+        "summary_cn": "已举办八年的Atari Homebrew Awards同人游戏评选活动主办方ZeroPage Homebrew宣布，2026年度评选将暂停举行。主办方称今年报名作品中AI辅助开发游戏数量激增，自己难以判断音乐、美术、代码中AI介入的合理界限，也缺乏可靠手段核实开发者的AI使用披露是否属实，称'看不到继续举办的出路'。该事件被视为AI生成内容冲击独立游戏评选与分发生态的又一案例。"
+      },
+      "members": [
+        {
+          "title": "美国Atari同人游戏大奖因AI作品泛滥无法甄别而宣布暂停举办",
+          "url": "https://kotaku.com/atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path-forward-2001000096",
+          "date": "2026-11-24",
+          "section": 2,
+          "outlet": "kotaku.com",
+          "summary_cn": "已举办八年的Atari Homebrew Awards同人游戏评选活动主办方ZeroPage Homebrew宣布，2026年度评选将暂停举行。主办方称今年报名作品中AI辅助开发游戏数量激增，自己难以判断音乐、美术、代码中AI介入的合理界限，也缺乏可靠手段核实开发者的AI使用披露是否属实，称'看不到继续举办的出路'。该事件被视为AI生成内容冲击独立游戏评选与分发生态的又一案例。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《E.T.》经典烂游戏程序员警告：AI可能引发游戏业又一次'1983式大崩溃'",
+        "url": "https://kotaku.com/creator-of-infamous-e-t-atari-game-warns-that-ai-could-trigger-another-83-style-crash-2000759257",
+        "date": "2026-11-22",
+        "section": 2,
+        "outlet": "kotaku.com",
+        "summary_cn": "1982年雅达利《E.T.外星人》程序员Howard Scott Warshaw在里斯本DevGAMM大会上表示，当年行业大崩溃的根源是任何人都能发行劣质游戏导致的供给过剩，AI正以更大规模重演这一局面。他并不反对AI本身，承认AI能加快开发速度，但强调速度带来的是粗制滥造，呼吁平台建立'更好的过滤机制'筛选低质量AI游戏、凸显真正有创意的作品。报道提到Steam与itch.io（后者已删除超过1TB的AI生成内容）均已意识到该问题的严重性。"
+      },
+      "members": [
+        {
+          "title": "《E.T.》经典烂游戏程序员警告：AI可能引发游戏业又一次'1983式大崩溃'",
+          "url": "https://kotaku.com/creator-of-infamous-e-t-atari-game-warns-that-ai-could-trigger-another-83-style-crash-2000759257",
+          "date": "2026-11-22",
+          "section": 2,
+          "outlet": "kotaku.com",
+          "summary_cn": "1982年雅达利《E.T.外星人》程序员Howard Scott Warshaw在里斯本DevGAMM大会上表示，当年行业大崩溃的根源是任何人都能发行劣质游戏导致的供给过剩，AI正以更大规模重演这一局面。他并不反对AI本身，承认AI能加快开发速度，但强调速度带来的是粗制滥造，呼吁平台建立'更好的过滤机制'筛选低质量AI游戏、凸显真正有创意的作品。报道提到Steam与itch.io（后者已删除超过1TB的AI生成内容）均已意识到该问题的严重性。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《以撒的结合》GTA联动模式被曝使用AI生成音乐未披露，遭玩家刷差评后紧急下架整改",
+        "url": "https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213",
+        "date": "2026-11-21",
+        "section": 2,
+        "outlet": "kotaku.com",
+        "summary_cn": "《The Binding of Isaac: Repentance+》与《GTA 6》同周上线的免费联动模式中，玩家发现其中14首音乐文件（含7首完整曲目）带有AI音乐生成工具Suno的元数据痕迹，且Steam商店页面未按规定披露AI内容使用情况，事件曝光后游戏Steam评价跌至约9%好评。开发者Edmund McMillen在X上回应称自己对此毫不知情，正在调查音乐来源并将其移除；联合开发与发行方Nicalis尚未就此作出解释。McMillen随后通过紧急更新移除了涉事AI音乐。"
+      },
+      "members": [
+        {
+          "title": "《以撒的结合》GTA联动模式被曝使用AI生成音乐未披露，遭玩家刷差评后紧急下架整改",
+          "url": "https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213",
+          "date": "2026-11-21",
+          "section": 2,
+          "outlet": "kotaku.com",
+          "summary_cn": "《The Binding of Isaac: Repentance+》与《GTA 6》同周上线的免费联动模式中，玩家发现其中14首音乐文件（含7首完整曲目）带有AI音乐生成工具Suno的元数据痕迹，且Steam商店页面未按规定披露AI内容使用情况，事件曝光后游戏Steam评价跌至约9%好评。开发者Edmund McMillen在X上回应称自己对此毫不知情，正在调查音乐来源并将其移除；联合开发与发行方Nicalis尚未就此作出解释。McMillen随后通过紧急更新移除了涉事AI音乐。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "Team Ninja制作人：《仁王》系列用AI辅助QA测试提效，但游戏'是否好玩'仍须由人把关",
+        "url": "https://kotaku.com/team-ninja-ai-qa-difficulty-nioh-wo-long-koei-temco-capcom-2001000539",
+        "date": "2026-11-26",
+        "section": 2,
+        "outlet": "kotaku.com",
+        "summary_cn": "在韩国G-STAR 2026同期的G-CON大会上，Team Ninja《仁王》系列制作人柴田浩平与《卧龙》制作人平山雅且表示，工作室将AI用于质量保证（QA）与各类验证性工作以提升流程效率，节省的时间被投入到提升游戏整体质量上。两人强调AI更适合处理重复、简单的任务，而'如何打造游戏、什么让游戏好玩'这类核心判断必须由人来完成，并称'使用AI本身绝不应成为目的'。"
+      },
+      "members": [
+        {
+          "title": "Team Ninja制作人：《仁王》系列用AI辅助QA测试提效，但游戏'是否好玩'仍须由人把关",
+          "url": "https://kotaku.com/team-ninja-ai-qa-difficulty-nioh-wo-long-koei-temco-capcom-2001000539",
+          "date": "2026-11-26",
+          "section": 2,
+          "outlet": "kotaku.com",
+          "summary_cn": "在韩国G-STAR 2026同期的G-CON大会上，Team Ninja《仁王》系列制作人柴田浩平与《卧龙》制作人平山雅且表示，工作室将AI用于质量保证（QA）与各类验证性工作以提升流程效率，节省的时间被投入到提升游戏整体质量上。两人强调AI更适合处理重复、简单的任务，而'如何打造游戏、什么让游戏好玩'这类核心判断必须由人来完成，并称'使用AI本身绝不应成为目的'。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "《鬼武者》系列创始人三上真司：希望AI彻底消失，但承认自己日常也在用AI工具辅助美术预览",
+        "url": "https://www.videogameschronicle.com/news/resident-evil-creator-shinji-mikami-says-he-wishes-ai-would-disappear-entirely-but-that-he-experiments-with-it-as-a-tool/",
+        "secondary_url": "https://kotaku.com/resident-evil-shinji-mikami-ai-kim-hyung-tae-job-losses-stellar-blade-2000759397",
+        "date": "2026-11-23",
+        "section": 2,
+        "outlet": "videogameschronicle.com",
+        "summary_cn": "《生化危机》系列创作者三上真司在韩国G-STAR 2026 G-CON大会上与Shift Up CEO金亨泰对谈时表示，他希望AI技术能够彻底消失，但同时承认自己仍在用AI辅助工作流程：先手绘2D原画，再用AI预览3D效果，确认满意后才交给建模师，以避免建模师耗时一个月却与原画设想不符的问题。他将AI视为帮助创作者实现构想的工具，但担忧五到十年内核心创作工作可能不再由人类主导，导致开发者失业。"
+      },
+      "members": [
+        {
+          "title": "《鬼武者》系列创始人三上真司：希望AI彻底消失，但承认自己日常也在用AI工具辅助美术预览",
+          "url": "https://www.videogameschronicle.com/news/resident-evil-creator-shinji-mikami-says-he-wishes-ai-would-disappear-entirely-but-that-he-experiments-with-it-as-a-tool/",
+          "secondary_url": "https://kotaku.com/resident-evil-shinji-mikami-ai-kim-hyung-tae-job-losses-stellar-blade-2000759397",
+          "date": "2026-11-23",
+          "section": 2,
+          "outlet": "videogameschronicle.com",
+          "summary_cn": "《生化危机》系列创作者三上真司在韩国G-STAR 2026 G-CON大会上与Shift Up CEO金亨泰对谈时表示，他希望AI技术能够彻底消失，但同时承认自己仍在用AI辅助工作流程：先手绘2D原画，再用AI预览3D效果，确认满意后才交给建模师，以避免建模师耗时一个月却与原画设想不符的问题。他将AI视为帮助创作者实现构想的工具，但担忧五到十年内核心创作工作可能不再由人类主导，导致开发者失业。"
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}

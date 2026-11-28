@@ -1,0 +1,299 @@
+{
+  "as_of": "2026-11-28",
+  "cutoff": "2026-11-27",
+  "window_days": 1,
+  "summary": {
+    "input_items": 14,
+    "denied_source": 0,
+    "in_window": 9,
+    "out_of_window": 5,
+    "invalid_date": 0,
+    "unique_after_dedup": 9,
+    "duplicate_clusters": 0,
+    "section1_count": 0,
+    "section2_count": 0,
+    "section3_count": 9,
+    "unclassified_count": 0,
+    "section1_floor": 5,
+    "section2_floor": 20,
+    "section3_target": 10,
+    "section1_floor_met": false,
+    "section2_floor_met": false,
+    "section3_target_met": false,
+    "new_vs_previous": 8,
+    "previously_covered_count": 1
+  },
+  "unique_items": [
+    {
+      "representative": {
+        "title": "《空洞骑士》开发商Team Cherry成立发行品牌，一次性公布三款合作新游",
+        "url": "https://www.gematsu.com/2026/11/team-cherry-presents-and-rohan-fraser-announce-mystery-puzzle-adventure-game-blokkan-secret-of-the-walking-city-for-pc",
+        "date": "2026-11-27",
+        "section": 3,
+        "outlet": "gematsu.com",
+        "summary_cn": "Team Cherry以全新发行品牌「Team Cherry Presents」在「Cherry Time!」直播中公布三款合作新作：与Rohan Fraser合作的解谜冒险《Blokkan: Secret of the Walking City》、与Makoto Koji合作的《The Botanist and the Translator》，以及与Studio Stobie合作的平台冒险《Radio Rain》，均登陆PC。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "《空洞骑士》开发商Team Cherry成立发行品牌，一次性公布三款合作新游",
+          "url": "https://www.gematsu.com/2026/11/team-cherry-presents-and-rohan-fraser-announce-mystery-puzzle-adventure-game-blokkan-secret-of-the-walking-city-for-pc",
+          "date": "2026-11-27",
+          "section": 3,
+          "outlet": "gematsu.com",
+          "summary_cn": "Team Cherry以全新发行品牌「Team Cherry Presents」在「Cherry Time!」直播中公布三款合作新作：与Rohan Fraser合作的解谜冒险《Blokkan: Secret of the Walking City》、与Makoto Koji合作的《The Botanist and the Translator》，以及与Studio Stobie合作的平台冒险《Radio Rain》，均登陆PC。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《影之诠：虚实回响》（The Eminence in Shadow: Phantom Echoes）公布，2027年5月13日发售",
+        "url": "https://www.gematsu.com/2026/11/the-eminence-in-shadow-phantom-echoes-launches-may-13-2027",
+        "date": "2026-11-28",
+        "section": 3,
+        "outlet": "gematsu.com",
+        "summary_cn": "基于轻小说IP《影之诠》的新作《The Eminence in Shadow: Phantom Echoes》正式公布，确定于2027年5月13日发售。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "《影之诠：虚实回响》（The Eminence in Shadow: Phantom Echoes）公布，2027年5月13日发售",
+          "url": "https://www.gematsu.com/2026/11/the-eminence-in-shadow-phantom-echoes-launches-may-13-2027",
+          "date": "2026-11-28",
+          "section": 3,
+          "outlet": "gematsu.com",
+          "summary_cn": "基于轻小说IP《影之诠》的新作《The Eminence in Shadow: Phantom Echoes》正式公布，确定于2027年5月13日发售。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": true
+    },
+    {
+      "representative": {
+        "title": "独立新作《主播的小号迷宫》公布，2027年1月29日登陆PC",
+        "url": "https://www.gematsu.com/2026/11/the-streamers-alt-account-labyrinth-launches-january-29-2027-for-pc-later-for-switch",
+        "date": "2026-11-27",
+        "section": 3,
+        "outlet": "gematsu.com",
+        "summary_cn": "独立游戏《The Streamer's Alt Account Labyrinth》公布，将于2027年1月29日率先登陆PC，Switch版随后跟进。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "独立新作《主播的小号迷宫》公布，2027年1月29日登陆PC",
+          "url": "https://www.gematsu.com/2026/11/the-streamers-alt-account-labyrinth-launches-january-29-2027-for-pc-later-for-switch",
+          "date": "2026-11-27",
+          "section": 3,
+          "outlet": "gematsu.com",
+          "summary_cn": "独立游戏《The Streamer's Alt Account Labyrinth》公布，将于2027年1月29日率先登陆PC，Switch版随后跟进。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "游戏行业女性大使计划（Women in Games Ambassador Programme）成立十周年，成员近2800人",
+        "url": "https://www.pocketgamer.biz/women-in-games-marks-10-years-of-its-ambassador-programme-with-2800-members/",
+        "date": "2026-11-27",
+        "section": 3,
+        "outlet": "pocketgamer.biz",
+        "summary_cn": "Women in Games个人大使计划成立十周年，成员规模已从最初43人增长至覆盖100个国家、约2800人，年度报告显示过去一年新增498名来自71个国家的大使。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "游戏行业女性大使计划（Women in Games Ambassador Programme）成立十周年，成员近2800人",
+          "url": "https://www.pocketgamer.biz/women-in-games-marks-10-years-of-its-ambassador-programme-with-2800-members/",
+          "date": "2026-11-27",
+          "section": 3,
+          "outlet": "pocketgamer.biz",
+          "summary_cn": "Women in Games个人大使计划成立十周年，成员规模已从最初43人增长至覆盖100个国家、约2800人，年度报告显示过去一年新增498名来自71个国家的大使。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "据分析机构估算，《GTA6》累计销量已超4490万份",
+        "url": "https://www.chuapp.com/article/291796.html",
+        "date": "2026-11-28",
+        "section": 3,
+        "outlet": "chuapp.com",
+        "summary_cn": "据触乐报道，分析机构Alinea Analytics估算截至11月22日《GTA6》累计销量已超过4490万份（PS5占75.1%、Xbox占24.9%），四日总收入超40亿美元，当日在线玩家超4080万人；此前Take-Two官方披露预购量为3250万份、零售销售额37.9亿美元。",
+        "unconfirmed": true
+      },
+      "members": [
+        {
+          "title": "据分析机构估算，《GTA6》累计销量已超4490万份",
+          "url": "https://www.chuapp.com/article/291796.html",
+          "date": "2026-11-28",
+          "section": 3,
+          "outlet": "chuapp.com",
+          "summary_cn": "据触乐报道，分析机构Alinea Analytics估算截至11月22日《GTA6》累计销量已超过4490万份（PS5占75.1%、Xbox占24.9%），四日总收入超40亿美元，当日在线玩家超4080万人；此前Take-Two官方披露预购量为3250万份、零售销售额37.9亿美元。",
+          "unconfirmed": true
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "EA滑板游戏《Skate》取消赛季制与赛季通行证，转为更灵活的常态化内容更新",
+        "url": "https://www.pcgamer.com/games/sports/skate-is-dropping-seasons-and-season-passes-in-favor-of-regular-agile-content-updates/",
+        "date": "2026-11-28",
+        "section": 3,
+        "outlet": "pcgamer.com",
+        "summary_cn": "开发商Full Circle宣布《Skate》将放弃原有的赛季制与赛季通行证模式，转向更频繁、更灵活的常态化内容更新，以更快响应玩家反馈。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "EA滑板游戏《Skate》取消赛季制与赛季通行证，转为更灵活的常态化内容更新",
+          "url": "https://www.pcgamer.com/games/sports/skate-is-dropping-seasons-and-season-passes-in-favor-of-regular-agile-content-updates/",
+          "date": "2026-11-28",
+          "section": 3,
+          "outlet": "pcgamer.com",
+          "summary_cn": "开发商Full Circle宣布《Skate》将放弃原有的赛季制与赛季通行证模式，转向更频繁、更灵活的常态化内容更新，以更快响应玩家反馈。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "Rockstar编剧Rob Nelson：团队曾一度怀疑《GTA6》永远不会发售",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/even-gta-6-devs-felt-like-the-day-would-never-come-that-it-launches-rockstars-rob-nelson-says-it-feels-surreal/",
+        "date": "2026-11-28",
+        "section": 3,
+        "outlet": "gamesradar.com",
+        "summary_cn": "Rockstar编剧Rob Nelson回忆称，开发团队内部曾觉得《GTA6》发售的这一天「永远不会到来」，如今游戏真正上市让他感到「不真实」。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "Rockstar编剧Rob Nelson：团队曾一度怀疑《GTA6》永远不会发售",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/even-gta-6-devs-felt-like-the-day-would-never-come-that-it-launches-rockstars-rob-nelson-says-it-feels-surreal/",
+          "date": "2026-11-28",
+          "section": 3,
+          "outlet": "gamesradar.com",
+          "summary_cn": "Rockstar编剧Rob Nelson回忆称，开发团队内部曾觉得《GTA6》发售的这一天「永远不会到来」，如今游戏真正上市让他感到「不真实」。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《漫威争锋》联动K-pop翻唱曲目，为《复仇者联盟：毁灭日》主题赛季预热",
+        "url": "https://www.gamesradar.com/games/third-person-shooter/marvel-rivals-takes-another-page-from-overwatchs-playbook-this-time-with-a-k-pop-collab-promoting-its-avengers-doomsday-season/",
+        "date": "2026-11-28",
+        "section": 3,
+        "outlet": "gamesradar.com",
+        "summary_cn": "NetEase旗下《漫威争锋》继《守望先锋》先例，推出角色Luna Snow的K-pop联动翻唱曲目，为即将到来的《复仇者联盟：毁灭日》主题赛季内容造势。",
+        "unconfirmed": false
+      },
+      "members": [
+        {
+          "title": "《漫威争锋》联动K-pop翻唱曲目，为《复仇者联盟：毁灭日》主题赛季预热",
+          "url": "https://www.gamesradar.com/games/third-person-shooter/marvel-rivals-takes-another-page-from-overwatchs-playbook-this-time-with-a-k-pop-collab-promoting-its-avengers-doomsday-season/",
+          "date": "2026-11-28",
+          "section": 3,
+          "outlet": "gamesradar.com",
+          "summary_cn": "NetEase旗下《漫威争锋》继《守望先锋》先例，推出角色Luna Snow的K-pop联动翻唱曲目，为即将到来的《复仇者联盟：毁灭日》主题赛季内容造势。",
+          "unconfirmed": false
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    },
+    {
+      "representative": {
+        "title": "《Warframe》新资料片「Tau」在开发直播中公布，规模堪比正统续作，定档12月上线",
+        "url": "https://www.eurogamer.net/warframe-tau-dev-stream-december-9th",
+        "date": "2026-11-28",
+        "section": 3,
+        "outlet": "eurogamer.net",
+        "summary_cn": "据Eurogamer报道，开发商Digital Extremes在最新开发直播中透露《Warframe》新资料片「Tau」体量堪比一部正统续作，将新增星图区域并永久解锁多套Prime系列机甲，预计12月上线。",
+        "unconfirmed": true
+      },
+      "members": [
+        {
+          "title": "《Warframe》新资料片「Tau」在开发直播中公布，规模堪比正统续作，定档12月上线",
+          "url": "https://www.eurogamer.net/warframe-tau-dev-stream-december-9th",
+          "date": "2026-11-28",
+          "section": 3,
+          "outlet": "eurogamer.net",
+          "summary_cn": "据Eurogamer报道，开发商Digital Extremes在最新开发直播中透露《Warframe》新资料片「Tau」体量堪比一部正统续作，将新增星图区域并永久解锁多套Prime系列机甲，预计12月上线。",
+          "unconfirmed": true
+        }
+      ],
+      "duplicate_count": 1,
+      "previously_covered": false
+    }
+  ],
+  "duplicate_groups": [],
+  "dropped_out_of_window": [
+    {
+      "title": "欧洲多国市场：《GTA6》实体版（内附下载码）仍打破销售纪录",
+      "url": "https://www.videogameschronicle.com/news/despite-being-a-code-in-a-box-gta-6s-physical-release-broke-sales-records/",
+      "date": "2026-11-26",
+      "section": 3,
+      "outlet": "videogameschronicle.com",
+      "summary_cn": "据The Game Business数据，《GTA6》实体版（内含下载码而非光盘）在英国首三日收入3200万英镑，为2019年以来最大实体游戏首发；该作在西班牙成为该国史上最成功实体游戏发行，法国三日内卖出100万份实体拷贝。",
+      "unconfirmed": false,
+      "_date_parsed": "2026-11-26"
+    },
+    {
+      "title": "育碧在诉讼中为《碧海黑帆》「四A游戏」说法辩护，称其属主观宣传用语",
+      "url": "https://www.videogameschronicle.com/news/ubisoft-defends-calling-skull-bones-a-quadruple-a-game-in-lawsuit/",
+      "date": "2026-11-26",
+      "section": 3,
+      "outlet": "videogameschronicle.com",
+      "summary_cn": "一名购买并玩过《碧海黑帆》的律师起诉育碧，称CEO Yves Guillemot将该作称为「四A」游戏误导消费者多付费；育碧律师回应称该说法属于主观夸大的「经典吹捧」，无法被证伪，且原告未指出任何可证实为虚假的具体陈述。",
+      "unconfirmed": false,
+      "_date_parsed": "2026-11-26"
+    },
+    {
+      "title": "PlayStation之父久多良木健：自己「暗中促成」微软制造Xbox",
+      "url": "https://www.videogameschronicle.com/news/playstation-father-ken-kutaragi-claims-he-secretly-intended-to-convince-microsoft-to-make-xbox/",
+      "date": "2026-11-26",
+      "section": 3,
+      "outlet": "videogameschronicle.com",
+      "summary_cn": "据报道，PlayStation之父久多良木健在采访中回忆称，他当年其实「暗中打算」说服微软进入主机市场、推出Xbox，为这段游戏行业历史提供了新说法。",
+      "unconfirmed": true,
+      "_date_parsed": "2026-11-26"
+    },
+    {
+      "title": "分析称《GTA6》登陆初代Xbox One是「了不起的技术成就」",
+      "url": "https://www.videogameschronicle.com/news/gta-6-on-xbox-one-is-a-remarkable-feat-according-to-analysis/",
+      "date": "2026-11-26",
+      "section": 3,
+      "outlet": "videogameschronicle.com",
+      "summary_cn": "技术分析指出，Rockstar让《GTA6》在已发售十余年的初代Xbox One上运行堪称「了不起的技术成就」，凸显该作跨代优化的工程难度。",
+      "unconfirmed": false,
+      "_date_parsed": "2026-11-26"
+    },
+    {
+      "title": "吟游悬疑RPG《Heart and Harmony》（现名Between Strings）夺得PGC蒙特利尔独立游戏竞赛冠军",
+      "url": "https://www.pocketgamer.biz/bardic-mystery-rpg-heart-and-harmony-wins-the-big-indie-pitch-at-pgc-montreal-2026/",
+      "date": "2026-11-26",
+      "section": 3,
+      "outlet": "pocketgamer.biz",
+      "summary_cn": "Fableware工作室的吟游悬疑RPG《Heart and Harmony》（现改名为《Between Strings》）在Pocket Gamer Connects蒙特利尔站的Big Indie Pitch比赛中夺冠，击败《Impostor Syndrome》《ROSETIA》等共12支参赛独立团队。",
+      "unconfirmed": false,
+      "_date_parsed": "2026-11-26"
+    }
+  ],
+  "dropped_invalid_date": [],
+  "dropped_denied_source": []
+}
